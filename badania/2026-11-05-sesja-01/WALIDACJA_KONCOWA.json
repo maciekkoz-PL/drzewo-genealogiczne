@@ -1,11 +1,11 @@
 {
-  "access_utc": "2026-11-05T12:31:40.892372+00:00",
+  "access_utc": "2026-11-05T13:06:27.475188+00:00",
   "status": "PASS",
   "errors": [],
   "notes": [],
   "initial_workbook_sheets": 16,
   "current_workbook_sheets": 21,
-  "sources": 81,
+  "sources": 82,
   "candidate_and_alias_records": 32,
   "person_ids": [
     "P01",
@@ -24,10 +24,10 @@
   "relations": 15,
   "open_hypotheses": 12,
   "resolved_hypotheses": 3,
-  "source_files_in_manifest": 233,
+  "source_files_in_manifest": 236,
   "validated_jpegs": 112,
   "original_archive_sha256": "dee505614ae68d51ed55b5df834a7895281ec476575e1d6417725e9bf3317340",
-  "current_workbook_sha256": "2009a678db533676df31b9b8e29aac20a43d6de031da7eec60bbc56693a7ed76",
+  "current_workbook_sha256": "d0f642b582eab499825b9fca48710a0546869fe3b652a72730e2d5a5240db1d5",
   "original_archive_crc": "OK",
   "files": [
     {
@@ -295,6 +295,27 @@
       "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186.jpg",
       "matches": [
         "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186.jpg"
+      ]
+    },
+    {
+      "id": "F38",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_formularz_urodzenia.docx",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_formularz_urodzenia.docx"
+      ]
+    },
+    {
+      "id": "F39",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_KA-01137.html",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_KA-01137.html"
+      ]
+    },
+    {
+      "id": "F40",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S047_gov_odpis_PESEL_opcjonalny.html",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S047_gov_odpis_PESEL_opcjonalny.html"
       ]
     }
   ],

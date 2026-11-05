@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn387353view0】 [wordlim: 200] Source: click({\"ref_id\":\"turn660583view0\",\"id\":2}); \nFailed to fetch https://lckm.uml.lodz.pl/sites/default/files/procedura/USC_W_wniosek_odpis_aktu_urodzenia_220205_7.docx: (400) Unsupported content-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://lckm.uml.lodz.pl/sites/default/files/procedura/USC_W_wniosek_odpis_aktu_urodzenia_220205_7.docx",
+    "final_url": "https://lckm.uml.lodz.pl/sites/default/files/procedura/USC_W_wniosek_odpis_aktu_urodzenia_220205_7.docx",
+    "status": 200,
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "path": "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_formularz_urodzenia.docx",
+    "size": 28372,
+    "sha256": "36aa24d2ba32421253bad288b0f6c809438d1fbf163698c44414cdf209dae328",
+    "downloaded_utc": "2026-11-05T13:01:36.418067+00:00"
+  },
+  {
+    "url": "https://lckm.uml.lodz.pl/procedura/KA-01137",
+    "final_url": "https://lckm.uml.lodz.pl/procedura/KA-01137",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_KA-01137.html",
+    "size": 89435,
+    "sha256": "107c3747c1677a9ffa7a3a7db2a320081f788435e19a21de3e284a2945eef7bc",
+    "downloaded_utc": "2026-11-05T13:01:38.481719+00:00"
+  },
+  {
+    "url": "https://www.gov.pl/web/gov/uzyskaj-odpis-aktu-stanu-cywilnego-urodzenia-malzenstwa-zgonu",
+    "final_url": "https://www.gov.pl/web/gov/uzyskaj-odpis-aktu-stanu-cywilnego-urodzenia-malzenstwa-zgonu",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "path": "badania/2026-11-05-sesja-01/zrodla/S047_gov_odpis_PESEL_opcjonalny.html",
+    "size": 51929,
+    "sha256": "83c07ec955190a4efa8d795b6e70794f81942fb3ea0a1c10abd69e15ef36937e",
+    "downloaded_utc": "2026-11-05T13:01:41.068590+00:00"
+  }
+]

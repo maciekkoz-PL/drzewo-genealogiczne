@@ -1,3 +1,5 @@
+**Uzupełnienie odpowiedzi użytkownika:** rodzina nie ma dokumentu Bogusława z danymi rodziców; PESEL ojca jest nieznany, a wymóg wystąpił w formularzu online. Sprawdzono drogę osobistą/listowną i przygotowano niewysłany szkic: [S082](badania/2026-11-05-sesja-01/S082_USC_bez_PESEL.md). Nie traktować braku PESEL jako zamknięcia drogi do aktu.
+
 # DRZEWO GENEALOGICZNE MARYSI — KOMPLETNY PAKIET PRZEKAZANIA AGENTOWI
 
 > **Najnowsze polecenie użytkownika — obowiązuje przed priorytetami historycznymi poniżej:** wstrzymać dalsze badania gałęzi Czesława i Janiny do potwierdzenia, że są rodzicami Bogusława. Aktywne pozostaje wyłącznie ustalenie rodziców Bogusława na podstawie jego dokumentu. Przeczytaj [RODZICE_BOGUSLAWA_PRIORYTET.md](RODZICE_BOGUSLAWA_PRIORYTET.md) oraz aktualny plan. Nie wznawiać kwerend tej gałęzi na podstawie dawnej tabeli priorytetów.

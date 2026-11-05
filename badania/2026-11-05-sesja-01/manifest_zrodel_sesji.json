@@ -400,6 +400,11 @@
     "sha256": "1837ad6432f74239dff31ce4acd4de0e4ca8fee533e47763e8f7807ea6acf156"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S047_gov_odpis_PESEL_opcjonalny.html",
+    "size": 51929,
+    "sha256": "83c07ec955190a4efa8d795b6e70794f81942fb3ea0a1c10abd69e15ef36937e"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/S057_katalog_USC_Lodz.json",
     "size": 47033,
     "sha256": "7fff56d2304bfe9440345afb358c73b4d189e8ceaaf62524101edd8502058c22"
@@ -483,6 +488,16 @@
     "path": "badania/2026-11-05-sesja-01/zrodla/S068_Archeion_118_2017.pdf",
     "size": 7908984,
     "sha256": "9095070b4ec003a706bd5c4671083419acaed40f12c042a319f08bfee104b23a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_KA-01137.html",
+    "size": 89435,
+    "sha256": "107c3747c1677a9ffa7a3a7db2a320081f788435e19a21de3e284a2945eef7bc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S082_USC_Lodz_formularz_urodzenia.docx",
+    "size": 28372,
+    "sha256": "36aa24d2ba32421253bad288b0f6c809438d1fbf163698c44414cdf209dae328"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_001.odpowiedz.html",

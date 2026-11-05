@@ -79,10 +79,14 @@ Grobu Tomasza nie poszukiwano ponownie. Trzy fotografie i przekaz o miejscu zach
 
 Na początku przeczytano całą instrukcję, wszystkie 16 arkuszy bazy i wszystkie arkusze 9 historycznych XLSX oraz rozpakowano 22 pliki ZIP; sprawdzono CRC, identyfikatory, odsyłacze, obrazy i kopie dokumentów. Oryginalny ZIP jest niezmieniony. Audyt rozróżniał dostępność HTTP od rzeczywistego odczytu treści. Relacje REL-001–003 były odziedziczonymi streszczeniami przekazu, bez oryginalnych transkrypcji — zapisano ten brak.
 
-Aktualny Excel ma **21 arkuszy,81 źródeł,32 pozycje kandydatów/aliasów,20 osobnych tropów UT**. Dodano oddzielne relacje źródłowe, audyt, hipotezy otwarte i rozstrzygnięte oraz tropy indeksowe. H004 potwierdzono i przeniesiono do rozstrzygniętych, C01 zachowano jako alias. Nie recyklingowano starych znaczeń ID z historycznych arkuszy. R007/R008/R011/R012 pozostają relacjami rodzinnymi.
+Aktualny Excel ma **21 arkuszy,82 źródła,32 pozycje kandydatów/aliasów,20 osobnych tropów UT**. Dodano oddzielne relacje źródłowe, audyt, hipotezy otwarte i rozstrzygnięte oraz tropy indeksowe. H004 potwierdzono i przeniesiono do rozstrzygniętych, C01 zachowano jako alias. Nie recyklingowano starych znaczeń ID z historycznych arkuszy. R007/R008/R011/R012 pozostają relacjami rodzinnymi.
 
 Postęp zapisywano i wysyłano w kolejnych commitach. **Źródłem poprzednich stanów jest Git i oryginalny ZIP**, nie bieżąca kopia Excela. Nowe pliki mają manifest SHA-256 i dzienniki URL/czasu pobrania; HTML ochronny i puste zrzuty oznaczono jako nieudane próby, nie skany.
 
 Firecrawl wyczerpał limit usługi w trakcie sesji. Badania kontynuowano inną wyszukiwarką, publicznym HTTP/API i Chromium. Działające procedury dostępu zapisano w `procedury/`. Nie wyłączano TLS ani nie logowano się do archiwów. Nie wysłano wiadomości, nie złożono formalnych wniosków ani nie dokonano płatności.
 
 Końcową kontrolę identyfikatorów, lokalnych plików, sum kontrolnych i granic relacji zapisuje `WALIDACJA_KONCOWA.json`. [Plan kontynuacji](PLAN_KONTYNUACJI.md) określa następne działania i wskazuje kwerendy, których nie należy bez potrzeby powtarzać.
+
+## Uzupełnienie: brak dokumentu i blokada PESEL w formularzu online
+
+Użytkownik potwierdził brak dokumentu z rodzicami Bogusława i nieznany PESEL ojca; wymóg pojawił się w formularzu online (REL-004). Sprawdzono wyłącznie S047 i nową procedurę/druk S082: PESEL osoby poszukiwanej jest dodatkowy według gov.pl. Łódź dopuszcza tryb osobisty/listowny. W przygotowanym niepodpisanym DOCX wpisano PESEL ojca jako nieznany i dane z przekazu bez założenia rodziców. Skorygowano wcześniejszą ogólną informację o 33 zł: Łódź podaje 39 zł dla aktu sporządzonego przed 1946. Nie wysłano wniosku ani wiadomości i nie wniesiono opłaty. Nie wznowiono kwerend zamrożonej gałęzi. Szczegóły: [S082](S082_USC_bez_PESEL.md).
