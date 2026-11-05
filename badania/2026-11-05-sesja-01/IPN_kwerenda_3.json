@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%22Chmielewski%20Czes%C5%82aw%22&page=1",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%22Chmielewski%20Czes%C5%82aw%22&page=2",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  }
+]

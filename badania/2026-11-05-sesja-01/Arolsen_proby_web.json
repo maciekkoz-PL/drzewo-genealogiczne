@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn500724view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://collections.arolsen-archives.org/en/search/?s=Czeslaw%20Chmielewski\",\"lineno\":null}); \nURL https://collections.arolsen-archives.org/en/search/?s=Czeslaw+Chmielewski is not accessible via this tool.\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn500724view1】 [wordlim: 200] Source: open({\"ref_id\":\"https://collections.arolsen-archives.org/en/search/?s=Boguslaw%20Chmielewski\",\"lineno\":null}); \nURL https://collections.arolsen-archives.org/en/search/?s=Boguslaw+Chmielewski is not accessible via this tool.\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn500724view2】 [wordlim: 200] Source: open({\"ref_id\":\"https://collections.arolsen-archives.org/en/search/?s=Janina%20Poprawka\",\"lineno\":null}); \nURL https://collections.arolsen-archives.org/en/search/?s=Janina+Poprawka is not accessible via this tool."
+    }
+  ],
+  "isError": false
+}

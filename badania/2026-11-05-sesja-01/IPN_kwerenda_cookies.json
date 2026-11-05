@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%22Chmielewski+Czes%C5%82aw%22&page=1",
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search",
+    "status": 200,
+    "access_utc": "2026-11-05T11:43:21.211415+00:00",
+    "sha256": "391aaac4bea0eee24317ca4eb37d47a1a134da9700ec2158277f27d2c23e02de",
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_cookies_page1.html"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%22Chmielewski+Czes%C5%82aw%22&page=2",
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%22Chmielewski+Czes%C5%82aw%22&page=2",
+    "status": 200,
+    "access_utc": "2026-11-05T11:43:22.484923+00:00",
+    "sha256": "dedd2b1a4e1f8d5938a4c94fab298106184859cff63ed8f8e84b41e918461dfc",
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_cookies_page2.html"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=&sygnatura=%22IPN+Ld+1%2F3503%22&op=Search",
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search?sygnatura=%22IPN%20Ld%201/3503%22",
+    "status": 200,
+    "access_utc": "2026-11-05T11:43:24.317650+00:00",
+    "sha256": "baa682dfa466cbaa8f1adc7557fd742c97fcbda05f17b79bd49ae6d5f6ae3e6c",
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_sig_cookies.html"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "key": "IPN_1_3503",
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?sygnatura=%22IPN%20Ld%201%2F3503%22&op=Szukaj",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search",
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_1_3503.html",
+    "size": 64775,
+    "sha256": "3c1ddb2799df95660613bcc812894c3ad3b90eafd877729433bd496e09d4a29d",
+    "access_utc": "2026-11-05T11:33:37.787491+00:00"
+  },
+  {
+    "key": "IPN_Czeslaw1909",
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski%20Czes%C5%82aw&data_od=1909&data_do=1945&op=Szukaj",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search",
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw1909.html",
+    "size": 64775,
+    "sha256": "3c1ddb2799df95660613bcc812894c3ad3b90eafd877729433bd496e09d4a29d",
+    "access_utc": "2026-11-05T11:33:37.193669+00:00"
+  },
+  {
+    "key": "Arolsen_D70381403",
+    "url": "https://collections.arolsen-archives.org/en/document/70381403",
+    "status": 200,
+    "final_url": "https://collections.arolsen-archives.org/en/document/70381403",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381403.html",
+    "size": 102363,
+    "sha256": "646345bb8d6879de7a3c4ea398391d3103354599c27ab76e3b4856527a000c3c",
+    "access_utc": "2026-11-05T11:33:38.229961+00:00"
+  },
+  {
+    "key": "Arolsen_D70380716",
+    "url": "https://collections.arolsen-archives.org/en/document/70380716",
+    "status": 200,
+    "final_url": "https://collections.arolsen-archives.org/en/document/70380716",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380716.html",
+    "size": 102345,
+    "sha256": "29c9773f2013f8a1495de6684f9d46a2374f466c4055eb2fd79e22e7c5fc893a",
+    "access_utc": "2026-11-05T11:33:37.850434+00:00"
+  },
+  {
+    "key": "Arolsen_doc_js",
+    "url": "https://collections.arolsen-archives.org/9-es2015.1fe74e48a27cb22afbc2.js",
+    "status": 200,
+    "final_url": "https://collections.arolsen-archives.org/9-es2015.1fe74e48a27cb22afbc2.js",
+    "path": "work/Arolsen_doc_js.js",
+    "size": 6470,
+    "sha256": "eff387832948a639501e550dc9f0b5d7c1134beb014c1920e96318ec7e672a42",
+    "access_utc": "2026-11-05T11:33:38.073300+00:00"
+  }
+]

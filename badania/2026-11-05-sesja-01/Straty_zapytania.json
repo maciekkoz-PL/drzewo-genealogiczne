@@ -1,0 +1,102 @@
+[
+  {
+    "query": {
+      "nazwisko": "Chmielewski",
+      "imie": "Czesław",
+      "panienskie": "",
+      "imie_o": "",
+      "imie_m": "",
+      "ur_miejsce": "",
+      "ur_dzien": "",
+      "ur_miesiac": "",
+      "ur_rok": "",
+      "zam_miejsce": "",
+      "zawod": "",
+      "sm_dzien": "",
+      "sm_miesiac": "",
+      "sm_rok": "",
+      "szukaj": "Szukaj"
+    },
+    "method": "POST — wyszukiwanie, nie zgłoszenie danych",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "status": 200,
+    "access_utc": "2026-11-05T11:28:36.595401+00:00",
+    "sha256": "9ebb33fa1a6879c3efcc6ee61c26a934ee94bd196bf6f4e6461480e2431836e0",
+    "local": "badania/2026-11-05-sesja-01/zrodla/Straty_Czeslaw.html"
+  },
+  {
+    "query": {
+      "nazwisko": "Chmielewski",
+      "imie": "Bogusław",
+      "panienskie": "",
+      "imie_o": "",
+      "imie_m": "",
+      "ur_miejsce": "",
+      "ur_dzien": "",
+      "ur_miesiac": "",
+      "ur_rok": "1943",
+      "zam_miejsce": "",
+      "zawod": "",
+      "sm_dzien": "",
+      "sm_miesiac": "",
+      "sm_rok": "",
+      "szukaj": "Szukaj"
+    },
+    "method": "POST — wyszukiwanie, nie zgłoszenie danych",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "status": 200,
+    "access_utc": "2026-11-05T11:28:37.327251+00:00",
+    "sha256": "96165757cffd335aab321c57d30d9e8496b0e6208b0c7047fb00aa4c1424a386",
+    "local": "badania/2026-11-05-sesja-01/zrodla/Straty_Boguslaw1943.html"
+  },
+  {
+    "query": {
+      "nazwisko": "Chmielewska",
+      "imie": "Janina",
+      "panienskie": "",
+      "imie_o": "",
+      "imie_m": "",
+      "ur_miejsce": "",
+      "ur_dzien": "",
+      "ur_miesiac": "",
+      "ur_rok": "1910",
+      "zam_miejsce": "",
+      "zawod": "",
+      "sm_dzien": "",
+      "sm_miesiac": "",
+      "sm_rok": "",
+      "szukaj": "Szukaj"
+    },
+    "method": "POST — wyszukiwanie, nie zgłoszenie danych",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "status": 200,
+    "access_utc": "2026-11-05T11:28:39.196240+00:00",
+    "sha256": "4b3654a4aca6b536fba9d0a280303b547a88b446939e3545405c207113e95396",
+    "local": "badania/2026-11-05-sesja-01/zrodla/Straty_Janina1910.html"
+  },
+  {
+    "query": {
+      "nazwisko": "Chmielewski",
+      "imie": "Roman",
+      "panienskie": "",
+      "imie_o": "",
+      "imie_m": "",
+      "ur_miejsce": "",
+      "ur_dzien": "",
+      "ur_miesiac": "",
+      "ur_rok": "1919",
+      "zam_miejsce": "",
+      "zawod": "",
+      "sm_dzien": "",
+      "sm_miesiac": "",
+      "sm_rok": "",
+      "szukaj": "Szukaj"
+    },
+    "method": "POST — wyszukiwanie, nie zgłoszenie danych",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "status": 200,
+    "access_utc": "2026-11-05T11:28:39.922209+00:00",
+    "sha256": "e8c895f580ec419546e5aa3297ecb2773fbef1c5a7ac288ff07e531dd1329537",
+    "local": "badania/2026-11-05-sesja-01/zrodla/Straty_Roman1919.html"
+  }
+]

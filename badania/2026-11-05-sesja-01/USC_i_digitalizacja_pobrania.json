@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol?_Zespol_cur=1&_Zespol_delta=200&_Zespol_id_zespolu=165812&_Zespol_nameofjsp=jednostki&_Zespol_resetCur=false&p_p_id=Zespol&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+    "final_url": "https://www.szukajwarchiwach.gov.pl/zespol?_Zespol_cur=1&_Zespol_delta=200&_Zespol_id_zespolu=165812&_Zespol_nameofjsp=jednostki&_Zespol_resetCur=false&p_p_id=Zespol&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+    "status": 200,
+    "access_utc": "2026-11-05T11:47:03.441658+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_165812_lista.html"
+  },
+  {
+    "url": "https://www.lodz.ap.gov.pl/pict_/cyfrowe.pdf",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

@@ -1,5 +1,175 @@
 [
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Boguslaw_Chmielewski_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Boguslaw_Chmielewski_GetCount.json",
+    "size": 9,
+    "sha256": "36733045496a0f6e3addac223f0e4555d828f640d94148ef060d384b62340124"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Boguslaw_Chmielewski_GetPersonList.json",
+    "size": 5630,
+    "sha256": "fac8be0fcf432efcb0045570950860b790298c98f1eced7b452329b2b4a08d9e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Chmielewski_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Chmielewski_GetCount.json",
+    "size": 12,
+    "sha256": "06741b5d8cb70dbbc823d6c5f93a28abac9f74f9524bb722131488c8f34de6e6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeskowo_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeskowo_GetCount.json",
+    "size": 9,
+    "sha256": "27636c3143c92b793f7d1787a13ddf8ffb305d75551f1237dc9e5405de36c7e9"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeskowo_GetPersonList.json",
+    "size": 4091,
+    "sha256": "3b94c86bcfa833470008d26ba0b16125f0706c8529b9d8b54aea8133047e4b1d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeslaw_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeslaw_GetPersonList.json",
+    "size": 8,
+    "sha256": "088214f816e99a2f4aedb5323c1c2eaf8b8143df9424ec46759966ddd9b72dd3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeslaw_cookies_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeslaw_cookies_GetCount.json",
+    "size": 10,
+    "sha256": "ef55381ad2e496b62ea903ef2dc914e7af35ec277d52464d5eace6742f949e74"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeslaw_cookies_GetPersonList.json",
+    "size": 51806,
+    "sha256": "a08256b2951152be65a56fe6bb876f290c64835f364ad93422f9344519d99746"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380716.html",
+    "size": 102345,
+    "sha256": "29c9773f2013f8a1495de6684f9d46a2374f466c4055eb2fd79e22e7c5fc893a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380716.jpg",
+    "size": 372500,
+    "sha256": "dec21cfc68d9e05f1b1ccbea2387b4e37190209dbefb21673905bc8a692eb31e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380716_person.json",
+    "size": 11799,
+    "sha256": "1a895183b3dd2d75e4b8a93f287bba90e45877a43871312cbf87741b6961886f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380976.html",
+    "size": 102325,
+    "sha256": "445b44b89b702774edcef7ea36872b0465d684886c240ee5933d38652cde6966"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380976.jpg",
+    "size": 197449,
+    "sha256": "1dcd23f9b6a7b60fe331df9dcc2932bc8ba5b7f2b9c3a370066ef19813318437"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380976_person.json",
+    "size": 13001,
+    "sha256": "92d93a392e07056fd37aa23794d20a371cb9e9ac089b9bc5964585345d95c595"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381086.html",
+    "size": 102325,
+    "sha256": "ece663dc36033553dde3f0539d21e4b2a9838a24dfbe8a3898ed91137439ed05"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381086.jpg",
+    "size": 208882,
+    "sha256": "1e8b358f37acb311e4375a1af6b138ed66100cf0081b2819b37c686f9fdd19cb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381086_person.json",
+    "size": 10812,
+    "sha256": "0c6c1524059c1f3fae8eef061f48596ac3ba9dbca23326b0072311b75b970eae"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381403.html",
+    "size": 102363,
+    "sha256": "646345bb8d6879de7a3c4ea398391d3103354599c27ab76e3b4856527a000c3c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381403.jpg",
+    "size": 205118,
+    "sha256": "12b23de9e834185ec0df8f11c3885c1a428200dbda5850b8cea045fb8a232cf5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381403_person.json",
+    "size": 13567,
+    "sha256": "7795855a15577730a0d13dd878b80594ec6b42baba220460e831c836f7998ea7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70431406.html",
+    "size": 102691,
+    "sha256": "2f5558e1363213fe7574515e183d1b7e6c80d6bc29c5690fa842b164553225fd"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70431406.jpg",
+    "size": 210438,
+    "sha256": "145a690dab720976c86dcfd465d85e0886f7e8b80dfec0e89f77172a9e7fbeea"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70431406_person.json",
+    "size": 4599,
+    "sha256": "d451b7d1e5df60591dc85bd56710aaf9c0bb9dfdc206761af8bc2ab410297699"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70593973.html",
+    "size": 103615,
+    "sha256": "a2b83833822e6e89118a64f055e0057b35d632699c09a0b5010a553b78dae15b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70593973.jpg",
+    "size": 300027,
+    "sha256": "ab084cb9e5d135e8bb054e1d15ef11b7abc41817869b82934f320002af1ac486"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70593973_person.json",
+    "size": 42703,
+    "sha256": "a6af8dc1f2e373039981af8a598297e4fd84050a03bdfd1f84419de44869fd95"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Poprawka_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Poprawka_GetCount.json",
+    "size": 9,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Poprawka_GetPersonList.json",
+    "size": 8,
+    "sha256": "088214f816e99a2f4aedb5323c1c2eaf8b8143df9424ec46759966ddd9b72dd3"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Czeslaw_1909.json",
     "size": 71,
     "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
@@ -40,6 +210,61 @@
     "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN3503_en.html",
+    "size": 64823,
+    "sha256": "b604a4d14ecf298b0f38fd3425d774139357a2b0c31c0bd6c82abc902531f00d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_1_3503.html",
+    "size": 64775,
+    "sha256": "3c1ddb2799df95660613bcc812894c3ad3b90eafd877729433bd496e09d4a29d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw.html",
+    "size": 58943,
+    "sha256": "2bfd4486b8c78251b7c2fdb64462a16680444b1805f8d2e61e1725b6c599fb27"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw1909.html",
+    "size": 64775,
+    "sha256": "3c1ddb2799df95660613bcc812894c3ad3b90eafd877729433bd496e09d4a29d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_cookies_page1.html",
+    "size": 65398,
+    "sha256": "391aaac4bea0eee24317ca4eb37d47a1a134da9700ec2158277f27d2c23e02de"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_cookies_page2.html",
+    "size": 48031,
+    "sha256": "dedd2b1a4e1f8d5938a4c94fab298106184859cff63ed8f8e84b41e918461dfc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_en.html",
+    "size": 62193,
+    "sha256": "5f8bf1d49dff60f2bb6680e1222c806b7abc63a77cd1aad39ec9ae7938ca161a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_page1.html",
+    "size": 37490,
+    "sha256": "b68887719dbd9c9048b4e52e6e8a3193baecce6f1896ab396d005c30deec18eb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_page2.html",
+    "size": 37490,
+    "sha256": "b68887719dbd9c9048b4e52e6e8a3193baecce6f1896ab396d005c30deec18eb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Ld_1_3503_opis.html",
+    "size": 43028,
+    "sha256": "1cef939eb7a8f6cfa3a9078d231fe58578f629edd78402cb826e5b05b70df029"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_sig_cookies.html",
+    "size": 46282,
+    "sha256": "baa682dfa466cbaa8f1adc7557fd742c97fcbda05f17b79bd49ae6d5f6ae3e6c"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/Kamionacz_1916_011-014.jpg",
     "size": 755495,
     "sha256": "d32e3dc40ca710807d86e86a823b1a2b3c48a89bcd7b4424ab664af3e82dcaf3"
@@ -70,9 +295,29 @@
     "sha256": "a73db89da3128d2ce44b0d2003b6a7051f38eb9501ce680dc9b666e51ceb66d1"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_109.jpg",
+    "size": 1808424,
+    "sha256": "a6127300b14fca856cc79083e54d73ab73c8ab79cfb7594f6c953523e9036919"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_110.jpg",
     "size": 1820391,
     "sha256": "88921a1f6ea11dcbc13df231d0e8e93bbcbb80b67f3710e64a027785015ecb4a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_111.jpg",
+    "size": 1845949,
+    "sha256": "2ecb896690b2ec384cf8333bd32224a1e1a756160a32772bdf341a2215b90cd7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_112.jpg",
+    "size": 1824267,
+    "sha256": "13f40eaf85a0d2f1aa592d22498e12f1c2a30b4205ac2ff4f88d76f24e0d5e65"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_113.jpg",
+    "size": 1854800,
+    "sha256": "ba3b6dd6daefeb459640143143f5d7f152e64815467d5af61ba40d2d4be0692b"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_120.jpg",
@@ -315,6 +560,66 @@
     "sha256": "95294dad5c026d6ce98909226642c2114e1bccdf8f7343959b03768f1251fdde"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_Boguslaw1943.html",
+    "size": 6795,
+    "sha256": "96165757cffd335aab321c57d30d9e8496b0e6208b0c7047fb00aa4c1424a386"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_Boguslaw_all.html",
+    "size": 17418,
+    "sha256": "ac24ddd7c315a5eaec68d2bfa720d5122ae5082b826f8c06a1625fc050154e76"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_Czeslaw.html",
+    "size": 89172,
+    "sha256": "9ebb33fa1a6879c3efcc6ee61c26a934ee94bd196bf6f4e6461480e2431836e0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_Janina1910.html",
+    "size": 10498,
+    "sha256": "4b3654a4aca6b536fba9d0a280303b547a88b446939e3545405c207113e95396"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_Janina_Poprawka.html",
+    "size": 6740,
+    "sha256": "ae2fce7b6b41a7068969398d1086a5dbe32595cb3754706da2e75d01c2e6fb39"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_Roman1919.html",
+    "size": 6791,
+    "sha256": "e8c895f580ec419546e5aa3297ecb2773fbef1c5a7ac288ff07e531dd1329537"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_dzieci_Czeslaw_Janina.html",
+    "size": 6798,
+    "sha256": "561051c4601ab9cd37cb6f0783a7d3f4203f65e08220118bbeebc03fcf1dcf8d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_dzieci_Wincenty_Agnieszka.html",
+    "size": 6801,
+    "sha256": "40abd59e8fc0293c7ed085e894949bf25c43ae2f0481b4261d6ba71a77601387"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_id4205404.html",
+    "size": 9813,
+    "sha256": "c5dff64e784cd11ed0a14d1f258adef986fc6ad75cf9871c40c38b2165ef59ad"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_id5791928.html",
+    "size": 9693,
+    "sha256": "0f149e62cb8b139cb0c24547b88cc76e214dc9fce89c88d4767459f7db6a4ca5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_id6107395.html",
+    "size": 9212,
+    "sha256": "34a9ec6b16ad2e125910c560e19a2823b861a63244b29e13e863f3f4c6b35cea"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Straty_id6184833.html",
+    "size": 9007,
+    "sha256": "ea481d6c0ce5b572a5bdb6cdfd98ecac5d24377b3a21bdb9aec141b4d8981ae7"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/SwA_10504982_100_manifest.json",
     "size": 58237,
     "sha256": "24d2dfb8f0aa45a1f1140c7c5ae26b9822537d507f953736f5ea254179266499"
@@ -423,6 +728,11 @@
     "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_075.jpg",
     "size": 2887301,
     "sha256": "fccd7f76db641683511542cf7bba459fb88f3fad3cd286f73cff5a4bf9a78611"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_165812_lista.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_000.jpg.jpg",

@@ -1,0 +1,163 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "query": {
+      "uniqueId": "1fyqBnUGt1WNdeDohFj3",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Czeskowo",
+      "synSearch": true
+    },
+    "status": 200,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "access_utc": "2026-11-05T11:36:49.071412+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeskowo_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "query": {
+      "uniqueId": "1fyqBnUGt1WNdeDohFj3",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "status": 200,
+    "sha256": "27636c3143c92b793f7d1787a13ddf8ffb305d75551f1237dc9e5405de36c7e9",
+    "access_utc": "2026-11-05T11:36:49.813698+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeskowo_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "query": {
+      "uniqueId": "1fyqBnUGt1WNdeDohFj3",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "status": 200,
+    "sha256": "3b94c86bcfa833470008d26ba0b16125f0706c8529b9d8b54aea8133047e4b1d",
+    "access_utc": "2026-11-05T11:36:50.688524+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Czeskowo_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "query": {
+      "uniqueId": "r3G8NoQgffLUBI06pHE2",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski",
+      "synSearch": true
+    },
+    "status": 200,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "access_utc": "2026-11-05T11:36:51.482096+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Chmielewski_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "query": {
+      "uniqueId": "r3G8NoQgffLUBI06pHE2",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "status": 200,
+    "sha256": "06741b5d8cb70dbbc823d6c5f93a28abac9f74f9524bb722131488c8f34de6e6",
+    "access_utc": "2026-11-05T11:36:53.318469+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Chmielewski_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "query": {
+      "uniqueId": "r3G8NoQgffLUBI06pHE2",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "error": "The read operation timed out"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "query": {
+      "uniqueId": "yhT6KgzESlTgBKG8zmq8",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Boguslaw Chmielewski",
+      "synSearch": true
+    },
+    "status": 200,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "access_utc": "2026-11-05T11:37:23.273149+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Boguslaw_Chmielewski_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "query": {
+      "uniqueId": "yhT6KgzESlTgBKG8zmq8",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "status": 200,
+    "sha256": "36733045496a0f6e3addac223f0e4555d828f640d94148ef060d384b62340124",
+    "access_utc": "2026-11-05T11:37:24.842712+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Boguslaw_Chmielewski_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "query": {
+      "uniqueId": "yhT6KgzESlTgBKG8zmq8",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "status": 200,
+    "sha256": "fac8be0fcf432efcb0045570950860b790298c98f1eced7b452329b2b4a08d9e",
+    "access_utc": "2026-11-05T11:37:26.200682+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Boguslaw_Chmielewski_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "query": {
+      "uniqueId": "umpS5JRDJmG8KZmsu7do",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Janina Poprawka",
+      "synSearch": true
+    },
+    "status": 200,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "access_utc": "2026-11-05T11:37:26.650684+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Poprawka_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "query": {
+      "uniqueId": "umpS5JRDJmG8KZmsu7do",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "status": 200,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2",
+    "access_utc": "2026-11-05T11:37:27.214363+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Poprawka_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "query": {
+      "uniqueId": "umpS5JRDJmG8KZmsu7do",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "status": 200,
+    "sha256": "088214f816e99a2f4aedb5323c1c2eaf8b8143df9424ec46759966ddd9b72dd3",
+    "access_utc": "2026-11-05T11:37:28.920475+00:00",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Poprawka_GetPersonList.json"
+  }
+]

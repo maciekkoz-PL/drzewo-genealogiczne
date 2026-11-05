@@ -1,5 +1,90 @@
 [
   {
+    "journal": "work/browser_scan_komXI_Stocka_jobs/asset_network.json",
+    "entries": [
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/69f6ca27cb25b5ba89cf1c94666e5f5f8356ec3b9cb708d40b35f3f0a8b2a749_max",
+        "status": 200,
+        "size": 212,
+        "type": "text/html",
+        "access_utc": "2026-11-05T11:23:36.167670+00:00",
+        "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+        "status": 200,
+        "size": 106554,
+        "type": "application/javascript",
+        "access_utc": "2026-11-05T11:23:37.198614+00:00",
+        "sha256": "ac17960cdbe6162057e6d56e1b9949e1b7a26ddbff5a1b938f5704e76f6600b9"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=5552059961657942348,13087167181813047910,2783826526713486914,218645",
+        "status": 200,
+        "size": 29,
+        "type": "application/javascript",
+        "access_utc": "2026-11-05T11:23:37.980694+00:00",
+        "sha256": "558a8ed81355f3cdfc69e59973acfc8550afd2f57c7c0edd91e1375b605bc15b"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/69f6ca27cb25b5ba89cf1c94666e5f5f8356ec3b9cb708d40b35f3f0a8b2a749_max",
+        "status": 200,
+        "size": 1830576,
+        "type": "image/jpeg",
+        "access_utc": "2026-11-05T11:23:39.964942+00:00",
+        "sha256": "dc3472fc64f99bd2a322111ccf3a52755cb90e29d3f5e42109ed0a9172f4744d"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.6161267586538385",
+        "status": 200,
+        "size": 1,
+        "type": "text/plain",
+        "access_utc": "2026-11-05T11:23:40.732287+00:00",
+        "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/aeb86e13a07135bdafb8b3112b961b7e731538ab6fc5222c26de17c7943c65e3_max",
+        "status": 200,
+        "size": 1819592,
+        "type": "image/jpeg",
+        "access_utc": "2026-11-05T11:23:45.488862+00:00",
+        "sha256": "a73db89da3128d2ce44b0d2003b6a7051f38eb9501ce680dc9b666e51ceb66d1"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/2ce9076b24042026a713937cee79968974451108d28d4ef8a4b64ec2712ede8d_max",
+        "status": 200,
+        "size": 1808424,
+        "type": "image/jpeg",
+        "access_utc": "2026-11-05T11:23:50.133744+00:00",
+        "sha256": "a6127300b14fca856cc79083e54d73ab73c8ab79cfb7594f6c953523e9036919"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/77d594b4044b0417b56c15730dc22da51280900630ecfe94fb9c3a0290556a87_max",
+        "status": 200,
+        "size": 1845949,
+        "type": "image/jpeg",
+        "access_utc": "2026-11-05T11:23:54.832082+00:00",
+        "sha256": "2ecb896690b2ec384cf8333bd32224a1e1a756160a32772bdf341a2215b90cd7"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/b54713dc59d0cbe393cda51dc0607e8691bc1af03a2bfc0db0f6abe9fdbd7a13_max",
+        "status": 200,
+        "size": 1824267,
+        "type": "image/jpeg",
+        "access_utc": "2026-11-05T11:23:58.985528+00:00",
+        "sha256": "13f40eaf85a0d2f1aa592d22498e12f1c2a30b4205ac2ff4f88d76f24e0d5e65"
+      },
+      {
+        "url": "https://photos.szukajwarchiwach.gov.pl/30293316e44da5616c5cb606e06dc87219b1ee6a6615d137b22473a794192f4b_max",
+        "status": 200,
+        "size": 1854800,
+        "type": "image/jpeg",
+        "access_utc": "2026-11-05T11:24:03.128524+00:00",
+        "sha256": "ba3b6dd6daefeb459640143143f5d7f152e64815467d5af61ba40d2d4be0692b"
+      }
+    ]
+  },
+  {
     "journal": "work/browser_scan_komXI_sample_jobs/asset_network.json",
     "entries": [
       {

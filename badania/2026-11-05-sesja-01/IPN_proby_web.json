@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn765760view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://inwentarz.ipn.gov.pl/szukaj?sygnatura=%22IPN%20Ld%201%2F3503%22&op=Szukaj\",\"lineno\":null}); \nURL https://inwentarz.ipn.gov.pl/szukaj?op=Szukaj&sygnatura=%22IPN+Ld+1%2F3503%22 is not accessible via this tool.\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn765760view1】 [wordlim: 200] Source: open({\"ref_id\":\"https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski%20Czes%C5%82aw&data_od=1909&data_do=1945&op=Szukaj\",\"lineno\":null}); \nURL https://inwentarz.ipn.gov.pl/szukaj?data_do=1945&data_od=1909&fraza=Chmielewski+Czes%C5%82aw&op=Szukaj is not accessible via this tool."
+    }
+  ],
+  "isError": false
+}

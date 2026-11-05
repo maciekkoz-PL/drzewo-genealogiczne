@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://inwentarz.ipn.gov.pl?fraza=%22Chmielewski%20Czes%C5%82aw%22&page=0",
+    "final_url": "https://inwentarz.ipn.gov.pl/en/home",
+    "status": 200,
+    "access_utc": "2026-11-05T11:41:16.269233+00:00",
+    "sha256": "b68887719dbd9c9048b4e52e6e8a3193baecce6f1896ab396d005c30deec18eb",
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_page1.html"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl?fraza=%22Chmielewski%20Czes%C5%82aw%22&page=1",
+    "final_url": "https://inwentarz.ipn.gov.pl/en/home",
+    "status": 200,
+    "access_utc": "2026-11-05T11:41:19.897195+00:00",
+    "sha256": "b68887719dbd9c9048b4e52e6e8a3193baecce6f1896ab396d005c30deec18eb",
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw_page2.html"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%22IPN%20Ld%201/3503%22",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+  }
+]
