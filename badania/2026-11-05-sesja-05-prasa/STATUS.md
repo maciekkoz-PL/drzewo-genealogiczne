@@ -32,3 +32,8 @@ Właściwy zespół39/2736/0, fonds165812, nadal ma1076jednostek i277skanów. We
 ## Zapis i granice
 
 Sieć działała ponownie. Poprzedni commit54a0177 wysłano teraz do origin/main. Excel rozszerzono bez zmiany potwierdzonych osób, relacji i zdarzeń. Brak nowych dokumentów rodzicielstwa. Żadnych kontaktów, podań, opłat ani zmian w zewnętrznych bazach genealogicznych. Kopie źródeł z dokładnymi adresami i manifestem SHA256 zachowano lokalnie i w historii Git.
+
+Dodatkowo zachowano próbę otwarcia wydania113129 przez narzędzie web i dwa zapytania pomocnicze (`s05_mother1957.json`). Nie uzyskano odczytu treści tej gazety; trop nadal otwarty.
+
+
+**Aktualizacja ograniczenia dostępu — zastępuje wcześniejsze sugestie naprawy parsera dla tych dwóch obiektów:** Obiekty WBP113129 (Głos Robotniczy24.05.1957 nr123, sygn.76-G KZ) i101638 (Express Ilustrowany09–10.11.1957, sygn.80-G KZ) mają w zapisanym HTML jawny komunikat: dostęp do wersji cyfrowej jest możliwy z sieci lokalnej Wojewódzkiej Biblioteki Publicznej w Łodzi. Kolekcja Dostępne na miejscu. To ustalona przyczyna braku linkuPDF, nie przypadkowy błąd parsera ani potwierdzone złe przekierowanie. Treści nie odczytano. Dalszy legalny odczyt na miejscu lub innej kopii; nie obchodzić ograniczenia ani nie kontaktować biblioteki bez osobnej zgody.

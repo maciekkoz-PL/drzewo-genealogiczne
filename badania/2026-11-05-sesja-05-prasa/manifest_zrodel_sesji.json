@@ -563,5 +563,10 @@
     "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/readings.json",
     "size": 26540,
     "sha256": "9f3efb91dc5db6e924c8a0d132fb6cda78ba50d5d8d6d1ca584dfd4bc3a6e0f5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/web/s05_mother1957.json",
+    "size": 23844,
+    "sha256": "5833d30c2cb3bda3f14c792e794d478446d13c500ad2729d69841a1d87f04a21"
   }
 ]

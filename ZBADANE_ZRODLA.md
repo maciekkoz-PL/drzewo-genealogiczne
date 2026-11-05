@@ -128,3 +128,6 @@ Etap05: [zakres, strony i ograniczenia](badania/2026-11-05-sesja-05-prasa/STATUS
 - S112: WBP — odmiany nazwisk i dalsze5 PDF. 7wybranych opisów,5PDF; dwa bez linku. PGR i TomaszówMaz. bezDOB/rodziny; ZygmuntChmielewski/CzesławWołłejko to dwie osoby.
 - S113: Timenote Janina1910–2001 MińskMazowiecki. Bez nazwiska rodowego i krewnych; nie ustalono tożsamości P04.
 - S114: SwA — właściwy twórca39/278 oraz niedostępny katalog39/2736. 39/278 to PrzełożonyStarszeństwaŻydów, nie ogólne USCŁódź. Lista1076 jednostek165812 nadal niedostępna.
+
+
+Uzupełnienie S112: Obiekty WBP113129 (Głos Robotniczy24.05.1957 nr123, sygn.76-G KZ) i101638 (Express Ilustrowany09–10.11.1957, sygn.80-G KZ) mają w zapisanym HTML jawny komunikat: dostęp do wersji cyfrowej jest możliwy z sieci lokalnej Wojewódzkiej Biblioteki Publicznej w Łodzi. Kolekcja Dostępne na miejscu. To ustalona przyczyna braku linkuPDF, nie przypadkowy błąd parsera ani potwierdzone złe przekierowanie. Treści nie odczytano. Dalszy legalny odczyt na miejscu lub innej kopii; nie obchodzić ograniczenia ani nie kontaktować biblioteki bez osobnej zgody.
