@@ -50,6 +50,11 @@
     "sha256": "31c639b5c1bf56e00d86a32456e6914232138beb68b8838df528cc05b72af0f0"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S001_St_Kostka_katalog_2026.html",
+    "size": 38538,
+    "sha256": "1837ad6432f74239dff31ce4acd4de0e4ca8fee533e47763e8f7807ea6acf156"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/S057_katalog_USC_Lodz.json",
     "size": 47033,
     "sha256": "7fff56d2304bfe9440345afb358c73b4d189e8ceaaf62524101edd8502058c22"
@@ -130,6 +135,131 @@
     "sha256": "4ef06d246a0be3dc6df9f606dc7349aa1699b933502fc5973b25d101bec12f0b"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S068_Archeion_118_2017.pdf",
+    "size": 7908984,
+    "sha256": "9095070b4ec003a706bd5c4671083419acaed40f12c042a319f08bfee104b23a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_001.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_015.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_025.jpg",
+    "size": 925317,
+    "sha256": "a6893f20b40b14b16f5adb0400ec3413fc293d5adc0972c129e6069b9bf12222"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_025.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_035.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_045.jpg",
+    "size": 1152195,
+    "sha256": "61cd48b02dd5eb37aa7ed5aff6b6f05028e13e438d02468645043fc2c961151a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_045.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_10504982_100_manifest.json",
+    "size": 58237,
+    "sha256": "24d2dfb8f0aa45a1f1140c7c5ae26b9822537d507f953736f5ea254179266499"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_10504982_129_manifest.json",
+    "size": 75115,
+    "sha256": "7a238a477a55cedd03f8e265c4b44c5033361afd64d0af961c83414ed9dcc147"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_10504982_29_manifest_2.json",
+    "size": 17023,
+    "sha256": "c74f2348ec2ced8f84105e32c41f487b5619e771032161a15a55cc4dd426e88d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_10505094_155_manifest_2.json",
+    "size": 90247,
+    "sha256": "157d451ab451b1f92f0eb866c7420576afe45f02a43e2ed8d48988bf379736b7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_17670291_85_manifest.json",
+    "size": 47670,
+    "sha256": "ed77c088a985ad116199be18b52fef60c5a3ad2b412f58d1043ce9ce1169b066"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_6209706_49_manifest.json",
+    "size": 25347,
+    "sha256": "e6ff8743080ee2911f6c55b9c59a207c9deadae349d3a1cc0ec0e8af1784c922"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_6209707_35_manifest.json",
+    "size": 18497,
+    "sha256": "f0cf2d986ead931a1c54060d430f5f9ddad815ab4907cdb4bafd672f24b73e3d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_075.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_085.jpg",
+    "size": 2833085,
+    "sha256": "4944e900ac4753b81e601b447f632591a43e2295647461eceac3f9ddf8961509"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_085.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_095.jpg",
+    "size": 2699556,
+    "sha256": "820ade8796fe25d6ffd841a90f8ff34ecacdc7a3c9b4d63a2b9a6d9d69edbae7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_095.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_100.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_060.jpg",
+    "size": 2723865,
+    "sha256": "93e3c5710ed2fc21fba610877471aefb0b85c0fe7153f96086208ed78bc3ec84"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_065.jpg",
+    "size": 2862171,
+    "sha256": "51c073d7e2b50e2595d2fec55ef32ed84b039149da2ccb16cf2bf4f8d8758ef0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_075.jpg",
+    "size": 2887301,
+    "sha256": "fccd7f76db641683511542cf7bba459fb88f3fad3cd286f73cff5a4bf9a78611"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_000.jpg.jpg",
+    "size": 418302,
+    "sha256": "b923cae7123f54f5241162eaeaa113fa8fe4c54f0e1e3a7530f985a07227df82"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-001.jpg",
     "size": 692185,
     "sha256": "47282c1f71f03f9098fdcb883f10bdb2486a6d805c33768e88529a4d4070b47f"
@@ -140,14 +270,69 @@
     "sha256": "7a6fd0b0ec7f9237d3048d6bcbe34af3eed1d43aa944f756ffd97c2915b24d29"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-011.jpg.jpg",
+    "size": 937056,
+    "sha256": "934cba5b772b8adab0490f7855e13c6d2fe411123c071b981a1a6fef1c63a37f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-012.jpg.jpg",
+    "size": 932294,
+    "sha256": "73a9cb4d779e9c92c2ccfc93aa5ca5dd740bb4a8aaff4a018571bc8500d8e998"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-013.jpg.jpg",
+    "size": 946375,
+    "sha256": "9979d3331e269d6fa66bd37e8fc37decf68188ab059453fa3be35d1615e01018"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-014.jpg.jpg",
+    "size": 934999,
+    "sha256": "3a821994429de92eedab50001c67d7dea8508527ae3f965a60fdf4f5ab898dea"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_katalog.html",
+    "size": 45771,
+    "sha256": "8a3f880afb8ca53c2e1bd9155ae24f4222b3e7beec2e397db976d81862b4a3a7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_000.jpg.jpg",
+    "size": 452677,
+    "sha256": "6bbf2ff2b7c122b8de3804f9d9e5b6179f82e97523f277a9ffea49779d334df2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_000b.jpg.jpg",
+    "size": 683040,
+    "sha256": "b50eade5f1c0e7ea419c419243aa1924f5d0f063acbba7b99cae2f90aa568a06"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-01.jpg",
     "size": 678892,
     "sha256": "a3dfd6c65595c228f208bd374a9dea68d9de78eabfcaf7b62080fa1c4883bbfe"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-08.jpg.jpg",
+    "size": 948157,
+    "sha256": "7dae80caa3a3eb7ef156e3049f4154492ff1a18baf94aa59c6dc453cc7413de6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-09.jpg.jpg",
+    "size": 938560,
+    "sha256": "092bc9fb261ca6d4792daaa9b54b15b8662c352fa63542c922e4bf538326eec7"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-10.jpg",
     "size": 947913,
     "sha256": "8dd80ecc11a56e90b4ae4b568ae393c1d4592bad98a8bec04cb053f760edea78"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_katalog.html",
+    "size": 35935,
+    "sha256": "594b4a5d4760f49ab1338553910130721ca9e29df648a8dcc0120766f8a58858"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_000.jpg.jpg",
+    "size": 381883,
+    "sha256": "89e7f1f9bf574cf320cbdd1b7e194bdb123b7a4c1d856970da733d57c836fa2c"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-001.jpg",
@@ -160,14 +345,79 @@
     "sha256": "9251dbed8df5685fbbdb9ba79bbee4e3ce677a06a8d397416706c9c58739c156"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-014.jpg.jpg",
+    "size": 1127078,
+    "sha256": "4fca39e1ee7fcab5d6139c8e8080c239022731e7893f49aaca860f4bdf2632a2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-015.jpg.jpg",
+    "size": 880415,
+    "sha256": "0cca92c5745934363430ecf76867cc7e51354818a189d0770116d7e26019370a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-016.jpg.jpg",
+    "size": 822589,
+    "sha256": "297618a5924877bbd1178285d4f9de58bf3b0fe6ef66e03a6e46bad86c31352b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-017.jpg.jpg",
+    "size": 984205,
+    "sha256": "b2a1e899a5e241e1d769ffd614c27ffd3226cc9cfacc615a803864a6fdaa48fc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-018.jpg.jpg",
+    "size": 1086533,
+    "sha256": "2ce9c09b7a7b34515ecc6ec47b62deb77222efbdd5bf6675f40aa26863c9f6eb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-019.jpg.jpg",
+    "size": 1040807,
+    "sha256": "9f80052c2a71b2eb2623d32a035e8c9069d50e094ee100e473f5664ecc723a60"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-020.jpg.jpg",
+    "size": 987812,
+    "sha256": "891a5e60eed4508a702bba3a90bcfa55d42ca08a5e2c4e1d11953c953b235a00"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_katalog.html",
+    "size": 57495,
+    "sha256": "2cec1991cbd8c1edc0d44c9e188ff9e7fc2e85cea03e24b61c7086b88f434ae0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_000.jpg.jpg",
+    "size": 451190,
+    "sha256": "7eaca061fb7041c1222f6176000139b6187fdbcc9bfb15015ca97757c74b24ab"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-01.jpg",
     "size": 395741,
     "sha256": "071a1739d16e381b56f2cd8145a1285925e2858c87495387a653921ce6b3679c"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-08.jpg.jpg",
+    "size": 1037068,
+    "sha256": "b2ee9bf5dbec61e05f7ae8fd2783099c4b081cffeedb884b1a32ffb311ad8751"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-09.jpg.jpg",
+    "size": 906785,
+    "sha256": "1ce839179493ba2e2c5698791a1ba7a7a4f3028b5658b6de41148fb682bd8904"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-10.jpg",
     "size": 1142824,
     "sha256": "db6bdcb9483aad66fcc4b801a7ec26f5ccb52b1cbb574a5aa3614546664c1121"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_katalog.html",
+    "size": 40190,
+    "sha256": "08132b068bab757dad061c8151842907a1b483de506f5f04e33b5d1a8aea569e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_000.jpg.jpg",
+    "size": 691564,
+    "sha256": "4cc398c230529e8dcd5c2de9939cced9709b1739a4c625e5e1ac5ab41e5e4a90"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-001.jpg",
@@ -180,14 +430,104 @@
     "sha256": "85c8113b2457710b8990b751dc74aba5176506fd2f2d550e031d5c41693ff2b2"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-011.jpg.jpg",
+    "size": 742114,
+    "sha256": "b8000f813c86224f5a819be3e2f96c1a709e1daa9483794393dcdf8974962e04"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-012.jpg.jpg",
+    "size": 866681,
+    "sha256": "41d7ce0cc2bd7713381fc73003e5b24872c120b057880344c1814f987588c989"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-013.jpg.jpg",
+    "size": 1009608,
+    "sha256": "6791040286fee79265d019e4d39febaa716032c60b4c25f132f4636da78639c3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-014.jpg.jpg",
+    "size": 913788,
+    "sha256": "e96cd41096d7933f3d0a903096f53082c79edf79d4bb9d6843311930d867fe8d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_katalog.html",
+    "size": 50034,
+    "sha256": "609ca11f18a5273b6c453879784e323d7fe0f0a43332797ec76f3a724d1dd650"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_000.jpg.jpg",
+    "size": 366248,
+    "sha256": "bc43eb45f689d05e1e1900d420f6e9494524980d4fb9a927a5503bea820aa6f0"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-01.jpg",
     "size": 585096,
     "sha256": "3ceb24bc7c929fd49d253a7005b9139f1a8dfa0175cf80c101b95c36e2bbdb63"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-07.jpg.jpg",
+    "size": 867565,
+    "sha256": "addbdc9a0081a00b42a57d511d7fc0ebe1ce723029421bb9c0f5b592ca635317"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-08.jpg.jpg",
+    "size": 902529,
+    "sha256": "e7f86bd1bae5694f22aeda26e7fc6e36b983831bb5d11016e84471f3cb5a99e1"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-10.jpg",
     "size": 989441,
     "sha256": "4279fe2dc4a78eedc1672bf4ba421b8402b06b3e106bb6e20d6b8db3101f2f2f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_katalog.html",
+    "size": 31524,
+    "sha256": "29c275ef2d9f6007cbbced34d841ed0ec7c947f4c220d5a04e758c6e9aea170b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_001.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_002.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_035.jpg",
+    "size": 1550216,
+    "sha256": "7cd8c5fbeb1985ba828f68a6359a08a6b1515ebee64b25e05f3c67c35c10bdc1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_035.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_040.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_001.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_002.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_025.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_030.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1910_SkU-1.jpg.jpg",

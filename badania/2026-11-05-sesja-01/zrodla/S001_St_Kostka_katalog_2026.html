@@ -1,0 +1,1456 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Skanoteka - Baza skanów dokumentów o wartości genealogicznej</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:image" content="https://skanoteka.genealodzy.pl/images/PTG_Logo_Skanoteka_pl_PL_200.png" />
+<meta name="author" content="Genealodzy.PL Genealogia">
+<meta name="copyright" content="Copyright (c) 2006-2026 Polskie Towarzystwo Genealogiczne">
+<meta name="description" content="Baza skanów dokumentów o wartości genealogicznej.">
+<meta name="revisit-after" content="1 days">
+<link rel="canonical" href="https://skanoteka.genealodzy.pl">
+<link rel="stylesheet" href="style/style.css?=v6" type="text/css">
+<link rel="stylesheet" href="style/ajaxcss.css?=v2" type="text/css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?=v2">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?=v2">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?=v2">
+<link rel="manifest" href="/images/site.webmanifest">
+<link rel="shortcut icon" href="/images/favicon.ico?=v2">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="js/snap.svg-min.js"></script>
+<style>
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+	background: #f3e2e7;
+	border: 1px solid #c5c5c5;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+	background: #f3d0e7;
+	border: 1px solid #c5c5c5;
+	color: black;
+}
+
+.ui-accordion .ui-accordion-content {
+	padding: 0px 0px;
+	background: none;
+}
+
+.ui-state-active .ui-icon,
+.ui-button:active .ui-icon {
+	background-image: url("https://code.jquery.com/ui/1.13.2/themes/base/images/ui-icons_444444_256x240.png");
+}
+
+:root
+{
+	--background-image-url: url('/images/back-pink.gif');
+}</style><link rel="shortcut icon" href="images/favicon.ico">
+
+		<script async src="https://platform.twitter.com/widgets.js"></script>
+		<script src="ajax/ajaxcore.js"></script>
+		<script src="ajax/ajax.js"></script>
+		<script src="style/centeredpop.js"></script>
+		<script>
+			var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-22184319-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+		</script>
+			</head>
+
+	<body id="body">
+		<script src="/cookies_komunikat.js"></script>
+		<div>
+			<br>
+			<table style="border-collapse: collapse; width: 1000px; margin: 0 auto; border: 1px solid rgb(100,100,100)">
+				<tr>
+					<td class="head">
+													<a href="/" target="_self" title="https://metryki.genealodzy.pl/">
+								<img style="display: block;max-width: 1000px" src=/images/PTG_Banner_Skanoteka-OPP_pl_PL.png?v3 alt="metryki.genealodzy.pl" title="metryki.genealodzy.pl"></a>
+											</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+													<div class="center">
+
+								<table border="0" cellpadding="0" cellspacing="0" width="98%">
+									<tr>
+										<td width="100%">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tr>
+													<td width="230" class="left valign-middle">
+																											</td>
+													<td width="220" class="valign-middle">
+														<div id="fb-root"></div>
+														<script>
+															(function (d, s, id) {
+var js,
+fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) 
+return;
+
+
+js = d.createElement(s);
+js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+														</script>
+														<div class="fb-share-button" data-href="https://skanoteka.genealodzy.pl" data-layout="button"></div>
+														<a href="https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="Projekt digitalizacji i indeksacji metryk" data-url="https://skanoteka.genealodzy.pl" data-show-count="false"></a>
+
+													</td>
+													<td width="400" class="valign-middle">
+														<a href="https://genealodzy.pl"><img class="valign-sub" src="images/navhome.gif" width="20" height="20" alt="Genealodzy.PL" title="Genealodzy.PL"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="/"><img class="valign-sub" src="images/navmapa.gif" width="20" height="20" alt="Strona główna" title="Strona główna"></a>
+<a href="https://geneteka.genealodzy.pl/plany.php"><img src="images/navplany.gif" class="valign-sub" width="20" height="20" alt="Zasoby w trakcie indeksacji" title="Zasoby w trakcie indeksacji"></a>
+<a href="https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"><img src="images/navhelp.gif" class="valign-sub" width="20" height="20" alt="Jak indeksować" title="Jak indeksować"></a>
+<a href="opjk"><img src="images/navjak.gif" class="valign-sub" width="20" height="20" alt="Jak wyszukiwać" title="Jak wyszukiwać"></a>
+<a href="https://genealodzy.pl/donate-pol"><img src="images/navdonate.gif" class="valign-sub" width="20" height="20" alt="Jak wspomóc" title="Jak wspomóc"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/?op=lang&amp;lang=pl_PL"><img src="images/flag-pol.png" class="valign-middle" alt="flag-pol.png" width="30" height="16" title="polski"></a>
+<a href="/?op=lang&amp;lang=en_EN"><img src="images/flag-eng.png" class="valign-middle" alt="flag-eng.png" width="30" height="16" title="english"></a>
+													</td>
+													<td></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+											</td>
+				</tr>
+
+				<tr>
+					<td>
+								<table width="100%">
+		<tr>
+			<td width="65%" valign="top">
+				<span class="grey">Województwo:
+											łódzkie
+										Powiat:
+											grodzki Łódź
+									</span>
+				<br>Zespół:
+				<span class="brown">
+					2470d
+				</span>
+				<span class="bold">
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Stanisława Kostki Łódź
+					<a href="opozespole-id424">O zespole</a>
+				</span>
+				<span class="center">
+					<p>
+						<span class="grey">Wybierz jednostkę z bloku po prawej stronie</span>
+					</p>
+					<p>
+													Autorzy zdjęć wybranego archiwum:<br><pre>Eliza Parcheniak
+
+Antoni Burzyński
+
+Beata Studniarek
+
+Hanna Ostoja-Świerczyńska
+
+Tomasz Turniak
+
+Archiwum Państwowe w Łodzi
+
+Polskie Towarzystwo Genealogiczne</pre>
+											</p>
+				</span>
+			</td>
+			<td width="35%" class="right-table" valign="top">
+
+				<div class="center">
+					Jednostki i katalogi zespołu
+				</div>
+
+				<table width="100%" class="sygnatury-right">
+					<tr>
+						<td class="top" align="right">L.p.</td>
+						<td class="top" align="center">Jednostka</td>
+						<td class="top">Opis</td>
+						<td class="top">Info</td>
+						<td class="top right">Plików</td>
+					</tr>
+
+																	<tr>
+							<td class=bad align="right">1</td>
+							
+							<td align="center">
+								<a href=id424-sy1910a>1910a</a>
+							</td>
+							<td class=bad>U-1910</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	212
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">2</td>
+							
+							<td align="center">
+								<a href=id424-sy1910b>1910b</a>
+							</td>
+							<td class=bad>U-1910</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	206
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">3</td>
+							
+							<td align="center">
+								<a href=id424-sy1910c>1910c</a>
+							</td>
+							<td class=bad>M-1910</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	173
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">4</td>
+							
+							<td align="center">
+								<a href=id424-sy1910d>1910d</a>
+							</td>
+							<td class=bad>Z-1910</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	217
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">5</td>
+							
+							<td align="center">
+								<a href=id424-sy1911a>1911a</a>
+							</td>
+							<td class=bad>U-1911</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	233
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">6</td>
+							
+							<td align="center">
+								<a href=id424-sy1911b>1911b</a>
+							</td>
+							<td class=bad>U-1911</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	232
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">7</td>
+							
+							<td align="center">
+								<a href=id424-sy1911c>1911c</a>
+							</td>
+							<td class=bad>M-1911</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	235
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">8</td>
+							
+							<td align="center">
+								<a href=id424-sy1911d>1911d</a>
+							</td>
+							<td class=bad>Z-1911</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	302
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">9</td>
+							
+							<td align="center">
+								<a href=id424-sy1912a>1912a</a>
+							</td>
+							<td class=bad>U-1912</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	218
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">10</td>
+							
+							<td align="center">
+								<a href=id424-sy1912b>1912b</a>
+							</td>
+							<td class=bad>U-1912</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	235
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">11</td>
+							
+							<td align="center">
+								<a href=id424-sy1912c>1912c</a>
+							</td>
+							<td class=bad>M-1912</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	218
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">12</td>
+							
+							<td align="center">
+								<a href=id424-sy1912d>1912d</a>
+							</td>
+							<td class=bad>Z-1912</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	280
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">13</td>
+							
+							<td align="center">
+								<a href=id424-sy1913a>1913a</a>
+							</td>
+							<td class=bad>U-1913</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	225
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">14</td>
+							
+							<td align="center">
+								<a href=id424-sy1913b>1913b</a>
+							</td>
+							<td class=bad>U-1913</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	237
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">15</td>
+							
+							<td align="center">
+								<a href=id424-sy1913c>1913c</a>
+							</td>
+							<td class=bad>M-1913</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	222
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">16</td>
+							
+							<td align="center">
+								<a href=id424-sy1913d>1913d</a>
+							</td>
+							<td class=bad>Z-1913</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	270
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">17</td>
+							
+							<td align="center">
+								<a href=id424-sy1914a>1914a</a>
+							</td>
+							<td class=bad>U-1914</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	255
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">18</td>
+							
+							<td align="center">
+								<a href=id424-sy1914b>1914b</a>
+							</td>
+							<td class=bad>U-1914</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	144
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">19</td>
+							
+							<td align="center">
+								<a href=id424-sy1914c>1914c</a>
+							</td>
+							<td class=bad>M-1914</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	157
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">20</td>
+							
+							<td align="center">
+								<a href=id424-sy1914d>1914d</a>
+							</td>
+							<td class=bad>Z-1914</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	291
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">21</td>
+							
+							<td align="center">
+								<a href=id424-sy1915a>1915a</a>
+							</td>
+							<td class=bad>U-1915</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	229
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">22</td>
+							
+							<td align="center">
+								<a href=id424-sy1915b>1915b</a>
+							</td>
+							<td class=bad>M-1915</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	47
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">23</td>
+							
+							<td align="center">
+								<a href=id424-sy1915c>1915c</a>
+							</td>
+							<td class=bad>Z-1915</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	307
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">24</td>
+							
+							<td align="center">
+								<a href=id424-sy1916a>1916a</a>
+							</td>
+							<td class=bad>U-1916-1917</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	175
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">25</td>
+							
+							<td align="center">
+								<a href=id424-sy1916b>1916b</a>
+							</td>
+							<td class=bad>M-1916-1917</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	81
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">26</td>
+							
+							<td align="center">
+								<a href=id424-sy1916c>1916c</a>
+							</td>
+							<td class=bad>Z-1916</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	234
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">27</td>
+							
+							<td align="center">
+								<a href=id424-sy1917c>1917c</a>
+							</td>
+							<td class=bad>Z-1917</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	208
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">28</td>
+							
+							<td align="center">
+								<a href=id424-sy1918>1918</a>
+							</td>
+							<td class=bad>U-1918</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	65
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">29</td>
+							
+							<td align="center">
+								<a href=id424-sy1918b>1918b</a>
+							</td>
+							<td class=bad>M-1918</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	66
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">30</td>
+							
+							<td align="center">
+								<a href=id424-sy1918c>1918c</a>
+							</td>
+							<td class=bad>Z-1918</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	157
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">31</td>
+							
+							<td align="center">
+								<a href=id424-sy1919a>1919a</a>
+							</td>
+							<td class=bad>U-1919</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	215
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">32</td>
+							
+							<td align="center">
+								<a href=id424-sy1919b>1919b</a>
+							</td>
+							<td class=bad>M-1919</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	183
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">33</td>
+							
+							<td align="center">
+								<a href=id424-sy1919c>1919c</a>
+							</td>
+							<td class=bad>Z-1919</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	177
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">34</td>
+							
+							<td align="center">
+								<a href=id424-sy1920a>1920a</a>
+							</td>
+							<td class=bad>U-1920</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	273
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">35</td>
+							
+							<td align="center">
+								<a href=id424-sy1920b>1920b</a>
+							</td>
+							<td class=bad>M-1920</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	191
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">36</td>
+							
+							<td align="center">
+								<a href=id424-sy1920c>1920c</a>
+							</td>
+							<td class=bad>Z-1920</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	218
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">37</td>
+							
+							<td align="center">
+								<a href=id424-sy1921a>1921a</a>
+							</td>
+							<td class=bad>U-1921</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	249
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">38</td>
+							
+							<td align="center">
+								<a href=id424-sy1921b>1921b</a>
+							</td>
+							<td class=bad>M-1921</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	201
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">39</td>
+							
+							<td align="center">
+								<a href=id424-sy1921c>1921c</a>
+							</td>
+							<td class=bad>M-1921</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	70
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">40</td>
+							
+							<td align="center">
+								<a href=id424-sy1921d>1921d</a>
+							</td>
+							<td class=bad>Z-1921</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	140
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">41</td>
+							
+							<td align="center">
+								<a href=id424-sy1922a>1922a</a>
+							</td>
+							<td class=bad>U-1922</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	338
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">42</td>
+							
+							<td align="center">
+								<a href=id424-sy1922b>1922b</a>
+							</td>
+							<td class=bad>M-1922</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	336
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">43</td>
+							
+							<td align="center">
+								<a href=id424-sy1922c>1922c</a>
+							</td>
+							<td class=bad>Z-1922</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	109
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">44</td>
+							
+							<td align="center">
+								<a href=id424-sy1923a>1923a</a>
+							</td>
+							<td class=bad>U-1923</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	342
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">45</td>
+							
+							<td align="center">
+								<a href=id424-sy1923b>1923b</a>
+							</td>
+							<td class=bad>M-1923</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	223
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">46</td>
+							
+							<td align="center">
+								<a href=id424-sy1923c>1923c</a>
+							</td>
+							<td class=bad>M-1923</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	99
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">47</td>
+							
+							<td align="center">
+								<a href=id424-sy1923d>1923d</a>
+							</td>
+							<td class=bad>Z-1923</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	110
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">48</td>
+							
+							<td align="center">
+								<a href=id424-sy1924a>1924a</a>
+							</td>
+							<td class=bad>U-1924</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	167
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">49</td>
+							
+							<td align="center">
+								<a href=id424-sy1924b>1924b</a>
+							</td>
+							<td class=bad>U-1924</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	171
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">50</td>
+							
+							<td align="center">
+								<a href=id424-sy1924c>1924c</a>
+							</td>
+							<td class=bad>M-1924</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	267
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">51</td>
+							
+							<td align="center">
+								<a href=id424-sy1924d>1924d</a>
+							</td>
+							<td class=bad>Z-1924</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	93
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">52</td>
+							
+							<td align="center">
+								<a href=id424-sy1925b>1925b</a>
+							</td>
+							<td class=bad>M-1925</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	224
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">53</td>
+							
+							<td align="center">
+								<a href=id424-sy1925c>1925c</a>
+							</td>
+							<td class=bad>Z-1925</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	91
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">54</td>
+							
+							<td align="center">
+								<a href=id424-sy1926b>1926b</a>
+							</td>
+							<td class=bad>M-1926</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	204
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">55</td>
+							
+							<td align="center">
+								<a href=id424-sy1926c>1926c</a>
+							</td>
+							<td class=bad>Z-1926</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	92
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">56</td>
+							
+							<td align="center">
+								<a href=id424-sy1927b>1927b</a>
+							</td>
+							<td class=bad>M-1927</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	232
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">57</td>
+							
+							<td align="center">
+								<a href=id424-sy1927c>1927c</a>
+							</td>
+							<td class=bad>Z-1927</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	92
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">58</td>
+							
+							<td align="center">
+								<a href=id424-sy1928b>1928b</a>
+							</td>
+							<td class=bad>M-1928</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	192
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">59</td>
+							
+							<td align="center">
+								<a href=id424-sy1928c>1928c</a>
+							</td>
+							<td class=bad>M-1928</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	86
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">60</td>
+							
+							<td align="center">
+								<a href=id424-sy1928d>1928d</a>
+							</td>
+							<td class=bad>Z-1928</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	88
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">61</td>
+							
+							<td align="center">
+								<a href=id424-sy1929b>1929b</a>
+							</td>
+							<td class=bad>M-1929</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	142
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">62</td>
+							
+							<td align="center">
+								<a href=id424-sy1929c>1929c</a>
+							</td>
+							<td class=bad>M-1929</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	157
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">63</td>
+							
+							<td align="center">
+								<a href=id424-sy1929d>1929d</a>
+							</td>
+							<td class=bad>Z-1929</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	85
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">64</td>
+							
+							<td align="center">
+								<a href=id424-sy1930b>1930b</a>
+							</td>
+							<td class=bad>M-1930</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	231
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">65</td>
+							
+							<td align="center">
+								<a href=id424-sy1930c>1930c</a>
+							</td>
+							<td class=bad>Z-1930</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	123
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">66</td>
+							
+							<td align="center">
+								<a href=id424-sy1931b>1931b</a>
+							</td>
+							<td class=bad>M-1931</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	228
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">67</td>
+							
+							<td align="center">
+								<a href=id424-sy1931c>1931c</a>
+							</td>
+							<td class=bad>Z-1931</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	127
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">68</td>
+							
+							<td align="center">
+								<a href=id424-sy1932b>1932b</a>
+							</td>
+							<td class=bad>M-1932</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	214
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">69</td>
+							
+							<td align="center">
+								<a href=id424-sy1932c>1932c</a>
+							</td>
+							<td class=bad>Z-1932</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	114
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">70</td>
+							
+							<td align="center">
+								<a href=id424-sy1933b>1933b</a>
+							</td>
+							<td class=bad>M-1933</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	221
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">71</td>
+							
+							<td align="center">
+								<a href=id424-sy1933c>1933c</a>
+							</td>
+							<td class=bad>Z-1933</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	100
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">72</td>
+							
+							<td align="center">
+								<a href=id424-sy1934b>1934b</a>
+							</td>
+							<td class=bad>M-1934</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	214
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">73</td>
+							
+							<td align="center">
+								<a href=id424-sy1934c>1934c</a>
+							</td>
+							<td class=bad>Z-1934</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	93
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">74</td>
+							
+							<td align="center">
+								<a href=id424-sy1935b>1935b</a>
+							</td>
+							<td class=bad>M-1935</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	207
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">75</td>
+							
+							<td align="center">
+								<a href=id424-sy1935c>1935c</a>
+							</td>
+							<td class=bad>Z-1935</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	104
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">76</td>
+							
+							<td align="center">
+								<a href=id424-sy1936b>1936b</a>
+							</td>
+							<td class=bad>M-1936</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	192
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">77</td>
+							
+							<td align="center">
+								<a href=id424-sy1936c>1936c</a>
+							</td>
+							<td class=bad>Z-1936</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	104
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">78</td>
+							
+							<td align="center">
+								<a href=id424-sy1937b>1937b</a>
+							</td>
+							<td class=bad>M-1937</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	184
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">79</td>
+							
+							<td align="center">
+								<a href=id424-sy1937c>1937c</a>
+							</td>
+							<td class=bad>Z-1937</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	102
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">80</td>
+							
+							<td align="center">
+								<a href=id424-sy1938b>1938b</a>
+							</td>
+							<td class=bad>M-1938</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	210
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">81</td>
+							
+							<td align="center">
+								<a href=id424-sy1938c>1938c</a>
+							</td>
+							<td class=bad>Z-1938</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	104
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">82</td>
+							
+							<td align="center">
+								<a href=id424-sy1939b>1939b</a>
+							</td>
+							<td class=bad>M-1939</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	198
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">83</td>
+							
+							<td align="center">
+								<a href=id424-sy1939c>1939c</a>
+							</td>
+							<td class=bad>Z-1939</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	127
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">84</td>
+							
+							<td align="center">
+								<a href=id424-sy1940b>1940b</a>
+							</td>
+							<td class=bad>M-1940</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	113
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">85</td>
+							
+							<td align="center">
+								<a href=id424-sy1940c>1940c</a>
+							</td>
+							<td class=bad>Z-1940</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	138
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">86</td>
+							
+							<td align="center">
+								<a href=id424-sy1945b>1945b</a>
+							</td>
+							<td class=bad>M-1945</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	230
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">87</td>
+							
+							<td align="center">
+								<a href=id424-sy1945c>1945c</a>
+							</td>
+							<td class=bad>M-1945</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	226
+															</td>
+						</tr>
+																	<tr>
+							<td class=bad align="right">88</td>
+							
+							<td align="center">
+								<a href=id424-sy1945d>1945d</a>
+							</td>
+							<td class=bad>Z-1945</td>
+							<td title="">
+																																
+							</td>
+							<td class=bad align="right">
+																	314
+															</td>
+						</tr>
+									</table>
+
+									<a href="opza-ar3">powrót do archiwum</a>
+							</td>
+		</tr>
+	</table>
+					</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+
+													<div class="center">
+								<a href="https://genealodzy.pl/donate-pol"><img src="images/donate.jpg" alt="donate"></a><br>
+								<span class="darkslateblue">&copy; 2010-2026
+									<a href="http://genealodzy.pl">Polskie Towarzystwo Genealogiczne</a>
+								::
+								<script>
+									user = 'skanoteka';
+									site = "genealodzy.pl";
+									document.write('<a href=\"mailto:' + user + '@' + site + '\">');
+									document.write('Administrator<\/a> ');
+								</script>
+								::
+								</span>
+							</div>
+											</td>
+				</tr>
+
+			</table>
+		</div>
+
+	</body>
+</html>

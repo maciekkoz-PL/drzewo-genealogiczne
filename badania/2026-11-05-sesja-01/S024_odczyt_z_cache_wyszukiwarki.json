@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-05",
+  "note": "HTTP na żywo 404; odpowiedź narzędzia wyszukiwarki nie oznacza przywrócenia oryginalnego PDF.",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Internal Error ()\n【turn688549view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.lodz.ap.gov.pl/ewidencja_ludnosci.pdf\",\"lineno\":null}); \nFailed to fetch https://www.lodz.ap.gov.pl/ewidencja_ludnosci.pdf: (404) Not Found"
+      }
+    ],
+    "isError": false
+  }
+}
