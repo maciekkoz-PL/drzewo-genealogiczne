@@ -1,4 +1,4 @@
-> **Po kolejnej istotnej zmianie ustaleń aktualizuj również publiczne drzewo i kronikę:** [witryna/README.md](witryna/README.md). Użytkownik wybrał publiczny link z minimalnymi danymi żyjących osób. Nie eksportuj całego Excela. Aktualizacja wymaga wygenerowania HTML i publikacji istniejącej witryny; sam push do GitHuba nie zmienia strony. Nie twórz kolejnej witryny.
+> **Po kolejnej istotnej zmianie ustaleń aktualizuj również publiczne drzewo i kronikę:** [witryna/README.md](witryna/README.md). Użytkownik wybrał publiczny link, a następnie dopuścił publikację znanych danych żyjących krewnych (05.11.2026). Imiona, nazwiska i daty można pokazywać ze statusem dowodu. Nie dopisuj nieznanego nazwiska Marysi ani nie utożsamiaj Piotra z osobą z prasy. Nie eksportuj całego Excela. Aktualizacja wymaga wygenerowania HTML i publikacji istniejącej witryny; sam push do GitHuba nie zmienia strony. Nie twórz kolejnej witryny.
 
 Bieżący etap05: [wyniki prasowe i granice dowodów](badania/2026-11-05-sesja-05-prasa/STATUS.md), [plan dalszej pracy](badania/2026-11-05-sesja-05-prasa/PLAN_KONTYNUACJI.md). H017 nadal otwarta.
 

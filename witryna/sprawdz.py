@@ -13,5 +13,6 @@ with sync_playwright() as p:
  page.locator('#close').click();assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
  page.screenshot(path='/workspace/marysia-mobile.png',full_page=True);assert not errors,errors
  text=page.locator('#family-data').text_content()
- for private in ['Jankowska','04.01.1942','Piotr','policjant','1984','51.67956']:assert private not in text,private
- browser.close();print('PASS: 13 kart, dialogi i powiązania, kronika7wpisów, mobile390px, brak błędówJS, brak prywatnych pól')
+ for known in ['Maria Jankowska','04.01.1942','Piotr Chmielewski','1969–1973','1984']:assert known in text,known
+ page.select_option('#people','P10');assert 'Nie potwierdzono' in page.locator('#detail').inner_text()
+ browser.close();print('PASS: 13 kart, dialogi i powiązania, kronika7wpisów, mobile390px, brak błędówJS, znane dane i oznaczenie niepewności')

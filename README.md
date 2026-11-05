@@ -1,4 +1,4 @@
-**Interaktywne drzewo dla Marysi:** [otwórz publiczny widok](https://korzenie-marysi.maciekkoz187874.chatgpt.site). Dane żyjących osób ograniczone. [Zasady aktualizacji strony](witryna/README.md).
+**Interaktywne drzewo dla Marysi:** [otwórz publiczny widok](https://korzenie-marysi.maciekkoz187874.chatgpt.site). Znane dane krewnych opublikowane zgodnie z decyzją użytkownika; niepewności opisane w kartach. [Zasady aktualizacji strony](witryna/README.md).
 
 Bieżący etap05: [wyniki prasowe i granice dowodów](badania/2026-11-05-sesja-05-prasa/STATUS.md), [plan dalszej pracy](badania/2026-11-05-sesja-05-prasa/PLAN_KONTYNUACJI.md). H017 nadal otwarta.
 
