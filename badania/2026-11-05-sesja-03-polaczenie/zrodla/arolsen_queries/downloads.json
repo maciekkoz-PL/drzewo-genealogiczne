@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "params": {
+      "uniqueId": "1192e2bc7be3410d996f",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski 1910",
+      "synSearch": true
+    },
+    "method": "POST public index search",
+    "access_utc": "2026-11-05T15:25:11.448298+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "path": "work/h017/arolsen_queries/surname1910_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "params": {
+      "uniqueId": "1192e2bc7be3410d996f",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "method": "POST public index search",
+    "access_utc": "2026-11-05T15:25:12.400686+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "path": "work/h017/arolsen_queries/surname1910_GetCount.json",
+    "size": 10,
+    "sha256": "f86139e492600d61ea2087025574b245a5a25c8ccdeefeaa2d9c01cb7bccd067"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "params": {
+      "uniqueId": "1192e2bc7be3410d996f",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "method": "POST public index search",
+    "access_utc": "2026-11-05T15:25:12.751781+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "path": "work/h017/arolsen_queries/surname1910_GetPersonList.json",
+    "size": 61906,
+    "sha256": "49f9b8f731460acde491038d620d7ad2b634e9d3c478594b59578c00d0412c91"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "params": {
+      "uniqueId": "bde7fe4a26f145b98670",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Poprawka",
+      "synSearch": true
+    },
+    "method": "POST public index search",
+    "access_utc": "2026-11-05T15:25:13.751432+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "path": "work/h017/arolsen_queries/maiden_any_given_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "params": {
+      "uniqueId": "bde7fe4a26f145b98670",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "method": "POST public index search",
+    "access_utc": "2026-11-05T15:25:15.019580+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "path": "work/h017/arolsen_queries/maiden_any_given_GetCount.json",
+    "size": 11,
+    "sha256": "ba033630cf8ca2a769d1843d23d8fea76f1a6a9847d7fc3a77d76d1e00e86493"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "params": {
+      "uniqueId": "bde7fe4a26f145b98670",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "method": "POST public index search",
+    "access_utc": "2026-11-05T15:25:17.061019+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "path": "work/h017/arolsen_queries/maiden_any_given_GetPersonList.json",
+    "size": 130433,
+    "sha256": "3e9ac5855e2f4558d786afcd346106a1962654262805db60c8f8756632d400d3"
+  }
+]

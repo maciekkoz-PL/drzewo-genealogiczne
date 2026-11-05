@@ -1,3 +1,5 @@
+> **Stan etapu 02, zachowany historycznie.** Najnowszy [stan](../2026-11-05-sesja-03-polaczenie/STATUS.md) i [plan kontynuacji](../2026-11-05-sesja-03-polaczenie/PLAN_KONTYNUACJI.md) są w etapie 03.
+
 # Plan kontynuacji po otrzymaniu odpisu ślubu Bogusława
 
 ## Punkt startowy — nie powtarzać pytań

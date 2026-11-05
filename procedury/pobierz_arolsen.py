@@ -8,6 +8,7 @@ import argparse
 import datetime
 import hashlib
 import json
+import re
 from pathlib import Path
 import urllib.parse
 import urllib.request
@@ -20,6 +21,8 @@ def main():
     parser.add_argument('--outdir', default='work/arolsen')
     parser.add_argument('--log', default='work/arolsen_downloads.jsonl')
     parser.add_argument('--refresh', action='store_true')
+    parser.add_argument('--max-images', type=int, default=0,
+                        help='Maximum linked scans per document; 0 downloads all.')
     args = parser.parse_args()
     output = Path(args.outdir)
     output.mkdir(parents=True, exist_ok=True)
@@ -64,17 +67,24 @@ def main():
             page = fetch('https://collections.arolsen-archives.org/en/document/' + doc,
                          output / f'Arolsen_D{doc}.html')
             tree = html.fromstring(page)
-            links = [s.replace('\\', '/') for s in tree.xpath('//img/@src')
-                     if 'collections-server.arolsen-archives.org/' in s]
-            if len(links) != 1:
-                raise ValueError(f'Expected one scan link, found {len(links)}')
-            scan = links[0]
-            if urllib.parse.urlsplit(scan).hostname != 'collections-server.arolsen-archives.org':
-                raise ValueError('Unexpected image host')
-            fetch(scan, output / f'Arolsen_D{doc}.jpg', image=True)
+            links = list(dict.fromkeys(
+                re.sub(r'^https?:/+', 'https://', s.replace('\\', '/'))
+                for s in tree.xpath('//img/@src')
+                if 'collections-server.arolsen-archives.org/' in s))
+            if not links:
+                raise ValueError('No linked archival scans found')
+            scans = links[:args.max_images] if args.max_images > 0 else links
+            for position, scan in enumerate(scans, 1):
+                if urllib.parse.urlsplit(scan).hostname != 'collections-server.arolsen-archives.org':
+                    raise ValueError('Unexpected image host')
+                scan = urllib.parse.quote(scan, safe=':/%?=&')
+                name = (f'Arolsen_D{doc}.jpg' if len(links) == 1
+                        else f'Arolsen_D{doc}_{position:03d}.jpg')
+                fetch(scan, output / name, image=True)
             fetch('https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonListByDocId',
                   output / f'Arolsen_D{doc}_person.json', {'lang': 'en', 'docId': doc})
-            print(f'{doc}: saved page, scan and public index data', flush=True)
+            print(f'{doc}: saved page, {len(scans)}/{len(links)} linked scans '
+                  'and public index data', flush=True)
         except Exception as error:
             print(f'{doc}: {error}', flush=True)
 

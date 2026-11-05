@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://eli.gov.pl/eli/DU/2026/393/ogl",
+    "path": "work/h017/procedure/S054_2026_393.html",
+    "access_utc": "2026-11-05T15:29:08.379372+00:00",
+    "status": 200,
+    "final_url": "https://eli.gov.pl/eli/DU/2026/393/ogl",
+    "content_type": "text/html;charset=utf-8",
+    "size": 35602,
+    "sha256": "7e86def0f14338658e605a5cf6f0fb41808e27c9688ec9588c425d7933e72cdc"
+  },
+  {
+    "url": "https://eli.gov.pl/api/acts/DU/2026/393/text/T/D20260393L.pdf",
+    "path": "work/h017/procedure/S054_2026_393.pdf",
+    "access_utc": "2026-11-05T15:29:11.705022+00:00",
+    "status": 200,
+    "final_url": "https://eli.gov.pl/api/acts/DU/2026/393/text/T/D20260393L.pdf",
+    "content_type": "application/pdf",
+    "size": 564883,
+    "sha256": "777b566ef81eb9de760a6020598a6ecf14d58c0e45bf3bf83bfee34b4d0aa7f9"
+  },
+  {
+    "url": "https://warszawa19115.pl/pl/-/wydanie-odpisu-zupelnego-lub-skroconego-aktu-stanu-cywilnego",
+    "path": "work/h017/procedure/Warszawa_odpis.html",
+    "access_utc": "2026-11-05T15:29:16.585676+00:00",
+    "status": 200,
+    "final_url": "https://warszawa19115.pl/pl/-/wydanie-odpisu-zupelnego-lub-skroconego-aktu-stanu-cywilnego",
+    "content_type": "text/html;charset=UTF-8",
+    "size": 123831,
+    "sha256": "879871411e3982cf7985b7b12309501739dbe6a937596b05db6c888a3059ecac"
+  },
+  {
+    "url": "https://warszawa19115.pl/documents/20184/49993/USC-08-01%20Wniosek%20o%20wydanie%20odpisu%20skr%C3%B3conego%20lub%20zupe%C5%82nego%20aktu%20urodzenia%20%28edytowalny%29",
+    "path": "work/h017/procedure/Warszawa_wniosek_urodzenie.docx",
+    "access_utc": "2026-11-05T15:29:19.842366+00:00",
+    "status": 200,
+    "final_url": "https://warszawa19115.pl/documents/20184/49993/USC-08-01%20Wniosek%20o%20wydanie%20odpisu%20skr%C3%B3conego%20lub%20zupe%C5%82nego%20aktu%20urodzenia%20%28edytowalny%29",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "size": 33843,
+    "sha256": "79f1b5f2b0b0ebd795b1e2fa24530cdcfa02b1b40fcc57d923caa8b2c5109888"
+  }
+]

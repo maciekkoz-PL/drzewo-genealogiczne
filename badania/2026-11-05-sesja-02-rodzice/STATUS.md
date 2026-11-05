@@ -1,3 +1,5 @@
+> **Stan etapu 02, zachowany historycznie.** Najnowszy [stan](../2026-11-05-sesja-03-polaczenie/STATUS.md) i [plan kontynuacji](../2026-11-05-sesja-03-polaczenie/PLAN_KONTYNUACJI.md) są w etapie 03.
+
 # Stan końcowy etapu — rodzice Bogusława wymienieni w odpisie USC
 
 **S086: fotografia odpisu ślubu Bogusława Kazimierza Chmielewskiego, ur.25.04.1943 Łódź, wymienia ojca Czesława Chmielewskiego i matkę Janinę Poprawkę.** H001 została rozstrzygnięta; R007/R008 mają dowód z fotografii odpisu. Jest to dowód dotyczący P02, którego brakowało w pakiecie początkowym.

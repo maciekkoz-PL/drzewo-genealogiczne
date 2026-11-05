@@ -11,7 +11,7 @@ python procedury/pobierz_manifest_swa.py 10505094 --count 200 --output work/mani
 python procedury/pobierz_manifest_swa.py 165812 --kind zespol --count 300 --output work/manifestUSC.json
 ```
 
-**Nie ponawiać tych przykładów bez potrzeby:** kompletne odpowiedzi już są w `badania/2026-11-05-sesja-01/zrodla/`. Dla 165812 wszystkie 277 skanów to zgony 1940, bez urodzeń H1 1943. Dla jednostek o większej liczbie obrazów porównać `len(elementy)` z `liczbaWszystkichSkanow` i użyć następnego offsetu. Nie uznawać pierwszych 100 obrazów za cały tom 129-obrazowy.
+**Nie ponawiać tych przykładów bez potrzeby:** kompletne odpowiedzi już są w `badania/2026-11-05-sesja-01/zrodla/`. Dla 165812 wszystkie 277 skanów to zgony 1940, bez urodzeń H 1 1943. Dla jednostek o większej liczbie obrazów porównać `len(elementy)` z `liczbaWszystkichSkanow` i użyć następnego offsetu. Nie uznawać pierwszych 100 obrazów za cały tom 129-obrazowy.
 
 W tym środowisku Chromium nie ufał certyfikatowi pośredniczącego proxy. Zastosowano transport: przeglądarka wykonuje zwykłe żądania, a Python `urllib` realizuje je z **normalną weryfikacją TLS** i przekazuje odpowiedź do przeglądarki. Nie wyłączano TLS, nie rozwiązywano CAPTCHA, nie logowano się. Skrypty dopuszczają tylko GET/HEAD w domenach archiwalnych. Przycisk „Nie” na pytaniu o nową przeglądarkę zmienia tylko lokalną preferencję bieżącego, tymczasowego profilu.
 
@@ -37,7 +37,11 @@ Pobranie uznawane jest za JPG dopiero po sprawdzeniu sygnatury bajtowej. Istniej
 python procedury/pobierz_arolsen.py ZNANY_DOCID --outdir work/arolsen --log work/arolsen_pobrania.jsonl
 ```
 
-Przykładowe znane DocID: 70380716, 70381403, 70380976, 70381086, 70431406. **Wszystkie już pobrano i odczytano — używać lokalnych kopii.** Skrypt pobiera stronę dokumentu, wskazany tam JPG i publiczny indeks `GetPersonListByDocId`; pomija istniejące pliki. Nie wywołuje usług zamawiania dokumentów.
+Przykładowe znane DocID: 70380716, 70381403, 70380976, 70381086, 70431406. **Wszystkie już pobrano i odczytano — używać lokalnych kopii.** Skrypt pobiera stronę dokumentu, wszystkie połączone tam JPG i publiczny indeks `GetPersonListByDocId`; pomija istniejące pliki. Nie wywołuje usług zamawiania dokumentów.
+
+Dokument może mieć wiele obrazów, w tym odwrocia i pisma o różnych osobach. Dla jednego obrazu pozostaje nazwa `Arolsen_DID.jpg`, dla wielu `Arolsen_DID_001.jpg` itd. Opcja `--max-images 1` ogranicza pobranie do pierwszego obrazu; domyślne `0` pobiera wszystkie. Ograniczenia pobrania nie należy mylić z odczytem całej teczki. Skrypt normalizuje ukośniki i spacje w URL wyłącznie wskazanych obrazów oficjalnego serwera. Strona bez obrazów jest raportowana jako nieudana próba, nie wynik negatywny genealogiczny.
+
+W etapie 03 pobrano i odczytano 35 obrazów 14 dalszych dokumentów; [pełna lista i zakres](../badania/2026-11-05-sesja-03-polaczenie/AROLSEN_ODCZYTY.md). Nie ponawiać ich pobierania. Poprawkę obsługi wielu obrazów sprawdzono na rzeczywistych dokumentach jedno-, dwu-, sześcio- i jedenastoobrazowych.
 
 Wyszukiwanie globalne wymaga zachowania zwykłych ciasteczek pomiędzy `BuildQueryGlobalForAngular`, `GetCount` i `GetPersonList`. Dokładne parametry sprawdzonych zapytań znajdują się w plikach `Arolsen_*zapytania*.json`. Brak ciasteczek dawał pozornie pustą listę. Pola indeksu bywają niepełne lub mają przestawione nazwiska; data API 07/03/1909 w odczytanych dokumentach oznacza 3 lipca, co zweryfikowano na obrazie.
 

@@ -1,0 +1,52 @@
+[!] Instrukcja wypełniania
+Wypełnij WIELKIMI LITERAMI w alfabecie łacińskim.
+W polach wyboru zaznacz właściwą opcję – postaw krzyżyk w kratce.
+	
+data
+	
+imię i nazwisko wnioskodawcy
+	
+imię i nazwisko osoby reprezentującej
+	
+adres do korespondencji
+	
+telefon kontaktowy, adres e-mail
+Kierownik Urzędu Stanu Cywilnego
+m.st. Warszawy
+Wniosek o wydanie odpisu aktu urodzenia
+Proszę o wydanie odpisu:  skróconego,  zupełnego,  skróconego na druku wielojęzycznym.
+Dane aktu urodzenia:
+imię lub imiona: 	
+nazwisko rodowe: 	
+numer PESEL (jeśli jest znany): 	
+imię ojca: 	
+imię matki: 	
+nazwisko rodowe matki 	
+data urodzenia (dzień, miesiąc, rok): 	
+miejsce urodzenia: 	
+numer aktu (jeśli jest znany): 	
+liczba odpisów: 		cel wydania odpisu: 	
+Jestem osobą uprawnioną do otrzymania wnioskowanego odpisu i występuję jako:
+ osoba, której dotyczy akt,
+ małżonek osoby, której dotyczy akt,
+ wstępny osoby, której dotyczy akt (np. jej rodzic),
+ zstępny osoby, której dotyczy akt (np. jej wnuk), 
+ rodzeństwo osoby, której dotyczy akt,
+ przedstawiciel ustawowy osoby, której dotyczy akt,
+ opiekun osoby, której dotyczy akt,
+ osoba, która wykaże interes prawny.
+	
+podpis wnioskodawcy
+	
+data i podpis osoby przyjmującej wniosek
+Opłata skarbowa
+22 zł – opłata za odpis skrócony.
+33 zł – opłata za odpis zupełny.
+Oświadczenie o wyrażeniu zgody na przetwarzanie danych osobowych
+Wyrażam zgodę na przetwarzanie przez Prezydenta m.st. Warszawy moich danych osobowych: numeru telefonu i adresu e-mail, aby urząd mógł przekazać mi istotne informacje o prowadzonym postępowaniu.
+	
+podpis wnioskodawcy
+[!] Wypełnia urzędnik:
+Adnotacje urzędowe: nr aktu 	
+Data wydania 	
+Podpis osoby wydającej 	
