@@ -1,4 +1,10 @@
-# Stan sesji — etap 3, 5 listopada 2026
+# Stan sesji — etap 4, 5 listopada 2026
+
+**Nowy punkt kontrolny:** 21 arkuszy, 73 źródła. Czesław P03 urodzony **03.07.1909 Rogoźno**, akt 241/1909, S071. Roman C01 otrzymał **P12** jako potwierdzony brat Czesława po porównaniu S061 i S071; C01 pozostaje aliasem, nie drugą osobą. Ślub Wincentego i Agnieszki **25.06.1905**, akt 73/1905, potwierdzony oryginałem S072. H004 przeniesiona do HIPOTEZY_ROZSTRZYGNIETE. Janina C03 pozostaje wykluczona jako pełna siostra, dalsze pokrewieństwo nieznane. Rodzice Bogusława i ojciec Piotra nadal niepotwierdzeni dokumentem.
+
+**Stocka 12:** znaleziono dokumentację posesji w S073, obrazy 62–67, oraz potwierdzono komisariat XI w pieczęci i w S069 (obraz 40). Nie jest to spis lokatorów; nie dowodzi obecności rodziny. Sucha IX to inna ulica. Uzyskano pełne manifesty jednostek XI 6209331, 6209332, 6209333 i 6209603; rozpoznanie ich układu trwa. Pierwsze oglądane formularze są chronologicznymi rejestrami przybyłych, nie prostym alfabetycznym wykazem mieszkańców. Nie wolno zakładać, że przejrzano całe księgi ani że dawne sygnatury z artykułu mają dziś identyczną treść/opis.
+
+Poniższy opis zachowano jako historię etapu 3; jego polecenie odczytu Czesława i ślubu 1905 zostało wykonane powyżej.
 
 Baza: 20 arkuszy, 70 źródeł, 26 kandydatów i osobno 20 tropów UT001–UT020 z łódzkich skorowidzów 1940/1941/1944. Rodzice Bogusława, jego brat i pokrewieństwo Piotra nadal niepotwierdzone dokumentem. R007/R008/R011/R012 pozostają relacjami rodzinnymi.
 
