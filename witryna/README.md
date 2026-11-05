@@ -1,4 +1,4 @@
-# Publiczne drzewo Marysi
+# Drzewo Marysi
 
 Adres: https://korzenie-marysi.maciekkoz187874.chatgpt.site
 
@@ -9,7 +9,7 @@ Użytkownik 05.11.2026 wybrał publiczny link, a następnie wyraźnie dopuścił
 ## Aktualizacja po kolejnej sesji
 
 1. Najpierw zaktualizować badania i Excel. Potem ręcznie zaktualizować wybrane, publiczne dane `generuj.py`. Nie eksportować automatycznie wszystkich pól Excela: zawierają również robocze dane, adresy i hipotezy o homonimach, które wymagają redakcji przed pokazaniem w drzewie.
-2. Do `events` dopisać istotny wynik, rzeczywisty commit zapisujący badania, tytuł, prosty opis i kategorię. Daty/godziny pobierane są z Git i opisane jako czas zapisu, nie dokładny moment odkrycia. Wpisy są sortowane po czasie; filtr ostatnich7dni używa bieżącego czasu odwiedzającego. Cała kronika pozostaje dostępna.
+2. Do `events` dopisać wyłącznie przełomowe odkrycie (nowa osoba potwierdzona dokumentem, rozstrzygnięte pokrewieństwo lub odnaleziony ważny akt), nigdy pojedynczą kwerendę, liczbę skanów, awarię albo otwarty trop. Łączyć powiązane ustalenia w jeden krótki wpis. Użytkownik zażądał prostego drzewa i bardzo krótkiej kroniki; nie przywracać ozdobnego wstępu ani długich objaśnień. Dla wpisu podać, rzeczywisty commit zapisujący badania, tytuł, prosty opis i kategorię. Daty/godziny pobierane są z Git i opisane jako czas zapisu, nie dokładny moment odkrycia. Wpisy są sortowane po czasie; filtr ostatnich7dni używa bieżącego czasu odwiedzającego. Cała kronika pozostaje dostępna.
 3. `python witryna/generuj.py`. Powstanie pełny `witryna/public/index.html`. Test przeglądarkowy: `python witryna/sprawdz.py` (Chromium/Playwright; w tym środowisku wymaga profilu wykonania umożliwiającego uruchomienie przeglądarki). W teście dostosować liczby osób/wpisów po świadomym rozszerzeniu drzewa. Sprawdzić telefon, dialogi, źródła i jawność H017 oraz poprawność publikowanych danych krewnych.
 4. Zapisać wygenerowany HTML, generator i zmiany w prywatnym GitHubie. Osobne repozytorium hostingu: lokalnie `/workspace/marysia-site`, gałąź `main`, zdalny adres poniżej. Do jego `dist/index.html` skopiować WYŁĄCZNIE publiczny HTML. Zachować `.openai/hosting.json` z dokładnym istniejącym project_id; nie tworzyć nowej witryny. W razie utraty katalogu odtworzyć z repozytorium hostingu.
 5. Push do repozytorium hostingu przy użyciu świeżego krótkotrwałego poświadczenia Sites (nie zapisywać tokenu w plikach/config ani w repo). Z aktualnego commitu przygotować TAR zawierający `.openai/hosting.json` i `dist/`. Obsługiwany format konfiguracji to `{"project_id":"…","static":{"directory":"dist"}}`.
@@ -27,3 +27,5 @@ Repozytorium źródłowe hostingu:
 - Badania i aktualizacje wymagają kolejnej aktywnej sesji. Nie uruchomiono harmonogramu, nie wysyłano wiadomości ani zaproszeń.
 
 Sprawdzono w Chromium widok1440px i390px, otwieranie kart i przechodzenie po powiązaniach, filtrowanie kroniki, brak błędów JavaScript i obecność znanych danych krewnych wraz z oznaczeniami niepewności.
+
+Aktualny układ po uproszczeniu: samo drzewo, krótkie oznaczenia dowodów i trzy przełomowe wpisy. Szczegóły są w kartach osób; nagłówek pokazuje datę wygenerowania strony.

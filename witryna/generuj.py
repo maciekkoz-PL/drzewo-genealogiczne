@@ -30,13 +30,9 @@ sources={
 'S027':dict(title='Fotografie nagrobka Tomasza',description='Fotografie rodzinne, niepublikowane w tym widoku.'),
 'REL':dict(title='Przekaz rodzinny',description='Informacja od rodziny; nie zastępuje dokumentu potwierdzającego pokrewieństwo.')}
 events=[
-('263d204','Gazeta o Janinie czeka na odczyt','Ustalono, że numer „Głosu Robotniczego” z 24.05.1957 jest dostępny tylko w sieci biblioteki. To otwarty trop, bez potwierdzenia tożsamości.','trop'),
-('7d5d35c','Sprawdzono kolejne publikacje','Przeszukano teksty 21 PDF-ów i zweryfikowano obrazy trzech fragmentów. Odróżniono homonimów; brak dodatkowego połączenia z datami rodziców.','badania'),
-('54a0177','Jedna pasująca para w przeszukanych indeksach','Kontrola 21 regionów Geneteki wskazała tylko parę Czesław Chmielewski–Janina Poprawka ze ślubu w Łodzi w 1936 r. Zakres indeksów jest niepełny.','badania'),
-('ea0d189','Dokument wskazał rodziców taty Marysi','Odpis ślubu Bogusława wymienia Czesława Chmielewskiego i Janinę Poprawkę. Nazwiska są potwierdzone; dodatkowa identyfikacja pary z 1936 r. pozostaje otwarta.','odkrycie'),
-('e2b9c5c','Potwierdzono datę urodzenia Czesława','Odczytano akt 241/1909: 3 lipca 1909, Rogoźno. Porównanie z aktem Romana potwierdziło, że mieli tych samych rodziców.','odkrycie'),
-('4108653','Odnaleziono akt urodzenia Janiny Poprawki','Akt 112/1910 wskazuje urodzenie 12 maja 1910 we wsi Socha, parafia Warta, oraz rodziców Józefa Poprawkę i Mariannę Kacprzak.','odkrycie'),
-('33c52a6','Odczytano akt Romana Chmielewskiego','Urodzony 6 czerwca 1919 w Rogoźnie, syn Wincentego i Agnieszki. Późniejsze porównanie aktów potwierdziło braterstwo z Czesławem.','odkrycie')]
+('ea0d189','Potwierdzono nazwiska rodziców Bogusława','Jego odpis ślubu wskazuje Czesława Chmielewskiego i Janinę Poprawkę.','odkrycie'),
+('e2b9c5c','Potwierdzono urodzenie Czesława i jego brata Romana','Akt z 1909 r. pozwolił ustalić datę urodzenia Czesława i potwierdzić wspólnych rodziców obu braci.','odkrycie'),
+('4108653','Odnaleziono akt urodzenia Janiny Poprawki','Akt z 1910 r. wskazuje jej rodziców: Józefa Poprawkę i Mariannę Kacprzak.','odkrycie')]
 news=[]
 for commit,title,body,kind in events:
  stamp=subprocess.check_output(['git','show','-s','--format=%cI',commit],cwd=ROOT,text=True).strip()

@@ -7,7 +7,8 @@ with sync_playwright() as p:
  page.locator('[data-id=P02]').click();assert page.locator('dialog').is_visible();assert 'Poprawk' in page.locator('#detail').inner_text()
  page.locator('[data-open=P03]').click();assert '1909' in page.locator('#detail').inner_text()
  page.locator('#close').click();page.locator('#fit').click();assert page.locator('.node').count()==13
- page.select_option('#period','all');assert page.locator('.entry').count()==7
+ page.select_option('#period','all');assert page.locator('.entry').count()==3
+ assert page.locator('.hero,.notice,.about').count()==0
  page.screenshot(path='/workspace/marysia-desktop.png',full_page=True)
  page.set_viewport_size({'width':390,'height':844});page.select_option('#people','P01');assert page.locator('dialog').is_visible()
  page.locator('#close').click();assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
@@ -15,4 +16,4 @@ with sync_playwright() as p:
  text=page.locator('#family-data').text_content()
  for known in ['Maria Jankowska','04.01.1942','Piotr Chmielewski','1969–1973','1984']:assert known in text,known
  page.select_option('#people','P10');assert 'Nie potwierdzono' in page.locator('#detail').inner_text()
- browser.close();print('PASS: 13 kart, dialogi i powiązania, kronika7wpisów, mobile390px, brak błędówJS, znane dane i oznaczenie niepewności')
+ browser.close();print('PASS: 13 kart, dialogi i powiązania, kronika3przełomów, mobile390px, brak błędówJS, znane dane i oznaczenie niepewności')
