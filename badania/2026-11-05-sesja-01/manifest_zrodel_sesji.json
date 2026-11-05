@@ -155,6 +155,36 @@
     "sha256": "a6af8dc1f2e373039981af8a598297e4fd84050a03bdfd1f84419de44869fd95"
   },
   {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186.html",
+    "size": 102381,
+    "sha256": "159ab63875a9b90005c4fa74ce4909542d570ae2d1f156afc2f02bcc3087e036"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186.jpg",
+    "size": 258810,
+    "sha256": "710a7a5d85925b2d2aeac17b1c4dfa1f41ae2743d328534f6cde932ba18377b5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186_person.json",
+    "size": 15929,
+    "sha256": "348d511afbd79028a849060747bf7153ed4d2132c4a3bf7972a5acc797c4ebd7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Chmielewska_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Chmielewska_GetCount.json",
+    "size": 10,
+    "sha256": "bd5b90ce520d1af1b349c6e2cfeb3b2baf4201d0a8ca738e5439c0bacafe12cc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Chmielewska_GetPersonList.json",
+    "size": 37970,
+    "sha256": "a4c8996fbd649775d359d9b7cee5766ceab7a50c22f272c14d369e00d0f14eff"
+  },
+  {
     "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Poprawka_BuildQueryGlobalForAngular.json",
     "size": 10,
     "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
@@ -223,6 +253,16 @@
     "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw.html",
     "size": 58943,
     "sha256": "2bfd4486b8c78251b7c2fdb64462a16680444b1805f8d2e61e1725b6c599fb27"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw_1940.html",
+    "size": 43522,
+    "sha256": "8baf0e59cca142397958bb8cae96113774c77f5c7c3e3bef193e4c472527e2c1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw_1942.html",
+    "size": 42486,
+    "sha256": "9269488197be4e1291ba5e1b3035ac6699bfdde6878b3b2cf02d476b2c2db83c"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Czeslaw1909.html",
@@ -673,6 +713,11 @@
     "path": "badania/2026-11-05-sesja-01/zrodla/SwA_6209707_35_manifest.json",
     "size": 18497,
     "sha256": "f0cf2d986ead931a1c54060d430f5f9ddad815ab4907cdb4bafd672f24b73e3d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/SwA_USC_165812_277_manifest.json",
+    "size": 162345,
+    "sha256": "c7590cd7e2a1f6ab29f599e642cce5270e2b25e896cccc117b2ebe71acf69025"
   },
   {
     "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_075.odpowiedz.html",

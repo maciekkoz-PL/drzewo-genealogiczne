@@ -1,5 +1,7 @@
 # S068 — właściwa droga do dokumentów meldunkowych
 
+**Aktualizacja po odczycie:** S069 wskazuje Stocką, całą, komisariat XI (obraz 40); S073 potwierdza XI pieczęcią posesji 12. S074 odnalazł nr 12 w księdze XI ks.III 25380, pozycje 9005–9006, obrazy 110–111, bez identyfikacji Chmielewskich w spisie wyjściowym 1931. W tym fragmencie adres bieżący wpisano w kolumnie adnotacji 12; kolumna 5 to poprzednie miejsce. Pierwotne poniższe uwagi „nie odczytano” opisują etap rozpoznania, a nie końcowy stan sesji. Szczegóły: S073/S074 i PLAN_KONTYNUACJI.md.
+
 Agnieszka Janik (Archiwum Państwowe w Łodzi), *System ewidencji ludności Łodzi i okolicznych gmin w latach 1932–1939 — przepisy, praktyka, stan zachowania archiwaliów*, „Archeion” CXVIII, 2017, s. 130–149. Odczytano przede wszystkim s. 137–148, w tym część o zachowanym zasobie na s. 144–146. Pobranie: 5 listopada 2026.
 
 Oficjalny PDF: https://archiwa.gov.pl/wp-content/uploads/2022/02/Archeion_118_2017.pdf . Pełna lokalna kopia: `zrodla/S068_Archeion_118_2017.pdf` (694 strony całego tomu; nie deklarowano analizy pozostałych artykułów).

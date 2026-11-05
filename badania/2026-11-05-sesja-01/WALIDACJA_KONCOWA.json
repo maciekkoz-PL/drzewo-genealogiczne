@@ -1,0 +1,1104 @@
+{
+  "access_utc": "2026-11-05T12:31:40.892372+00:00",
+  "status": "PASS",
+  "errors": [],
+  "notes": [],
+  "initial_workbook_sheets": 16,
+  "current_workbook_sheets": 21,
+  "sources": 81,
+  "candidate_and_alias_records": 32,
+  "person_ids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09",
+    "P10",
+    "P11",
+    "P12"
+  ],
+  "relations": 15,
+  "open_hypotheses": 12,
+  "resolved_hypotheses": 3,
+  "source_files_in_manifest": 233,
+  "validated_jpegs": 112,
+  "original_archive_sha256": "dee505614ae68d51ed55b5df834a7895281ec476575e1d6417725e9bf3317340",
+  "current_workbook_sha256": "2009a678db533676df31b9b8e29aac20a43d6de031da7eec60bbc56693a7ed76",
+  "original_archive_crc": "OK",
+  "files": [
+    {
+      "id": "F01",
+      "path": "Marysia_Zrodla/01_akt_110_1936_Czeslaw_Janina.jpg",
+      "matches": [
+        "Marysia_Zrodla/01_akt_110_1936_Czeslaw_Janina.jpg"
+      ]
+    },
+    {
+      "id": "F02",
+      "path": "Marysia_Zrodla/02_USC_Lodz_1943_okladka.jpg",
+      "matches": [
+        "Marysia_Zrodla/02_USC_Lodz_1943_okladka.jpg"
+      ]
+    },
+    {
+      "id": "F03",
+      "path": "Marysia_Zrodla/03_USC_Lodz_1943_strona_tytulowa.jpg",
+      "matches": [
+        "Marysia_Zrodla/03_USC_Lodz_1943_strona_tytulowa.jpg"
+      ]
+    },
+    {
+      "id": "F04",
+      "path": "Marysia_Zrodla/04_Tomasz_grob_1.jpeg",
+      "matches": [
+        "Marysia_Zrodla/04_Tomasz_grob_1.jpeg"
+      ]
+    },
+    {
+      "id": "F05",
+      "path": "Marysia_Zrodla/05_Tomasz_grob_2.jpeg",
+      "matches": [
+        "Marysia_Zrodla/05_Tomasz_grob_2.jpeg"
+      ]
+    },
+    {
+      "id": "F06",
+      "path": "Marysia_Zrodla/06_Tomasz_grob_3.jpeg",
+      "matches": [
+        "Marysia_Zrodla/06_Tomasz_grob_3.jpeg"
+      ]
+    },
+    {
+      "id": "F07",
+      "path": "raport_z_poprzedniej_sesji/Marysia_raport_2026-11-05.html",
+      "matches": [
+        "raport_z_poprzedniej_sesji/Marysia_raport_2026-11-05.html"
+      ]
+    },
+    {
+      "id": "F08",
+      "path": "archiwum_wersji_Excel/ (9 plików)",
+      "matches": [
+        "archiwum_wersji_Excel/Marysia_rejestr_2026-11-04_trop_Piotr_Policja.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_2026-11-04_weryfikacja_Piotrow.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_poszerzona_kwerenda.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_potwierdzone_zrodla_i_kontakty.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_rozszerzenie.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_trop_prasa_i_weryfikacja.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_weryfikacja_grobow.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_rodziny_aktualizacja_2026-11-04.xlsx",
+        "archiwum_wersji_Excel/Marysia_rejestr_rodziny_i_dzialan.xlsx"
+      ]
+    },
+    {
+      "id": "F09",
+      "path": "Marysia_Zrodla/akt110_lower_cropped.jpg",
+      "matches": [
+        "Marysia_Zrodla/akt110_lower_cropped.jpg"
+      ]
+    },
+    {
+      "id": "F10",
+      "path": "Marysia_Zrodla/akt110_upper_cropped.jpg",
+      "matches": [
+        "Marysia_Zrodla/akt110_upper_cropped.jpg"
+      ]
+    },
+    {
+      "id": "F11",
+      "path": "Marysia_Zrodla/akt110_witness_cropped.jpg",
+      "matches": [
+        "Marysia_Zrodla/akt110_witness_cropped.jpg"
+      ]
+    },
+    {
+      "id": "F12",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919_strona.png",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919_strona.png"
+      ]
+    },
+    {
+      "id": "F13",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919.jpg"
+      ]
+    },
+    {
+      "id": "F14",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S062_Janina_160_1913.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S062_Janina_160_1913.jpg"
+      ]
+    },
+    {
+      "id": "F15",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S063_Warta_1910_111-114.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S063_Warta_1910_111-114.jpg"
+      ]
+    },
+    {
+      "id": "F16",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1918_063-066.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Warta_1918_063-066.jpg"
+      ]
+    },
+    {
+      "id": "F17",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Kamionacz_1916_011-014.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Kamionacz_1916_011-014.jpg"
+      ]
+    },
+    {
+      "id": "F18",
+      "path": "badania/2026-11-05-sesja-01/S067_tropy_skorowidze.csv",
+      "matches": [
+        "badania/2026-11-05-sesja-01/S067_tropy_skorowidze.csv"
+      ]
+    },
+    {
+      "id": "F19",
+      "path": "badania/2026-11-05-sesja-01/zrodla/S068_Archeion_118_2017.pdf",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/S068_Archeion_118_2017.pdf"
+      ]
+    },
+    {
+      "id": "F20",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_043.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_043.jpg"
+      ]
+    },
+    {
+      "id": "F21",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_086.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_086.jpg"
+      ]
+    },
+    {
+      "id": "F22",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_062.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Stocka_062.jpg"
+      ]
+    },
+    {
+      "id": "F23",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_064.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Stocka_064.jpg"
+      ]
+    },
+    {
+      "id": "F24",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_065.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Stocka_065.jpg"
+      ]
+    },
+    {
+      "id": "F25",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_040.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Ulice25529_040.jpg"
+      ]
+    },
+    {
+      "id": "F26",
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_110.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_110.jpg"
+      ]
+    },
+    {
+      "id": "F27",
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_111.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_111.jpg"
+      ]
+    },
+    {
+      "id": "F28",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381403.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381403.jpg"
+      ]
+    },
+    {
+      "id": "F29",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380716.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380716.jpg"
+      ]
+    },
+    {
+      "id": "F30",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380976.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380976.jpg"
+      ]
+    },
+    {
+      "id": "F31",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70431406.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70431406.jpg"
+      ]
+    },
+    {
+      "id": "F32",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381086.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381086.jpg"
+      ]
+    },
+    {
+      "id": "F33",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70593973.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70593973.jpg"
+      ]
+    },
+    {
+      "id": "F34",
+      "path": "badania/2026-11-05-sesja-01/zrodla/SwA_USC_165812_277_manifest.json",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/SwA_USC_165812_277_manifest.json"
+      ]
+    },
+    {
+      "id": "F35",
+      "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw_1942.html",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw_1942.html"
+      ]
+    },
+    {
+      "id": "F36",
+      "path": "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw_1940.html",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/IPN_Boguslaw_1940.html"
+      ]
+    },
+    {
+      "id": "F37",
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186.jpg",
+      "matches": [
+        "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186.jpg"
+      ]
+    }
+  ],
+  "jpeg_dimensions": [
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380716.jpg",
+      "dimensions": [
+        2516,
+        1792
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70380976.jpg",
+      "dimensions": [
+        1264,
+        1736
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381086.jpg",
+      "dimensions": [
+        1264,
+        1744
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70381403.jpg",
+      "dimensions": [
+        1256,
+        1752
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70431406.jpg",
+      "dimensions": [
+        1264,
+        1768
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D70593973.jpg",
+      "dimensions": [
+        1264,
+        1768
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_D87875186.jpg",
+      "dimensions": [
+        1088,
+        760
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Kamionacz_1916_011-014.jpg",
+      "dimensions": [
+        3840,
+        2772
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_003.jpg",
+      "dimensions": [
+        2475,
+        3623
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_060.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_090.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_107.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_108.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_109.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_110.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_111.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_112.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_113.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209333_120.jpg",
+      "dimensions": [
+        3500,
+        2677
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209603_003.jpg",
+      "dimensions": [
+        2475,
+        3623
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209603_008.jpg",
+      "dimensions": [
+        3500,
+        2631
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209603_016.jpg",
+      "dimensions": [
+        3500,
+        2631
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209603_025.jpg",
+      "dimensions": [
+        3500,
+        2631
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/KomXI_6209603_033.jpg",
+      "dimensions": [
+        2681,
+        3634
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919.jpg",
+      "dimensions": [
+        2504,
+        3625
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/S062_Janina_160_1913.jpg",
+      "dimensions": [
+        3500,
+        2754
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/S063_Warta_1910_111-114.jpg",
+      "dimensions": [
+        4000,
+        3242
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_003.jpg",
+      "dimensions": [
+        2150,
+        3607
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_008.jpg",
+      "dimensions": [
+        2175,
+        3608
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_012.jpg",
+      "dimensions": [
+        2598,
+        2043
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_016.jpg",
+      "dimensions": [
+        2171,
+        3608
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_025.jpg",
+      "dimensions": [
+        2515,
+        1998
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_045.jpg",
+      "dimensions": [
+        2488,
+        1965
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_058.jpg",
+      "dimensions": [
+        2231,
+        3611
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_059.jpg",
+      "dimensions": [
+        2192,
+        3609
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_060.jpg",
+      "dimensions": [
+        2222,
+        3611
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_061.jpg",
+      "dimensions": [
+        2130,
+        3606
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_062.jpg",
+      "dimensions": [
+        2167,
+        3608
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_063.jpg",
+      "dimensions": [
+        2134,
+        3606
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_064.jpg",
+      "dimensions": [
+        2600,
+        2004
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_065.jpg",
+      "dimensions": [
+        2551,
+        1984
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_066.jpg",
+      "dimensions": [
+        2593,
+        2135
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_067.jpg",
+      "dimensions": [
+        2150,
+        3607
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_070.jpg",
+      "dimensions": [
+        2151,
+        3607
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Stocka_075.jpg",
+      "dimensions": [
+        2546,
+        1980
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_085.jpg",
+      "dimensions": [
+        3500,
+        2803
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_086.jpg",
+      "dimensions": [
+        3500,
+        2803
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1905_095.jpg",
+      "dimensions": [
+        3500,
+        2803
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_043.jpg",
+      "dimensions": [
+        3500,
+        2912
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_060.jpg",
+      "dimensions": [
+        3500,
+        2912
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_065.jpg",
+      "dimensions": [
+        3500,
+        2912
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Tomaszow1909_075.jpg",
+      "dimensions": [
+        3500,
+        2912
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_000.jpg.jpg",
+      "dimensions": [
+        2006,
+        2817
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-001.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-010.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-011.jpg.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-012.jpg.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-013.jpg.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-014.jpg.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_000.jpg.jpg",
+      "dimensions": [
+        2072,
+        2749
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_000b.jpg.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-01.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-08.jpg.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-09.jpg.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-10.jpg",
+      "dimensions": [
+        3799,
+        2769
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_000.jpg.jpg",
+      "dimensions": [
+        2167,
+        3069
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-001.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-010.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-014.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-015.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-016.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-017.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-018.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-019.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-020.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_000.jpg.jpg",
+      "dimensions": [
+        2172,
+        3057
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-01.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-08.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-09.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-10.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_000.jpg.jpg",
+      "dimensions": [
+        2207,
+        3045
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-001.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-010.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-011.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-012.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-013.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-014.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_000.jpg.jpg",
+      "dimensions": [
+        2147,
+        3077
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-01.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-07.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-08.jpg.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-10.jpg",
+      "dimensions": [
+        4100,
+        3100
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_035.jpg",
+      "dimensions": [
+        2398,
+        3619
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_037.jpg",
+      "dimensions": [
+        2401,
+        3620
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_038.jpg",
+      "dimensions": [
+        2418,
+        3620
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_039.jpg",
+      "dimensions": [
+        2418,
+        3620
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25529_040.jpg",
+      "dimensions": [
+        2405,
+        3620
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_025.jpg",
+      "dimensions": [
+        1710,
+        3585
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_027.jpg",
+      "dimensions": [
+        1712,
+        3585
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_028.jpg",
+      "dimensions": [
+        1697,
+        3584
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_029.jpg",
+      "dimensions": [
+        1720,
+        3586
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_032.jpg",
+      "dimensions": [
+        1705,
+        3585
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_033.jpg",
+      "dimensions": [
+        1711,
+        3585
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_034.jpg",
+      "dimensions": [
+        1705,
+        3585
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Ulice25530_035.jpg",
+      "dimensions": [
+        1683,
+        3584
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1910_SkU-1.jpg.jpg",
+      "dimensions": [
+        4000,
+        3242
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1910_SkU-2.jpg.jpg",
+      "dimensions": [
+        4000,
+        3242
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU-1.jpg.jpg",
+      "dimensions": [
+        4000,
+        3135
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU-2.jpg.jpg",
+      "dimensions": [
+        4000,
+        3135
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU-3.jpg.jpg",
+      "dimensions": [
+        4000,
+        3135
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU.jpg.jpg",
+      "dimensions": [
+        4000,
+        3135
+      ]
+    },
+    {
+      "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1918_063-066.jpg",
+      "dimensions": [
+        4637,
+        3456
+      ]
+    }
+  ],
+  "evidence_gate": {
+    "parents_of_boguslaw_confirmed": false,
+    "R007_R008": "RELACJA RODZINNA",
+    "branch_research": "WSTRZYMANE",
+    "allowed_tasks": [
+      "T01",
+      "T02",
+      "T08",
+      "T28"
+    ]
+  },
+  "USC_published_metadata": {
+    "count": 277,
+    "all_reference": "39/2736/0/-/26",
+    "all_year": 1940,
+    "read_images": false
+  }
+}

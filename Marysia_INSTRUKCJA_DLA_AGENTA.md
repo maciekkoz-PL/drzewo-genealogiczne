@@ -1,6 +1,11 @@
 # DRZEWO GENEALOGICZNE MARYSI — KOMPLETNY PAKIET PRZEKAZANIA AGENTOWI
+
+> **Najnowsze polecenie użytkownika — obowiązuje przed priorytetami historycznymi poniżej:** wstrzymać dalsze badania gałęzi Czesława i Janiny do potwierdzenia, że są rodzicami Bogusława. Aktywne pozostaje wyłącznie ustalenie rodziców Bogusława na podstawie jego dokumentu. Przeczytaj [RODZICE_BOGUSLAWA_PRIORYTET.md](RODZICE_BOGUSLAWA_PRIORYTET.md) oraz aktualny plan. Nie wznawiać kwerend tej gałęzi na podstawie dawnej tabeli priorytetów.
+
+> **Aktualizacja po sesji 05.11.2026:** poniższa instrukcja zachowuje treść pakietu startowego i jego historyczne tablice. Bieżący Excel został rozszerzony i nie jest już identyczny z tymi tablicami. Aktualne ustalenia, stan dowodów i wykonane kwerendy: [raport sesji](badania/2026-11-05-sesja-01/RAPORT_SESJI.md), [stan](badania/2026-11-05-sesja-01/STATUS.md), [plan kontynuacji](badania/2026-11-05-sesja-01/PLAN_KONTYNUACJI.md). Przeczytaj je przed ponowieniem poszukiwań. Oryginalna instrukcja i baza pozostają w niezmienionym ZIP oraz historii Git. Nowe skany znajdują się w `badania/2026-11-05-sesja-01/zrodla/`; `Marysia_Zrodla/` z pakietu należy odczytywać wewnątrz oryginalnego ZIP zgodnie z audytem.
+
 **Stan na 5 listopada 2026 r.** | Opracowanie autonomiczne — NIE wymaga dostępu do bieżącej rozmowy.
-Dokument ten i plik `Marysia_KOMPLET_BAZA_2026-11-05.xlsx` stanowią spójny stan badań. Źródła oryginalne w katalogu `Marysia_Zrodla/`; archiwalne poprzednie arkusze są wyłącznie historyczne.
+Dokument ten i początkowa wersja pliku `Marysia_KOMPLET_BAZA_2026-11-05.xlsx` stanowiły stan przekazania. Źródła oryginalne są w katalogu `Marysia_Zrodla/` wewnątrz ZIP; archiwalne poprzednie arkusze są wyłącznie historyczne. Powyższa aktualizacja wskazuje stan po nowych badaniach.
 
 ## Cel i rygor dowodowy
 - Cel: odnaleźć żyjących krewnych Marysi od strony jej nieżyjącego ojca Bogusława Kazimierza Chmielewskiego, ze szczególnym uwzględnieniem kuzyna Piotra Chmielewskiego, około 55-letniego w 2026 r., prawdopodobnie policjanta z Łodzi. Nie szukać prywatnych adresów ani telefonów osób żyjących; stosować zgodne z prawem, dobrowolne kanały kontaktu.

@@ -1,0 +1,43 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "query": {
+      "uniqueId": "OHJrnKtJjtq9Rj2y9o3D",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Janina Chmielewska",
+      "synSearch": true
+    },
+    "access_utc": "2026-11-05T12:07:07.252600+00:00",
+    "status": 200,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Chmielewska_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "query": {
+      "uniqueId": "OHJrnKtJjtq9Rj2y9o3D",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "access_utc": "2026-11-05T12:07:08.531102+00:00",
+    "status": 200,
+    "sha256": "bd5b90ce520d1af1b349c6e2cfeb3b2baf4201d0a8ca738e5439c0bacafe12cc",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Chmielewska_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "query": {
+      "uniqueId": "OHJrnKtJjtq9Rj2y9o3D",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "access_utc": "2026-11-05T12:07:09.998941+00:00",
+    "status": 200,
+    "sha256": "a4c8996fbd649775d359d9b7cee5766ceab7a50c22f272c14d369e00d0f14eff",
+    "path": "badania/2026-11-05-sesja-01/zrodla/Arolsen_Janina_Chmielewska_GetPersonList.json"
+  }
+]

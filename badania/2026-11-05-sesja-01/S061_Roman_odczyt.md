@@ -17,7 +17,7 @@ Data dostępu: 2026-11-05. Bezpośrednie pobranie JPG zwróciło HTML ochronny, 
 - Dziecko płci męskiej urodzone w Rogoźnie 6 czerwca 1919 o godzinie 12 w południe; nadano imię Roman.
 - Matka: ślubna małżonka Wincentego, Agnieszka z Miszczyszynów. Zapis wieku matki zawiera poprawkę; nie wykorzystano go do ustalenia jej daty urodzenia.
 
-Dokument potwierdza rodziców i datę urodzenia Romana. Zgodne imiona rodziców, nazwisko panieńskie matki i miejscowość łączą go bardzo mocno z rodziną Czesława opisaną w akcie 110/1936. Do pełnego porównania pozostaje odczyt 241/1909. Nie jest to dowód na rodziców Bogusława ani ojca Piotra. Nie ustalono potomków Romana.
+Dokument potwierdza rodziców i datę urodzenia Romana. **Później w tej samej sesji odczytano akt Czesława 241/1909 (S071)**. Zgodni oboje rodzice, nazwisko panieńskie matki, Rogoźno, zawód ojca i zmiana jego wieku 36→46 w ciągu dziesięciu lat pozwalają potwierdzić ich braterstwo. Roman otrzymał **P12**, wcześniejszy **C01** pozostaje aliasem. Nie jest to brat Bogusława ani dowód rodziców Bogusława lub ojca Piotra. Potomkowie Romana pozostają nieustaleni.
 
 ## Uzupełnienie dostępu — etap 2
 
