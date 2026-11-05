@@ -1,0 +1,15 @@
+{
+  "status": "Zapisane w projekcie konfiguracji środowiska; nieaktywne w bieżącej instancji podczas kontroli 2026-11-05. Ten plik nie zmienia polityki sieciowej.",
+  "allowed_domains": [
+    "familysearch.org",
+    "genealodzy.pl",
+    "geneteka.genealodzy.pl",
+    "metryki.genealodzy.pl",
+    "polona.pl",
+    "szukajwarchiwach.gov.pl",
+    "www.familysearch.org",
+    "www.genealodzy.pl",
+    "www.polona.pl",
+    "www.szukajwarchiwach.gov.pl"
+  ]
+}
