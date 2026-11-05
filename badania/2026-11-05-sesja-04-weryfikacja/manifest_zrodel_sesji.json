@@ -1,0 +1,887 @@
+[
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/Timenote_Janina1916.html",
+    "size": 38918,
+    "sha256": "39010a7d95a96d4acb1afb84b4acca731dc90d98266f349229d01f190a00d2ea"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/Timenote_Janina1916.html.txt",
+    "size": 1865,
+    "sha256": "781bf193fbf70f60bdf200a2883c6e97dc9e0b8ab5970417993025c01bad90cb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/WBP_Janina_query.html",
+    "size": 101169,
+    "sha256": "336b6c4c1e15b5245b8130264ee324eb928e408bc96cfce4180fbe7222ca985b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/WBP_Janina_query.html.txt",
+    "size": 6477,
+    "sha256": "2f8879bbb07104903598325f2c6ad42b2e9b4efde47eed4261fb4058abc5519e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/WBP_root.html",
+    "size": 191770,
+    "sha256": "462f362e4f8d9cc4262ad7e320c4a6613d09bb54169bc0db1a5459feae9a6b4c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/WBP_root.html.txt",
+    "size": 12630,
+    "sha256": "ccdbf2c10fdfb58f5663c80d1c1f11933cdcc9a60e6d027807d7d4de1daa9b2e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/WGM_Janina_sw1319650.html",
+    "size": 24513,
+    "sha256": "12dce1927ad5467f2a7ea117cadad1a39c642da0f7c2ef2c28c156c1ea6261dd"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/WGM_Janina_sw1319650.html.txt",
+    "size": 6205,
+    "sha256": "85c18943335717eef1a33aca48a61bfeefcc095ec9fe5219ef7c7d1c0bd7dfb3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/additional/downloads.json",
+    "size": 1571,
+    "sha256": "f38f96962daf49244ec501c46355d8357e8606a6acdb6bea08542e6308d32812"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/catalogues/downloads.json",
+    "size": 1236,
+    "sha256": "e58129036dc3f7d3177d2dc763738291ed1a4fe059cbc69d08342a697bd805dc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/catalogues/geneteka.html",
+    "size": 78719,
+    "sha256": "dde82f8b9fe42f617692bf00cb3fc96bf40f17ea4ccd942491c4444a44a858b9"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/catalogues/geneteka_js_download.json",
+    "size": 286,
+    "sha256": "f79dd6f2fc61f8c85fac5be2bdfdb2614e9b76f177019eca22396144a6cf6225"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/catalogues/geneteka_main.js",
+    "size": 10649,
+    "sha256": "552a6072641111cd126e3c8a48e26561b042e677f3a41874aa2bf9e8b4d640aa"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/catalogues/ipn_home.html",
+    "size": 37910,
+    "sha256": "2a962d8e75d975dfce65bc2c0a9fe27c50bd7fa790ed15c9ab2c07fc1f2c67c0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/catalogues/ipn_polish_5355242.html",
+    "size": 44304,
+    "sha256": "c398a1d32de216a560fff863e2b695f6a39e72693f504967f13fec687759b7d5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/fetch_catalogues.py",
+    "size": 1406,
+    "sha256": "0be88b374933bb5d572a9dcdebc52f6ea85f1d5b222df96d51ec296be0abfa56"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/control_1936.json",
+    "size": 71,
+    "sha256": "31c639b5c1bf56e00d86a32456e6914232138beb68b8838df528cc05b72af0f0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/control_downloads.json",
+    "size": 24488,
+    "sha256": "395e10c211005457a49daae19c69b5a6579564605c426f36d82cc8356cb58aca"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/control_full_xhr.json",
+    "size": 1080,
+    "sha256": "86de3ab691bc08468dc56b51f67cee01ee65af4d4f1e7b6b3c5590fda08dab4a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/control_research_ua.json",
+    "size": 71,
+    "sha256": "31c639b5c1bf56e00d86a32456e6914232138beb68b8838df528cc05b72af0f0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/ld_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/ld_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/ld_S_1900_1960.json",
+    "size": 71,
+    "sha256": "31c639b5c1bf56e00d86a32456e6914232138beb68b8838df528cc05b72af0f0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/01ds_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/01ds_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/01ds_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/02kp_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/02kp_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/02kp_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/03lb_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/03lb_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/03lb_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/04ls_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/04ls_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/04ls_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/05ld_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/05ld_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/05ld_S_1880_1960.json",
+    "size": 1080,
+    "sha256": "86de3ab691bc08468dc56b51f67cee01ee65af4d4f1e7b6b3c5590fda08dab4a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/06mp_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/06mp_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/06mp_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/07mz_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/07mz_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/07mz_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/08op_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/08op_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/08op_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/09pk_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/09pk_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/09pk_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/10pl_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/10pl_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/10pl_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/11pm_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/11pm_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/11pm_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/12sl_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/12sl_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/12sl_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/13sk_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/13sk_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/13sk_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/14wm_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/14wm_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/14wm_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/15wp_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/15wp_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/15wp_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/16zp_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/16zp_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/16zp_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/21uk_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/21uk_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/21uk_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/22br_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/22br_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/22br_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/23lt_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/23lt_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/23lt_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/25po_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/25po_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/25po_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/71wa_B_1930_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/71wa_D_1930_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/71wa_S_1880_1960.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/downloads.json",
+    "size": 546383,
+    "sha256": "e5e2c1ca07e8f8a89fc2576b0bd371e5c3a6bdf973e19983a39d6abdc3982920"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/ld_B_Boguslaw1942_1944_fixed.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/ld_D1988_fixed.json",
+    "size": 599,
+    "sha256": "a567ab85b401cb7d739ef69973815d1efd7077b8a5b6ef371a9e540c3649dd62"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/nationwide/positive_control_1936.json",
+    "size": 1080,
+    "sha256": "86de3ab691bc08468dc56b51f67cee01ee65af4d4f1e7b6b3c5590fda08dab4a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/protocol_downloads.json",
+    "size": 10550,
+    "sha256": "2f19abb515b773821dc2634eb7647127d7ed1bd73417b280bd64b980fbf3119c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/01ds_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/02kp_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/03lb_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/04ls_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/05ld_S_0.json",
+    "size": 1080,
+    "sha256": "86de3ab691bc08468dc56b51f67cee01ee65af4d4f1e7b6b3c5590fda08dab4a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/06mp_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/07mz_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/08op_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/09pk_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/10pl_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/11pm_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/12sl_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/13sk_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/14wm_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/15wp_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/16zp_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/21uk_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/22br_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/23lt_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/25po_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/71wa_S_0.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/surname_pairs/downloads.json",
+    "size": 171637,
+    "sha256": "6b5329b9e8624a08489b02060ffab2cd6ef58411274eab673f7955d4c8bad049"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka/ui.html",
+    "size": 81197,
+    "sha256": "e6102d1ceb1d5a513e2320ec6088102a17682a943af93f1858f42c38d76de1e2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka_control.py",
+    "size": 1407,
+    "sha256": "26a89c651b7a53314d268b94ae654d29a9145d21b554b6490c30b5c6069cc884"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka_nationwide.py",
+    "size": 3752,
+    "sha256": "0bac7873f9bdbe05edc58278606a01532f95e19aa1ba245edee1d5be9225f366"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka_protocol.py",
+    "size": 1759,
+    "sha256": "5685bec2833c99404c3b49f390d4d51c0df586af9bba2459a7583023b9b36120"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/geneteka_surnames.py",
+    "size": 2156,
+    "sha256": "85a0b8d3a896ac53ae971ba79fcd29f634797b99b1ac5cf06d07d63a2b0b8201"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/dates_downloads_and_results.json",
+    "size": 5120,
+    "sha256": "69773469c6e609cf22f28badd465ade5a15d04fb81a455e7bd4780464cf062b0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/dates_p0.html",
+    "size": 63528,
+    "sha256": "982d302ad965b1568cdc2b94c315e057de1f19e9bc71123ba6f7905d2f0737d6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/dates_warm.html",
+    "size": 64995,
+    "sha256": "b3821a94e957e3704949a53a8a88dc70d7d8e7ac95244d246f1604e0a4e35af0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/dob_p0.html",
+    "size": 63528,
+    "sha256": "982d302ad965b1568cdc2b94c315e057de1f19e9bc71123ba6f7905d2f0737d6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/downloads_and_results.json",
+    "size": 71678,
+    "sha256": "1a8fcf352be540ac2c51670ad98510844aaf62deb230196eb10f989d1fa12681"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/en_dates_p0.html",
+    "size": 63528,
+    "sha256": "982d302ad965b1568cdc2b94c315e057de1f19e9bc71123ba6f7905d2f0737d6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/en_warm.html",
+    "size": 63528,
+    "sha256": "982d302ad965b1568cdc2b94c315e057de1f19e9bc71123ba6f7905d2f0737d6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/english_dates_downloads_and_results.json",
+    "size": 5077,
+    "sha256": "d580221c23ef4441bd3ea325510daed661a84d1cd847c246eba3c9e7014a29b4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/name_p0.html",
+    "size": 70323,
+    "sha256": "6be6a8f9c434a7a365f5f3cd18d79d90f994a9ae2decaaaaf7f3eedf7d8a1e9e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/name_p1.html",
+    "size": 68111,
+    "sha256": "21e17b37a9e45fa06a0443dfd72418f5668f536344e47f7c7c86cd13b351554f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/name_p2.html",
+    "size": 71354,
+    "sha256": "06a8f763aa0089b83e4d729e173d4e042c58c5c7f219ab692d71e9908ef0a1cb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/name_p3.html",
+    "size": 71354,
+    "sha256": "b7d344613a7a8b6dc5da2b7e85746351e1bd750c55b4e9838728318a980924d1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn/name_p4.html",
+    "size": 92610,
+    "sha256": "aad4ea37d0ba9438560ee60fa66fa08fdf76fda255ed9373028c3c5f60372778"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn_complete.py",
+    "size": 2621,
+    "sha256": "ac77393ffb0e9d43e825aba4a0bce4339b1cfcc81cccdca6472a23097c31b848"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn_date_routes.py",
+    "size": 1991,
+    "sha256": "319a46c3e24059999e522869ec753d5f5435c73b50217584350e168ad497c998"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/ipn_dates.py",
+    "size": 2049,
+    "sha256": "4bc3aa5cffc63dd145e00a5f6f9aaba01fc799fa0b182bf7176a8b094403243b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/new_leads.py",
+    "size": 2325,
+    "sha256": "2f1743cefbc64216a9a520633c936c75ef3611eb68235ec9b6e458ede9220741"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/press_and_memorials.py",
+    "size": 2427,
+    "sha256": "21f43c9b5e5bd638f3fbb28fa0224f327b6dffd722687f2255531e6762c098be"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/downloads.json",
+    "size": 46283,
+    "sha256": "bcc54c3a7cf80705997de9c286712bd7a33c7db10bdd8d35c9982dc3902515df"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_boguslaw.html",
+    "size": 30894,
+    "sha256": "87bcf6bb5f7dc002bebb020ae66cc9ccdacf3c370da870b935d73f3c7602d6cf"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_boguslaw.txt",
+    "size": 2258,
+    "sha256": "4daca45a0c64402fc65af0f35d054d948598832d78cb8babf02a547b26ca712c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_czeslaw.html",
+    "size": 32552,
+    "sha256": "ca5ea4b0e3c1617d6e6b5ae84e107879c93f7dd0db7c1779b00f07d5e4924198"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_czeslaw.txt",
+    "size": 2274,
+    "sha256": "0d89094d55da57dbbf69a944dc860cb9b733d5473f2bff3ac12ada23eb82773d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_janina.html",
+    "size": 32475,
+    "sha256": "bf08fcbd36f2f869cc147aeb4fef1b3ba0129dcd596cc7e40d7ea3d2b8539c84"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_janina.txt",
+    "size": 2238,
+    "sha256": "fd862d61414b62a1f5cc129e078c2038e4efc24c5000366f4ba9c6ffc05a977f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_maiden.html",
+    "size": 24352,
+    "sha256": "1422ad24ac0f577430cf237e13d4fa2f3398c12c3d3de49471a2c199278bb935"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/timenote_maiden.txt",
+    "size": 1333,
+    "sha256": "de4cef7d296ec205dadbecca52647359b10d73163bfe701d4190a02374eeaabc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_boguslaw.html",
+    "size": 43209,
+    "sha256": "05dd7550c55b72e32c75ffbe498a9986cf670066bd18273e417f5170fa939c47"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_boguslaw.txt",
+    "size": 2520,
+    "sha256": "9ccdd0344686ec080432ca814fefb5c99fa51ae313d2dcaa0ebbd2bc6b3d14db"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_boguslaw_inflected.html",
+    "size": 50251,
+    "sha256": "dbf04fab0b88c7845406f64ef78f944b19b1ba7bc5d963493a2621eb7401426a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_boguslaw_inflected.txt",
+    "size": 3278,
+    "sha256": "6dc22c43bb8e3b2b7cb61d53e7490cb00de4c7629100e4e307311e0a4e293a49"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_janina_poprawka.html",
+    "size": 28913,
+    "sha256": "6de84f1dca93410dc7f20c675a84455b73900783213b1c7f48da3f02e210d5a7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_janina_poprawka.txt",
+    "size": 1814,
+    "sha256": "7d6ca05381738fb1522d1be6b87120e7cb9095d961356c02bddc3e2c2f5ba387"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_parents_pair.html",
+    "size": 79104,
+    "sha256": "631eab1bf107a18c0c9f4bf2cf1fbf59035b570693452fbf6864f5ee0574a70d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/searches/wbp_parents_pair.txt",
+    "size": 6007,
+    "sha256": "641425fc855aa2ae9628fe37f23787b4f97f11ec983f064e92fd802371dc3d51"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_19090703.html",
+    "size": 32200,
+    "sha256": "27b9c8cd5942cc934f4753c8957c745636dd16022cf19ea547a24ab1ebd78c35"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_19100512.html",
+    "size": 32341,
+    "sha256": "d09f2eae4ff79c7ad2558b6eca5988b7c6cfd9de69ff91c061f2028484408fa3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_19160810.html",
+    "size": 32496,
+    "sha256": "dbb3e84545f34de4a0ecb5fa8c0fe19b920755f7085535fef77acba9db013c47"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_19430425.html",
+    "size": 32447,
+    "sha256": "ecade5fe41eed64cd7a42ea3c82778ffd044bba2f6dc68403392502bcdce6f17"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_19810116.html",
+    "size": 32384,
+    "sha256": "6d1e7281a262b9aa855f66bf53cdc142063435b70508cea2cd4722e115a89d49"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_19910612.html",
+    "size": 32429,
+    "sha256": "e504930b80625737c78cb01fec4cbadda50e4c67b0d3c394ab7192f58aaf9281"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_19940522.html",
+    "size": 32460,
+    "sha256": "4cff2035d1b91f2d4382b0695669625ecdcd9559bd87065bc467472d8d37372e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/day_20011218.html",
+    "size": 32331,
+    "sha256": "6f7a308d89a70070c383a7ef4a91b4014cf42bfedde28dbe1f84543b9ff0d9ff"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/death_days_downloads.json",
+    "size": 4713,
+    "sha256": "e595bf79eba13b52c5d1f293ef77ea866bcffcd87ea86456e9cbf2f79ea4f1ed"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote/downloads.json",
+    "size": 4262,
+    "sha256": "671655a1090ac7859b3b79a0b087ba89253b9cc5768f0a27355b02ed140c6133"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote_days.py",
+    "size": 1406,
+    "sha256": "fa6897c144a2812857aaef63e8aeeba91818515866a3223e6227c8c09831dd04"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/timenote_death_days.py",
+    "size": 1417,
+    "sha256": "3fb5ba7b910dd5d28c7db04135229752972c0277b7a5c74e5aaec395dbff010e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_access_and_geneteka.json",
+    "size": 1744,
+    "sha256": "8866cfcd043959a4ca4ce96a112d6f4c23387d61af455f7c7eded4f093225f05"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_bip_ipn.json",
+    "size": 22583,
+    "sha256": "6f1d7bb44d2666bfbf0d698e1aacd1c59a67b047d17da4286fb728bd5c9c4fd5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_cemetery_dates.json",
+    "size": 25441,
+    "sha256": "19cb3991a6ca011e3b7c11a5107c603c1179d0fffefae846cafa8cae61613598"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_correct_web_schema.json",
+    "size": 24133,
+    "sha256": "3a3d6bd2c17de1676b2e0e8f3ab8ebec8b67eefce7e9b55b4270545fc932866e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_death_dates.json",
+    "size": 23363,
+    "sha256": "9dd112e3547fa85c271bd512ef61ece22abbb5e0e19db7eab50a74a20c2e5e97"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_identity_alternatives.json",
+    "size": 25287,
+    "sha256": "f50afb32da933a97860b13458f48d0f3210f105ff78b8b48bb7753c5d15aa476"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_ipn_search.json",
+    "size": 24214,
+    "sha256": "12d613fd1baca61b1b5fad10f122c9468764148430d5efc4e4737687966aa491"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_mother_candidates_open.json",
+    "size": 10256,
+    "sha256": "3593353fb9773913b2408bb4c7a88d3437204c917b6d6a72b6853cbfd847a9e3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_obituary_targeted.json",
+    "size": 22800,
+    "sha256": "5b04deccbef663014c1b79908a90b59890629ae0939c9ded0d55d2c3ee139b26"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_single_name_search.json",
+    "size": 22759,
+    "sha256": "844d069543c7bc459ec1d0eb36599f0ed518341991ebf20c7f6103dbee75f3dd"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_timenote_leads.json",
+    "size": 963,
+    "sha256": "c811aacd806bd6b58a226eeb62b8b413de159628d0328b8d60e22f0bdba1a298"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-04-weryfikacja/zrodla/web/s04_usc_catalogue_api.json",
+    "size": 25952,
+    "sha256": "1e571d2cc1aa3d1658a5c188805453302dbd2014ef3c30e147e07d589d83dcc7"
+  }
+]

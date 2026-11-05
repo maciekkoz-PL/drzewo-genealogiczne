@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lista osób</title>
+<link href="/css/style.css?v=CA" rel="stylesheet"
+    type="text/css" >
+<link rel="alternate" title="timenote.info RSS"
+    href="/lv/person/rss" type="application/rss+xml">
+<!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <link href="/css/style-lt-ie-9.css" rel="stylesheet">
+    <script src="/js/respond.js"></script>
+<![endif]-->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@NekropoleInfoPL" />
+<meta name="identifier" content="203" />
+<meta name="title" content="Lista osób" />
+<meta name="format" content="text/html" />
+<meta name="type" content="Text" />
+<meta name="date" content="2026-11-05T17:20:53+01:00" />
+<meta name="language" content="pl" />
+<meta name="publisher" content="Nekropole.info" />
+<meta name="rights" content="CC-BY-www.nekropole.info" />
+
+<script type="text/javascript">
+/*
+    window.onerror = function (msg, file, line) 
+    {
+        if (navigator.userAgent.indexOf("Googlebot") > 0)
+           return;
+        var data = "Page: " + window.location.href + "; Message: " + msg + "; file: " + file + "; Line number: " + line + "; User Agent: " + navigator.userAgent;
+
+new Request.JSON (
+{
+            method: "post",
+            url: "/js-error",
+        }).send("error=" + encodeURIComponent(data));
+    }
+*/
+    </script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8043317489105987"
+     crossorigin="anonymous"></script>
+<script type="text/javascript" src="/js/MooTools-Core-1.5.1.js"></script><script type="text/javascript" src="/js/MooTools-More-1.5.1.effects.js"></script><script src="/js/global.js?v=C9"></script><script src="/js/menu.js?v=C9"></script><meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="msapplication-TileImage" content="/img/icons/apple-touch-icon-152x152.png" />
+<meta name="msapplication-TileColor" content="#2f3035" />
+<link rel="apple-touch-icon" sizes="152x152" href="/img/icons/apple-touch-icon-152x152.png" />
+<link rel="shortcut icon" type="image/png" href="/img/icons/favicon.png" />
+
+
+
+
+<script type="text/javascript">
+window.addEvent("domready", function()
+{
+	$$("#lang li.active").addEvent("click", function (oLink)
+    {
+        toggleLanguage();
+    });
+	
+    $$("#lang li.language-link").each(function (oLink)
+	{
+		oLink.addEvent("click", function(oEvent)
+		{
+			Cookie.write("_nl", this.get("data-lang"), {path:"/", duration:30});
+			window.location = this.get("data-link");
+		});
+	});
+	
+	function toggleLanguage()
+	{
+		var oList = $("language-select-all");
+		
+		var oStyle = new Fx.Morph(oList, 
+		{
+			duration: 'short',
+			transition: Fx.Transitions.Sine.easeOut
+		});
+		
+		if (oList.getStyle("height")=="0px")
+		{
+			var oLanguageBG = new Element("div");
+			
+			oLanguageBG.set("id", "language_bg");
+			
+			oLanguageBG.set("id", "language_bg");
+			
+			oLanguageBG.setStyles({
+				display: 'block',
+				position: 'fixed',
+				top: 0,
+				left: 0,
+				width: '100%',
+			    height: '100%'
+			});
+			
+			oLanguageBG.addEvent("click", function()
+			{
+				toggleLanguage();
+			});
+			
+			oLanguageBG.inject($(document.body));
+			
+			oStyle.start({"height" : [0, 220]}); //+24
+		}else
+		{
+			$("language_bg").destroy();
+			oStyle.start({"height" : [220, 0]});
+		}
+	}
+});</script>
+<script>
+        Cookie.write('_nt', new Date().getTimezoneOffset()*-60, {duration:7,path:'/'});
+        if(Nekropole==undefined){var Nekropole={"language":"pl","BASEURL":"/","LANGUAGES":["lv","ru","en","pl","ua","de","lt","ee","fr","se","he"],"JSMSGDURATION":10000,
+        "track":function(parameters) {if(!parameters)return false;try{parameters.unshift('_trackEvent');_gaq.push(parameters);}catch(e){return false;}return true;} 
+        }};
+        </script>
+<script src="/js/model.js?v=C9"></script>
+<script src="/js/users/user.js?v=C9"></script>
+<script src="/js/alert.js?v=C9"></script>
+<script src="/js/donate_pop_up.js?v=C9"></script>
+<script src="/js/toggle_images.js?v=C9"></script>
+
+<script type="text/javascript">var _nu = new Nekropole.User();_nu.loadByObject({"id":null,"name":null,"surname":null,"permissions":null,"config":{"imgList":null,"openNewWindow":null,"blackBackground":null}});</script></head>
+
+<body class="white">
+    <div id="background-header"></div>
+    <div id="header" class="container">
+        <div id="namesday-section"><div id="name-days" class="orange right clear"><div class="name-days-date bold">05. listopada</div><div class="name-days-names no-decoration"><span class="font user"></span>Imieniny obchodzą: <a class="bold">Zachariasz</a>, <a class="bold">Dalemir</a>, <a class="bold">Blandyn</a>, <a class="bold">Blandyna</a>, <a class="bold">Sławomir</a>, <a class="bold">Modesta</a>, <a class="bold">Elżbieta</a>, <a class="bold">Florian</a></div></div></div>
+        <div id="navigation-fix"><div id="logo-section">
+            <h1 class="logo no-margin" lang="pl"><a href="/pl" class="icon icon-logo-timenote"><span class="none">Timenote</span></a></h1>
+            <div class="top-menu-toggle"><span class="font menu"></span></div>
+            <a href="/pl/person/add" rel="nofollow"><div class="top-menu-person"><span class="font person-add"></span></div></a>
+        </div>
+        <div id="navigation" class="nav-collapse">
+            <div class="menu">
+                <ul class='list-unstyled'><li><a href="/pl/persons">Osoby</a></li><li><a href="/pl/place">Miejsca</a></li><li><a href="/pl/map">Mapa</a></li><li><a href="/pl/events">Wydarzenia</a></li><li><a href="/pl/cemetery">Cmentarze</a></li><li><a href="/pl/announces">Ogłoszenia</a></li><li><a href="/pl/about">Idea portalu</a></li><li><a href="/pl/donate">Wsparcie </a></li></ul>
+                <div class="top-menu-toggle">X</div>
+            </div>
+            <div id="profile"><div id="color-switch"><a href="/pl/user/switch-color" rel="nofollow"><span class="font sun"></span><span class="font moon"></span></a></div><div class="logged-out"><ul class="mobile-nav list-unstyled"><li><a href="/pl/user/login" rel="nofollow">Zaloguj się</a></li><li><a href="/pl/user/register" rel="nofollow">Rejestracja</a></li></ul><form name="login" method="post" action="/pl/user/login"><input type="hidden" name="task" value="login" /><input type="text" placeholder="Login lub e-mail" tabindex="20" name="login" /><input type="password" placeholder="Hasło" tabindex="21" name="pass" /><input class="button button-orange" type="submit" tabindex="22" value="Zaloguj się" /></form></div></div>
+            <div id="lang"><ul id="language-select" class="styled-select"><li class="active"><div class="flag flag-pl"></div>Polski<div class="select-arrow right"></div></li><li><ul id="language-select-all"><li class="language-link" data-lang="de" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=de&amp;"><div class="flag flag-de"></div>Deutsch</li><li class="language-link" data-lang="en" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=en&amp;"><div class="flag flag-en"></div>English</li><li class="language-link" data-lang="ru" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=ru&amp;"><div class="flag flag-ru"></div>Русский</li><li class="language-link" data-lang="lt" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=lt&amp;"><div class="flag flag-lt"></div>Lietuvių</li><li class="language-link" data-lang="lv" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=lv&amp;"><div class="flag flag-lv"></div>Latviešu</li><li class="language-link" data-lang="fr" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=fr&amp;"><div class="flag flag-fr"></div>Francais</li><li class="language-link" data-lang="pl" data-link="/pl/person/list"><div class="flag flag-pl"></div>Polski</li><li class="language-link" data-lang="he" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=he&amp;"><div class="flag flag-he"></div>Hebrew</li><li class="language-link" data-lang="ua" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=ua&amp;"><div class="flag flag-ua"></div>Український</li><li class="language-link" data-lang="ee" data-link="/?day=19090703&amp;order=0&amp;start=0&amp;pid=203&amp;lang=ee&amp;"><div class="flag flag-ee"></div>Eestikeelne</li></ul></li></ul></div>
+        </div></div>
+        <div class="clear"></div>
+        <div class="second-container">
+            <q id="moto-section" lang="pl">Nasi bliscy są z nami dopóki pamięć o nich nas nie opuściła<span class="icon icon-moto-top"></span></q>
+            <div id="search-section">
+                <form name="search" action="/pl/search" method="get">
+                    <!--#search-type#-->
+                    <button class="button button-sm"><span class="font search"></span>Wyszukaj</button>
+                    <span><input name="q" value="" type="search" class="input input-sm" placeholder="Wyszukiwanie w bazie danych" /><span class="font delete"></span></span>
+                </form>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="content" class="container">
+        <div class="page">
+            
+                    <div class="social-links-container addthis-float">
+                            <a class="social-link-twitter" href="https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Ftimenote.info%2Fpl%2Fperson%2Flist%2Fday%2F19090703" rel="nofollow" target="_blank">
+                    <span class="share-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"
+            version="1.1" role="img" aria-label="Twitter"
+            style="max-width: 26px; max-height: 26px;"
+            class="at-icon at-icon-twitter">
+            <title>Twitter</title>
+            
+            <rect width="32" height="32" style="fill: #1da1f2;" />
+            
+            <path
+                style="fill:rgb(255, 255, 255)"
+                d="M27.996 10.116c-.81.36-1.68.602-2.592.71a4.526 4.526 0 0 0 1.984-2.496 9.037 9.037 0 0 1-2.866 1.095 4.513 4.513 0 0 0-7.69 4.116 12.81 12.81 0 0 1-9.3-4.715 4.49 4.49 0 0 0-.612 2.27 4.51 4.51 0 0 0 2.008 3.755 4.495 4.495 0 0 1-2.044-.564v.057a4.515 4.515 0 0 0 3.62 4.425 4.52 4.52 0 0 1-2.04.077 4.517 4.517 0 0 0 4.217 3.134 9.055 9.055 0 0 1-5.604 1.93A9.18 9.18 0 0 1 6 23.85a12.773 12.773 0 0 0 6.918 2.027c8.3 0 12.84-6.876 12.84-12.84 0-.195-.005-.39-.014-.583a9.172 9.172 0 0 0 2.252-2.336"
+                fill-rule="evenodd">
+            </path>
+        </svg>
+                            </span>
+                </a>
+                                <a class="social-link-fb" href="https://www.facebook.com/dialog/share?app_id=709029504557259&display=popup&href=https%3A%2F%2Ftimenote.info%2Fpl%2Fperson%2Flist%2Fday%2F19090703&redirect_uri=https%3A%2F%2Ftimenote.info%2Fpl%2Fperson%2Flist%2Fday%2F19090703" rel="nofollow" target="_blank">
+                    <span class="share-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"
+            version="1.1" role="img" aria-label="Facebook"
+            style="max-width: 26px; max-height: 26px;"
+            class="at-icon at-icon-facebook">
+            <title>Facebook</title>
+            <rect width="32" height="32" style="fill: #3b5998;" />
+            <path
+                style="fill: rgb(255, 255, 255);"
+                d="M22 5.16c-.406-.054-1.806-.16-3.43-.16-3.4 0-5.733 1.825-5.733 5.17v2.882H9v3.913h3.837V27h4.604V16.965h3.823l.587-3.913h-4.41v-2.5c0-1.123.347-1.903 2.198-1.903H22V5.16z"
+                fill-rule="evenodd">
+            </path>
+        </svg>
+                            </span>
+                </a>
+                                <a class="social-link-odnoklassniki" href="https://connect.ok.ru/offer?url=https%3A%2F%2Ftimenote.info%2Fpl%2Fperson%2Flist%2Fday%2F19090703&title=" rel="nofollow" target="_blank">
+                    <span class="share-icon">
+                        
+        <svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"
+            version="1.1" role="img" aria-label="Odnoklasniki"
+            style="max-width: 26px; max-height: 26px;"
+            class="at-icon at-icon-odnoklassniki">
+        
+        <rect x="0" y="0" width="32" height="32"
+          style="fill:rgb(95.686275%,45.098039%,7.058824%);fill-opacity:1;stroke:none;" />
+        <g style="fill:#FFFFFF">
+            <path
+                    
+                    d="M 16 4.636719 C 12.824219 4.636719 10.25 7.144531 10.25 10.234375 C 10.25 13.328125 12.824219 15.832031 16 15.832031 C 19.171875 15.832031 21.746094 13.328125 21.746094 10.234375 C 21.746094 7.144531 19.171875 4.636719 16 4.636719 Z M 16 12.550781 C 14.6875 12.550781 13.621094 11.511719 13.621094 10.234375 C 13.621094 8.957031 14.6875 7.921875 16 7.921875 C 17.3125 7.921875 18.375 8.957031 18.375 10.234375 C 18.375 11.511719 17.3125 12.550781 16 12.550781 Z M 16 12.550781 " />
+            <path
+                    d="M 18.027344 20.289062 C 20.328125 19.832031 21.707031 18.769531 21.78125 18.710938 C 22.453125 18.1875 22.5625 17.230469 22.023438 16.574219 C 21.484375 15.917969 20.5 15.8125 19.824219 16.335938 C 19.8125 16.347656 18.339844 17.449219 15.921875 17.449219 C 13.5 17.449219 12 16.347656 11.984375 16.335938 C 11.3125 15.8125 10.328125 15.917969 9.789062 16.574219 C 9.246094 17.230469 9.355469 18.1875 10.027344 18.710938 C 10.101562 18.769531 11.539062 19.859375 13.90625 20.304688 L 10.609375 23.660156 C 10.007812 24.265625 10.027344 25.230469 10.648438 25.8125 C 10.949219 26.097656 11.34375 26.238281 11.734375 26.238281 C 12.140625 26.238281 12.550781 26.082031 12.859375 25.773438 L 15.921875 22.597656 L 19.292969 25.792969 C 19.902344 26.386719 20.894531 26.386719 21.503906 25.792969 C 22.113281 25.195312 22.113281 24.234375 21.5 23.640625 Z M 18.027344 20.289062 " />
+        </g>
+</svg>
+
+                    </span>
+                </a>
+                                <a class="social-link-vkontakte" href="http://vk.com/share.php?url=https%3A%2F%2Ftimenote.info%2Fpl%2Fperson%2Flist%2Fday%2F19090703&title=&noparse=true" rel="nofollow" target="_blank">
+                    <span class="share-icon">
+                        
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+viewBox="0 0 32 32" 
+role="img"
+style="max-width: 26px; max-height: 26px;"
+version="1.1"
+class="at-icon at-icon-vkontakte">
+
+<rect x="0" y="0" width="32" height="32" style="fill:rgb(29.803922%,45.882353%,63.921569%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 15.75 22 L 16.976562 22 C 16.976562 22 17.347656 21.960938 17.535156 21.757812 C 17.710938 21.570312 17.703125 21.21875 17.703125 21.21875 C 17.703125 21.21875 17.679688 19.570312 18.445312 19.328125 C 19.199219 19.089844 20.164062 20.917969 21.191406 21.625 C 21.964844 22.15625 22.554688 22.039062 22.554688 22.039062 L 25.296875 22 C 25.296875 22 26.730469 21.914062 26.050781 20.785156 C 25.996094 20.691406 25.65625 19.949219 24.011719 18.425781 C 22.292969 16.832031 22.523438 17.089844 24.59375 14.328125 C 25.855469 12.648438 26.359375 11.621094 26.203125 11.179688 C 26.050781 10.761719 25.125 10.875 25.125 10.875 L 22.039062 10.894531 C 22.039062 10.894531 21.808594 10.863281 21.640625 10.964844 C 21.472656 11.0625 21.367188 11.292969 21.367188 11.292969 C 21.367188 11.292969 20.878906 12.59375 20.226562 13.699219 C 18.851562 16.035156 18.300781 16.160156 18.078125 16.015625 C 17.554688 15.675781 17.683594 14.65625 17.683594 13.933594 C 17.683594 11.671875 18.027344 10.726562 17.015625 10.484375 C 16.679688 10.402344 16.433594 10.347656 15.574219 10.339844 C 14.472656 10.328125 13.542969 10.34375 13.015625 10.601562 C 12.664062 10.773438 12.390625 11.15625 12.558594 11.179688 C 12.761719 11.207031 13.222656 11.304688 13.46875 11.636719 C 13.785156 12.066406 13.773438 13.035156 13.773438 13.035156 C 13.773438 13.035156 13.957031 15.695312 13.347656 16.027344 C 12.933594 16.253906 12.363281 15.792969 11.136719 13.671875 C 10.507812 12.589844 10.035156 11.390625 10.035156 11.390625 C 10.035156 11.390625 9.941406 11.164062 9.78125 11.046875 C 9.582031 10.902344 9.304688 10.855469 9.304688 10.855469 L 6.371094 10.875 C 6.371094 10.875 5.933594 10.886719 5.769531 11.078125 C 5.625 11.246094 5.757812 11.601562 5.757812 11.601562 C 5.757812 11.601562 8.054688 16.972656 10.65625 19.679688 C 13.039062 22.164062 15.75 22 15.75 22 "/>
+</svg>
+
+                    </span>
+                </a>
+                                <a class="social-link-draugiem" href="https://www.draugiem.lv/say/ext/add.php?url=https%3A%2F%2Ftimenote.info%2Fpl%2Fperson%2Flist%2Fday%2F19090703&title=&nopopup=1&login=0" rel="nofollow" target="_blank">
+                    <span class="share-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32"
+            version="1.1" role="img" aria-label="Draugiem"
+            style="max-width: 26px; max-height: 26px;"
+            class="at-icon at-icon-draugiem">
+            <title>Draugiem.lv</title>
+            
+            <rect width="32" height="32" style="fill: #f47312;" />
+            
+            <g style="fill: rgb(255, 255, 255);">
+                <ellipse cx="14.05" cy="7.3" rx="1.61" ry="2.06"></ellipse>
+                <ellipse transform="rotate(-2.487 10.235 7.757)" cx="10.239"
+                    cy="7.76" rx="1.48" ry="1.9"></ellipse>
+                <ellipse transform="rotate(-177.507 17.95 7.78)" cx="17.951"
+                    cy="7.78" rx="1.48" ry="1.9"></ellipse>
+                <path
+                    d="M17.79 10.23c-.49-.02-.9.09-1.21.31.37.56.53 1.31.47 2.2-.07.88-.32 1.73-.56 2.55-.05.16-.09.31-.14.47.09.4.16.79.18 1.18.08 1.39.12 2.49.11 3.25 0 .51.32 1.01.83 1.03.51.02.86-.54.88-.93.02-.4.1-1.42.31-3.3s.84-2.23 1.06-4.11c.19-1.61-.53-2.59-1.93-2.65zM14.1 9.98c-1.52 0-2.35 1.03-2.21 2.78.15 2.05.82 2.45.96 4.51.14 2.05.18 3.16.18 3.59 0 .43.35 1.06.91 1.06s.93-.528.95-1.08c.02-.84.11-2.04.27-3.54.16-1.5.93-3.03 1.05-4.6.12-1.64-.61-2.72-2.11-2.72zM11.8 15.94a9.11 9.11 0 0 0-.24-.79c-.21-.63-.42-1.28-.5-2.35-.07-.93.11-1.7.51-2.28-.31-.2-.7-.3-1.17-.28-1.4.06-2.12 1.04-1.93 2.65.22 1.88.85 2.22 1.06 4.11.21 1.89.29 2.91.31 3.3s.37.96.88.93c.51-.02.83-.52.83-1.03-.01-.76.03-1.87.11-3.25.02-.35.07-.68.14-1.01z"></path>
+                <path
+                    d="M28.45 14.78c-.78-2.12-3.65-3.19-7.35-3.08 2.36.17 4.12 1.02 4.66 2.49 1.02 2.78-2.7 6.72-8.32 8.79-5.62 2.08-11.01 1.5-12.04-1.28-.58-1.58.37-3.53 2.33-5.31-3.28 2.43-5.01 5.31-4.18 7.57 1.26 3.4 7.85 4.102 14.728 1.56C25.15 23 29.7 18.19 28.45 14.78z"></path>
+            </g>
+        </svg>
+                            </span>
+                </a>
+                        </div>
+        <h1>LIsta osób </h1><p><a href="/pl/person/list?task=toggleImages" 
+            rel="nofollow" 
+            class="button toggle-images unchecked">Ze zdjęciem</a><a href="/pl/person/add" class="button add" rel="nofollow">Dodaj osobę</a> </p><p>Osoby, które urodziły się lub zmarły tego dnia: 03.07.1909</p><table><thead><tr><th></th><th><a href="/pl/person/list?day=19090703&amp;order=1">Osoba</a></th><th class="hide-mobile show-desktop"><a href="/pl/person/list?day=19090703&amp;order=2">Data urodzenia</a></th><th class="hide-mobile show-desktop"><a href="/pl/person/list?day=19090703&amp;order=4">Data śmierci</a></th><th class="hide-mobile show-desktop">Język</th></tr></thead><tbody><tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Tymoteusz-Adamcio" class="person-link">Tymoteusz Adamcio</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">12.10.1966</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Janina-Bednarska-03.07.1909" class="person-link">Janina Bednarska</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">26.02.1980</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Boleslaw-Bekala" class="person-link">Bolesław Bekała</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">05.10.1975</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Ignacy-Benedyczak" class="person-link">Ignacy Benedyczak</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">03.10.1986</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Stefan-Bielecki-03.07.1909" class="person-link">Stefan Bielecki</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">27.10.1968</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Stanislawa-Bieniek-03.07.1909" class="person-link">Stanisława Bieniek</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">05.01.1971</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Stefan-Bienkowski-03.07.1909" class="person-link">Stefan Bieńkowski</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">24.08.1987</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Aleksander-Boryskin" class="person-link">Aleksander Boryskin</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">09.12.1993</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Joanna-Bubilek" class="person-link">Joanna Bubiłek</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">02.03.2004</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Jozef-Butowski-03.07.1909" class="person-link">Józef Butowski</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">03.02.1977</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Aniela-Ciasnocha-03.07.1909" class="person-link">Aniela Ciasnocha</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">26.02.1988</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Zofia-Dacko-03.07.1909" class="person-link">Zofia Dacko</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">27.09.1982</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Tadeusz-Diug" class="person-link">Tadeusz Diug</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">28.10.1989</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Jan-Drewing-03.07.1909" class="person-link">Jan Drewing</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">07.09.1966</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Anna-Dukaczewska-03.07.1909" class="person-link">Anna Dukaczewska</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">07.06.1990</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Marianna-Gawronska-03.07.1909" class="person-link">Marianna Gawrońska</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">19.10.1994</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Maria-Gieglewska" class="person-link">Maria Gieglewska</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">05.03.1980</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Wiera-Goscicka" class="person-link">Wiera Gościcka</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">21.11.1956</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-male"></span></div></td><td><a href="/pl/Mieczyslaw-Grygowski" class="person-link">Mieczysław Grygowski</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">03.03.1983</td><td class="hide-mobile show-desktop">pl</td></tr>
+<tr><td><div class="thumb person-thumb"><span class="font no-image-female"></span></div></td><td><a href="/pl/Helena-Gorka-03.07.1909" class="person-link">Helena Górka</a></td><td class="hide-mobile show-desktop">03.07.1909</td><td class="hide-mobile show-desktop">02.09.2002</td><td class="hide-mobile show-desktop">pl</td></tr>
+</tbody></table><p class="splits" data-link-target="_self"><b>1-20</b> : <a href="/pl/person/list?order=0&amp;day=19090703&amp;start=20">21-40</a> : <a href="/pl/person/list?order=0&amp;day=19090703&amp;start=40">41-60</a> : <a href="/pl/person/list?order=0&amp;day=19090703&amp;start=60">61-80</a> : <a href="/pl/person/list?order=0&amp;day=19090703&amp;start=80">81-100</a> : <a href="/pl/person/list?order=0&amp;day=19090703&amp;start=100">101-117</a> <a class="sys" href="/pl/person/list?order=0&amp;day=19090703&amp;start=20" rel="next">&gt;</a> <a class="sys" href="/pl/person/list?order=0&amp;day=19090703&amp;start=100">&raquo;</a> <a class="sys" href="/pl/person/list?order=0&amp;day=19090703&amp;start=100">100-117</a> </p><script>
+        var _ne = [];
+        _ne.push(['i',203]);
+        _ne.push(['t','web']);
+        _ne.push(['l','pl']);
+        var _no={id:203,type:'web',lang:'pl',pageId:'203'};
+        </script>
+        </div>
+        <div id="content-admin-menu"></div>
+        <!--#translator#-->
+    </div>
+    <div id="footer" class="container orange">
+        <div class="row">
+            <div class="footer-background col-12">
+                <div id="ftRt">
+                    <p class="small text-right no-margin" id="statistics"></p>
+                </div>
+            </div>
+            <div class="footer-copyright col-12">
+               <p class="small col-12 col-desktop-6">
+                    @copy; 2011-2026, Timenote.info, Biedrība. <a href="/pl/copy">Warunki usługi</a>
+                </p>
+                <p class="small col-12 col-desktop-6 text-right">
+                    e-mail: <a href="/cdn-cgi/l/email-protection#0a63646c654a7e63676f64657e6f2463646c65"><span class="__cf_email__" data-cfemail="20494e464f6054494d454e4f54450e494e464f">[email&#160;protected]</span></a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div id="donate-pop-up" class="donate-pop-up">
+<div id="donate-background" class="donate-background js-bg"></div>
+<div class="donate-pop-up-wrap">
+<div class="donate-header">Dziękujemy za wizytę w naszej encyklopedii.</div>
+<div class="donate-content">
+<p>Jeśli podoba się Wam to co robimy, zapraszamy do udziału w projekcie "Timenote". Nie mamy możliwości napisania o wszystkich zmarłych bez Waszej pomocy. Każdy z Was może w Nekropole dodać zapisy o krewnych i znajomych dla zachowania wspomnień o nich dla następnych pokoleń. Składamy również podziękowania tym, którzy chcą wesprzeć finansowo encyklopedię timenote.info, aby mogła dalej się rozwijać.</p>
+</div>
+<div class="border-bottom"></div>
+<div class="donate-payment">
+<div class="col-12 col-desktop-8 no-padding">
+<div class="donate-payment-info">
+<ul class="small list-unstyled">
+<li><span class="orange">Stowarzyszenia:</span>Timenote.info, Biedrība</li>
+<li><span class="orange">Nr. Rej.:</span>40008208926</li>
+<li><span class="orange">Bank:</span>AS SWEDBANK</li>
+<li><span class="orange">Nr rachunku.:</span>LV12HABA0551036552408</li>
+<li><span class="orange">Kod bankowy:</span>HABALV22</li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+<div class="col-12 col-desktop-4 no-padding">
+<div class="donate-payment-button">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input name="cmd" type="hidden" value="_donations"> <input name="business" type="hidden" value="info@nekropole.info"> <input name="lc" type="hidden" value="LV"> <input name="item_name" type="hidden" value="Nekropole INFO"> <input name="no_note" type="hidden" value="0"> <input name="currency_code" type="hidden" value="EUR"> <input name="bn" type="hidden" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest"> <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image" style="border:0;display:block;margin:0 auto;"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" style="height:1px; width:1px"></form>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="donate-footer">Wszyscy jesteśmy niewielką częścią historii ludzkości, zapraszamy do pisania jej razem!</div>
+<div id="donate-pop-up-close" class="donate-close">x</div>
+</div>
+</div>
+
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+window.addEvent("domready", function () {
+    if ($("commentList"))
+        $("commentList").scrollTop = $("commentList").scrollHeight;
+});
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D9S1BH8EBF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D9S1BH8EBF');
+</script>
+
+
+    <script>
+var _nServer;
+document.addEventListener("DOMContentLoaded", function () 
+{
+    if (undefined==_nServer)
+        _nServer = document.location.protocol + "//stats.nekropole.info/";
+    
+    var s = document.createElement("script");
+    s.setAttribute("type", "text/javascript");
+    s.setAttribute("src", _nServer+"js/g.js" );
+    document.body.appendChild (s);
+}, false);
+</script>
+
+</body>
+</html>

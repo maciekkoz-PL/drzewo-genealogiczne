@@ -1,0 +1,30 @@
+{
+  "params": {
+    "open": [
+      {
+        "ref_id": "https://timenote.info/pl/person/list/day/19160810"
+      }
+    ],
+    "system2_search_query": [
+      {
+        "q": "site:timenote.info \"Czesław Chmielewski\" \"1981\""
+      },
+      {
+        "q": "site:timenote.info \"Janina Chmielewska\" \"1910\""
+      },
+      {
+        "q": "site:timenote.info \"Janina Chmielewska\" \"1991\""
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Empty search results\nNo results were found for the provided queries\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn461968view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://timenote.info/pl/person/list/day/19160810\",\"lineno\":null}); \nURL https://timenote.info/pl/person/list/day/19160810 is not accessible via this tool."
+      }
+    ],
+    "isError": false
+  }
+}

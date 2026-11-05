@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=05ld",
+    "path": "work/h017-s04/catalogues/geneteka.html",
+    "access_utc": "2026-11-05T16:06:07.101048+00:00",
+    "status": 200,
+    "final_url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=05ld",
+    "content_type": "text/html; charset=UTF-8",
+    "size": 78719,
+    "sha256": "dde82f8b9fe42f617692bf00cb3fc96bf40f17ea4ccd942491c4444a44a858b9"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/node/5355242",
+    "path": "work/h017-s04/catalogues/ipn_polish_5355242.html",
+    "access_utc": "2026-11-05T16:06:08.398398+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/node/5355242",
+    "content_type": "text/html; charset=UTF-8",
+    "size": 44304,
+    "sha256": "c398a1d32de216a560fff863e2b695f6a39e72693f504967f13fec687759b7d5"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/",
+    "path": "work/h017-s04/catalogues/ipn_home.html",
+    "access_utc": "2026-11-05T16:06:10.024371+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/",
+    "content_type": "text/html; charset=UTF-8",
+    "size": 37910,
+    "sha256": "2a962d8e75d975dfce65bc2c0a9fe27c50bd7fa790ed15c9ab2c07fc1f2c67c0"
+  }
+]

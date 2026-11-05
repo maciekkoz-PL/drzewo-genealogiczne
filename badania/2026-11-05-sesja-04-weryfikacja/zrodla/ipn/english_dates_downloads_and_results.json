@@ -1,0 +1,91 @@
+[
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search",
+    "access_utc": "2026-11-05T16:15:00.579377+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search",
+    "size": 63528,
+    "sha256": "982d302ad965b1568cdc2b94c315e057de1f19e9bc71123ba6f7905d2f0737d6",
+    "path": "work/h017-s04/ipn/en_warm.html",
+    "actual_query": [
+      ""
+    ],
+    "count_label": "Results 1 - 10 of 3019145",
+    "total": 3019145,
+    "results": [
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Chełmie [1975] 1983-1990 IPN signature IPN Lu 359/13078 see description Title Akta paszportowe o sygnaturze EACH: Mieczysław Deneka, imię ojca: Józef, ur. 19-05-1938 r. Read more Read less Date range 1984 - 1989",
+        "links": [
+          "/en/node/5632466"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Kaliszu [1975] 1983-1990 IPN signature IPN Ld 537/187927 see description Title Akta paszportowe o sygnaturze EAKL: Kotecki Grzegorz Józef, imię ojca: Józef, data urodzenia: 01-02-1971 Read more Read less Date range 1989 - 1989",
+        "links": [
+          "/en/node/5632465"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Lublinie [1944] 1983-1990 IPN signature IPN Lu 010/260 see description Title Sprawa operacyjnego sprawdzenia przerejestrowana na sprawę rozpracowania operacyjnego kryptonim „Legion” prowadzona w związku ze zmagazynowaniem broni i archiwum Legionu Ukraińskiego w okolicach wsi Dziekanów i Moroczyn w pow. hrubieszowskim w czerwcu 1944 r. Read more Read less Date range 1961 - 1969",
+        "links": [
+          "/en/node/5632464"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Kaliszu [1975] 1983-1990 IPN signature IPN Ld 537/44848 see description Title Akta paszportowe o sygnaturze EAKL: Wackerman Piotr Krzysztof, imię ojca: Antoni, data urodzenia: 28-05-1964 Read more Read less Date range 1982 - 1989",
+        "links": [
+          "/en/node/5632463"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Kaliszu [1975] 1983-1990 IPN signature IPN Ld 537/44109 see description Title Akta paszportowe o sygnaturze EAKL: Konarczak-Bojanek z d. Konarczak Irena, imię ojca: Stefan, data urodzenia: 17-05-1961. Read more Read less Date range 1982 - 1989",
+        "links": [
+          "/en/node/5632462"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Piotrkowie Trybunalskim [1975] 1983-1990 IPN signature IPN Ld 536/158071 see description Title Akta paszportowe o sygnaturze EAPT: Krawczyński Marek Teodor, imię ojca: Jan, data urodzenia: 20-04-1951 Read more Read less Date range 1989 - 1990",
+        "links": [
+          "/en/node/5632461"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Lublinie [1944] 1983-1990 IPN signature IPN Lu 011/204 see description Title Akta śledztwa prowadzonego przeciwko: Paweł Zawiślak, imię ojca: Jakub, ur. 11-10-1919 r./13-12-1913 r., podejrzanemu o to, że w okresie okupacji niemieckiej odwiózł furmanką na posterunek Żandarmerii w Turobinie trzech obywateli polskich narodowości żydowskiej, których następnie rozstrzelano, tj. o popełnienie przestępstwa z art. 1 pkt. 2 Dekretu z dn. 31-08-1944 r. Read more Read less Date range 1950 - 1950",
+        "links": [
+          "/en/node/5632460"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Piotrkowie Trybunalskim [1975] 1983-1990 IPN signature IPN Ld 536/112476 see description Title Akta paszportowe o sygnaturze EAPT: Terkalska z d. Olborska Halina Barbara, imię ojca: Marian, data urodzenia: 02-09-1956 Read more Read less Date range 1988 - 1990",
+        "links": [
+          "/en/node/5632459"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Piotrkowie Trybunalskim [1975] 1983-1990 IPN signature IPN Ld 536/101095 see description Title Akta paszportowe o sygnaturze EAPT: Kilańska z d. Woźniak Dorota Maria, imię ojca: Józef, data urodzenia: 22-11-1967 Read more Read less Date range 1988 - 1989",
+        "links": [
+          "/en/node/5632458"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Skierniewicach [1975] 1983-1990 IPN signature IPN Ld 535/51105 see description Title Akta paszportowe o sygnaturze EASK: Szymbert Tadeusz Robert, imię ojca: Zbigniew, data urodzenia: 09-11-1964 Read more Read less Date range 1987 - 1989",
+        "links": [
+          "/en/node/5632457"
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%2225-04-1943%22",
+    "access_utc": "2026-11-05T16:15:03.117985+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search",
+    "size": 63528,
+    "sha256": "982d302ad965b1568cdc2b94c315e057de1f19e9bc71123ba6f7905d2f0737d6",
+    "path": "work/h017-s04/ipn/en_dates_p0.html",
+    "actual_query": [
+      ""
+    ],
+    "error": "Criterion lost"
+  }
+]

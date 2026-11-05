@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://timenote.info/pl/Janina-Chmielewska-10.08.1916",
+    "access_utc": "2026-11-05T16:23:36.333887+00:00",
+    "status": 200,
+    "final_url": "https://timenote.info/pl/Janina-Chmielewska-10.08.1916",
+    "size": 38918,
+    "sha256": "39010a7d95a96d4acb1afb84b4acca731dc90d98266f349229d01f190a00d2ea",
+    "path": "work/h017-s04/additional/Timenote_Janina1916.html"
+  },
+  {
+    "url": "https://www.sejm-wielki.pl/b/sw.1319650",
+    "access_utc": "2026-11-05T16:23:37.062707+00:00",
+    "status": 200,
+    "final_url": "https://www.sejm-wielki.pl/b/sw.1319650",
+    "size": 24513,
+    "sha256": "12dce1927ad5467f2a7ea117cadad1a39c642da0f7c2ef2c28c156c1ea6261dd",
+    "path": "work/h017-s04/additional/WGM_Janina_sw1319650.html"
+  },
+  {
+    "url": "https://bc.wbp.lodz.pl/dlibra",
+    "access_utc": "2026-11-05T16:23:38.483819+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra",
+    "size": 191770,
+    "sha256": "462f362e4f8d9cc4262ad7e320c4a6613d09bb54169bc0db1a5459feae9a6b4c",
+    "path": "work/h017-s04/additional/WBP_root.html"
+  },
+  {
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+Chmielewska%22&action=SimpleSearchAction&type=-6&p=0",
+    "access_utc": "2026-11-05T16:23:43.706405+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+Chmielewska%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 101169,
+    "sha256": "336b6c4c1e15b5245b8130264ee324eb928e408bc96cfce4180fbe7222ca985b",
+    "path": "work/h017-s04/additional/WBP_Janina_query.html"
+  }
+]

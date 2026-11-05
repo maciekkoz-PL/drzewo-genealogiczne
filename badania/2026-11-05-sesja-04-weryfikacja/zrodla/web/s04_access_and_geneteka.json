@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn663415view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://inwentarz.ipn.gov.pl/node/5355242\",\"lineno\":null}); \nURL https://inwentarz.ipn.gov.pl/node/5355242 is not accessible via this tool.\n--------------------------------------------------------------------------------\nGeneteka baza Polskiego Towarzystwa Genealogicznego (https://geneteka.genealodzy.pl/index.php?lang=pol&op=gt&w=05ld)\n【turn663415view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=05ld\",\"lineno\":null}); Total lines: 8\nL0: \nL1: [Input] [Input] [Input] Teren: [Select] Parafia: [Select] Osoba: [Input: Nazwisko] [Input: Imię] oraz: [Input: Nazwisko] [Input: Imię] Zakres lat: od [Input: ] do [Input: ] Opcje: [Input] Wyszukiwanie dokładne 【0†Image: W wynikach musi wystąpić dokładnie takie nazwisko jak wpisane w polu】\nL2: [Input] Wyszukaj jako para 【0†Image: Podane dwie osoby muszą wystąpić w akcie jako para (młodzi lub rodzice)】\nL3: [Input] Nie wyszukuj w rodzicach 【0†Image: Nie uwzględnia danych rodziców przy wyszukiwaniu】\nL4: [Input] Wyszukaj również w pobliskich parafiach (15km)\nL5: [Input] Wyszukaj tylko indeksy z ostatnich [Select] 【0†Image: Wyszukuje indeksy dodane, zaktualizowane i poprawione w wybranym okresie czasu】\nL6: [Input] [Input] 【1†Jak indeksować】\nL7: Online: 177, ver. 1.80 © 2010-2026 【2†Polskie Towarzystwo Genealogiczne†genealodzy.pl】 :: :: Producentem Geneteki (w rozumieniu ustawy o ochronie baz danych) jest Polskie Towarzystwo Genealogiczne\n"
+    }
+  ],
+  "isError": false
+}

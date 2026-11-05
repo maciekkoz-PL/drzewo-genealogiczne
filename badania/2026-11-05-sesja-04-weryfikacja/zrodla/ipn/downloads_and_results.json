@@ -1,0 +1,475 @@
+[
+  {
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=%2225-04-1943%22&page=0",
+    "params": {
+      "fraza": "\"25-04-1943\"",
+      "page": 0
+    },
+    "access_utc": "2026-11-05T16:07:42.838806+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search",
+    "size": 63528,
+    "sha256": "982d302ad965b1568cdc2b94c315e057de1f19e9bc71123ba6f7905d2f0737d6",
+    "path": "work/h017-s04/ipn/dob_p0.html",
+    "actual_query": [
+      ""
+    ],
+    "error": "Search criterion lost in response"
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=0",
+    "params": {
+      "fraza": "Chmielewski Bogusław",
+      "page": 0
+    },
+    "access_utc": "2026-11-05T16:07:46.290857+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=0",
+    "size": 70323,
+    "sha256": "6be6a8f9c434a7a365f5f3cd18d79d90f994a9ae2decaaaaf7f3eedf7d8a1e9e",
+    "path": "work/h017-s04/ipn/name_p0.html",
+    "actual_query": [
+      "Chmielewski Bogusław"
+    ],
+    "labels": [
+      "Wyniki wyszukiwania 1 - 10 z 50 Sortowanie: Kolejność dodania (najnowsze) Wojewódzki Urząd Spraw"
+    ],
+    "results": [
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Koszalinie [1950] 1983-1990 Trafność 61.94 Sygnatura IPN IPN Sz 469/5981 pokaż opis j.a Tytuł Akta paszportowe o sygnaturze EAKO: Chmielewski Bogusław Kazimierz, imię ojca: Leon, data urodzenia: 19-12-1942 r. Rozwiń opis Zwiń opis Daty skrajne 1973 - 1985",
+        "links": [
+          "/node/5543826"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Tarnobrzegu [1975] 1983-1990 Trafność 63.06 Sygnatura IPN IPN Rz 398/17427 pokaż opis j.a Tytuł Akta paszportowe o sygnaturze EATG: Chmielewski Bogusław, imię ojca: Jan, data urodzenia: 10-02-1926 r. Rozwiń opis Zwiń opis Daty skrajne 1973 - 1980",
+        "links": [
+          "/node/5535294"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Tarnobrzegu [1975] 1983-1990 Trafność 61.94 Sygnatura IPN IPN Rz 398/17389 pokaż opis j.a Tytuł Akta paszportowe o sygnaturze EATG: Chmielewski Waldemar Janusz, imię ojca: Bogusław, data urodzenia: 23-11-1952 r. Rozwiń opis Zwiń opis Daty skrajne 1977 - 1989",
+        "links": [
+          "/node/5534981"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Skierniewicach [1975] 1983-1990 Trafność 54.41 Sygnatura IPN IPN Ld 0216/10 t. 1/29 pokaż opis j.a Tytuł Dokumentacja postępowania w sprawie upoważnienia do dostępu do wiadomości stanowiących tajemnicę państwową nr OM-0102/76 dot.: Chmielewski Bogusław; Kalisiak Lucyna; Mendrygał Czesław i inni Rozwiń opis Zwiń opis Daty skrajne 1975 - 1976",
+        "links": [
+          "/node/5355242"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Koszalinie [1950] 1983-1990 Trafność 60.27 Sygnatura IPN IPN Sz 00123/5199/J pokaż opis j.a Tytuł Teczka personalna tajnego współpracownika pseudonim „Air” dot. Chmielewski Bogusław Kazimierz, imię ojca: Leon, ur. 19-12-1942 r. Rozwiń opis Zwiń opis Daty skrajne 1981 - 1989",
+        "links": [
+          "/node/5335167"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Koszalinie [1950] 1983-1990 Trafność 60.27 Sygnatura IPN IPN Sz 00123/5199/D pokaż opis j.a Tytuł Teczka personalna tajnego współpracownika pseudonim „Air” dot. Chmielewski Bogusław Kazimierz, imię ojca: Leon, ur. 19-12-1942 r. Rozwiń opis Zwiń opis Daty skrajne 1981 - 1989",
+        "links": [
+          "/node/5335163"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Łodzi [1945] 1983-1990 Trafność 42.72 Sygnatura IPN IPN Ld 092/73 t. 17/25 pokaż opis j.a Tytuł Dokumentacja postępowania w sprawie upoważnienia do dostępu do wiadomości stanowiących tajemnicę państwową nr OMT-0505/86 dot.: Chmielewski Piotr, imię ojca: Tadeusz, data urodzenia: 13-01-1947; Gajda Krystyna, imię ojca: Eugeniusz, data urodzenia: 16-04-1958; Głowiński Bogusław, imię ojca: Wincenty, data urodzenia: 24-08-1944 i inni Rozwiń opis Zwiń opis Daty skrajne 1986 - 1986",
+        "links": [
+          "/node/5247995"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Łodzi [1945] 1983-1990 Trafność 42.72 Sygnatura IPN IPN Ld 092/64 t. 5/52 pokaż opis j.a Tytuł Dokumentacja postępowania w sprawie upoważnienia do dostępu do wiadomości stanowiących tajemnicę państwową nr OMT-0372/81 dot.: Chmielewski Bogusław, imię ojca: Roman, data urodzenia: 01-05-1940; Grottel Fryderyk, imię ojca: Michał, data urodzenia: 02-08-1952; Jaskólski Andrzej, imię ojca: Roman, data urodzenia: 20-02-1948 i inni Rozwiń opis Zwiń opis Daty skrajne 1981 - 1981",
+        "links": [
+          "/node/5237877"
+        ]
+      },
+      {
+        "text": "Ministerstwo Spraw Wewnętrznych w Warszawie [1944] 1954-1990 Trafność 18.49 Sygnatura IPN IPN BU 003187/3500 pokaż opis j.a Tytuł Karty uposażenia funkcjonariuszy: Hanna Brajbisz, imię ojca: Henryk, Kazimierz Bratkowski, imię ojca: Jan, Grażyna Bryła, imię ojca: Mieczysław, Tatiana Brzezińska, imię ojca: Bogdan, Robert Brzeziński, imię ojca: Wojciech, Wiesław Brzeziński, imię ojca: Jan, Ryszard Bucholc, Hanna Budnik, imię ojca: Mieczysław, Jerzy Budnik, imię ojca: Konstanty, Ewa Budulak, imię ojca: Bonifacy, Halina Budziłowska, imię ojca: Władysław, Elżbieta Budzowska, imię ojca: Jan, Żelisław Bura, imię ojca: Fabian, Józef Burak, imię ojca: Władysław, Marek Burchard, imię ojca: Stanisław, Kazimierz Burczyńska, imię ojca: Mieczysław, Andrzej Bury - Burzymski, imię ojca: Ryszard, Ewa Burzelów, imię ojca: Józef, Krystyna Burzyńska, imię ojca: Edmund, Wojciech Bussler, imię ojca: Michał, Małgorzata Cecko, imię ojca: Jerzy, Mariusz Cegielski, imię ojca: Czesław, Zbigniew Cencora, imię ojca: Zbigniew, Ryszard Chałupczak, imię ojca: Marian, Agnieszka Charęza, imię ojca: Eugeniusz , Barbara Chmielewska, imię ojca: Tadeusz, Grażyna Chmielewska, imię ojca: Stefan, Krystyna Chmielewska, imię ojca: Jan, Dariusz Andrzej Chmielewski, imię ojca: Zygmunt, Włodzimierz Chmielewski, imię ojca: Michał, Tadeusz Chojara, Bogusław Chojnowski, imię ojca: Franciszek, Anna Cholewińska, imię ojca: Czesław, Marianna Chomka, imię ojca: Zygmunt, Marian Chrastina, imię ojca: Ludwik, Ewa Chwiałkowska, imię ojca: Zdzisław, Helena Chylińska, imię ojca: Zenon, Teresa Chylińska, imię ojca: Jerzy, Włodzimierz Ciastek, imię ojca: Jan, Marzena Cichocka, imię ojca: Janusz, Wiesław Cichosz, imię ojca: Czesław, Elżbieta Cieślik, imię ojca: Jan, Danuta Ciupak, imię ojca: Teodor, Jan Cupiał, Grażyna Cybulska, imię ojca: Stanisław, Jerzy Cybulski, imię ojca: Zdzisław, Arleta Cygan, imię ojca: Zygmunt, Elżbieta Cygan, imię ojca: Leopold. Rozwiń opis Zwiń opis Daty skrajne -",
+        "links": [
+          "/node/5229027"
+        ]
+      },
+      {
+        "text": "Ministerstwo Spraw Wewnętrznych w Warszawie [1944] 1954-1990 Trafność 13.44 Sygnatura IPN IPN BU 003187/3480 pokaż opis j.a Tytuł Karty uposażenia funkcjonariuszy: Krzysztof Cackowski, imię ojca: Czesław, Elżbieta Calińska, imię ojca: Edward, Ryszard Całka, imię ojca: Wacław, Maria Cecuda, imię ojca: Stanisław, Hanna Celenik, imię ojca: Wacław, Ryszard Celenik, imię ojca: Norbert, Helena Celuch, imię ojca: Franciszek, Remigiusz Ceniak, imię ojca: Adam, Władysław Cern, imię ojca: Jan, Urszula Charczuk, imię ojca: Wacław, Zofia Chełstowska, imię ojca: Czesław, Eugeniusz Chilicki, imię ojca: Józef, Janusz Chludziński, imię ojca: Edward, Mirosław Chmiel, imię ojca: Jakub, Stanisław Chmielewski, imię ojca: Józef, Władysław Chociszewski, imię ojca: Zygmunt, Zbigniew Chmielewski, imię ojca: Tadeusz, Ludwik Chocha, imię ojca: Jan, Ryszrad Chodorski, imię ojca: Aleksander, Krystyna Chojnacka, imię ojca: Mieczyslaw, Jerzy Chorosz, imię ojca: Mieczysław, Piotr Chrobak, imię ojca: Tadeusz, Amelia Chrzanowska, imię ojca: Roman, Jan Chrzanowski, imię ojca: Jan, Józef Chrzanowski, imię ojca: Wojciech, Jerzy Chrząszcz, imię ojca: Józef, Krzysztof Chrząszcz, imię ojca: Antoni, Zbigniew Chrząszcz, imię ojca: Jan, Beata Chuchała, imię ojca: Zdzisław, Władysław Chudzyński, imię ojca: Leon, Eugeniusz Cieszkowski, imię ojca: Stanisław, Zbigniew Cichawa, Zbigniew Cichecki, imię ojca: Zdzisław, Julian Cichocki, imię ojca: Ignacy, Stefan Cichocki, imię ojca: Tadeusz, Zenon Cichocki, imię ojca: Florian, Cezary Ciećwierski, imię ojca: Józef, Józef Ciempiel, imię ojca: Marian, Kazimierz Ciempka, imię ojca: Adam, Celina Ciesielska, imię ojca: Zygmunt, Wanda Ciesielska, imię ojca: Piotr, Hanna Cieślak, imię ojca: Bronisław, Jerzy Cieślak, imię ojca: Bolesław, Krystyna Cieślak, imię ojca: Marian, Piotr Cieślak, imię ojca: Józef, Jan Cioczek, imię ojca: Andrzej, Anna Ciopińska, imię ojca: Józef, Henryk Ciszewski, imię ojca: Kazimierz, Wiesław Ciupiński, imię ojca: Bronisław, Bogdan Ciuśniak, imię ojca: Henryk, Zenon Cuch, imię ojca: Piotr, Bogusław Cukrowski, imię ojca: Czesław, Ireneusz Cygan, imię ojca: Jan, Tomasz Cywiński, imię ojca: Arkadiusz, Józef Czapski, imię ojca: Kazimierz, Waldemar Czapski, imię ojca: Zygmunt, Alicja Czarnecka, imię ojca: Henryk, Wacław Czarnecki, imię ojca: Józef, Andrzej Czarnołęcki, imię ojca: Zdzisław, Ewa Czechowska, imię ojca: Marian, Zbigniew Czekaj, imię ojca: Czesław, Antoni Czekalski, imię ojca: Jan, Jan Czekalski, imię ojca: Antoni, Jan Czerniak, imię ojca: Ignacy, Alicja Helena Czerwińska - Jakubiak, imię ojca: Henryk, Edmund Czerwiński, imię ojca: Zygmunt, Nemeniusz Czubacki, imię ojca: Bolesław, Edmund Czubak, imię ojca: Stanisław, Ewa Czurak, imię ojca: Władysław, Krystyna Czyż, imię ojca: Henryk, Stefania Czyżewska, imię ojca: Edward, Jan Czyżewski, imię ojca: Franciszek, Ewa Ćwik. Rozwiń opis Zwiń opis Daty skrajne -",
+        "links": [
+          "/node/5228689"
+        ]
+      }
+    ],
+    "pager_links": [
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=1",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=2",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=3",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=1",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4"
+    ]
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=1",
+    "params": {
+      "fraza": "Chmielewski Bogusław",
+      "page": 1
+    },
+    "access_utc": "2026-11-05T16:07:48.008239+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=1",
+    "size": 68111,
+    "sha256": "21e17b37a9e45fa06a0443dfd72418f5668f536344e47f7c7c86cd13b351554f",
+    "path": "work/h017-s04/ipn/name_p1.html",
+    "actual_query": [
+      "Chmielewski Bogusław"
+    ],
+    "labels": [
+      "Wyniki wyszukiwania 11 - 20 z 50 Sortowanie: Kolejność dodania (najnowsze) Wojewódzki Urząd Spra"
+    ],
+    "results": [
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Gdańsku [1945] 1983-1990 Trafność 61.49 Sygnatura IPN IPN Gd 720/1572 pokaż opis j.a Tytuł Akta o wydanie książeczki żeglarskiej o sygnaturze HA: Bogusław Chmielewski, imię ojca: Marian, ur. 28-01-1962 r. Rozwiń opis Zwiń opis Daty skrajne 1977 - 1977",
+        "links": [
+          "/node/5068159"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 30.63 Sygnatura IPN IPN BU 01205/226 t. 70 pokaż opis j.a Tytuł Dokumentacja fotograficzna w związku z aktami kontrolno-śledczymi w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanym o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego. Rozwiń opis Zwiń opis Daty skrajne -",
+        "links": [
+          "/node/5017515"
+        ]
+      },
+      {
+        "text": "Ministerstwo Spraw Wewnętrznych w Warszawie [1944] 1954-1990 Trafność 60.87 Sygnatura IPN IPN BU 003274/580/D pokaż opis j.a Tytuł Sprawa operacyjnego sprawdzenia krypt. \"Bogdan\": Bogusław Jerzy Chmielewski, imię ojca: Stanisław ur. 04-08-1955 r. w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1986 - 1989",
+        "links": [
+          "/node/4534296"
+        ]
+      },
+      {
+        "text": "Ministerstwo Spraw Wewnętrznych w Warszawie [1944] 1954-1990 Trafność 60.87 Sygnatura IPN IPN BU 003273/616 t. 1 pokaż opis j.a Tytuł Sprawa operacyjnego sprawdzenia krypt. \"Bogdan\": Bogusław Jerzy Chmielewski, imię ojca: Stanisław ur. 04-08-1955 r. w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1982 - 1988",
+        "links": [
+          "/node/4112067"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Koszalinie [1950] 1983-1990 Trafność 60.27 Sygnatura IPN IPN Sz 00104/734 t. 3 pokaż opis j.a Tytuł Teczka personalna tajnego współpracownika pseudonim „Air” dot. Chmielewski Bogusław Kazimierz, imię ojca: Leon, ur. 19-12-1942 r. Rozwiń opis Zwiń opis Daty skrajne 1982 - 1989",
+        "links": [
+          "/node/3228533"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Koszalinie [1950] 1983-1990 Trafność 60.27 Sygnatura IPN IPN Sz 00104/734 t. 2 pokaż opis j.a Tytuł Teczka pracy tajnego współpracownika pseudonim „Air” dot. Chmielewski Bogusław Kazimierz, imię ojca: Leon, ur. 19-12-1942 r. Rozwiń opis Zwiń opis Daty skrajne 1982 - 1986",
+        "links": [
+          "/node/3228519"
+        ]
+      },
+      {
+        "text": "Wojewódzki Urząd Spraw Wewnętrznych w Koszalinie [1950] 1983-1990 Trafność 61.94 Sygnatura IPN IPN Sz 00104/734 t. 1 pokaż opis j.a Tytuł Teczka kandydata na tajnego współpracownika dot. Chmielewski Bogusław Kazimierz, imię ojca: Leon, ur. 19-12-1942 r. Rozwiń opis Zwiń opis Daty skrajne 1978 - 1982",
+        "links": [
+          "/node/3228514"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 39 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanym o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3074071"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 69 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056389"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 68 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056380"
+        ]
+      }
+    ],
+    "pager_links": [
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=1",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=2",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=3",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=2",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4"
+    ]
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=2",
+    "params": {
+      "fraza": "Chmielewski Bogusław",
+      "page": 2
+    },
+    "access_utc": "2026-11-05T16:07:49.913726+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=2",
+    "size": 71354,
+    "sha256": "06a8f763aa0089b83e4d729e173d4e042c58c5c7f219ab692d71e9908ef0a1cb",
+    "path": "work/h017-s04/ipn/name_p2.html",
+    "actual_query": [
+      "Chmielewski Bogusław"
+    ],
+    "labels": [
+      "Wyniki wyszukiwania 21 - 30 z 50 Sortowanie: Kolejność dodania (najnowsze) Stołeczny Urząd Spraw"
+    ],
+    "results": [
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 64 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056369"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 62 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056340"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 60 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056326"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 59 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056314"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 58 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056305"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 57 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3056291"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 55 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zw. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3054521"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 54 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3052525"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 53 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3052498"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 52 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3052472"
+        ]
+      }
+    ],
+    "pager_links": [
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=1",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=1",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=2",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=3",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=3",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4"
+    ]
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=3",
+    "params": {
+      "fraza": "Chmielewski Bogusław",
+      "page": 3
+    },
+    "access_utc": "2026-11-05T16:07:51.962062+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=3",
+    "size": 71354,
+    "sha256": "b7d344613a7a8b6dc5da2b7e85746351e1bd750c55b4e9838728318a980924d1",
+    "path": "work/h017-s04/ipn/name_p3.html",
+    "actual_query": [
+      "Chmielewski Bogusław"
+    ],
+    "labels": [
+      "Wyniki wyszukiwania 31 - 40 z 50 Sortowanie: Kolejność dodania (najnowsze) Stołeczny Urząd Spraw"
+    ],
+    "results": [
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 51 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3052423"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 50 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3052414"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 49 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3052363"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 56 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3050972"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 48 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3035752"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 47 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3035734"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 45 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3030245"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 44 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3029244"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 43 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3013650"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 46 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3009058"
+        ]
+      }
+    ],
+    "pager_links": [
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=2",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=1",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=2",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=3",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4"
+    ]
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=4",
+    "params": {
+      "fraza": "Chmielewski Bogusław",
+      "page": 4
+    },
+    "access_utc": "2026-11-05T16:07:52.938643+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/szukaj?fraza=Chmielewski+Bogus%C5%82aw&page=4",
+    "size": 92610,
+    "sha256": "aad4ea37d0ba9438560ee60fa66fa08fdf76fda255ed9373028c3c5f60372778",
+    "path": "work/h017-s04/ipn/name_p4.html",
+    "actual_query": [
+      "Chmielewski Bogusław"
+    ],
+    "labels": [
+      "Wyniki wyszukiwania 41 - 50 z 50 Sortowanie: Kolejność dodania (najnowsze) Stołeczny Urząd Spraw"
+    ],
+    "results": [
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 40 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/3007586"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 38 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1990 - 1990",
+        "links": [
+          "/node/3007540"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 27.81 Sygnatura IPN IPN BU 01205/226 t. 35 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r., Jan Rowicki, imię ojca: Zygmunt, ur. 02-04-1947 r., tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/3005912"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 22.95 Sygnatura IPN IPN BU 01205/226 t. 34 pokaż opis j.a Tytuł Akta kontrolne śledztwa w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r., Jan Piotr Sznajder, imię ojca: Jerzy, ur. 12-04-1949 r., Jacek Mac, imię ojca: Andrzej, ur. 29-09-1959 r., Ewa Jakiel, imię ojca: Józef, ur. 13-12-1962 r., Grzegorz Porębski, imię ojca: Wiesław, ur. 11-03-1955 r., Artur Ireneusz Patoleta, imię ojca: Ireneusz, ur. 03-09-1961 r., Anna Helena Dąbrowska, imię ojca: Jerzy, ur. 04-08-1955 r., Andrzej Lisowski, imię ojca: Zygmunt, ur. 09-08-1938 r., Adam Olender, imię ojca: Franciszek, ur. 27-07-1937 r., Włodzimierz Ryszard Derecki, imię ojca: Lechosław, ur. 22-03-1956 r., Bogusław Witold Barcz, imię ojca: Zdzisław, ur. 12-11-1953 r., Alfred Ślizień, imię ojca: Olgierd, ur. 31-05-1930 r., tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/2997907"
+        ]
+      },
+      {
+        "text": "Areszt Śledczy w Rzeszowie 1967-1989 Trafność 40.53 Sygnatura IPN IPN Rz 53/22 pokaż opis j.a Tytuł Akta osobowe tymczasowo aresztowanego dot. Stanisław Chmielewski, imię ojca: Bogusław, ur. 31-03-1941 r., obwinionego o to, iż w dn. 4 marca 1982 r. przebywał na terenie stacji PKP Rzeszów-Główny w czasie obowiązywania godziny milicyjnej bez wymaganego zezwolenia, tj. wykroczenie z art. 50 ust. 3 dekretu z dn. 12-12-1981 r. o stanie wojennym. Rozwiń opis Zwiń opis Daty skrajne 1982 - 1982",
+        "links": [
+          "/node/2974013"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 67 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1987 - 1990",
+        "links": [
+          "/node/2918811"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 66 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zb. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1989 - 1990",
+        "links": [
+          "/node/2918297"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 29.12 Sygnatura IPN IPN BU 01205/226 t. 65 pokaż opis j.a Tytuł Akta kontrolno-śledcze w sprawie sprowadzania na polski obszar celny samochodów uprzednio skradzionych na terenie Europy Zachodniej, prowadzonej przeciwko: Jan Labut, imię ojca: Władysław, ur. 15-11-1957 r., Jerzy Mendalka, imię ojca: Henryk, ur. 20-01-1952 r., Bogusław Chmielewski, imię ojca: Stanisław, ur. 04-08-1955 r., Marek Hochhauser-Osiński, imię ojca: Leszek, ur. 27-05-1957 r. i innym, tj. podejrzanych o popełnienie przestępstw z art. 215 paragraf 2 w zw. z art. 265 paragraf 1 w zw. z art 10 paragraf 2 i art. 58 kodeksu karnego; śledztwo prowadzone przez Wydział Śledczy SUSW przekazano do Prokuratury Wojewódzkiej w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1990",
+        "links": [
+          "/node/2918296"
+        ]
+      },
+      {
+        "text": "Ministerstwo Spraw Wewnętrznych w Warszawie [1944] 1954-1990 Trafność 60.87 Sygnatura IPN IPN BU 003273/616 t. 2 pokaż opis j.a Tytuł Sprawa operacyjnego sprawdzenia krypt. \"Bogdan\": Bogusław Jerzy Chmielewski, imię ojca: Stanisław ur. 04-08-1955 r. w Warszawie. Rozwiń opis Zwiń opis Daty skrajne 1988 - 1989",
+        "links": [
+          "/node/2877781"
+        ]
+      },
+      {
+        "text": "Stołeczny Urząd Spraw Wewnętrznych w Warszawie [1944] 1983-1990 Trafność 2.16 Sygnatura IPN IPN BU 0203/2279 t. 1 pokaż opis j.a Tytuł Materiały operacyjne dot.: Bohdan Gapo; Jan Gago; Jerzy Kruszewski; Jerzy Jerzejewski; Henryk Demrich; Krystyna Osińska; Marian Krajewski; Franciszek Andres; Brądzyński Wacław; Czesław Bielas, ur. 31-03-1910 r.; Stanisław Cisielski, ur. 12-04-1920 r.; Piotr Czarnecki, ur. 19-12-1911 r.; Eugeniusz Chełchowski; Piotr Godlewski, imię ojca: Teofil, ur. 14-06-1919 r.; Piotr Grochal, imię ojca: Teofil, ur. 25-06-1910 r.; Stanisław Gmiter; Antoni Jachołowski; Tadeusz Jankowski; Franciszek Kraska; Mieczysław Kudrzycki; Ludwik Kowalski, imię ojca: Walerian, ur. 15-01-1899 r.; Kazimierz Karlzbat, imię ojca: Roman, ur. 02-10-1925 r.; Tadeusz Karlzbad; Stanisław Komorowski; Władysław Królik; Henryk Końsko; Antoni Kuć, imię ojca: Jan, ur. 13-04-1912 r.; Jan Kowal; Bernard Kuśmierczyk; Marian Księżopolski; Władysław Koch, imię ojca: Ryszard, ur. 07-05-1914 r.; Jerzy Lipka, ur. 28-03-1914 r.; Jan Leśnik, imię ojca: Jan, ur. 10-05-1911 r.; Zdzisław Lipka; Józef Michalak; Zygmunt Maciejewski, imię ojca: Władysław, ur. 10-12-1906 r.; Władysław Malczuk, imię ojca: Paweł, ur. 26-03-1900 r.; Zbigniew Mroczek; Stefan Mróz; Antoni Nowak, ur. 22-02-1907 r.; Jan Niziołek; Władysław Nowak, ur. 29-01-1921 r.; Piotr Gręda; Mieczysław Owsianko, imię ojca: Tomasz, ur. 17-02-1928 r.; Eugeniusz Jabłonka; Wincenty Okraszewski; Aleksander Pikowicz, ur. 17-06-1923 r.; Janusz Potocki, ur. 26-08-1924 r.; Tadeusz Pachnik; Stanisław Pachnik, ur. 04-02-1924 r.; Władysław Rażmowski, imię ojca: Wawrzyniec, ur. 12-08-1908 r.; Roman Rybak, imię ojca: Franciszek; Konstanty Rybiński, imię ojca: Jan, ur. 01-04-1920 r.; Szczygielski; Bronisław Szóstka, ur. 13-12-1906 r.; Marian Strupiechowski; Karol Szymański, ur. 15-03-1910 r.; Jan Szefrański; Wacław Traczyk; Seweryn Ufnal, imię ojca: Jan, ur. 31-01-1904 r.; Stanisław Wojtkowiak; Stefan Walczyna; Wilczyński; Eugeniusz Woźnicki; Zdzisław Werstak; Edward Wardziński; Franciszek Zborowski, imię ojca: Michał, ur. 01-10-1908 r.; Złotek; Wiktor Zięba; Edward Rusiniak, ur. 11-10-894 r.; Jerzy Sęk; Jan Rutkowski; Antoni Baran; Alojzy Żagan; Józef Zasieczny; Zygmunt Klem, ur. 06-01-1918 r.; Józef Pilawa, imię ojca: Andrzej, ur. 30-12-1899 r.; Lech Piechowicz; Jerzy Argański; Kazimierz Kołak, imię ojca: Wawrzyniec, ur. 28-01-1923 r.; Edmund Kaczko; Stefan Skolimowski, imię ojca: Leopold, ur. 15-08-1920 r.; Zygmunt Dębski; Karol Czapski; Kazimierz Czapski; Adolf Mroczek; Ferdynand Gromek, imię ojca: Józef, ur. 1914 r.; Wacław Wójcik; Roman Strączkowski; Piotr Raczko; Ryszard Derlatka; Stefan Rogalski; Wincenty Czyż; Franciszek Radaj; Stanisław Pietrzyk; Włodzimierz Jaszczur; Marian Ciepliński; Jan Kowalski; Stanisław Gąsior; Tadeusz Tacia; Stanisław Zalewski; Adolf Skorupka, ur. 28-09-1922 r.; Dominiak; Franciszek Barbasiewicz; Feliks Szafrański; Stefan Rojka; Józef Abczyński; Fabian Wyszyński; Józef Pomina; Bogusław Łapka, imię ojca: Aleksander, ur. 22-07-1921 r.; Ignacy Zaorski; Rusto; Maria Kaczmarewicz; Romanowski; Zemło; Bolesław Abczyński; Jan Powierza, imię ojca: Stanisław, ur. 03-08-1916 r.; Irena Bożymówna; Józef Powierza, imię ojca: Stanisław, ur. 22-04-1921 r.; Marian Roguski; Mieczysław Białouż; Stanisław Roguski; Władysław Miszczuk; Sławomira Lauer; Irena Abczyńska; Bereza; Janikowski; Józef Olak; Władysław Kutka; Komposiński; Kazimierz Pawłowski; Feliks Wojciechowski; Dominik Szymański; Mieczysław Miśkiewicz; Aleksander Semeńczuk; Adamiszyn; Feliks Piórek; Józef Kosiorek; Czesław Jaworowski, imię ojca: Aleksander, ur. 18-01-1922 r.; Kazimierz Jaworowski, imię ojca: Lucjan, ur. 19-05-1924 r.; Arkadiusz Jaworowski; Edmund Jaworowski, imię ojca: Aleksander, ur. 02-12-1925 r.; Jerzy Dominik, ur. 21-06-1926 r.; Stanisław Pielog; Ireneusz Makowski; Henryk Miśkiewicz, imię ojca: Aleksander, ur. 15-07-1915 r.; Stanisław Suchocki, ur. 15-04-1927 r.; Kazimierz Siess; Apolinary Argasiński; Henryk Alodzior, ur. 08-05-1921 r.; Stanisław Ambroziak, ur. 10-08-1920 r.; Józef Augustyniak, ur. 13-03-1899 r.; Wiktor Baran; Witold Brzezik, ur. 17-12-1919 r.; Stanisław Barczak, ur. 29-06-1901 r.; Eugeniusz Boruc; Henryk Biernat, ur. 26-05-1925 r.; Ryszard Bolesta; Wacław Brzeziński; Władysław Bobulewicz; Hanka Bartosiewicz; Tadeusz Biernat; Kazimierz Bednarczyk; Eugeniusz Bąk, ur. 10-03-1923 r.; Stanisław Bożym, ur. 26-09-1912 r.; Stanisław Boruc, ur. 05-04-1927 r.; Antoni Boruc; Bronisław Bieniak; Stanisław Brzezik; Jan Boguszewski; Maria Boguszewska; Emil Brzezik, ur. 29-01-1926 r.; Eugeniusz Brzezik, ur. 28-02-1931 r.; Antoni Bryłowski, ur. 06-06-1926 r.; Michał Barański; Jan Borkowski; Helberg Bryka; Janina Boguszewska; Adam Brzozowski, ur. 26-03-1914 r.; Tadeusz Bronisz; Stanisław Berant, ur. 24-06-1922 r.; Hipolit Bubel, ur. 15-08-1921 r.; Adam Bosakowski, ur. 29-08-1924 r.; Zygmunt Brzezik, ur. 26-06-1920 r.;Franciszek Czapski; Michał Czapski; Franciszek Chadaj; Tadeusz Chojecki; Antoni Chudzyński; Czuchrajewicz; Stanisław Ciszewski, ur. 28-10-1914 r.; Witold Chwalibóg, ur. 24-09-1924 r.; Eugeniusz Czyżewski; Władysław Cegiełka; Wacław Chełchowski; Bogdan Chełchowski; Chozak Stanisław; Władysław Cyran, ur. 16-03-1923 r.; Henryk Karczewski, ur. 23-07-1917 r.; Edward Skarżyński; Wacław Kudelski, imię ojca: Edward, ur. 03-11-1924 r.; Mieczysław Poławski; Stefan Korzuchowski; Roman Gołoś; Aleksander Wązowski; Franciszek Grabowski, imię ojca: Tomasz, ur. 25-03-1926 r.; Jan Zborowski, imię ojca: Michał, ur. 23-10-1915 r.; Aleksander Nowak; Stanisław Gromek; Kazimierz Grochulski; Leon Zduniak; Stefan Nowak; Marian Pawlak, ur. 16-07-1922 r.; Mieczysław Gromadziński; Stefan Gryglas; Bolesław Soszyński, ur. 01-09-1915 r.; Ignacy Karczewski, ur. 15-11-1918 r.; Jan Karczewski, ur. 1917 r.; Zygmunt Polkowski, ur. 25-07-1923 r.; Jan Skup, ur. 10-12-1918 r.; Henryk Rytel, ur. 15-06-1920 r.; Bronisław Rytel; Jan Soszyński, ur. 06-09-1908 r.; Stanisław Wojciechowski; Trochimiak; Józef Łuszkiewicz; Czesław Tomaszewski; Józef Frączek, ur. 11-10-1912 r.; Szczerowski; Jan Suchonos; Jan Rowicki; Stanisław Krasnodębski; Stefan Rudnicki; Jan Sasim; Jan Duszak; Władysław Pachnik; Józef Pawlak; Wacław Gral; Eugeniusz Ściechowski; Mieczysław Sobotka; Stanisław Oprządek; Franciszek Szadkowski; Stanisław Jankowski; Henryk Rostek; Stanisław Chućk; Aleksander Lenkiewicz; Rusinowski; Ryszard Zadrożny; Franciszek Prużan; Kazimierz Cichocki; Tadeusz Pawłowski; Stefan Sobotka; Edward Paszkowski; Wojtczak; Podlipniak; Szewczuk; Falkowski; Stanisław Końca; Gromulski; Stanisław Kuć; Kazimierz Dyra, imię ojca: Stanisław, ur. 04-05-1921 r.; Edmund Dworzyński; Józef Kuć, ur. 04-04-1915 r.; Stanisław Dąbrowski, imię ojca: Aleksander, ur. 02-01-1900 r.; Bolesław Kurkus; Tachmański; Remigiusz Ufnal; Marian Fornalczyk, ur. 10-02-1922 r.; Bolesław Godlewski; Stanisław Sobiech, ur. 27-07-1920 r.; Zygmunt Skarżyński; Stefan Ruchnia; Sieklicki; Stanisław Wasiak, imię ojca: Wojciech, ur. 31-05-1910 r.; Marian Olewiński; Mieczysław Ciok; Piotr Ozimczuk; Jan Borowiński; Wacław Kot; Lucjan Jaczewski; Mieczysław Jednorowski; Wiesław Witkowski; Henryk Jaszczur; Edmund Moszczyński; Edward Mazurczak; Franciszek Kołodziejski; Eugeniusz Wintoch; Leonard Czajkowski; Kazimierz Sowiński; Benedykt Lubawy; Apolinary Kujawa; Jan Chorawski; Klemens Korfus; Zdzisław Wołynko; Zygmunt Suszkiewicz; Józef Lewczyński; Leon Helzbach; Henryk Wikień; Kazimierz Grzeszek; Antoni Korzeniewski; Marian Olewiński; Jan Gętarz; Tadeusz Grzeszek; Kazimierz Raczko, ur. 08-01-1915 r.; Roman Strąkowski; Edmund Raczko, imię ojca: Czesław, ur. 17-02-1921 r.; Stanisław Rybak, ur. 26-05-1916 r.; Lucjan Drabarek, ur. 05-02-1926 r.; Wincenty Durek, ur. 19-09-1922 r.; Kazimierz Dmowski, ur. 06-04-1925 r.; Eugeniusz Grabarczyk, ur. 22-03-1917 r.; Stanisław Grabarczyk, ur. 08-12-1917 r.; Stefan Gala, imię ojca: Leon, ur. 19-09-1919 r.; Sabin Kuśmierczyk; Aleksander Kostrzewski, ur. 06-02-1914 r.; Czesław Kleszcz, ur. 24-03-1924 r.; Zbigniew Kisieliński, ur. 03-08-1922 r.; Bolesław Koryciński, ur. 21-09-1920 r.; Aleksander Kotowski, ur. 11-10-1893 r.; Czesław Karakula, ur. 15-10-1907 r.; Kazimierz Kotowski, ur. 22-08-1926 r.; Władysław Kleszcz, ur. 07-04-1915 r.; Kazimierz Kleszcz, ur. 27-07-1907 r.; Wacław Kurkus, ur. 06-11-1896 r.; Józef Łachmiak, ur. 13-03-1909 r.; Henryk Miszczak, imię ojca: Franciszek, ur. 10-08-1919 r.; Mieczysław Klimek, imię ojca: Wacław, ur. 06-09-1920 r.; Stanisław Pachnik, ur. 23-03-1910 r.; Jan Pazdyga, ur. 19-07-1905 r.; Wacław Sosim; Marian Wiech; Zygmunt Konarski; Marian Świerczewski; Antoni Madziar; Aleksander Sasim; Stefan Sasim; Aleksander Kowalczyk; Stanisław Pipa, imię ojca: Piotr, ur. 05-04-1911 r.; Mieczysław Pazura, ur. 20-01-1920 r.; Ryszard Pachnik, ur. 14-10-1924 r.; Stefan Pernach, imię ojca: Józef, ur. 26-01-1920 r.; Zbigniew Pazura, imię ojca: Teodor, ur. 08-01-1923 r.; Stefan Radzikowski, ur. 17-01-1920 r.; Stanisław Rycierski, ur. 14-09-1914 r.; Czesław Rozbicki, imię ojca: Jan, ur. 20-08-1925 r.; Stefan Rogala, ur. 14-02-1912 r.; Kazimierz Rybak, ur. 12-01-1924 r.; Mieczysław Skolimowski, ur. 22-11-1916 r.; Tadeusz Sopiński, imię ojca: Franciszek, ur. 17-10-1917 r.; Bronisław Szymczak, imię ojca: Feliks, ur. 09-09-1919 r.; Bolesław Suchocki, ur. 17-03-1917 r.; Zenon Świątek, ur. 03-09-1918 r.; Ztgmunt Stański, ur. 30-03-1923 r.; Stefan Świniarski, ur. 10-01-1925 r.; Stanisław Twardowski, imię ojca: Jan, ur. 15-01-1912 r.; Marian Urban, ur. 24-10-1922 r.; Rajmund Ufnal, imię ojca: Kazimierz, ur. 21-06-1925 r.; Wincenty Żmudzki, ur. 20-08-1894 r.; Edward Żaboklicki, ur. 29-01-1920 r.; Władysław Małkowski; Stanisław Śnieżyca; Wiktor Szoszka; Franciszek Pliszka, ur. 26-04-1916 r.; Tadeusz Ratyński; Władysław Królikowski, ur. 1915 r.; Władysław Kurkus, ur. 22-04-1917 r.; Franciszek Rycielski, ur. 09-04-1917 r.; Kazimierz Zięba, ur. 21-09-1927 r.; Edward Kudelski, ur. 21-09-1912 r.; Józef Moczulski, ur. 09-02-1910 r.; Mieczysław Kudelski, ur. 25-07-1922 r.; Szczepan Komuda, ur. 01-01-1926 r.; Lech Rusiniak, ur. 25-12-1926 r.; Władysław Krupski, ur. 28-05-1917 r.; Wacław Kuć, ur. 28-09-1908 r.; Stanisław Kowalczyk, ur. 03-01-1924 r.; Wacław Kleszcz, ur. 29-03-1924 r.; Stanisław Rudnicki, ur. 28-03-1922 r.; Alfons Strąkowski, ur. 08-05-1923 r.; Tadeusz Smolis, ur. 10-05-1917 r.; Józef Fronczak, ur. 11-10-1912 r.; Ferdynand Wąsowski, ur. 28-10-1921 r.; Stanisław Niedźwiedzki, ur. 03-12-1915 r.; Aleksander Pieczara, ur. 25-01-1925 r.; Henryk Pieczara, ur. 02-04-1924 r.; Mieczysław Szczepaniak, ur. 27-08-1926 r.; Stefan Wysk, ur. 15-09-1921 r.; Piotr Poławski, ur. 19-11-1922 r.; Czesław Pająk; Wincenty Okoń, ur. 22-01-1914 r.; Lucjan Rębowski, ur. 05-05-1922 r.; Bolesław Góral, ur. 09-04-1924 r.; Stanisław Sitarski, ur. 18-07-1923 r.; Henryk Lachowski, ur. 25-09-1922 r.; Czesław Dudek, ur. 28-06-1925 r.; Aleksander Kąkol, ur. 06-12-1922 r.; Franciszek Polkowski, ur. 15-12-1912 r.; Czesław Wielądek, ur. 17-12-1915 r.; Ksawery Latkowski, ur. 07-01-1909 r.; Henryk Popowski, ur. 13-09-1925 r.; Marian Ksionek, ur. 28-10-1923 r.; Stefan Piotrowski; Stanisław Dmowski, ur. 08-05-16 r.; Franciszek Oliwiński, ur. 18-04-1905 r.; Edward Strzałkowski, ur. 18-01-1905 r.; Wacław Kobyliński, ur. 29-08-1914 r.; Czesław Pływacz, ur. 15-08-1914 r.; Adolf Kułak, ur. 02-02-1925 r.; Tadeusz Rajmuża, ur. 22-07-1924 r.; Adolf Kosiorek, ur. 02-03-1921 r.; Kazimierz Kostka, ur. 11-02-1921 r.; Adolf Ksionek, ur. 22-11-1923 r.; Tadeusz Kurkus, ur. 02-02-1923 r.; Andrzej Pieńkowski, ur. 24-02-1919 r.; Lucjan Sawicki, ur. 15-09-1907 r.; Jerzy Sopyło, ur. 24-12-1924 r.; Tadeusz Szeniawski, ur. 28-10-1909 r.; Chodaj; Bolesław Pawlak; Stefan Skup; Wacław Karczewski; Henryk Soszyński; Maria Ufnal, ur. 08-01-1922 r.; Kazimierz Karsbat; Stanisław Kołodziejczyk; Aleksy Chmielewski; Zbigniew Kruszewski; Jerzy Ługowski, ur. 28-01-1914 r.; Stefan Pieczara, ur. 19-01-1919 r.; Leopold Nowakowski; Franciszek Łuszkiewicz; Piotrowska; Paulin Jaczewski, ur. 15-04-1900 r.; Jan Zalewski, ur. 15-01-1912 r.; Stanisław Rowicki, ur. 15-05-1919 r.; Wacław Ślebzak; Stefan Rojek, imię ojca: Bronisław, ur. 20-04-1922 r.; Aleksander Okraszewski; Tadeusz Sakowski; Witold Rojek; Czesław Rojek, imię ojca: Józef; Stanisław Leszczyński; Michał Dębski; Marian Myszkowski, imię ojca: Franciszek; Marian Przybysz, imię ojca: Piotr; Henryk Gago, imię ojca: Ignacy, ur. 1926 r.; Roman Roguski; Roman Rowicki, ur. 16-09-1922 r.; Czesław Górski; Roman Dzięcioł, ur. 12-12-1924 r.; Stanisław Szczepanik, ur. 13-06-1923 r.; Bronisław Kodym, ur. 24-11-1912 r.; Stanisław Sikorski, ur. 18-07-1923 r.; Stanisław Ziarniewicz; Józef Kobyliński, ur. 27-01-1913 r.; Tadeusz Jóźwiak, ur. 02-11-1914 r.; Stanisław Weigel, ur. 26-04-1915 r.; Bolesław Stankiewicz, ur. 24-04-1900 r.; Stefan Nowakowski, ur. 02-09-1912 r.; Zygmunt Piszczkowski, ur. 05-05-1913 r.; Marceli Grabarczyk; Zbigniew Pilewicz; Tadeusz Świniarski, ur. 15-10-1918 r.; Jan Gołoś, ur. 25-11-1922 r.; Henryka Ogińska, ur. 17-06-1924 r.; Zdzisław Warztak, ur. 26-01-1914 r.; Piotr Wybicki; Wacław Zaboklicki; Jan Stolarz, imię ojca: Józef, ur. 02-05-1905 r.; Janusz Kołowski; Stanisław Kleszcz; Franciszek Zaboklicki; Eugenia Boruc; Władysław Zborowski; Jan Lągiewicz; Władysław Madziar; Aleksander Zaliwski; Franciszek Witan; Mieczysław Śliwiński, ur. 03-08-1919 r.; Józef Wronowski, ur. 13-04-1922 r.; Wincenty Rogala; Jan Rogala, ur. 10-06-1909 r.; Bolesław Klukowski, ur. 22-02-1920 r.; Wacław Szczepaniak, ur. 11-11-1922 r.; Aniela Jechna; Zygmunt Wojewódzki, ur. 28-09-1922 r.; Tadeusz Partes, ur. 02-06-1919 r.; Jan Kudelski, ur. 21-01-1920 r.; Wacław Glinka, ur. 21-01-1925 r.; Stanisław Gałach, ur. 02-01-1923 r.; Saturnin Sułkowski, ur. 30-04-1921 r.; Aleksander Świstek, ur. 21-11-1921 r.; Wacław Sopiński, ur. 08-01-1922 r.; Stefan Pałtyna, ur. 20-12-1925 r.; Eugeniusz Taciak, ur. 23-03-1923 r.; Eugeniusz Janusz, ur. 28-02-1920 r.; Rajmund Piecko, ur. 15-04-1925 r.; Stanisław Osmulski, ur. 05-08-1920 r.; Tadeusz Pląsek, ur. 19-08-1918 r.; Adam Jakimiak, ur. 01-02-1924 r.; Antoni Grabarczyk, ur. 17-01-1915 r.; Eustachy Kowalczyk, ur. 18-07-1921 r.; Marian Krawczyk, ur. 09-01-1923 r.; Jerzy Ruciński, ur. 09-04-1925 r.; Mieczysław Kuźma, ur. 23-06-1925 r.; Feliks Taciak, ur. 26-06-1915 r.; Stanisław Konka, ur. 17-01-1924 r.; Piotr Jóźwiak, ur. 15-02-1919 r.; Zygmunt Skrzyński, ur. 31-08-1923 r.; Alfons Sieklucki, ur. 14-01-1912 r.; Stanisław Grojda, ur. 21-03-1922 r.; Zygmunt Marchiel, ur. 02-02-1922 r.; Saturnin Grochowski, ur. 29-01-1919 r.; Edmund Kąkolewski, ur. 28-03-1922 r.; Czesław Grzęda, ur. 26-12-1919 r.; Bogdan Oprządek, ur. 29-06-1924 r.; Henryk Kuryłek, ur. 06-09-1923 r.; Jan Sień, ur. 03-02-1924 r.; Kacper Ziarniewicz, ur. 06-01-1921 r.; Edmund Grzanka, ur. 07-08-1908 r.; Franciszek Laskowski, ur. 22-05-1920 r.; Adam Jaczewski; Józef Leszczyński, ur. 22-01-1921 r.; Tadeusz Kosiorek, ur. 28-10-1919 r.; Eugeniusz Ufnal, ur. 07-01-1922 r.; Jan Molin, ur. 16-02-1922 r.; Franciszek Kalinowski, ur. 02-03-1909 r.; Feliks Księżopolski, imię ojca: Aleksander, ur. 14-05-1924 r.; Józef Zawisza, ur. 26-08-1923 r.; Stanisław Więch, ur. 21-10-1918 r.; Jan Dyra, ur. 05-05-1925 r.; Alfons Radzikowski, ur. 24-01-1917 r.; Czesław Pawlak, ur. 20-01-1911 r.; Zenon Todorowski, ur. 24-11-1924 r.; Jerzy Księżopolski, ur. 23-01-1922 r.; Stefan Gontarz, ur. 12-02-1928 r.; Wojciech Głuchowski, ur. 23-06-1924 r.; Zdzisław Kowalczyk, ur. 21-11-1913 r.; Mieczysław Radzikowski, ur. 15-06-1923 r.; Tadeusz Radzikowski, ur. 23-09-1919 r.; Ignacy Malowaniec, ur. 20-11-1923 r.; Zygmunt Kisieliński, ur. 18-07-1904 r.; Jan Konarski, ur. 01-01-1918 r.; Marian Dmowski, ur. 07-01-1922 r.; Władysław Korczak, ur. 14-06-1926 r.; Zdzisław Żmudzki, ur. 12-02-1924 r.; Wincenty Maliszewski, ur. 02-06-1924 r.; Albin Kowalczyk, ur. 21-01-1921 r.; Wacław Tomaszewski, ur. 26-12-1925 r.; Jan Pieczara, imię ojca: Piotr, ur. 18-08-1920 r.; Jan Jażewski, ur. 24-05-1921 r.; Władysław Włodarczyk, ur. 08-05-1920 r.; Stanisław Kowalczyk, ur. 05-07-1923 r.; Wacław Niewatowski, ur. 18-08-1915 r.; Wacław Śpiewak, ur. 25-05-1922 r.; Wacław Rojek, ur. 12-02-1922 r.; Władysław Kuć, ur. 04-08-1920 r.; Tadeusz Zawodniak, ur. 18-09-1923 r.; Eugeniusz Nowakowski, ur. 24-03-1924 r.; Stefan Komorowski, imię ojca: Aleksander, ur. 18-10-1918 r.; Henryk Kocoń; Michał Tomasik; Wiesław Moczulski; Włodzimierz Zabokrzycki; Hipolit Zdunczyk, ur. 13-03-1921 r.; Eugeniusz Filipek, ur. 18-02-1924 r.; Aleksander Weigel, ur. 01-05-1922 r.; Kazimierz Kauski, ur. 18-04-1921 r.; Wojciech Krzemieniewski, ur. 06-03-1906 r.; Zygmunt Walewski, ur. 08-08-1926 r.; Henryk Okulus; Roman Świerczewski; Kazimierz Niszczak; Stanisław Madziar; Zygmunt Kuć; Kazimierz Trojanowski; Marian Osojec, ur. 18-10-1906 r.; Henryk Salach; Franciszek Zawistowski; Augustyn Pelc; Zygmunt Klemens; Hieronim Suszczyński; Zygmunt Dąbski; Franciszek Kadej; Stanisław Kołak, imię ojca: Jan, ur. 15-08-1915 r.; Lucjan Marciniak, imię ojca: Stanisław, ur. 18-11-1917 r.; Zygmunt Wycech; Mieczysław Zatorski, imię ojca: Stanisław, ur. 20-03-1931 r.; Władysław Podsiad, imię ojca: Aleksander, ur. 23-05-1907 r.; Antoni Żurawski, imię ojca: Jan, ur. 15-12-1901 r.; Mieczysław Jakubczak, imię ojca: Józef, ur. 07-07-1922 r.; Zdzisław Grabowski, imię ojca: Franciszek, ur. 30-04-1924 r.; Jan Leoniuk, imię ojca: Teodor, ur. 1906 r.; Ryszard Gołębiewski, imię ojca: Władysław, ur. 05-05-1925 r.; Mieczysław Chmielewski, imię ojca: Jan, ur. 06-06-1925 r.; Bazyli Kozak, imię ojca: Dymitr; Michał Radziwił, imię ojca: Michał, ur. 16-06-1909 r.; Leon Kazimierczak, imię ojca: Stanisław, ur. 19-05-1915 r.; Janusz Potocki, imię ojca: Stanisław, ur. 11-06-1926 r.; Zygmunt Suproń, imię ojca: Czesław;, ur. 09-09-1926 r.; Bolesław Łukasiak; Stanisław Wielądek; Czesław Kić; Henryk Suchodolski; Irena Kić; Józef Bloch; Janina Wierchołowska; Stefan Zysk; Kazimierz Grotkowski; Stanisław Kobyliński; Czesław Flak; Antoni Kołakowski; Tadeusz Dębkowski; Mieczysław Wielądek; Władysław Kalbarczyk; Stefan Kalbarczyk; Kazimierz Kozioł; Tomasz Karczmarczyk; Feliks Puchta; Jan Sokleski; Władysław Kolosek; Eugeniusz Kobyliński; Eugeniusz Brański; Antoni Chrusek; Aleksander Matusik; Franciszek Grotkowski; Stefan Zach; Wacław Wierzchołowski; Józef Kosyła; Leon Łojek; Aleksander Łojek; Adam Bański; Jan Wierzchołowski; Stanisław Kić; Jan Puścian; Bronisław Koroś; Janina Kujawa; Franciszek Gałązka; Oniśk Władysław; Janina Kić; Władysław Skwara; Wojciech Gmur; Filip Bodzoń; Stanisław Królik; Wacław Jaczewski; Grzegorz Kochanowski; Jan Guzek; Wacław Hudoń; Aleksander Roguszewski; Czesław Radzic; Jan Gołoszewski; Władysław Jagiełło; Franciszek Sokalski; Jan Frąckiewicz; Stanisław Przybysz; Zygmunt Gałązka; Jan Roguszewski; Marian Bala; Irena Radzic; Karmela Rostkówna; Szczepan Rudnik; Stanisław Rostek; Bolesław Frąckiewicz; Eugeniusz Decyk; Zdzisław Frąckiewicz; Wacław Świerzaczyński; Józef Figul; Genowefa Jaczewska; Karol Kujawa; Stanisław Kwieciński; Roman Jakutowski; Stanisław Owsianko; Stanisław Pióro; Franciszek Rychlik; Ludwik Kożuchowski; Ludwik Kaluszuk; Stanisław Szymański; Kazimierz Podsusz; Władysław Sendek; Stanisław Ogonowski; Antoni Chojnowski; Józef Ogonowski; Tadeusz Kuliński; Bronisław Mech; Bonifacy Bański; Józef Mech; Wojciech Mech; Czesław Wierzchołowski; Wacław Sapierzyński; Władysław Kozioł; Bronisław Gąsiorek; Witold Leśniewski; Edward Bela; Jan Wasilczuk; Bronisław Grotkowski; Jan Książek; Franciszek Andryszczak; Czesław Wierzbicki; Mieczysław Poszewka; Kanik; Stanisław Ciesielski; Czesław Rostek; Marian Krzewski; Jan Gobelski; Władysław Kowalczyk; Władysław Szymaniak; Jerzy Małkiński; Kazimierz Mastej; Stanisław Łojek; Mlchowa; Aleksander Kozioł; Stanisław Mastej; Henryk Hebda; Czesław Skup; Tadeusz Nowak; Władysław Borowski; Ryszard Lisiewski; Bronisław Iwanek; Piotr Roguski; Henryk Rudnicki; Marian Matusik; Jan Witan; Józef Sternicki; Roman Nowak; Henryk Pachnik; Krystyna Zaboklicka; Bogumiła Czapska; Henryka Gzech; Witold Podniesiński; Bronisław Zaboklicki; Stanisława Tyburcza; Janusz Kotowski; Wacław Rudnicki; Jan Brzezik; Marian Pipa; Stanisław Rube; Jerzy Nurkiewicz; Wanda Gryglas; Kazimiera Księżopolska; Władysław Sarderski; Janina Jaszczur; Józef Rostek; Tadeusz Rostek; Tadeusz Kotrzeb; Czesław Kłos; Czesław Nowak; Władysław Wojterak; Wacław Decyk; Kazimierz Szczechura; Mieczysław Wierzchołowski; Jan Szałkowski; Kazimierz Kurkus; Józef Smler; Stanisław Chencel; Eugeniusz Skup; Seweryn Dmowski; Stanisław Szulc; Henryk Kułak; Jan Świątek; Jan Skupa; Wacław Gąsior; Jan Kosowski; Stanisław Henkiel; Marian Chruścicki; Kazimierz Miałkowski; Jan Grochowski; Wacław Podgórski; Stanisław Terlikowski; Wincenty Mioduszewski; Czesław Kalbarczyk; Stanisław Podgórski; Rekusa Leopold; Anna Parys; Aleksander Kądziela; Roman Tabaczkiewicz; Stanisław Orzeł; Wacław Ogonowski; Józef Kania; Maria Malińska; Maria Dleopolczyk; Maria Więckowska; Maria Larczmarewicz; Stefan Rostek; Roman Rostek; Zdzisław Rostek; Karol Dołowy; Jan Kiełek; Antoni Suchodolski; Józef Molski; Czesław Wierzchoł; Henryk Polak; Eugeniusz Wysiński; Ryszard Rogala; Aleksandra Kosinkowa; Józef Milski; Jan Sokulski; Marian Kościuski; Hieronim Kądziela; Franciszek Sienicki; Stanisław Nowak; Henryk Aleksandrzyk; Henryk Ślusarz; Apolinary Supeł; Tadeusz Czarkan; Konstanty Kiełek; Władysław Słoczkowski; Anastazja Supeł; Wacław Frąckiewicz; Wacław Fedorczyk; Józef Glinka; Jan Barszcz; Zdzisław Zalewski; Lucjan Ławnik; Stefan Łojek; Jan Ławnik; Józef Pigul; Stefan Nozderka; Józef Pigul; Wiktor Biejniak; Antoni Rychlik; Walerian Sendek; Henryk Słyś; Jan Kalbarczyk; Władysław Kalbarczyk; Władysław Falman; Edmund Karalus; Stanisław Fałkowski; Aleksander Słyś; Adolf Ziółkowski; Kazimiera Różycka; Marianna Werner; Władysław Onyks; Krystyna Fałkowska; Tadeusz Kujawa; Piotr Świałowski; Franciszek Gródkowski; Ludwik Śliwowski; Michał Kozicki; Stanisław Raczko; Maria Szymanowa; Edward Dobosz; Jan Fedorczyk; Tadeusz Słowik; Franciszek Słyś; Stanisław Supeł; Marian Kozłowski; Stanisława Roguszewska; Tadeusz Tararuj; Marian Augustyniak; Eugeniusz Borowy; Jan Kwiatkowski. Rozwiń opis Zwiń opis Daty skrajne 1949 - 1954",
+        "links": [
+          "/node/2582467"
+        ]
+      }
+    ],
+    "pager_links": [
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=3",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=0",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=1",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=2",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=3",
+      "?fraza=Chmielewski%20Bogus%C5%82aw&page=4"
+    ]
+  }
+]

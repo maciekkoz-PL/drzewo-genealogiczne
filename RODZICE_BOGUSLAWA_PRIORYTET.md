@@ -1,3 +1,5 @@
+Bieżąca kontynuacja: [etap04 — wyniki, ograniczenia i plan](badania/2026-11-05-sesja-04-weryfikacja/STATUS.md). H017 pozostaje otwarta; Geneteka wskazuje jedną parę w przeszukanych indeksach.
+
 # Rodzice Bogusława — potwierdzenie w odpisie USC
 
 **Fotografia przekazana przez użytkownika potwierdza rodziców Bogusława Kazimierza Chmielewskiego: Czesław Chmielewski i Janina z domu Poprawka.** Nie są to już wyłącznie imiona z rodzinnego przekazu.
