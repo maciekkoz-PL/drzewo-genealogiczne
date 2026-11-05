@@ -1,3 +1,5 @@
+Bieżący etap05: [wyniki prasowe i granice dowodów](badania/2026-11-05-sesja-05-prasa/STATUS.md), [plan dalszej pracy](badania/2026-11-05-sesja-05-prasa/PLAN_KONTYNUACJI.md). H017 nadal otwarta.
+
 Bieżąca kontynuacja: [etap04 — wyniki, ograniczenia i plan](badania/2026-11-05-sesja-04-weryfikacja/STATUS.md). H017 pozostaje otwarta; Geneteka wskazuje jedną parę w przeszukanych indeksach.
 
 # Badania genealogiczne rodziny Marysi
@@ -6,7 +8,7 @@ Bieżąca kontynuacja: [etap04 — wyniki, ograniczenia i plan](badania/2026-11-
 
 Akt małżeństwa II-1592/1982: 13.11.1982 Warszawa, Maria Jankowska; adnotacja rozwodu 23.04.1985. H001 rozstrzygnięta. Dane obojga rodziców są zgodne z parą 110/1936 z Łodzi. S086 nie zawiera DOB rodziców; dodatkową kontrolę przyporządkowania dat 1909/1910 prowadzi H017. **Aktualny zakres nadal dotyczy wyłącznie połączenia Bogusława z rodzicami.** [Macierz dowodów](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [najnowszy plan](badania/2026-11-05-sesja-04-weryfikacja/PLAN_KONTYNUACJI.md).
 
-Aktualna baza: [Marysia_KOMPLET_BAZA_2026-11-05.xlsx](Marysia_KOMPLET_BAZA_2026-11-05.xlsx), 21 arkuszy, 110 źródeł, 38 pozycji kandydatów/aliasów i 20 osobnych tropów indeksowych. Zgon 1988 Łódź i grób bez inskrypcji nadal mają status relacji. Nie awansowano pokrewieństwa Piotra/Tomasza.
+Aktualna baza: [Marysia_KOMPLET_BAZA_2026-11-05.xlsx](Marysia_KOMPLET_BAZA_2026-11-05.xlsx), 21 arkuszy, 114 źródeł, 38 pozycji kandydatów/aliasów i 20 osobnych tropów indeksowych. Zgon 1988 Łódź i grób bez inskrypcji nadal mają status relacji. Nie awansowano pokrewieństwa Piotra/Tomasza.
 
 **Etap 03:** odczytano 35 nowych obrazów Arolsen i 280 dalszych wierszy indeksu; brak dodatkowego łącznika H017, wykluczono homonimów. Znaleziono [oficjalny druk USC z PESEL „jeśli jest znany” i przygotowano niewysłany wniosek](badania/2026-11-05-sesja-03-polaczenie/S105_WNIOSEK_I_AKTA_1982.md). Najbardziej bezpośrednim kolejnym dokumentem jest odpis zupełny urodzenia Bogusława.
 

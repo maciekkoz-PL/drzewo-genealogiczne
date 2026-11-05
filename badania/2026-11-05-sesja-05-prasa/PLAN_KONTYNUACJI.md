@@ -1,0 +1,10 @@
+# Kontynuacja po etapie05
+
+Cel H017 nadal: dodatkowy identyfikator pary110/1936 jako rodziców Bogusława25.04.1943Łódź. S086 już dokumentuje imiona i nazwiska. Nie badać starszych pokoleń/rodzeństwa/Piotra w celu zastąpienia brakującego łącznika.
+
+1. Najsilniejszy dokument: odpis zupełny urodzenia Bogusława; niewysłany szkic S105 w etapie03. Brak PESEL nie zamyka drogi osobistej/listownej. Nie składać ani nie wysyłać bez osobnego zatwierdzenia. Potrzebne DOB rodziców03.07.1909/12.05.1910 lub numer ślubu110/1936/adres/wiarygodne dodatkowe identyfikatory.
+2. Katalog39/2736/0: spróbować ponownie dopiero po zmianie dostępności portletu albo przez oficjalny alternatywny inwentarz/EAD. Lista1076 nadal NIE odczytana. Nie traktować277obrazów zgonów1940 jako całego zespołu.
+3. WBP: naprawić dostęp do Głosu Robotniczego24.05.1957 wydanie113129, trafienie odmiany „Janiny Chmielewskiej”. Dwa HTML ogólnego tytułu (113129,101638) wymagają sprawdzenia poprawnego przekierowania/obiektu. Nie ponawiać bezmyślnie tego samego skryptu oczekującego PDF.
+4. Naprawić404PDF wydania27488 Ilustrowanej Republiki21.07.1935; użyć oficjalnego viewera/download z zachowaniem URL. Pozostałe tytuły wyniku odwróconego „Chmielewski Czesław” są w variants/downloads.json. Niski priorytet kalendarzy sądowych1930/1932 i akt wcześniejszych niż narodziny syna, chyba że ujawni się konkretny identyfikator. Nie utożsamiać PGRStrzałków, korespondenta ani radnych na samym nazwisku.
+5. Nie powtarzać87Geneteka,50IPN,35Arolsen ani obecnych21PDF bez nowego powodu. PDF przeszukano tekstowo; trzy fragmenty zweryfikowano obrazem. W przypadku realnego nowego tropu można wrócić do właściwej strony obrazu, uwzględniając zawodność OCR.
+6. Przy nowym dowodzie porównać oboje rodziców, chronologię, nazwisko rodowe i adresy; nie nadawać liczbowej pewności bez modelu statystycznego. Aktualizować Excel i manifest, commit/push. Następne ID po etapie05: S115,L83,Q55,F72; kandydaci C39 nadal niewykorzystany.

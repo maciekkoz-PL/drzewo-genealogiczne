@@ -1,0 +1,20 @@
+{
+  "params": {
+    "click": [
+      {
+        "ref_id": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812",
+        "id": 8
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Internal Error ()\n【turn617714view0】 [wordlim: 200] Unable to resolve click call due to invalid arguments\nL0: Unable to resolve click call due to invalid arguments\n"
+      }
+    ],
+    "isError": false
+  }
+}

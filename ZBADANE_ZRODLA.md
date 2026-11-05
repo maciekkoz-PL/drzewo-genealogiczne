@@ -120,3 +120,11 @@ Etap04: [pełny zakres i ograniczenia](badania/2026-11-05-sesja-04-weryfikacja/S
 - S108: Timenote — wyniki nazwisk i list dni; homonim z Lublina — BAZA SPOŁECZNOŚCIOWA. Profil1916 z Lublina nie jest dowodem DOB kandydatki C17 z Łodzi. Profil1910 niepobrany.
 - S109: WBP Łódź — pełnotekstowe wyniki nazwisk — WYNIKI WYSZUKIWANIA OCR; NOWE GAZETY NIEODCZYTANE. Bogusław tylko znany S041. Dalsze tytuły do pobrania; wynik OCR nie dowodzi pokrewieństwa.
 - S110: WGM Janina Chmielewska ok.1910, ślub Postoliska1935 — PUBLICZNY FRAGMENT WTÓRNEJ BAZY. Nie utożsamiono z Janiną Poprawką; nie odczytano aktu64/1935 ani danych za opłatą.
+
+
+Etap05: [zakres, strony i ograniczenia](badania/2026-11-05-sesja-05-prasa/STATUS.md).
+
+- S111: WBP —16 PDF z17 wcześniejszych trafień. Brak łącznika; Janiny1937/2007 z niezgodnym wiekiem; Bogusław2010 bez zgodności chronologii. Jeden PDF404.
+- S112: WBP — odmiany nazwisk i dalsze5 PDF. 7wybranych opisów,5PDF; dwa bez linku. PGR i TomaszówMaz. bezDOB/rodziny; ZygmuntChmielewski/CzesławWołłejko to dwie osoby.
+- S113: Timenote Janina1910–2001 MińskMazowiecki. Bez nazwiska rodowego i krewnych; nie ustalono tożsamości P04.
+- S114: SwA — właściwy twórca39/278 oraz niedostępny katalog39/2736. 39/278 to PrzełożonyStarszeństwaŻydów, nie ogólne USCŁódź. Lista1076 jednostek165812 nadal niedostępna.

@@ -1,0 +1,567 @@
+[
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/downloads.json",
+    "size": 116453,
+    "sha256": "2b5ffe8e81d253bd67414b2d9ff82a8256b55ad6e53c986c83a1d9a148a3d0a6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/readings.json",
+    "size": 71308,
+    "sha256": "e17e643009200816040a5db25cf8eb0f93bafd6f0919ca0efa9247f3506e5b44"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_100229.pdf",
+    "size": 46867425,
+    "sha256": "4c4e2bd22af3aa467ebabc014ab7d03b120996308354ef495f8335cc4ed7fbc4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_100229.txt",
+    "size": 426811,
+    "sha256": "e7035810ee5a8e3f5170919e06f9b1f83a5f34dc59c3a3e1dfde0e0f2d3c2a23"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_100230.pdf",
+    "size": 24350321,
+    "sha256": "fe8fd88770b380c910b46742bebf959d985f1f8d74131b628221c870449f6f19"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_100230.txt",
+    "size": 335285,
+    "sha256": "6ee9973005918c42735156185f7afa2eb6f0d24ee7e505082380b6a39867dea5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_105009.pdf",
+    "size": 37929055,
+    "sha256": "890c4ba2a81f63be455e870f2f98eafc2e7545cdeee98ccb864bef3f7d75ec03"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_105009.txt",
+    "size": 590364,
+    "sha256": "cd054b10de8d15b7fd712037a17af447b7052265b4ab9f6884786d19cc19edfe"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_105009_check.png",
+    "size": 328233,
+    "sha256": "d63e9d96feaa4661ebd17bd204127fe8e0ca9f4caea682d2c57b13e3f47302be"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_14947.pdf",
+    "size": 6200224,
+    "sha256": "b0d90dff1e03924dff047620bceab2df611a20914188654d0b9415e1305a80c3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_14947.txt",
+    "size": 96394,
+    "sha256": "30c04728b04c0c6d7714a8959378a281e624cae5fab7c4350510225fbd65db4d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_31027.pdf",
+    "size": 8069657,
+    "sha256": "824489a233050095a97d79acb9845e17cd29cb7239f8d664506f15eea3308434"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_31027.txt",
+    "size": 148710,
+    "sha256": "220a1929644a08b231489a96adb1f2969b2ca1ba3e1d886fcdddac0abcf23d65"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_31027_check.png",
+    "size": 382854,
+    "sha256": "0a7135b1974fd099d00b479a6293c0ff9e0a171e2a6451749bf303fd167802c5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_37728.pdf",
+    "size": 5093515,
+    "sha256": "ce62beb1005c06a306f431558059ab5e2501c1966a2f21bb08d60d0403186d61"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_37728.txt",
+    "size": 116215,
+    "sha256": "d49347af344fb114ede09fe36033a077aa93f1b1e3186daaff00ac99801d8330"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_37895.pdf",
+    "size": 3197815,
+    "sha256": "a41d1d9503f5463ebebed670548e42f7474b6fd8227bedbec5895d1af364a8d5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_37895.txt",
+    "size": 70153,
+    "sha256": "260b1f47c03907afc45df5ff219b0b3bea4695bef01495fcd9d1dbc706c8048f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_40956.pdf",
+    "size": 4666895,
+    "sha256": "da079b986e3216cd2ff31508429f17ffd33f53f863333d4a276d11edb830fab4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_40956.txt",
+    "size": 99572,
+    "sha256": "2f055a3e811b89ddabecb6b9c6269fe58720a5005dd92a38ec0c1dadaaa0f7c1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_45647.pdf",
+    "size": 5922414,
+    "sha256": "05716cf0a495750cb7ad662ad5822c790ad20049a15382f449f198cbc9816d45"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_45647.txt",
+    "size": 85411,
+    "sha256": "2b8a9627c5bd68c530a965070ef2069ff3bd6eddae7f89312fe517e801972e28"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_76334.pdf",
+    "size": 50231358,
+    "sha256": "c69964be68ff8246655b520d5c02674416bcea42489ed286fb6d021254605e7f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_76334.txt",
+    "size": 402190,
+    "sha256": "8ca9930ed16ef0c077bf39d12567e4222313b9e357a575765f4ea109acc26c9c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_76335.pdf",
+    "size": 25213961,
+    "sha256": "5a9aa9323d51c3bfea01cedec316206a4b75a7a74043ff9a3ef4d343c16b7a1b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_76335.txt",
+    "size": 278706,
+    "sha256": "11b6888ac7887b8036674667333f81d79e2a5182e356b07fd8727b6900168b54"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_76335_check.png",
+    "size": 75736,
+    "sha256": "c6165ed999355bb57e3d4adda7a2dd5af92e55a0de02f96638540f9c6dd19ce1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_82296.pdf",
+    "size": 3797298,
+    "sha256": "f816fcd3a8753546536909f1eb3eaad3fffdf84902a21ed014de192363b4234b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_82296.txt",
+    "size": 115091,
+    "sha256": "56a67ada6452ca28b3b6f872e5ecd15f40ed62d2db5b70ac563fc66e4ad62d4d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_83763.pdf",
+    "size": 5168029,
+    "sha256": "f2acdb959c3eeb8b2d31a021c570ab55cc9ec8419b5576103c41726efbbdc0cf"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_83763.txt",
+    "size": 114548,
+    "sha256": "8497950a213b3d1551409df8efcb0cc56cf48bfd4695b1568c93bd44e794b5b2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_88470.pdf",
+    "size": 4729538,
+    "sha256": "8237584d3017b6d4b117b2e8a34656290c7b9f44328c28f821e1b4234977f08a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_88470.txt",
+    "size": 94184,
+    "sha256": "2a88130d0b8c3b45058d11aedd4bfb9a6072f094fbbba4afe78ee2f59d63ea59"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_90053.pdf",
+    "size": 5235281,
+    "sha256": "4aa2cea331bbf3669837ed855b8d8d8332c091011c705e77e9d1f673bfdc41fa"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_90053.txt",
+    "size": 98704,
+    "sha256": "bc88c873cd0acbe8e7bfc5d3b62720970557040328ccf9e305e6aac2aae3a0a8"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_99933.pdf",
+    "size": 3862572,
+    "sha256": "fe560da82a72677bace7e89e391f1c363bcd067be3f3230ab73283b1f64b5eae"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/pdf/wbp_99933.txt",
+    "size": 129350,
+    "sha256": "3adc564115cb6d73f4b73b683dd10265caccbefb4e3c5f360719e48f432a6210"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/swa_fonds165812.html",
+    "size": 846,
+    "sha256": "19013dc96dad875681bebfe23bde7dcdc94c9b2170333115b4ded8fe522ec6d2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/swa_fonds165812.txt",
+    "size": 82,
+    "sha256": "a93c350ff188611becb965f1528d437d0d8f936bb3585aafd695b1ec31c59509"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/swa_series140681.html",
+    "size": 840,
+    "sha256": "3ce0c7951920c9be46c1fdbbf161218d1a85f7cd64447e470662bff7f314d349"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/swa_series140681.txt",
+    "size": 82,
+    "sha256": "94839caa26da12d210fe217db52ac34bb01d53e4d2b93da55f9af2bf5f7629fe"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/timenote_janina1910.html",
+    "size": 37932,
+    "sha256": "44454ac21b57b6e4df2a05ca06dd07fc8ea8dd99db0178a7fb6fa842d6d378a3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/timenote_janina1910.txt",
+    "size": 1863,
+    "sha256": "174eb2a9d72e475ae3979f6ea6168be4183a86cd981c0ae7a52019515ea32908"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_100229.html",
+    "size": 129513,
+    "sha256": "c2d0165c3e43eb0e8fade50c511838d99965004e6a36dcdef2f58594c98ee84e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_100229.txt",
+    "size": 14470,
+    "sha256": "5b1b72c00f56736e20d965f95636808a9cb9b57e4c39c43249e9fe062f4e299e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_100230.html",
+    "size": 130097,
+    "sha256": "add1e5cfceca17990ac9e9c714d177732b55f079a7a630fb6ef7589f1db35ad3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_100230.txt",
+    "size": 14557,
+    "sha256": "5857995522cd56543498548ec4434386f477e3ee5f5b4a7fcb531d3d32acb7ef"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_105009.html",
+    "size": 117143,
+    "sha256": "e171ba3d468d2461be13971f9a5145e67922ed28a82fd5ba18c3e328256ad641"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_105009.txt",
+    "size": 10530,
+    "sha256": "94d06d3f36c35188f28c3e6238527c2837a60fe6ef9aaa1a6a40eaa82bda9e0e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_14947.html",
+    "size": 117138,
+    "sha256": "c2dcda9f933fd72862ebba5fb0abde0587d17f84b87346881b8ca55ae87ddca1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_14947.txt",
+    "size": 6583,
+    "sha256": "14d2859c8dbaa5879b37ab246b9b4a10e99ecf25deffeb7b5f9e94ddbf713828"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_27488.html",
+    "size": 117446,
+    "sha256": "1203bed5a4ab2abe4169569b6e210ca7e5de2196378f10fc8aa648b9fa5999eb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_27488.txt",
+    "size": 8778,
+    "sha256": "bee15cb2a45e1eaca800b1cfbe24a8dbab2735f407d2b9b56cd4403227a114dc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_31027.html",
+    "size": 116717,
+    "sha256": "855dceffffb86777e59d7303677a0847aa297d9bd4eb0acc06cb574c6915ec65"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_31027.txt",
+    "size": 8719,
+    "sha256": "d806c4508ae5e6181dfdf3122c2cf2ce1e7206a61b5833ac3d4f371741173809"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_37728.html",
+    "size": 110253,
+    "sha256": "0e19301ac082c24ca4e58f5f35b44302765b3def47d34751ef609b0ea4f02d75"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_37728.txt",
+    "size": 6925,
+    "sha256": "ced0a632880d446e14b5bb1bb1f72edf50849737f44f8cf4243152bacf6b90dc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_37895.html",
+    "size": 111130,
+    "sha256": "53f991c12128fcdfc05b69dd60a81352dc2d48b46a4b85b4ea40b5cd7f841bf4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_37895.txt",
+    "size": 6949,
+    "sha256": "5ab1baa7a3d9b53d8f64d884ad67854b63dc43884d5097473e0331fef44282e3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_40956.html",
+    "size": 109655,
+    "sha256": "f219d7485fc471676d49eb20e89fe314647ed3d2f47f815de17b6912ab07a0fb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_40956.txt",
+    "size": 8518,
+    "sha256": "38539d5685f89aa1119798049dad9c79789fd569590ad883e0fc810be5f679b6"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_45647.html",
+    "size": 112228,
+    "sha256": "c6e4c9df82da038356ddf96e61a3425b6983801b94cd59278d808ff9e842c0f5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_45647.txt",
+    "size": 8422,
+    "sha256": "cce61d0263ff0e86d7009e3921c6e99ac193cf51855f6f38aa010f937ec2dfc5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_76334.html",
+    "size": 132482,
+    "sha256": "8f5668a725ca73828144f17b47af762ca450e9f51d8a5bbcd74d2cd6651b4951"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_76334.txt",
+    "size": 12563,
+    "sha256": "42c7bb4160f806f4d83583df0f934e84209620ea33cd3e7c86f1552257a340f9"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_76335.html",
+    "size": 132482,
+    "sha256": "4246337fda8aa20941de207971999d70f110fa15b7557559a6b09df566df14d0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_76335.txt",
+    "size": 12563,
+    "sha256": "49201113f6145eeba641af1bc7a45e147c9f7a4fec3503c2a3dc855c7208ecc2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_82296.html",
+    "size": 119101,
+    "sha256": "9a523ea4aa06f27b9581688a2f68430feb7cb5fe84e122ccff8d8b793d81112e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_82296.txt",
+    "size": 11921,
+    "sha256": "85510eafa5c91a323bac56253b1a8a50d3b3fa2d102a7421a3ee07577c19c2a3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_83763.html",
+    "size": 113177,
+    "sha256": "dbf770bf8a7d6765d461508bb0ef128934b5849a752cbc5f2c8e0c5743632dba"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_83763.txt",
+    "size": 11000,
+    "sha256": "4741b3657190528a7231bc80a1287e0e47779a7225cfef5cfa328a0f7196e127"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_88470.html",
+    "size": 120448,
+    "sha256": "fb5139d8d06d47128b814b335dde582cb8b52c4a43018ed2bf9978b565838e50"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_88470.txt",
+    "size": 12355,
+    "sha256": "7aed9770ae752b8f5cde53aeea244114ded8b9e8e9a7ce2ef29ec5493a0cbcf8"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_90053.html",
+    "size": 109134,
+    "sha256": "0d44c6211b76d32f2ed88118138e442676da19edb1fa3d9623214440df6fc568"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_90053.txt",
+    "size": 11539,
+    "sha256": "41ced949198d8d6ec44eece3006f958cc074644cfc8c900a8fff9e2f0baf8b4b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_99933.html",
+    "size": 127474,
+    "sha256": "7a88c5ba9ed0da7666f8ce5718faab9533910a505f9771ed1e83a311eaacb759"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/wbp_99933.txt",
+    "size": 14206,
+    "sha256": "c30311e9760027af992110a9be6c884f771c28b7e4dc7fb658b21d02bd336946"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/web/s05_catalogsearch.json",
+    "size": 22475,
+    "sha256": "7f00fdf62d500ec9b0e22392a73fdfa5ddfb8d95ff5ae0c41a74493f416bacb4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/web/s05_series.json",
+    "size": 22291,
+    "sha256": "e7e5324dc5b7cc52e7412de616907047cabd0d40509610b415fe5db4d53752b3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/web/s05_units.json",
+    "size": 479,
+    "sha256": "7252628d376a58982efda6683fcc52bf046901293d3814d5651e4425c264bae1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/web/s05_units_retry.json",
+    "size": 2311,
+    "sha256": "114c3ffba224f09a80a7fbadb5575192ad7468be0e953f07dec1d1eecd58ef9c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/leads/web/s05_usc.json",
+    "size": 23074,
+    "sha256": "26d3fe98bb16bdec32ba438928f76ab14022507acdfaf481e7f6e387a15f70a1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/new_leads.py",
+    "size": 2325,
+    "sha256": "2f1743cefbc64216a9a520633c936c75ef3611eb68235ec9b6e458ede9220741"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/press_variants.py",
+    "size": 1385,
+    "sha256": "6fea10d7618e726f8bcd045f18981d51db147f681af88efcbd7acf3ff2b05432"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/read_press.py",
+    "size": 1380,
+    "sha256": "d702ed1f06888cfe477f45cc8e17f5105779e53808a162c0824388d6c2e9bbb2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/read_variants.py",
+    "size": 1436,
+    "sha256": "d40f25cbf7bb23e3a51b8ce0ff8c85a41c3aaf1a832ca41024b7d5d5c4e5acab"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/101638.html",
+    "size": 113221,
+    "sha256": "241f0003772b99e72608b794049f8bb363152acaee0e2e8b7af2f2b11d4cf68c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/113129.html",
+    "size": 120783,
+    "sha256": "9c419c53758b19ba464d2dca926ed3b4cc9009305fb004ca1e5924dc6b5d8606"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/60683.html",
+    "size": 120771,
+    "sha256": "09f5a2f2155b5a9d150ac469f69d15e7976085bc8b13d77958372aae1318e756"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/60683.pdf",
+    "size": 4325177,
+    "sha256": "565203afc664db5c3e401ccf1f653815ee30f11adac215a599ae2b33cba07908"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/60683.txt",
+    "size": 100179,
+    "sha256": "4c3438976a203e05819b07fc45f796c563ecab49da55239c535b585cb9aa7c38"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/61362.html",
+    "size": 122110,
+    "sha256": "6c2a3b7550a17329da9cc4b83ac3a837659ab8dd224ae96da72102091979ccc1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/61362.pdf",
+    "size": 4726812,
+    "sha256": "87a8b7933000aa96de1482a34d97c8b5ec23f278672703a96adfa3d2a9646ab5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/61362.txt",
+    "size": 110330,
+    "sha256": "e174f0dbeeffc72817d2f5d1a572a397a3bb91a3ff75ef8666e3411099b2cba7"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/68950.html",
+    "size": 123927,
+    "sha256": "2d41695dfa25d7a2240b2970bba2724045edcffc739ebc26ef5789653d0974fb"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/68950.pdf",
+    "size": 1960961,
+    "sha256": "b0156f17a2501d6fc9a12f75d799bc5391ed83be13666a5573b13297a307afbf"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/68950.txt",
+    "size": 79774,
+    "sha256": "b6b66c3ccb0b71fbd7e0b91770147f2da6f6a1d30f6a94b057fdb3aaa7d0cbfa"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/68979.html",
+    "size": 112493,
+    "sha256": "049549433d5acd200f94be6b08b57a9a86189f01f41b3f9613060831cb1f08af"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/68979.pdf",
+    "size": 8986239,
+    "sha256": "7178cc00887680f29998e6d0f877f2484e10959dc2fd13e1b45351525f55a6a5"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/68979.txt",
+    "size": 369468,
+    "sha256": "72db8cfd451c155a7321d19c47da97fadf7a7387e0bfdd32b557ba41701c861e"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/69867.html",
+    "size": 112899,
+    "sha256": "d77c6c79b9d2881cf8bd96319e7f51b9edcf701220ded2b4e9110f321892cc5d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/69867.pdf",
+    "size": 9191459,
+    "sha256": "4632820d6d8912927382bef3d7a59fc8a9b8c49e38eeb3dc5683e03edf2db830"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/69867.txt",
+    "size": 350118,
+    "sha256": "7cd16ba3384388ebc791d9f4c37e33b8acf6a7aaf679a4521d809ab302f40f42"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/child_full.html",
+    "size": 29028,
+    "sha256": "87e562dafe3d925d46a547d8fa3e75db338ba284af6808c46218e2fdb0160c8a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/child_full.txt",
+    "size": 1818,
+    "sha256": "43c0f1008b80d51a1355664fb610897d6920a408ce72c02520c97b0e3a480b9b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/downloads.json",
+    "size": 4687,
+    "sha256": "4e66b3e5fd4b1bdbe208a76c1ad012c1c4e8496e2c9856d8d8b9ade6906f3cc4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/father_declined.html",
+    "size": 51156,
+    "sha256": "6779d7fa7218a26574093451f71bc7cf363f98b19512d576034212df338d3b79"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/father_declined.txt",
+    "size": 2921,
+    "sha256": "77f0a98a63c32a060b9aa363bb3ac5aab4bf7d1fe8a36fe9bb3fb5d1f38eb3c1"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/father_reverse.html",
+    "size": 123616,
+    "sha256": "6a35a79db14b95a380a4d5f539da4435250c12e9d4a527673cd9ab5bd523a8d4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/father_reverse.txt",
+    "size": 9135,
+    "sha256": "84ecda4124841a060f946c797ca7c9af353fc71f23de8a07793538945385b1cc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/mother_declined.html",
+    "size": 46382,
+    "sha256": "170f5c05ad891d4525bb1490a3e1425fac819efad022436282c746aed67da9ff"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/mother_declined.txt",
+    "size": 3061,
+    "sha256": "db48b5658b46684ce9210be02d02d8c2448a0ca525d4e0ea009692e9bd086944"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-05-prasa/zrodla/variants/readings.json",
+    "size": 26540,
+    "sha256": "9f3efb91dc5db6e924c8a0d132fb6cda78ba50d5d8d6d1ca584dfd4bc3a6e0f5"
+  }
+]

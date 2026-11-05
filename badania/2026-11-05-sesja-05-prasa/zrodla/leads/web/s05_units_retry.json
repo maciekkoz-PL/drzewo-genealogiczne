@@ -1,0 +1,20 @@
+{
+  "params": {
+    "click": [
+      {
+        "ref_id": "turn351133view0",
+        "id": 8
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Zespół - Szukaj w Archiwach (https://www.szukajwarchiwach.gov.pl/zespol?_Zespol_id_zespolu=165812&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&p_p_id=Zespol&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal)\n【turn729278view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: click({\"ref_id\":\"turn351133view0\",\"id\":8}); Total lines: 66\nL0: 【0†Image: fb†www.facebook.com】\nL1: \nL2:   * 【1†Przejdź do treści strony】\nL3:   * 【2†Przejdź do mapy strony】\nL4: \nL5: [Input]\nL6: \nL7: [Input: Szukaj]\nL8: \nL9: Wyszukaj\nL10: \nL11: [Input] tylko zdjęcia i skany\nL12: \nL13: pomoc\nL14: \nL15: Wyszukiwarka domyślnie wyszukuje wszystkie dostępne materiały. Na stronie wyników wyszukiwania będziesz mógł zawęzić wyniki do rodzaju materiału, kategorii i podkategorii. Jeśli chcesz przeszukać konkretne archiwum wybierz je i tak zacznij szukać. Możesz też przejść do wyszukiwarki zaawansowanej, badź po prostu przeglądać kolekcje.\nL16: Jakiego dokumentu szukasz\nL17: \nL18:   * [Input]   Akta\nL19: \nL20:   * [Input]   Plakaty, ulotki, afisze\nL21: \nL22:   * [Input]   Projekty techniczne\nL23: \nL24:   * [Input]   Mapy\nL25: \nL26:   * [Input]   Fotografie\nL27: \nL28:   * [Input]   Filmy i nagrania dźwiękowe\nL29: \nL30:   * [Input]   Pradziad\nL31: \nL32:   * [Input]   Pergaminowe\nL33: \nL34:   * [Input]   Muzealia\nL35: \nL36: Wybierz okres historyczny\nL37: \nL38:   * [Input]   1900+\nL39: \nL40:   * [Input]   1800-1899\nL41: \nL42:   * [Input]   1700-1799\nL43: \nL44:   * [Input]   1600-1699\nL45: \nL46:   * [Input]   1500-1599\nL47: \nL48:   * [Input]   1400-1499\nL49: \nL50:   * [Input]   do 1399\nL51: \nL52: [Button: Zwiń]\nL53: ### Spróbuj inaczej\nL54: \nL55: Wybierz archiwum 【3†Wyszukiwanie zaawansowane】 【4†Przeglądaj kolekcje】\nL56: \nL57: 【5†Wyszukiwanie akt metrykalnych】\nL58: \nL59: [Input]\nL60: \nL61: ## Zespół\nL62: \nL63: Portlety jest tymczasowo niedostępny.\nL64: \nL65: `\n"
+      }
+    ],
+    "isError": false
+  }
+}

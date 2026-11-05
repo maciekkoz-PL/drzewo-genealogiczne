@@ -1,3 +1,5 @@
+Bieżący etap05: [wyniki prasowe i granice dowodów](badania/2026-11-05-sesja-05-prasa/STATUS.md), [plan dalszej pracy](badania/2026-11-05-sesja-05-prasa/PLAN_KONTYNUACJI.md). H017 nadal otwarta.
+
 Bieżąca kontynuacja: [etap04 — wyniki, ograniczenia i plan](badania/2026-11-05-sesja-04-weryfikacja/STATUS.md). H017 pozostaje otwarta; Geneteka wskazuje jedną parę w przeszukanych indeksach.
 
 # Rodzice Bogusława — potwierdzenie w odpisie USC

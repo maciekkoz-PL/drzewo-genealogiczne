@@ -1,3 +1,5 @@
+Bieżący etap05: [wyniki prasowe i granice dowodów](badania/2026-11-05-sesja-05-prasa/STATUS.md), [plan dalszej pracy](badania/2026-11-05-sesja-05-prasa/PLAN_KONTYNUACJI.md). H017 nadal otwarta.
+
 Bieżąca kontynuacja: [etap04 — wyniki, ograniczenia i plan](badania/2026-11-05-sesja-04-weryfikacja/STATUS.md). H017 pozostaje otwarta; Geneteka wskazuje jedną parę w przeszukanych indeksach.
 
 > **AKTUALNY ETAP 03 — wyłącznie H017:** odczytano 35 nowych obrazów Arolsen i 280 wierszy indeksu, bez dodatkowego łącznika z parą 1936; wykluczono homonimów C34–C38. Nazwiska rodziców pozostają potwierdzone S086. [Macierz dowodów](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md), [aktualny plan i następne ID](badania/2026-11-05-sesja-03-polaczenie/PLAN_KONTYNUACJI.md), [oficjalny druk z opcjonalnym PESEL i niewysłany szkic](badania/2026-11-05-sesja-03-polaczenie/S105_WNIOSEK_I_AKTA_1982.md). Bieżąca baza: 21 arkuszy, 105 źródeł, 38 kandydatów/aliasów. Historyczne tablice poniżej nie opisują obecnego poziomu dowodu. Nie wysyłać wiadomości ani wniosków bez osobnego zatwierdzenia.

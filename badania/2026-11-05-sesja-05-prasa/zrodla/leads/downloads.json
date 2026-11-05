@@ -1,0 +1,3219 @@
+[
+  {
+    "key": "wbp_37895",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/39707/edition/37895",
+    "title": "Echo. 1936-01-04 R. 12 nr 4",
+    "access_utc": "2026-11-05T18:09:56.258248+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/39707/edition/37895",
+    "size": 111130,
+    "sha256": "53f991c12128fcdfc05b69dd60a81352dc2d48b46a4b85b4ea40b5cd7f841bf4",
+    "path": "work/h017-s04/leads/wbp_37895.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39707/edition/37895#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39707/edition/37895/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39707/edition/37895/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/37895/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39704/edition/37892/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39705/edition/37893/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39706/edition/37894/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39707/edition/37895/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39708/edition/37896/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39709/edition/37897/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39710/edition/37898/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39711/edition/37899/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39712/edition/37900/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39713/edition/37901/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39714/edition/37902/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39715/edition/37903/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39716/edition/37904/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39717/edition/37905/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39718/edition/37906/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39722/edition/37909/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39723/edition/37910/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39724/edition/37911/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39725/edition/37912/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39726/edition/37913/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39727/edition/37914/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39728/edition/37915/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39729/edition/37916/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39730/edition/37917/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39731/edition/37918/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39732/edition/37919/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39733/edition/37920/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39734/edition/37921/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39735/edition/37922/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39736/edition/37923/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39737/edition/37924/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43286/edition/41349/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43285/edition/41348/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43288/edition/41351/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43287/edition/41350/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43298/edition/41361/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43297/edition/41360/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43300/edition/41363/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43299/edition/41362/content?ref=L3B1YmxpY2F0aW9uLzM5NzA3L2VkaXRpb24vMzc4OTU"
+      }
+    ]
+  },
+  {
+    "key": "wbp_31027",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/32542/edition/31027",
+    "title": "Ilustrowana Republika. 1937-10-02 R. 15 nr 271",
+    "access_utc": "2026-11-05T18:09:56.259327+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/32542/edition/31027",
+    "size": 116717,
+    "sha256": "855dceffffb86777e59d7303677a0847aa297d9bd4eb0acc06cb574c6915ec65",
+    "path": "work/h017-s04/leads/wbp_31027.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32542/edition/31027#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32542/edition/31027/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32542/edition/31027/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/31027/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32541/edition/31026/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32542/edition/31027/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32543/edition/31028/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32544/edition/31029/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32545/edition/31030/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32546/edition/31031/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32547/edition/31032/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32548/edition/31033/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32549/edition/31034/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32550/edition/31035/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32551/edition/31036/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32552/edition/31037/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32553/edition/31038/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32554/edition/31039/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32555/edition/31040/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32556/edition/31041/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32557/edition/31042/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32558/edition/31043/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32559/edition/31044/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32560/edition/31045/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32561/edition/31046/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32562/edition/31047/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32563/edition/31048/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32564/edition/31049/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32565/edition/31050/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32566/edition/31051/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32567/edition/31052/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32568/edition/31053/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32569/edition/31054/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32570/edition/31055/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32571/edition/31056/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43286/edition/41349/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43285/edition/41348/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43288/edition/41351/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43287/edition/41350/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43298/edition/41361/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43297/edition/41360/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43300/edition/41363/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43299/edition/41362/content?ref=L3B1YmxpY2F0aW9uLzMyNTQyL2VkaXRpb24vMzEwMjc"
+      }
+    ]
+  },
+  {
+    "key": "wbp_37728",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/39540/edition/37728",
+    "title": "Echo. 1935-07-20 R. 11 nr 200",
+    "access_utc": "2026-11-05T18:09:56.261613+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/39540/edition/37728",
+    "size": 110253,
+    "sha256": "0e19301ac082c24ca4e58f5f35b44302765b3def47d34751ef609b0ea4f02d75",
+    "path": "work/h017-s04/leads/wbp_37728.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39540/edition/37728#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39540/edition/37728/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39540/edition/37728/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/37728/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39522/edition/37710/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39523/edition/37711/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39524/edition/37712/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39525/edition/37713/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39526/edition/37714/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39527/edition/37715/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39528/edition/37716/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39529/edition/37717/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39530/edition/37718/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39531/edition/37719/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39532/edition/37720/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39533/edition/37721/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39534/edition/37722/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39535/edition/37723/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39536/edition/37724/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39537/edition/37725/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39538/edition/37726/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39539/edition/37727/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39540/edition/37728/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39541/edition/37729/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39542/edition/37730/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39543/edition/37731/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39544/edition/37732/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39545/edition/37733/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39546/edition/37734/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39547/edition/37735/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39548/edition/37736/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39549/edition/37737/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39550/edition/37738/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39551/edition/37739/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43286/edition/41349/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43285/edition/41348/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43288/edition/41351/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43287/edition/41350/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43298/edition/41361/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43297/edition/41360/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43300/edition/41363/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43299/edition/41362/content?ref=L3B1YmxpY2F0aW9uLzM5NTQwL2VkaXRpb24vMzc3Mjg"
+      }
+    ]
+  },
+  {
+    "key": "wbp_82296",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/86241/edition/82296",
+    "title": "Głos Radomszczański : pismo Polskiej Partii Robotniczej. 1948-05-12 R. 4 nr 129",
+    "access_utc": "2026-11-05T18:09:59.345909+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/86241/edition/82296",
+    "size": 119101,
+    "sha256": "9a523ea4aa06f27b9581688a2f68430feb7cb5fe84e122ccff8d8b793d81112e",
+    "path": "work/h017-s04/leads/wbp_82296.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86241/edition/82296#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86241/edition/82296/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86241/edition/82296/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/82296/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86231/edition/82286/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86232/edition/82287/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86233/edition/82288/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86234/edition/82289/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86235/edition/82290/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86236/edition/82291/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86237/edition/82292/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86238/edition/82293/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86239/edition/82294/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86240/edition/82295/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86241/edition/82296/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86242/edition/82297/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86243/edition/82298/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86244/edition/82299/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86245/edition/82300/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86246/edition/82301/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86247/edition/82302/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86248/edition/82303/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86249/edition/82304/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86250/edition/82305/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86251/edition/82306/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86252/edition/82307/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86253/edition/82308/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86254/edition/82309/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86255/edition/82310/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86256/edition/82311/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86257/edition/82312/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86258/edition/82313/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104718/edition/100084/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104719/edition/100085/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104716/edition/100082/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104717/edition/100083/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104714/edition/100080/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104715/edition/100081/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104745/edition/100110/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104746/edition/100111/content?ref=L3B1YmxpY2F0aW9uLzg2MjQxL2VkaXRpb24vODIyOTY"
+      }
+    ]
+  },
+  {
+    "key": "wbp_45647",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/47774/edition/45647",
+    "title": "Express Wieczorny Ilustrowany. 1930-04-21 R. 8 nr 110",
+    "access_utc": "2026-11-05T18:09:59.381581+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/47774/edition/45647",
+    "size": 112228,
+    "sha256": "c6e4c9df82da038356ddf96e61a3425b6983801b94cd59278d808ff9e842c0f5",
+    "path": "work/h017-s04/leads/wbp_45647.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47774/edition/45647#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47774/edition/45647/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47774/edition/45647/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/45647/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47755/edition/45628/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47756/edition/45629/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47757/edition/45630/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47758/edition/45631/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47759/edition/45632/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47760/edition/45633/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47761/edition/45634/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47762/edition/45635/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47763/edition/45636/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47764/edition/45637/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47765/edition/45638/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47766/edition/45639/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47767/edition/45640/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47768/edition/45641/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47769/edition/45642/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47770/edition/45643/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47771/edition/45644/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47772/edition/45645/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47773/edition/45646/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47774/edition/45647/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47775/edition/45648/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47776/edition/45649/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47777/edition/45650/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47778/edition/45651/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47779/edition/45652/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47780/edition/45653/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47781/edition/45654/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47782/edition/45655/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24037/edition/22854/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24048/edition/22865/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24410/edition/23225/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24409/edition/23224/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24412/edition/23227/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24411/edition/23226/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24406/edition/23221/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/24405/edition/23220/content?ref=L3B1YmxpY2F0aW9uLzQ3Nzc0L2VkaXRpb24vNDU2NDc"
+      }
+    ]
+  },
+  {
+    "key": "wbp_14947",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/15809/edition/14947",
+    "title": "Rozwój. 1929-04-12 No 99",
+    "access_utc": "2026-11-05T18:09:59.750842+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/15809/edition/14947",
+    "size": 117138,
+    "sha256": "c2dcda9f933fd72862ebba5fb0abde0587d17f84b87346881b8ca55ae87ddca1",
+    "path": "work/h017-s04/leads/wbp_14947.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15809/edition/14947#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15809/edition/14947/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15809/edition/14947/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/14947/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15799/edition/14937/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15800/edition/14938/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15801/edition/14939/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15802/edition/14940/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15803/edition/14941/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15804/edition/14942/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15805/edition/14943/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15806/edition/14944/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15807/edition/14945/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15808/edition/14946/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15809/edition/14947/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15810/edition/14948/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15811/edition/14949/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15812/edition/14950/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15813/edition/14951/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15814/edition/14952/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15815/edition/14953/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15816/edition/14954/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15817/edition/14955/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15818/edition/14956/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15819/edition/14957/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15820/edition/14958/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15821/edition/14959/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15822/edition/14960/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15823/edition/14961/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15824/edition/14962/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15825/edition/14963/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15826/edition/14964/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/15827/edition/14965/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13602/edition/12819/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13601/edition/12818/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13634/edition/12847/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13579/edition/12797/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13578/edition/12796/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13581/edition/12799/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13580/edition/12798/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/13575/edition/12793/content?ref=L3B1YmxpY2F0aW9uLzE1ODA5L2VkaXRpb24vMTQ5NDc"
+      }
+    ]
+  },
+  {
+    "key": "wbp_27488",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/28841/edition/27488",
+    "title": "Ilustrowana Republika. 1935-07-21 R. 13 nr 198",
+    "access_utc": "2026-11-05T18:10:01.226925+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/28841/edition/27488",
+    "size": 117446,
+    "sha256": "1203bed5a4ab2abe4169569b6e210ca7e5de2196378f10fc8aa648b9fa5999eb",
+    "path": "work/h017-s04/leads/wbp_27488.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28841/edition/27488#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28841/edition/27488/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28841/edition/27488/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/27488/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28821/edition/27468/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28822/edition/27469/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28823/edition/27470/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28824/edition/27471/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28825/edition/27472/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28826/edition/27473/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28827/edition/27474/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28828/edition/27475/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28829/edition/27476/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28830/edition/27477/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28831/edition/27478/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28832/edition/27479/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28833/edition/27480/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28834/edition/27481/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28835/edition/27482/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28836/edition/27483/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28837/edition/27484/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28838/edition/27485/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28839/edition/27486/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28840/edition/27487/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28841/edition/27488/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28842/edition/27489/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28843/edition/27490/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28844/edition/27491/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28845/edition/27492/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28846/edition/27493/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28847/edition/27494/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28848/edition/27495/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28849/edition/27496/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28850/edition/27497/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28851/edition/27498/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43286/edition/41349/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43285/edition/41348/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43288/edition/41351/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43287/edition/41350/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43298/edition/41361/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43297/edition/41360/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43300/edition/41363/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43299/edition/41362/content?ref=L3B1YmxpY2F0aW9uLzI4ODQxL2VkaXRpb24vMjc0ODg"
+      }
+    ]
+  },
+  {
+    "key": "wbp_100230",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/104868/edition/100230",
+    "title": "Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin : TL tygodnik lokalny. 2007-12-28 R. 17 nr 52",
+    "access_utc": "2026-11-05T18:10:01.303007+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/104868/edition/100230",
+    "size": 130097,
+    "sha256": "add1e5cfceca17990ac9e9c714d177732b55f079a7a630fb6ef7589f1db35ad3",
+    "path": "work/h017-s04/leads/wbp_100230.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104868/edition/100230#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104868/edition/100230/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104868/edition/100230/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/100230/download/"
+      },
+      {
+        "text": "Tekst licencji",
+        "url": "http://bc.wbp.lodz.pl/licencja_lowiczanin.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104834/edition/100196/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104835/edition/100197/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104836/edition/100198/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104837/edition/100199/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104838/edition/100200/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104839/edition/100201/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104840/edition/100202/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104841/edition/100203/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104842/edition/100204/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104843/edition/100205/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104844/edition/100206/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104845/edition/100207/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104846/edition/100208/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104847/edition/100209/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104848/edition/100210/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104849/edition/100211/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104850/edition/100212/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104851/edition/100213/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104852/edition/100214/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104853/edition/100215/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104854/edition/100216/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104855/edition/100217/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104856/edition/100218/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104857/edition/100219/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104858/edition/100220/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104859/edition/100221/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104860/edition/100222/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104861/edition/100223/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104862/edition/100224/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104863/edition/100225/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104864/edition/100226/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104865/edition/100227/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104866/edition/100228/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104867/edition/100229/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104868/edition/100230/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88097/edition/84069/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90448/edition/86334/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90449/edition/86335/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90446/edition/86332/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90447/edition/86333/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90444/edition/86330/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90445/edition/86331/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90443/edition/86329/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2OC9lZGl0aW9uLzEwMDIzMA"
+      }
+    ]
+  },
+  {
+    "key": "wbp_76335",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/79997/edition/76335",
+    "title": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej : TL tygodnik lokalny. 2007-12-28 R. 17 nr 52",
+    "access_utc": "2026-11-05T18:10:02.225723+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/79997/edition/76335",
+    "size": 132482,
+    "sha256": "4246337fda8aa20941de207971999d70f110fa15b7557559a6b09df566df14d0",
+    "path": "work/h017-s04/leads/wbp_76335.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79997/edition/76335#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79997/edition/76335/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79997/edition/76335/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/76335/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86051/edition/82115/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86052/edition/82116/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86053/edition/82117/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86054/edition/82118/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86055/edition/82119/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86056/edition/82120/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86057/edition/82121/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86058/edition/82122/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86059/edition/82123/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86060/edition/82124/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86061/edition/82125/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86062/edition/82126/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86063/edition/82127/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86064/edition/82128/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86065/edition/82129/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86066/edition/82130/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86067/edition/82131/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79819/edition/76170/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79820/edition/76171/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79821/edition/76172/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79822/edition/76173/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79823/edition/76174/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79824/edition/76175/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79825/edition/76176/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79826/edition/76177/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79827/edition/76178/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79828/edition/76179/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79973/edition/76311/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79974/edition/76312/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79975/edition/76313/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79976/edition/76314/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79977/edition/76315/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79978/edition/76316/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79979/edition/76317/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79980/edition/76318/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79981/edition/76319/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79982/edition/76320/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79983/edition/76321/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79984/edition/76322/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79985/edition/76323/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79986/edition/76324/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79987/edition/76325/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79988/edition/76326/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79989/edition/76327/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79990/edition/76328/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79991/edition/76329/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79992/edition/76330/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79993/edition/76331/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79994/edition/76332/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79995/edition/76333/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79996/edition/76334/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79997/edition/76335/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80370/edition/76694/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80368/edition/76692/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80369/edition/76693/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80366/edition/76690/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80367/edition/76691/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80364/edition/76688/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80365/edition/76689/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99967/edition/95502/content?ref=L3B1YmxpY2F0aW9uLzc5OTk3L2VkaXRpb24vNzYzMzU"
+      }
+    ]
+  },
+  {
+    "key": "wbp_100229",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/104867/edition/100229",
+    "title": "Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin : TL tygodnik lokalny. 2007-12-20 R. 17 nr 51",
+    "access_utc": "2026-11-05T18:10:02.647739+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/104867/edition/100229",
+    "size": 129513,
+    "sha256": "c2d0165c3e43eb0e8fade50c511838d99965004e6a36dcdef2f58594c98ee84e",
+    "path": "work/h017-s04/leads/wbp_100229.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104867/edition/100229#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104867/edition/100229/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104867/edition/100229/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/100229/download/"
+      },
+      {
+        "text": "Tekst licencji",
+        "url": "http://bc.wbp.lodz.pl/licencja_lowiczanin.pdf"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104834/edition/100196/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104835/edition/100197/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104836/edition/100198/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104837/edition/100199/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104838/edition/100200/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104839/edition/100201/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104840/edition/100202/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104841/edition/100203/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104842/edition/100204/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104843/edition/100205/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104844/edition/100206/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104845/edition/100207/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104846/edition/100208/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104847/edition/100209/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104848/edition/100210/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104849/edition/100211/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104850/edition/100212/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104851/edition/100213/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104852/edition/100214/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104853/edition/100215/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104854/edition/100216/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104855/edition/100217/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104856/edition/100218/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104857/edition/100219/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104858/edition/100220/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104859/edition/100221/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104860/edition/100222/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104861/edition/100223/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104862/edition/100224/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104863/edition/100225/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104864/edition/100226/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104865/edition/100227/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104866/edition/100228/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104867/edition/100229/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104868/edition/100230/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88097/edition/84069/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90448/edition/86334/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90449/edition/86335/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90446/edition/86332/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90447/edition/86333/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90444/edition/86330/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90445/edition/86331/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/90443/edition/86329/content?ref=L3B1YmxpY2F0aW9uLzEwNDg2Ny9lZGl0aW9uLzEwMDIyOQ"
+      }
+    ]
+  },
+  {
+    "key": "wbp_76334",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/79996/edition/76334",
+    "title": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej : TL tygodnik lokalny. 2007-12-20 R. 17 nr 51",
+    "access_utc": "2026-11-05T18:10:03.380981+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/79996/edition/76334",
+    "size": 132482,
+    "sha256": "8f5668a725ca73828144f17b47af762ca450e9f51d8a5bbcd74d2cd6651b4951",
+    "path": "work/h017-s04/leads/wbp_76334.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79996/edition/76334#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79996/edition/76334/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79996/edition/76334/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/76334/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86051/edition/82115/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86052/edition/82116/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86053/edition/82117/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86054/edition/82118/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86055/edition/82119/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86056/edition/82120/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86057/edition/82121/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86058/edition/82122/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86059/edition/82123/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86060/edition/82124/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86061/edition/82125/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86062/edition/82126/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86063/edition/82127/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86064/edition/82128/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86065/edition/82129/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86066/edition/82130/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86067/edition/82131/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79819/edition/76170/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79820/edition/76171/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79821/edition/76172/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79822/edition/76173/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79823/edition/76174/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79824/edition/76175/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79825/edition/76176/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79826/edition/76177/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79827/edition/76178/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79828/edition/76179/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79973/edition/76311/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79974/edition/76312/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79975/edition/76313/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79976/edition/76314/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79977/edition/76315/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79978/edition/76316/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79979/edition/76317/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79980/edition/76318/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79981/edition/76319/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79982/edition/76320/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79983/edition/76321/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79984/edition/76322/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79985/edition/76323/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79986/edition/76324/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79987/edition/76325/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79988/edition/76326/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79989/edition/76327/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79990/edition/76328/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79991/edition/76329/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79992/edition/76330/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79993/edition/76331/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79994/edition/76332/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79995/edition/76333/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79996/edition/76334/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/79997/edition/76335/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80370/edition/76694/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80368/edition/76692/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80369/edition/76693/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80366/edition/76690/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80367/edition/76691/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80364/edition/76688/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/80365/edition/76689/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99967/edition/95502/content?ref=L3B1YmxpY2F0aW9uLzc5OTk2L2VkaXRpb24vNzYzMzQ"
+      }
+    ]
+  },
+  {
+    "key": "wbp_83763",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/87778/edition/83763",
+    "title": "Głos Kaliski : pismo Polskiej Partii Robotniczej. 1947-12-10 R. 3 nr 338",
+    "access_utc": "2026-11-05T18:10:03.851126+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/87778/edition/83763",
+    "size": 113177,
+    "sha256": "dbf770bf8a7d6765d461508bb0ef128934b5849a752cbc5f2c8e0c5743632dba",
+    "path": "work/h017-s04/leads/wbp_83763.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87778/edition/83763#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87778/edition/83763/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87778/edition/83763/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/83763/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87770/edition/83755/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87771/edition/83756/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87772/edition/83757/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87773/edition/83758/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87774/edition/83759/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87775/edition/83760/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87776/edition/83761/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87777/edition/83762/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87778/edition/83763/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87779/edition/83764/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87780/edition/83765/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87808/edition/83792/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87809/edition/83793/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87810/edition/83794/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87811/edition/83795/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87812/edition/83796/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87813/edition/83797/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87814/edition/83798/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87815/edition/83799/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87816/edition/83800/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87817/edition/83801/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87818/edition/83802/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87819/edition/83803/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87820/edition/83804/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87821/edition/83805/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88101/edition/84073/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88102/edition/84074/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94204/edition/89934/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94205/edition/89935/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94202/edition/89932/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94203/edition/89933/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87818/edition/83802/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87819/edition/83803/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87816/edition/83800/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/87817/edition/83801/content?ref=L3B1YmxpY2F0aW9uLzg3Nzc4L2VkaXRpb24vODM3NjM"
+      }
+    ]
+  },
+  {
+    "key": "wbp_88470",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/92686/edition/88470",
+    "title": "Głos Tomaszowski : pismo Polskiej Partii Robotniczej. 1948-09-22 R. 4 nr 260 [właśc. nr 261]",
+    "access_utc": "2026-11-05T18:10:04.214852+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/92686/edition/88470",
+    "size": 120448,
+    "sha256": "fb5139d8d06d47128b814b335dde582cb8b52c4a43018ed2bf9978b565838e50",
+    "path": "work/h017-s04/leads/wbp_88470.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92686/edition/88470#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92686/edition/88470/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92686/edition/88470/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/88470/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92666/edition/88450/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92667/edition/88451/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92668/edition/88452/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92669/edition/88453/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92670/edition/88454/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92671/edition/88455/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92672/edition/88456/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92673/edition/88457/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92674/edition/88458/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92675/edition/88459/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92676/edition/88460/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92677/edition/88461/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92678/edition/88462/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92679/edition/88463/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92680/edition/88464/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92681/edition/88465/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92682/edition/88466/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92683/edition/88467/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92684/edition/88468/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92685/edition/88469/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92686/edition/88470/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92687/edition/88471/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92688/edition/88472/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92689/edition/88473/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92690/edition/88474/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92691/edition/88475/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92692/edition/88476/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92693/edition/88477/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/92694/edition/88478/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111846/edition/106942/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111847/edition/106943/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111848/edition/106944/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111849/edition/106945/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111850/edition/106946/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111851/edition/106947/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111852/edition/106948/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/111853/edition/106949/content?ref=L3B1YmxpY2F0aW9uLzkyNjg2L2VkaXRpb24vODg0NzA"
+      }
+    ]
+  },
+  {
+    "key": "wbp_40956",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/42880/edition/40956",
+    "title": "Hasło Łódzkie : dziennik bezpartyjny. 1928-10-30 R. 2 nr 300",
+    "access_utc": "2026-11-05T18:10:04.918405+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/42880/edition/40956",
+    "size": 109655,
+    "sha256": "f219d7485fc471676d49eb20e89fe314647ed3d2f47f815de17b6912ab07a0fb",
+    "path": "work/h017-s04/leads/wbp_40956.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42880/edition/40956#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42880/edition/40956/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42880/edition/40956/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/40956/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42851/edition/40927/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42852/edition/40928/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42853/edition/40929/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42854/edition/40930/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42855/edition/40931/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42856/edition/40932/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42857/edition/40933/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42858/edition/40934/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42859/edition/40935/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42860/edition/40936/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42861/edition/40937/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42862/edition/40938/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42863/edition/40939/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42864/edition/40940/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42865/edition/40941/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42866/edition/40942/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42867/edition/40943/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42868/edition/40944/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42869/edition/40945/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42870/edition/40946/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42871/edition/40947/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42872/edition/40948/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42873/edition/40949/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42874/edition/40950/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42875/edition/40951/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42876/edition/40952/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42877/edition/40953/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42878/edition/40954/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42879/edition/40955/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42880/edition/40956/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42881/edition/40957/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43286/edition/41349/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43285/edition/41348/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43288/edition/41351/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43287/edition/41350/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43298/edition/41361/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43297/edition/41360/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43300/edition/41363/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43299/edition/41362/content?ref=L3B1YmxpY2F0aW9uLzQyODgwL2VkaXRpb24vNDA5NTY"
+      }
+    ]
+  },
+  {
+    "key": "wbp_90053",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/94329/edition/90053",
+    "title": "Nowy Kurjer Łódzki : dziennik polityczny, społeczny i literacki. 1912-06-21 R. 2 no 140",
+    "access_utc": "2026-11-05T18:10:05.352681+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/94329/edition/90053",
+    "size": 109134,
+    "sha256": "0d44c6211b76d32f2ed88118138e442676da19edb1fa3d9623214440df6fc568",
+    "path": "work/h017-s04/leads/wbp_90053.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94329/edition/90053#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94329/edition/90053/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94329/edition/90053/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/90053/download/"
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94317/edition/90041/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94318/edition/90042/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94319/edition/90043/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94320/edition/90044/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94321/edition/90045/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94322/edition/90046/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94323/edition/90047/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94324/edition/90048/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94325/edition/90049/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94326/edition/90050/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94327/edition/90051/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94328/edition/90052/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94329/edition/90053/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94330/edition/90054/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94331/edition/90055/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94332/edition/90056/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/94333/edition/90057/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/98742/edition/94316/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/98736/edition/94310/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/98737/edition/94311/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99551/edition/95098/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99552/edition/95099/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99550/edition/95097/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99903/edition/95441/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99541/edition/95088/content?ref=L3B1YmxpY2F0aW9uLzk0MzI5L2VkaXRpb24vOTAwNTM"
+      }
+    ]
+  },
+  {
+    "key": "wbp_99933",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/104562/edition/99933",
+    "title": "Głos Radomszczański : organ WK i ŁK Polskiej Zjednoczonej Partii Robotniczej. 1950-08-23 R. 3 (6) nr 231",
+    "access_utc": "2026-11-05T18:10:05.406744+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/104562/edition/99933",
+    "size": 127474,
+    "sha256": "7a88c5ba9ed0da7666f8ce5718faab9533910a505f9771ed1e83a311eaacb759",
+    "path": "work/h017-s04/leads/wbp_99933.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104562/edition/99933#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104562/edition/99933/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104562/edition/99933/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/99933/download/"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104540/edition/99911/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104541/edition/99912/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104542/edition/99913/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104543/edition/99914/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104544/edition/99915/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104545/edition/99916/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104546/edition/99917/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104547/edition/99918/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104548/edition/99919/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104549/edition/99920/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104550/edition/99921/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104551/edition/99922/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104552/edition/99923/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104553/edition/99924/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104554/edition/99925/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104555/edition/99926/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104556/edition/99927/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104557/edition/99928/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104558/edition/99929/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104559/edition/99930/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104560/edition/99931/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104561/edition/99932/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104562/edition/99933/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104563/edition/99934/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104564/edition/99935/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104565/edition/99936/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104566/edition/99937/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104567/edition/99938/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104568/edition/99939/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104569/edition/99940/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104570/edition/99941/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104718/edition/100084/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104719/edition/100085/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104716/edition/100082/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104717/edition/100083/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104714/edition/100080/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104715/edition/100081/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104745/edition/100110/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104746/edition/100111/content?ref=L3B1YmxpY2F0aW9uLzEwNDU2Mi9lZGl0aW9uLzk5OTMz"
+      }
+    ]
+  },
+  {
+    "key": "wbp_105009",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/109840/edition/105009",
+    "title": "Kronika Miasta Łodzi : kwartalnik. 2010 [nr] 4 (52)",
+    "access_utc": "2026-11-05T18:10:06.495893+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/109840/edition/105009",
+    "size": 117143,
+    "sha256": "e171ba3d468d2461be13971f9a5145e67922ed28a82fd5ba18c3e328256ad641",
+    "path": "work/h017-s04/leads/wbp_105009.html",
+    "resource_links": [
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109840/edition/105009#main-content"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109840/edition/105009/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109840/edition/105009/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/105009/download/"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109722/edition/104896/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109723/edition/104897/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109811/edition/104982/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109840/edition/105009/content?ref=struct"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/110574/edition/105713/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/110575/edition/105714/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105428/edition/100771/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109647/edition/104824/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109644/edition/104822/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/108045/edition/103282/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/108043/edition/103280/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/108044/edition/103281/content?ref=L3B1YmxpY2F0aW9uLzEwOTg0MC9lZGl0aW9uLzEwNTAwOQ"
+      }
+    ]
+  },
+  {
+    "key": "timenote_janina1910",
+    "url": "https://timenote.info/pl/Janina-Chmielewska-00.00.1910",
+    "title": "Profile, birth year 1910",
+    "access_utc": "2026-11-05T18:10:06.631047+00:00",
+    "status": 200,
+    "final_url": "https://timenote.info/pl/Janina-Chmielewska-00.00.1910",
+    "size": 37932,
+    "sha256": "44454ac21b57b6e4df2a05ca06dd07fc8ea8dd99db0178a7fb6fa842d6d378a3",
+    "path": "work/h017-s04/leads/timenote_janina1910.html",
+    "resource_links": []
+  },
+  {
+    "key": "swa_series140681",
+    "url": "https://www.szukajwarchiwach.gov.pl/en/web/guest/seria?_Seria_delta=200&_Seria_id_serii=140681&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&p_p_id=Seria&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal&refererPlid=20136",
+    "title": "German-period civil-register series",
+    "access_utc": "2026-11-05T18:10:07.457080+00:00",
+    "status": 200,
+    "final_url": "https://www.szukajwarchiwach.gov.pl/en/web/guest/seria?_Seria_delta=200&_Seria_id_serii=140681&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&p_p_id=Seria&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal&refererPlid=20136",
+    "size": 840,
+    "sha256": "3ce0c7951920c9be46c1fdbbf161218d1a85f7cd64447e470662bff7f314d349",
+    "path": "work/h017-s04/leads/swa_series140681.html",
+    "resource_links": []
+  },
+  {
+    "key": "swa_fonds165812",
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812",
+    "title": "Full fonds catalogue, not scans manifest",
+    "access_utc": "2026-11-05T18:10:07.478237+00:00",
+    "status": 200,
+    "final_url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812",
+    "size": 846,
+    "sha256": "19013dc96dad875681bebfe23bde7dcdc94c9b2170333115b4ded8fe522ec6d2",
+    "path": "work/h017-s04/leads/swa_fonds165812.html",
+    "resource_links": []
+  }
+]

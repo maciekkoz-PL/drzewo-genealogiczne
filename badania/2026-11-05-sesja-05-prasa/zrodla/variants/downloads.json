@@ -1,0 +1,109 @@
+[
+  {
+    "key": "mother_declined",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Chmielewskiej%22&action=SimpleSearchAction&type=-6&p=0",
+    "query": "\"Janiny Chmielewskiej\"",
+    "utc": "2026-11-05T18:12:39.921977+00:00",
+    "status": 200,
+    "size": 46382,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Chmielewskiej%22&action=SimpleSearchAction&type=-6&p=0",
+    "sha256": "170f5c05ad891d4525bb1490a3e1425fac819efad022436282c746aed67da9ff",
+    "results": [
+      {
+        "title": "Głos Robotniczy : organ KW i KŁ Polskiej Zjednoczonej Partii Robotniczej. 1957-05-24 R. 13 nr 123",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/118289/edition/113129"
+      }
+    ]
+  },
+  {
+    "key": "father_declined",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Czes%C5%82awa+Chmielewskiego%22&action=SimpleSearchAction&type=-6&p=0",
+    "query": "\"Czesława Chmielewskiego\"",
+    "utc": "2026-11-05T18:12:41.453983+00:00",
+    "status": 200,
+    "size": 51156,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Czes%C5%82awa+Chmielewskiego%22&action=SimpleSearchAction&type=-6&p=0",
+    "sha256": "6779d7fa7218a26574093451f71bc7cf363f98b19512d576034212df338d3b79",
+    "results": [
+      {
+        "title": "Dziennik Łódzki. 1952-12-27 R. 8 nr 309",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/63518/edition/60683"
+      },
+      {
+        "title": "Echo. 1930-03-13 R. 6 nr 71",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/40218/edition/38334"
+      }
+    ]
+  },
+  {
+    "key": "father_reverse",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Czes%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0",
+    "query": "\"Chmielewski Czesław\"",
+    "utc": "2026-11-05T18:12:43.451652+00:00",
+    "status": 200,
+    "size": 123616,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Czes%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0",
+    "sha256": "6a35a79db14b95a380a4d5f539da4435250c12e9d4a527673cd9ab5bd523a8d4",
+    "results": [
+      {
+        "title": "Gazeta Zgierska. 1934-11-10 R. 21 [właśc. R. 19] no 9",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/74370/edition/70977"
+      },
+      {
+        "title": "1897-1947 : na złote gody Ochotniczej Straży Pożarnej w Brzezinach k/Łodzi : jednodniówka jubileuszowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/83712/edition/79904"
+      },
+      {
+        "title": "Łódzki Dziennik Wojewódzki dla obszaru województwa łódzkiego. 1950-04-01 nr 8",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72196/edition/68950"
+      },
+      {
+        "title": "Ilustrowana Republika. 1928-03-07 R. 6 nr 67",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/25376/edition/24156"
+      },
+      {
+        "title": "Dziennik Łódzki. 1957-11-09 R. 13 nr 267",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64201/edition/61362"
+      },
+      {
+        "title": "Express Ilustrowany. 1957-11-09/10 R. 2 nr 268 (306)",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/106343/edition/101638"
+      },
+      {
+        "title": "Kalendarz Sądowy na Rok 1930. R. 4",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77483/edition/73946"
+      },
+      {
+        "title": "Kalendarz Sądowy na Rok 1932. R. 6",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77356/edition/73824"
+      },
+      {
+        "title": "Łódzki Dziennik Wojewódzki. 1935-12-16 no 31",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72470/edition/69211"
+      },
+      {
+        "title": "Dziennik Urzędowy Wojewódzkiej Rady Narodowej w Łodzi. 1954-12-28 nr 12",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72228/edition/68979"
+      },
+      {
+        "title": "Dziennik Urzędowy Wojewódzkiej Rady Narodowej w Łodzi. 1961-08-05 nr 6",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73150/edition/69867"
+      },
+      {
+        "title": "Kronika Miasta Łodzi. 1999 z. 1/2",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105902/edition/101218"
+      }
+    ]
+  },
+  {
+    "key": "child_full",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Kazimierz%22&action=SimpleSearchAction&type=-6&p=0",
+    "query": "\"Bogusław Kazimierz\"",
+    "utc": "2026-11-05T18:12:44.359145+00:00",
+    "status": 200,
+    "size": 29028,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Kazimierz%22&action=SimpleSearchAction&type=-6&p=0",
+    "sha256": "87e562dafe3d925d46a547d8fa3e75db338ba284af6808c46218e2fdb0160c8a",
+    "results": []
+  }
+]
