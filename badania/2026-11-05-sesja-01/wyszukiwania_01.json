@@ -1,0 +1,510 @@
+[
+  {
+    "id": "search_h1",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [],
+        "tools": [
+          {
+            "provider": "letterboxd-com",
+            "capability": "films/film",
+            "description": "Pass a Letterboxd film URL or boxd.it link (`url`), a slug (`slug`), a boxd.it id (`lid`), a TMDB id (`tmdb_id`) or an IMDb id (`imdb_id`); exactly one. For many films at once use ratings_bulk; for the histogram and watched/list/like counts use film_ratings; for member reviews use reviews (sort `popular` is the film page's Popular reviews strip); for lists use lists."
+          }
+        ]
+      },
+      "id": "01a1ab20-88b0-7039-8eca-771d1d5759f1",
+      "creditsUsed": 0,
+      "agent_hints": [
+        "No web results were returned. If the task is still unresolved, use firecrawl_search again with {\"query\":\"<broader or alternative query>\",\"sources\":[\"web\"]}."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  },
+  {
+    "id": "search_stocka",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://www.facebook.com/groups/515889325283343/posts/3271338966405018/",
+            "title": "Mili! To ten dzień! Ruszają zapisy na zwiedzanie ratusza ...",
+            "description": "Świetlista Woda SPA Stocka 13, 93-191 Łódź, Górna 700 824 389 ... Fri, Sep 11 - Sep 12. Całonocna podróż w dźwiękach - Energia ...",
+            "position": 1,
+            "source": "web"
+          },
+          {
+            "url": "https://archiwumharcerskie.pl/images/4/46/1934-12_W-wa_Wiadomo%C5%9Bci_Urz%C4%99dowe_nr_10.pdf",
+            "title": "1934-12 W-wa Wiadomości Urzędowe nr 10",
+            "description": "stocka: 2 dr. im. Marszałka Józefa Piłsudskiego — Staro- sielce, 38 dr. im ... sław — Łódź, Kopernika 62 (doskonała praca). Il-ga nagroda — mapnik — dh ...",
+            "position": 2,
+            "source": "web"
+          },
+          {
+            "url": "https://issuu.com/polandinyourpocket/docs/lodz_42_2020_01/3?e=11&o=1",
+            "title": "Lodz In Your Pocket - January - April 2020",
+            "description": "ŁÓDŹ FABRYCZNA TRAIN STATION On December 12, 2016 the first train ... Stocka. BISTRO KORZENIE Find this neat vegan bistro in the ...",
+            "position": 3,
+            "source": "web"
+          },
+          {
+            "url": "https://fesido.pl/kiedy-mozna-uzywac-zdjec-ze-stocka/",
+            "title": "Kiedy można używać zdjęć ze stocka?",
+            "description": "paź 12, 2026. Wśród wielu rodzajów papieru dostępnych na rynku ... Łódź · Lublin · Olsztyn · Poznań · Szczecin · Warszawa · Wrocław · Zielona Góra ...",
+            "position": 4,
+            "source": "web"
+          }
+        ],
+        "tools": [
+          {
+            "provider": "marinecadastre-gov",
+            "capability": "vessel-traffic/records_list",
+            "description": "Collect the full current list of daily files for a year, then hand the URLs and hashes to a downloader."
+          },
+          {
+            "provider": "marinecadastre-gov",
+            "capability": "vessel-traffic/source_status",
+            "description": "Before records_list, to learn which years and days exist and to pin a publication; or on a cadence to detect a batch rewrite (the publisher rewrites whole years months after the fact)."
+          },
+          {
+            "provider": "substack-com",
+            "capability": "newsletters/archive",
+            "description": "One page of a Substack publication's archive, newest, top or pinned first. Each entry carries title, subtitle, URL, publish time, audience (free or paid), word count, engagement counts, section, tags and bylines. Page with offset and limit."
+          },
+          {
+            "provider": "msi-nga-mil",
+            "capability": "maritime-safety/records_list",
+            "description": "Collecting a whole family. For warnings, call once per nav area (4, 12, A, P, C); in-force lists must come from scope inforce because the year segment omits in-force warnings created in earlier years."
+          },
+          {
+            "provider": "msheritage-access-preservica-com",
+            "capability": "archive-records/list_folder",
+            "description": "Enumerate the archive top-down (root -> collection -> sub-folders -> items) or list what sits inside a folder found by search_records or get_record; take child ids to get_record (items) or back to list_folder (folders)."
+          },
+          {
+            "provider": "cylinders-library-ucsb-edu",
+            "capability": "audio-recordings/search_cylinders",
+            "description": "\"public domain Sousa band marches\", \"Edison cylinders of vaudeville sketches from 1905\", \"1910 cylinder recordings\", or a pasted cylinders.library.ucsb.edu search URL. Use get_cylinder next for the MP3 links and full catalogue record."
+          }
+        ]
+      },
+      "id": "01a1ab20-8933-7688-a423-14f9dea51f9c",
+      "creditsUsed": 2,
+      "agent_hints": [
+        "All 4 web results are excerpts only (#1 \"https://www.facebook.com/groups/515889325283343/posts/3271338966405018/\", #2 \"https://archiwumharcerskie.pl/images/4/46/1934-12_W-wa_Wiadomo%C5%9Bci_Urz%C4%99dowe_nr_10.pdf\", #3 \"https://issuu.com/polandinyourpocket/docs/lodz_42_2020_01/3?e=11&o=1\" and 1 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  },
+  {
+    "id": "search_boguslaw_date",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://www.online-ofb.de/occu_indilist.php?occu=inhaftiert&ofb=juden_nw&lang=de",
+            "title": "genealogy.net",
+            "description": "ermordet )✶ 15.11.1870 in Ratibor, ✡ 25.04.1943 in Vught BERG, Alfons ... CHMIELEWSKI, Samuel Szmul ( ermordet )✶ 14.05.1896 in Wloszczowa ...",
+            "position": 1,
+            "source": "web"
+          },
+          {
+            "url": "https://link.springer.com/content/pdf/10.1007/978-3-658-15820-0_9.pdf",
+            "title": "9 Anhang",
+            "description": "CHMIELEWSKI. Zdzislaw. Kazimierz. Polen. 04.10.1942. CONS. European Backbencher ... 25.04.1943. CONS. Sprungbrettpolitiker. 1526 de SANTANA LOPES. Pedro Miguel.",
+            "position": 2,
+            "source": "web"
+          },
+          {
+            "url": "https://bessmertnybarak.com/books/abc/?a=%D1%85&number=183",
+            "title": "Единая база данных жертв репрессий в СССР",
+            "description": "(список-предписание № 017/1 от [05.04.1940]), [расстрелян в период 09-11.04.1940*]. Эксгумация: германская суточная сводка от 25.04.1943, № 535 в списке AM.",
+            "position": 3,
+            "source": "web"
+          },
+          {
+            "url": "https://www.wrzesnia.powiat.pl/plik,11347,ksiega-lez-online-pdf.pdf",
+            "title": "Ofiary Zbrodni Katyńskiej z Ziemi Wrzesińskiej",
+            "description": "Jerzy Arkadiusz Chmielewski (1908 – 1940) ... Niemiecki raport dzienny z 25.04.1943 r. za- wiera zapis jego nazwiska pod numerem 504 na liście A.M. N ...",
+            "position": 4,
+            "source": "web"
+          },
+          {
+            "url": "http://pbc.biaman.pl/Content/57382/J%C3%B3zef%20Kr%C4%99towski%20-%20Ich%20pami%C4%99ci.pdf",
+            "title": "Ich pamięci...",
+            "description": "by J Krętowski · Cited by 1 — Zmarł 25.04.1943 r. w Pruszkowie. [Gliński, s. 33]. 201 Boczkowski Berko ... 294 Chmielewski Jarosław. 1895. 1933 Stanisławów. Brak w spisie lekarzy w 1948 ...",
+            "position": 5,
+            "source": "web"
+          },
+          {
+            "url": "https://www.archimemory.pl/architekci/",
+            "title": "Wszyscy architekci - In memoriam",
+            "description": "Chmielewski Eustachy Feliks Antoni ( 20.09.1900 † 11.03.1977) Dostępne ... 25.04.1943 † 27.10.2015) Dostępne zdjęcie główne · Gruszczyński Bohdan ( 02.04 ...",
+            "position": 6,
+            "source": "web"
+          }
+        ],
+        "tools": [
+          {
+            "provider": "ebi-ac-uk",
+            "capability": "molecules/search_molecules",
+            "description": "Start here to turn a drug or compound name into a ChEMBL ID for get_molecule, drug_indications or list_activities. Salts are separate molecules (imatinib CHEMBL941, imatinib mesylate CHEMBL1642) sharing parent_chembl_id."
+          }
+        ]
+      },
+      "id": "01a1ab20-88a5-7056-9c2a-3c0e320f5d39",
+      "creditsUsed": 2,
+      "agent_hints": [
+        "All 6 web results are excerpts only (#1 \"https://www.online-ofb.de/occu_indilist.php?occu=inhaftiert&ofb=juden_nw&lang=de\", #2 \"https://link.springer.com/content/pdf/10.1007/978-3-658-15820-0_9.pdf\", #3 \"https://bessmertnybarak.com/books/abc/?a=%D1%85&number=183\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  },
+  {
+    "id": "search_piotr_parent",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://filmpolski.pl/fp/index.php/11206994",
+            "title": "Piotr Chmielewski - FilmPolski.pl",
+            "description": "OJCIEC MATEUSZ (seria 36; TVP 1). 10. PIONEK (serial tv; SkyShowtime). 11. 100 ... Łódź (Międzynarodowy Festiwal Filmowy \"StopTrik\") Wyróżnienie. Inne ...",
+            "position": 1,
+            "source": "web"
+          },
+          {
+            "url": "https://www.bip.uni.lodz.pl/fileadmin/user_upload/rozprawa_doktorska_mgr_Piotr_Chmielewski.pdf",
+            "title": "[PDF] Uniwersytet Łódzki Szkoła Doktorska Nauk Społecznych Wydział ... - BIP",
+            "description": "Piotr Chmielewski. Budowa i funkcjonowanie radia finansowanego przez słuchaczy ... ojciec-rydzyk-prosi-o- · pieniadze/90pbwe4. Kowalski, J. (2020, 23 lipca) ...",
+            "position": 2,
+            "source": "web"
+          },
+          {
+            "url": "https://www.instagram.com/p/DVjEXexCEED/",
+            "title": "grazie mille palermo nastepny przystanek: twoj ojciec - Instagram",
+            "description": "... on March 6, 2026: \"grazie mille palermo nastepny przystanek: twoj ojciec ... Ryska said she feels like she's in Łódź here, only warmer. ... Photo by Piotr ...",
+            "position": 3,
+            "source": "web"
+          },
+          {
+            "url": "https://www.myheritage.pl/names/kazimierz_chmielewski?srsltid=AYCX9vLtkaTfNGCG7Uhh3OpHhmqzRv9aQsvQildVe1nxtqgbaTTZQMhm",
+            "title": "Odkryj osoby, które się nazywają Kazimierz Chmielewski - MyHeritage",
+            "description": "Mieli 4 dzieci: Piotr Chmielewski i 3 innych dzieci. Zgon. Kazimierz odszedł dnia dzień miesięcznie 2014, w wieku ...",
+            "position": 4,
+            "source": "web"
+          },
+          {
+            "url": "https://www.e-kalejdoskop.pl/film-a213/lodzki-wklad-filmowy-r11922",
+            "title": "Łódzki wkład filmowy | Kalejdoskop kulturalny regionu łódzkiego",
+            "description": "Ojciec przez cały okres dorastania syna przekonuje go, że wszystko jest dla ... Łódź. Każdy z pokazów był wydarzeniem otwartym dla mieszkańców ...",
+            "position": 5,
+            "source": "web"
+          },
+          {
+            "url": "https://www.kinomarzenie.pl/aktualnosci/296,22-edycja-polskiego-kina-mlodego-widza",
+            "title": "22. edycja Polskiego Kina Młodego Widza - Kino Marzenie - Tarnów",
+            "description": "... Łódź – Miasto Kultury, Auvergne-Rhône-Alpes Cinéma, 2024, czas trwania: 28 ... Dwaj nieletni bracia ukrywają przed światem, że ich ojciec cierpi na otępienie ...",
+            "position": 6,
+            "source": "web"
+          }
+        ],
+        "tools": []
+      },
+      "id": "01a1ab20-899a-701b-8fa2-2d25b5ba4d94",
+      "creditsUsed": 2,
+      "agent_hints": [
+        "All 6 web results are excerpts only (#1 \"https://filmpolski.pl/fp/index.php/11206994\", #2 \"https://www.bip.uni.lodz.pl/fileadmin/user_upload/rozprawa_doktorska_mgr_Piotr_Chmielewski.pdf\", #3 \"https://www.instagram.com/p/DVjEXexCEED/\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  },
+  {
+    "id": "search_czeslaw_signature",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://fraser.stlouisfed.org/title/survey-current-business-46/august-1992-9848/fulltext",
+            "title": "Full text of Survey of Current Business : August 1992 - FRASER",
+            "description": "... 1,909 9,770 12,256 9,504 50,483 2,817 12,619 2,044 10,011 12,847 ... 88 639 0 0 0 143 172 n n 13,708 -2 28,168 18,260 1 6,480 395 7,955 ...",
+            "position": 1,
+            "source": "web"
+          },
+          {
+            "url": "https://www.sejm-wielki.pl/b/sw.289214",
+            "title": "Tadeusz Maksymilian Dalbor - Sejm-Wielki.pl",
+            "description": "Ż Zaloguj się 1909 | M Zaloguj się 1911 |; M Zaloguj się bohater Czy wiesz ... 88/639/0/-/16/skan/full/TDq-ZPkV34DdrvisxIldFA - zgon: Wikipedia: Tadeusz ...",
+            "position": 2,
+            "source": "web"
+          },
+          {
+            "url": "https://www.szukajwarchiwach.gov.pl/de/c/portal/update_language?p_l_id=490896&redirect=%2Fde%2Fweb%2Farchiwum-panstwowe-w-zamosciu%2Fzespoly%3Fp_p_id%3DZespolyWeb_INSTANCE_zEpUTaJhvA5o%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_ZespolyWeb_INSTANCE_zEpUTaJhvA5o_delta%3D45%26_ZespolyWeb_INSTANCE_zEpUTaJhvA5o_resetCur%3Dfalse%26_ZespolyWeb_INSTANCE_zEpUTaJhvA5o_cur%3D17&languageId=pl_PL",
+            "title": "Archiwum Państwowe w Zamościu Lista zespołów - Szukaj w Archiwach",
+            "description": "1-46 z dołączonymi alegatami z lat 1876-1878,1880-1882,1884,1886-1888,1890-1896,1899-1900,1902-1904,1906-1907, 1909-1921,1935 Liczba jednostek46 ... 88/639/0 ...",
+            "position": 3,
+            "source": "web"
+          },
+          {
+            "url": "https://www.rodzinakulik.eu/grabowiecki_slownik_biograficzny/grabowiecki_slownik_biograficzny_t_8_s_s_we.pdf",
+            "title": "[PDF] Grabowiecki Słownik Biograficzny Grabowiec's Biographical Dictionary",
+            "description": "... (1909)257. 8.172. Scipio del Campo Marianna z Tarnowskich, 1780 ... 88/639/0/-/11, k. 205/205. 969 APZ APRTomaszówL, sygn. 88/639/0/-/11 ...",
+            "position": 4,
+            "source": "web"
+          },
+          {
+            "url": "https://archive.org/stream/in.gazette.1978.189/O-1101-1978-0028-48309_djvu.txt",
+            "title": "Full text of \"Gazette of India, 1978, No. 189\" - Internet Archive",
+            "description": "... 88 639 0 01 00 968 0 08 88 635 0 06 48 967 0 08 64 635/1 0 07 80 966 0 03 84 ... 00 1909 [vrp^fl — TSTWT 3(ii)] TOTO <ST TR'73 : ^»rrf 15, 1978/wmT24 ...",
+            "position": 5,
+            "source": "web"
+          }
+        ],
+        "tools": [
+          {
+            "provider": "uspto-gov",
+            "capability": "intellectual-property/trademark_status",
+            "description": "You have a serial or registration number and need the current status and parties of the mark."
+          },
+          {
+            "provider": "cylinders-library-ucsb-edu",
+            "capability": "audio-recordings/get_cylinder",
+            "description": "MP3 links, licence and credit for one cylinder, e.g. https://cylinders.library.ucsb.edu/detail.php?query_type=mms_id&query=9948000799203776, cylinder 17334, or http://www.library.ucsb.edu/OBJID/Cylinder17334."
+          },
+          {
+            "provider": "mof-go-jp",
+            "capability": "sanctions/records_list",
+            "description": "Collect the whole list (default 100 rows per page, about 2,900 rows in the asset-freeze file) or one 区分 of it. For one row by 番号 use `records_get`; for a name use `search`."
+          },
+          {
+            "provider": "ema-europa-eu",
+            "capability": "records/documents",
+            "description": "List EMA documents for centrally authorised medicines: EPAR public assessment reports, product information (SmPC and package leaflet), medicine overviews, variation reports, risk management plans, procedural steps and orphan maintenance reports, with type, first-published and last-updated dates and the PDF link, newest first. Find them by EMA product number or medicine name, narrow by type or date, and set language for a translated PDF link. Every result carries EMA attribution."
+          },
+          {
+            "provider": "eu-institutions-law-eur-lex-official",
+            "capability": "law/transposition",
+            "description": "National transposition measures (NIM) that Member States notified for one EU directive (by CELEX or type/year/number): per-country totals with first/last measure dates, and a paginated list of the measures themselves (national title, act type, dates, national gazette reference, Commission MNE reference, national URL). Optional `country` filter (ISO alpha-2). Regulations have no transposition measures and return an explanatory warning."
+          }
+        ]
+      },
+      "id": "01a1ab26-ab96-77ab-b77a-79a50a8312a6",
+      "creditsUsed": 2,
+      "agent_hints": [
+        "All 5 web results are excerpts only (#1 \"https://fraser.stlouisfed.org/title/survey-current-business-46/august-1992-9848/fulltext\", #2 \"https://www.sejm-wielki.pl/b/sw.289214\", #3 and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  },
+  {
+    "id": "search_stocka_signature",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://newspaperhub.mnhs.org/?a=d&d=sppp19350720.1.11&",
+            "title": "Page 11 — St. Paul Pioneer Press 20 July 1935 — Minnesota ...",
+            "description": "—(UB—Dow-Jones averages: Stocka. ' Close Net Chg. 3O.lnduetrlale 122.33 ... Motors 16,100 36% — % U. 8. Steel 14,900 38% — 54 'Cent. Oil 14,400 19% —l ...",
+            "position": 1,
+            "source": "web"
+          },
+          {
+            "url": "https://www.nass.usda.gov/Statistics_by_State/Colorado/Publications/Annual_Statistical_Bulletin/1941bulletin.pdf",
+            "title": "[PDF] 0 0I.' 0U - USDA NASS",
+            "description": "... 16,100. 20,257. 46,74'. Platte Valley. *. 0. 0. *. *. Arkansas Valley. -. 210. 558. 651 ... Stocka aa a percentage of crop produced in current year (year of ...",
+            "position": 2,
+            "source": "web"
+          },
+          {
+            "url": "https://www.facebook.com/groups/644685427421041/posts/1551965873359654/",
+            "title": "Lc po thanks in advance ! CELINE heme STOCKN ... - Facebook",
+            "description": "OCR: CELINE heme STOCKN STOCKA CELINE PARIS CELINE PARS CELINE ... 16100% ぶ色と一緒に変ってて 開乐のと一緒に満ってす ねに漬って下 ぶ色 ...",
+            "position": 3,
+            "source": "web"
+          },
+          {
+            "url": "https://fraser.stlouisfed.org/files/docs/historical/sec/sec_statBulletin_1960v19n6.pdf",
+            "title": "[PDF] Statistical Bulletin - Securities and Exchange Commission - FRASER",
+            "description": "ia Stocka. Odd-1ot - . r4 Odd-lot r..- Date ia llli.cll flll!r 111'11 •sbt ... 16,100. 2,438,830. 2,544,110. 29,800. 19. 54,950. 71,050. 6 , 500. 136,790.",
+            "position": 4,
+            "source": "web"
+          },
+          {
+            "url": "https://www.virginiachronicle.com/?a=d&d=TRT19050723.1.7",
+            "title": "Page 7 — Roanoke Times 23 July 1905 — Virginia Chronicle ...",
+            "description": "... stocka ultimately yielded with the rest of the Mot The weakneus in the eariy 'wheat market failed to reassure hold- •** of stocks and they continued to *fH ...",
+            "position": 5,
+            "source": "web"
+          }
+        ],
+        "tools": [
+          {
+            "provider": "ikea-com",
+            "capability": "products/availability",
+            "description": "Per-store stock and home-delivery or click-and-collect availability of an IKEA article in any IKEA market on www.ikea.com, with store names, quantities and restock dates. Pass a product URL (www.ikea.com or a regional domain), or country and article_number; an optional postcode adds the delivery price and delivery dates IKEA quotes for it."
+          },
+          {
+            "provider": "prisjakt-nu",
+            "capability": "price-comparison/search_products",
+            "description": "Finding Swedish products and their lowest prices by keyword; take `product_id` from `product` items into get_product, get_price_history and get_product_reviews."
+          },
+          {
+            "provider": "qasa",
+            "capability": "real-estate/rental_search",
+            "description": "Search Swedish rental listings by city, SEK monthly cost, rooms, furnishing, pets and contract type; paginated results."
+          },
+          {
+            "provider": "stockx-com",
+            "capability": "products/search_products",
+            "description": "Find products and their url_key by keyword. Then call get_product for market data per size, get_sales for recent sales or get_price_levels for the order book. The site caps a query at 1000 results; use browse_products with filters to go deeper."
+          },
+          {
+            "provider": "prisjakt-nu",
+            "capability": "price-comparison/suggest",
+            "description": "Resolving a vague or partial product name to concrete product ids or a better search phrase before searching."
+          }
+        ]
+      },
+      "id": "01a1ab26-ab7d-70ea-b4fb-49f30c8db64f",
+      "creditsUsed": 2,
+      "agent_hints": [
+        "All 5 web results are excerpts only (#1 \"https://newspaperhub.mnhs.org/?a=d&d=sppp19350720.1.11&\", #2 \"https://www.nass.usda.gov/Statistics_by_State/Colorado/Publications/Annual_Statistical_Bulletin/1941bulletin.pdf\", #3 \"https://www.facebook.com/groups/644685427421041/posts/1551965873359654/\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  },
+  {
+    "id": "search_1943_signature",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "http://igrek.amzp.pl/mapindex.php?cat=tk25",
+            "title": "Przeglądarka skorowidzów - Mapster",
+            "description": "(996)Grieslienen Gryźliny · 2389 (997)Wuttrienen Butryny · 2390 (998)Passenheim ... Łódź. 4353 (2475)Döbern Derbno · 4354 (2476)Triebel Trzebiel · 4355 (2477) ...",
+            "position": 1,
+            "source": "web"
+          },
+          {
+            "url": "https://www.gov.pl/attachment/650e6081-dbf9-4b91-bed4-27bb93c8050e",
+            "title": "[PDF] SKOROWIDZ ALFABETYCZNY do Dziennika Urzędowego ... - Gov.pl",
+            "description": "36/996 zm., 37/1012-1014 zm., 118/1891 g. Bełchatów. 21/562 zm., 106 ... Łódź 23/631 zm., 39/1054, 1055, 63/1326,. 1327 zm., 155/2250 zm., 189/2698 zm ...",
+            "position": 2,
+            "source": "web"
+          },
+          {
+            "url": "https://www.crarg.org/holocaust-records/abramowicz-czestochowa-krzepice",
+            "title": "Abramowicz / Abraamowicz Holocaust-Era Records - CRARG",
+            "description": "... 1943 à Auschwitz (Pologne) et non le 2 mars 1943 à Drancy (Seine) ... Łódź: Jewish survivors registered in Łódź, July 1945, received by the Jewish ...",
+            "position": 3,
+            "source": "web"
+          },
+          {
+            "url": "https://www.jhi.pl/storage/file/core_files/2026/10/16/25be7da96ab1ceb0a6cd9537aa1dab4b/350_AJDC%20Inwentarz.pdf",
+            "title": "[PDF] AJDC wstęp - Warszawa - Żydowski Instytut Historyczny",
+            "description": "w „Dos Noje Lebn” (Łódź). (listy: L 1-14). 1946, rkps, mps, j ... 1943. Wydział Transportowy. Korespondencja dotycząca spraw różnych ...",
+            "position": 4,
+            "source": "web"
+          },
+          {
+            "url": "https://kpbc.umk.pl/Content/258538/Kartografia_041_POWER_002_03.pdf",
+            "title": "[PDF] Skorowidz W. Ks. Poznańskiego : niezbędny dla każdego",
+            "description": "... Łódź. Friedrikenhof. Strzelce W. Gostyń. Kunshof. Żytowiecko. 256 Maciejewo ... 996 Fryderyków. Friedrichsfeld. Janków zal. (14) Roszki. 997 Głogowo. —. Raszków ...",
+            "position": 5,
+            "source": "web"
+          }
+        ],
+        "tools": [
+          {
+            "provider": "letterboxd-com",
+            "capability": "films/browse_films",
+            "description": "Discover films and collect many average ratings without a fixed URL list. `page` continues where the previous call stopped (`next_page`). Only the popular sort is supported."
+          },
+          {
+            "provider": "letterboxd-com",
+            "capability": "films/search_films",
+            "description": "Find the Letterboxd slug or URL for a title before calling film, film_ratings or ratings_bulk. Pass `cursor` from the previous page to continue."
+          },
+          {
+            "provider": "letterboxd-com",
+            "capability": "films/film",
+            "description": "Pass a Letterboxd film URL or boxd.it link (`url`), a slug (`slug`), a boxd.it id (`lid`), a TMDB id (`tmdb_id`) or an IMDb id (`imdb_id`); exactly one. For many films at once use ratings_bulk; for the histogram and watched/list/like counts use film_ratings; for member reviews use reviews (sort `popular` is the film page's Popular reviews strip); for lists use lists."
+          },
+          {
+            "provider": "letterboxd-com",
+            "capability": "films/ratings_bulk",
+            "description": "Bulk extraction of Letterboxd average ratings from a list of film URLs, boxd.it links or slugs. Items are fetched concurrently on one proxy session."
+          },
+          {
+            "provider": "msc-com",
+            "capability": "shipment-tracking/list_vessels",
+            "description": "Find the IMO number for vessel_schedule from a vessel name, or check that a vessel is in MSC's schedule system."
+          }
+        ]
+      },
+      "id": "01a1ab26-ab99-7319-bb26-e2314293eecf",
+      "creditsUsed": 2,
+      "agent_hints": [
+        "All 5 web results are excerpts only (#1 \"http://igrek.amzp.pl/mapindex.php?cat=tk25\", #2 \"https://www.gov.pl/attachment/650e6081-dbf9-4b91-bed4-27bb93c8050e\", #3 \"https://www.crarg.org/holocaust-records/abramowicz-czestochowa-krzepice\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  },
+  {
+    "id": "search_czeslaw_variants",
+    "data": {
+      "success": true,
+      "data": {
+        "web": [
+          {
+            "url": "https://rogozno.pl/lista-ofiar-z-data-smierci.html",
+            "title": "Lista ofiar z datą śmierci - Urząd Miejski Rogoźno",
+            "description": "Cofta Czesław ks. – zmarł 4 października 1944 r. w obozie karno-śledczym w ... Wieniawa-Chmielewski Jerzy - zmarł 29 marca 1945 r. w obozie ...",
+            "position": 1,
+            "source": "web"
+          },
+          {
+            "url": "https://tarnowskiegory.pl/2021/06/ostatni-dowodca-tarnogorskich-ulanow-uhonorowany-tablica/",
+            "title": "Ostatni dowódca tarnogórskich ułanów uhonorowany tablicą",
+            "description": "Sienkiewicza 1, w którym przed wojną mieszkał płk Czesław Chmielewski ... Rogoźno. 20 września resztki pułku wraz z całą Krakowską Brygadą ...",
+            "position": 2,
+            "source": "web"
+          },
+          {
+            "url": "https://dziennikustaw.gov.pl/M1932217000000.pdf",
+            "title": "[PDF] MONITOR POLSKI - Dziennik Ustaw",
+            "description": "m. 1931 r., poz. 100), 5) Klemczak Edmund, 6) Klo-. :nowski Czesław, 7) Leszczyński Jan, 8) por. ... 124) Chmielewski Bronisław, 125) Chmielewski. Francłs~ek, 126 ...",
+            "position": 3,
+            "source": "web"
+          },
+          {
+            "url": "https://pl.wikipedia.org/wiki/3_Pu%C5%82k_U%C5%82an%C3%B3w_%C5%9Al%C4%85skich",
+            "title": "3 Pułk Ułanów Śląskich – Wikipedia, wolna encyklopedia",
+            "description": "19 września pułk został rozbity w rejonie miejscowości Rogoźno, a jego dowódca został ranny. ... Czesław Chmielewski; mjr kaw. Jan Zapolski. Żołnierze pułku ...",
+            "position": 4,
+            "source": "web"
+          },
+          {
+            "url": "https://wybory2006.pkw.gov.pl/kbw/komListyRadab1d0.html?okreg=301600-RDA/2",
+            "title": "Rada Powiatu Obornickiego - Okręg wyborczy nr 2",
+            "description": "Lista nr 4 - Komitet Wyborczy Prawo i Sprawiedliwość ; 4, Małaczyńska Iwona Małgorzata, 45, Rogoźno ; 5, Michalski Czesław, 53, Rogoźno.",
+            "position": 5,
+            "source": "web"
+          }
+        ],
+        "tools": []
+      },
+      "id": "01a1ab26-ab79-70ab-920f-0635435599a6",
+      "creditsUsed": 2,
+      "agent_hints": [
+        "All 5 web results are excerpts only (#1 \"https://rogozno.pl/lista-ofiar-z-data-smierci.html\", #2 \"https://tarnowskiegory.pl/2021/06/ostatni-dowodca-tarnogorskich-ulanow-uhonorowany-tablica/\", #3 \"https://dziennikustaw.gov.pl/M1932217000000.pdf\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+      ],
+      "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+    }
+  }
+]

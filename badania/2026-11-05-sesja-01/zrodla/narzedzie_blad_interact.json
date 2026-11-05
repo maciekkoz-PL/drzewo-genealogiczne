@@ -1,0 +1,9 @@
+{
+  "success": false,
+  "error": {
+    "code": "insufficient_credits",
+    "status": 402,
+    "message": "Insufficient credits for a browser prompt session."
+  },
+  "error_code": "INVALID_ARGUMENT"
+}

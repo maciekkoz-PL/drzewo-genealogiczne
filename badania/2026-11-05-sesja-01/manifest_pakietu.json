@@ -1,0 +1,230 @@
+{
+  "commit_poczatkowy": "dfca86aa67c4ac40f1f5c355ac9e251e7f325b7f",
+  "arkusze": [
+    {
+      "arkusz": "RDZEN_RODZINY",
+      "wiersze_danych": 8,
+      "wiersze_razem": 11,
+      "kolumny": 11
+    },
+    {
+      "arkusz": "RODZINA_Z_RELACJI",
+      "wiersze_danych": 3,
+      "wiersze_razem": 6,
+      "kolumny": 11
+    },
+    {
+      "arkusz": "RELACJE",
+      "wiersze_danych": 12,
+      "wiersze_razem": 15,
+      "kolumny": 9
+    },
+    {
+      "arkusz": "KANDYDACI_I_HOMONIMY",
+      "wiersze_danych": 24,
+      "wiersze_razem": 27,
+      "kolumny": 10
+    },
+    {
+      "arkusz": "ZDARZENIA_I_FAKTY",
+      "wiersze_danych": 28,
+      "wiersze_razem": 31,
+      "kolumny": 9
+    },
+    {
+      "arkusz": "ZRODLA_I_SKANY",
+      "wiersze_danych": 56,
+      "wiersze_razem": 59,
+      "kolumny": 11
+    },
+    {
+      "arkusz": "KONTAKTY_URZEDOWE",
+      "wiersze_danych": 15,
+      "wiersze_razem": 18,
+      "kolumny": 8
+    },
+    {
+      "arkusz": "SZKICE_GMAIL",
+      "wiersze_danych": 9,
+      "wiersze_razem": 12,
+      "kolumny": 7
+    },
+    {
+      "arkusz": "ZADANIA_AGENTA",
+      "wiersze_danych": 28,
+      "wiersze_razem": 31,
+      "kolumny": 9
+    },
+    {
+      "arkusz": "KOREKTY_I_SPRZECZNOSCI",
+      "wiersze_danych": 24,
+      "wiersze_razem": 27,
+      "kolumny": 8
+    },
+    {
+      "arkusz": "DZIENNIK_KWEREND",
+      "wiersze_danych": 19,
+      "wiersze_razem": 22,
+      "kolumny": 6
+    },
+    {
+      "arkusz": "PLIKI_DOWODOWE",
+      "wiersze_danych": 8,
+      "wiersze_razem": 11,
+      "kolumny": 6
+    },
+    {
+      "arkusz": "START",
+      "wiersze_danych": 19,
+      "wiersze_razem": 22,
+      "kolumny": 8
+    },
+    {
+      "arkusz": "INSTRUKCJA_AGENTA",
+      "wiersze_danych": 23,
+      "wiersze_razem": 25,
+      "kolumny": 3
+    },
+    {
+      "arkusz": "POTWIERDZONE_AKTEM_1936",
+      "wiersze_danych": 6,
+      "wiersze_razem": 9,
+      "kolumny": 11
+    },
+    {
+      "arkusz": "DRZEWO_SCHEMAT",
+      "wiersze_danych": 9,
+      "wiersze_razem": 12,
+      "kolumny": 7
+    }
+  ],
+  "zip": [
+    {
+      "sciezka": "README_PAKIETU.txt",
+      "bajty": 1936,
+      "sha256": "892498d21580b8ecf6edbb6810a6edc2604cf6f51fb4c532a329bb8618c47a74"
+    },
+    {
+      "sciezka": "Marysia_INSTRUKCJA_DLA_AGENTA.md",
+      "bajty": 73828,
+      "sha256": "faefd2090308f558eaa3c4a6794fdd97aff7b6acfab8c232f682610e93991693"
+    },
+    {
+      "sciezka": "Marysia_KOMPLET_BAZA_2026-11-05.xlsx",
+      "bajty": 72166,
+      "sha256": "06c3ee5aab082b1bbc84a66a34607381584d977140475486f2cdbc8128d4523d"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/01_akt_110_1936_Czeslaw_Janina.jpg",
+      "bajty": 1505678,
+      "sha256": "3750534f4aa81d49a9425de8a61f6f9d1b56ff93db48ae116a5309a94cb31af6"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/02_USC_Lodz_1943_okladka.jpg",
+      "bajty": 379719,
+      "sha256": "f1c5a5cdbc3a8b1bd19d10942a5515052e8b4c2018a1ec6e202b768936137d03"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/03_USC_Lodz_1943_strona_tytulowa.jpg",
+      "bajty": 373529,
+      "sha256": "49ed6074e190aa11c58336951a18a9267dca1881378ea627e8590f33753ba2c7"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/04_Tomasz_grob_1.jpeg",
+      "bajty": 384866,
+      "sha256": "3180eaca05b21bfb33b55717135740096ccfaaca4d6da7d6d06de4cd3239b514"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/05_Tomasz_grob_2.jpeg",
+      "bajty": 390355,
+      "sha256": "75d67423ac531a6fcf962ee65d57b25ad4cf69dafcf8f8f7242284a771adacf3"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/06_Tomasz_grob_3.jpeg",
+      "bajty": 335401,
+      "sha256": "9a91b32311876041b2063c4f7a5ef96a6842e60419368ecc1a39db18ee8aeebd"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/akt110_lower_cropped.jpg",
+      "bajty": 1338703,
+      "sha256": "b3d6db5850888a164a8f633e6bb131da29e34e39e8f7b2feae190203a9ab3802"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/akt110_upper_cropped.jpg",
+      "bajty": 1171317,
+      "sha256": "5b3ba089739cf9256f3583e065d378a602cb8b161a70191ad861244e5e2eca9a"
+    },
+    {
+      "sciezka": "Marysia_Zrodla/akt110_witness_cropped.jpg",
+      "bajty": 478574,
+      "sha256": "04a62f26e82410f91078a79bbccdf552d9b1344f80c0f037bd83a51f7ffd47d5"
+    },
+    {
+      "sciezka": "raport_z_poprzedniej_sesji/Marysia_raport_2026-11-05.html",
+      "bajty": 3020260,
+      "sha256": "763abb6164847d06525e188a99fbfebbb22fb78162fdae34451c3b6d57e8d9c7"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_2026-11-04_trop_Piotr_Policja.xlsx",
+      "bajty": 38995,
+      "sha256": "6cb0f9613dd0892219cdca37ea03bbea26bd553c589ba25af632fb2fafd25fc9"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_2026-11-04_weryfikacja_Piotrow.xlsx",
+      "bajty": 41339,
+      "sha256": "a894f0a9b3494035da45cc6a2aaf9d824eb52029e4ccac66c0aa54e2aa515415"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_poszerzona_kwerenda.xlsx",
+      "bajty": 25818,
+      "sha256": "428b290b89f528cb00897b8d5b84fa38836a534cd1d462d135995a2de7087b77"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_potwierdzone_zrodla_i_kontakty.xlsx",
+      "bajty": 32499,
+      "sha256": "be800af279daca35635cf0c871996321539b8bef7f85bdb94336af63406654be"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_rozszerzenie.xlsx",
+      "bajty": 29946,
+      "sha256": "fc581265b4eb89be088617247dfca0c2dbc06616def96ed73a3dc1ce3b8f36ca"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_trop_prasa_i_weryfikacja.xlsx",
+      "bajty": 34309,
+      "sha256": "73d78b017d9c055c3e092438351f8805e025f95c47c1ec261e0ae1b4020f7819"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_weryfikacja_grobow.xlsx",
+      "bajty": 23154,
+      "sha256": "78d60cfc14d2f2daddbff73819d57642ad92d0bef0bb1246b616a378cc8b731b"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_rodziny_aktualizacja_2026-11-04.xlsx",
+      "bajty": 18118,
+      "sha256": "7f8894e34beb00913e9b7f58ae73591ac16ddcbba2a9ee9e5381d19533811e40"
+    },
+    {
+      "sciezka": "archiwum_wersji_Excel/Marysia_rejestr_rodziny_i_dzialan.xlsx",
+      "bajty": 14735,
+      "sha256": "6b890e62ac99e7ab291d3fefcee15518102eb07719a6d8debccc0b667d362eb9"
+    }
+  ],
+  "pliki_glowne": [
+    {
+      "sciezka": "Marysia_INSTRUKCJA_DLA_AGENTA.md",
+      "bajty": 73828,
+      "sha256": "faefd2090308f558eaa3c4a6794fdd97aff7b6acfab8c232f682610e93991693"
+    },
+    {
+      "sciezka": "Marysia_KOMPLET_BAZA_2026-11-05.xlsx",
+      "bajty": 72166,
+      "sha256": "06c3ee5aab082b1bbc84a66a34607381584d977140475486f2cdbc8128d4523d"
+    },
+    {
+      "sciezka": "Marysia_PAKIET_ZRODEL_2026-11-05.zip",
+      "bajty": 8474850,
+      "sha256": "dee505614ae68d51ed55b5df834a7895281ec476575e1d6417725e9bf3317340"
+    }
+  ]
+}

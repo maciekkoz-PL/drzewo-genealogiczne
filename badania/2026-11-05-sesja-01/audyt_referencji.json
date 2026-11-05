@@ -1,0 +1,97 @@
+[
+  {
+    "arkusz": "RDZEN_RODZINY",
+    "komorka": "I4",
+    "ref": "REL-001"
+  },
+  {
+    "arkusz": "RDZEN_RODZINY",
+    "komorka": "I5",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "RODZINA_Z_RELACJI",
+    "komorka": "I5",
+    "ref": "REL-003"
+  },
+  {
+    "arkusz": "RODZINA_Z_RELACJI",
+    "komorka": "I6",
+    "ref": "REL-003"
+  },
+  {
+    "arkusz": "RELACJE",
+    "komorka": "G10",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "RELACJE",
+    "komorka": "G11",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "RELACJE",
+    "komorka": "G12",
+    "ref": "REL-001"
+  },
+  {
+    "arkusz": "RELACJE",
+    "komorka": "G13",
+    "ref": "REL-001"
+  },
+  {
+    "arkusz": "RELACJE",
+    "komorka": "G14",
+    "ref": "REL-003"
+  },
+  {
+    "arkusz": "RELACJE",
+    "komorka": "G15",
+    "ref": "REL-003"
+  },
+  {
+    "arkusz": "ZDARZENIA_I_FAKTY",
+    "komorka": "G17",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "ZDARZENIA_I_FAKTY",
+    "komorka": "G22",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "ZDARZENIA_I_FAKTY",
+    "komorka": "G23",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "ZDARZENIA_I_FAKTY",
+    "komorka": "G25",
+    "ref": "REL-003"
+  },
+  {
+    "arkusz": "ZADANIA_AGENTA",
+    "komorka": "I9",
+    "ref": "REL-003"
+  },
+  {
+    "arkusz": "KOREKTY_I_SPRZECZNOSCI",
+    "komorka": "F7",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "KOREKTY_I_SPRZECZNOSCI",
+    "komorka": "F9",
+    "ref": "REL-003"
+  },
+  {
+    "arkusz": "KOREKTY_I_SPRZECZNOSCI",
+    "komorka": "F23",
+    "ref": "REL-002"
+  },
+  {
+    "arkusz": "DZIENNIK_KWEREND",
+    "komorka": "F4",
+    "ref": "REL-002"
+  }
+]
