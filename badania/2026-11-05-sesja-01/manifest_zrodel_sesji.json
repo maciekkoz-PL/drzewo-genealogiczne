@@ -1,0 +1,242 @@
+[
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Czeslaw_1909.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Jozef_Poprawka_M_all.json",
+    "size": 71,
+    "sha256": "31c639b5c1bf56e00d86a32456e6914232138beb68b8838df528cc05b72af0f0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Lodz_Czeslaw_Janina_M_full.json",
+    "size": 1080,
+    "sha256": "86de3ab691bc08468dc56b51f67cee01ee65af4d4f1e7b6b3c5590fda08dab4a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Marianna_Poprawka_D.json",
+    "size": 2664,
+    "sha256": "59a24e843ceb060e6babb7803b381e2ea974b620d40b61b2de171fdd453ae592"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Poprawka_Kacprzak_M_all.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Poprawka_Kacprzak_U.json",
+    "size": 990,
+    "sha256": "e10f3bb093d8eee7a56c374d60a819934753482fcad851b22b3cbcbeabc1268c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Warta_Poprawka_U_full.json",
+    "size": 3594,
+    "sha256": "f2e662e5125dd82a03ba40e1abc929ed7407baf69cee44fddb668cf876d2d785"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Geneteka_Zygmunt_Poprawka_U.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Kamionacz_1916_011-014.jpg",
+    "size": 755495,
+    "sha256": "d32e3dc40ca710807d86e86a823b1a2b3c48a89bcd7b4424ab664af3e82dcaf3"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Lodzkie_Chmielewski_Poprawka_M.json",
+    "size": 71,
+    "sha256": "31c639b5c1bf56e00d86a32456e6914232138beb68b8838df528cc05b72af0f0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S057_katalog_USC_Lodz.json",
+    "size": 47033,
+    "sha256": "7fff56d2304bfe9440345afb358c73b4d189e8ceaaf62524101edd8502058c22"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S058_Stocka_blad_portletu.json",
+    "size": 35716,
+    "sha256": "e3e75e036f1f65d5a032c418f6cc23b4a80391d8c434a15f6e65ba99ee094d70"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S058_alternatywny_URL.json",
+    "size": 112935,
+    "sha256": "8c13d9a1efa06d76d315291f87e9962f6302ee917d11e333702527399e15e487"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S059_Lubgens_urodzenia_1900_1909.json",
+    "size": 733173,
+    "sha256": "dc09d86d16079d390ba266d58d6ad22501383391109977ddb73e6c11f610409a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S059_jednostka_blad.json",
+    "size": 111195,
+    "sha256": "f6d01d12f43b0d4689a82cd3595d3a919d2a4226f19868c0e29d319de651a021"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S060_Tomaszow_katalog.json",
+    "size": 35183,
+    "sha256": "3ca0de312998c176c2a9d41f443630719fd7395aac8739fcad97bec168f91164"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S060_lista_jednostek_blad.json",
+    "size": 30060,
+    "sha256": "a2393b207696876440737ebcc75ab9ee18e179df0d7d1a33b22e5b5346a64902"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919.jpg",
+    "size": 2147746,
+    "sha256": "09d48536ac86275c4dd983862419745ca6abd792aa7ce6344946d941ce097331"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S061_Roman_226_1919_strona.png",
+    "size": 2989863,
+    "sha256": "d6a3592f542584456e466a04b0e29fc43f4df12f97893a85e62d5780046a9417"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S061_odczyt_automatyczny.json",
+    "size": 2875,
+    "sha256": "fb50fee5629b6f5b89687ba60482a48ea4278dbbc43ab3215160976faf6c9a73"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S061_strona_skana.json",
+    "size": 112289,
+    "sha256": "5507ebb1fa2a0b42b3a8faf3fe5d0e4fb0ed9741a77e8d4ead230ad63aebfa5b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S062_Janina_160_1913.jpg",
+    "size": 2356848,
+    "sha256": "d82a46cbdc40b2617a56801525aabd3a445c2bfc7a9c2626eb93d663bdc527a9"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S062_Janina_160_1913.odpowiedz.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S062_Janina_160_1913_strona.png",
+    "size": 83587,
+    "sha256": "3bb854be847166467ef2f0af7b66645c94dda9873dc707194080b8af30501153"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/S063_Warta_1910_111-114.jpg",
+    "size": 899683,
+    "sha256": "4ef06d246a0be3dc6df9f606dc7349aa1699b933502fc5973b25d101bec12f0b"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-001.jpg",
+    "size": 692185,
+    "sha256": "47282c1f71f03f9098fdcb883f10bdb2486a6d805c33768e88529a4d4070b47f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ax_SkU-010.jpg",
+    "size": 945862,
+    "sha256": "7a6fd0b0ec7f9237d3048d6bcbe34af3eed1d43aa944f756ffd97c2915b24d29"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-01.jpg",
+    "size": 678892,
+    "sha256": "a3dfd6c65595c228f208bd374a9dea68d9de78eabfcaf7b62080fa1c4883bbfe"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1940ay_SkU-10.jpg",
+    "size": 947913,
+    "sha256": "8dd80ecc11a56e90b4ae4b568ae393c1d4592bad98a8bec04cb053f760edea78"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-001.jpg",
+    "size": 381824,
+    "sha256": "7458249d4cd567f96c65fb33bdd06362fed0a24af0a85e4198238bc717318108"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ax_SkU-010.jpg",
+    "size": 916119,
+    "sha256": "9251dbed8df5685fbbdb9ba79bbee4e3ce677a06a8d397416706c9c58739c156"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-01.jpg",
+    "size": 395741,
+    "sha256": "071a1739d16e381b56f2cd8145a1285925e2858c87495387a653921ce6b3679c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1941ay_SkU-10.jpg",
+    "size": 1142824,
+    "sha256": "db6bdcb9483aad66fcc4b801a7ec26f5ccb52b1cbb574a5aa3614546664c1121"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-001.jpg",
+    "size": 803313,
+    "sha256": "b002d4bc0f85440f303ded277079016f9d2ab0b822a56cb82efa7f6633f65427"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ax_SkU-010.jpg",
+    "size": 1037881,
+    "sha256": "85c8113b2457710b8990b751dc74aba5176506fd2f2d550e031d5c41693ff2b2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-01.jpg",
+    "size": 585096,
+    "sha256": "3ceb24bc7c929fd49d253a7005b9139f1a8dfa0175cf80c101b95c36e2bbdb63"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/USC_1944ay_SkU-10.jpg",
+    "size": 989441,
+    "sha256": "4279fe2dc4a78eedc1672bf4ba421b8402b06b3e106bb6e20d6b8db3101f2f2f"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1910_SkU-1.jpg.jpg",
+    "size": 835041,
+    "sha256": "3e69e8f11aefc73cf5cbbabe9f603a1e02cec0240614c4d0196bd5114d84bb18"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1910_SkU-2.jpg.jpg",
+    "size": 875492,
+    "sha256": "103d33c0928df3091491c756b358af6c14efa78133eb1df252c66a4be1a9e918"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU-1.jpg.jpg",
+    "size": 886156,
+    "sha256": "d1ea193ee8a4c6da2238149cbcdd8a0b99f22481df810b8deb6c8fef17cfc027"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU-2.jpg.jpg",
+    "size": 864685,
+    "sha256": "859876c79b4de5fedd8e3bb4ddf722c2c0fcf670192cb97fe0ea857744027334"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU-3.jpg.jpg",
+    "size": 771010,
+    "sha256": "41ddbb771a1f0cf0e12801a4e3f0585ea956fd3af63accc4e377ff5103c2edca"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1911_SkU.jpg.jpg",
+    "size": 771010,
+    "sha256": "41ddbb771a1f0cf0e12801a4e3f0585ea956fd3af63accc4e377ff5103c2edca"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_1918_063-066.jpg",
+    "size": 715140,
+    "sha256": "45aaff53713518740c279a58194e62a9bd17a8957e04926d77601332ec724e34"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_Poprawka_Kacprzak_M.json",
+    "size": 120,
+    "sha256": "53114142c473d594ea9c349ac41930d3828a8c3e5c6dbccf25346eb2fb4d7a66"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/Warta_Poprawka_U.json",
+    "size": 4336,
+    "sha256": "da4fce2918e0a792b81dad8cf4a0fc6b218fb42e35b47e0a5cbd32bc0215e1de"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-01/zrodla/narzedzie_blad_interact.json",
+    "size": 200,
+    "sha256": "f02d586b01b50db1360cb9ad38609658b12ef71ceae0fa36ccf209f0c039d6d1"
+  }
+]

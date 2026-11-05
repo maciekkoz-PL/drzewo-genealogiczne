@@ -18,3 +18,7 @@ Data dostępu: 2026-11-05. Bezpośrednie pobranie JPG zwróciło HTML ochronny, 
 - Matka: ślubna małżonka Wincentego, Agnieszka z Miszczyszynów. Zapis wieku matki zawiera poprawkę; nie wykorzystano go do ustalenia jej daty urodzenia.
 
 Dokument potwierdza rodziców i datę urodzenia Romana. Zgodne imiona rodziców, nazwisko panieńskie matki i miejscowość łączą go bardzo mocno z rodziną Czesława opisaną w akcie 110/1936. Do pełnego porównania pozostaje odczyt 241/1909. Nie jest to dowód na rodziców Bogusława ani ojca Piotra. Nie ustalono potomków Romana.
+
+## Uzupełnienie dostępu — etap 2
+
+Po początkowej nieudanej próbie pobrania uzyskano oryginalny JPG: `zrodla/S061_Roman_226_1919.jpg` (SHA-256 `09d48536ac86275c4dd983862419745ca6abd792aa7ce6344946d941ce097331`). Potwierdzono odczyt na oryginale. Źródło obrazu: https://photos.szukajwarchiwach.gov.pl/72ccf13401f1f049671583da77d2ba2fbe8052b0b23e9c32947409e8a47a15de_max . Zawód ojca: młynarz. Wiek matki zawiera korektę, więc nie wyprowadzono z niego daty urodzenia.
