@@ -1,0 +1,58 @@
+{
+  "source_id": "S086",
+  "source_type": "Fotografia urzędowego odpisu skróconego aktu małżeństwa przekazana przez użytkownika w tej rozmowie",
+  "issuer_as_printed": "Urząd Stanu Cywilnego w m.st. Warszawie Oddział Żoliborz",
+  "act_number_read": "II-1592/1982",
+  "extract_issue_date_read": "2002-08-01",
+  "groom": {
+    "full_name": "Bogusław Kazimierz Chmielewski",
+    "birth_surname": "Chmielewski",
+    "birth_date": "1943-04-25",
+    "birth_place": "Łódź",
+    "father": {
+      "given_name": "Czesław",
+      "surname": "Chmielewski"
+    },
+    "mother": {
+      "given_name": "Janina",
+      "birth_surname": "Poprawka"
+    }
+  },
+  "bride": {
+    "full_name_before_marriage": "Maria Jankowska",
+    "birth_surname": "Jankowska",
+    "birth_date": "1942-01-04",
+    "birth_place": "Strzegowo",
+    "father": {
+      "given_name": "Roman",
+      "surname": "Jankowski"
+    },
+    "mother": {
+      "given_name": "Anna",
+      "birth_surname": "Kulas"
+    }
+  },
+  "marriage": {
+    "date": "1982-11-13",
+    "place": "Warszawa",
+    "groom_surname_after": "Chmielewski",
+    "bride_surname_after": "Chmielewska",
+    "children_surname_choice_as_printed": "Chmielewski/a"
+  },
+  "divorce_annotation": {
+    "judgment_date": "1985-04-23",
+    "court": "Sąd Rejonowy dla m.st. Warszawy",
+    "reference_read_with_editorial_spacing": "R XIII C 309/1985",
+    "reference_spacing_uncertain": true,
+    "note": "Data i liczba309/1985 czytelne; rozdzielenie liter/cyfr w sygnaturze jest redakcyjne."
+  },
+  "limits": [
+    "Fotografia jest widoczna w rozmowie, ale pliku obrazu nie udostępniono narzędziom plikowym tego środowiska. Nie zapisano lokalnego oryginału ani nie podano wymyślonego SHA-256 obrazu.",
+    "Odczyt wzrokowy z fotografii odpisu, nie oględziny księgi pierwotnej.",
+    "Dokument potwierdza imiona i nazwiska rodziców Bogusława. Nie podaje ich dat ani miejsc urodzenia.",
+    "Powiązanie tych rodziców z osobami aktu110/1936 jest mocno wsparte zgodnością danych obojga rodziców i Łodzi; pełniejsze identyfikatory nadal są przedmiotem H017.",
+    "Rubryka Dzieci jest wyborem nazwiska przyszłych dzieci, nie ich wykazem. Nie dowodzi macierzyństwa/ojcostwa wobec Marysi.",
+    "Śmierć1988Łódź i późniejszy pochówek pozostają relacją REL-006, nie treścią tego odpisu.",
+    "Żoliborz jest oznaczeniem organu wydającego odpis. Rubryka miejsca ślubu podaje Warszawę, bez dzielnicy."
+  ]
+}

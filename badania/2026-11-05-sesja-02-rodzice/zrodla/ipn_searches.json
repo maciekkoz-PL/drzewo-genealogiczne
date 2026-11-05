@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%22Bogus%C5%82aw+Chmielewski%22",
+    "query": "\"Bogusław Chmielewski\"",
+    "time_utc": "2026-11-05T13:42:48.619899+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search",
+    "path": "work/boguslaw2/ipn_reverse.html",
+    "sha256": "2dc6d663f68c4a1eae4807c68663ffbcb7aa89a966026bedec29aaec75b0af62",
+    "size": 63393,
+    "entries": 10
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%2225-04-1943%22",
+    "query": "\"25-04-1943\"",
+    "time_utc": "2026-11-05T13:42:56.434118+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search?fraza=%2225-04-1943%22",
+    "path": "work/boguslaw2/ipn_dob.html",
+    "sha256": "f8415d2012c07bc0fb883fb89353b60b94db1d98c692c2184bb1fe16208a2473",
+    "size": 63523,
+    "entries": 10
+  },
+  {
+    "url": "https://inwentarz.ipn.gov.pl/en/search?fraza=Chmielewski+Bogus%C5%82aw",
+    "query": "Chmielewski Bogusław",
+    "time_utc": "2026-11-05T13:42:57.493025+00:00",
+    "status": 200,
+    "final_url": "https://inwentarz.ipn.gov.pl/en/search?fraza=Chmielewski+Bogus%C5%82aw",
+    "path": "work/boguslaw2/ipn_noquote.html",
+    "sha256": "b03dbc03187a1d1427da8997fddd879a03f246a5e591ce9a604356a0654c7228",
+    "size": 67456,
+    "entries": 10
+  }
+]

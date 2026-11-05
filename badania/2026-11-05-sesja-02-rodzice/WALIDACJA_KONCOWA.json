@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "checked_utc": "2026-11-05T14:29:41.586231+00:00",
+  "base_validation": "../2026-11-05-sesja-01/WALIDACJA_KONCOWA.json",
+  "workbook_sha256": "9f46760140c00d0c5a0e08ca199c5c0af96b38f0ad0d9f82950439fdf112a1fa",
+  "sources": 86,
+  "candidates_and_aliases": 33,
+  "relations": 17,
+  "events": 45,
+  "open_hypotheses": 13,
+  "closed_hypotheses": 4,
+  "raw_source_files_session01": 236,
+  "raw_source_files_session02": 31,
+  "earlier_relationship_evidence_unchanged_except_R007_R008": true,
+  "S086_parent_names_documented": true,
+  "S086_original_image_local": false,
+  "S086_local_transcription_hashes": {
+    "S086_ODPIS_MALZENSTWA_RODZICE.md": "ce44cfd7c2ddfb1c958b8801c39148fd36cee1463f24cda0a627fcb71965d18c",
+    "S086_odpis_malzenstwa_1982_dane.json": "aa6cb8129260721a3499fcd3102fd5ce55c66703aed970c403638b0ed8f9bd30"
+  },
+  "parent_DOB_in_S086": false,
+  "next_identity_check": "H017",
+  "outbound_messages_sent": false,
+  "official_applications_submitted": false,
+  "payments_made": false
+}

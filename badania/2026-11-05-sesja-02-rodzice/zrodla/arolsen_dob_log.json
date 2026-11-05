@@ -1,0 +1,135 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "04d7e9085fb84634aec6",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski 1909",
+      "synSearch": true
+    },
+    "time_utc": "2026-11-05T13:55:14.612735+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "path": "work/boguslaw2/Arolsen_control_surname1909_BuildQueryGlobalForAngular.json",
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "04d7e9085fb84634aec6",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "time_utc": "2026-11-05T13:55:16.665268+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "path": "work/boguslaw2/Arolsen_control_surname1909_GetCount.json",
+    "sha256": "ef55381ad2e496b62ea903ef2dc914e7af35ec277d52464d5eace6742f949e74",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "04d7e9085fb84634aec6",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "time_utc": "2026-11-05T13:55:19.936889+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "path": "work/boguslaw2/Arolsen_control_surname1909_GetPersonList.json",
+    "sha256": "065fc962248dc1cefdb62533c0190738988bfb2d7803a759cf46b059615aec10",
+    "size": 51462
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "d2f29f359991429183d2",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski 1943",
+      "synSearch": true
+    },
+    "time_utc": "2026-11-05T13:55:24.810106+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "path": "work/boguslaw2/Arolsen_surname1943_BuildQueryGlobalForAngular.json",
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "d2f29f359991429183d2",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "time_utc": "2026-11-05T13:55:26.442184+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "path": "work/boguslaw2/Arolsen_surname1943_GetCount.json",
+    "sha256": "8a44f0f339d9bc6b3b2e5c78f9f3a7f9963e020e3b8f6152960be6c2d328561c",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "d2f29f359991429183d2",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "time_utc": "2026-11-05T13:55:30.212968+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "path": "work/boguslaw2/Arolsen_surname1943_GetPersonList.json",
+    "sha256": "ea8f8096d0c6e7e6d057a6b877112521a8cb9ddb71ed3694f32c31546e8e9fde",
+    "size": 34997
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "ea067f32dc2742a7abf1",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski 25.04.1943",
+      "synSearch": true
+    },
+    "time_utc": "2026-11-05T13:55:33.957879+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "path": "work/boguslaw2/Arolsen_surname_dob_BuildQueryGlobalForAngular.json",
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "ea067f32dc2742a7abf1",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "time_utc": "2026-11-05T13:55:34.895693+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "path": "work/boguslaw2/Arolsen_surname_dob_GetCount.json",
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2",
+    "size": 9
+  }
+]

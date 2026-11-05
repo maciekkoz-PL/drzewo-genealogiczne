@@ -1,0 +1,20 @@
+[
+  {
+    "key": "wbp_search1988",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Chmielewski&action=SimpleSearchAction&type=-6&p=0&val1=Date%3A1988",
+    "time_utc": "2026-11-05T13:40:57.923476+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "key": "wbp_searchbog",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielewski%22&action=SimpleSearchAction&type=-6&p=0",
+    "time_utc": "2026-11-05T13:41:04.060492+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "key": "press1976",
+    "url": "https://bc.wbp.lodz.pl/Content/51101/Dziennik_Popularny1976nr126.pdf",
+    "time_utc": "2026-11-05T13:41:10.474574+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  }
+]

@@ -1,3 +1,5 @@
+> **NAJNOWSZY STAN — S086, fotografia odpisu ślubu dostarczona przez użytkownika:** rodzice Bogusława to Czesław Chmielewski i Janina Poprawka. DOB 25.04.1943 Łódź, ślub 13.11.1982 Warszawa, rozwód 23.04.1985 są odczytane w dokumencie. H001 rozstrzygnięta co do imion i nazwisk. Wcześniejsze poniższe informacje o braku dokumentu opisują stan historyczny. Aktualny zakres: tylko H017, dodatkowe identyfikatory wobec pary 1936. [Dowód](badania/2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md), [aktualny plan](badania/2026-11-05-sesja-02-rodzice/PLAN_KONTYNUACJI.md). Nie pytać ponownie o datę i miejsce tego ślubu. Fotografia pozostaje załącznikiem rozmowy; w repo lokalnie odczyt/JSON, brak oryginalnego obrazu.
+
 **Uzupełnienie odpowiedzi użytkownika:** rodzina nie ma dokumentu Bogusława z danymi rodziców; PESEL ojca jest nieznany, a wymóg wystąpił w formularzu online. Sprawdzono drogę osobistą/listowną i przygotowano niewysłany szkic: [S082](badania/2026-11-05-sesja-01/S082_USC_bez_PESEL.md). Nie traktować braku PESEL jako zamknięcia drogi do aktu.
 
 # DRZEWO GENEALOGICZNE MARYSI — KOMPLETNY PAKIET PRZEKAZANIA AGENTOWI

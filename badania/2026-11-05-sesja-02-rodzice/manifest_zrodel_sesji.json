@@ -1,0 +1,188 @@
+[
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_control_fullDOB_BuildQueryGlobalForAngular.json",
+    "original_work_path": "work/boguslaw2/Arolsen_control_fullDOB_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_control_fullDOB_GetCount.json",
+    "original_work_path": "work/boguslaw2/Arolsen_control_fullDOB_GetCount.json",
+    "size": 9,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_control_surname1909_BuildQueryGlobalForAngular.json",
+    "original_work_path": "work/boguslaw2/Arolsen_control_surname1909_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_control_surname1909_GetCount.json",
+    "original_work_path": "work/boguslaw2/Arolsen_control_surname1909_GetCount.json",
+    "size": 10,
+    "sha256": "ef55381ad2e496b62ea903ef2dc914e7af35ec277d52464d5eace6742f949e74"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_control_surname1909_GetPersonList.json",
+    "original_work_path": "work/boguslaw2/Arolsen_control_surname1909_GetPersonList.json",
+    "size": 51462,
+    "sha256": "065fc962248dc1cefdb62533c0190738988bfb2d7803a759cf46b059615aec10"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_given1943_BuildQueryGlobalForAngular.json",
+    "original_work_path": "work/boguslaw2/Arolsen_given1943_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_given1943_GetCount.json",
+    "original_work_path": "work/boguslaw2/Arolsen_given1943_GetCount.json",
+    "size": 10,
+    "sha256": "f86139e492600d61ea2087025574b245a5a25c8ccdeefeaa2d9c01cb7bccd067"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_given1943_GetPersonList.json",
+    "original_work_path": "work/boguslaw2/Arolsen_given1943_GetPersonList.json",
+    "size": 63237,
+    "sha256": "92bc67077926613c8691dfd14df3c10c5a62222a0614159e77362b646c1bc09a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_surname1943_BuildQueryGlobalForAngular.json",
+    "original_work_path": "work/boguslaw2/Arolsen_surname1943_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_surname1943_GetCount.json",
+    "original_work_path": "work/boguslaw2/Arolsen_surname1943_GetCount.json",
+    "size": 10,
+    "sha256": "8a44f0f339d9bc6b3b2e5c78f9f3a7f9963e020e3b8f6152960be6c2d328561c"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_surname1943_GetPersonList.json",
+    "original_work_path": "work/boguslaw2/Arolsen_surname1943_GetPersonList.json",
+    "size": 34997,
+    "sha256": "ea8f8096d0c6e7e6d057a6b877112521a8cb9ddb71ed3694f32c31546e8e9fde"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_surname_dob_BuildQueryGlobalForAngular.json",
+    "original_work_path": "work/boguslaw2/Arolsen_surname_dob_BuildQueryGlobalForAngular.json",
+    "size": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Arolsen_surname_dob_GetCount.json",
+    "original_work_path": "work/boguslaw2/Arolsen_surname_dob_GetCount.json",
+    "size": 9,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Berlin_StandesaemterOstgebiete.pdf",
+    "original_work_path": "work/boguslaw2/Berlin_StandesaemterOstgebiete.pdf",
+    "size": 318273,
+    "sha256": "5e07497e4bed9e2b952a2c15aae2961ad12a4e5c92b86d8f409ff783fc18e5c2"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Berlin_StandesaemterOstgebiete.txt",
+    "original_work_path": "work/boguslaw2/Berlin_StandesaemterOstgebiete.txt",
+    "size": 189216,
+    "sha256": "28da81847ccbad8bdb89caf43640122c8bdd841c9eae99090364ba8d6a713644"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/archidiecezja_cmentarze.html",
+    "original_work_path": "work/boguslaw2/archidiecezja_cmentarze.html",
+    "size": 167543,
+    "sha256": "4ba63abcf6daccc99ff2e84574b2972ace6256e252c5e6811b00b812c40e2fe8"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/archidiecezja_cmentarze_log.json",
+    "original_work_path": "work/boguslaw2/archidiecezja_cmentarze_log.json",
+    "size": 288,
+    "sha256": "04aa1979ee2fdabf7e5a2c0c72f29b913a4a2fc03c9ff4de4063bf8c812ae65a"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/arolsen_dob_log.json",
+    "original_work_path": "work/boguslaw2/arolsen_dob_log.json",
+    "size": 5073,
+    "sha256": "e1be3c5998002c2e2944c81bbbda6e7d8fe86e07a191f9aa4b4bb2974e4e0075"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/arolsen_given1943_log.json",
+    "original_work_path": "work/boguslaw2/arolsen_given1943_log.json",
+    "size": 3159,
+    "sha256": "1d578d596555f71c148567e659c2d8151fb12d58927702b10b75f8bc4fefbcfc"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/catalogue_downloads.json",
+    "original_work_path": "work/boguslaw2/catalogue_downloads.json",
+    "size": 932,
+    "sha256": "ed8e3baf4a9dc387c6ce8718b8d22940624b9a69e34528d6ae83000fe1491fd8"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_B_Boguslaw_1942_1944.json",
+    "original_work_path": "work/boguslaw2/geneteka_B_Boguslaw_1942_1944.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_D_1988.json",
+    "original_work_path": "work/boguslaw2/geneteka_D_1988.json",
+    "size": 71,
+    "sha256": "31c639b5c1bf56e00d86a32456e6914232138beb68b8838df528cc05b72af0f0"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_D_Boguslaw_1975_1990.json",
+    "original_work_path": "work/boguslaw2/geneteka_D_Boguslaw_1975_1990.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_direct_log.json",
+    "original_work_path": "work/boguslaw2/geneteka_direct_log.json",
+    "size": 18119,
+    "sha256": "e236137f070fee705f50485e6df15b51c628b6df01c15111833c8aca56882293"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/ipn_503_stop.json",
+    "original_work_path": "work/boguslaw2/ipn_503_stop.json",
+    "size": 251,
+    "sha256": "2d02cdef677eb742c41a185784e45d0cd12ed0efe6bfd12e89a35ac2c7791d54"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/ipn_dob.html",
+    "original_work_path": "work/boguslaw2/ipn_dob.html",
+    "size": 63523,
+    "sha256": "f8415d2012c07bc0fb883fb89353b60b94db1d98c692c2184bb1fe16208a2473"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/ipn_noquote.html",
+    "original_work_path": "work/boguslaw2/ipn_noquote.html",
+    "size": 67456,
+    "sha256": "b03dbc03187a1d1427da8997fddd879a03f246a5e591ce9a604356a0654c7228"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/ipn_reverse.html",
+    "original_work_path": "work/boguslaw2/ipn_reverse.html",
+    "size": 63393,
+    "sha256": "2dc6d663f68c4a1eae4807c68663ffbcb7aa89a966026bedec29aaec75b0af62"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/ipn_searches.json",
+    "original_work_path": "work/boguslaw2/ipn_searches.json",
+    "size": 1331,
+    "sha256": "d875c29cb4a77c947dcffd59d1a13d61776a1b452d0e86d3c04a0a80139646e4"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/nekrologi_chma_chmy.html",
+    "original_work_path": "work/boguslaw2/nekrologi_chma_chmy.html",
+    "size": 178616,
+    "sha256": "4f5d0072200d4b682a1c06be63576fb6f7d28a2ef28c9a0a9fea143fad1e5918"
+  },
+  {
+    "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/wbp_probe.json",
+    "original_work_path": "work/boguslaw2/wbp_probe.json",
+    "size": 747,
+    "sha256": "03204d20968ec87a06849219bd21e8f337d0c756dac0c0fb62c0aac6f47adbcb"
+  }
+]

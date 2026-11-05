@@ -1,0 +1,85 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "c25b26b23d7f4d6b825e",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski 03.07.1909",
+      "synSearch": true
+    },
+    "time_utc": "2026-11-05T13:57:52.424202+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "path": "work/boguslaw2/Arolsen_control_fullDOB_BuildQueryGlobalForAngular.json",
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "c25b26b23d7f4d6b825e",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "time_utc": "2026-11-05T13:57:57.406383+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "path": "work/boguslaw2/Arolsen_control_fullDOB_GetCount.json",
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2",
+    "size": 9
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "072168f386fb440fbb1f",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Boguslaw 1943",
+      "synSearch": true
+    },
+    "time_utc": "2026-11-05T13:58:00.648648+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "path": "work/boguslaw2/Arolsen_given1943_BuildQueryGlobalForAngular.json",
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "072168f386fb440fbb1f",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "time_utc": "2026-11-05T13:58:03.382664+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "path": "work/boguslaw2/Arolsen_given1943_GetCount.json",
+    "sha256": "f86139e492600d61ea2087025574b245a5a25c8ccdeefeaa2d9c01cb7bccd067",
+    "size": 10
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public search",
+    "params": {
+      "uniqueId": "072168f386fb440fbb1f",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "time_utc": "2026-11-05T13:58:05.898979+00:00",
+    "status": 200,
+    "final_url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "path": "work/boguslaw2/Arolsen_given1943_GetPersonList.json",
+    "sha256": "92bc67077926613c8691dfd14df3c10c5a62222a0614159e77362b646c1bc09a",
+    "size": 63237
+  }
+]

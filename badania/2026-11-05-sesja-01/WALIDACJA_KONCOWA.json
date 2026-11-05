@@ -1,12 +1,12 @@
 {
-  "access_utc": "2026-11-05T13:06:27.475188+00:00",
+  "access_utc": "2026-11-05T14:29:00.405123+00:00",
   "status": "PASS",
   "errors": [],
   "notes": [],
   "initial_workbook_sheets": 16,
   "current_workbook_sheets": 21,
-  "sources": 82,
-  "candidate_and_alias_records": 32,
+  "sources": 86,
+  "candidate_and_alias_records": 33,
   "person_ids": [
     "P01",
     "P02",
@@ -19,15 +19,16 @@
     "P09",
     "P10",
     "P11",
-    "P12"
+    "P12",
+    "P17"
   ],
-  "relations": 15,
-  "open_hypotheses": 12,
-  "resolved_hypotheses": 3,
+  "relations": 17,
+  "open_hypotheses": 13,
+  "resolved_hypotheses": 4,
   "source_files_in_manifest": 236,
   "validated_jpegs": 112,
   "original_archive_sha256": "dee505614ae68d51ed55b5df834a7895281ec476575e1d6417725e9bf3317340",
-  "current_workbook_sha256": "d0f642b582eab499825b9fca48710a0546869fe3b652a72730e2d5a5240db1d5",
+  "current_workbook_sha256": "9f46760140c00d0c5a0e08ca199c5c0af96b38f0ad0d9f82950439fdf112a1fa",
   "original_archive_crc": "OK",
   "files": [
     {
@@ -316,6 +317,55 @@
       "path": "badania/2026-11-05-sesja-01/zrodla/S047_gov_odpis_PESEL_opcjonalny.html",
       "matches": [
         "badania/2026-11-05-sesja-01/zrodla/S047_gov_odpis_PESEL_opcjonalny.html"
+      ]
+    },
+    {
+      "id": "F41",
+      "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_D_1988.json",
+      "matches": [
+        "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_D_1988.json"
+      ]
+    },
+    {
+      "id": "F42",
+      "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_D_Boguslaw_1975_1990.json",
+      "matches": [
+        "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_D_Boguslaw_1975_1990.json"
+      ]
+    },
+    {
+      "id": "F43",
+      "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_B_Boguslaw_1942_1944.json",
+      "matches": [
+        "badania/2026-11-05-sesja-02-rodzice/zrodla/geneteka_B_Boguslaw_1942_1944.json"
+      ]
+    },
+    {
+      "id": "F44",
+      "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/nekrologi_chma_chmy.html",
+      "matches": [
+        "badania/2026-11-05-sesja-02-rodzice/zrodla/nekrologi_chma_chmy.html"
+      ]
+    },
+    {
+      "id": "F45",
+      "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/ipn_dob.html",
+      "matches": [
+        "badania/2026-11-05-sesja-02-rodzice/zrodla/ipn_dob.html"
+      ]
+    },
+    {
+      "id": "F46",
+      "path": "badania/2026-11-05-sesja-02-rodzice/zrodla/Berlin_StandesaemterOstgebiete.pdf",
+      "matches": [
+        "badania/2026-11-05-sesja-02-rodzice/zrodla/Berlin_StandesaemterOstgebiete.pdf"
+      ]
+    },
+    {
+      "id": "F47",
+      "path": "badania/2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md",
+      "matches": [
+        "badania/2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md"
       ]
     }
   ],
@@ -1106,9 +1156,10 @@
     }
   ],
   "evidence_gate": {
-    "parents_of_boguslaw_confirmed": false,
-    "R007_R008": "RELACJA RODZINNA",
-    "branch_research": "WSTRZYMANE",
+    "parents_of_boguslaw_confirmed": true,
+    "R007_R008": "FOTOGRAFIA ODPISU USC S086",
+    "branch_research": "Tylko dodatkowa identyfikacja rodziców H017; dalsze gałęzie wstrzymane",
+    "photo_original_local": false,
     "allowed_tasks": [
       "T01",
       "T02",

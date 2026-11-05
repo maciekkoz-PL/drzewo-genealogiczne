@@ -1,3 +1,5 @@
+> **Aktualizacja po fotografii S086:** imiona i nazwiska rodziców Bogusława są już potwierdzone odpisem jego ślubu. Ten plik zachowuje etap wcześniejszy. [Najnowszy stan i dowód](../2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md); [aktywny plan tylko połączenia z rodzicami](../2026-11-05-sesja-02-rodzice/PLAN_KONTYNUACJI.md). Dawne szerokie kierunki nie są aktywne w aktualnym zakresie.
+
 # Aktywny plan: wyłącznie rodzice Bogusława
 
 Użytkownik wstrzymał dalsze badania gałęzi Czesława i Janiny do czasu potwierdzenia, czy są rodzicami Bogusława. To polecenie zastępuje wcześniejsze priorytety dotyczące tej gałęzi, Piotra, rodzeństwa i dalszych przodków.

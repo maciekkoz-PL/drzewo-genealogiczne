@@ -1,0 +1,6 @@
+{
+  "reason": "After successful initial searches, the follow-up script returned HTTP 503 on warm-up and reverse-name query; stopped further queued requests to unavailable host. No negative genealogical conclusion.",
+  "stopped_pids": [
+    17659
+  ]
+}

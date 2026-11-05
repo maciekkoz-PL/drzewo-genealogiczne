@@ -1,21 +1,23 @@
 # Badania genealogiczne rodziny Marysi
 
-**Aktualne polecenie: wstrzymać badania gałęzi Czesława i Janiny, dopóki nie potwierdzimy rodziców Bogusława.** [Jedyny aktywny cel i wymagany dokument](RODZICE_BOGUSLAWA_PRIORYTET.md). Dotychczasowe dokumenty tej grupy nie stanowią jeszcze potwierdzonej linii przodków Marysi.
+**Rodzice Bogusława zostali wskazani w fotografii jego odpisu małżeństwa: Czesław Chmielewski i Janina Poprawka.** Źródło użytkownika S086 identyfikuje go także przez pełne imiona i urodzenie 25.04.1943 Łódź. [Odczyt dokumentu i granice](badania/2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md).
 
-Aktualna baza: [Marysia_KOMPLET_BAZA_2026-11-05.xlsx](Marysia_KOMPLET_BAZA_2026-11-05.xlsx). Stan po autonomicznej sesji 5 listopada 2026: 21 arkuszy, 82 źródła, 32 pozycje kandydatów/aliasów oraz 20 osobnych tropów skorowidzowych.
+Akt małżeństwa II-1592/1982: 13.11.1982 Warszawa, Maria Jankowska; adnotacja rozwodu 23.04.1985. H001 rozstrzygnięta. Dane obojga rodziców są zgodne z parą 110/1936 z Łodzi. S086 nie zawiera DOB rodziców; dodatkową kontrolę przyporządkowania dat 1909/1910 prowadzi H017. **Aktualny zakres nadal dotyczy wyłącznie połączenia Bogusława z rodzicami.** [Stan dowodu](RODZICE_BOGUSLAWA_PRIORYTET.md); [plan](badania/2026-11-05-sesja-02-rodzice/PLAN_KONTYNUACJI.md).
 
-Potwierdzono aktami urodzenie Czesława Chmielewskiego 03.07.1909 i Janiny Poprawki 12.05.1910, braterstwo Czesława z Romanem oraz ślub Wincentego i Agnieszki 25.06.1905. **Rodzice Bogusława, jego rodzeństwo oraz ojciec Piotra nadal wymagają dokumentu.** Nowe tropy wojenne nie zostały scalone z rodziną.
+Aktualna baza: [Marysia_KOMPLET_BAZA_2026-11-05.xlsx](Marysia_KOMPLET_BAZA_2026-11-05.xlsx), 21 arkuszy, 86 źródeł, 33 pozycje kandydatów/aliasów i 20 osobnych tropów indeksowych. Zgon 1988 Łódź i grób bez inskrypcji nadal mają status relacji. Nie awansowano pokrewieństwa Piotra/Tomasza.
 
 Przed kontynuacją przeczytać:
 
 1. [Instrukcję i zasady przekazania](Marysia_INSTRUKCJA_DLA_AGENTA.md) w całości — tablice startowe są oznaczone jako historyczne.
-2. [Raport tej sesji](badania/2026-11-05-sesja-01/RAPORT_SESJI.md) i [aktualny stan](badania/2026-11-05-sesja-01/STATUS.md).
-3. [Dokładny plan kontynuacji i zakaz zbędnych powtórzeń](badania/2026-11-05-sesja-01/PLAN_KONTYNUACJI.md).
+2. [Raport tej sesji](badania/2026-11-05-sesja-01/RAPORT_SESJI.md) i [aktualny stan](badania/2026-11-05-sesja-02-rodzice/STATUS.md).
+3. [Dokładny plan kontynuacji i zakaz zbędnych powtórzeń](badania/2026-11-05-sesja-02-rodzice/PLAN_KONTYNUACJI.md).
 4. [Rejestr źródeł i zakres sprawdzenia](badania/2026-11-05-sesja-01/ZBADANE_ZRODLA.md) oraz [audyt pakietu](badania/2026-11-05-sesja-01/AUDYT_PAKIETU.md).
 5. [Procedury pobierania publicznych skanów](procedury/README.md).
 
-Odczyty S061–S082, kopie JPG/PDF/HTML/JSON, manifesty SHA-256 i dzienniki kwerend znajdują się w `badania/2026-11-05-sesja-01/`. Oryginalny ZIP pozostaje niezmieniony; poprzednie stany aktualizowanych plików można odtworzyć z historii Git. Dawne ID P/R w historycznych arkuszach nie zawsze mają znaczenie obecnych ID — mapowanie opisano w audycie.
+Odczyty S061–S082 i kopie źródeł pierwszego etapu są w `badania/2026-11-05-sesja-01/`. Nowe S083–S086, zakresy kwerend i przekazanie są w `badania/2026-11-05-sesja-02-rodzice/`. Manifesty dotyczą faktycznie zapisanych plików; dla S086 brak lokalnego obrazu. Oryginalny ZIP pozostaje niezmieniony; poprzednie stany aktualizowanych plików można odtworzyć z historii Git. Dawne ID P/R w historycznych arkuszach nie zawsze mają znaczenie obecnych ID — mapowanie opisano w audycie.
 
 Nie wysłano wiadomości do osób ani instytucji, nie złożono wniosków i nie poniesiono opłat. [Lokalne szkice pism](badania/2026-11-05-sesja-01/SZKICE_DO_ZATWIERDZENIA.md) nie zostały wysłane; ich wykorzystanie wymaga osobnego zatwierdzenia.
 
-Aktualizacja po odpowiedzi użytkownika: rodzina nie ma dokumentu z rodzicami Bogusława, a formularz online wymagał nieznanego PESEL ojca. [Sprawdzona droga osobista/listowna i szkic bez PESEL](badania/2026-11-05-sesja-01/S082_USC_bez_PESEL.md). Żadnego wniosku nie wysłano.
+Stan wcześniejszy, przed fotografią S086: rodzina zgłaszała brak dokumentu i wymóg nieznanego PESEL ojca w formularzu online. Po otrzymaniu zdjęcia nazwiska rodziców zostały udokumentowane. [Sprawdzona droga osobista/listowna i szkic bez PESEL](badania/2026-11-05-sesja-01/S082_USC_bez_PESEL.md). Żadnego wniosku nie wysłano.
+
+Najnowszy etap: [kwerendy i ich ograniczenia](badania/2026-11-05-sesja-02-rodzice/KWERENDY_I_WYNIKI.md), [kontrola danych z poprzedniego pakietu](badania/2026-11-05-sesja-02-rodzice/AUDYT_WCZESNIEJSZYCH_INFORMACJI.json). Zdjęcia S086 nie było w ZIP; oryginalny plik nie jest dostępny w środowisku plikowym. W repo zapisano odczyt i JSON, a nie fotografię. Innych rozmów ChatGPT nie przeszukano.

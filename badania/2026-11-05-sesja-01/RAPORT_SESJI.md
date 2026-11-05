@@ -1,3 +1,5 @@
+> **Aktualizacja po fotografii S086:** imiona i nazwiska rodziców Bogusława są już potwierdzone odpisem jego ślubu. Ten plik zachowuje etap wcześniejszy. [Najnowszy stan i dowód](../2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md); [aktywny plan tylko połączenia z rodzicami](../2026-11-05-sesja-02-rodzice/PLAN_KONTYNUACJI.md). Dawne szerokie kierunki nie są aktywne w aktualnym zakresie.
+
 # Badania rodziny Marysi — raport z 5 listopada 2026
 
 **Najnowsza decyzja użytkownika:** dalsze badania gałęzi Czesława i Janiny zostały wstrzymane do potwierdzenia rodziców Bogusława. Poniższy raport zachowuje wyniki już wykonanej pracy; nie oznacza ich połączenia z Marysią. Aktywny jest wyłącznie [plan ustalenia rodziców Bogusława](PLAN_KONTYNUACJI.md).

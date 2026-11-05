@@ -1,19 +1,15 @@
-# Jedyny aktywny cel: potwierdzić rodziców Bogusława
+# Rodzice Bogusława — potwierdzenie w odpisie USC
 
-**Decyzja użytkownika w tej sesji: wstrzymać dalsze badania gałęzi Czesława i Janiny do sprawdzenia, czy są rodzicami Bogusława.** Nie kontynuować ich przodków, rodzeństwa, wojennych losów, grobów ani poszukiwań potomków tej gałęzi przed rozstrzygnięciem połączenia.
+**Fotografia przekazana przez użytkownika potwierdza rodziców Bogusława Kazimierza Chmielewskiego: Czesław Chmielewski i Janina z domu Poprawka.** Nie są to już wyłącznie imiona z rodzinnego przekazu.
 
-Stan dowodowy:
+Dokument identyfikuje Bogusława pełnymi imionami, nazwiskiem oraz urodzeniem **25.04.1943 w Łodzi**. To odpis skrócony aktu małżeństwa **II-1592/1982**, wydany przez USC m.st. Warszawy, Oddział Żoliborz. Ślub z Marią Jankowską: **13.11.1982, Warszawa**. Adnotacja: rozwód **23.04.1985**. [Pełny odczyt i granice dowodu](badania/2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md), S086.
 
-- Bogusław Kazimierz Chmielewski, ur. według przekazu **25.04.1943 w Łodzi** — brak jego aktu urodzenia w przeanalizowanym pakiecie.
-- **Czesław Chmielewski i Janina Poprawka są hipotezą dotyczącą jego rodziców.** Ich ślub oraz ich własne akta dokumentują te osoby, lecz nie zawierają połączenia z Bogusławem.
-- H001 pozostaje otwarta; R007 i R008 zachowują kategorię relacji rodzinnej. Dotychczasowe dokumenty tworzą **osobną grupę osób bez potwierdzonego połączenia z Marysią przez Bogusława**.
+H001 dotycząca imion i nazwisk rodziców została rozstrzygnięta; R007/R008 mają źródło dokumentalne z fotografii odpisu. **Czesław i Janina Poprawka są zgodni z parą aktu 110/1936 z Łodzi.** Odpis 1982 nie podaje ich dat urodzenia, więc dodatkowe dopięcie identyfikatorów do osób z aktów 1909/1910 pozostaje w H017. Nie opisujemy dat rodziców jako odczytanych ze zdjęcia 1982.
 
-**Nowa odpowiedź użytkownika:** rodzina nie ma dokumentu podającego rodziców Bogusława. Marysia nie zna PESEL ojca; wymóg pojawił się w formularzu internetowym.
+Aktualny zakres pracy nadal obejmuje wyłącznie połączenie Bogusława z rodzicami. Dalsi przodkowie, ich rodzeństwo i Piotr nie są teraz rozwijani. [Dokładny plan dalszej kontroli](badania/2026-11-05-sesja-02-rodzice/PLAN_KONTYNUACJI.md). Wcześniejszy plan szerokiej gałęzi pozostaje archiwalny.
 
-Następny dokument: **odpis zupełny aktu urodzenia Bogusława**. Marysia jako córka jest uprawniona do złożenia wniosku. Według sprawdzonej [procedury gov.pl](https://www.gov.pl/web/gov/uzyskaj-odpis-aktu-stanu-cywilnego-urodzenia-malzenstwa-zgonu) PESEL ojca oraz numer aktu są danymi dodatkowymi. Można wnioskować na podstawie imion, nazwiska, daty i miejsca urodzenia. Blokada konkretnego formularza online nie wyklucza trybu osobistego lub listownego. [Wyjaśnienie i urzędowy druk USC Łódź](badania/2026-11-05-sesja-01/S082_USC_bez_PESEL.md). [Gotowy szkic DOCX z nieznanym PESEL ojca](badania/2026-11-05-sesja-01/Wniosek_Boguslaw_BEZ_PESEL_SZKIC.docx) nie został wysłany.
+Śmierć **1988 w Łodzi** i pochówek w rodzinnym grobie nowej partnerki bez nazwiska Bogusława na pomniku nadal mają status relacji użytkownika REL-006. Odpis ślubu nie potwierdza zgonu ani pochówku. Rubryka nazwiska dzieci w odpisie nie jest ich wykazem i nie dokumentuje pochodzenia Marysi/Tomasza.
 
-Jeżeli data lub miejsce z przekazu okażą się błędne albo akt nie zostanie odnaleziony, kolejnym dokumentem jest **akt zgonu Bogusława**, ewentualnie dokument małżeństwa podający jego rodziców. Dokument Marysi może pomóc ustalić prawidłowe dane jej ojca, lecz sam nie musi wymieniać jego rodziców.
+Zdjęcia tego nie było w oryginalnym ZIP-ie. [Kontrola wszystkich wcześniejszych plików](badania/2026-11-05-sesja-02-rodzice/AUDYT_WCZESNIEJSZYCH_INFORMACJI.json) nie znalazła danych ślubu 1982. Nie ma dostępu do innych rozmów ChatGPT; nie twierdzimy, że użytkownik wcześniej tych danych nie podał. Sam obraz jest widoczny w tej rozmowie, ale nie jest dostępny jako lokalny plik — zapisano odczyt i JSON, nie fikcyjną kopię fotografii.
 
-Po otrzymaniu dokumentu sprawdzić najpierw tożsamość Bogusława: pełne imiona, datę i miejsce oraz ewentualne późniejsze wpisy. Następnie odczytać **oboje rodziców i nazwisko panieńskie matki**. Nie zawężać odczytu do oczekiwanej pary. Jeżeli dane są inne, otworzyć właściwą linię i zachować dotychczasową jako niepowiązaną; jeżeli są zgodne, udokumentować połączenie i dopiero ocenić wznowienie badań.
-
-Nie wysłano wiadomości ani wniosków i nie poniesiono opłat. Wysłanie wymaga osobnego zatwierdzenia. Dodatkowo sprawdzono wyłącznie procedurę uzyskania dokumentu Bogusława; nie wznowiono badań pozostałej gałęzi. Szczegóły: [aktywny plan](badania/2026-11-05-sesja-01/PLAN_KONTYNUACJI.md).
+Nie wysłano wiadomości ani wniosków i nie wniesiono opłat. Przygotowane wcześniej [szkice papierowego wniosku bez znajomości PESEL ojca](badania/2026-11-05-sesja-01/S082_USC_bez_PESEL.md) pozostają niewysłane. Akt urodzenia byłby teraz uzupełnieniem identyfikatorów rodziców, a nie jedynym dowodem ich imion i nazwisk.

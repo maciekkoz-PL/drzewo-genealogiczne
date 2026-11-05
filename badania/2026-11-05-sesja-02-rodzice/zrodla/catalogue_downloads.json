@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://www.nekrologi-baza.pl/zlista/49",
+    "time_utc": "2026-11-05T13:56:51.934332+00:00",
+    "status": 200,
+    "final_url": "https://www.nekrologi-baza.pl/zlista/49",
+    "path": "work/boguslaw2/nekrologi_chma_chmy.html",
+    "sha256": "4f5d0072200d4b682a1c06be63576fb6f7d28a2ef28c9a0a9fea143fad1e5918",
+    "size": 178616,
+    "selected_rows": [
+      "Chmielewski Bogusław28.12.2010",
+      "Chmielewski Bogusław (27)xx.xx.1941",
+      "Chmielewski Bogusław (73)03.01.2026"
+    ]
+  },
+  {
+    "url": "https://landesarchiv-berlin.de/formulare/StandesaemterOstgebiete.pdf",
+    "time_utc": "2026-11-05T13:56:53.994338+00:00",
+    "status": 200,
+    "final_url": "https://landesarchiv-berlin.de/formulare/StandesaemterOstgebiete.pdf",
+    "path": "work/boguslaw2/Berlin_StandesaemterOstgebiete.pdf",
+    "sha256": "5e07497e4bed9e2b952a2c15aae2961ad12a4e5c92b86d8f409ff783fc18e5c2",
+    "size": 318273
+  }
+]
