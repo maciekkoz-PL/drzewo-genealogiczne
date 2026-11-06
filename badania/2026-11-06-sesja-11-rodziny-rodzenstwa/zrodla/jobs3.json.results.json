@@ -1,0 +1,18 @@
+[
+  {
+    "key": "wozuczyn_original",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Rachanie/Wozuczyn_UMZ_1924/044.jpg",
+    "utc": "2026-11-06T12:10:45.021188+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Rachanie/Wozuczyn_UMZ_1924/044.jpg",
+    "sha256": "2627502a8d4159160ca225a40e1c8b7c6c7ee93b938db6c97addd50ca2d4fa93",
+    "size": 2872703,
+    "path": "work/s11/wozuczyn_original.jpg"
+  },
+  {
+    "key": "wozuczyn_xxl",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Rachanie/Wozuczyn_UMZ_1924/044-xx.jpg",
+    "utc": "2026-11-06T12:10:45.022432+00:00",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

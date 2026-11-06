@@ -1,0 +1,58 @@
+[
+  {
+    "key": "czeslawa_zarzew_map",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW",
+    "utc": "2026-11-06T12:23:37.694774+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW",
+    "sha256": "6006450a04345df23499643de56c153dfacd61ebc7799bee1b1eeb8dd9199466",
+    "size": 11267,
+    "path": "work/s11/czeslawa_zarzew_map.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Mapa cmentarza",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/plan.html"
+      },
+      {
+        "text": "Wyszukiwarka grobów",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/kontakt.html"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "Powrót do widoku mapy cmentarza",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "Drukuj",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/wydrukInformacjiOGrobie.html"
+      },
+      {
+        "text": "© SYST-KOM - Kompleksowe rozwiązania informatyczne",
+        "url": "https://www.systkom.pl"
+      }
+    ]
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10504033&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10504033",
+    "status": 200,
+    "size": 839,
+    "type": "text/html"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWUDNSAI=31&xinfo=3-5801485-0%200NNN%20RT%281793967541234%20152%29%20q%280%20-1%20-1%20-1%29%20r%280%20-1%29%20B12%284%2c315%2c0%29%20U18&incident_id=1384000710134018451-48723221493060035&edet=12&cinfo=04000000&rpinfo=0&cts=Xt1kZXQgy3HlArhKSvpUmbsyxfFc5oLsvZwRRvUUGLNS1GFlaUbkYc48IZjJDU9U&cip=90.96.176.231&mth=GET",
+    "status": 200,
+    "size": 14194,
+    "type": "text/html"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/o/pliki-api/pliki/jednostka/10504033/0/300",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "body_path": "work/s11/rach_mani/3428fc768a444314.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10503949&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10503949",
+    "status": 200,
+    "size": 212,
+    "type": "text/html"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 112179,
+    "type": "application/javascript",
+    "body_path": "work/s11/rach_mani/c5970fe9c2a95b0f.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=4067120936468556798,6334503551073375009,616481682081299023,130596",
+    "status": 200,
+    "size": 0,
+    "type": "text/plain"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10503949&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10503949",
+    "status": 200,
+    "size": 212,
+    "type": "text/html"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.4615184381122157",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 111939,
+    "type": "application/javascript",
+    "body_path": "work/s11/rach_mani/c5970fe9c2a95b0f.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=6524674628120872590,2131575784696807177,17134117976057507066,136425",
+    "status": 200,
+    "size": 0,
+    "type": "text/plain"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10503949&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10503949",
+    "status": 200,
+    "size": 26693,
+    "type": "text/html; charset=UTF-8"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.311897483836171",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/main-VSYKIVTE.js",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "body_path": "work/s11/rach_mani/c861c2a5e9146311.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/styles-HPKIIVFU.css",
+    "status": 200,
+    "size": 10898,
+    "type": "text/css"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/favicon.ico?v=1",
+    "status": 200,
+    "size": 4001,
+    "type": "image/x-icon"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/o/pliki-api/pliki/jednostka/10503949/0/300",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "body_path": "work/s11/rach_mani/ec2bc7bb85c36970.body"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "key": "Emilia1904",
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/10504033",
+    "utc": "2026-11-06T12:19:56.455188+00:00",
+    "page_status": 200,
+    "api_status": 200,
+    "sha256": "04d54d76e3ea32bf69ba8eb4de61de5f62d14426d5304a9cc31f91e8cb1acdae",
+    "size": 16677,
+    "images": 38
+  },
+  {
+    "key": "Julia1905",
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/10503949",
+    "utc": "2026-11-06T12:20:04.577619+00:00",
+    "page_status": 200,
+    "api_status": 200,
+    "sha256": "9334d903d692d23c9734edf1c13dfd98e1024687385bc948dc6ff4518c7b51bc",
+    "size": 17549,
+    "images": 40
+  }
+]

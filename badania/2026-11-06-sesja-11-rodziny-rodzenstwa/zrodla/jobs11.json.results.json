@@ -1,0 +1,68 @@
+[
+  {
+    "key": "piwigo_1933_api",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4376&per_page=100&page=0",
+    "utc": "2026-11-06T12:20:55.637995+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4376&per_page=100&page=0",
+    "sha256": "a370aba5c1d9f89fda7728092de46c83914e1c5c9cd9bcb763fbef589ff296b2",
+    "size": 97496,
+    "path": "work/s11/piwigo_1933_api.html",
+    "links": []
+  },
+  {
+    "key": "piwigo_1934_api",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4385&per_page=100&page=0",
+    "utc": "2026-11-06T12:20:55.639189+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4385&per_page=100&page=0",
+    "sha256": "a24fa8a5fe31935b0b0794791680bbc110a71dc1dc1380ce7a82d9f3eb9c6960",
+    "size": 99636,
+    "path": "work/s11/piwigo_1934_api.html",
+    "links": []
+  },
+  {
+    "key": "piwigo_1935_api",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4350&per_page=100&page=0",
+    "utc": "2026-11-06T12:20:55.642394+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4350&per_page=100&page=0",
+    "sha256": "0e449ce148166d3e46153afe3bc835b95f3ddd1dc94f7ca8562b05c2e1f16f63",
+    "size": 111181,
+    "path": "work/s11/piwigo_1935_api.html",
+    "links": []
+  },
+  {
+    "key": "piwigo_1936_api",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4362&per_page=100&page=0",
+    "utc": "2026-11-06T12:20:57.091512+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4362&per_page=100&page=0",
+    "sha256": "6561fb906d1974e4ecaa06da2f86abac49165d26ad50a8bfaee37cdc9f58ef05",
+    "size": 109373,
+    "path": "work/s11/piwigo_1936_api.html",
+    "links": []
+  },
+  {
+    "key": "piwigo_1937_api",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4359&per_page=100&page=0",
+    "utc": "2026-11-06T12:20:57.093934+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4359&per_page=100&page=0",
+    "sha256": "589d1092d8efc86a20cf94068a7beff78b232924f09e78e4f928d1ab8b9a6231",
+    "size": 119003,
+    "path": "work/s11/piwigo_1937_api.html",
+    "links": []
+  },
+  {
+    "key": "piwigo_1938_api",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4378&per_page=100&page=0",
+    "utc": "2026-11-06T12:20:57.094969+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4378&per_page=100&page=0",
+    "sha256": "12582656ba730821d1f5348077c48c3890fa43724a112521c4f2ba718c316e5d",
+    "size": 103388,
+    "path": "work/s11/piwigo_1938_api.html",
+    "links": []
+  }
+]

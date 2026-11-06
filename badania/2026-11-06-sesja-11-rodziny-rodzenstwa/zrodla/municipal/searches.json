@@ -1,0 +1,286 @@
+[
+  {
+    "key": "czeslawa",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "method": "POST — public read-only search",
+    "parameters": {
+      "lastName": "Chmielewska",
+      "wholeLastName": "true",
+      "_wholeLastName": "on",
+      "firstName": "Czesława",
+      "yearOfBirthFrom": "1800",
+      "yearOfBirthTo": "2026",
+      "yearOfDeathFrom": "1800",
+      "yearOfDeathTo": "2026",
+      "cementary": [
+        "SZCZE",
+        "ZARZW",
+        "CDOLY"
+      ],
+      "_cementary": [
+        "on",
+        "on",
+        "on"
+      ]
+    },
+    "utc": "2026-11-06T12:22:36.784391+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "size": 43808,
+    "sha256": "d3dd778f3684aa27adf10d0520f3bcb0fbf0d4d6381d6f47d43ddada2fb50699",
+    "rows": [
+      {
+        "cells": [
+          "Cmentarz Komunalny Szczecińska"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Doły"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Zarzew"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "CZESŁAWA CHMIELEWSKA",
+          "brak danych",
+          "1999-10-03",
+          "XLV-1-19",
+          "Zobacz na mapie"
+        ],
+        "links": [
+          "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "roman",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "method": "POST — public read-only search",
+    "parameters": {
+      "lastName": "Chmielewski",
+      "wholeLastName": "true",
+      "_wholeLastName": "on",
+      "firstName": "Roman",
+      "yearOfBirthFrom": "1800",
+      "yearOfBirthTo": "2026",
+      "yearOfDeathFrom": "1800",
+      "yearOfDeathTo": "2026",
+      "cementary": [
+        "SZCZE",
+        "ZARZW",
+        "CDOLY"
+      ],
+      "_cementary": [
+        "on",
+        "on",
+        "on"
+      ]
+    },
+    "utc": "2026-11-06T12:22:38.360076+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "size": 43559,
+    "sha256": "432ed7630144b39ee6e054be855bc48ad89b9d2d76ec557675aa9b0858b3610d",
+    "rows": [
+      {
+        "cells": [
+          "Cmentarz Komunalny Szczecińska"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Doły"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Zarzew"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      }
+    ]
+  },
+  {
+    "key": "sabina",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "method": "POST — public read-only search",
+    "parameters": {
+      "lastName": "Chmielewska",
+      "wholeLastName": "true",
+      "_wholeLastName": "on",
+      "firstName": "Sabina",
+      "yearOfBirthFrom": "1800",
+      "yearOfBirthTo": "2026",
+      "yearOfDeathFrom": "1800",
+      "yearOfDeathTo": "2026",
+      "cementary": [
+        "SZCZE",
+        "ZARZW",
+        "CDOLY"
+      ],
+      "_cementary": [
+        "on",
+        "on",
+        "on"
+      ]
+    },
+    "utc": "2026-11-06T12:22:38.989957+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "size": 43560,
+    "sha256": "df7028072faaf0aed36fdf6c1d9fe528b80b5ca6fd2e3554d51a38e28fafb4a2",
+    "rows": [
+      {
+        "cells": [
+          "Cmentarz Komunalny Szczecińska"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Doły"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Zarzew"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      }
+    ]
+  },
+  {
+    "key": "julianna",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "method": "POST — public read-only search",
+    "parameters": {
+      "lastName": "Chmielewska",
+      "wholeLastName": "true",
+      "_wholeLastName": "on",
+      "firstName": "Julianna",
+      "yearOfBirthFrom": "1800",
+      "yearOfBirthTo": "2026",
+      "yearOfDeathFrom": "1800",
+      "yearOfDeathTo": "2026",
+      "cementary": [
+        "SZCZE",
+        "ZARZW",
+        "CDOLY"
+      ],
+      "_cementary": [
+        "on",
+        "on",
+        "on"
+      ]
+    },
+    "utc": "2026-11-06T12:22:40.283368+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj",
+    "size": 43810,
+    "sha256": "151a39ccc3f9d3221ea48b3ee5e3e7ae29606507d8a4c46791fbc3cf75bb94b9",
+    "rows": [
+      {
+        "cells": [
+          "Cmentarz Komunalny Szczecińska"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Doły"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Brak wyników"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Cmentarz Komunalny Zarzew"
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "JULIANNA CHMIELEWSKA",
+          "brak danych",
+          "1981-12-06",
+          "XXVIII-10-10",
+          "Zobacz na mapie"
+        ],
+        "links": [
+          "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=3341&cm=ZARZW"
+        ]
+      }
+    ]
+  }
+]

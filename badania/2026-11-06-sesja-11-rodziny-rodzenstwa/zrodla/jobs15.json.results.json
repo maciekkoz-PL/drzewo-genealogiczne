@@ -1,0 +1,476 @@
+[
+  {
+    "key": "zarzew_ecmentarze",
+    "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz",
+    "utc": "2026-11-06T12:28:12.690938+00:00",
+    "status": 200,
+    "final_url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz",
+    "sha256": "4e18d432e81e8cb66c58c8fe0e42b0f1252bdbc50bcf3f46294429bdf9d98653",
+    "size": 701022,
+    "path": "work/s11/zarzew_ecmentarze.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Znane osoby",
+        "url": "https://www.ecmentarze.pl/znane-osoby"
+      },
+      {
+        "text": "Inwentaryzacja",
+        "url": "https://www.ecmentarze.pl/oferta/inwentaryzacja"
+      },
+      {
+        "text": "Wydruki",
+        "url": "https://www.ecmentarze.pl/oferta/wydruki"
+      },
+      {
+        "text": "Fotografia",
+        "url": "https://www.ecmentarze.pl/oferta/fotografia"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://www.ecmentarze.pl/aktualnosci"
+      },
+      {
+        "text": "Do pobrania",
+        "url": "https://www.ecmentarze.pl/do-pobrania"
+      },
+      {
+        "text": "Porady prawne",
+        "url": "https://www.ecmentarze.pl/porady-prawne"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://www.ecmentarze.pl/faq"
+      },
+      {
+        "text": "Dla mediów",
+        "url": "https://www.ecmentarze.pl/dla-mediow"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.ecmentarze.pl/kontakt"
+      },
+      {
+        "text": "Polski",
+        "url": "https://ecmentarze.pl/"
+      },
+      {
+        "text": "English",
+        "url": "https://www.ecemetery.eu/en/"
+      },
+      {
+        "text": "Deutsch",
+        "url": "https://www.ecemetery.eu/de/"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Cmentarz Komunalny Zarzew w Łodzi",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz"
+      },
+      {
+        "text": "Wszystkie groby",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/all"
+      },
+      {
+        "text": "Nekrologi",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/necrologies"
+      },
+      {
+        "text": "Rocznice śmierci",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/anniversaries"
+      },
+      {
+        "text": "Wyznacz trasę",
+        "url": "https://www.google.com/maps?mode=walking&daddr=51.749628986294,19.526355008471&z=19"
+      },
+      {
+        "text": "Zobacz przykładowe realizacje",
+        "url": "https://www.ecmentarze.pl/more-cemeteries?type=ours"
+      },
+      {
+        "text": "Ś.P. Barbara Żaneta Bieniaszkiewicz 5 Rocznica śmierci 06.11.2021 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4755325"
+      },
+      {
+        "text": "Ś.P. Ludwik Stelmaszczyk 44 Rocznica śmierci 06.11.1982 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754447"
+      },
+      {
+        "text": "Ś.P. Adam Lisik 7 Rocznica śmierci 06.11.2019 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4756227"
+      },
+      {
+        "text": "Ś.P. Vel Nagoda Henryk Nagocki 40 Rocznica śmierci 06.11.1986 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4756031"
+      },
+      {
+        "text": "Ś.P. Alicja Żerek 35 Rocznica śmierci 06.11.1991 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754961"
+      },
+      {
+        "text": "Ś.P. Wacław Solarski 40 Rocznica śmierci 06.11.1986 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4756039"
+      },
+      {
+        "text": "Ś.P. Jerzy Królikowski 42 Rocznica śmierci 06.11.1984 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4756345"
+      },
+      {
+        "text": "Ś.P. Stanisław Orłowski 50 Rocznica śmierci 06.11.1976 JEZU, UFAM TOBIE",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754597"
+      },
+      {
+        "text": "Pokaż więcej",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/anniversaries"
+      },
+      {
+        "text": "",
+        "url": "https://nawigator.finansepogrzebowe.pl/?utm_source=ecmentarze&utm_medium=affiliate&utm_campaign=techstudio_2026&utm_content=kafel_cmentarze_partnerskie"
+      },
+      {
+        "text": "Powrót do listy cmentarzy",
+        "url": "https://www.ecmentarze.pl/cmentarze"
+      },
+      {
+        "text": "Zleć inwentaryzację cmentarza",
+        "url": "https://www.ecmentarze.pl/kontakt"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754422/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754422/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754422"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754424/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754424/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754424"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754426/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754426/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754426"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754428/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754428/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754428"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754430/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754430/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754430"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754432/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754432/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754432"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754434/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754434/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754434"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754435/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754435/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754435"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754437/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754437/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754437"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754439/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754439/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754439"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754441/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754441/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754441"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754443/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754443/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754443"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754445/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754445/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754445"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754447/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754447/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754447"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754449/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754449/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754449"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754450/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754450/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754450"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754453/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754453/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754453"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754455/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754455/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754455"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754456/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754456/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754456"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754458/candle"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754458/flowers"
+      },
+      {
+        "text": "Szczegóły",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4754458"
+      },
+      {
+        "text": "Pokaż więcej",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/all"
+      },
+      {
+        "text": "Obserwuj na Facebooku",
+        "url": "https://www.facebook.com/eCmentarzepl"
+      },
+      {
+        "text": "Zbiórki",
+        "url": "https://www.ecmentarze.pl/renowacje"
+      },
+      {
+        "text": "FB",
+        "url": "https://www.facebook.com/eCmentarzepl"
+      },
+      {
+        "text": "Zbiórki",
+        "url": "https://www.ecmentarze.pl/renowacje"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Regulamin serwisu",
+        "url": "https://www.ecmentarze.pl/regulamin"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "https://www.ecmentarze.pl/polityka-prywatno%C5%9Bci"
+      },
+      {
+        "text": "RODO",
+        "url": "https://www.ecmentarze.pl/rodo"
+      },
+      {
+        "text": "Mapa serwisu",
+        "url": "https://www.ecmentarze.pl/sitemap"
+      },
+      {
+        "text": "Parochialis",
+        "url": "https://www.parochialis.pl"
+      },
+      {
+        "text": "eKlepsydry",
+        "url": "https://eklepsydry.pl"
+      },
+      {
+        "text": "Do pobrania",
+        "url": "https://www.ecmentarze.pl/do-pobrania"
+      },
+      {
+        "text": "PL Wersja polska",
+        "url": "https://ecmentarze.pl/"
+      },
+      {
+        "text": "EN English version",
+        "url": "https://www.ecemetery.eu/en/"
+      },
+      {
+        "text": "DE Deutsche Version",
+        "url": "https://www.ecemetery.eu/de/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/tech.studio.dla.parafii/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/informatykadlaparafii/"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/@ecmentarze"
+      },
+      {
+        "text": "TikTok",
+        "url": "https://www.tiktok.com/@ecmentarze"
+      }
+    ]
+  },
+  {
+    "key": "czeslawa_grobonet_all",
+    "url": "https://grobonet.com/wyszukiwarka?name=Czes%C5%82awa&surname=Chmielewska",
+    "utc": "2026-11-06T12:28:12.692317+00:00",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

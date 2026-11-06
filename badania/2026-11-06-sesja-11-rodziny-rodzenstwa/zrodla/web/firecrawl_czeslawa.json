@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"conversationId\":\"05561864-a2f6-87b0-8d80-a6cfc07aaf6e\",\"success\":true,\"data\":{\"web\":[{\"url\":\"https://laski.edu.pl/wp-content/uploads/2023/03/2014-3-czasopismo-laski.pdf\",\"title\":\"[PDF] Laski 100 - Towarzystwo Opieki nad Ociemniałymi\",\"description\":\"Chmielewska jako muzykoterapeutka. • 22 maja 2013 r. – Koncert uczniów ... Czesława. 14.03 W Laskach złożyły wizytę p. Małgorzata Tusk, małżon- ka ...\",\"position\":1,\"source\":\"web\"},{\"url\":\"https://www.instagram.com/p/CPcutnuHM3r/\",\"title\":\"Nareszcie weekend. Można głębiej odetchnąć i zwolnić ... - Instagram\",\"description\":\"... Czesława Miłosza oraz materiałów archiwalnych. ... Koordynacja: Barbara Chmielewska Realizacja ... z dostępnej przestrzeni, specjalistycznych stanowisk ...\",\"position\":2,\"source\":\"web\"},{\"url\":\"https://fundacjaolgitokarczuk.org/festiwal-gory-literatury/2026/\",\"title\":\"2026 - Fundacja Olgi Tokarczuk\",\"description\":\"Helena Chmielewska-Szlajfer. Katarzyna Kwiatkowska-Moskalewicz. Piotr ... Człowiek z nadziei Andrzeja Wajdy, a w 2021 Czesława Kiszczaka w produkcji Żeby nie było ...\",\"position\":3,\"source\":\"web\"},{\"url\":\"https://www.tyczyn-bpmig.sowa.pl/index.php?KatID=0&typ=repl&plnk=__wydawca_Stowarzyszenie&sort=byscore&b=eJw9jj9uwjAcRu-SuUJJLUXiIJ0Kx-huR-aP3BQF4YgMaUmcDHRJEUKBirEMMPYG9s92fI1GHfiGN70nfc9BMAgR8lH44AFNZcvMZgasBlzaemeXB7MjssYu_7INGb34_f4ZeL3_QWSzMOncsALYXouTi2JNqDqkl1UfGZI4LEz1rUquP6nikcqZWc9-q2vZia0sFjqjkKQq5lJMYUUdi2ydSZFbEiu-lfs38z7p1hSmiWrnNwZ88lNBe1RNpo-v7lwCxvc3TwgNH0Nv_AeiEXw7\",\"title\":\"Miejska i Gminna Biblioteka Publiczna w Tyczynie - SOWA OPAC\",\"description\":\"Trąba Czesława (1948- ). (1). Turowska Teresa. (1) ... Dziecko niewidome. (1). Dziecko z niepełnosprawnością. (1) ... Chmielewska ; il. Agnieszka Ostrowska ...\",\"position\":4,\"source\":\"web\"},{\"url\":\"https://zstz-radzymin.pl/kolo-ekologiczne/\",\"title\":\"Koło ekologiczne - Zespół Szkół Techniczno - ZSTZ Radzymin\",\"description\":\"Czesława Nowaka w Radzyminie. Opublikowano: 9 września 2026 ... Wykonawcami byli: Julka Chmielewska z 1 t, Magdalena Ostrowska z 2t, Antoni ...\",\"position\":5,\"source\":\"web\"},{\"url\":\"https://www.hospicjum-podkarpackie.pl/lista-darczyncow-podziekowanie-mikolaj-2013-2/\",\"title\":\"Serdeczne Podziękowania dla Organizatorów i Uczestników ...\",\"description\":\"... Niewidomych – powiedziała Dominika Sieruta. – Instytut ten ... Czesława Chmielewska ,Ania &Darek Kida ,Wiesia & Wiesiek Chmielewski ...\",\"position\":6,\"source\":\"web\"},{\"url\":\"https://olsztyn.kbw.gov.pl/uploaded_files/1748796523_informacja-kw-i-aktualne-sklady-obkw-20250531-2007.pdf\",\"title\":\"[PDF] Komisarz Wyborczy w Olsztynie I Informacja o ... - kbw olsztyn\",\"description\":\"Emilia Chmielewska, zgłoszona przez KOMITET WYBORCZY KANDYDATA NA. PREZYDENTA ... Czesława Korwin-Piotrowska, zgłoszona przez KOMITET WYBORCZY KANDYDATA NA.\",\"position\":7,\"source\":\"web\"},{\"url\":\"https://katalog.mbp.olsztyn.pl/index.php?typ=repl&plnk=q__%2A&fauthor=Zag%C3%B3ra%20Janusz&lang=pl_PL\",\"title\":\"0 - SOWA OPAC :\",\"description\":\"Chmielewska Joanna (1932-2013). (220). Tuwim Julian (1894-1953). (217). Żeleński ... Kolejny tom dzieł Czesława Miłosza zawiera zbiór esejów powstałych w czasie ...\",\"position\":8,\"source\":\"web\"}],\"tools\":[{\"provider\":\"oriane\",\"capability\":\"instagram/post-lookup\",\"description\":\"Resolve a canonical Instagram post/video URL against Oriane's index. Instagram uses the post shortcode; TikTok uses the numeric video ID. Empty results do not trigger ingestion. Choose projection: basic 35 credits, default 50 credits, full 65 credits per nonempty call. Search limit is at most 100; URL lookup targets one record. Empty results cost zero.\"}]},\"creditsUsed\":2,\"id\":\"01a1b0c7-b727-7448-b478-ce06691c050f\",\"agent_hints\":[\"All 8 web results are excerpts only (#1 \\\"https://laski.edu.pl/wp-content/uploads/2023/03/2014-3-czasopismo-laski.pdf\\\", #2 \\\"https://www.instagram.com/p/CPcutnuHM3r/\\\", #3 \\\"https://fundacjaolgitokarczuk.org/festiwal-gory-literatury/2026/\\\" and 5 more). If you need more than an excerpt, use firecrawl_scrape with {\\\"url\\\":\\\"<one of these URLs>\\\",\\\"formats\\\":[\\\"markdown\\\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content.\"]}"
+    }
+  ],
+  "structuredContent": {
+    "success": true,
+    "data": {
+      "web": [
+        {
+          "url": "https://laski.edu.pl/wp-content/uploads/2023/03/2014-3-czasopismo-laski.pdf",
+          "title": "[PDF] Laski 100 - Towarzystwo Opieki nad Ociemniałymi",
+          "description": "Chmielewska jako muzykoterapeutka. • 22 maja 2013 r. – Koncert uczniów ... Czesława. 14.03 W Laskach złożyły wizytę p. Małgorzata Tusk, małżon- ka ...",
+          "position": 1,
+          "source": "web"
+        },
+        {
+          "url": "https://www.instagram.com/p/CPcutnuHM3r/",
+          "title": "Nareszcie weekend. Można głębiej odetchnąć i zwolnić ... - Instagram",
+          "description": "... Czesława Miłosza oraz materiałów archiwalnych. ... Koordynacja: Barbara Chmielewska Realizacja ... z dostępnej przestrzeni, specjalistycznych stanowisk ...",
+          "position": 2,
+          "source": "web"
+        },
+        {
+          "url": "https://fundacjaolgitokarczuk.org/festiwal-gory-literatury/2026/",
+          "title": "2026 - Fundacja Olgi Tokarczuk",
+          "description": "Helena Chmielewska-Szlajfer. Katarzyna Kwiatkowska-Moskalewicz. Piotr ... Człowiek z nadziei Andrzeja Wajdy, a w 2021 Czesława Kiszczaka w produkcji Żeby nie było ...",
+          "position": 3,
+          "source": "web"
+        },
+        {
+          "url": "https://www.tyczyn-bpmig.sowa.pl/index.php?KatID=0&typ=repl&plnk=__wydawca_Stowarzyszenie&sort=byscore&b=eJw9jj9uwjAcRu-SuUJJLUXiIJ0Kx-huR-aP3BQF4YgMaUmcDHRJEUKBirEMMPYG9s92fI1GHfiGN70nfc9BMAgR8lH44AFNZcvMZgasBlzaemeXB7MjssYu_7INGb34_f4ZeL3_QWSzMOncsALYXouTi2JNqDqkl1UfGZI4LEz1rUquP6nikcqZWc9-q2vZia0sFjqjkKQq5lJMYUUdi2ydSZFbEiu-lfs38z7p1hSmiWrnNwZ88lNBe1RNpo-v7lwCxvc3TwgNH0Nv_AeiEXw7",
+          "title": "Miejska i Gminna Biblioteka Publiczna w Tyczynie - SOWA OPAC",
+          "description": "Trąba Czesława (1948- ). (1). Turowska Teresa. (1) ... Dziecko niewidome. (1). Dziecko z niepełnosprawnością. (1) ... Chmielewska ; il. Agnieszka Ostrowska ...",
+          "position": 4,
+          "source": "web"
+        },
+        {
+          "url": "https://zstz-radzymin.pl/kolo-ekologiczne/",
+          "title": "Koło ekologiczne - Zespół Szkół Techniczno - ZSTZ Radzymin",
+          "description": "Czesława Nowaka w Radzyminie. Opublikowano: 9 września 2026 ... Wykonawcami byli: Julka Chmielewska z 1 t, Magdalena Ostrowska z 2t, Antoni ...",
+          "position": 5,
+          "source": "web"
+        },
+        {
+          "url": "https://www.hospicjum-podkarpackie.pl/lista-darczyncow-podziekowanie-mikolaj-2013-2/",
+          "title": "Serdeczne Podziękowania dla Organizatorów i Uczestników ...",
+          "description": "... Niewidomych – powiedziała Dominika Sieruta. – Instytut ten ... Czesława Chmielewska ,Ania &Darek Kida ,Wiesia & Wiesiek Chmielewski ...",
+          "position": 6,
+          "source": "web"
+        },
+        {
+          "url": "https://olsztyn.kbw.gov.pl/uploaded_files/1748796523_informacja-kw-i-aktualne-sklady-obkw-20250531-2007.pdf",
+          "title": "[PDF] Komisarz Wyborczy w Olsztynie I Informacja o ... - kbw olsztyn",
+          "description": "Emilia Chmielewska, zgłoszona przez KOMITET WYBORCZY KANDYDATA NA. PREZYDENTA ... Czesława Korwin-Piotrowska, zgłoszona przez KOMITET WYBORCZY KANDYDATA NA.",
+          "position": 7,
+          "source": "web"
+        },
+        {
+          "url": "https://katalog.mbp.olsztyn.pl/index.php?typ=repl&plnk=q__%2A&fauthor=Zag%C3%B3ra%20Janusz&lang=pl_PL",
+          "title": "0 - SOWA OPAC :",
+          "description": "Chmielewska Joanna (1932-2013). (220). Tuwim Julian (1894-1953). (217). Żeleński ... Kolejny tom dzieł Czesława Miłosza zawiera zbiór esejów powstałych w czasie ...",
+          "position": 8,
+          "source": "web"
+        }
+      ],
+      "tools": [
+        {
+          "provider": "oriane",
+          "capability": "instagram/post-lookup",
+          "description": "Resolve a canonical Instagram post/video URL against Oriane's index. Instagram uses the post shortcode; TikTok uses the numeric video ID. Empty results do not trigger ingestion. Choose projection: basic 35 credits, default 50 credits, full 65 credits per nonempty call. Search limit is at most 100; URL lookup targets one record. Empty results cost zero."
+        }
+      ]
+    },
+    "id": "01a1b0c7-b727-7448-b478-ce06691c050f",
+    "creditsUsed": 2,
+    "agent_hints": [
+      "All 8 web results are excerpts only (#1 \"https://laski.edu.pl/wp-content/uploads/2023/03/2014-3-czasopismo-laski.pdf\", #2 \"https://www.instagram.com/p/CPcutnuHM3r/\", #3 \"https://fundacjaolgitokarczuk.org/festiwal-gory-literatury/2026/\" and 5 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+    ],
+    "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+  },
+  "isError": false
+}

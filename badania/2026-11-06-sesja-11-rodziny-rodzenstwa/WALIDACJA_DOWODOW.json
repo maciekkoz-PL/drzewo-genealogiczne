@@ -1,0 +1,43 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T13:06:47.798088+00:00",
+  "baseline": "890fb62",
+  "sheets": 23,
+  "new_people": [
+    "P28",
+    "P29",
+    "P30",
+    "P31",
+    "P32"
+  ],
+  "new_sources": 12,
+  "new_document_and_family_relations": 6,
+  "new_events": 5,
+  "changed_prior_records": [
+    [
+      "RDZEN_RODZINY",
+      "P03"
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P05"
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      "C05"
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      "S006"
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      "S072"
+    ]
+  ],
+  "prior_relationships_and_maternal_data_preserved": true,
+  "H017_H019_H028_H030_open": true,
+  "Roman_not_assigned_as_Czesias_husband_or_sons_father": true,
+  "source_hashes_checked": 397,
+  "original_zips_unchanged": true
+}

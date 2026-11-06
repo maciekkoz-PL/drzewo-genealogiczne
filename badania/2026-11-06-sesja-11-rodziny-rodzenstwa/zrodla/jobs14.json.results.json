@@ -1,0 +1,163 @@
+[
+  {
+    "key": "czeslawa_zarzew_grave",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/grave?address=XLV-1-19",
+    "utc": "2026-11-06T12:24:44.912432+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/grave?address=XLV-1-19",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "path": "work/s11/czeslawa_zarzew_grave.html",
+    "error": "Document is empty"
+  },
+  {
+    "key": "indexes1933/022",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/022.jpg",
+    "utc": "2026-11-06T12:24:44.913302+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/022.jpg",
+    "sha256": "43082f0645df15e5a538533b6d3af48f2a3f24e87d88bd211f9d6e73d313c4ce",
+    "size": 2342911,
+    "path": "work/s11/indexes1933/022.jpg"
+  },
+  {
+    "key": "indexes1933/023",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/023.jpg",
+    "utc": "2026-11-06T12:24:44.919339+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/023.jpg",
+    "sha256": "fa3548e1b2c882123299c6982ea9c8dc1c118637df5b5c6ddce8fa5af40bd94c",
+    "size": 2113255,
+    "path": "work/s11/indexes1933/023.jpg"
+  },
+  {
+    "key": "indexes1934/025",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/025.jpg",
+    "utc": "2026-11-06T12:24:46.135113+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/025.jpg",
+    "sha256": "baaad485d57fe1ef57787caf5a4c3d8fe666d05922ecc8686789b6fcf37abdf3",
+    "size": 1939795,
+    "path": "work/s11/indexes1934/025.jpg"
+  },
+  {
+    "key": "indexes1934/026",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/026.jpg",
+    "utc": "2026-11-06T12:24:47.014968+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/026.jpg",
+    "sha256": "cae604b3dc456c15e2a1923a7d542eb61f738f9a6964ff0a375cbeaf0b1994b3",
+    "size": 1670045,
+    "path": "work/s11/indexes1934/026.jpg"
+  },
+  {
+    "key": "indexes1935/028",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/028.jpg",
+    "utc": "2026-11-06T12:24:47.237750+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/028.jpg",
+    "sha256": "c70a742b489f53fc733dace5e30fd077b153b9e295d9c0cfe8e1d7196cbe5e66",
+    "size": 2084921,
+    "path": "work/s11/indexes1935/028.jpg"
+  },
+  {
+    "key": "indexes1936/028",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/028.jpg",
+    "utc": "2026-11-06T12:24:47.398228+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/028.jpg",
+    "sha256": "0782c43aeee4a1ec2337db1bce3b9c01029e157484d5ec9958062160301a5ff2",
+    "size": 2112537,
+    "path": "work/s11/indexes1936/028.jpg"
+  },
+  {
+    "key": "indexes1936/029",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/029.jpg",
+    "utc": "2026-11-06T12:24:47.841128+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/029.jpg",
+    "sha256": "97ff198866f4eb7f6bbd52a32b2b15d07ca7db310949427d8f3c27b88b1bf964",
+    "size": 1977573,
+    "path": "work/s11/indexes1936/029.jpg"
+  },
+  {
+    "key": "indexes1937/031",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/031.jpg",
+    "utc": "2026-11-06T12:24:48.453847+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/031.jpg",
+    "sha256": "d735c659f82fb49021548eced8f82d5d2a68285af544bff13acae5953d766fca",
+    "size": 2211002,
+    "path": "work/s11/indexes1937/031.jpg"
+  },
+  {
+    "key": "indexes1937/032",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/032.jpg",
+    "utc": "2026-11-06T12:24:48.472515+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/032.jpg",
+    "sha256": "3cd7b87f839cea0eea92b28e30af40af3922299c4c1f423c4a67324a7ed3b485",
+    "size": 1976051,
+    "path": "work/s11/indexes1937/032.jpg"
+  },
+  {
+    "key": "indexes1938/026",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/026.jpg",
+    "utc": "2026-11-06T12:24:48.894997+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/026.jpg",
+    "sha256": "d1b3851a5f82b731f6b481d8dcda739855366dc97c091225211cb18519b2105b",
+    "size": 2472485,
+    "path": "work/s11/indexes1938/026.jpg"
+  },
+  {
+    "key": "indexes1938/027",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/027.jpg",
+    "utc": "2026-11-06T12:24:49.395492+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/027.jpg",
+    "sha256": "afd7f98097ae5e92eaddf20f9cb73c357e7e521ac3e95d1d647a45b9b3114622",
+    "size": 2304860,
+    "path": "work/s11/indexes1938/027.jpg"
+  },
+  {
+    "key": "indexes1943/022",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1943/022.jpg",
+    "utc": "2026-11-06T12:24:49.536921+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1943/022.jpg",
+    "sha256": "62614109fcd05e1e795b6816a8b589111b9fa23dbdf6d77545b172037fb4844b",
+    "size": 2009069,
+    "path": "work/s11/indexes1943/022.jpg"
+  },
+  {
+    "key": "indexes1943/023",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1943/023.jpg",
+    "utc": "2026-11-06T12:24:50.286742+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1943/023.jpg",
+    "sha256": "ca5846226bf9eef8bf511e48247b0ad20193e900258def446401216d9c1e1a67",
+    "size": 1862513,
+    "path": "work/s11/indexes1943/023.jpg"
+  },
+  {
+    "key": "indexes1944/027",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/027.jpg",
+    "utc": "2026-11-06T12:24:50.317480+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/027.jpg",
+    "sha256": "934816f2ebfa6f35ed462cb63f0646670fcaff0e3fb01978da96a6d86585dd4a",
+    "size": 2498360,
+    "path": "work/s11/indexes1944/027.jpg"
+  },
+  {
+    "key": "indexes1944/028",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/028.jpg",
+    "utc": "2026-11-06T12:24:50.760814+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/028.jpg",
+    "sha256": "8e5e1dc91d205b5b87f9eecfde786d143ec661e3769a0adee4a982396cd320a8",
+    "size": 2540095,
+    "path": "work/s11/indexes1944/028.jpg"
+  }
+]

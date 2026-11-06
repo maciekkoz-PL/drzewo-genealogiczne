@@ -1,0 +1,17 @@
+arrow_circle_left
+login
+info
+zoom_in
+zoom_out
+rotate_left
+rotate_right
+light_mode
+restore
+bug_report
+BETA
+v1.8.1
+fullscreen
+link
+dataset_linked
+grid_view
+download

@@ -1,0 +1,151 @@
+[
+  {
+    "key": "emilia_birth",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST",
+    "parameters": {
+      "urodz": "1",
+      "parafia": "",
+      "nazwisko": "Chmielew",
+      "imie": "Emilia",
+      "rok_od": "1902",
+      "rok_do": "1905",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "utc": "2026-11-06T12:15:00.090102+00:00",
+    "status": 200,
+    "size": 303263,
+    "sha256": "4c216bdf74c4ae3a84e16fa0aeb1bdc2442ee24f310e8a931bd267cc0562d2b9",
+    "matches": [
+      {
+        "cells": [
+          "Chmielewska",
+          "Emilia",
+          "Rachanie",
+          "22",
+          "1904",
+          "zm. 27.02.1979 r., USC Tomaszów Lub."
+        ],
+        "links": [
+          [
+            "",
+            "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/10504033"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "key": "julia_death",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST",
+    "parameters": {
+      "zgony": "1",
+      "parafia": "",
+      "nazwisko": "Chmielew",
+      "imie": "Julia",
+      "rok_od": "1901",
+      "rok_do": "1905",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "utc": "2026-11-06T12:15:01.664058+00:00",
+    "status": 200,
+    "size": 303975,
+    "sha256": "009abc9da05e57e5f3ce7cda5c28bf092de056b7cedb07f2c364fea6c38817c8",
+    "matches": [
+      {
+        "cells": [
+          "Chmielewska",
+          "Julianna",
+          "Garbów",
+          "72",
+          "1902",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://szukajwarchiwach.gov.pl/skan/-/skan/64a3c8f930eeb60af354f43f0251f8515ddeddefc23f8be8baa782542492db73"
+          ]
+        ]
+      },
+      {
+        "cells": [
+          "Chmielewska",
+          "Julianna",
+          "Rachanie",
+          "16",
+          "1905",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/10503949"
+          ]
+        ]
+      },
+      {
+        "cells": [
+          "Chmielewska",
+          "Julia",
+          "Tomaszów Lub.",
+          "240",
+          "1905",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/10504982"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "key": "wincenty_death",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST",
+    "parameters": {
+      "zgony": "1",
+      "parafia": "",
+      "nazwisko": "Chmielew",
+      "imie": "Wincenty",
+      "rok_od": "1919",
+      "rok_do": "1932",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "utc": "2026-11-06T12:15:02.381300+00:00",
+    "status": 200,
+    "size": 303358,
+    "sha256": "46b6394b0285833f14ed05e9a7b3271afbf58f2f069b108651360ecca1351b4d",
+    "matches": [
+      {
+        "cells": [
+          "Chmielewski",
+          "Wincenty",
+          "Lublin (św. Pawła)",
+          "208",
+          "1921",
+          "lat: 62, O: Feliks Chmielewski, M: Agnieszka Dados, mąż/żona: Petronela Kańczugowska"
+        ],
+        "links": [
+          [
+            "",
+            "https://familysearch.org/pal:/MM9.3.1/TH-1-11970-15534-93"
+          ]
+        ]
+      }
+    ]
+  }
+]

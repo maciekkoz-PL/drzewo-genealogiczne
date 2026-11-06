@@ -1,0 +1,314 @@
+[
+  {
+    "key": "sample1933/020",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/020-me.jpg",
+    "utc": "2026-11-06T12:22:14.006986+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/020-me.jpg",
+    "sha256": "67c8b6fdd9886ec606da219cc7d65596b9716525d0e9d1d51d7067c1f6f7fbc1",
+    "size": 205508,
+    "path": "work/s11/sample1933/020.jpg"
+  },
+  {
+    "key": "sample1933/024",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/024-me.jpg",
+    "utc": "2026-11-06T12:22:14.007820+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/024-me.jpg",
+    "sha256": "bb17feed2a422853b55b194ac5ce93c05dcf12e35042f2f6ef071f7d28e33bdc",
+    "size": 128988,
+    "path": "work/s11/sample1933/024.jpg"
+  },
+  {
+    "key": "sample1933/028",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/028-me.jpg",
+    "utc": "2026-11-06T12:22:14.010224+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1933/028-me.jpg",
+    "sha256": "e157c14a543f20791e505b9e5c54a8d2dd877205d960a79bf42e79f779118acd",
+    "size": 204353,
+    "path": "work/s11/sample1933/028.jpg"
+  },
+  {
+    "key": "sample1934/020",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/020-me.jpg",
+    "utc": "2026-11-06T12:22:15.236711+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/020-me.jpg",
+    "sha256": "27ce9ae36e6f2ff036f6b6b68442c1916e2c6553f7e1501f8f6ae6f48d51b988",
+    "size": 207199,
+    "path": "work/s11/sample1934/020.jpg"
+  },
+  {
+    "key": "sample1934/024",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/024-me.jpg",
+    "utc": "2026-11-06T12:22:15.244321+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/024-me.jpg",
+    "sha256": "a044fbd2efb615c8137583d121ef5d7e961a5866ea7f0246016d5a10f06ff67c",
+    "size": 209158,
+    "path": "work/s11/sample1934/024.jpg"
+  },
+  {
+    "key": "sample1934/028",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/028-me.jpg",
+    "utc": "2026-11-06T12:22:15.326230+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1934/028-me.jpg",
+    "sha256": "171624a204fee246d2a201d896b5626fea47d73a26d31e7759a5cea81e58f949",
+    "size": 186056,
+    "path": "work/s11/sample1934/028.jpg"
+  },
+  {
+    "key": "sample1935/020",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/020-me.jpg",
+    "utc": "2026-11-06T12:22:15.597980+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/020-me.jpg",
+    "sha256": "4f5592ff08d589fe2cb036814d19c53e6bc26ee557037c47434aa626ffbd5e6d",
+    "size": 192018,
+    "path": "work/s11/sample1935/020.jpg"
+  },
+  {
+    "key": "sample1935/024",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/024-me.jpg",
+    "utc": "2026-11-06T12:22:15.661837+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/024-me.jpg",
+    "sha256": "df168cdd53ecd2034cc6c2334cca4ba603b0a202a83835bf33580a0380d65325",
+    "size": 196591,
+    "path": "work/s11/sample1935/024.jpg"
+  },
+  {
+    "key": "sample1935/028",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/028-me.jpg",
+    "utc": "2026-11-06T12:22:15.704015+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1935/028-me.jpg",
+    "sha256": "d1917893396786c604939c8d62d21b7c5a21bf941abfb45c7b753a91b34117b0",
+    "size": 170007,
+    "path": "work/s11/sample1935/028.jpg"
+  },
+  {
+    "key": "sample1936/020",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/020-me.jpg",
+    "utc": "2026-11-06T12:22:15.994288+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/020-me.jpg",
+    "sha256": "7e44e962bf93af9689dc3b11a0e2a824e2c9683e1495a05bb850eb5405982648",
+    "size": 203193,
+    "path": "work/s11/sample1936/020.jpg"
+  },
+  {
+    "key": "sample1936/024",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/024-me.jpg",
+    "utc": "2026-11-06T12:22:16.061452+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/024-me.jpg",
+    "sha256": "d3e5c589c458cb8498c07b1ab4b3948e315b0b4e078999dc6bdbd1f85b0e4ea6",
+    "size": 187484,
+    "path": "work/s11/sample1936/024.jpg"
+  },
+  {
+    "key": "sample1936/028",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/028-me.jpg",
+    "utc": "2026-11-06T12:22:16.187090+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1936/028-me.jpg",
+    "sha256": "99b04dbfe2a11c819ef3c196df11d0f842ebab1f45af40d235cf7b1ffd9eab2d",
+    "size": 184650,
+    "path": "work/s11/sample1936/028.jpg"
+  },
+  {
+    "key": "sample1937/020",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/020-me.jpg",
+    "utc": "2026-11-06T12:22:16.305484+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/020-me.jpg",
+    "sha256": "fab1bd1c09552c9ebc51a54ff6bda116a3fa9d669c6783e28b21b5b6c455b327",
+    "size": 189644,
+    "path": "work/s11/sample1937/020.jpg"
+  },
+  {
+    "key": "sample1937/024",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/024-me.jpg",
+    "utc": "2026-11-06T12:22:16.418938+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/024-me.jpg",
+    "sha256": "295abf7499b9378ae65d4c900314138ec02839b51bbeaf7c81fbae57c05b0a90",
+    "size": 192175,
+    "path": "work/s11/sample1937/024.jpg"
+  },
+  {
+    "key": "sample1937/028",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/028-me.jpg",
+    "utc": "2026-11-06T12:22:16.567817+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1937/028-me.jpg",
+    "sha256": "f9284d96b4b53c64621dae852e525a32e9c885d17ce9e08821f98877d089a18e",
+    "size": 183757,
+    "path": "work/s11/sample1937/028.jpg"
+  },
+  {
+    "key": "sample1938/020",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/020-me.jpg",
+    "utc": "2026-11-06T12:22:16.737835+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/020-me.jpg",
+    "sha256": "b1130e10234ee3410ed420174776b5e3a57b3c3da6419cd5db0463f7ee626afa",
+    "size": 209524,
+    "path": "work/s11/sample1938/020.jpg"
+  },
+  {
+    "key": "sample1938/024",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/024-me.jpg",
+    "utc": "2026-11-06T12:22:16.854358+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/024-me.jpg",
+    "sha256": "122c0c530b18a30b187c1233db22d369414d510a171a4d10e0f1bfeb0752b85a",
+    "size": 208158,
+    "path": "work/s11/sample1938/024.jpg"
+  },
+  {
+    "key": "sample1938/028",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/028-me.jpg",
+    "utc": "2026-11-06T12:22:16.919213+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1938/028-me.jpg",
+    "sha256": "f35127203e1a8fa07a6982b2c2e8abb1f3474b058fcf8fed5b2be5f17daf54f8",
+    "size": 122785,
+    "path": "work/s11/sample1938/028.jpg"
+  },
+  {
+    "key": "szczurek_month_01",
+    "url": "https://jozefszczurek.pl/kh01.html",
+    "utc": "2026-11-06T12:22:17.241847+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh01.html",
+    "sha256": "b393e0c23c6f840973329a9f1cd8e54d816acdb9ae7b80ddbc0d4ae4d3d54cb0",
+    "size": 217508,
+    "path": "work/s11/szczurek_month_01.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_02",
+    "url": "https://jozefszczurek.pl/kh02.html",
+    "utc": "2026-11-06T12:22:17.270365+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh02.html",
+    "sha256": "227a85a1dade56948fd4b329d27abb510e6312ce5bc4e7a3a576603a5e09aef9",
+    "size": 201156,
+    "path": "work/s11/szczurek_month_02.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_03",
+    "url": "https://jozefszczurek.pl/kh03.html",
+    "utc": "2026-11-06T12:22:17.311005+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh03.html",
+    "sha256": "8131e104ef8e3251308f849057067ada5eaa27790d4a7fb66313ee088386fba1",
+    "size": 187054,
+    "path": "work/s11/szczurek_month_03.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_04",
+    "url": "https://jozefszczurek.pl/kh04.html",
+    "utc": "2026-11-06T12:22:18.523244+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh04.html",
+    "sha256": "fab0278b2ba851f3788648f53fa4ff9b21e599750cb64563b77109d1542d9a91",
+    "size": 178468,
+    "path": "work/s11/szczurek_month_04.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_05",
+    "url": "https://jozefszczurek.pl/kh05.html",
+    "utc": "2026-11-06T12:22:18.766070+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh05.html",
+    "sha256": "8d06575a93fff256a03ada39112c127b2c8fead0a15387b4a40c4bb78bbf7183",
+    "size": 182406,
+    "path": "work/s11/szczurek_month_05.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_06",
+    "url": "https://jozefszczurek.pl/kh06.html",
+    "utc": "2026-11-06T12:22:18.774335+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh06.html",
+    "sha256": "5ad333fa0181cc5cbcdaaa58ca6ea5fef3f7b941588c637e7527be51ec76e4f0",
+    "size": 209012,
+    "path": "work/s11/szczurek_month_06.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_07",
+    "url": "https://jozefszczurek.pl/kh07.html",
+    "utc": "2026-11-06T12:22:18.988336+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh07.html",
+    "sha256": "c90e87bacd5e96d61d02cec9a6e5132ce5de73b6e48815272dc0e11e642f4c45",
+    "size": 206760,
+    "path": "work/s11/szczurek_month_07.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_08",
+    "url": "https://jozefszczurek.pl/kh08.html",
+    "utc": "2026-11-06T12:22:19.302377+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh08.html",
+    "sha256": "262505b951550836303d3b1ce2ea1a33a73d27e8291ab4f035b02a0e27e757e5",
+    "size": 178978,
+    "path": "work/s11/szczurek_month_08.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_09",
+    "url": "https://jozefszczurek.pl/kh09.html",
+    "utc": "2026-11-06T12:22:19.446782+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh09.html",
+    "sha256": "e9d33ed6c57544bfdf2d6ddf8fd9b6d98390ce9c4e2415035f46eb48aa0b36a4",
+    "size": 202462,
+    "path": "work/s11/szczurek_month_09.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_10",
+    "url": "https://jozefszczurek.pl/kh10.html",
+    "utc": "2026-11-06T12:22:19.607312+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh10.html",
+    "sha256": "1348f871c4e50837ae3cfce8544f14d806b1d6f70420e09a09615e86df8b4ece",
+    "size": 193684,
+    "path": "work/s11/szczurek_month_10.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_11",
+    "url": "https://jozefszczurek.pl/kh11.html",
+    "utc": "2026-11-06T12:22:19.998293+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh11.html",
+    "sha256": "e1ab5aa88e1dfe612ba0c54e459d9b2ae4635751850ba8860a6bd03574912113",
+    "size": 201424,
+    "path": "work/s11/szczurek_month_11.html",
+    "links": []
+  },
+  {
+    "key": "szczurek_month_12",
+    "url": "https://jozefszczurek.pl/kh12.html",
+    "utc": "2026-11-06T12:22:20.122229+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/kh12.html",
+    "sha256": "e9677cbec39832f0eee648a64ef68d4d329506cdbb45b39509c28b7d407b522b",
+    "size": 197608,
+    "path": "work/s11/szczurek_month_12.html",
+    "links": []
+  }
+]

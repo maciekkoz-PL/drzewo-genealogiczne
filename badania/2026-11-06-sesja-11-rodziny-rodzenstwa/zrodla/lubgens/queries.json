@@ -1,0 +1,245 @@
+[
+  {
+    "key": "julianna_marriages",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST",
+    "parameters": {
+      "sluby": "1",
+      "parafia": "",
+      "nazwisko": "Chmielew",
+      "imie": "Julianna",
+      "rok_od": "1923",
+      "rok_do": "1970",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "utc": "2026-11-06T12:09:14.872804+00:00",
+    "status": 200,
+    "size": 304228,
+    "sha256": "5c91fa3c834da7ab3f754636d8a71482726f21a070977143430aef65fcb41770",
+    "matches": [
+      {
+        "cells": [
+          "Kaczor",
+          "Kazimierz",
+          "Chmielewska",
+          "Julianna",
+          "Wożuczyn",
+          "29",
+          "1924",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://fotolubgens.lubgens.eu/picture.php?/324070/category/5159"
+          ]
+        ]
+      },
+      {
+        "cells": [
+          "Pochroń",
+          "Bronisław",
+          "Chmielewska",
+          "Julianna",
+          "Garbów",
+          "26",
+          "1932",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://familysearch.org/pal:/MM9.3.1/TH-1-11880-96620-31"
+          ]
+        ]
+      },
+      {
+        "cells": [
+          "Biesaga",
+          "Kazimierz",
+          "Chmielewska",
+          "Julianna Janina",
+          "Hrubieszów",
+          "12",
+          "1939",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://fotolubgens.lubgens.eu/picture.php?/367562/category/5903"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "key": "sabina_marriages",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST",
+    "parameters": {
+      "sluby": "1",
+      "parafia": "",
+      "nazwisko": "Chmielew",
+      "imie": "Sabina",
+      "rok_od": "1933",
+      "rok_do": "1970",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "utc": "2026-11-06T12:09:16.504727+00:00",
+    "status": 200,
+    "size": 303368,
+    "sha256": "1ce3861dc1fa0765cc52b5d5822b5bb973f14b86ab693352526ef5a3398b6269",
+    "matches": [
+      {
+        "cells": [
+          "Gardzisz",
+          "Adam",
+          "Chmielewska",
+          "Sabina",
+          "Zaklików (Dekanat Zaklików)",
+          "9",
+          "1933",
+          "On- O: Jan, M: Katarzyna Wieprzek; Ona- O: Antoni, M: Rozalia zd. Miękina, Lipa On - 21 lat, Ona - 22 lat. data: 4 lutego"
+        ],
+        "links": []
+      }
+    ]
+  },
+  {
+    "key": "roman_marriages",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST",
+    "parameters": {
+      "sluby": "1",
+      "parafia": "",
+      "nazwisko": "Chmielew",
+      "imie": "Roman",
+      "rok_od": "1935",
+      "rok_do": "1970",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "utc": "2026-11-06T12:09:17.893039+00:00",
+    "status": 200,
+    "size": 302731,
+    "sha256": "bb91241faec303dc0502fef10085645d703e4ce2df4a12cdf7c24b500ac1d30a",
+    "matches": []
+  },
+  {
+    "key": "julia_marriages",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST",
+    "parameters": {
+      "sluby": "1",
+      "parafia": "",
+      "nazwisko": "Chmielew",
+      "imie": "Julia",
+      "rok_od": "1923",
+      "rok_do": "1970",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "utc": "2026-11-06T12:09:18.834770+00:00",
+    "status": 200,
+    "size": 305029,
+    "sha256": "9dfece3da2bf575b3e615f813073e26bc446169e6b4d4c3ddd803b9d9ffdffda",
+    "matches": [
+      {
+        "cells": [
+          "Kaczor",
+          "Kazimierz",
+          "Chmielewska",
+          "Julianna",
+          "Wożuczyn",
+          "29",
+          "1924",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://fotolubgens.lubgens.eu/picture.php?/324070/category/5159"
+          ]
+        ]
+      },
+      {
+        "cells": [
+          "Chmielewski",
+          "Józef",
+          "Pomarańska",
+          "Julia",
+          "Krasnystaw",
+          "29",
+          "1925",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://familysearch.org/ark:/61903/3:1:9396-71SB-3X?i=356&wc=M6Z7-8TG%3A171054801%2C180163401%2C180647302%3Fcc%3D1867931&cc=1867933"
+          ]
+        ]
+      },
+      {
+        "cells": [
+          "Kułaga",
+          "Jan",
+          "Chmielewska",
+          "Julia",
+          "Siennica Różana",
+          "2",
+          "1928",
+          ""
+        ],
+        "links": []
+      },
+      {
+        "cells": [
+          "Pochroń",
+          "Bronisław",
+          "Chmielewska",
+          "Julianna",
+          "Garbów",
+          "26",
+          "1932",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://familysearch.org/pal:/MM9.3.1/TH-1-11880-96620-31"
+          ]
+        ]
+      },
+      {
+        "cells": [
+          "Biesaga",
+          "Kazimierz",
+          "Chmielewska",
+          "Julianna Janina",
+          "Hrubieszów",
+          "12",
+          "1939",
+          ""
+        ],
+        "links": [
+          [
+            "",
+            "https://fotolubgens.lubgens.eu/picture.php?/367562/category/5903"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "key": "geneteka/07mz_julianna_1923_1930",
+    "url": "https://geneteka.genealodzy.pl/api/getAct.php?draw=1&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=8&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=true&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B9%5D%5Bdata%5D=9&columns%5B9%5D%5Bsearchable%5D=false&columns%5B9%5D%5Borderable%5D=false&columns%5B9%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B1%5D%5Bcolumn%5D=1&order%5B1%5D%5Bdir%5D=asc&order%5B2%5D%5Bcolumn%5D=2&order%5B2%5D%5Bdir%5D=asc&start=0&length=50&search%5Bregex%5D=false&op=gt&lang=pol&bdm=S&w=07mz&rid=S&search_lastname=Chmielewska&search_name=Julianna&from_date=1923&to_date=1930&search_lastname2=&search_name2=&pair=&search%5Bvalue%5D=&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B9%5D%5Bname%5D=&columns%5B9%5D%5Bsearch%5D%5Bvalue%5D=",
+    "utc": "2026-11-06T12:31:02.257119+00:00",
+    "status": 200,
+    "final_url": "https://geneteka.genealodzy.pl/api/getAct.php?draw=1&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=8&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=true&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B9%5D%5Bdata%5D=9&columns%5B9%5D%5Bsearchable%5D=false&columns%5B9%5D%5Borderable%5D=false&columns%5B9%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B1%5D%5Bcolumn%5D=1&order%5B1%5D%5Bdir%5D=asc&order%5B2%5D%5Bcolumn%5D=2&order%5B2%5D%5Bdir%5D=asc&start=0&length=50&search%5Bregex%5D=false&op=gt&lang=pol&bdm=S&w=07mz&rid=S&search_lastname=Chmielewska&search_name=Julianna&from_date=1923&to_date=1930&search_lastname2=&search_name2=&pair=&search%5Bvalue%5D=&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B9%5D%5Bname%5D=&columns%5B9%5D%5Bsearch%5D%5Bvalue%5D=",
+    "sha256": "cf424a3fc5354fa15101bb4e82cec1a269b511581f5a070ecbac75c16807dfbf",
+    "size": 5740,
+    "path": "work/s11/geneteka/07mz_julianna_1923_1930.html",
+    "links": [
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Grzanecki_Wojciech\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/metryki.genealodzy.pl\\/index.php?op=pg&id=29&se=&sy=1923&kt=2&plik=022-023.jpg&zoom=4.75\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1923,\"26\",\"Piotr \",\"Chmielewski\",\"Micha\\u0142, Julianna Milewska\",\"Zofia \",\"Milewska\",\"Antoni, J\\u00f3zefa Napolska\",\"\\u017burominek (\\u017buromin Kapitulny)\",\"<\\/span><\\/a><\\/a><\\/a>\"],[1924,\"1\",\"Jan \",\"Chmielewski\",\"J\\u00f3zef, Julianna Szyma\\u0144ska\",\"Jadwiga Wanda\",\"Chmieli\\u0144ska\",\"Teofil, Julianna Chmieli\\u0144ska\",\"Krzynow\\u0142oga Ma\\u0142a\",\"<\\/a><\\/a><\\/a>\"],[1924,\"8\",\"Marian Jan\",\"Chmielewski\",\"W\\u0142adys\\u0142aw, Stanis\\u0142awa Ufnal\",\"Julia \",\"Pe\\u0142ka\",\"Franciszek, J\\u00f3zefa Czy\\u017cewska\",\"Dobre\",\"<\\/a><\\/a><\\/a>\"],[1924,\"34\",\"Jan \",\"Trzci\\u0144ski\",\"Bernard, Anna Przasnyska\",\"Michalina \",\"Chmielewska\",\"Micha\\u0142, Julianna Milewska\",\"M\\u0142awa W\\u00f3lka\",\"<\\/a><\\/a>\"],[1924,\"36\",\"Jan \",\"Kornatowski\",\"Andrzej, Paulina D\\u0105browska\",\"Stanis\\u0142awa \",\"Rudzi\\u0144ska\",\"jakub, Julianna Chmieli\\u0144ska\",\"Grudusk\",\"<\\/a><\\/a><\\/a>\"],[1925,\"17\",\"Stanis\\u0142aw \",\"Nowacki\",\"Szymon, Anastazja So\\u0142tys\",\"J\\u00f3zefa \",\"Chmielewska\",\"\\u0141ukasz, Julianna Siczek\",\"Kuczki\",\"<\\/a><\\/a><\\/a>\"]],\"parishes\":[]}",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4737781&bdm=S&w=07mz&rid=1633&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=mlawiak\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/metryki.genealodzy.pl\\/id927-sy1923-kt2\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1924,\"1\",\"Jan \",\"Chmielewski\",\"J\\u00f3zef, Julianna Szyma\\u0144ska\",\"Jadwiga Wanda\",\"Chmieli\\u0144ska\",\"Teofil, Julianna Chmieli\\u0144ska\",\"Krzynow\\u0142oga Ma\\u0142a\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4674199&bdm=S&w=07mz&rid=869&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Izabela_Czaplicka\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/metryki.genealodzy.pl\\/id1572-sy1924-kt2\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1924,\"8\",\"Marian Jan\",\"Chmielewski\",\"W\\u0142adys\\u0142aw, Stanis\\u0142awa Ufnal\",\"Julia \",\"Pe\\u0142ka\",\"Franciszek, J\\u00f3zefa Czy\\u017cewska\",\"Dobre\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4700649&bdm=S&w=07mz&rid=58&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"http:\\/\\/www.diecezja.waw.pl\\/3374\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=MarylaW.\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1924,\"34\",\"Jan \",\"Trzci\\u0144ski\",\"Bernard, Anna Przasnyska\",\"Michalina \",\"Chmielewska\",\"Micha\\u0142, Julianna Milewska\",\"M\\u0142awa W\\u00f3lka\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=3180284&bdm=S&w=07mz&rid=782&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Izabela_Czaplicka\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1924,\"36\",\"Jan \",\"Kornatowski\",\"Andrzej, Paulina D\\u0105browska\",\"Stanis\\u0142awa \",\"Rudzi\\u0144ska\",\"jakub, Julianna Chmieli\\u0144ska\",\"Grudusk\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=2739785&bdm=S&w=07mz&rid=5146&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.warszawa.ap.gov.pl\\/p,95,mlawa\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Izabela_Czaplicka\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1925,\"17\",\"Stanis\\u0142aw \",\"Nowacki\",\"Szymon, Anastazja So\\u0142tys\",\"J\\u00f3zefa \",\"Chmielewska\",\"\\u0141ukasz, Julianna Siczek\",\"Kuczki\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4259096&bdm=S&w=07mz&rid=36&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Mikolaj_Wilk\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.familysearch.org\\/ark:\\/61903\\/3:1:939V-4R9V-LN?i=115&wc=9R1Q-MNP%3A21713001%2C22088901%2C22157201&cc=1407440\\\""
+      },
+      {
+        "text": "<\\/a>\"]],\"parishes\":[]}",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4111931&bdm=S&w=07mz&rid=5858&lang=pol\\\""
+      }
+    ]
+  },
+  {
+    "key": "geneteka/07mz_julianna_1931_1970",
+    "url": "https://geneteka.genealodzy.pl/api/getAct.php?draw=1&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=8&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=true&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B9%5D%5Bdata%5D=9&columns%5B9%5D%5Bsearchable%5D=false&columns%5B9%5D%5Borderable%5D=false&columns%5B9%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B1%5D%5Bcolumn%5D=1&order%5B1%5D%5Bdir%5D=asc&order%5B2%5D%5Bcolumn%5D=2&order%5B2%5D%5Bdir%5D=asc&start=0&length=50&search%5Bregex%5D=false&op=gt&lang=pol&bdm=S&w=07mz&rid=S&search_lastname=Chmielewska&search_name=Julianna&from_date=1931&to_date=1970&search_lastname2=&search_name2=&pair=&search%5Bvalue%5D=&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B9%5D%5Bname%5D=&columns%5B9%5D%5Bsearch%5D%5Bvalue%5D=",
+    "utc": "2026-11-06T12:31:02.262096+00:00",
+    "status": 200,
+    "final_url": "https://geneteka.genealodzy.pl/api/getAct.php?draw=1&columns%5B0%5D%5Bdata%5D=0&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=true&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=1&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=true&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=2&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=true&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=3&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=true&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=4&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=true&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=5&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=true&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=6&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=true&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B7%5D%5Bdata%5D=7&columns%5B7%5D%5Bsearchable%5D=true&columns%5B7%5D%5Borderable%5D=true&columns%5B7%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B8%5D%5Bdata%5D=8&columns%5B8%5D%5Bsearchable%5D=true&columns%5B8%5D%5Borderable%5D=true&columns%5B8%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B9%5D%5Bdata%5D=9&columns%5B9%5D%5Bsearchable%5D=false&columns%5B9%5D%5Borderable%5D=false&columns%5B9%5D%5Bsearch%5D%5Bregex%5D=false&order%5B0%5D%5Bcolumn%5D=0&order%5B0%5D%5Bdir%5D=asc&order%5B1%5D%5Bcolumn%5D=1&order%5B1%5D%5Bdir%5D=asc&order%5B2%5D%5Bcolumn%5D=2&order%5B2%5D%5Bdir%5D=asc&start=0&length=50&search%5Bregex%5D=false&op=gt&lang=pol&bdm=S&w=07mz&rid=S&search_lastname=Chmielewska&search_name=Julianna&from_date=1931&to_date=1970&search_lastname2=&search_name2=&pair=&search%5Bvalue%5D=&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B7%5D%5Bname%5D=&columns%5B7%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B8%5D%5Bname%5D=&columns%5B8%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B9%5D%5Bname%5D=&columns%5B9%5D%5Bsearch%5D%5Bvalue%5D=",
+    "sha256": "fca6052e3fd954bf332f354e18c211d2e6bdf899fa26a85eddbedc843d39a1f5",
+    "size": 3985,
+    "path": "work/s11/geneteka/07mz_julianna_1931_1970.html",
+    "links": [
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"http:\\/\\/archiwum.mkw.pl\\/\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Kaczmarek_Aneta\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/metryki.genealodzy.pl\\/id2468-sy4535-kt1\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1932,\"1\",\"Stanis\\u0142aw \",\"Gadomski\",\"Stefan, Katarzyna \\u017byra\",\"Aleksandra \",\"Chmieli\\u0144ska\",\"Piotr, Julia \\u017bebrowska\",\"Krzynow\\u0142oga Ma\\u0142a\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4389498&bdm=S&w=07mz&rid=1269&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Incognito\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/metryki.genealodzy.pl\\/id1572-sy1932-kt2\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1932,\"3\",\"Stanis\\u0142aw \",\"Wiewi\\u00f3r\",\"\",\"Serafina Julianna\",\"Chmielewska\",\"\",\"Pep\\u0142owo (mariawici)\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4700388&bdm=S&w=07mz&rid=58&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Tomek_Bogiel\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1932,\"17\",\"Jan \",\"Chodzi\\u0144ski\",\"Szczepan, Rozalia Chrz\\u0105szcz\",\"Michalina Marianna\",\"Chmielewska\",\"J\\u00f3zef, Julianna Szyma\\u0144ska\",\"Krzynow\\u0142oga Ma\\u0142a\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4421283&bdm=S&w=07mz&rid=14320&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=Incognito\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/metryki.genealodzy.pl\\/id1572-sy1932-kt2\\\""
+      },
+      {
+        "text": "<\\/a>\"],[1932,\"26\",\"Stefan \",\"Baran\",\"J\\u00f3zef, Juljanna Chmielewska\",\"Katarzyna \",\"Opiela\",\"Franciszek, Teofila J\\u0119dra\",\"Zwole\\u0144\",\"",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=4700404&bdm=S&w=07mz&rid=58&lang=pol\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/www.genealodzy.pl\\/user.php?op=userinfo&uname=bazie\\\""
+      },
+      {
+        "text": "<\\/a>",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"https:\\/\\/familysearch.org\\/ark:\\/61903\\/3:1:939V-4WZT-Z\\\""
+      },
+      {
+        "text": "<\\/a>\"]],\"parishes\":[]}",
+        "url": "https://geneteka.genealodzy.pl/api/\\\"fix.php?gid=3087462&bdm=S&w=07mz&rid=5806&lang=pol\\\""
+      }
+    ]
+  },
+  {
+    "key": "ecmentarze_czeslawa_detail",
+    "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762340",
+    "utc": "2026-11-06T12:31:02.264327+00:00",
+    "status": 200,
+    "final_url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762340",
+    "sha256": "84324360f696286bdd1ccc3971b6bb7d6e9a3ad085a47dd51e6d178592cd7eae",
+    "size": 168467,
+    "path": "work/s11/ecmentarze_czeslawa_detail.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Znane osoby",
+        "url": "https://www.ecmentarze.pl/znane-osoby"
+      },
+      {
+        "text": "Inwentaryzacja",
+        "url": "https://www.ecmentarze.pl/oferta/inwentaryzacja"
+      },
+      {
+        "text": "Wydruki",
+        "url": "https://www.ecmentarze.pl/oferta/wydruki"
+      },
+      {
+        "text": "Fotografia",
+        "url": "https://www.ecmentarze.pl/oferta/fotografia"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://www.ecmentarze.pl/aktualnosci"
+      },
+      {
+        "text": "Do pobrania",
+        "url": "https://www.ecmentarze.pl/do-pobrania"
+      },
+      {
+        "text": "Porady prawne",
+        "url": "https://www.ecmentarze.pl/porady-prawne"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://www.ecmentarze.pl/faq"
+      },
+      {
+        "text": "Dla mediów",
+        "url": "https://www.ecmentarze.pl/dla-mediow"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.ecmentarze.pl/kontakt"
+      },
+      {
+        "text": "Polski",
+        "url": "https://ecmentarze.pl/"
+      },
+      {
+        "text": "English",
+        "url": "https://www.ecemetery.eu/en/"
+      },
+      {
+        "text": "Deutsch",
+        "url": "https://www.ecemetery.eu/de/"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Cmentarz Komunalny Zarzew w Łodzi",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz"
+      },
+      {
+        "text": "Wszystkie groby",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/all"
+      },
+      {
+        "text": "Nekrologi",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/necrologies"
+      },
+      {
+        "text": "Rocznice śmierci",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/anniversaries"
+      },
+      {
+        "text": "Wyznacz trasę",
+        "url": "https://www.google.com/maps?mode=walking&daddr=51.749628986294,19.526355008471&z=19"
+      },
+      {
+        "text": "Zobacz przykładowe realizacje",
+        "url": "https://www.ecmentarze.pl/more-cemeteries?type=ours"
+      },
+      {
+        "text": "Powrót do strony głównej",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz"
+      },
+      {
+        "text": "Grób po lewej",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762339?&inRow=true"
+      },
+      {
+        "text": "Grób po prawej",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762342?&inRow=true"
+      },
+      {
+        "text": "Firmy branży pogrzebowej w okolicy",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/companies"
+      },
+      {
+        "text": "Zapal eZnicz",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762340/candle#top"
+      },
+      {
+        "text": "Złóż eKwiaty",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762340/flowers#top"
+      },
+      {
+        "text": "Zamów tabliczkę pamięci",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762340/memorial/plans#top"
+      },
+      {
+        "text": "Dodaj zdjęcie grobu",
+        "url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4762340/memorial/plans#top"
+      },
+      {
+        "text": "Ubezpiecz nagrobek Cena ubezpieczenia od 100 zł Wyceń",
+        "url": "https://www.ecmentarze.pl/ubezpiecz-nagrobek?grave=4762340"
+      },
+      {
+        "text": "",
+        "url": "https://nawigator.finansepogrzebowe.pl/?utm_source=ecmentarze&utm_medium=affiliate&utm_campaign=techstudio_2026&utm_content=kafel_cmentarze_partnerskie"
+      },
+      {
+        "text": "Zleć inwentaryzację cmentarza",
+        "url": "https://www.ecmentarze.pl/kontakt"
+      },
+      {
+        "text": "Twoja lista grobów.",
+        "url": "https://www.ecmentarze.pl/moje-groby/rejestracja"
+      },
+      {
+        "text": "Nie pamiętasz hasła?",
+        "url": "https://www.ecmentarze.pl/moje-groby/haslo"
+      },
+      {
+        "text": "Załóż je tutaj",
+        "url": "https://www.ecmentarze.pl/moje-groby/rejestracja?grave=4762340"
+      },
+      {
+        "text": "Obserwuj na Facebooku",
+        "url": "https://www.facebook.com/eCmentarzepl"
+      },
+      {
+        "text": "Zbiórki",
+        "url": "https://www.ecmentarze.pl/renowacje"
+      },
+      {
+        "text": "FB",
+        "url": "https://www.facebook.com/eCmentarzepl"
+      },
+      {
+        "text": "Zbiórki",
+        "url": "https://www.ecmentarze.pl/renowacje"
+      },
+      {
+        "text": "",
+        "url": "https://www.ecmentarze.pl"
+      },
+      {
+        "text": "Regulamin serwisu",
+        "url": "https://www.ecmentarze.pl/regulamin"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "https://www.ecmentarze.pl/polityka-prywatno%C5%9Bci"
+      },
+      {
+        "text": "RODO",
+        "url": "https://www.ecmentarze.pl/rodo"
+      },
+      {
+        "text": "Mapa serwisu",
+        "url": "https://www.ecmentarze.pl/sitemap"
+      },
+      {
+        "text": "Parochialis",
+        "url": "https://www.parochialis.pl"
+      },
+      {
+        "text": "eKlepsydry",
+        "url": "https://eklepsydry.pl"
+      },
+      {
+        "text": "Do pobrania",
+        "url": "https://www.ecmentarze.pl/do-pobrania"
+      },
+      {
+        "text": "PL Wersja polska",
+        "url": "https://ecmentarze.pl/"
+      },
+      {
+        "text": "EN English version",
+        "url": "https://www.ecemetery.eu/en/"
+      },
+      {
+        "text": "DE Deutsche Version",
+        "url": "https://www.ecemetery.eu/de/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/tech.studio.dla.parafii/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/informatykadlaparafii/"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/@ecmentarze"
+      },
+      {
+        "text": "TikTok",
+        "url": "https://www.tiktok.com/@ecmentarze"
+      }
+    ]
+  }
+]

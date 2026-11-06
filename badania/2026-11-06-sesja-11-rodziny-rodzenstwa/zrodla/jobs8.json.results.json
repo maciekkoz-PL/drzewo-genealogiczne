@@ -1,0 +1,1848 @@
+[
+  {
+    "key": "piwigo_1944_api",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4297&per_page=100&page=0",
+    "utc": "2026-11-06T12:16:52.535238+00:00",
+    "status": 200,
+    "final_url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4297&per_page=100&page=0",
+    "sha256": "649c6207096ed5a710515aab5824c922ad59c0de64ecade7ceadc2aaa198c674",
+    "size": 158030,
+    "path": "work/s11/piwigo_1944_api.html",
+    "links": []
+  },
+  {
+    "key": "tomaszow_s194",
+    "url": "https://regestry.lubgens.eu/druk_usz_v2_1.php?par=47&act=s&decade=194",
+    "utc": "2026-11-06T12:16:52.536324+00:00",
+    "status": 200,
+    "final_url": "https://regestry.lubgens.eu/druk_usz_v2_1.php?par=47&act=s&decade=194",
+    "sha256": "9b26498504cc5e8fbda6e9324ade508926fec63708cd7dfab0be615e04ffb69e",
+    "size": 112423,
+    "path": "work/s11/tomaszow_s194.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/021.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/023.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/020.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/028.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/021.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/026.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/027.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/020.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/022.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/022.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/023.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/001.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/022.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/027.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/024.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/025.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/024.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/026.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/025.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/026.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/020.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/028.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/026.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/021.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/027.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/023.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/023.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/020.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/029.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/028.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/025.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/025.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/001.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/022.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/024.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/021.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/024.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/028.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/027.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/029.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/001.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/001.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/020.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/001.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/020.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/003.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/017.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/002.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/001.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/008.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/013.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/index.php?/category/4363"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/014.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/012.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/011.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/007.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/009.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/016.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/015.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/018.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/020.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/010.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/005.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/006.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/004.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1942/019.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://regestry.lubgens.eu/druk_usz_v2_1.php?par=47&act=s&decade=194#topbox"
+      }
+    ]
+  },
+  {
+    "key": "pzn_lodz_search",
+    "url": "https://www.pznlodz.pl/?s=Chmielewska",
+    "utc": "2026-11-06T12:16:52.540261+00:00",
+    "status": 200,
+    "final_url": "https://www.pznlodz.pl/?s=Chmielewska",
+    "sha256": "4d9bf6673efff919d48dc3c48d39fb974c2a02c37cc0c510ba474e4860f7b95e",
+    "size": 77672,
+    "path": "work/s11/pzn_lodz_search.html",
+    "links": [
+      {
+        "text": "Skip to content",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska#main"
+      },
+      {
+        "text": "",
+        "url": "https://www.facebook.com/profile.php?id=100024046925795"
+      },
+      {
+        "text": "",
+        "url": "https://www.pznlodz.pl/"
+      },
+      {
+        "text": "Polski Związek Niewidomych – Okręg Łódzki",
+        "url": "https://www.pznlodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://www.pznlodz.pl/"
+      },
+      {
+        "text": "O nas",
+        "url": "https://www.pznlodz.pl/o-nas-2/"
+      },
+      {
+        "text": "Historia",
+        "url": "https://www.pznlodz.pl/historia/"
+      },
+      {
+        "text": "Statut",
+        "url": "https://www.pznlodz.pl/statut/"
+      },
+      {
+        "text": "Koła",
+        "url": "https://www.pznlodz.pl/kola-i-struktura/"
+      },
+      {
+        "text": "Koła",
+        "url": "https://www.pznlodz.pl/kola/"
+      },
+      {
+        "text": "Struktura",
+        "url": "https://www.pznlodz.pl/struktura/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://www.pznlodz.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Nasze projekty",
+        "url": "https://www.pznlodz.pl/zrealizowane-projekty/"
+      },
+      {
+        "text": "Dofinansowanie PFRON",
+        "url": "https://www.pznlodz.pl/category/dofinansowanie-ze-srodkow-pfron/"
+      },
+      {
+        "text": "2023",
+        "url": "https://www.pznlodz.pl/category/2023/"
+      },
+      {
+        "text": "2022",
+        "url": "https://www.pznlodz.pl/category/2022/"
+      },
+      {
+        "text": "2021",
+        "url": "https://www.pznlodz.pl/category/2021/"
+      },
+      {
+        "text": "2020",
+        "url": "https://www.pznlodz.pl/category/2020/"
+      },
+      {
+        "text": "2019",
+        "url": "https://www.pznlodz.pl/category/2019/"
+      },
+      {
+        "text": "2018",
+        "url": "https://www.pznlodz.pl/category/2018/"
+      },
+      {
+        "text": "Zrealizowane",
+        "url": "https://www.pznlodz.pl/category/nasze-dzialania/"
+      },
+      {
+        "text": "Teatr czytany",
+        "url": "https://www.pznlodz.pl/teatr-czytany/"
+      },
+      {
+        "text": "Informacje",
+        "url": "https://www.pznlodz.pl/informacje-2/"
+      },
+      {
+        "text": "Kto może być Członkiem PZN",
+        "url": "https://www.pznlodz.pl/kto-moze-byc-czlonkiem-pzn/"
+      },
+      {
+        "text": "Instytucje działające i wspomagające osoby z niepełnosprawnością",
+        "url": "https://www.pznlodz.pl/instytucje-dzialajace-i-wspomagajace-osoby-z-niepelnosprawnoscia/"
+      },
+      {
+        "text": "Jak uzyskać orzeczenie o stopniu niepełnosprawności",
+        "url": "https://www.pznlodz.pl/jak-uzyskac-orzeczenie-o-stopniu-niepelnosprawnosci/"
+      },
+      {
+        "text": "Zwolnienie z opłacania abonamentu radiowo-telewizyjnego",
+        "url": "https://www.pznlodz.pl/zwolnienie-z-oplacania-abonamentu-radiowo-telewizyjnego/"
+      },
+      {
+        "text": "Ważne linki",
+        "url": "https://www.pznlodz.pl/wazne-linki/"
+      },
+      {
+        "text": "Przydatne filmy",
+        "url": "https://www.pznlodz.pl/przydatne-filmy/"
+      },
+      {
+        "text": "1%",
+        "url": "https://www.pznlodz.pl/1-proc/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.pznlodz.pl/kontakt/"
+      },
+      {
+        "text": "2018",
+        "url": "https://www.pznlodz.pl/category/2018/"
+      },
+      {
+        "text": "2019",
+        "url": "https://www.pznlodz.pl/category/2019/"
+      },
+      {
+        "text": "2020",
+        "url": "https://www.pznlodz.pl/category/2020/"
+      },
+      {
+        "text": "2021",
+        "url": "https://www.pznlodz.pl/category/2021/"
+      },
+      {
+        "text": "2022",
+        "url": "https://www.pznlodz.pl/category/2022/"
+      },
+      {
+        "text": "2023",
+        "url": "https://www.pznlodz.pl/category/2023/"
+      },
+      {
+        "text": "2024",
+        "url": "https://www.pznlodz.pl/category/2024/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://www.pznlodz.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Dofinansowane przez Gminę i Miasto Drzewica",
+        "url": "https://www.pznlodz.pl/category/dofinansowane-przez-gmine-i-miasto-drzewica/"
+      },
+      {
+        "text": "Dofinansowanie z budżetu Miasta Łodzi",
+        "url": "https://www.pznlodz.pl/category/dofinansowanie-z-budzetu-miasta-lodzi/"
+      },
+      {
+        "text": "Dofinansowanie z Fundacji PZU",
+        "url": "https://www.pznlodz.pl/category/dofinansowanie-z-fundacji-pzu/"
+      },
+      {
+        "text": "Dofinansowanie ze środków PFRON",
+        "url": "https://www.pznlodz.pl/category/dofinansowanie-ze-srodkow-pfron/"
+      },
+      {
+        "text": "Dofinansowanie ze środków PFRON będących w dyspozycji Zarządu Województwa Łódzkiego",
+        "url": "https://www.pznlodz.pl/category/dofinansowanie-ze-srodkow-pfron-bedacych-w-dyspozycji-zarzadu-wojewodztwa-lodzkiego/"
+      },
+      {
+        "text": "Dofinansowanie ze środków Województwa Łódzkiego",
+        "url": "https://www.pznlodz.pl/category/dofinansowanie-ze-srodkow-wojewodztwa-lodzkiego/"
+      },
+      {
+        "text": "Zorganizowane w ramach środków własnych",
+        "url": "https://www.pznlodz.pl/category/zorganizowane-w-ramach-srodkow-wlasnych/"
+      },
+      {
+        "text": "Zrealizowane projekty",
+        "url": "https://www.pznlodz.pl/category/nasze-dzialania/"
+      },
+      {
+        "text": "Polityka plików cookies",
+        "url": "http://www.pznlodz.pl/wp/polityka-plikow-cookies-eu/"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "http://www.pznlodz.pl/wp/polityka-prywatnosci-2/"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "http://www.pznlodz.pl/deklaracja-dostepnosci-cyfrowej/"
+      },
+      {
+        "text": "",
+        "url": "https://www.facebook.com/profile.php?id=100024046925795"
+      },
+      {
+        "text": "Polski Związek Niewidomych – Okręg Łódzki",
+        "url": "https://www.pznlodz.pl/"
+      },
+      {
+        "text": "ColorMag",
+        "url": "https://themegrill.com/themes/colormag"
+      },
+      {
+        "text": "WordPress",
+        "url": "https://wordpress.org"
+      },
+      {
+        "text": "",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska#masthead"
+      },
+      {
+        "text": "Zarządzaj opcjami",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Zarządzaj serwisami",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Zarządzaj dostawcami",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Przeczytaj więcej o tych celach",
+        "url": "https://cookiedatabase.org/tcf/purposes/"
+      },
+      {
+        "text": "Zobacz preferencje",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "{title}",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "{title}",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "{title}",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Skip to content",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska#content"
+      },
+      {
+        "text": "Open toolbar",
+        "url": "javascript:void(0);"
+      },
+      {
+        "text": "Powiększ tekst",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Zmniejsz tekst",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Skala szarości",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Wysoki kontrast",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Odwróć kolory",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Jasne tło",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Podkreśl linki",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Pogrubienie tekstu",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      },
+      {
+        "text": "Reset",
+        "url": "https://www.pznlodz.pl/?s=Chmielewska"
+      }
+    ]
+  },
+  {
+    "key": "pzn_search",
+    "url": "https://pzn.org.pl/?s=Chmielewska",
+    "utc": "2026-11-06T12:16:53.769374+00:00",
+    "status": 200,
+    "final_url": "https://pzn.org.pl/?s=Chmielewska",
+    "sha256": "e83ba0dac1eca9b8290f85b585990cc37fbda6833179ea9cb01c43ecde40f41d",
+    "size": 75471,
+    "path": "work/s11/pzn_search.html",
+    "links": [
+      {
+        "text": "Przejdź do menu",
+        "url": "https://pzn.org.pl/?s=Chmielewska#menu_glowne"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://pzn.org.pl/?s=Chmielewska#tresc"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "Polski Związek Niewidomych",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny-133212933444657/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/PZN_IT"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCt3rkpp3a39GjLQS8mxT1oA"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "O nas",
+        "url": "https://pzn.org.pl/o-nas/"
+      },
+      {
+        "text": "Władze naczelne",
+        "url": "https://pzn.org.pl/o-nas/wladze-naczelne-zwiazku/"
+      },
+      {
+        "text": "Misja i wizja",
+        "url": "https://pzn.org.pl/o-nas/misja-i-wizja/"
+      },
+      {
+        "text": "Struktura organizacyjna",
+        "url": "https://pzn.org.pl/o-nas/struktura-organizacyjna/"
+      },
+      {
+        "text": "Aktywność społeczna",
+        "url": "https://pzn.org.pl/o-nas/aktywnosc-spoleczna/"
+      },
+      {
+        "text": "Jak zapisać się do PZN",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-zapisac-sie-do-pzn/"
+      },
+      {
+        "text": "Statut",
+        "url": "https://pzn.org.pl/o-nas/statut-pzn/"
+      },
+      {
+        "text": "Sprawozdania OPP",
+        "url": "https://pzn.org.pl/o-nas/sprawozdania-opp/"
+      },
+      {
+        "text": "Historia",
+        "url": "https://pzn.org.pl/o-nas/z-kart-historii-ruchu-niewidomych-i-polskiego-zwiazku-niewidomych/"
+      },
+      {
+        "text": "RODO",
+        "url": "https://pzn.org.pl/dane-osobowe/"
+      },
+      {
+        "text": "Sygnaliści – Zgłoszenia zewnetrzne",
+        "url": "https://www.gov.pl/web/sygnalisci/dokonaj-zgloszenia-zewnetrznego"
+      },
+      {
+        "text": "Sygnaliści – zgłoszenia wewnętrzne",
+        "url": "https://pzn.org.pl/o-nas/sygnalisci-zgloszenia-wewnetrzne/"
+      },
+      {
+        "text": "Partnerzy i przyjaciele",
+        "url": "https://pzn.org.pl/o-nas/partnerzy-i-przyjaciele/"
+      },
+      {
+        "text": "Jubileusz – 75 lat PZN",
+        "url": "https://pzn.org.pl/o-nas/jubileusz-75-lat-pzn/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://pzn.org.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Baza wiedzy",
+        "url": "https://pzn.org.pl/baza-wiedzy/"
+      },
+      {
+        "text": "Gdy tracisz wzrok",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/"
+      },
+      {
+        "text": "Jak pomóc osobie z uszkodzonym wzrokiem",
+        "url": "https://pzn.org.pl/jak-pomoc-osobie-z-uszkodzonym-wzrokiem/"
+      },
+      {
+        "text": "Jak pomóc osobie z uszkodzonym wzrokiem",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-pomoc-osobie-z-uszkodzonym-wzrokiem/"
+      },
+      {
+        "text": "Jak zapisać się do PZN",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-zapisac-sie-do-pzn/"
+      },
+      {
+        "text": "Pomoce i sprzęt",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/technologie-i-sprzet/"
+      },
+      {
+        "text": "Rehabilitacja osób niewidomych i słabowidzących",
+        "url": "https://pzn.org.pl/baza-wiedzy/rehabilitacja-osob-niewidomych-i-slabowidzacych/"
+      },
+      {
+        "text": "Co to jest rehabilitacja osób niewidomych i słabowidzących",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/co-to-jest-rehabilitacja-osob-niewidomych-i-slabowidzacych/"
+      },
+      {
+        "text": "Aspekty psychologiczne",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/aspekty-psychologiczne/"
+      },
+      {
+        "text": "Czynności życia codziennego",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/czynnosci-zycia-codziennego/"
+      },
+      {
+        "text": "Orientacja przestrzenna i samodzielne poruszanie się",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/orientacja-przestrzenna-i-samodzielne-poruszanie-sie/"
+      },
+      {
+        "text": "Usprawnianie widzenia",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/usprawnianie-widzenia/"
+      },
+      {
+        "text": "Pies przewodnik",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/pies-przewodnik/"
+      },
+      {
+        "text": "Ulgi i przywileje",
+        "url": "https://pzn.org.pl/baza-wiedzy/ulgi-i-przywileje/"
+      },
+      {
+        "text": "Ulgi",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/ulgi/"
+      },
+      {
+        "text": "Dofinansowanie ze środków publicznych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/dofinansowanie-ze-srodkow-publicznych/"
+      },
+      {
+        "text": "Świadczenia emerytalno – rentowe",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/swiadczenia-emerytalno-rentowe/"
+      },
+      {
+        "text": "Prawo wyborcze",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/prawo-wyborcze/"
+      },
+      {
+        "text": "Zdrowie i profilaktyka",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/zdrowie/"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://pzn.org.pl/baza-wiedzy/edukacja/"
+      },
+      {
+        "text": "Ośrodki i szkoły",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/osrodki-i-szkoly/"
+      },
+      {
+        "text": "Informacje o podręcznikach szkolnych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/informacje-o-podrecznikach-szkolnych/"
+      },
+      {
+        "text": "Zasady adaptacji materiałów dydaktycznych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/zasady-adaptacji-materialow-dydaktycznych/"
+      },
+      {
+        "text": "Podręczniki do nauki brajla wydawane przez PZN",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/podreczniki-do-nauki-brajla-wydawane-przez-pzn/"
+      },
+      {
+        "text": "Praca",
+        "url": "https://pzn.org.pl/baza-wiedzy/praca/"
+      },
+      {
+        "text": "Dla pracujących i poszukujących pracy",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/praca/dla-pracujacaych-i-poszukujacych-pracy/"
+      },
+      {
+        "text": "Dla pracodawców",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/praca/dla-pracodawcow/"
+      },
+      {
+        "text": "Publikacje tyflologiczne",
+        "url": "https://pzn.org.pl/publikacje-tyflologiczne/"
+      },
+      {
+        "text": "Adaptacje",
+        "url": "https://pzn.org.pl/baza-wiedzy/adaptacje/"
+      },
+      {
+        "text": "Adaptacja przestrzeni publicznej dla niewidomych i słabowidzacych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/adaptacja-przestrzeni/"
+      },
+      {
+        "text": "Adaptacje napisów",
+        "url": "https://pzn.org.pl/baza-wiedzy/adaptacje/adaptacje-napisow/"
+      },
+      {
+        "text": "Elektroniczne, bezpłatne poradniki i publikacje PZN",
+        "url": "https://pzn.org.pl/poradniki-i-publikacje-pzn-nowe/"
+      },
+      {
+        "text": "Dostępność",
+        "url": "https://pzn.org.pl/dostepnosc/"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Projekty realizowane przez Polski Związek Niewidomych i Instytut Tyflologiczny PZN",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Projekty zrealizowane przez Polski Związek Niewidomych i Instytut Tyflologiczny PZN – archiwum",
+        "url": "https://pzn.org.pl/dzialania/dzialania-archiwum/"
+      },
+      {
+        "text": "Zapytania i przetargi",
+        "url": "https://pzn.org.pl/category/oferta/zapytania-ofertowe/"
+      },
+      {
+        "text": "Oferta",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Laboratorium Ciemności",
+        "url": "https://pzn.org.pl/category/oferta/laboratorium-ciemnosci/"
+      },
+      {
+        "text": "Opiniowanie dostępności",
+        "url": "https://pzn.org.pl/oferta-uslug/opiniowanie-dostepnosci/"
+      },
+      {
+        "text": "Opiniowanie napisów brajlowskich na opakowaniach leków",
+        "url": "https://pzn.org.pl/oferta-uslug/opiniowanie-napisow-brajlowskich-na-opakowaniach-lekow/"
+      },
+      {
+        "text": "Sprzedaż materiałów tyflograficznych",
+        "url": "https://pzn.org.pl/category/oferta/sprzedaz-materialow-tyflograficznych/"
+      },
+      {
+        "text": "Szkolenia na zamówienie",
+        "url": "https://pzn.org.pl/oferta-uslug/szkolenia-na-zamowienie/"
+      },
+      {
+        "text": "Sprzedaż wydawnictw tyflologicznych",
+        "url": "https://pzn.org.pl/category/oferta/sprzedaz-wydawnictw-tyflologicznych/"
+      },
+      {
+        "text": "Transkrypcje pisma brajla",
+        "url": "https://pzn.org.pl/category/oferta/transkrypcje-pisma-brajla/"
+      },
+      {
+        "text": "Wynajem powierzchni",
+        "url": "https://pzn.org.pl/wynajem/"
+      },
+      {
+        "text": "Nauka Brajla",
+        "url": "https://pzn.org.pl/nauka-brajla/"
+      },
+      {
+        "text": "Zapytania ofertowe",
+        "url": "https://pzn.org.pl/category/oferta/zapytania-ofertowe/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Pochodnia",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia/"
+      },
+      {
+        "text": "Promyczek",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/promyczek/"
+      },
+      {
+        "text": "Pod lupą",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pod-lupa/"
+      },
+      {
+        "text": "Nasze dzieci",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/nasze-dzieci/"
+      },
+      {
+        "text": "Biuletyn",
+        "url": "https://pzn.org.pl/newsletter/"
+      },
+      {
+        "text": "Instytut",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/"
+      },
+      {
+        "text": "Rada Naukowa",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/rada-naukowa/"
+      },
+      {
+        "text": "Projekty realizowane",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Laboratorium Ciemności",
+        "url": "https://pzn.org.pl/laboratorium-ciemnosci/"
+      },
+      {
+        "text": "Tyflogaleria",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/tyflogaleria/"
+      },
+      {
+        "text": "Pracownia doboru oświetlenia",
+        "url": "https://pzn.org.pl/pracownia-doboru-oswietlenia/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Oferta usług",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Multimedia",
+        "url": "https://pzn.org.pl/multimedia/"
+      },
+      {
+        "text": "Elektroniczne, bezpłatne poradniki i publikacje PZN",
+        "url": "https://pzn.org.pl/poradniki-i-publikacje-pzn-nowe/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://pzn.org.pl/kontakt/"
+      },
+      {
+        "text": "1,5%",
+        "url": "https://pzn.org.pl/1-5-procent/"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://pzn.org.pl/"
+      },
+      {
+        "text": "O nas",
+        "url": "https://pzn.org.pl/o-nas/"
+      },
+      {
+        "text": "Struktura organizacyjna",
+        "url": "https://pzn.org.pl/o-nas/struktura-organizacyjna/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://pzn.org.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Baza wiedzy",
+        "url": "https://pzn.org.pl/baza-wiedzy/"
+      },
+      {
+        "text": "Projekty realizowane",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Dostępność",
+        "url": "https://pzn.org.pl/dostepnosc/"
+      },
+      {
+        "text": "Oferta usług",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Multimedia",
+        "url": "https://pzn.org.pl/multimedia/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Instytut tyflologiczny",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://pzn.org.pl/kontakt/"
+      },
+      {
+        "text": "1,5%",
+        "url": "https://pzn.org.pl/1-5-procent/"
+      },
+      {
+        "text": "Zapraszamy na szkolenie z metodyki LEGO BRAILLE BRICKS",
+        "url": "https://pzn.org.pl/zapraszamy-na-szkolenie-z-metodyki-lego-braille-bricks/"
+      },
+      {
+        "text": "Ośrodek Rehabilitacji i Szkolenia PZN „Homer”: Przychodnia do wynajęcia",
+        "url": "https://pzn.org.pl/osrodek-rehabilitacji-i-szkolenia-pzn-homer-przychodnia-do-wynajecia/"
+      },
+      {
+        "text": "75 lat wspólnej drogi",
+        "url": "https://pzn.org.pl/75-lat-wspolnej-drogi/"
+      },
+      {
+        "text": "Zapraszamy do obejrzenia spotu filmowego PZN",
+        "url": "https://pzn.org.pl/zapraszamy-do-obejrzenia-spotu-filmowego-pzn/"
+      },
+      {
+        "text": "PZN świętuje swój jubileusz",
+        "url": "https://pzn.org.pl/pzn-swietuje-swoj-jubileusz/"
+      },
+      {
+        "text": "Polski Związek Niewidomych Instytut Tyflologiczny",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny/"
+      },
+      {
+        "text": "Zapisz się na biuletyn",
+        "url": "https://pzn.org.pl/newsletter"
+      },
+      {
+        "text": "Polski Związek Niewidomych",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "pzn@pzn.org.pl",
+        "url": "mailto:pzn@pzn.org.pl"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://pzn.org.pl/deklaracja-2026/"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "https://pzn.org.pl/polityka-prywatnosci/"
+      },
+      {
+        "text": "RODO",
+        "url": "https://pzn.org.pl/dane-osobowe/"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://pzn.org.pl/standardy-ochrony-maloletnich/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny-133212933444657/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/PZN_IT"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCt3rkpp3a39GjLQS8mxT1oA"
+      },
+      {
+        "text": "Idź do góry",
+        "url": "https://pzn.org.pl/?s=Chmielewska#header"
+      },
+      {
+        "text": "tutaj",
+        "url": "http://2020.pzn.org.pl/polityka-prywatnosci/"
+      }
+    ]
+  },
+  {
+    "key": "szczurek",
+    "url": "https://jozefszczurek.pl/",
+    "utc": "2026-11-06T12:16:53.911161+00:00",
+    "status": 200,
+    "final_url": "https://jozefszczurek.pl/",
+    "sha256": "07669668cc051285f8a460c7c84c46fc1605e865cf5ffa3018daef9622648709",
+    "size": 6484,
+    "path": "work/s11/szczurek.html",
+    "links": []
+  }
+]
