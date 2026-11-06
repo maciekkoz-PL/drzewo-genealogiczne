@@ -1,0 +1,50 @@
+[
+  {
+    "key": "Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2020/11/Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf",
+    "utc": "2026-11-06T13:46:25.740082+00:00",
+    "status": 200,
+    "size": 6129485,
+    "sha256": "c446bc23261d778fa5cd51e3fd2d8d15093526f686373861d4b1a3da997b9dbf"
+  },
+  {
+    "key": "ZZNSZ-07-001-0001-t2-k014.pdf",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014.pdf",
+    "utc": "2026-11-06T13:46:25.743391+00:00",
+    "status": 200,
+    "size": 1196355,
+    "sha256": "570b0863120282bd59318858f47b488f283ce9c6f0b6b1c7452df581580441c1"
+  },
+  {
+    "key": "ZZNSZ-07-001-0001-t2-k014.jpg",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014.jpg",
+    "utc": "2026-11-06T13:46:25.746002+00:00",
+    "status": 200,
+    "size": 81311,
+    "sha256": "b5c328798fdce5fcd10505613ad5f6c6a4cc25a5b8f18aa6a0639ab1be65d712"
+  },
+  {
+    "key": "ZZNSZ-07-001-0001-t2-k014a.pdf",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014a.pdf",
+    "utc": "2026-11-06T13:46:27.312063+00:00",
+    "status": 200,
+    "size": 1264634,
+    "sha256": "1f03c51303b404a7d0728f6834dc36346daac47a7d45580da28110c5c5b7b1cc"
+  },
+  {
+    "key": "ZZNSZ-07-001-0001-t2-k014a.jpg",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014a.jpg",
+    "utc": "2026-11-06T13:46:28.005813+00:00",
+    "status": 200,
+    "size": 78115,
+    "sha256": "282b8c338af7c61cb6b5dd5a4609ae1690992edc3f26210e3fa5c8400d97900c"
+  },
+  {
+    "key": "ZZNSZ-07-001-0001-t2-k012-013.pdf",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k012-013.pdf",
+    "utc": "2026-11-06T13:46:28.360705+00:00",
+    "status": 200,
+    "size": 1807759,
+    "sha256": "94fbf6fe7a08acfb202a01f96b72e3cec4cc3cb6ba531eba7184689d220cbbb5"
+  }
+]

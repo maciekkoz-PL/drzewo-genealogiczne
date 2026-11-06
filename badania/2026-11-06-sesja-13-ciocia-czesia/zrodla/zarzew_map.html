@@ -1,0 +1,344 @@
+<!doctype html>
+
+
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="pl"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="pl"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="pl"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="pl"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="pl"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Cmentarz - strona główna</title>	
+    <meta name="title" content="Cmentarz - strona główna" />
+    <meta name="description" content="*****" />
+    <meta name="author" content="dronka.org" />
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700|Open+Sans+Condensed:300,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="img/favicon.ico" />	
+<!--    <link rel="stylesheet" href="css/style.css"/>-->
+    
+    <link rel="stylesheet" type="text/css" media="all" href="css/style_lodz.css" />
+              
+    <link rel="stylesheet" type="text/css" media="all" href="css/common.css" />
+    <link rel="stylesheet" href="css/datepicker.min.css" />
+
+    <!-- all our JS is at the bottom of the page, except for Modernizr. -->
+    <script src="js/modernizr-1.7.min.js"></script>
+    
+
+
+</head>
+
+<body onload="showMap();">
+
+
+
+<div id="page-wrap">
+
+	<header>		
+        <a class="logo" href="index.html"></a>
+        <nav class="top-menu">		
+            <ol class="top-menu">
+                <li><a href="index.html">Strona główna</a></li>
+                <li><a href="plan.html">Mapa cmentarza</a></li>
+                
+                <li><a href="szukaj.html">Wyszukiwarka grobów</a></li>
+                
+                
+                
+                
+                
+                
+                <li><a href="kontakt.html">Kontakt</a></li>
+            </ol>
+
+        </nav>
+        <div style="float: right;margin-right: 1rem">
+            <ul class="resizer">
+                <li class="small"><a href="#">A</a></li>
+                <li class="medium"><a href="#">A</a></li>
+                <li class="large"><a href="#">A</a></li>
+            </ul>
+        </div>
+    </header>
+
+	<aside id="sidebar" class="floatleft">
+		<div id="graveInfo">
+    <span id="hiddenGraveAdress" style="display: none">RUMIA/D/D/D</span>
+    <h2>Informacje o grobie</h2>
+    <div id="graveInfoEmpty" style="display: none">
+        <div class="grob-info">Brak danych o wybranym grobie</div>
+    </div>
+    <div id="otherObject" style="display: none">
+        <div class="grob-info">Kliknij na grób, żeby wyświetlić informacje</div>
+    </div>
+    <div id="graveInfoDetails">
+        <div class="grob-info">
+            Kwatera: <span>XLV</span><br />Rząd: <span>1</span>, Grób: <span>19</span>
+        </div>
+
+        <h3>Pochowani</h3>
+        <span>
+            <div class="zmarly">
+                <strong><span>CZESŁAWA CHMIELEWSKA</span></strong>
+                <span class="data tip" title="data urodzenia">brak danych</span> - <span class="data tip" title="data zgonu">1999-10-03</span>
+                
+            </div>
+        </span>
+
+        <h3>Grób</h3>
+        <ul class="grob">
+            <li><span class="label">Rodzaj grobu:</span> <strong><span>Ziemny</span></strong></li>
+            <li><span class="label">Typ grobu:</span> <strong><span>Tradycyjny</span></strong></li>
+            <li><span class="label">Charakter grobu:</span> <strong><span>jednomiejscowy</span></strong></li>
+            <li><span class="label">Opłacony do:</span> <strong><span>2019-12-31</span></strong></li>
+            
+        </ul>
+
+        <h3>Wirtualne świeczki</h3>
+        <div id="candlesList">
+                        
+            <div class="clear"></div>
+            <form class="formularz" onsubmit="addVirtualCandle();return false;">
+                <input type="hidden" id="idCementary" value="ZARZW" />
+                <input type="hidden" id="idGrave" value="5709" />
+                <input type="submit" class="virtual-candle-submit" value="Zapal wirtualną świeczkę" />
+            </form>
+            <div class="clear"></div>
+        </div>
+
+
+        <div class="clear"></div>
+        
+        <div class="clear"></div>
+        
+        
+        
+    </div>
+
+</div>
+	</aside>
+
+	<section class="content with-sidebar floatright">
+		<h2>Cmentarz Komunalny Zarzew</h2>
+		<div id="showWholeMapLabel" class="breadcrumbs">
+			<a href="">Powrót do widoku mapy cmentarza</a>
+		</div>
+
+                <div id="gateChoose">
+					<form class="formularz">
+                		<label for="brama">Wybierz bramę od której ma być poprowadzona droga:</label>
+                			<select id="brama" name="bramaPK.idBramy" class="rok" onchange="showWay(this.value)">
+                        		<option value="Brama_GlOwna" selected="selected">Brama Główna</option>
+                			</select>
+					</form>
+		</div>
+
+		<div id="map"></div>
+		<a class="buton drukuj" href="/wydrukInformacjiOGrobie.html">Drukuj</a>
+        <!--<div class="legenda">
+            <ul>
+                <li><span class="legenda leg1">kolor szary</span> <span class="desc"> - opis koloru</span></li>
+                <li><span class="legenda leg2">kolor beżowy</span> <span class="desc"> - opis koloru</span></li>
+                <li><span class="legenda leg3">kolor pomarańczowy</span> <span class="desc"> - opis koloru</span></li>
+                <li><span class="legenda leg4">zielone punkty</span> <span class="desc"> - drzewa</span></li>
+            </ul>
+        </div>-->
+		<div class="clear"></div>
+
+	</section>
+	<div class="clear"></div>
+
+	<div id="push"></div>
+</div>
+
+<div id="foot">
+	<footer>
+            <p><a href="https://www.systkom.pl"><small>&copy; SYST-KOM - Kompleksowe rozwiązania informatyczne</small></a> </p>
+	</footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
+        <script src="js/jquery.colorbox-min.js"></script>
+        <script src="js/functions.js?v=2"></script>
+        <script src="js/jquery.blockUI.min.js"></script>
+        <script src="js/datepicker.min.js"></script>
+        <script src="js/formatDate.js"></script>
+        <script src="js/jquery.cookie.js"></script>
+
+    </div>
+
+<script type="text/javascript" src="js/raphael.js"></script>
+    <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+    <script type="text/javascript" src="js/mapsvg.js"></script>
+
+<script>
+
+    function clearH(a) {
+        var idx = a.href.indexOf(';');
+        if(idx!=-1) {
+            a.href = a.href.substring(0,a.href.indexOf(';'));
+        }
+    }
+	var map;
+	/*<![CDATA[*/
+    function showMap() {
+
+    	if(false === false) {
+			showMapOld();
+			return;
+		}
+		$.getJSON('/svg/regions?cm_qv=ZARZW_XLV', function(data) {
+
+			map = $('#map').mapSvg({
+				source: '/svg/cemetery.svg?cm_qv=ZARZW_XLV',
+				zoom:1,
+				loadingText:'Ładuję mapę ...',
+				width:680,
+				height:580,
+				regions: data,
+				zoomLimit: [0,20],
+				pan:true,
+				panLimit: false,
+				marks:[
+					{
+						"id": "SWIEB~A~1~1",
+						"xy": [
+							100,
+							100
+						],
+						"tooltip": "Kwatera A, Rząd: 1, Grób 1",
+						"attrs": {
+							"src": "/markers/_pin_default.png"
+						}
+					}
+				],
+				onClick: function(e,m) {showGraveInfo(this.node.id);},
+				tooltipsMode: 'custom',
+				onLoad:function() {onLoadMap();}
+			});
+		});
+    }
+
+    function showMapOld() {
+		$('#map').mapSvg({
+			source: '/maps/ZARZW.svg?v=273612',
+			zoom:1,
+			loadingText:'Ładuję mapę ...',
+			width:680,
+			height:580,
+			zoomLimit: [0,20],
+			pan:true,
+			panLimit: false,
+			onClick: function(e,m) {showQuarter(this.node.id);},
+			tooltipsMode: 'custom',
+			onLoad:function() {onLoadMap();}
+		});
+	}
+
+	/*]]>*/
+    function onLoadMap() {
+        showWay('Brama_GlOwna');
+        blinkQuarter('ZARZW_XLV');
+	}
+
+    function blinkQuarter(idCmAndQuarter) {
+        var pathQuarter = $('#'.concat(idCmAndQuarter.replace(/\//g,'\\/').replace(/\s+/g,'\\ ').replace(/\./g,'\\.')));
+
+        var animate = document.createElementNS('http://www.w3.org/2000/svg', 'animate');
+        animate.setAttribute("attributeType", "XML");
+        animate.setAttribute("attributeName", "fill");
+        animate.setAttribute("values", "#800;#f00;#800;#800");
+        animate.setAttribute("dur", "0.8s");
+        animate.setAttribute("repeatCount", "indefinite");
+		pathQuarter[0].appendChild(animate);
+    }
+
+    function showQuarter(name) {
+
+        if(name.match(/path/g)  || name.match(/rect/g)) {
+            return false;
+		}
+
+        $.getJSON('/svg/quarter?qv=' + name, function(data) {
+            if(data.loadingText.match(/empty/g)) {
+                alert("Wybrana kwatera nie została jeszcze dodana do planu.");
+                return false;
+            }
+            $('#map').mapSvg().destroy();
+            $("#gateChoose").toggle();
+            $("#showWholeMapLabel").toggle();
+            if(true === true) {
+             data.onClick = function (e, m) {
+              showGraveInfo(this.node.id)
+              };
+            }            
+            $('#map').mapSvg(data);
+        });
+    }
+
+        function showGraveInfo(id) {
+
+		if(id.match(/.*~.*~.*~.*/gi)) {
+			$('rect').attr('fill','#ff695a');
+			if($('#hiddenGraveAdress').text()!=id) {
+                $.blockUI({ message: "<h1>Pobieram dane o grobie ...</h1>" });
+                var getGraveInfo = function (data) {
+                    $("#graveInfo").html(data);
+                    $('#' + id.replace(/\//g, '\\/')).attr("fill", "#800b00");
+                    $('#hiddenGraveAdress').text(id);
+                    galleryAndTooltip();
+                    $.unblockUI();
+                };
+                $.get('/grave?address=' + id, getGraveInfo);
+
+            } else {
+                $('#' + id.replace(/\//g, '\\/')).attr("fill", "#800b00");
+			}
+
+		} else {
+            $('#hiddenGraveAdress').text('empty');
+            if(id.match(/id_[0-9]{1,9}/gi)) {
+                $("#graveInfoEmpty").css('display', '');
+                $("#otherObject").css('display', 'none');
+                $('#' + id.replace(/\//g, '\\/')).attr("fill", "#800b00");
+			} else {
+                $("#graveInfoEmpty").css('display', 'none');
+                $("#otherObject").css('display', '');
+            }
+            $("#graveInfoDetails").css('display','none');
+		}
+    }
+
+    function showWay(gate) {
+
+        if (gate == -1) {
+            $("#wayToQuarter").attr("d", "");
+            return;
+        }
+
+        $.get('/way?gate=' + gate, function (data) {
+            var pathWay = $("#wayToQuarter");
+            pathWay.attr("d", data);
+        });
+    }
+
+    function addVirtualCandle() {
+        var candleId = {cmentarz:$("#idCementary").val(),idGrobu:$("#idGrave").val()};
+        var candle = {swieczkaPK:candleId};
+
+        $.ajaxSetup({
+            contentType: "application/json"
+          });
+
+        $.post("/addVirtualCandle",JSON.stringify(candle), function(data) {
+            $("#candlesList").html(data)
+        });
+
+    }
+</script>
+
+</body>
+</html>

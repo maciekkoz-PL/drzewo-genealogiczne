@@ -1,0 +1,461 @@
+[
+  {
+    "region": "71wa",
+    "row": [
+      "1923",
+      "59",
+      "Stefan",
+      "Chmielewski",
+      "Paweł, Emilia Wiśniewska",
+      "Czesława",
+      "Czwarnóg",
+      "Walenty, Józefa Rodacka",
+      "Warszawa-Leszno Narodzenie NMP"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Paweł, Emilia Wiśniewska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "71wa",
+    "row": [
+      "1928",
+      "165",
+      "Stanisław",
+      "Chmiel",
+      "Grzegorz, Marianna",
+      "Czesława",
+      "Turska",
+      "Stanisław, Marianna Rychlińska",
+      "Warszawa św. Trójca"
+    ],
+    "exact_spouse_name": false,
+    "grooms_parents": "Grzegorz, Marianna",
+    "status": "WYNIK ROZSZERZONEGO DOPASOWANIA / IMIĘ TAKŻE RODZICA"
+  },
+  {
+    "region": "71wa",
+    "row": [
+      "1930",
+      "3",
+      "Witold Henryk",
+      "Chmielewski",
+      "Roman, Stefania Mazurkiewicz",
+      "Czesława",
+      "Winiarek",
+      "Piotr, Marianna Wardziak",
+      "Warszawa-Praga MB Loretańska"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Roman, Stefania Mazurkiewicz",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "10pl",
+    "row": [
+      "1933",
+      "14",
+      "Franciszek",
+      "Chmielewski",
+      "Paweł, Marianna Łapińska",
+      "Czesława",
+      "Kurzyna",
+      "Roman, Władysława Kropiewnicka",
+      "Kobylin Borzymy"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Paweł, Marianna Łapińska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "10pl",
+    "row": [
+      "1939",
+      "6",
+      "Józef",
+      "Chmielewski",
+      "Grzegorz, Józefa Dzieniszewska",
+      "Czesława",
+      "Spiczko",
+      "Józef, Michalina Palczewska",
+      "Bargłów Kościelny"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Grzegorz, Józefa Dzieniszewska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "10pl",
+    "row": [
+      "1942",
+      "21",
+      "Stanisław",
+      "Chmielewski",
+      "Teofil, Franciszka Kownacka",
+      "Czesława",
+      "Wszeborowska",
+      "Aleksander, Aleksandra Gutowska",
+      "Grabowo"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Teofil, Franciszka Kownacka",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "10pl",
+    "row": [
+      "1943",
+      "25",
+      "Piotr",
+      "Chmielewski",
+      "Jan, Stanisława Wierzbowska",
+      "Czesława",
+      "Truszkowska",
+      "Stanisław, Bronisława Gosiewska",
+      "Wąsosz"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Jan, Stanisława Wierzbowska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1920",
+      "20",
+      "Roman",
+      "Chmielewski",
+      "Antoni, Franciszka Dąbrowska",
+      "Czesława",
+      "Rasińska",
+      "Józef, Teofila Malita",
+      "Serock"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Antoni, Franciszka Dąbrowska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1921",
+      "7",
+      "Józef",
+      "Chmielewski",
+      "Leonard, Julianna Turawska",
+      "Czesława",
+      "Waślicka",
+      "Ignacy, Ewa Gierymska",
+      "Gradzanowo"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Leonard, Julianna Turawska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1921",
+      "21",
+      "Józef",
+      "Albrewczyński",
+      "Ksawery, Wiktoria Jaworska",
+      "Marianna",
+      "Chmielewska",
+      "Feliks, Czesława Zdzięborska",
+      "Rościszewo"
+    ],
+    "exact_spouse_name": false,
+    "grooms_parents": "Ksawery, Wiktoria Jaworska",
+    "status": "WYNIK ROZSZERZONEGO DOPASOWANIA / IMIĘ TAKŻE RODZICA"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1924",
+      "4",
+      "Bonifacy",
+      "Chmielewski",
+      "Mateusz, Salomea Zakrzewska",
+      "Czesława Florentyna",
+      "Grzebska",
+      "Franciszek, Władysława Tańska",
+      "Dzierzgowo"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Mateusz, Salomea Zakrzewska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1924",
+      "16",
+      "Antoni",
+      "Chmieliński",
+      "Józef, Faustyna Kołakowska",
+      "Czesława",
+      "Stanowska",
+      "Michał, Bronisława Zembrzuska",
+      "Łysakowo"
+    ],
+    "exact_spouse_name": false,
+    "grooms_parents": "Józef, Faustyna Kołakowska",
+    "status": "WYNIK ROZSZERZONEGO DOPASOWANIA / IMIĘ TAKŻE RODZICA"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1926",
+      "74",
+      "Aleksander",
+      "Chmielewski",
+      "Julian, Stanisława Kacprzak",
+      "Czesława",
+      "Perzanowska",
+      "Stanisław, Karolina Grochowska",
+      "Ciechanów"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Julian, Stanisława Kacprzak",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1927",
+      "12",
+      "Jan",
+      "Chmielewski",
+      "Aleksander, Adolfina Zmijewska",
+      "Czesława",
+      "Skalska",
+      "Antoni, Teofila Zimak",
+      "Krzynowłoga Wielka"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Aleksander, Adolfina Zmijewska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1930",
+      "22",
+      "Marian",
+      "Chmielewski",
+      "Józef, Florentyna Kołakowska",
+      "Marianna Czesława",
+      "Purzycka",
+      "Kazimierz, Rozalia Jędrzejewska",
+      "Grzebsk"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Józef, Florentyna Kołakowska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1930",
+      "57",
+      "Stanisław",
+      "Chmielewski",
+      "Ignacy, Józefa Płoska",
+      "Czesława Anastazja",
+      "Łazicka",
+      "Aleksander, Aleksandra Ciesielska",
+      "Dzierzgowo"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Ignacy, Józefa Płoska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1931",
+      "23",
+      "Jan",
+      "Chmielewski",
+      "",
+      "Czesława",
+      "Szczerba",
+      "",
+      "Pniewo"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "",
+    "status": "BRAK RODZICÓW — NIEROZSTRZYGNIĘTE"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1931",
+      "32",
+      "Mieczysław Ludwik",
+      "Gierek",
+      "Piotr, Marianna Graczewska",
+      "Kazimiera",
+      "Chmielewska",
+      "Franciszek, Czesława Marta Szelkowska",
+      "Pułtusk"
+    ],
+    "exact_spouse_name": false,
+    "grooms_parents": "Piotr, Marianna Graczewska",
+    "status": "WYNIK ROZSZERZONEGO DOPASOWANIA / IMIĘ TAKŻE RODZICA"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1933",
+      "34",
+      "Stanisław",
+      "Chmielewski",
+      "Jan, Antonina Ciecierska",
+      "Czesława",
+      "Markowska",
+      "Michał, Marianna Szmit",
+      "Krzynowłoga Mała"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Jan, Antonina Ciecierska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1935",
+      "17",
+      "Stefan",
+      "Chmielecki",
+      "",
+      "Czesława",
+      "Szablewska",
+      "",
+      "Trębki"
+    ],
+    "exact_spouse_name": false,
+    "grooms_parents": "",
+    "status": "WYNIK ROZSZERZONEGO DOPASOWANIA / IMIĘ TAKŻE RODZICA"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1935",
+      "76",
+      "Wincenty",
+      "Szuchta",
+      "Jan, Weronika Lewandowska",
+      "Zofia",
+      "Chmielewska",
+      "Franciszek, Czesława Szelkowska",
+      "Pułtusk"
+    ],
+    "exact_spouse_name": false,
+    "grooms_parents": "Jan, Weronika Lewandowska",
+    "status": "WYNIK ROZSZERZONEGO DOPASOWANIA / IMIĘ TAKŻE RODZICA"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1940",
+      "3",
+      "Stanisław",
+      "Chmielewski",
+      "Józef, Lucja Lemaniak",
+      "Czesława",
+      "Wilgocka",
+      "Wincenty, Ludwika Musiakowska",
+      "Płock-Imielnica"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Józef, Lucja Lemaniak",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "07mz",
+    "row": [
+      "1945",
+      "32",
+      "Józef",
+      "Chmielewski",
+      "Stefan, Czesława Skolasińska",
+      "Jadwiga",
+      "Pawłowska",
+      "Mateusz, Stanisława Jaszczyńska",
+      "Płock św. Bartłomieja"
+    ],
+    "exact_spouse_name": false,
+    "grooms_parents": "Stefan, Czesława Skolasińska",
+    "status": "WYNIK ROZSZERZONEGO DOPASOWANIA / IMIĘ TAKŻE RODZICA"
+  },
+  {
+    "region": "14wm",
+    "row": [
+      "1931",
+      "11",
+      "Mieczysław",
+      "Chmielewski",
+      "Leon, Zofia Moszczyńska",
+      "Czesława",
+      "Piotrkowska",
+      "Hipolit, Cecylia Umieńska",
+      "Janowiec Kościelny"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Leon, Zofia Moszczyńska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "02kp",
+    "row": [
+      "1923",
+      "85",
+      "Stanisław",
+      "Chmielewski",
+      "",
+      "Czesława",
+      "Graczyk",
+      "",
+      "Skrwilno"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "",
+    "status": "BRAK RODZICÓW — NIEROZSTRZYGNIĘTE"
+  },
+  {
+    "region": "05ld",
+    "row": [
+      "1927",
+      "159",
+      "Stefan",
+      "Chmielewski",
+      "Aleksander, Agnieszka Zasada",
+      "Czesława",
+      "Ciesielska",
+      "Józef, Marianna Bieniaszczyk",
+      "Łódź św. St. Kostka"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Aleksander, Agnieszka Zasada",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  },
+  {
+    "region": "05ld",
+    "row": [
+      "1929",
+      "91",
+      "Franciszek",
+      "Chmielewski",
+      "Nikodem, Ludwika Marcinkowska",
+      "Marianna Czesława",
+      "Buncler",
+      "Stanisław, Franciszka Spychalska",
+      "Łódź św. St. Kostka"
+    ],
+    "exact_spouse_name": true,
+    "grooms_parents": "Nikodem, Ludwika Marcinkowska",
+    "status": "INNI RODZICE PANA — NIE WYKAZANO BRATERSTWA ZP03"
+  }
+]

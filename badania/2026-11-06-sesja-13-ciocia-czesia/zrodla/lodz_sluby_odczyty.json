@@ -1,0 +1,20 @@
+[
+  {
+    "key": "lodz1927_159",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=424&sy=1927b&kt=1&plik=158-159.jpg",
+    "utc": "2026-11-06T13:51:14.023626+00:00",
+    "status": 200,
+    "size": 54950,
+    "sha256": "8ea6542451a5849657187b8b51c9f25f2c307d8b2e138cb591c2b4f994272951",
+    "images": []
+  },
+  {
+    "key": "lodz1929_91",
+    "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=424&sy=1929b&kt=1&plik=090-091.jpg",
+    "utc": "2026-11-06T13:51:14.024726+00:00",
+    "status": 200,
+    "size": 54950,
+    "sha256": "aff9d756cf6371383b26d429190ab528523f0ec8b4ec847ad6fa2d1063eecaab",
+    "images": []
+  }
+]

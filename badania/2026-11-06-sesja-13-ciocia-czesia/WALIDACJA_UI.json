@@ -1,0 +1,17 @@
+{
+  "at_utc": "2026-11-06T14:02:39.897772+00:00",
+  "result": "PASS",
+  "viewports": [
+    {
+      "width": 1440,
+      "result": "PASS"
+    },
+    {
+      "width": 390,
+      "result": "PASS"
+    }
+  ],
+  "people": 51,
+  "news": 7,
+  "no_confirmed_marriage_or_father_added": true
+}

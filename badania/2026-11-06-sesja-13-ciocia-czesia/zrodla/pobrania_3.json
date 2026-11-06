@@ -1,0 +1,22 @@
+[
+  {
+    "key": "nekrologi_index",
+    "url": "https://www.nekrologi-baza.pl/zlista/49",
+    "utc": "2026-11-06T13:47:59.528269+00:00",
+    "status": 200,
+    "size": 178617,
+    "sha256": "03465d4fb2913e4843720e3abed614f3e847e6c174bf06a45da73e2f68ced6b6"
+  },
+  {
+    "key": "bit2005_http",
+    "url": "http://trakt.org.pl/wp-content/uploads/bit/2005/bit05_09.pdf",
+    "utc": "2026-11-06T13:47:59.530745+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "lodz1999_search",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Dziennik+%C5%81%C3%B3dzki+1999&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T13:47:59.531616+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  }
+]

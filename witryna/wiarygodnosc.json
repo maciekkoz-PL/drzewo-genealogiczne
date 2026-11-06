@@ -1549,9 +1549,10 @@
       "role": "Ciocia Czesia · pokrewieństwo nieustalone",
       "dates": "Około 100 lat w 2026 r.†",
       "place": "Łódź — przekaz rodzinny",
-      "note": "Marysia pamięta ciocię Czesię z Łodzi i jej syna mieszkającego w Niemczech. Dokładne pokrewieństwo z Marysią oraz nazwisko rodowe Czesi są nieznane. Możliwość, że była żoną Romana Chmielewskiego, pozostaje hipotezą. †Wiek jest orientacyjnym wspomnieniem, nie ustaloną datą urodzenia. Nie potwierdzono daty zgonu.",
+      "note": "Marysia pamięta spotkania z ciocią Czesią w Łodzi sprzed 2000 r. Z przekazu rodzinnego wiadomo też o jej synu mieszkającym w Niemczech. Według rodzinnej hipotezy Czesia mogła być żoną jednego z braci Czesława; Roman jest jednym z możliwych wariantów, bez potwierdzenia. Nazwisko rodowe i dokładne pokrewieństwo pozostają nieznane. †Wiek jest orientacyjnym wspomnieniem. Nie ustalono daty śmierci i nie utożsamiono jej z wpisem cmentarnym z 1999 r.",
       "source": [
-        "REL-013"
+        "REL-013",
+        "REL-014"
       ],
       "x": -800,
       "y": 280,
@@ -1578,9 +1579,10 @@
       "role": "Imię i nazwisko nieustalone",
       "dates": "Daty nieznane",
       "place": "Niemcy — przekaz rodzinny",
-      "note": "Według rodzinnego wspomnienia syn Czesławy Chmielewskiej mieszkał całe życie w Niemczech. Nie znamy jego imienia, nazwiska, dat ani ojca. Nie przypisano go Romanowi Chmielewskiemu i nie ustalono, że urodził się w Niemczech.",
+      "note": "Według rodzinnego wspomnienia syn cioci Czesi mieszka lub mieszkał w Niemczech; wcześniej przekazano wspomnienie o pobycie tam przez całe życie. Nie znamy jego imienia, nazwiska, dat ani ojca. Nie ustalono, że urodził się w Niemczech. Nie przypisano go Romanowi Chmielewskiemu.",
       "source": [
-        "REL-013"
+        "REL-013",
+        "REL-014"
       ],
       "x": -800,
       "y": 560,
@@ -2170,6 +2172,10 @@
     "S166": {
       "title": "Józef Mandziuk — urodzenie195/1897, Tomaszów Lubelski",
       "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/c07a9fd88a54463d6f84d279f3c376a637f7814d3f5de061aa28a624503618d2"
+    },
+    "REL-014": {
+      "title": "Przekaz rodzinny 06.11.2026: Czesia, jej syn i spotkania sprzed 2000 r.",
+      "url": null
     }
   },
   "relations": [

@@ -1,3 +1,5 @@
+**Nowsza sesja i zmieniony priorytet:** ciocia Czesia i syn; zobacz [etap13](../2026-11-06-sesja-13-ciocia-czesia/PLAN_KONTYNUACJI.md). Nie rozpoczynać od dawnego planu rodzeństwa.
+
 **Stan na koniec: wersja16 działa; HTTP200 i zgodnośćHTML potwierdzone, 51kart/75relacji/7wpisów. Badania ae9078e.** [Publikacja](PUBLIKACJA.json), [test strony](WALIDACJA_PUBLICZNA.json).
 
 # Następna sesja — małżonkowie i dzieci rodzeństwa Czesława

@@ -1,0 +1,1153 @@
+[
+  {
+    "key": "pochodnia_archiwum",
+    "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/",
+    "utc": "2026-11-06T13:43:48.608771+00:00",
+    "status": 200,
+    "final_url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/",
+    "size": 82082,
+    "sha256": "492b1568df1cba9e250a43b7cd2d3c4f178cc6f380922a7f8db1a2481d541bf2",
+    "links": [
+      {
+        "text": "Przejdź do menu",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/#menu_glowne"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/#tresc"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "Polski Związek Niewidomych",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny-133212933444657/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/PZN_IT"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCt3rkpp3a39GjLQS8mxT1oA"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "O nas",
+        "url": "https://pzn.org.pl/o-nas/"
+      },
+      {
+        "text": "Władze naczelne",
+        "url": "https://pzn.org.pl/o-nas/wladze-naczelne-zwiazku/"
+      },
+      {
+        "text": "Misja i wizja",
+        "url": "https://pzn.org.pl/o-nas/misja-i-wizja/"
+      },
+      {
+        "text": "Struktura organizacyjna",
+        "url": "https://pzn.org.pl/o-nas/struktura-organizacyjna/"
+      },
+      {
+        "text": "Aktywność społeczna",
+        "url": "https://pzn.org.pl/o-nas/aktywnosc-spoleczna/"
+      },
+      {
+        "text": "Jak zapisać się do PZN",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-zapisac-sie-do-pzn/"
+      },
+      {
+        "text": "Statut",
+        "url": "https://pzn.org.pl/o-nas/statut-pzn/"
+      },
+      {
+        "text": "Sprawozdania OPP",
+        "url": "https://pzn.org.pl/o-nas/sprawozdania-opp/"
+      },
+      {
+        "text": "Historia",
+        "url": "https://pzn.org.pl/o-nas/z-kart-historii-ruchu-niewidomych-i-polskiego-zwiazku-niewidomych/"
+      },
+      {
+        "text": "RODO",
+        "url": "https://pzn.org.pl/dane-osobowe/"
+      },
+      {
+        "text": "Sygnaliści – Zgłoszenia zewnetrzne",
+        "url": "https://www.gov.pl/web/sygnalisci/dokonaj-zgloszenia-zewnetrznego"
+      },
+      {
+        "text": "Sygnaliści – zgłoszenia wewnętrzne",
+        "url": "https://pzn.org.pl/o-nas/sygnalisci-zgloszenia-wewnetrzne/"
+      },
+      {
+        "text": "Partnerzy i przyjaciele",
+        "url": "https://pzn.org.pl/o-nas/partnerzy-i-przyjaciele/"
+      },
+      {
+        "text": "Jubileusz – 75 lat PZN",
+        "url": "https://pzn.org.pl/o-nas/jubileusz-75-lat-pzn/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://pzn.org.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Baza wiedzy",
+        "url": "https://pzn.org.pl/baza-wiedzy/"
+      },
+      {
+        "text": "Gdy tracisz wzrok",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/"
+      },
+      {
+        "text": "Jak pomóc osobie z uszkodzonym wzrokiem",
+        "url": "https://pzn.org.pl/jak-pomoc-osobie-z-uszkodzonym-wzrokiem/"
+      },
+      {
+        "text": "Jak pomóc osobie z uszkodzonym wzrokiem",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-pomoc-osobie-z-uszkodzonym-wzrokiem/"
+      },
+      {
+        "text": "Jak zapisać się do PZN",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-zapisac-sie-do-pzn/"
+      },
+      {
+        "text": "Pomoce i sprzęt",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/technologie-i-sprzet/"
+      },
+      {
+        "text": "Rehabilitacja osób niewidomych i słabowidzących",
+        "url": "https://pzn.org.pl/baza-wiedzy/rehabilitacja-osob-niewidomych-i-slabowidzacych/"
+      },
+      {
+        "text": "Co to jest rehabilitacja osób niewidomych i słabowidzących",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/co-to-jest-rehabilitacja-osob-niewidomych-i-slabowidzacych/"
+      },
+      {
+        "text": "Aspekty psychologiczne",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/aspekty-psychologiczne/"
+      },
+      {
+        "text": "Czynności życia codziennego",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/czynnosci-zycia-codziennego/"
+      },
+      {
+        "text": "Orientacja przestrzenna i samodzielne poruszanie się",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/orientacja-przestrzenna-i-samodzielne-poruszanie-sie/"
+      },
+      {
+        "text": "Usprawnianie widzenia",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/usprawnianie-widzenia/"
+      },
+      {
+        "text": "Pies przewodnik",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/pies-przewodnik/"
+      },
+      {
+        "text": "Ulgi i przywileje",
+        "url": "https://pzn.org.pl/baza-wiedzy/ulgi-i-przywileje/"
+      },
+      {
+        "text": "Ulgi",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/ulgi/"
+      },
+      {
+        "text": "Dofinansowanie ze środków publicznych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/dofinansowanie-ze-srodkow-publicznych/"
+      },
+      {
+        "text": "Świadczenia emerytalno – rentowe",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/swiadczenia-emerytalno-rentowe/"
+      },
+      {
+        "text": "Prawo wyborcze",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/prawo-wyborcze/"
+      },
+      {
+        "text": "Zdrowie i profilaktyka",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/zdrowie/"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://pzn.org.pl/baza-wiedzy/edukacja/"
+      },
+      {
+        "text": "Ośrodki i szkoły",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/osrodki-i-szkoly/"
+      },
+      {
+        "text": "Informacje o podręcznikach szkolnych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/informacje-o-podrecznikach-szkolnych/"
+      },
+      {
+        "text": "Zasady adaptacji materiałów dydaktycznych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/zasady-adaptacji-materialow-dydaktycznych/"
+      },
+      {
+        "text": "Podręczniki do nauki brajla wydawane przez PZN",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/podreczniki-do-nauki-brajla-wydawane-przez-pzn/"
+      },
+      {
+        "text": "Praca",
+        "url": "https://pzn.org.pl/baza-wiedzy/praca/"
+      },
+      {
+        "text": "Dla pracujących i poszukujących pracy",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/praca/dla-pracujacaych-i-poszukujacych-pracy/"
+      },
+      {
+        "text": "Dla pracodawców",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/praca/dla-pracodawcow/"
+      },
+      {
+        "text": "Publikacje tyflologiczne",
+        "url": "https://pzn.org.pl/publikacje-tyflologiczne/"
+      },
+      {
+        "text": "Adaptacje",
+        "url": "https://pzn.org.pl/baza-wiedzy/adaptacje/"
+      },
+      {
+        "text": "Adaptacja przestrzeni publicznej dla niewidomych i słabowidzacych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/adaptacja-przestrzeni/"
+      },
+      {
+        "text": "Adaptacje napisów",
+        "url": "https://pzn.org.pl/baza-wiedzy/adaptacje/adaptacje-napisow/"
+      },
+      {
+        "text": "Elektroniczne, bezpłatne poradniki i publikacje PZN",
+        "url": "https://pzn.org.pl/poradniki-i-publikacje-pzn-nowe/"
+      },
+      {
+        "text": "Dostępność",
+        "url": "https://pzn.org.pl/dostepnosc/"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Projekty realizowane przez Polski Związek Niewidomych i Instytut Tyflologiczny PZN",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Projekty zrealizowane przez Polski Związek Niewidomych i Instytut Tyflologiczny PZN – archiwum",
+        "url": "https://pzn.org.pl/dzialania/dzialania-archiwum/"
+      },
+      {
+        "text": "Zapytania i przetargi",
+        "url": "https://pzn.org.pl/category/oferta/zapytania-ofertowe/"
+      },
+      {
+        "text": "Oferta",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Laboratorium Ciemności",
+        "url": "https://pzn.org.pl/category/oferta/laboratorium-ciemnosci/"
+      },
+      {
+        "text": "Opiniowanie dostępności",
+        "url": "https://pzn.org.pl/oferta-uslug/opiniowanie-dostepnosci/"
+      },
+      {
+        "text": "Opiniowanie napisów brajlowskich na opakowaniach leków",
+        "url": "https://pzn.org.pl/oferta-uslug/opiniowanie-napisow-brajlowskich-na-opakowaniach-lekow/"
+      },
+      {
+        "text": "Sprzedaż materiałów tyflograficznych",
+        "url": "https://pzn.org.pl/category/oferta/sprzedaz-materialow-tyflograficznych/"
+      },
+      {
+        "text": "Szkolenia na zamówienie",
+        "url": "https://pzn.org.pl/oferta-uslug/szkolenia-na-zamowienie/"
+      },
+      {
+        "text": "Sprzedaż wydawnictw tyflologicznych",
+        "url": "https://pzn.org.pl/category/oferta/sprzedaz-wydawnictw-tyflologicznych/"
+      },
+      {
+        "text": "Transkrypcje pisma brajla",
+        "url": "https://pzn.org.pl/category/oferta/transkrypcje-pisma-brajla/"
+      },
+      {
+        "text": "Wynajem powierzchni",
+        "url": "https://pzn.org.pl/wynajem/"
+      },
+      {
+        "text": "Nauka Brajla",
+        "url": "https://pzn.org.pl/nauka-brajla/"
+      },
+      {
+        "text": "Zapytania ofertowe",
+        "url": "https://pzn.org.pl/category/oferta/zapytania-ofertowe/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Pochodnia",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia/"
+      },
+      {
+        "text": "Promyczek",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/promyczek/"
+      },
+      {
+        "text": "Pod lupą",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pod-lupa/"
+      },
+      {
+        "text": "Nasze dzieci",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/nasze-dzieci/"
+      },
+      {
+        "text": "Biuletyn",
+        "url": "https://pzn.org.pl/newsletter/"
+      },
+      {
+        "text": "Instytut",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/"
+      },
+      {
+        "text": "Rada Naukowa",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/rada-naukowa/"
+      },
+      {
+        "text": "Projekty realizowane",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Laboratorium Ciemności",
+        "url": "https://pzn.org.pl/laboratorium-ciemnosci/"
+      },
+      {
+        "text": "Tyflogaleria",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/tyflogaleria/"
+      },
+      {
+        "text": "Pracownia doboru oświetlenia",
+        "url": "https://pzn.org.pl/pracownia-doboru-oswietlenia/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Oferta usług",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Multimedia",
+        "url": "https://pzn.org.pl/multimedia/"
+      },
+      {
+        "text": "Elektroniczne, bezpłatne poradniki i publikacje PZN",
+        "url": "https://pzn.org.pl/poradniki-i-publikacje-pzn-nowe/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://pzn.org.pl/kontakt/"
+      },
+      {
+        "text": "1,5%",
+        "url": "https://pzn.org.pl/1-5-procent/"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://pzn.org.pl/"
+      },
+      {
+        "text": "O nas",
+        "url": "https://pzn.org.pl/o-nas/"
+      },
+      {
+        "text": "Struktura organizacyjna",
+        "url": "https://pzn.org.pl/o-nas/struktura-organizacyjna/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://pzn.org.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Baza wiedzy",
+        "url": "https://pzn.org.pl/baza-wiedzy/"
+      },
+      {
+        "text": "Projekty realizowane",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Dostępność",
+        "url": "https://pzn.org.pl/dostepnosc/"
+      },
+      {
+        "text": "Oferta usług",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Multimedia",
+        "url": "https://pzn.org.pl/multimedia/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Instytut tyflologiczny",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://pzn.org.pl/kontakt/"
+      },
+      {
+        "text": "1,5%",
+        "url": "https://pzn.org.pl/1-5-procent/"
+      },
+      {
+        "text": "Akceptuję warunki polityki prywatności serwisu PZN",
+        "url": "https://pzn.org.pl/polityka-prywatnosci/"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl//wydawanie-czasopism/pochodnia"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl//wydawanie-czasopism/promyczek"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl//wydawanie-czasopism/pod-lupa"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl//wydawanie-czasopism/nasze-dzieci"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl//newsletter/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/intent/tweet?text=Przeczytaj:%20https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/"
+      },
+      {
+        "text": "Mail",
+        "url": "mailto:?subject=Ciekawy artykuł dla Ciebie&body=Znalazłem ciekawy artykuł: https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/."
+      },
+      {
+        "text": "Polski Związek Niewidomych",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "pzn@pzn.org.pl",
+        "url": "mailto:pzn@pzn.org.pl"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://pzn.org.pl/deklaracja-2026/"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "https://pzn.org.pl/polityka-prywatnosci/"
+      },
+      {
+        "text": "RODO",
+        "url": "https://pzn.org.pl/dane-osobowe/"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://pzn.org.pl/standardy-ochrony-maloletnich/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny-133212933444657/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/PZN_IT"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCt3rkpp3a39GjLQS8mxT1oA"
+      },
+      {
+        "text": "Idź do góry",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/#header"
+      },
+      {
+        "text": "tutaj",
+        "url": "http://2020.pzn.org.pl/polityka-prywatnosci/"
+      }
+    ]
+  },
+  {
+    "key": "pochodnia_numery",
+    "url": "https://pzn.org.pl/pochodnia-numer/",
+    "utc": "2026-11-06T13:43:48.610455+00:00",
+    "status": 200,
+    "final_url": "https://pzn.org.pl/pochodnia-numer/",
+    "size": 111535,
+    "sha256": "0a31566a90730da4bde30de74a042613603652698d6514f68a79c329bc61efd5",
+    "links": [
+      {
+        "text": "Przejdź do menu",
+        "url": "https://pzn.org.pl/pochodnia-numer/#menu_glowne"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://pzn.org.pl/pochodnia-numer/#tresc"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "Polski Związek Niewidomych",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny-133212933444657/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/PZN_IT"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCt3rkpp3a39GjLQS8mxT1oA"
+      },
+      {
+        "text": "",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "O nas",
+        "url": "https://pzn.org.pl/o-nas/"
+      },
+      {
+        "text": "Władze naczelne",
+        "url": "https://pzn.org.pl/o-nas/wladze-naczelne-zwiazku/"
+      },
+      {
+        "text": "Misja i wizja",
+        "url": "https://pzn.org.pl/o-nas/misja-i-wizja/"
+      },
+      {
+        "text": "Struktura organizacyjna",
+        "url": "https://pzn.org.pl/o-nas/struktura-organizacyjna/"
+      },
+      {
+        "text": "Aktywność społeczna",
+        "url": "https://pzn.org.pl/o-nas/aktywnosc-spoleczna/"
+      },
+      {
+        "text": "Jak zapisać się do PZN",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-zapisac-sie-do-pzn/"
+      },
+      {
+        "text": "Statut",
+        "url": "https://pzn.org.pl/o-nas/statut-pzn/"
+      },
+      {
+        "text": "Sprawozdania OPP",
+        "url": "https://pzn.org.pl/o-nas/sprawozdania-opp/"
+      },
+      {
+        "text": "Historia",
+        "url": "https://pzn.org.pl/o-nas/z-kart-historii-ruchu-niewidomych-i-polskiego-zwiazku-niewidomych/"
+      },
+      {
+        "text": "RODO",
+        "url": "https://pzn.org.pl/dane-osobowe/"
+      },
+      {
+        "text": "Sygnaliści – Zgłoszenia zewnetrzne",
+        "url": "https://www.gov.pl/web/sygnalisci/dokonaj-zgloszenia-zewnetrznego"
+      },
+      {
+        "text": "Sygnaliści – zgłoszenia wewnętrzne",
+        "url": "https://pzn.org.pl/o-nas/sygnalisci-zgloszenia-wewnetrzne/"
+      },
+      {
+        "text": "Partnerzy i przyjaciele",
+        "url": "https://pzn.org.pl/o-nas/partnerzy-i-przyjaciele/"
+      },
+      {
+        "text": "Jubileusz – 75 lat PZN",
+        "url": "https://pzn.org.pl/o-nas/jubileusz-75-lat-pzn/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://pzn.org.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Baza wiedzy",
+        "url": "https://pzn.org.pl/baza-wiedzy/"
+      },
+      {
+        "text": "Gdy tracisz wzrok",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/"
+      },
+      {
+        "text": "Jak pomóc osobie z uszkodzonym wzrokiem",
+        "url": "https://pzn.org.pl/jak-pomoc-osobie-z-uszkodzonym-wzrokiem/"
+      },
+      {
+        "text": "Jak pomóc osobie z uszkodzonym wzrokiem",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-pomoc-osobie-z-uszkodzonym-wzrokiem/"
+      },
+      {
+        "text": "Jak zapisać się do PZN",
+        "url": "https://pzn.org.pl/baza-wiedzy/gdy-tracisz-wzrok/jak-zapisac-sie-do-pzn/"
+      },
+      {
+        "text": "Pomoce i sprzęt",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/technologie-i-sprzet/"
+      },
+      {
+        "text": "Rehabilitacja osób niewidomych i słabowidzących",
+        "url": "https://pzn.org.pl/baza-wiedzy/rehabilitacja-osob-niewidomych-i-slabowidzacych/"
+      },
+      {
+        "text": "Co to jest rehabilitacja osób niewidomych i słabowidzących",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/co-to-jest-rehabilitacja-osob-niewidomych-i-slabowidzacych/"
+      },
+      {
+        "text": "Aspekty psychologiczne",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/aspekty-psychologiczne/"
+      },
+      {
+        "text": "Czynności życia codziennego",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/czynnosci-zycia-codziennego/"
+      },
+      {
+        "text": "Orientacja przestrzenna i samodzielne poruszanie się",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/orientacja-przestrzenna-i-samodzielne-poruszanie-sie/"
+      },
+      {
+        "text": "Usprawnianie widzenia",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/usprawnianie-widzenia/"
+      },
+      {
+        "text": "Pies przewodnik",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/rehabilitacja-niewidomych-i-slabowidzacych/pies-przewodnik/"
+      },
+      {
+        "text": "Ulgi i przywileje",
+        "url": "https://pzn.org.pl/baza-wiedzy/ulgi-i-przywileje/"
+      },
+      {
+        "text": "Ulgi",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/ulgi/"
+      },
+      {
+        "text": "Dofinansowanie ze środków publicznych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/dofinansowanie-ze-srodkow-publicznych/"
+      },
+      {
+        "text": "Świadczenia emerytalno – rentowe",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/swiadczenia-emerytalno-rentowe/"
+      },
+      {
+        "text": "Prawo wyborcze",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/prawo/prawo-wyborcze/"
+      },
+      {
+        "text": "Zdrowie i profilaktyka",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/zdrowie/"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://pzn.org.pl/baza-wiedzy/edukacja/"
+      },
+      {
+        "text": "Ośrodki i szkoły",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/osrodki-i-szkoly/"
+      },
+      {
+        "text": "Informacje o podręcznikach szkolnych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/informacje-o-podrecznikach-szkolnych/"
+      },
+      {
+        "text": "Zasady adaptacji materiałów dydaktycznych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/zasady-adaptacji-materialow-dydaktycznych/"
+      },
+      {
+        "text": "Podręczniki do nauki brajla wydawane przez PZN",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/edukacja/podreczniki-do-nauki-brajla-wydawane-przez-pzn/"
+      },
+      {
+        "text": "Praca",
+        "url": "https://pzn.org.pl/baza-wiedzy/praca/"
+      },
+      {
+        "text": "Dla pracujących i poszukujących pracy",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/praca/dla-pracujacaych-i-poszukujacych-pracy/"
+      },
+      {
+        "text": "Dla pracodawców",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/praca/dla-pracodawcow/"
+      },
+      {
+        "text": "Publikacje tyflologiczne",
+        "url": "https://pzn.org.pl/publikacje-tyflologiczne/"
+      },
+      {
+        "text": "Adaptacje",
+        "url": "https://pzn.org.pl/baza-wiedzy/adaptacje/"
+      },
+      {
+        "text": "Adaptacja przestrzeni publicznej dla niewidomych i słabowidzacych",
+        "url": "https://pzn.org.pl/category/baza_wiedzy/adaptacja-przestrzeni/"
+      },
+      {
+        "text": "Adaptacje napisów",
+        "url": "https://pzn.org.pl/baza-wiedzy/adaptacje/adaptacje-napisow/"
+      },
+      {
+        "text": "Elektroniczne, bezpłatne poradniki i publikacje PZN",
+        "url": "https://pzn.org.pl/poradniki-i-publikacje-pzn-nowe/"
+      },
+      {
+        "text": "Dostępność",
+        "url": "https://pzn.org.pl/dostepnosc/"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Projekty realizowane przez Polski Związek Niewidomych i Instytut Tyflologiczny PZN",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Projekty zrealizowane przez Polski Związek Niewidomych i Instytut Tyflologiczny PZN – archiwum",
+        "url": "https://pzn.org.pl/dzialania/dzialania-archiwum/"
+      },
+      {
+        "text": "Zapytania i przetargi",
+        "url": "https://pzn.org.pl/category/oferta/zapytania-ofertowe/"
+      },
+      {
+        "text": "Oferta",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Laboratorium Ciemności",
+        "url": "https://pzn.org.pl/category/oferta/laboratorium-ciemnosci/"
+      },
+      {
+        "text": "Opiniowanie dostępności",
+        "url": "https://pzn.org.pl/oferta-uslug/opiniowanie-dostepnosci/"
+      },
+      {
+        "text": "Opiniowanie napisów brajlowskich na opakowaniach leków",
+        "url": "https://pzn.org.pl/oferta-uslug/opiniowanie-napisow-brajlowskich-na-opakowaniach-lekow/"
+      },
+      {
+        "text": "Sprzedaż materiałów tyflograficznych",
+        "url": "https://pzn.org.pl/category/oferta/sprzedaz-materialow-tyflograficznych/"
+      },
+      {
+        "text": "Szkolenia na zamówienie",
+        "url": "https://pzn.org.pl/oferta-uslug/szkolenia-na-zamowienie/"
+      },
+      {
+        "text": "Sprzedaż wydawnictw tyflologicznych",
+        "url": "https://pzn.org.pl/category/oferta/sprzedaz-wydawnictw-tyflologicznych/"
+      },
+      {
+        "text": "Transkrypcje pisma brajla",
+        "url": "https://pzn.org.pl/category/oferta/transkrypcje-pisma-brajla/"
+      },
+      {
+        "text": "Wynajem powierzchni",
+        "url": "https://pzn.org.pl/wynajem/"
+      },
+      {
+        "text": "Nauka Brajla",
+        "url": "https://pzn.org.pl/nauka-brajla/"
+      },
+      {
+        "text": "Zapytania ofertowe",
+        "url": "https://pzn.org.pl/category/oferta/zapytania-ofertowe/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Pochodnia",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia/"
+      },
+      {
+        "text": "Promyczek",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/promyczek/"
+      },
+      {
+        "text": "Pod lupą",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/pod-lupa/"
+      },
+      {
+        "text": "Nasze dzieci",
+        "url": "https://pzn.org.pl/wydawanie-czasopism/nasze-dzieci/"
+      },
+      {
+        "text": "Biuletyn",
+        "url": "https://pzn.org.pl/newsletter/"
+      },
+      {
+        "text": "Instytut",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/"
+      },
+      {
+        "text": "Rada Naukowa",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/rada-naukowa/"
+      },
+      {
+        "text": "Projekty realizowane",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Laboratorium Ciemności",
+        "url": "https://pzn.org.pl/laboratorium-ciemnosci/"
+      },
+      {
+        "text": "Tyflogaleria",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/tyflogaleria/"
+      },
+      {
+        "text": "Pracownia doboru oświetlenia",
+        "url": "https://pzn.org.pl/pracownia-doboru-oswietlenia/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Oferta usług",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Multimedia",
+        "url": "https://pzn.org.pl/multimedia/"
+      },
+      {
+        "text": "Elektroniczne, bezpłatne poradniki i publikacje PZN",
+        "url": "https://pzn.org.pl/poradniki-i-publikacje-pzn-nowe/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://pzn.org.pl/kontakt/"
+      },
+      {
+        "text": "1,5%",
+        "url": "https://pzn.org.pl/1-5-procent/"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://pzn.org.pl/"
+      },
+      {
+        "text": "O nas",
+        "url": "https://pzn.org.pl/o-nas/"
+      },
+      {
+        "text": "Struktura organizacyjna",
+        "url": "https://pzn.org.pl/o-nas/struktura-organizacyjna/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://pzn.org.pl/category/aktualnosci/"
+      },
+      {
+        "text": "Baza wiedzy",
+        "url": "https://pzn.org.pl/baza-wiedzy/"
+      },
+      {
+        "text": "Projekty realizowane",
+        "url": "https://pzn.org.pl/category/projekty-realizowane/"
+      },
+      {
+        "text": "Dostępność",
+        "url": "https://pzn.org.pl/dostepnosc/"
+      },
+      {
+        "text": "Oferta usług",
+        "url": "https://pzn.org.pl/oferta-uslug/"
+      },
+      {
+        "text": "Multimedia",
+        "url": "https://pzn.org.pl/multimedia/"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://pzn.org.pl/razem-mozemy-wiecej-czasopisma-pzn-u-dla-osob-z-dysfunkcja-narzadu-wzroku-w-ramach-konkursu-1-2023-mozemy-wiecej/"
+      },
+      {
+        "text": "Instytut tyflologiczny",
+        "url": "https://pzn.org.pl/instytut-tyflologiczny/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://pzn.org.pl/kontakt/"
+      },
+      {
+        "text": "1,5%",
+        "url": "https://pzn.org.pl/1-5-procent/"
+      },
+      {
+        "text": "4(973)/2026",
+        "url": "https://pzn.org.pl/pochodnia-numer/4973-2026/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/4973-2026/"
+      },
+      {
+        "text": "3(972)/2026",
+        "url": "https://pzn.org.pl/pochodnia-numer/3972-2026/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/3972-2026/"
+      },
+      {
+        "text": "2(971)/2026",
+        "url": "https://pzn.org.pl/pochodnia-numer/2971-2026/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/2971-2026/"
+      },
+      {
+        "text": "1(970)/2026",
+        "url": "https://pzn.org.pl/pochodnia-numer/1970-2026/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/1970-2026/"
+      },
+      {
+        "text": "6(969)/2025",
+        "url": "https://pzn.org.pl/pochodnia-numer/6969-2025/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/6969-2025/"
+      },
+      {
+        "text": "5(968)/2025",
+        "url": "https://pzn.org.pl/pochodnia-numer/5968-2025/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/5968-2025/"
+      },
+      {
+        "text": "4(967)/2025",
+        "url": "https://pzn.org.pl/pochodnia-numer/4967-2025/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/4967-2025/"
+      },
+      {
+        "text": "3(966)/2025",
+        "url": "https://pzn.org.pl/pochodnia-numer/3966-2025/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/3966-2025/"
+      },
+      {
+        "text": "2(965)/2025",
+        "url": "https://pzn.org.pl/pochodnia-numer/2965-2025/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/2965-2025/"
+      },
+      {
+        "text": "1(964)/2025",
+        "url": "https://pzn.org.pl/pochodnia-numer/1964-2025/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/1964-2025/"
+      },
+      {
+        "text": "6(963)/2024",
+        "url": "https://pzn.org.pl/pochodnia-numer/6963-2024/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/6963-2024/"
+      },
+      {
+        "text": "5(962)/2024",
+        "url": "https://pzn.org.pl/pochodnia-numer/5962-2024/"
+      },
+      {
+        "text": "Czytaj więcej",
+        "url": "https://pzn.org.pl/pochodnia-numer/5962-2024/"
+      },
+      {
+        "text": "Następna strona »",
+        "url": "https://pzn.org.pl/pochodnia-numer/page/2/"
+      },
+      {
+        "text": "Zapraszamy na szkolenie z metodyki LEGO BRAILLE BRICKS",
+        "url": "https://pzn.org.pl/zapraszamy-na-szkolenie-z-metodyki-lego-braille-bricks/"
+      },
+      {
+        "text": "Ośrodek Rehabilitacji i Szkolenia PZN „Homer”: Przychodnia do wynajęcia",
+        "url": "https://pzn.org.pl/osrodek-rehabilitacji-i-szkolenia-pzn-homer-przychodnia-do-wynajecia/"
+      },
+      {
+        "text": "75 lat wspólnej drogi",
+        "url": "https://pzn.org.pl/75-lat-wspolnej-drogi/"
+      },
+      {
+        "text": "Zapraszamy do obejrzenia spotu filmowego PZN",
+        "url": "https://pzn.org.pl/zapraszamy-do-obejrzenia-spotu-filmowego-pzn/"
+      },
+      {
+        "text": "PZN świętuje swój jubileusz",
+        "url": "https://pzn.org.pl/pzn-swietuje-swoj-jubileusz/"
+      },
+      {
+        "text": "Polski Związek Niewidomych Instytut Tyflologiczny",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny/"
+      },
+      {
+        "text": "Zapisz się na biuletyn",
+        "url": "https://pzn.org.pl/newsletter"
+      },
+      {
+        "text": "Polski Związek Niewidomych",
+        "url": "https://pzn.org.pl"
+      },
+      {
+        "text": "pzn@pzn.org.pl",
+        "url": "mailto:pzn@pzn.org.pl"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://pzn.org.pl/deklaracja-2026/"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "https://pzn.org.pl/polityka-prywatnosci/"
+      },
+      {
+        "text": "RODO",
+        "url": "https://pzn.org.pl/dane-osobowe/"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://pzn.org.pl/standardy-ochrony-maloletnich/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/Polski-Zwi%C4%85zek-Niewidomych-Instytut-Tyflologiczny-133212933444657/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/PZN_IT"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCt3rkpp3a39GjLQS8mxT1oA"
+      },
+      {
+        "text": "Idź do góry",
+        "url": "https://pzn.org.pl/pochodnia-numer/#header"
+      },
+      {
+        "text": "tutaj",
+        "url": "http://2020.pzn.org.pl/polityka-prywatnosci/"
+      }
+    ]
+  },
+  {
+    "key": "bit2005_09",
+    "url": "https://trakt.org.pl/wp-content/uploads/bit/2005/bit05_09.pdf",
+    "utc": "2026-11-06T13:43:48.613179+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "zarzew_map",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW",
+    "utc": "2026-11-06T13:43:48.614043+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW",
+    "size": 11267,
+    "sha256": "6006450a04345df23499643de56c153dfacd61ebc7799bee1b1eeb8dd9199466",
+    "links": [
+      {
+        "text": "",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Mapa cmentarza",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/plan.html"
+      },
+      {
+        "text": "Wyszukiwarka grobów",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/kontakt.html"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "Powrót do widoku mapy cmentarza",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=5709&cm=ZARZW"
+      },
+      {
+        "text": "Drukuj",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/wydrukInformacjiOGrobie.html"
+      },
+      {
+        "text": "© SYST-KOM - Kompleksowe rozwiązania informatyczne",
+        "url": "https://www.systkom.pl"
+      }
+    ]
+  }
+]

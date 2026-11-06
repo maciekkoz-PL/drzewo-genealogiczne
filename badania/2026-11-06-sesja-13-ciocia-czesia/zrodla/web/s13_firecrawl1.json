@@ -1,0 +1,76 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"conversationId\":\"05561864-a2f6-87b0-8d80-a6cfc07aaf6e\",\"success\":true,\"data\":{\"web\":[{\"url\":\"https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/\",\"title\":\"Pochodnia - archiwum - Polski Związek Niewidomych\",\"description\":\"Ujęcie: górna połowa ciała, widok z przodu. Światełko. Nowy numer Naszych Dzieci (kwiecień-wrzesień). Nasze Dzieci. Biuletyn informacyjny Pochodni. Biuletyn.\",\"position\":1,\"source\":\"web\"},{\"url\":\"https://niepelnosprawnilublin.pl/pochodnia-magazyn-spoleczny-polskiego-zwiazku-niewidomych-zapraszamy-do-lektury/\",\"title\":\"magazyn społeczny Polskiego Związku Niewidomych\",\"description\":\"Polski Związek Niewidomych przygotował kolejne wydanie „Pochodni”, w którym znaleźć można kilkanaście, krótkich i dłuższych, artykułów, które ...\",\"position\":2,\"source\":\"web\"},{\"url\":\"https://polona2.pl/item/pochodnia-czasopismo-dla-niewidomych-miesiecznik-spoleczny-polskiego-zwiazku,NzI3MTIxODM/\",\"title\":\"miesięcznik społeczny Polskiego Związku Niewidomych R. 63 ...\",\"description\":\"Pochodnia : czasopismo dla niewidomych : [miesięcznik społeczny Polskiego Związku Niewidomych R. 63, nr 1/2 (styczeń/luty 2010) = nr 868/869 · uniform title.\",\"position\":3,\"source\":\"web\"},{\"url\":\"https://kronika.gov.pl/obiekt/17166571\",\"title\":\"prezentacja obiektu: Pochodnia : czasopismo dla niewidomych\",\"description\":\"Wojtkiewicz, Grażyna. Red. Wydawca. Zarząd Główny PZN. Miejsce wydania. Warszawa. Adres wydawniczy. Warszawa : Zarząd Główny PZN. Cykl wydania. dwumiesięcznik.\",\"position\":4,\"source\":\"web\"},{\"url\":\"https://archiwum.niepelnosprawni.pl/ledge/x/28161\",\"title\":\"Jubileusz „Pochodni” - Portal niepełnosprawni.pl\",\"description\":\"Na uroczystości zaprezentowano archiwalne numery pisma z lat czterdziestych i pięćdziesiątych. - Osobą która miała największy wkład w rozwój i ...\",\"position\":5,\"source\":\"web\"},{\"url\":\"https://opac.wimbp.zgora.pl/22100931178/dokumenty-ciagle/pochodnia?internalNav=1&bibFilter=2\",\"title\":\"miesięcznik społeczny Polskiego Związku Niewidomych\",\"description\":\"Pochodnia : czasopismo o niewidomych : ego Związku Niewidomych. Autorzy: Zarząd Główny (Polski Związek Niewidomych) 1994- Wydawca: Warszawa ISSN: 1427-5864. Jó ...\",\"position\":6,\"source\":\"web\"}],\"tools\":[{\"provider\":\"raws-dri-edu\",\"capability\":\"weather-history/catalog_audit\",\"description\":\"On a schedule, to learn that the archive moved stations before a state listing silently misses them; when it reports drift, list affected states with `stations` and `pages: all` until the table is updated.\"},{\"provider\":\"substack-com\",\"capability\":\"newsletters/archive\",\"description\":\"One page of a Substack publication's archive, newest, top or pinned first. Each entry carries title, subtitle, URL, publish time, audience (free or paid), word count, engagement counts, section, tags and bylines. Page with offset and limit.\"}]},\"creditsUsed\":2,\"id\":\"01a1b11e-d762-7017-88d4-6586b83640a4\",\"agent_hints\":[\"All 6 web results are excerpts only (#1 \\\"https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/\\\", #2 \\\"https://niepelnosprawnilublin.pl/pochodnia-magazyn-spoleczny-polskiego-zwiazku-niewidomych-zapraszamy-do-lektury/\\\", #3 \\\"https://polona2.pl/item/pochodnia-czasopismo-dla-niewidomych-miesiecznik-spoleczny-polskiego-zwiazku,NzI3MTIxODM/\\\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\\\"url\\\":\\\"<one of these URLs>\\\",\\\"formats\\\":[\\\"markdown\\\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content.\"]}"
+    }
+  ],
+  "structuredContent": {
+    "success": true,
+    "data": {
+      "web": [
+        {
+          "url": "https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/",
+          "title": "Pochodnia - archiwum - Polski Związek Niewidomych",
+          "description": "Ujęcie: górna połowa ciała, widok z przodu. Światełko. Nowy numer Naszych Dzieci (kwiecień-wrzesień). Nasze Dzieci. Biuletyn informacyjny Pochodni. Biuletyn.",
+          "position": 1,
+          "source": "web"
+        },
+        {
+          "url": "https://niepelnosprawnilublin.pl/pochodnia-magazyn-spoleczny-polskiego-zwiazku-niewidomych-zapraszamy-do-lektury/",
+          "title": "magazyn społeczny Polskiego Związku Niewidomych",
+          "description": "Polski Związek Niewidomych przygotował kolejne wydanie „Pochodni”, w którym znaleźć można kilkanaście, krótkich i dłuższych, artykułów, które ...",
+          "position": 2,
+          "source": "web"
+        },
+        {
+          "url": "https://polona2.pl/item/pochodnia-czasopismo-dla-niewidomych-miesiecznik-spoleczny-polskiego-zwiazku,NzI3MTIxODM/",
+          "title": "miesięcznik społeczny Polskiego Związku Niewidomych R. 63 ...",
+          "description": "Pochodnia : czasopismo dla niewidomych : [miesięcznik społeczny Polskiego Związku Niewidomych R. 63, nr 1/2 (styczeń/luty 2010) = nr 868/869 · uniform title.",
+          "position": 3,
+          "source": "web"
+        },
+        {
+          "url": "https://kronika.gov.pl/obiekt/17166571",
+          "title": "prezentacja obiektu: Pochodnia : czasopismo dla niewidomych",
+          "description": "Wojtkiewicz, Grażyna. Red. Wydawca. Zarząd Główny PZN. Miejsce wydania. Warszawa. Adres wydawniczy. Warszawa : Zarząd Główny PZN. Cykl wydania. dwumiesięcznik.",
+          "position": 4,
+          "source": "web"
+        },
+        {
+          "url": "https://archiwum.niepelnosprawni.pl/ledge/x/28161",
+          "title": "Jubileusz „Pochodni” - Portal niepełnosprawni.pl",
+          "description": "Na uroczystości zaprezentowano archiwalne numery pisma z lat czterdziestych i pięćdziesiątych. - Osobą która miała największy wkład w rozwój i ...",
+          "position": 5,
+          "source": "web"
+        },
+        {
+          "url": "https://opac.wimbp.zgora.pl/22100931178/dokumenty-ciagle/pochodnia?internalNav=1&bibFilter=2",
+          "title": "miesięcznik społeczny Polskiego Związku Niewidomych",
+          "description": "Pochodnia : czasopismo o niewidomych : ego Związku Niewidomych. Autorzy: Zarząd Główny (Polski Związek Niewidomych) 1994- Wydawca: Warszawa ISSN: 1427-5864. Jó ...",
+          "position": 6,
+          "source": "web"
+        }
+      ],
+      "tools": [
+        {
+          "provider": "raws-dri-edu",
+          "capability": "weather-history/catalog_audit",
+          "description": "On a schedule, to learn that the archive moved stations before a state listing silently misses them; when it reports drift, list affected states with `stations` and `pages: all` until the table is updated."
+        },
+        {
+          "provider": "substack-com",
+          "capability": "newsletters/archive",
+          "description": "One page of a Substack publication's archive, newest, top or pinned first. Each entry carries title, subtitle, URL, publish time, audience (free or paid), word count, engagement counts, section, tags and bylines. Page with offset and limit."
+        }
+      ]
+    },
+    "id": "01a1b11e-d762-7017-88d4-6586b83640a4",
+    "creditsUsed": 2,
+    "agent_hints": [
+      "All 6 web results are excerpts only (#1 \"https://pzn.org.pl/wydawanie-czasopism/pochodnia-archiwum/\", #2 \"https://niepelnosprawnilublin.pl/pochodnia-magazyn-spoleczny-polskiego-zwiazku-niewidomych-zapraszamy-do-lektury/\", #3 \"https://polona2.pl/item/pochodnia-czasopismo-dla-niewidomych-miesiecznik-spoleczny-polskiego-zwiazku,NzI3MTIxODM/\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+    ],
+    "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+  },
+  "isError": false
+}

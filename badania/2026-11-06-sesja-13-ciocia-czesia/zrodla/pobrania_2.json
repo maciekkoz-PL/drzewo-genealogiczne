@@ -1,0 +1,59 @@
+[
+  {
+    "key": "czeslawa_nsz_bio",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/zznsz-07-001-0001-t2-k014/",
+    "utc": "2026-11-06T13:45:32.607433+00:00",
+    "status": 200,
+    "size": 125568,
+    "sha256": "a088be0859702df177b7a13daa84e7266f11c062b9f6f34805fc2a609a27cfee",
+    "images": [
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014-218x300.jpg"
+    ],
+    "links": [
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2020/11/Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014.pdf",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014.jpg",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2020/11/Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf"
+    ]
+  },
+  {
+    "key": "czeslawa_nsz_bio_rewers",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/zznsz-07-001-0001-t2-k014a/",
+    "utc": "2026-11-06T13:45:32.608759+00:00",
+    "status": 200,
+    "size": 125612,
+    "sha256": "c91710d0671b8e2c66255086be096a65b89c01fee23a042fe5aa211cd1388604",
+    "images": [
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014a-218x300.jpg"
+    ],
+    "links": [
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2020/11/Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014a.pdf",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k014a.jpg",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2020/11/Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf"
+    ]
+  },
+  {
+    "key": "czeslawa_nsz_deklaracja",
+    "url": "https://archiwumcyfrowe.nsz.com.pl/zznsz-07-001-0001-t2-k012-013/",
+    "utc": "2026-11-06T13:45:32.609346+00:00",
+    "status": 200,
+    "size": 125608,
+    "sha256": "a84e02e9b9febc6ccb07d4cc5b70c6d80d977981633696b330e9db1bba1077b0",
+    "images": [
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k012-150x150.jpg",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k013-150x150.jpg"
+    ],
+    "links": [
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2020/11/Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2021/07/ZZNSZ-07-001-0001-t2-k012-013.pdf",
+      "https://archiwumcyfrowe.nsz.com.pl/wp-content/uploads/2020/11/Przewodnik-po-Cyfrowym-Archiwum-Zwiazku-Zolnierzy-NSZ-online.pdf"
+    ]
+  },
+  {
+    "key": "bit2005_new",
+    "url": "https://trakt.org.pl/pliki/bit05_09.pdf",
+    "utc": "2026-11-06T13:45:32.610439+00:00",
+    "error": "HTTP Error 404: Not Found"
+  }
+]
