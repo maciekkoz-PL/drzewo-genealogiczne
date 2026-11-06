@@ -1,0 +1,127 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "2799c84117e443c6ae3e",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Jozef Mandziuk 1897",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T19:24:06.920693+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s19/arolsen/jozef1897_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "2799c84117e443c6ae3e",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T19:24:08.359415+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2",
+    "path": "work/s19/arolsen/jozef1897_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "7d2b9105ea984184b1c3",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Mandziuk 1897",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T19:24:09.636331+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s19/arolsen/mandziuk1897_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "7d2b9105ea984184b1c3",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T19:24:10.637371+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "d0ec55701f289a01de8b25f6ed5c10f1df28b1c8101ca1f0769845d3faf22c6c",
+    "path": "work/s19/arolsen/mandziuk1897_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "7d2b9105ea984184b1c3",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T19:24:11.482599+00:00",
+    "status": 200,
+    "bytes": 17092,
+    "sha256": "5c01e7f2a3e243e26d71d0116d69e1c7e91f3c60e2a84367dde2053b9f9a408c",
+    "path": "work/s19/arolsen/mandziuk1897_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "889aac6c29284d5e84bc",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Emilia Mandziuk",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T19:24:12.938872+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s19/arolsen/emilia_all_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "889aac6c29284d5e84bc",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T19:24:13.617002+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "a70f615606436e8e1c460bab08fbcb4703675f5efb6d9c24fa33fb4eb5c17cf4",
+    "path": "work/s19/arolsen/emilia_all_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "889aac6c29284d5e84bc",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T19:24:14.437765+00:00",
+    "status": 200,
+    "bytes": 2674,
+    "sha256": "1d8e58b11b607300b15b94027bee7e36e80c7b2970e30900158aa763b53a4b7a",
+    "path": "work/s19/arolsen/emilia_all_GetPersonList.json"
+  }
+]
