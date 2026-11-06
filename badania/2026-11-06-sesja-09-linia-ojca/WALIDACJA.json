@@ -1,8 +1,9 @@
 {
   "result": "PASS",
-  "validated_at_utc": "2026-11-06T11:29:17.676498+00:00",
+  "validated_at_utc": "2026-11-06T11:33:03.209240+00:00",
   "baseline": "019919f96c2f1fd9d82c28ceb2f27ac2dadc2b01",
-  "sheets": 21,
+  "parallel_audit_and_publication": "0dd9b99",
+  "sheets": 23,
   "counts": {
     "RDZEN_RODZINY": 12,
     "RODZINA_Z_RELACJI": 9,
@@ -24,7 +25,9 @@
     "AUDYT_PAKIETU": 0,
     "HIPOTEZY_OTWARTE": 19,
     "TROPY_SKOROWIDZE": 0,
-    "HIPOTEZY_ROZSTRZYGNIETE": 6
+    "HIPOTEZY_ROZSTRZYGNIETE": 6,
+    "WIARYGODNOSC_OSOB": 79,
+    "WIARYGODNOSC_RELACJI": 29
   },
   "existing_cells_changed": [
     [
@@ -59,10 +62,10 @@
     ]
   ],
   "family_relationships_events_and_maternal_updates_unchanged": true,
-  "public_html_unchanged": true,
+  "public_html_unchanged_since_parallel_publication": true,
   "original_zips_unchanged": true,
   "jpeg_checked": 71,
-  "local_links_checked": 159,
+  "local_links_checked": 161,
   "H017_H018_open": true,
-  "workbook_sha256": "7c24d9ec05cc80284ba4d6614dde43a8dca2bcb5e9c87843a275cc553f09752a"
+  "workbook_sha256": "5a4fe2f5b7bd44817e8d4950d8a01e1bff1a6426c9bf129c64da058487eab120"
 }

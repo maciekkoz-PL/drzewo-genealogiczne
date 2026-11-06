@@ -1,3 +1,7 @@
+**Wersja9 opublikowana:** trzy poziomy, domyślnie2. Widoki obu gałęzi: 5/21/47osób i5/29/65relacji. Test Chromium1440/390px przeszedł; publiczny URL zwróciłHTTP200 i identyczny HTML. [Publikacja](../badania/2026-11-06-trzy-poziomy/PUBLIKACJA.json).
+
+**Trzy poziomy wiarygodności:** domyślnie poziom 2. Dane publiczne redagować ręcznie w `wiarygodnosc.json`; `generuj.py` składa HTML i zachowaną kronikę. Oceny tożsamości, połączenia z rodziną i każdej relacji są odrębne. [Audyt wszystkich osób i relacji](../badania/2026-11-06-trzy-poziomy/README.md). `python witryna/sprawdz.py` sprawdza poziomy 1–3, obie gałęzie i szerokości 1440/390px. Poniższe opisy dwóch trybów są historyczne.
+
 **Publikacja potwierdzenia pradziadków zakończona:** wersja 8, `succeeded`, ten sam publiczny URL. Józef P24 i Czesława P25 mają rodzinne połączenia z Romanem; JPEG S135 jest wyłącznie w prywatnym repozytorium badań. [Metadane](../badania/2026-11-06-linia-matki/PUBLIKACJA_PRADZIADKOW.json).
 
 **Aktualizacja pradziadków (06.11.2026):** Józef P24 i Czesława P25 są rodzicami Romana według REL-012; dawne C43/C44 pozostają aliasami w prywatnej bazie. Zdjęcie S135 zostało otrzymane, odczytane i zapisane prywatnie; na stronie tylko opis. Pełny widok nadal ma 28 kart i 5 krótkich wpisów, układ centralny i stałe linie rodziców Marysi zachowane. Relacje P24/P25 → Roman są rodzinne. [Szczegóły](../badania/2026-11-06-linia-matki/POTWIERDZENIE_PRADZIADKOW.md). Wcześniejsze notatki poniżej zachowują historyczny stan przed otrzymaniem JPEG.

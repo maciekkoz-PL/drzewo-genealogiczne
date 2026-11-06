@@ -1,3 +1,5 @@
+**Trzy poziomy drzewa (06.11.2026):** 1 — udokumentowane z zachowanym wyjątkiem rodziców Marysi, 2 — także prawdopodobne (domyślny), 3 — także przypuszczenia i najstarsze indeksowane pokolenie. [Audyt i uzasadnienia](badania/2026-11-06-trzy-poziomy/README.md). Dotychczasowe 21 arkuszy zachowane; dodano 2 arkusze audytu.
+
 **Bieżące badania linii ojca — etap09 (06.11.2026):** Napiórkowskiego112 potwierdzone jako rejonXIV, bez ustalonej listy mieszkańców; C42 nadal hipotezą. Dariusz1896/1940 ma innych rodziców i został wykluczony. Katalog25435–25438 to grupa literowa, nie komisariatXI. [Wyniki i ograniczenia](badania/2026-11-06-sesja-09-linia-ojca/STATUS.md), [dokładny plan kontynuacji](badania/2026-11-06-sesja-09-linia-ojca/PLAN_KONTYNUACJI.md).
 
 **Aktualizacja po potwierdzeniu rodziny i otrzymaniu zdjęcia (06.11.2026):** Józef P24 i Czesława P25 są pradziadkami Marysi, rodzicami Romana według bezpośredniego przekazu REL-012. C43/C44 zachowano jako aliasy; daty i wiek odczytano z otrzymanego JPEG S135, zapisanego prywatnie. [Szczegóły i granice](badania/2026-11-06-linia-matki/POTWIERDZENIE_PRADZIADKOW.md).

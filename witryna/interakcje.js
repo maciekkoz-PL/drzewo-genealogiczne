@@ -10,9 +10,12 @@ const normalize=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'
 let currentPeople=[],currentEdges=[],positions={},scale=1,width=1540,height=1080,offsetX=0,offsetY=0;
 $('updated').textContent='Aktualizacja: '+dt(D.generated);
 
+let selectedLevel=2;
+const levelNames={1:'Udokumentowane',2:'Prawdopodobne',3:'Przypuszczenie'};
+const relationByPair=Object.fromEntries(D.relations.map(r=>[r.a+'|'+r.b,r]));
 function filteredPeople(){
- const documented=$('evidence').value==='documented',branch=$('branch').value;
- return D.people.filter(p=>(branch==='both'||p.branch==='both'||p.branch===branch)&&(!documented||p.evidence==='document'||p.id==='P01'));
+ const branch=$('branch').value;
+ return D.people.filter(p=>(branch==='both'||p.branch==='both'||p.branch===branch)&&p.level<=selectedLevel);
 }
 function zoom(v){
  const centerX=($('viewport').scrollLeft+$('viewport').clientWidth/2-offsetX)/scale,centerY=($('viewport').scrollTop+$('viewport').clientHeight/2-offsetY)/scale;
@@ -37,8 +40,7 @@ function centerMarysia(){
 }
 function renderTree(){
  currentPeople=filteredPeople();const ids=new Set(currentPeople.map(p=>p.id));
- const documented=$('evidence').value==='documented';
- currentEdges=D.edges.filter(([a,b,kind])=>ids.has(a)&&ids.has(b)&&(!documented||['document','marriage','parent'].includes(kind)));
+ currentEdges=D.edges.filter(([a,b])=>ids.has(a)&&ids.has(b)&&relationByPair[a+'|'+b].level<=selectedLevel);
  $('canvas').querySelectorAll('.node').forEach(n=>n.remove());$('lines').replaceChildren();
  const root=byId.P01,centerX=root.x+120,centerY=root.y+71;
  const halfWidth=Math.max(400,...currentPeople.map(p=>Math.max(centerX-p.x,p.x+240-centerX)))+40;
@@ -48,8 +50,8 @@ function renderTree(){
  $('people').innerHTML='<option value="">Wybierz osobę, aby zobaczyć szczegóły</option>';
  for(const p of currentPeople){
   positions[p.id]={x:p.x-minX,y:p.y-minY};const pos=positions[p.id];
-  const b=document.createElement('button');b.className='node '+p.status;b.dataset.id=p.id;b.style.left=pos.x+'px';b.style.top=pos.y+'px';
-  b.setAttribute('aria-label','Szczegóły: '+p.name);b.innerHTML=`<span class="badge">${esc(labels[p.status])}</span><span class="name">${esc(p.name)}</span><small>${esc(p.role)}</small><div class="dates">${esc(p.dates)}</div>`;
+  const b=document.createElement('button');b.className='node '+p.status+' level-'+p.level;b.dataset.id=p.id;b.style.left=pos.x+'px';b.style.top=pos.y+'px';
+  b.setAttribute('aria-label','Szczegóły: '+p.name);b.innerHTML=`<span class="badge">${esc(levelNames[p.level])}</span><span class="name">${esc(p.name)}</span><small>${esc(p.role)}</small><div class="dates">${esc(p.dates)}</div>`;
   b.onclick=()=>openPerson(p.id);$('canvas').appendChild(b);
   const o=document.createElement('option');o.value=p.id;o.textContent=p.name+(p.status==='candidate'?' · hipoteza':'');$('people').appendChild(o);
  }
@@ -78,22 +80,26 @@ function renderTree(){
   path.setAttribute('stroke',['identity','hypothesis','hypothesis_parent','identity_candidate'].includes(kind)?'#ab7d3e':['family','sibling','family_marriage'].includes(kind)?'#8c9896':kind==='marriage'?'#8e859e':'#729b7c');
   path.setAttribute('stroke-width',kind==='parent'?'2.5':'1.7');path.dataset.kind=kind;path.dataset.from=a;path.dataset.to=b;
   if(kind==='parent'){path.setAttribute('stroke','#2b6c59');path.setAttribute('vector-effect','non-scaling-stroke')}
-  if(['identity','family','sibling','hypothesis','family_marriage','hypothesis_parent','identity_candidate'].includes(kind))path.setAttribute('stroke-dasharray',kind.startsWith('hypothesis')?'2 6':'6 5');
-  const title=document.createElementNS('http://www.w3.org/2000/svg','title');title.textContent=edgeLabels[kind];path.appendChild(title);$('lines').appendChild(path);
+  const evidence=relationByPair[a+'|'+b];path.dataset.level=evidence.level;
+  if(evidence.level>1)path.setAttribute('stroke-dasharray',evidence.level===3?'2 6':'6 5');
+  path.setAttribute('stroke',evidence.level===3?'#946528':evidence.level===2?'#73827c':'#2b6c59');
+  const title=document.createElementNS('http://www.w3.org/2000/svg','title');title.textContent=levelNames[evidence.level]+': '+evidence.reason;path.appendChild(title);$('lines').appendChild(path);
  }
- $('view-note').textContent=documented?'Rodzice Marysi oraz udokumentowane powiązania.':'Marysia w centrum · rodzina taty u góry, rodzina mamy na dole.';
+ $('view-note').textContent=`${currentPeople.length} osób · ${currentEdges.length} relacji. Poziom ${selectedLevel}. Istnienie osoby i jej relacja są oceniane oddzielnie; szczegóły w karcie.`;
  applySearch();fit();
 }
 function openPerson(id){
  const p=byId[id];if(!p)return;
  if(!currentPeople.some(x=>x.id===id)){
-  if(p.evidence!=='document'&&id!=='P01')$('evidence').value='extended';
+  selectedLevel=Math.max(selectedLevel,p.level);syncLevels();
   if($('branch').value!=='both'&&p.branch!=='both'&&p.branch!==$('branch').value)$('branch').value='both';
   renderTree();
  }
  const relatives=currentEdges.filter(e=>e[0]===id||e[1]===id).map(e=>({id:e[0]===id?e[1]:e[0],kind:e[2]}));
  const unique=[...new Map(relatives.map(r=>[r.id,r])).values()];
- $('detail').innerHTML=`<div class="eyebrow">${esc(labels[p.status])}</div><h2>${esc(p.name)}</h2><p class="detail-dates">${esc(p.dates)}</p><p>${esc(p.place)}</p><p class="detail-note">${esc(p.note)}</p>${unique.length?`<h3>Powiązane osoby</h3><div class="related">${unique.map(r=>`<button class="pill" data-open="${r.id}">${esc(byId[r.id].name)}${['hypothesis','hypothesis_parent','identity_candidate'].includes(r.kind)?' · hipoteza':r.kind==='identity'?' · identyfikacja w toku':['family','sibling','family_marriage'].includes(r.kind)?' · przekaz rodzinny':''}</button>`).join('')}</div>`:''}<h3>Podstawa informacji</h3>${p.source.map(sid=>{const s=D.sources[sid];return `<div class="source">${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:`<strong>${esc(s.title)}</strong>`}${s.description?`<p>${esc(s.description)}</p>`:''}</div>`}).join('')}`;
+ $('detail').innerHTML=`<div class="eyebrow">${esc(levelNames[p.level])}</div><h2>${esc(p.name)}</h2><p class="detail-dates">${esc(p.dates)}</p><p>${esc(p.place)}</p><p class="detail-note">${esc(p.note)}</p>${unique.length?`<h3>Powiązane osoby</h3><div class="related">${unique.map(r=>`<button class="pill" data-open="${r.id}">${esc(byId[r.id].name)}${['hypothesis','hypothesis_parent','identity_candidate'].includes(r.kind)?' · hipoteza':r.kind==='identity'?' · identyfikacja w toku':['family','sibling','family_marriage'].includes(r.kind)?' · przekaz rodzinny':''}</button>`).join('')}</div>`:''}<h3>Podstawa informacji</h3>${p.source.map(sid=>{const s=D.sources[sid];return `<div class="source">${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:`<strong>${esc(s.title)}</strong>`}${s.description?`<p>${esc(s.description)}</p>`:''}</div>`}).join('')}`;
+ const relationDetails=D.relations.filter(r=>r.a===id||r.b===id).map(r=>`<div class="source"><strong>${esc(byId[r.a].name)} → ${esc(byId[r.b].name)} · ${esc(levelNames[r.level])}${r.exception?' · wyjątek rodzinny':''}</strong><p>${esc(r.reason)}</p><p>Do wyższego poziomu: ${esc(r.missing)}</p><p>Źródła: ${esc(r.sources)}</p></div>`).join('');
+ $('detail').insertAdjacentHTML('beforeend',`<h3>Ocena danych i połączenia</h3><p>Tożsamość źródłowa: ${esc(levelNames[p.identityLevel])}. Połączenie z rodziną: ${esc(levelNames[p.connectionLevel])}.</p><p>${esc(p.dataEvidence)}</p><p>${esc(p.classificationReason)}</p><p>Potrzebny dowód: ${esc(p.missing)}</p><h3>Relacje ocenione osobno</h3>${relationDetails}`);
  $('detail').querySelectorAll('[data-open]').forEach(b=>b.onclick=()=>openPerson(b.dataset.open));
  if(!$('person').open)$('person').showModal();location.hash='osoba-'+id;
  $('people').value=id;
@@ -104,7 +110,9 @@ function applySearch(){
  $('canvas').querySelectorAll('.node').forEach(b=>{const p=byId[b.dataset.id];b.style.opacity=!q||normalize(p.name+' '+p.role).includes(q)?'1':'.25'});
 }
 function changeView(){if($('person').open)$('close').click();renderTree()}
-$('evidence').onchange=changeView;$('branch').onchange=changeView;
+function syncLevels(){document.querySelectorAll('#evidence [data-level]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.level)===selectedLevel)))}
+document.querySelectorAll('#evidence [data-level]').forEach(b=>b.onclick=()=>{selectedLevel=Number(b.dataset.level);syncLevels();changeView()});
+$('branch').onchange=changeView;
 $('close').onclick=()=>{$('person').close();location.hash='drzewo'};
 $('person').addEventListener('click',e=>{if(e.target===$('person'))$('close').click()});
 $('people').onchange=e=>{if(e.target.value)openPerson(e.target.value)};

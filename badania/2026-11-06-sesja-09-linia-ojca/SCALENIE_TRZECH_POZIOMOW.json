@@ -1,0 +1,13 @@
+{
+  "base": "8f4d7c5",
+  "research": "389a80c",
+  "parallel": "0dd9b99",
+  "prior21sheets_remote_unchanged_vs_base": true,
+  "research_updates_preserved": true,
+  "added_audit_sheets": [
+    "WIARYGODNOSC_OSOB",
+    "WIARYGODNOSC_RELACJI"
+  ],
+  "website_source": "origin/main0dd9b99 preserved without edits",
+  "sheets": 23
+}
