@@ -1,0 +1,27 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T12:03:03.064560+00:00",
+  "audit_rows": {
+    "WIARYGODNOSC_OSOB": 84,
+    "WIARYGODNOSC_RELACJI": 69
+  },
+  "level_counts": {
+    "1": {
+      "people": 14,
+      "relations": 22,
+      "contextual_links": 2
+    },
+    "2": {
+      "people": 23,
+      "relations": 35,
+      "contextual_links": 0
+    },
+    "3": {
+      "people": 47,
+      "relations": 69,
+      "contextual_links": 0
+    }
+  },
+  "html_matches_json": true,
+  "H017_context_preserved": true
+}

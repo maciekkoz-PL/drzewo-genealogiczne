@@ -1,3 +1,5 @@
+**Aktualny stan — wersja12:** Sabina P26 i Julianna P27 potwierdzone aktami jako siostry Czesława. Poziomy pokazują14/23/47osób i22/35/69linii; poziom1 zawiera dwa wyraźnie oznaczone łączniki H017. Kronika ma6krótkich wpisów. Publikacja succeeded, HTTP200, identyczny HTML oraz testy1440/390px i audyt Excel/CSV/HTML PASS. [Raport i źródła](../badania/2026-11-06-sesja-10-siostry-czeslawa/STATUS.md). Poniższe starsze liczby dokumentują wcześniejsze wersje.
+
 **Korekta filtra:** własne akty osób nie są ukrywane przez H017. Widok udokumentowany:12osób i16linii, w tym2przerywane łączniki identyfikacji w toku. [Wyjaśnienie](../badania/2026-11-06-trzy-poziomy/KOREKTA_FILTRA.md).
 
 **Wersja9 opublikowana:** trzy poziomy, domyślnie2. Widoki obu gałęzi: 5/21/47osób i5/29/65relacji. Test Chromium1440/390px przeszedł; publiczny URL zwróciłHTTP200 i identyczny HTML. [Publikacja](../badania/2026-11-06-trzy-poziomy/PUBLIKACJA.json).

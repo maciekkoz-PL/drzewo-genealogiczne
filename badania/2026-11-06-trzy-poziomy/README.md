@@ -1,3 +1,5 @@
+**Aktualizacja po dwóch aktach sióstr Czesława (wersja12):** P26/P27 zastępują na stronie C04/C02, aliasy zachowane w bazie. Audyt:84rekordy osób i69relacji. Poziomy:14/22(wtym2łącznikiH017),23/35,47/69. [Potwierdzenie zgodności](../2026-11-06-sesja-10-siostry-czeslawa/WALIDACJA_SPOJNOSCI_PUBLIKACJI.json). Historyczne liczby poniżej pozostają opisem poprzedniego stanu.
+
 **Korekta filtra:** własne akty osób nie są ukrywane przez H017. Widok udokumentowany:12osób i16linii, w tym2przerywane łączniki identyfikacji w toku. [Wyjaśnienie](KOREKTA_FILTRA.md).
 
 # Trzy poziomy wiarygodności

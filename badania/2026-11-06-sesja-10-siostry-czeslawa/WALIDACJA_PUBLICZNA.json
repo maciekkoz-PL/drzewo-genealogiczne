@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "at_utc": "2026-11-06T12:02:26.341830+00:00",
+  "http_status": 200,
+  "live_matches_local": true,
+  "html_sha256": "20f90d29127ffe0e3f58d395955b6d993623390319bb7c0d6c9d275c28966cf8",
+  "new_people": [
+    "P26",
+    "P27"
+  ],
+  "news_count": 6,
+  "both_parent_lines": true,
+  "javascript_errors": []
+}
