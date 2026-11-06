@@ -64,7 +64,7 @@ function renderTree(){
  for(const p of currentPeople){
   positions[p.id]={x:p.x-minX,y:p.y-minY};const pos=positions[p.id];
   const b=document.createElement('div');b.className='node '+p.status+' level-'+p.level;b.dataset.id=p.id;b.style.left=pos.x+'px';b.style.top=pos.y+'px';
-  b.setAttribute('role','group');b.setAttribute('aria-label',p.name);b.innerHTML=`<span class="badge">${esc(levelNames[p.level])}</span><button class="node-open" aria-label="Szczegóły: ${esc(p.name)}"><span class="name">${esc(p.name)}</span></button><small>${esc(p.role)}</small><div class="dates">${esc(p.dates)}</div>${(p.locations||[]).length?`<div class="node-maps">${locationLinks(p)}</div>`:''}`;
+  b.setAttribute('role','group');b.setAttribute('aria-label',p.name);b.innerHTML=`${portrait(p)}<span class="badge">${esc(levelNames[p.level])}</span><button class="node-open" aria-label="Szczegóły: ${esc(p.name)}"><span class="name">${esc(p.name)}</span></button><small>${esc(p.role)}</small><div class="dates">${esc(p.dates)}</div>${(p.locations||[]).length?`<div class="node-maps">${locationLinks(p)}</div>`:''}`;
   b.onclick=e=>{if(!e.target.closest('a'))openPerson(p.id)};$('canvas').appendChild(b);
   const o=document.createElement('option');o.value=p.id;o.textContent=p.name+(p.status==='candidate'?' · hipoteza':'');$('people').appendChild(o);
  }
@@ -101,6 +101,32 @@ function renderTree(){
  $('view-note').textContent=`${currentPeople.length} osób · ${currentEdges.length} relacji. Poziom ${selectedLevel}. Osoby i własne akty są widoczne niezależnie od H017. Przerywane łączniki rodziców Bogusława zachowują oznaczenie identyfikacji w toku.`;
  applySearch();fit();
 }
+const femaleIds=new Set(['P01','P04','P06','P08','P17','P19','P21','P23','P25','P26','P27','P28','P30','P31','C26','C45','C47','C49','C51','C53','C54','C57','C70']);
+// These document edges describe siblings rather than parenthood.
+const siblingPairs=new Set(['P03|P26','P03|P27','P03|P28']);
+function relativeLabel(personId,relative){
+ const other=relative.id,female=femaleIds.has(other),edge=D.edges.find(e=>(e[0]===personId&&e[1]===other)||(e[1]===personId&&e[0]===other));
+ const pair=edge[0]+'|'+edge[1],kind=edge[2];
+ if(kind==='identity_candidate')return 'możliwa tożsamość:';
+ if(kind==='hypothesis_marriage')return female?'możliwa żona':'możliwy mąż';
+ if(['marriage','family_marriage'].includes(kind))return female?'żona':'mąż';
+ if(kind==='hypothesis'&&other==='C06')return 'możliwy krewny';
+ if(kind==='hypothesis'&&personId==='C06')return female?'możliwa krewna':'możliwy krewny';
+ if(kind==='sibling'||kind==='hypothesis'||siblingPairs.has(pair)){
+  const half=pair==='P03|P28'?' przyrodni'+(female?'a':''):'';
+  return (kind==='hypothesis'?(female?'możliwa ':'możliwy '):'')+(female?'siostra':'brat')+half;
+ }
+ if(edge[0]===other)return female?'matka':'ojciec';
+ return female?'córka':'syn';
+}
+function relativeStatus(personId,relative){
+ const r=D.relations.find(r=>(r.a===personId&&r.b===relative.id)||(r.b===personId&&r.a===relative.id));
+ if(relative.kind==='identity')return 'identyfikacja w toku';
+ if(r?.level===3)return 'hipoteza';
+ if(r?.level===2)return 'przekaz rodzinny';
+ return '';
+}
+const portrait=p=>p.photo?`<div class="portrait">${p.photo.viewBox?`<svg viewBox="${esc(p.photo.viewBox)}" role="img" aria-label="Portret: ${esc(p.name)}"><image href="${esc(p.photo.src)}" width="${p.photo.width}" height="${p.photo.height}" /></svg>`:`<img src="${esc(p.photo.src)}" alt="Portret: ${esc(p.name)}" loading="lazy">`}</div>`:'';
 function openPerson(id){
  const p=byId[id];if(!p)return;
  if(!currentPeople.some(x=>x.id===id)){
@@ -110,7 +136,7 @@ function openPerson(id){
  }
  const relatives=currentEdges.filter(e=>e[0]===id||e[1]===id).map(e=>({id:e[0]===id?e[1]:e[0],kind:e[2]}));
  const unique=[...new Map(relatives.map(r=>[r.id,r])).values()];
- $('detail').innerHTML=`<div class="eyebrow">${esc(levelNames[p.level])}</div><h2>${esc(p.name)}</h2><p class="detail-dates">${esc(p.dates)}</p><p class="person-place">${placeWithLinks(p)}</p>${addressDetails(p)}<p class="detail-note">${esc(p.note)}</p>${unique.length?`<h3>Powiązane osoby</h3><div class="related">${unique.map(r=>`<button class="pill" data-open="${r.id}">${esc(byId[r.id].name)}${['hypothesis','hypothesis_parent','identity_candidate','hypothesis_marriage'].includes(r.kind)?' · hipoteza':r.kind==='identity'?' · identyfikacja w toku':['family','sibling','family_marriage'].includes(r.kind)?' · przekaz rodzinny':''}</button>`).join('')}</div>`:''}<h3>Podstawa informacji</h3>${p.source.map(sid=>{const s=D.sources[sid];return `<div class="source">${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:`<strong>${esc(s.title)}</strong>`}${s.description?`<p>${esc(s.description)}</p>`:''}</div>`}).join('')}`;
+ $('detail').innerHTML=`<div class="eyebrow">${esc(levelNames[p.level])}</div><h2>${esc(p.name)}</h2>${p.photo?`<figure class="person-photo">${portrait(p)}<figcaption>${esc(p.photo.caption)} <a href="${esc(D.sources[p.photo.source].url)}" target="_blank" rel="noopener noreferrer">Zobacz kartę źródłową ↗</a></figcaption></figure>`:''}<p class="detail-dates">${esc(p.dates)}</p><p class="person-place">${placeWithLinks(p)}</p>${addressDetails(p)}<p class="detail-note">${esc(p.note)}</p>${unique.length?`<h3>Powiązane osoby</h3><div class="related">${unique.map(r=>`<button class="pill" data-open="${r.id}">${esc(relativeLabel(id,r))} ${esc(byId[r.id].name)}${relativeStatus(id,r)?`<span class="relation-status">${esc(relativeStatus(id,r))}</span>`:''}</button>`).join('')}</div>`:''}<h3>Podstawa informacji</h3>${p.source.map(sid=>{const s=D.sources[sid];return `<div class="source">${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:`<strong>${esc(s.title)}</strong>`}${s.description?`<p>${esc(s.description)}</p>`:''}</div>`}).join('')}`;
  const relationDetails=D.relations.filter(r=>r.a===id||r.b===id).map(r=>`<div class="source"><strong>${esc(byId[r.a].name)} → ${esc(byId[r.b].name)} · ${esc(levelNames[r.level])}${r.exception?' · wyjątek rodzinny':''}</strong><p>${esc(r.reason)}</p><p>Do wyższego poziomu: ${esc(r.missing)}</p><p>Źródła: ${esc(r.sources)}</p></div>`).join('');
  $('detail').insertAdjacentHTML('beforeend',`<h3>Ocena danych i połączenia</h3><p>Tożsamość źródłowa: ${esc(levelNames[p.identityLevel])}. Połączenie z rodziną: ${esc(levelNames[p.connectionLevel])}.</p><p>${esc(p.dataEvidence)}</p><p>${esc(p.classificationReason)}</p><p>Potrzebny dowód: ${esc(p.missing)}</p><h3>Relacje ocenione osobno</h3>${relationDetails}`);
  $('detail').querySelectorAll('[data-open]').forEach(b=>b.onclick=()=>openPerson(b.dataset.open));
@@ -139,3 +165,4 @@ function renderNews(){
 }
 $('period').onchange=renderNews;renderNews();renderTree();
 const match=location.hash.match(/^#osoba-([PC]\d+)$/);if(match&&byId[match[1]])openPerson(match[1]);
+

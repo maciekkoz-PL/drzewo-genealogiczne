@@ -1628,8 +1628,26 @@
       "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
       "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
       "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
-      "locations": [],
-      "addresses": []
+      "locations": [
+        {
+          "label": "Berri",
+          "query": "Berri, South Australia, Australia"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Berri, South Australia, Australia",
+          "when": "14.02.1950",
+          "context": "Skierowanie do Australian Dried Fruits Association, Berri, SA, zapisane na karcie migracyjnej.",
+          "source": "S183",
+          "query": "Berri, South Australia, Australia"
+        }
+      ],
+      "photo": {
+        "src": "assets/roman-australia-naa.jpg",
+        "source": "S183",
+        "caption": "Roman Chmielewski — fotografia z karty migracyjnej, 1950. National Archives of Australia, A2571, CHMIELEWSKI ROMAN."
+      }
     },
     {
       "id": "C70",
@@ -1679,8 +1697,29 @@
       "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
       "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
       "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
-      "locations": [],
-      "addresses": []
+      "locations": [
+        {
+          "label": "Mildura",
+          "query": "Mildura, Victoria, Australia"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Mildura, Victoria, Australia",
+          "when": "kwiecień 1950",
+          "context": "Skierowanie do ośrodka w Mildurze według karty migracyjnej.",
+          "source": "S184",
+          "query": "Mildura, Victoria, Australia"
+        }
+      ],
+      "photo": {
+        "src": "assets/roman-syn-naa.jpg",
+        "source": "S184",
+        "caption": "Roman Chmielewski (ur. 06.10.1946) — fotografia z karty migracyjnej z 1950 r. National Archives of Australia, A2571, item 203670397. Pokrewieństwo z rodziną Marysi pozostaje hipotezą H035.",
+        "viewBox": "2480 100 650 880",
+        "width": 3200,
+        "height": 2000
+      }
     },
     {
       "id": "C72",
