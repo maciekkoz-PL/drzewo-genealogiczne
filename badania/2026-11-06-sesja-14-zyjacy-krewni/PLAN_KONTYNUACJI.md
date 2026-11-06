@@ -1,3 +1,5 @@
+**Stan końcowy:** badania5322732 wysłane naGitHub; publiczna wersja18 działa, HTTP200 i zgodnośćHTML potwierdzone. Nie potwierdzono nowego żyjącego krewnego. [Publikacja](PUBLIKACJA.json), [walidacja](WALIDACJA_PUBLICZNA.json).
+
 # Kontynuacja — żyjący krewni po ojcu
 
 1. **Obowiązujący priorytet użytkownika:** znaleźć żyjących krewnych z gałęzi taty. Najpierw P10/C19, następnie P32 przez identyfikację matki P31, dalej potomkowie rodzeństwa Czesława. Nie wracać do wyłącznego priorytetu „tylko Czesia” z etapu13. Nie blokować badań na H017; dokument Bogusława ma uzupełnić rodzina.
