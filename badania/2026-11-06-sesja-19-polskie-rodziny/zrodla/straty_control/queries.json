@@ -1,0 +1,16 @@
+[
+  {
+    "key": "control_czeslaw1909",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "Chmielewski",
+      "imie": "Czesław",
+      "ur_rok": "1909",
+      "szukaj": "Szukaj"
+    },
+    "at_utc": "2026-11-06T19:35:53.954382+00:00",
+    "status": 200,
+    "bytes": 12234,
+    "sha256": "46008096031f91973b333d19dcfa720fdc4fad2b44fa8f6fdea8c7016838df1f"
+  }
+]

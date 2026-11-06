@@ -1,0 +1,64 @@
+[
+  {
+    "key": "sabina_maiden",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "",
+      "szukaj": "Szukaj",
+      "imie": "Sabina",
+      "panienskie": "Chmielewska",
+      "ur_rok": "1917"
+    },
+    "at_utc": "2026-11-06T19:37:58.745008+00:00",
+    "status": 200,
+    "bytes": 6794,
+    "sha256": "9acc893836f73dbd35189757a5efcc3e91aa1c48de11bf9b8aa097d4e68aca6a",
+    "rows": 0
+  },
+  {
+    "key": "julianna_maiden",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "",
+      "szukaj": "Szukaj",
+      "imie": "Julianna",
+      "panienskie": "Chmielewska",
+      "ur_rok": "1907"
+    },
+    "at_utc": "2026-11-06T19:38:00.018313+00:00",
+    "status": 200,
+    "bytes": 6796,
+    "sha256": "17374b30197a82389e2367ca4b05f1894d4a698d7ccf2812988efbcc71692f38",
+    "rows": 0
+  },
+  {
+    "key": "emilia_maiden",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "",
+      "szukaj": "Szukaj",
+      "imie": "Emilia",
+      "panienskie": "Chmielewska",
+      "ur_rok": "1904"
+    },
+    "at_utc": "2026-11-06T19:38:01.387490+00:00",
+    "status": 200,
+    "bytes": 6794,
+    "sha256": "ccfd6f06fd1326f4a58389074d4421b5b5379f37c99bc5480677cb741e047ea1",
+    "rows": 0
+  },
+  {
+    "key": "mandziuk1897_no_given",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "Mandziuk",
+      "szukaj": "Szukaj",
+      "ur_rok": "1897"
+    },
+    "at_utc": "2026-11-06T19:38:03.199791+00:00",
+    "status": 200,
+    "bytes": 10439,
+    "sha256": "7f856ae8ccc33a85ea417254810070a4766ef0a7309efcbf9d13794412444bd0",
+    "rows": 1
+  }
+]

@@ -339,3 +339,22 @@ Pełne adresy, oryginały i granice: [raport](badania/2026-11-06-sesja-18-polska
 | S223 | Karty46553169,44887491,176848766; sekcje współpochówku i2miniatury | Józef1966wiek24, inny niżP29. JuliannaBucior1995wiek86, różnica1rok; nieutożsamiona. Józef1939bezDOB, współpochowanaKatarzynaTryndoch, brak dowodu małżeństwa. |
 
 Nie potwierdzono nowego żyjącego krewnego. Excel, hipotezy i plan zaktualizowane; drzewo pozostawiono bez publikowania negatywnych kwerend jako przełomów. Kopie nie zawierają cookies ani tymczasowych podpisów URL.
+
+
+## Etap19 — polskie rodziny, 6 listopada 2026
+
+[Raport i granice](badania/2026-11-06-sesja-19-polskie-rodziny/STATUS.md), [dokładne URL i zakres odczytu](badania/2026-11-06-sesja-19-polskie-rodziny/ZAKRES_ODCZYTU.md).
+
+| ID | Nowy zakres | Wynik |
+|---|---|---|
+| S224 | Pięć publicznych kart Julii:Pasula,Typek,Wróblewska,Matej,Raczkiewicz | Bezrodzinnegołącznika; wiek/rodoweodmienne lubniewystarczające. Bez odczytu pełnych fotografii. |
+| S225 | Arolsen:3nowe kwerendy,25+4wiersze | Brak datP28/P29; nie29nowychobrazów.25zawiera różnero­czniki całejlisty. |
+| S226 | Geneteka,lubelskieD1932–1979Mandziuk | 1wierszMroczkowskiego, matkaMandziuk; ograniczonepokrycie. |
+| S227 | Tomaszów1926,album4345,M67/Z176 | Pełneindeksy bezrodziny; U339tylko wprotokole, skanówurodzeńbrak. |
+| S228 | APZ88/48/0MajdanGórny,159metadanych | 0skanów. Księgi156–159innychwsi; wykazyMajdanu94/95/136nieodczytane. |
+| S229 | LucynaWyszyńska,RocznikTomaszowski3/2014,str156druk/157PDF | WskazaniePasieki1551908–1934, nieustalony zakresRogóźna; nieodczytana księga. |
+| S230 | Straty:8nowychkwerend +kontrola | Brakidentyfikacji; Jan16.12.1897nieP29. KontrolaCzesław1909:2znaneID. |
+| S231 | Próby żywego kataloguPasiek | Portletniedostępny;82720Poturzyn,82719MajdanSopocki, nieprzypisanePasiekom. |
+| S232 | 39kwerendweb | Braknowychpotomków/rodzinnegołącznika; szkicAPZprzygotowanylokalnie,niewysłany. |
+
+Nie dodano imienników do drzewa. Stan Excela232źródła/97kandydatów/220kwerend; historia iZIPy zachowane. Każda przyszła publikacja przełomu ma zaktualizować istniejącą witrynę.
