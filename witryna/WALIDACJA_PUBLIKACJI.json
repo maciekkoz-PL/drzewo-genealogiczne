@@ -1,13 +1,18 @@
 {
   "result": "PASS",
-  "checked_at_utc": "2026-11-06T07:53:39.872497+00:00",
-  "version_number": 5,
+  "checked_at_utc": "2026-11-06T08:34:39.097042+00:00",
+  "version_number": 7,
   "http_status": 200,
-  "full_nodes": 21,
+  "full_nodes": 28,
   "documented_nodes": 13,
-  "maternal_nodes": 4,
+  "maternal_full_nodes": 11,
   "paternal_full_nodes": 18,
   "news": 5,
-  "viewport_width": 390,
-  "javascript_errors": []
+  "parents_connected_in_both_modes": true,
+  "parent_lines_solid": true,
+  "Marysia_centered_desktop_and_390px": true,
+  "paternal_above_maternal_below": true,
+  "deployed_html_byte_identical": true,
+  "javascript_errors": [],
+  "source_commit_sha": "3dc98a24b57ec79d5a9c436d88222a7c38dec32c"
 }
