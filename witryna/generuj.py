@@ -5,6 +5,7 @@ from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1];HERE=Path(__file__).resolve().parent
 # Ręcznie wybrane dane publiczne i niezależne oceny relacji: wiarygodnosc.json.
 events=[
+('54fe3e02fad045457095647f57678653e4838b50','Potwierdzono dwie siostry Czesława','Akty urodzenia Sabiny (14.07.1917) i Julianny (09.11.1907) wskazują Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów z Rogoźna — tych samych rodziców co akt Czesława. Związek sióstr z Tczewem pozostaje nieustalony.','odkrycie'),
 ('309edd1da848f3ae1bd3446e6a247e2cc027524f','Uzupełniono rodzinę mamy i potwierdzenie pradziadków','Rodzina potwierdziła Józefa i Czesławę jako pradziadków Marysi, rodziców Romana. Dostarczone zdjęcie potwierdza cztery inskrypcje; wcześniejsze dane rodzeństwa Marii i linii Kulas zachowują swoje źródła.','uzupełnienie'),
 ('2843053','Odnaleziono akt możliwego brata Bogusława','Czesław zmarł w Łodzi 3 lutego 1940 r., mając osiem dni. Rodziców zapisano jako Czesława i Janinę z Poprawskich; pokrewieństwo z rodziną wymaga potwierdzenia.','ważny akt'),
 ('ea0d189','Potwierdzono nazwiska rodziców Bogusława','Jego odpis ślubu wskazuje Czesława Chmielewskiego i Janinę Poprawkę.','odkrycie'),

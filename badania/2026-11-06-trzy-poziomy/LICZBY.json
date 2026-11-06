@@ -1,17 +1,17 @@
 {
   "1": {
-    "people": 12,
-    "relations": 16,
+    "people": 14,
+    "relations": 22,
     "contextual_links": 2
   },
   "2": {
-    "people": 21,
-    "relations": 29,
+    "people": 23,
+    "relations": 35,
     "contextual_links": 0
   },
   "3": {
     "people": 47,
-    "relations": 65,
+    "relations": 69,
     "contextual_links": 0
   }
 }

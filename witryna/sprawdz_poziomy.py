@@ -17,6 +17,13 @@ with sync_playwright() as p:
     assert prior<=ids;prior=ids;assert 'P01' in ids,(width,branch,level,ids,errors)
     expected=page.evaluate('([l,branch])=>D.people.filter(p=>p.level<=l&&(branch==="both"||p.branch==="both"||p.branch===branch)).length',[level,branch])
     assert len(ids)==expected,(width,branch,level,len(ids),expected)
+    if branch in ['both','paternal']:
+     assert {'P26','P27'}<=ids and not {'C02','C04'}&ids,(width,branch,level,ids)
+     for id,sid in [('P26','S147'),('P27','S148')]:
+      page.select_option('#people',id)
+      detail=page.locator('#detail').inner_text()
+      assert 'Wincent' in detail and 'Agniesz' in detail and sid in page.evaluate('(id)=>D.people.find(p=>p.id===id).source',id)
+      page.locator('#close').click()
     if branch in ['both','paternal'] and level==1:
      assert {'P03','P04','P05','P06','P07','P08','P12'}<=ids
      assert page.locator('#lines path[data-kind=identity]').count()==2
@@ -31,6 +38,8 @@ with sync_playwright() as p:
    page.select_option('#people',id);assert 'Potrzebny dowód' in page.locator('#detail').inner_text();page.locator('#close').click()
   assert page.locator('[data-id=P19]').count()==1 and page.locator('[data-id=C45]').count()==1
  assert not errors,errors
+ assert page.evaluate('D.news.length')==6
+ assert page.evaluate('D.relations.filter(r=>["R030","R031","R032","R033","R034","R035"].includes(r.id)).every(r=>r.level===1)')
  b.close()
 report={'result':'PASS','at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'widths':[1440,390],'all_levels_and_both_branches':True,'cumulative':True,'parent_exception_preserved':True,'line_styles_checked':True,'sources_and_dialogs_checked':True,'javascript_errors':errors}
 (HERE/'WALIDACJA_TRZECH_POZIOMOW.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print(report)

@@ -371,48 +371,50 @@
       "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
     },
     {
-      "id": "C02",
+      "id": "P27",
       "name": "Julianna Chmielewska",
-      "role": "Możliwa siostra Czesława",
-      "dates": "Ur. 1907 · akt 360",
-      "place": "Tomaszów Lubelski",
-      "note": "Kandydatka z indeksu urodzeń. Zbieżne nazwisko, parafia i epoka to jedyna dotychczasowa podstawa sprawdzenia. Rodzice nie zostali odczytani, więc pokrewieństwo z Czesławem pozostaje słabą hipotezą. Nie ustalono związku z Tczewem ani tego, czy to osoba wspominana przez rodzinę.",
+      "role": "Siostra Czesława",
+      "dates": "09.11.1907 · data gregoriańska",
+      "place": "Rogoźno · parafia Tomaszów Lubelski",
+      "note": "Akt 360/1907 podaje rodziców: Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów z Rogoźna. Julianna jest siostrą Czesława. W tym akcie ojcu wpisano 30 lat, co różni się od pozostałych dokumentów; rozbieżność zachowano. Brak ustalenia późniejszego nazwiska i związku z Tczewem.",
       "source": [
-        "S007"
+        "S148",
+        "S071"
       ],
       "x": 20,
       "y": 280,
-      "status": "candidate",
+      "status": "document",
       "branch": "paternal",
-      "evidence": "hypothesis",
-      "identityLevel": 3,
-      "level": 3,
-      "connectionLevel": 3,
-      "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
-      "missing": "Odczytać rodziców, nie dopisywać jako siostry.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "evidence": "document",
+      "identityLevel": 1,
+      "level": 1,
+      "connectionLevel": 2,
+      "classificationReason": "Odczytany akt urodzenia i zgodni oboje rodzice z rodziną Czesława. H017 pozostaje odrębną oceną łącznika do Bogusława.",
+      "missing": "Późniejszy ślub, nazwisko poślubne i dalsze losy. Związek z Tczewem nie został ustalony.",
+      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk."
     },
     {
-      "id": "C04",
+      "id": "P26",
       "name": "Sabina Chmielewska",
-      "role": "Możliwa siostra Czesława",
-      "dates": "Ur. 1917 · akt 124",
-      "place": "Tomaszów Lubelski",
-      "note": "Kandydatka z indeksu urodzeń. Rodzice nie zostali odczytani. Wspólne nazwisko i parafia nie potwierdzają siostrzeństwa z Czesławem. Nie ustalono związku z Tczewem ani tożsamości z siostrami ze wspomnienia rodziny.",
+      "role": "Siostra Czesława",
+      "dates": "14.07.1917 · data z aktu urodzenia",
+      "place": "Rogoźno · parafia Tomaszów Lubelski",
+      "note": "Akt 124/1917 podaje rodziców: Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów. Ci sami rodzice i Rogoźno występują w akcie Czesława. Sabina jest jego siostrą; nie ustalono późniejszych losów ani pobytu w Tczewie.",
       "source": [
-        "S009"
+        "S147",
+        "S071"
       ],
       "x": 280,
       "y": 280,
-      "status": "candidate",
+      "status": "document",
       "branch": "paternal",
-      "evidence": "hypothesis",
-      "identityLevel": 3,
-      "level": 3,
-      "connectionLevel": 3,
-      "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
-      "missing": "Odczytać rodziców.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "evidence": "document",
+      "identityLevel": 1,
+      "level": 1,
+      "connectionLevel": 2,
+      "classificationReason": "Odczytany akt urodzenia i zgodni oboje rodzice z rodziną Czesława. H017 pozostaje odrębną oceną łącznika do Bogusława.",
+      "missing": "Późniejszy ślub, nazwisko poślubne i dalsze losy. Związek z Tczewem nie został ustalony.",
+      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk."
     },
     {
       "id": "C25",
@@ -1163,13 +1165,13 @@
     ],
     [
       "P03",
-      "C02",
-      "hypothesis"
+      "P27",
+      "document"
     ],
     [
       "P03",
-      "C04",
-      "hypothesis"
+      "P26",
+      "document"
     ],
     [
       "P04",
@@ -1400,6 +1402,26 @@
       "C57",
       "C55",
       "family"
+    ],
+    [
+      "P05",
+      "P26",
+      "document"
+    ],
+    [
+      "P06",
+      "P26",
+      "document"
+    ],
+    [
+      "P05",
+      "P27",
+      "document"
+    ],
+    [
+      "P06",
+      "P27",
+      "document"
     ]
   ],
   "sources": {
@@ -1561,6 +1583,14 @@
       "title": "Indeksy dzieci Kulas/Gralewicz1895–1913",
       "description": "ODCZYTANO WIERSZE INDEKSU06.11.2026. Siedmioro dzieci pary Józef/Konstancja. W wynikach także odrębne dzieci Józefa/Franciszki Gralewicz — nie mieszać matek ani pokoleń.",
       "url": "https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5727&bdm=B&search_lastname=Kulas&search_lastname2=Gralewicz&from_date=1895&to_date=1913"
+    },
+    "S147": {
+      "title": "Sabina Chmielewska — akt urodzenia 124/1917",
+      "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/9d10d7cde36c6bc6600d52eb97d4ef1c0a384f9a98bbfd52bb23f9c62f65084e"
+    },
+    "S148": {
+      "title": "Julianna Chmielewska — akt urodzenia 360/1907",
+      "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/9a130e8ffe855ef7ea744ffba5207c1d4c197eec550bc4925b0a7056e0dddf34"
     }
   },
   "relations": [
@@ -1788,30 +1818,30 @@
       "new_level": 1
     },
     {
-      "id": "V018",
+      "id": "R035",
       "a": "P03",
-      "b": "C02",
-      "kind": "hypothesis",
-      "level": 3,
-      "reason": "Zbieżne nazwisko, parafia i epoka. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
-      "missing": "Odczytać rodziców, nie dopisywać jako siostry.",
-      "sources": "S086; S001; S071; S007",
+      "b": "P27",
+      "kind": "document",
+      "level": 1,
+      "reason": "Oryginalne akty podają tych samych oboje rodziców, nazwisko rodowe matki i Rogoźno. W akcie Julianny wiek ojca jest rozbieżny; zapisano to w opisie i Q74.",
+      "missing": "Brak wymogu kolejnego dokumentu dla tej relacji. Dalsze losy i Tczew pozostają nieustalone.",
+      "sources": "S148; S071",
       "exception": false,
       "previous_status": "hypothesis",
-      "new_level": 3
+      "new_level": 1
     },
     {
-      "id": "V019",
+      "id": "R032",
       "a": "P03",
-      "b": "C04",
-      "kind": "hypothesis",
-      "level": 3,
-      "reason": "Zbieżne nazwisko, parafia i epoka. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
-      "missing": "Odczytać rodziców.",
-      "sources": "S086; S001; S071; S009",
+      "b": "P26",
+      "kind": "document",
+      "level": 1,
+      "reason": "Oryginalne akty podają tych samych oboje rodziców, nazwisko rodowe matki i Rogoźno. Wiek rodziców jest zgodny w przybliżeniu.",
+      "missing": "Brak wymogu kolejnego dokumentu dla tej relacji. Dalsze losy i Tczew pozostają nieustalone.",
+      "sources": "S147; S071",
       "exception": false,
       "previous_status": "hypothesis",
-      "new_level": 3
+      "new_level": 1
     },
     {
       "id": "V020",
@@ -2410,6 +2440,58 @@
       "exception": false,
       "previous_status": "family",
       "new_level": 3
+    },
+    {
+      "id": "R030",
+      "a": "P05",
+      "b": "P26",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "previous_status": "new_document",
+      "exception": false,
+      "reason": "Rodzic wymieniony bezpośrednio w odczytanym akcie urodzenia.",
+      "missing": "Relacja udokumentowana aktem.",
+      "sources": "S147"
+    },
+    {
+      "id": "R031",
+      "a": "P06",
+      "b": "P26",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "previous_status": "new_document",
+      "exception": false,
+      "reason": "Rodzic wymieniony bezpośrednio w odczytanym akcie urodzenia.",
+      "missing": "Relacja udokumentowana aktem.",
+      "sources": "S147"
+    },
+    {
+      "id": "R033",
+      "a": "P05",
+      "b": "P27",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "previous_status": "new_document",
+      "exception": false,
+      "reason": "Rodzic wymieniony bezpośrednio w odczytanym akcie urodzenia.",
+      "missing": "Relacja udokumentowana aktem.",
+      "sources": "S148"
+    },
+    {
+      "id": "R034",
+      "a": "P06",
+      "b": "P27",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "previous_status": "new_document",
+      "exception": false,
+      "reason": "Rodzic wymieniony bezpośrednio w odczytanym akcie urodzenia.",
+      "missing": "Relacja udokumentowana aktem.",
+      "sources": "S148"
     }
   ]
 }
