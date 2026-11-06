@@ -30,7 +30,7 @@ with sync_playwright() as p:
  page.locator('#close').click()
  assert page.evaluate('D.edges.every(([a,b,k])=>!a.startsWith("C")&&!b.startsWith("C")||k.startsWith("hypothesis")||k==="identity_candidate")')
  assert page.locator('.hero,.notice,.about').count()==0
- page.locator('#fit').click();page.screenshot(path='/workspace/marysia-desktop.png',full_page=True)
+ page.locator('#fit').click();page.screenshot(path='/workspace/work/linia-matki/marysia-desktop.png',full_page=True)
  page.select_option('#evidence','documented')
  documented=page.locator('.node').count();assert documented==13,documented
  assert page.locator('.node.candidate').count()==0
@@ -51,12 +51,15 @@ with sync_playwright() as p:
  assert 'JPEG' in page.locator('#detail').inner_text()
  assert '29.05.2002' in page.locator('#detail').inner_text()
  page.locator('[data-open=P17]').click();assert '04.01.1942' in page.locator('#detail').inner_text()
- page.locator('#close').click();page.locator('#fit').click();page.screenshot(path='/workspace/marysia-maternal.png',full_page=True)
+ page.locator('#close').click();page.locator('#fit').click();page.screenshot(path='/workspace/work/linia-matki/marysia-maternal.png',full_page=True)
  page.set_viewport_size({'width':390,'height':844});page.locator('#fit').click()
  assert_centered()
  assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
+ page.select_option('#people','P24');assert 'Pradziadek Marysi' in page.locator('#detail').inner_text()
+ assert 'bezpośredniego potwierdzenia rodziny' in page.locator('#detail').inner_text()
+ page.locator('#close').click()
  page.select_option('#people','P19');assert 'nazwisko rodowe kulas' in page.locator('#detail').inner_text().lower()
- page.locator('#close').click();page.screenshot(path='/workspace/marysia-mobile.png',full_page=True)
+ page.locator('#close').click();page.screenshot(path='/workspace/work/linia-matki/marysia-mobile.png',full_page=True)
  page.select_option('#branch','paternal');assert page.locator('.node').count()==18
  page.fill('#search','Sabina');page.locator('#search').press('Enter');assert 'Sabina' in page.locator('#detail h2').inner_text()
  page.locator('#close').click();page.fill('#search','')

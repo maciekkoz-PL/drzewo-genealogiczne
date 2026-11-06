@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T08:46:06.264268+00:00",
+  "full_cards": 28,
+  "news": 5,
+  "documented_cards": 13,
+  "P24_P25_family_edges": true,
+  "C43_C44_removed_from_public_as_aliases": true,
+  "central_layout_and_parent_edges_preserved": true,
+  "JPEG_excluded_from_public_HTML": true,
+  "no_outdated_photo_waiting_message": true,
+  "html_sha256": "5be72ea036a1bfa131754b256f1829c7a944fe5d85ed48fbeaf339579be5bbbf",
+  "browser_QA": "not_run; cua_repl.js unavailable; static checks passed"
+}

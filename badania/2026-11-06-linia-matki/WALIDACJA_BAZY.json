@@ -1,7 +1,7 @@
 {
-  "validated_at_utc": "2026-11-06T08:42:54.920926+00:00",
+  "validated_at_utc": "2026-11-06T08:46:08.098771+00:00",
   "result": "PASS",
-  "workbook_sha256": "52bdc3452a908f01f40d84d0546509c3808b374edefd2da781412693de375e3a",
+  "workbook_sha256": "6b989387fcbeb6550b1357e441ba9153cf548a5cdf3f1c2cbbea8d7f7a55515a",
   "sheets": 21,
   "counts": {
     "ZRODLA_I_SKANY": 135,
