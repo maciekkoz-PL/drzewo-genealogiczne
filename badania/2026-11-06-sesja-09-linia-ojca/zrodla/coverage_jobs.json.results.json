@@ -1,0 +1,326 @@
+[
+  {
+    "key": "death1940/cq_17",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-17.jpg",
+    "utc": "2026-11-06T11:03:20.369799+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-17.jpg",
+    "sha256": "f0528b915d52e3ebb9e1cef77d5151f6521ad106ed714c9b4b23788a899d6092",
+    "size": 54960,
+    "path": "work/s09/death1940/cq_17.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940cq&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-17.jpg"
+      }
+    ]
+  },
+  {
+    "key": "death1940/cs_12",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cs&kt=1&plik=SkZ-012.jpg",
+    "utc": "2026-11-06T11:03:20.370699+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cs&kt=1&plik=SkZ-012.jpg",
+    "sha256": "45d25207d9f176f414ac91193426699fb03df50b664ecdf09fe7a9d58ac53c92",
+    "size": 54975,
+    "path": "work/s09/death1940/cs_12.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940cs&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQZgb8U0yHtzBfjc1v4eTnpdTbPiKpbpJTevANQJ9ZyWp&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-012.jpg"
+      }
+    ]
+  },
+  {
+    "key": "anna_catalogue",
+    "url": "https://metryki.genealodzy.pl/id454",
+    "utc": "2026-11-06T11:03:20.372568+00:00",
+    "status": 200,
+    "final_url": "https://metryki.genealodzy.pl/id454",
+    "sha256": "60083ae13199fb0a0fd4ea16a9a5983aac0a9c87fe9316c46da78622dca97a2c",
+    "size": 25272,
+    "path": "work/s09/anna_catalogue.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/"
+      },
+      {
+        "text": "Powrót do Skanoteki",
+        "url": "https://skanoteka.genealodzy.pl"
+      },
+      {
+        "text": "",
+        "url": "https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://geneteka.genealodzy.pl/plany.php"
+      },
+      {
+        "text": "",
+        "url": "https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/opjk"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl/donate-pol"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/?op=lang&lang=pl_PL"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/?op=lang&lang=en_EN"
+      },
+      {
+        "text": "łódzkie",
+        "url": "https://metryki.genealodzy.pl/woj-LD"
+      },
+      {
+        "text": "grodzki Łódź",
+        "url": "https://metryki.genealodzy.pl/pow-30"
+      },
+      {
+        "text": "O zespole",
+        "url": "https://metryki.genealodzy.pl/opozespole-id454"
+      },
+      {
+        "text": "1910",
+        "url": "https://metryki.genealodzy.pl/id454-sy1910"
+      },
+      {
+        "text": "1911",
+        "url": "https://metryki.genealodzy.pl/id454-sy1911"
+      },
+      {
+        "text": "1912",
+        "url": "https://metryki.genealodzy.pl/id454-sy1912"
+      },
+      {
+        "text": "1913",
+        "url": "https://metryki.genealodzy.pl/id454-sy1913"
+      },
+      {
+        "text": "1914a",
+        "url": "https://metryki.genealodzy.pl/id454-sy1914a"
+      },
+      {
+        "text": "1914b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1914b"
+      },
+      {
+        "text": "1915",
+        "url": "https://metryki.genealodzy.pl/id454-sy1915"
+      },
+      {
+        "text": "1916",
+        "url": "https://metryki.genealodzy.pl/id454-sy1916"
+      },
+      {
+        "text": "1916a",
+        "url": "https://metryki.genealodzy.pl/id454-sy1916a"
+      },
+      {
+        "text": "1917",
+        "url": "https://metryki.genealodzy.pl/id454-sy1917"
+      },
+      {
+        "text": "1918",
+        "url": "https://metryki.genealodzy.pl/id454-sy1918"
+      },
+      {
+        "text": "1919",
+        "url": "https://metryki.genealodzy.pl/id454-sy1919"
+      },
+      {
+        "text": "1920a",
+        "url": "https://metryki.genealodzy.pl/id454-sy1920a"
+      },
+      {
+        "text": "1920b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1920b"
+      },
+      {
+        "text": "1921a",
+        "url": "https://metryki.genealodzy.pl/id454-sy1921a"
+      },
+      {
+        "text": "1921b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1921b"
+      },
+      {
+        "text": "1922a",
+        "url": "https://metryki.genealodzy.pl/id454-sy1922a"
+      },
+      {
+        "text": "1922b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1922b"
+      },
+      {
+        "text": "1923a",
+        "url": "https://metryki.genealodzy.pl/id454-sy1923a"
+      },
+      {
+        "text": "1923b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1923b"
+      },
+      {
+        "text": "1924",
+        "url": "https://metryki.genealodzy.pl/id454-sy1924"
+      },
+      {
+        "text": "1924a",
+        "url": "https://metryki.genealodzy.pl/id454-sy1924a"
+      },
+      {
+        "text": "1925",
+        "url": "https://metryki.genealodzy.pl/id454-sy1925"
+      },
+      {
+        "text": "1926",
+        "url": "https://metryki.genealodzy.pl/id454-sy1926"
+      },
+      {
+        "text": "1927b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1927b"
+      },
+      {
+        "text": "1928b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1928b"
+      },
+      {
+        "text": "1929b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1929b"
+      },
+      {
+        "text": "1929c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1929c"
+      },
+      {
+        "text": "1930b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1930b"
+      },
+      {
+        "text": "1930c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1930c"
+      },
+      {
+        "text": "1931b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1931b"
+      },
+      {
+        "text": "1932b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1932b"
+      },
+      {
+        "text": "1932c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1932c"
+      },
+      {
+        "text": "1933b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1933b"
+      },
+      {
+        "text": "1933c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1933c"
+      },
+      {
+        "text": "1934b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1934b"
+      },
+      {
+        "text": "1934c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1934c"
+      },
+      {
+        "text": "1935b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1935b"
+      },
+      {
+        "text": "1935c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1935c"
+      },
+      {
+        "text": "1936b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1936b"
+      },
+      {
+        "text": "1936c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1936c"
+      },
+      {
+        "text": "1938b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1938b"
+      },
+      {
+        "text": "1938c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1938c"
+      },
+      {
+        "text": "1939b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1939b"
+      },
+      {
+        "text": "1939c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1939c"
+      },
+      {
+        "text": "1940b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1940b"
+      },
+      {
+        "text": "1940c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1940c"
+      },
+      {
+        "text": "1945b",
+        "url": "https://metryki.genealodzy.pl/id454-sy1945b"
+      },
+      {
+        "text": "1945c",
+        "url": "https://metryki.genealodzy.pl/id454-sy1945c"
+      },
+      {
+        "text": "powrót do powiatu",
+        "url": "https://metryki.genealodzy.pl/pow-30"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl/donate-pol"
+      },
+      {
+        "text": "Polskie Towarzystwo Genealogiczne",
+        "url": "http://genealodzy.pl"
+      }
+    ]
+  }
+]

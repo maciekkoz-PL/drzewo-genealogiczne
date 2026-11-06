@@ -1,0 +1,98 @@
+[
+  {
+    "key": "death1940/ca_000b",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ca&kt=1&plik=000b.jpg",
+    "utc": "2026-11-06T10:52:13.779195+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ca&kt=1&plik=000b.jpg",
+    "sha256": "206572feb58c221102ed7629e9e3dabf26d5e459b8440c811d2eb50312a5d325",
+    "size": 54925,
+    "path": "work/s09/death1940/ca_000b.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940ca&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRV1rrMY7lHaSTKbhX7lmXT9S3eSHWCb57Y4wu0uOaJ8&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=000b.jpg"
+      }
+    ]
+  },
+  {
+    "key": "death1940/ca_001",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ca&kt=1&plik=001.jpg",
+    "utc": "2026-11-06T10:52:13.780123+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ca&kt=1&plik=001.jpg",
+    "sha256": "efeb0b8c075cbddf30d337b8f5af11f8e8441fc33f7c6763e3fc4cb4b08980ef",
+    "size": 54917,
+    "path": "work/s09/death1940/ca_001.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940ca&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRV1rrMY7lHaSTKbhX7lmXT9S3eSHWCb57Y4wu0uOaJ8&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=001.jpg"
+      }
+    ]
+  },
+  {
+    "key": "death1940/cs_SkZ-013",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cs&kt=1&plik=SkZ-013.jpg",
+    "utc": "2026-11-06T10:52:13.782265+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cs&kt=1&plik=SkZ-013.jpg",
+    "sha256": "7d1ac8b36a386c18af95567269ab8cc78fc9954d701bdded5dba8e7871b91f4c",
+    "size": 54975,
+    "path": "work/s09/death1940/cs_SkZ-013.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940cs&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQZgb8U0yHtzBfjc1v4eTnpdTbPiKpbpJTevANQJ9ZyWp&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-013.jpg"
+      }
+    ]
+  },
+  {
+    "key": "death1940/cs_SkZ-014",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cs&kt=1&plik=SkZ-014.jpg",
+    "utc": "2026-11-06T10:52:14.982089+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cs&kt=1&plik=SkZ-014.jpg",
+    "sha256": "1bb868aefa3d5886117fc21490b0565d35b871c942ce1835f9fc385d0ce01b98",
+    "size": 54975,
+    "path": "work/s09/death1940/cs_SkZ-014.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940cs&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQZgb8U0yHtzBfjc1v4eTnpdTbPiKpbpJTevANQJ9ZyWp&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-014.jpg"
+      }
+    ]
+  }
+]

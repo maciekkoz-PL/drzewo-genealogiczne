@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Skanoteka - Baza skanów dokumentów o wartości genealogicznej</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:image" content="https://skanoteka.genealodzy.pl/images/PTG_Logo_Skanoteka_pl_PL_200.png" />
+<meta name="author" content="Genealodzy.PL Genealogia">
+<meta name="copyright" content="Copyright (c) 2006-2026 Polskie Towarzystwo Genealogiczne">
+<meta name="description" content="Baza skanów dokumentów o wartości genealogicznej.">
+<meta name="revisit-after" content="1 days">
+<link rel="canonical" href="https://skanoteka.genealodzy.pl">
+<link rel="stylesheet" href="style/style.css?=v6" type="text/css">
+<link rel="stylesheet" href="style/ajaxcss.css?=v2" type="text/css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?=v2">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?=v2">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?=v2">
+<link rel="manifest" href="/images/site.webmanifest">
+<link rel="shortcut icon" href="/images/favicon.ico?=v2">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="js/snap.svg-min.js"></script>
+<style>
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+	background: #f3e2e7;
+	border: 1px solid #c5c5c5;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+	background: #f3d0e7;
+	border: 1px solid #c5c5c5;
+	color: black;
+}
+
+.ui-accordion .ui-accordion-content {
+	padding: 0px 0px;
+	background: none;
+}
+
+.ui-state-active .ui-icon,
+.ui-button:active .ui-icon {
+	background-image: url("https://code.jquery.com/ui/1.13.2/themes/base/images/ui-icons_444444_256x240.png");
+}
+
+:root
+{
+	--background-image-url: url('/images/back-pink.gif');
+}</style><link rel="shortcut icon" href="images/favicon.ico">
+
+		<script async src="https://platform.twitter.com/widgets.js"></script>
+		<script src="ajax/ajaxcore.js"></script>
+		<script src="ajax/ajax.js"></script>
+		<script src="style/centeredpop.js"></script>
+		<script>
+			var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-22184319-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+		</script>
+			</head>
+
+	<body id="body">
+		<script src="/cookies_komunikat.js"></script>
+		<div>
+			<br>
+			<table style="border-collapse: collapse; width: 1000px; margin: 0 auto; border: 1px solid rgb(100,100,100)">
+				<tr>
+					<td class="head">
+													<a href="/" target="_self" title="https://metryki.genealodzy.pl/">
+								<img style="display: block;max-width: 1000px" src=/images/PTG_Banner_Skanoteka-OPP_pl_PL.png?v3 alt="metryki.genealodzy.pl" title="metryki.genealodzy.pl"></a>
+											</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+													<div class="center">
+
+								<table border="0" cellpadding="0" cellspacing="0" width="98%">
+									<tr>
+										<td width="100%">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tr>
+													<td width="230" class="left valign-middle">
+																											</td>
+													<td width="220" class="valign-middle">
+														<div id="fb-root"></div>
+														<script>
+															(function (d, s, id) {
+var js,
+fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) 
+return;
+
+
+js = d.createElement(s);
+js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+														</script>
+														<div class="fb-share-button" data-href="https://skanoteka.genealodzy.pl" data-layout="button"></div>
+														<a href="https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="Projekt digitalizacji i indeksacji metryk" data-url="https://skanoteka.genealodzy.pl" data-show-count="false"></a>
+
+													</td>
+													<td width="400" class="valign-middle">
+														<a href="https://genealodzy.pl"><img class="valign-sub" src="images/navhome.gif" width="20" height="20" alt="Genealodzy.PL" title="Genealodzy.PL"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="/"><img class="valign-sub" src="images/navmapa.gif" width="20" height="20" alt="Strona główna" title="Strona główna"></a>
+<a href="https://geneteka.genealodzy.pl/plany.php"><img src="images/navplany.gif" class="valign-sub" width="20" height="20" alt="Zasoby w trakcie indeksacji" title="Zasoby w trakcie indeksacji"></a>
+<a href="https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"><img src="images/navhelp.gif" class="valign-sub" width="20" height="20" alt="Jak indeksować" title="Jak indeksować"></a>
+<a href="opjk"><img src="images/navjak.gif" class="valign-sub" width="20" height="20" alt="Jak wyszukiwać" title="Jak wyszukiwać"></a>
+<a href="https://genealodzy.pl/donate-pol"><img src="images/navdonate.gif" class="valign-sub" width="20" height="20" alt="Jak wspomóc" title="Jak wspomóc"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/?op=lang&amp;lang=pl_PL"><img src="images/flag-pol.png" class="valign-middle" alt="flag-pol.png" width="30" height="16" title="polski"></a>
+<a href="/?op=lang&amp;lang=en_EN"><img src="images/flag-eng.png" class="valign-middle" alt="flag-eng.png" width="30" height="16" title="english"></a>
+													</td>
+													<td></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+											</td>
+				</tr>
+
+				<tr>
+					<td>
+							
+	<table width="100%">
+		<tr>
+			<td width="65%" class="valign-top">
+				Zespół:
+				<span class="bold">
+					2736 / Urząd Stanu Cywilnego Łódź
+				</span>
+				<br>Jednostka:
+				<span class="bold">
+					1940cs / 
+											SkZ-1940
+									</span>
+				<br>Katalog:
+				<span class="bold">
+					Skorowidz zgonów
+				</span>
+									<br>Lata:
+					<span class="bold">1940</span>
+																	<br><br>Uwagi do księgi:
+					drugi egz. cz. 1
+												<br><br>
+
+				<div id="pliki" class="dataDiv">
+					<table style="width:100%;">
+													<tr>
+								<td style="background-color:#E0E0E0;text-align:center">
+																			Pliki:
+									
+								</td>
+							</tr>
+												<tr>
+							<td>
+																	<table style="margin: 0 auto;text-align:center;border-collapse:collapse">
+										
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=000.jpg>
+														000
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-016.jpg>
+															SkZ-016
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-034.jpg>
+															SkZ-034
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-052.jpg>
+															SkZ-052
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-070.jpg>
+															SkZ-070
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-088.jpg>
+															SkZ-088
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-106.jpg>
+															SkZ-106
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=000a.jpg>
+														000a
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-017.jpg>
+															SkZ-017
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-035.jpg>
+															SkZ-035
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-053.jpg>
+															SkZ-053
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-071.jpg>
+															SkZ-071
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-089.jpg>
+															SkZ-089
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-107.jpg>
+															SkZ-107
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=000b.jpg>
+														000b
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-018.jpg>
+															SkZ-018
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-036.jpg>
+															SkZ-036
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-054.jpg>
+															SkZ-054
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-072.jpg>
+															SkZ-072
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-090.jpg>
+															SkZ-090
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-108.jpg>
+															SkZ-108
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-001.jpg>
+														SkZ-001
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-019.jpg>
+															SkZ-019
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-037.jpg>
+															SkZ-037
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-055.jpg>
+															SkZ-055
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-073.jpg>
+															SkZ-073
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-091.jpg>
+															SkZ-091
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-109.jpg>
+															SkZ-109
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-002.jpg>
+														SkZ-002
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-020.jpg>
+															SkZ-020
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-038.jpg>
+															SkZ-038
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-056.jpg>
+															SkZ-056
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-074.jpg>
+															SkZ-074
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-092.jpg>
+															SkZ-092
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-110.jpg>
+															SkZ-110
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-003.jpg>
+														SkZ-003
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-021.jpg>
+															SkZ-021
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-039.jpg>
+															SkZ-039
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-057.jpg>
+															SkZ-057
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-075.jpg>
+															SkZ-075
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-093.jpg>
+															SkZ-093
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-111.jpg>
+															SkZ-111
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-004.jpg>
+														SkZ-004
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-022.jpg>
+															SkZ-022
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-040.jpg>
+															SkZ-040
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-058.jpg>
+															SkZ-058
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-076.jpg>
+															SkZ-076
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-094.jpg>
+															SkZ-094
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-112.jpg>
+															SkZ-112
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-005.jpg>
+														SkZ-005
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-023.jpg>
+															SkZ-023
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-041.jpg>
+															SkZ-041
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-059.jpg>
+															SkZ-059
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-077.jpg>
+															SkZ-077
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-095.jpg>
+															SkZ-095
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-113.jpg>
+															SkZ-113
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-006.jpg>
+														SkZ-006
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-024.jpg>
+															SkZ-024
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-042.jpg>
+															SkZ-042
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-060.jpg>
+															SkZ-060
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-078.jpg>
+															SkZ-078
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-096.jpg>
+															SkZ-096
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-114.jpg>
+															SkZ-114
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-007.jpg>
+														SkZ-007
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-025.jpg>
+															SkZ-025
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-043.jpg>
+															SkZ-043
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-061.jpg>
+															SkZ-061
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-079.jpg>
+															SkZ-079
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-097.jpg>
+															SkZ-097
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-115.jpg>
+															SkZ-115
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-008.jpg>
+														SkZ-008
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-026.jpg>
+															SkZ-026
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-044.jpg>
+															SkZ-044
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-062.jpg>
+															SkZ-062
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-080.jpg>
+															SkZ-080
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-098.jpg>
+															SkZ-098
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-116.jpg>
+															SkZ-116
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-009.jpg>
+														SkZ-009
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-027.jpg>
+															SkZ-027
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-045.jpg>
+															SkZ-045
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-063.jpg>
+															SkZ-063
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-081.jpg>
+															SkZ-081
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-099.jpg>
+															SkZ-099
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-117.jpg>
+															SkZ-117
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-010.jpg>
+														SkZ-010
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-028.jpg>
+															SkZ-028
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-046.jpg>
+															SkZ-046
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-064.jpg>
+															SkZ-064
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-082.jpg>
+															SkZ-082
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-100.jpg>
+															SkZ-100
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-118.jpg>
+															SkZ-118
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-011.jpg>
+														SkZ-011
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-029.jpg>
+															SkZ-029
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-047.jpg>
+															SkZ-047
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-065.jpg>
+															SkZ-065
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-083.jpg>
+															SkZ-083
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-101.jpg>
+															SkZ-101
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-119.jpg>
+															SkZ-119
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-012.jpg>
+														SkZ-012
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-030.jpg>
+															SkZ-030
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-048.jpg>
+															SkZ-048
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-066.jpg>
+															SkZ-066
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-084.jpg>
+															SkZ-084
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-102.jpg>
+															SkZ-102
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=zz.jpg>
+															zz
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-013.jpg>
+														SkZ-013
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-031.jpg>
+															SkZ-031
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-049.jpg>
+															SkZ-049
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-067.jpg>
+															SkZ-067
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-085.jpg>
+															SkZ-085
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-103.jpg>
+															SkZ-103
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=zzz.jpg>
+															zzz
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-014.jpg>
+														SkZ-014
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-032.jpg>
+															SkZ-032
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-050.jpg>
+															SkZ-050
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-068.jpg>
+															SkZ-068
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-086.jpg>
+															SkZ-086
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-104.jpg>
+															SkZ-104
+														</a>
+													</td>
+																																			</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-015.jpg>
+														SkZ-015
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-033.jpg>
+															SkZ-033
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-051.jpg>
+															SkZ-051
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-069.jpg>
+															SkZ-069
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-087.jpg>
+															SkZ-087
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cs&amp;kt=1&amp;plik=SkZ-105.jpg>
+															SkZ-105
+														</a>
+													</td>
+																																			</tr>
+																			</table>
+															</td>
+						</tr>
+
+						<tr>
+							<td style="background-color:#E0E0E0;text-align:center">
+															</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+			<td width="35%" class="right-table valign-top">
+				<div class="center">
+					<span class="bold">
+						Jednostki i katalogi zespołu:
+					</span>
+					<br>2736 Urząd Stanu Cywilnego Łódź<br>
+				</div>
+
+<table width="100%" border="0" class="sygnatury-right">
+	<tr>
+		<td>
+			<span class="grey">L.p.</span>
+		</td>
+		<td class="center">Jednostka</td>
+		<td>Opis</td>
+		<td>Info</td>
+		<td class="right">Plików</td>
+	</tr>
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">1</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940cq>1940cq</a>
+			</td>
+			<td class="top">(SkZ-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="cz. 1" title="cz. 1">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940cq-kt1>
+						Skorowidz zgonów
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940cq-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">125</td>
+			</tr>
+
+		
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">2</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940cr>1940cr</a>
+			</td>
+			<td class="top">(SkZ-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="cz. 2" title="cz. 2">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940cr-kt1>
+						Skorowidz zgonów
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940cr-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">71</td>
+			</tr>
+
+		
+	
+		<tr>
+													<td class="top">
+				<span class="grey">3</span>
+			</td>
+			<td class="top center sygn_selected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940cs>1940cs</a>
+			</td>
+			<td class="top">(SkZ-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="drugi egz. cz. 1" title="drugi egz. cz. 1">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=wo href=id4852-sy1940cs-kt1>
+						Skorowidz zgonów
+					</a>
+				</td>
+				<td title=1940>
+					<a class=wo href=id4852-sy1940cs-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=wo align="right">124</td>
+			</tr>
+
+		
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">4</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940ct>1940ct</a>
+			</td>
+			<td class="top">(SkZ-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="drugi egz. cz. 2" title="drugi egz. cz. 2">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940ct-kt1>
+						Skorowidz zgonów
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940ct-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">70</td>
+			</tr>
+
+		
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">5</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940da>1940da</a>
+			</td>
+			<td class="top">(Z-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="1-530 mojżeszowe" title="1-530 mojżeszowe">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940da-kt1>
+						Zgony
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940da-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">276</td>
+			</tr>
+
+		
+	
+	
+	<tr>
+		<td colspan="4">
+			<a href=id4852>powrót do zespołu</a>
+		</td>
+	</tr>
+
+</table></td></tr></table>					</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+
+													<div class="center">
+								<a href="https://genealodzy.pl/donate-pol"><img src="images/donate.jpg" alt="donate"></a><br>
+								<span class="darkslateblue">&copy; 2010-2026
+									<a href="http://genealodzy.pl">Polskie Towarzystwo Genealogiczne</a>
+								::
+								<script>
+									user = 'skanoteka';
+									site = "genealodzy.pl";
+									document.write('<a href=\"mailto:' + user + '@' + site + '\">');
+									document.write('Administrator<\/a> ');
+								</script>
+								::
+								</span>
+							</div>
+											</td>
+				</tr>
+
+			</table>
+		</div>
+
+	</body>
+</html>

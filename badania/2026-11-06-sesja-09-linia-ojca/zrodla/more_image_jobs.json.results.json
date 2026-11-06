@@ -1,0 +1,52 @@
+[
+  {
+    "key": "death1940/ca_000b_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRV1rrMY7lHaSTKbhX7lmXT9S3eSHWCb57Y4wu0uOaJ8&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=000b.jpg",
+    "utc": "2026-11-06T10:52:37.148883+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRV1rrMY7lHaSTKbhX7lmXT9S3eSHWCb57Y4wu0uOaJ8&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=000b.jpg",
+    "sha256": "6d497e2d12de81c65d404ce6145a0e368fe3bd914d4aed08189c7f9a3b4633fa",
+    "size": 269189,
+    "path": "work/s09/death1940/ca_000b_image.jpg"
+  },
+  {
+    "key": "death1940/ca_001_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRV1rrMY7lHaSTKbhX7lmXT9S3eSHWCb57Y4wu0uOaJ8&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=001.jpg",
+    "utc": "2026-11-06T10:52:37.150162+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRV1rrMY7lHaSTKbhX7lmXT9S3eSHWCb57Y4wu0uOaJ8&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=001.jpg",
+    "sha256": "234b615bb1154958fce1c5d4d287703064789bd5a8eb84e0901209c7ffd84c72",
+    "size": 457215,
+    "path": "work/s09/death1940/ca_001_image.jpg"
+  },
+  {
+    "key": "death1940/cs_SkZ-013_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQZgb8U0yHtzBfjc1v4eTnpdTbPiKpbpJTevANQJ9ZyWp&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-013.jpg",
+    "utc": "2026-11-06T10:52:37.154193+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQZgb8U0yHtzBfjc1v4eTnpdTbPiKpbpJTevANQJ9ZyWp&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-013.jpg",
+    "sha256": "50f75a44232f320ba078c13cf705d124321fc8a140bf6ef0d315af28b9c8e64f",
+    "size": 941805,
+    "path": "work/s09/death1940/cs_SkZ-013_image.jpg"
+  },
+  {
+    "key": "death1940/cs_SkZ-014_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQZgb8U0yHtzBfjc1v4eTnpdTbPiKpbpJTevANQJ9ZyWp&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-014.jpg",
+    "utc": "2026-11-06T10:52:38.478529+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQZgb8U0yHtzBfjc1v4eTnpdTbPiKpbpJTevANQJ9ZyWp&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-014.jpg",
+    "sha256": "65471b9ce960c738b68ee09f4793c987f06f99bf3db2519e73ccfba2b900ab23",
+    "size": 934413,
+    "path": "work/s09/death1940/cs_SkZ-014_image.jpg"
+  },
+  {
+    "key": "death1940/cq_SkZ-14_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-14.jpg",
+    "utc": "2026-11-06T10:52:38.591369+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-14.jpg",
+    "sha256": "f4b49d8a44991283a285c37bf2414b4bc83e34ea1a76ca2f4d78b6c59aca8712",
+    "size": 1007733,
+    "path": "work/s09/death1940/cq_SkZ-14_image.jpg"
+  }
+]

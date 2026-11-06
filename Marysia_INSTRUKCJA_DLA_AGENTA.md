@@ -1,3 +1,5 @@
+**Bieżące badania linii ojca — etap09 (06.11.2026):** Napiórkowskiego112 potwierdzone jako rejonXIV, bez ustalonej listy mieszkańców; C42 nadal hipotezą. Dariusz1896/1940 ma innych rodziców i został wykluczony. Katalog25435–25438 to grupa literowa, nie komisariatXI. [Wyniki i ograniczenia](badania/2026-11-06-sesja-09-linia-ojca/STATUS.md), [dokładny plan kontynuacji](badania/2026-11-06-sesja-09-linia-ojca/PLAN_KONTYNUACJI.md).
+
 **Aktualizacja po potwierdzeniu rodziny i otrzymaniu zdjęcia (06.11.2026):** Józef P24 i Czesława P25 są pradziadkami Marysi, rodzicami Romana według bezpośredniego przekazu REL-012. C43/C44 zachowano jako aliasy; daty i wiek odczytano z otrzymanego JPEG S135, zapisanego prywatnie. [Szczegóły i granice](badania/2026-11-06-linia-matki/POTWIERDZENIE_PRADZIADKOW.md).
 
 **Układ wymagany przez użytkownika:** Marysia w centrum, cała rodzina taty powyżej, mamy poniżej. Połączenia Marysi z Bogusławem i Marią są znane rodzinie (REL-011) i zawsze widoczne także w widoku udokumentowanym; nie żądać dla nich aktu Marysi. [Zasada](witryna/UKLAD_I_RODZICE.md).

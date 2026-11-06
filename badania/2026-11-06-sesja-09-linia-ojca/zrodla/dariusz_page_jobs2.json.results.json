@@ -1,0 +1,26 @@
+[
+  {
+    "key": "death1940/ce_1896-1897",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ce&kt=1&plik=1896-1897.jpg",
+    "utc": "2026-11-06T10:57:18.556777+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ce&kt=1&plik=1896-1897.jpg",
+    "sha256": "1426189eea8e5d27a0e7742572aec9bb64710e5c67adcd35c4981bb199cf83ee",
+    "size": 55003,
+    "path": "work/s09/death1940/ce_1896-1897.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940ce&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zbudtX7iIwgS0umpIfhIWR4jushNCslb_dzvaC9z1mhZ&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=1896-1897.jpg"
+      }
+    ]
+  }
+]

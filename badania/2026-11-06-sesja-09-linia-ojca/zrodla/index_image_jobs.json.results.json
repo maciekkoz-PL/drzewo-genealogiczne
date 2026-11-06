@@ -1,0 +1,32 @@
+[
+  {
+    "key": "death1940/cq_000b_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=000b.jpg",
+    "utc": "2026-11-06T10:50:01.027071+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=000b.jpg",
+    "sha256": "e922c404c9f9bd2239537a36e59951764c5ba639f749b54e35a3383674c5b9b7",
+    "size": 310614,
+    "path": "work/s09/death1940/cq_000b_image.jpg"
+  },
+  {
+    "key": "death1940/cq_SkZ-10_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-10.jpg",
+    "utc": "2026-11-06T10:50:01.028713+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-10.jpg",
+    "sha256": "cf2a5cfa828e945f6e012c64777fff18e4c285fa21ff934026b8def4febf224d",
+    "size": 921526,
+    "path": "work/s09/death1940/cq_SkZ-10_image.jpg"
+  },
+  {
+    "key": "death1940/cq_SkZ-13_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-13.jpg",
+    "utc": "2026-11-06T10:50:01.032340+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=WENIW-YyxX3wg6f9pheZQSkZiwNX38vOGKyqDVx5Grl4vFYSNnRm3B7IhsxQ0y5S&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=SkZ-13.jpg",
+    "sha256": "edd9fb1f3336f4ed81c82fdd978c1056c94b42c1fed98f3a46e79b46991946ae",
+    "size": 769982,
+    "path": "work/s09/death1940/cq_SkZ-13_image.jpg"
+  }
+]

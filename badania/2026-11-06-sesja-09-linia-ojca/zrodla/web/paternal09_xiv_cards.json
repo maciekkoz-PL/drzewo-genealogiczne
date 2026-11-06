@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn728639view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209610\",\"lineno\":null}); \nURL https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209610 is not accessible via this tool.\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn728639view1】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209611\",\"lineno\":null}); \nURL https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209611 is not accessible via this tool.\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn728639view2】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209339\",\"lineno\":null}); \nURL https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209339 is not accessible via this tool."
+    }
+  ],
+  "isError": false
+}

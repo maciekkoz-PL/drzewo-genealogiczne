@@ -1,0 +1,58 @@
+{
+  "result": "PASS",
+  "validated_at_utc": "2026-11-06T11:15:07.217493+00:00",
+  "baseline": "019919f96c2f1fd9d82c28ceb2f27ac2dadc2b01",
+  "sheets": 21,
+  "counts": {
+    "RDZEN_RODZINY": 12,
+    "RODZINA_Z_RELACJI": 9,
+    "RELACJE": 29,
+    "KANDYDACI_I_HOMONIMY": 58,
+    "ZDARZENIA_I_FAKTY": 57,
+    "ZRODLA_I_SKANY": 142,
+    "KONTAKTY_URZEDOWE": 0,
+    "SZKICE_GMAIL": 0,
+    "ZADANIA_AGENTA": 33,
+    "KOREKTY_I_SPRZECZNOSCI": 70,
+    "DZIENNIK_KWEREND": 114,
+    "PLIKI_DOWODOWE": 87,
+    "START": 0,
+    "INSTRUKCJA_AGENTA": 0,
+    "POTWIERDZONE_AKTEM_1936": 6,
+    "DRZEWO_SCHEMAT": 0,
+    "RELACJE_ZRODLOWE": 0,
+    "AUDYT_PAKIETU": 0,
+    "HIPOTEZY_OTWARTE": 18,
+    "TROPY_SKOROWIDZE": 0,
+    "HIPOTEZY_ROZSTRZYGNIETE": 6
+  },
+  "existing_cells_changed": [
+    [
+      "KANDYDACI_I_HOMONIMY",
+      2,
+      1
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      15,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      15,
+      4
+    ]
+  ],
+  "family_relationships_events_and_maternal_updates_unchanged": true,
+  "public_html_unchanged": true,
+  "original_zips_unchanged": true,
+  "jpeg_checked": 38,
+  "local_links_checked": 149,
+  "H017_H018_open": true,
+  "workbook_sha256": "657b547c850fad2d20a14da211985d3128721d5de52c87a510f8fae7cfd9186a"
+}

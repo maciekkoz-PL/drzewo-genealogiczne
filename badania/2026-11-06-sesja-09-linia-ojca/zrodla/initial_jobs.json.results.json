@@ -1,0 +1,659 @@
+[
+  {
+    "key": "death1940/cq_catalogue",
+    "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cq-kt1",
+    "utc": "2026-11-06T10:48:33.011844+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/id4852-sy1940cq-kt1",
+    "sha256": "6032ac702dd258ed5797559b3f0553a4b2c4c98264902b86792a049dfa0b87ca",
+    "size": 51101,
+    "path": "work/s09/death1940/cq_catalogue.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://geneteka.genealodzy.pl/plany.php"
+      },
+      {
+        "text": "",
+        "url": "https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/opjk"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl/donate-pol"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/?op=lang&lang=pl_PL"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/?op=lang&lang=en_EN"
+      },
+      {
+        "text": "000",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=000.jpg"
+      },
+      {
+        "text": "SkZ-106",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-106.jpg"
+      },
+      {
+        "text": "SkZ-13",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-13.jpg"
+      },
+      {
+        "text": "SkZ-31",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-31.jpg"
+      },
+      {
+        "text": "SkZ-49",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-49.jpg"
+      },
+      {
+        "text": "SkZ-67",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-67.jpg"
+      },
+      {
+        "text": "SkZ-85",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-85.jpg"
+      },
+      {
+        "text": "000b",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=000b.jpg"
+      },
+      {
+        "text": "SkZ-107",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-107.jpg"
+      },
+      {
+        "text": "SkZ-14",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-14.jpg"
+      },
+      {
+        "text": "SkZ-32",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-32.jpg"
+      },
+      {
+        "text": "SkZ-50",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-50.jpg"
+      },
+      {
+        "text": "SkZ-68",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-68.jpg"
+      },
+      {
+        "text": "SkZ-86",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-86.jpg"
+      },
+      {
+        "text": "SkZ-01",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-01.jpg"
+      },
+      {
+        "text": "SkZ-108",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-108.jpg"
+      },
+      {
+        "text": "SkZ-15",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-15.jpg"
+      },
+      {
+        "text": "SkZ-33",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-33.jpg"
+      },
+      {
+        "text": "SkZ-51",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-51.jpg"
+      },
+      {
+        "text": "SkZ-69",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-69.jpg"
+      },
+      {
+        "text": "SkZ-87",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-87.jpg"
+      },
+      {
+        "text": "SkZ-02",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-02.jpg"
+      },
+      {
+        "text": "SkZ-109",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-109.jpg"
+      },
+      {
+        "text": "SkZ-16",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-16.jpg"
+      },
+      {
+        "text": "SkZ-34",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-34.jpg"
+      },
+      {
+        "text": "SkZ-52",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-52.jpg"
+      },
+      {
+        "text": "SkZ-70",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-70.jpg"
+      },
+      {
+        "text": "SkZ-88",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-88.jpg"
+      },
+      {
+        "text": "SkZ-03",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-03.jpg"
+      },
+      {
+        "text": "SkZ-11",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-11.jpg"
+      },
+      {
+        "text": "SkZ-17",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-17.jpg"
+      },
+      {
+        "text": "SkZ-35",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-35.jpg"
+      },
+      {
+        "text": "SkZ-53",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-53.jpg"
+      },
+      {
+        "text": "SkZ-71",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-71.jpg"
+      },
+      {
+        "text": "SkZ-89",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-89.jpg"
+      },
+      {
+        "text": "SkZ-04",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-04.jpg"
+      },
+      {
+        "text": "SkZ-110",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-110.jpg"
+      },
+      {
+        "text": "SkZ-18",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-18.jpg"
+      },
+      {
+        "text": "SkZ-36",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-36.jpg"
+      },
+      {
+        "text": "SkZ-54",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-54.jpg"
+      },
+      {
+        "text": "SkZ-72",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-72.jpg"
+      },
+      {
+        "text": "SkZ-90",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-90.jpg"
+      },
+      {
+        "text": "SkZ-05",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-05.jpg"
+      },
+      {
+        "text": "SkZ-111",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-111.jpg"
+      },
+      {
+        "text": "SkZ-19",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-19.jpg"
+      },
+      {
+        "text": "SkZ-37",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-37.jpg"
+      },
+      {
+        "text": "SkZ-55",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-55.jpg"
+      },
+      {
+        "text": "SkZ-73",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-73.jpg"
+      },
+      {
+        "text": "SkZ-91",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-91.jpg"
+      },
+      {
+        "text": "SkZ-06",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-06.jpg"
+      },
+      {
+        "text": "SkZ-112",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-112.jpg"
+      },
+      {
+        "text": "SkZ-20",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-20.jpg"
+      },
+      {
+        "text": "SkZ-38",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-38.jpg"
+      },
+      {
+        "text": "SkZ-56",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-56.jpg"
+      },
+      {
+        "text": "SkZ-74",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-74.jpg"
+      },
+      {
+        "text": "SkZ-92",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-92.jpg"
+      },
+      {
+        "text": "SkZ-07",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-07.jpg"
+      },
+      {
+        "text": "SkZ-113",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-113.jpg"
+      },
+      {
+        "text": "SkZ-21",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-21.jpg"
+      },
+      {
+        "text": "SkZ-39",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-39.jpg"
+      },
+      {
+        "text": "SkZ-57",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-57.jpg"
+      },
+      {
+        "text": "SkZ-75",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-75.jpg"
+      },
+      {
+        "text": "SkZ-93",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-93.jpg"
+      },
+      {
+        "text": "SkZ-08",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-08.jpg"
+      },
+      {
+        "text": "SkZ-114",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-114.jpg"
+      },
+      {
+        "text": "SkZ-22",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-22.jpg"
+      },
+      {
+        "text": "SkZ-40",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-40.jpg"
+      },
+      {
+        "text": "SkZ-58",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-58.jpg"
+      },
+      {
+        "text": "SkZ-76",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-76.jpg"
+      },
+      {
+        "text": "SkZ-94",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-94.jpg"
+      },
+      {
+        "text": "SkZ-09",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-09.jpg"
+      },
+      {
+        "text": "SkZ-115",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-115.jpg"
+      },
+      {
+        "text": "SkZ-23",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-23.jpg"
+      },
+      {
+        "text": "SkZ-41",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-41.jpg"
+      },
+      {
+        "text": "SkZ-59",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-59.jpg"
+      },
+      {
+        "text": "SkZ-77",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-77.jpg"
+      },
+      {
+        "text": "SkZ-95",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-95.jpg"
+      },
+      {
+        "text": "SkZ-10",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-10.jpg"
+      },
+      {
+        "text": "SkZ-116",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-116.jpg"
+      },
+      {
+        "text": "SkZ-24",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-24.jpg"
+      },
+      {
+        "text": "SkZ-42",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-42.jpg"
+      },
+      {
+        "text": "SkZ-60",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-60.jpg"
+      },
+      {
+        "text": "SkZ-78",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-78.jpg"
+      },
+      {
+        "text": "SkZ-96",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-96.jpg"
+      },
+      {
+        "text": "SkZ-100",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-100.jpg"
+      },
+      {
+        "text": "SkZ-117",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-117.jpg"
+      },
+      {
+        "text": "SkZ-25",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-25.jpg"
+      },
+      {
+        "text": "SkZ-43",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-43.jpg"
+      },
+      {
+        "text": "SkZ-61",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-61.jpg"
+      },
+      {
+        "text": "SkZ-79",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-79.jpg"
+      },
+      {
+        "text": "SkZ-97",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-97.jpg"
+      },
+      {
+        "text": "SkZ-101",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-101.jpg"
+      },
+      {
+        "text": "SkZ-118",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-118.jpg"
+      },
+      {
+        "text": "SkZ-26",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-26.jpg"
+      },
+      {
+        "text": "SkZ-44",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-44.jpg"
+      },
+      {
+        "text": "SkZ-62",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-62.jpg"
+      },
+      {
+        "text": "SkZ-80",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-80.jpg"
+      },
+      {
+        "text": "SkZ-98",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-98.jpg"
+      },
+      {
+        "text": "SkZ-102",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-102.jpg"
+      },
+      {
+        "text": "SkZ-119",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-119.jpg"
+      },
+      {
+        "text": "SkZ-27",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-27.jpg"
+      },
+      {
+        "text": "SkZ-45",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-45.jpg"
+      },
+      {
+        "text": "SkZ-63",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-63.jpg"
+      },
+      {
+        "text": "SkZ-81",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-81.jpg"
+      },
+      {
+        "text": "SkZ-99",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-99.jpg"
+      },
+      {
+        "text": "SkZ-103",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-103.jpg"
+      },
+      {
+        "text": "SkZ-12",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-12.jpg"
+      },
+      {
+        "text": "SkZ-28",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-28.jpg"
+      },
+      {
+        "text": "SkZ-46",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-46.jpg"
+      },
+      {
+        "text": "SkZ-64",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-64.jpg"
+      },
+      {
+        "text": "SkZ-82",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-82.jpg"
+      },
+      {
+        "text": "zz",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=zz.jpg"
+      },
+      {
+        "text": "SkZ-104",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-104.jpg"
+      },
+      {
+        "text": "SkZ-120",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-120.jpg"
+      },
+      {
+        "text": "SkZ-29",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-29.jpg"
+      },
+      {
+        "text": "SkZ-47",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-47.jpg"
+      },
+      {
+        "text": "SkZ-65",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-65.jpg"
+      },
+      {
+        "text": "SkZ-83",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-83.jpg"
+      },
+      {
+        "text": "zzz",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=zzz.jpg"
+      },
+      {
+        "text": "SkZ-105",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-105.jpg"
+      },
+      {
+        "text": "SkZ-121",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-121.jpg"
+      },
+      {
+        "text": "SkZ-30",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-30.jpg"
+      },
+      {
+        "text": "SkZ-48",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-48.jpg"
+      },
+      {
+        "text": "SkZ-66",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-66.jpg"
+      },
+      {
+        "text": "SkZ-84",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cq&kt=1&plik=SkZ-84.jpg"
+      },
+      {
+        "text": "1940co",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&sy=1940co"
+      },
+      {
+        "text": "Zgony",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940co-kt1"
+      },
+      {
+        "text": "1940",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940co-kt1"
+      },
+      {
+        "text": "1940cp",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&sy=1940cp"
+      },
+      {
+        "text": "Zgony",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cp-kt1"
+      },
+      {
+        "text": "1940",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cp-kt1"
+      },
+      {
+        "text": "1940cq",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&sy=1940cq"
+      },
+      {
+        "text": "Skorowidz zgonów",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cq-kt1"
+      },
+      {
+        "text": "1940",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cq-kt1"
+      },
+      {
+        "text": "1940cr",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&sy=1940cr"
+      },
+      {
+        "text": "Skorowidz zgonów",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cr-kt1"
+      },
+      {
+        "text": "1940",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cr-kt1"
+      },
+      {
+        "text": "1940cs",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&sy=1940cs"
+      },
+      {
+        "text": "Skorowidz zgonów",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cs-kt1"
+      },
+      {
+        "text": "1940",
+        "url": "https://skanoteka.genealodzy.pl/id4852-sy1940cs-kt1"
+      },
+      {
+        "text": "powrót do zespołu",
+        "url": "https://skanoteka.genealodzy.pl/id4852"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl/donate-pol"
+      },
+      {
+        "text": "Polskie Towarzystwo Genealogiczne",
+        "url": "http://genealodzy.pl"
+      }
+    ]
+  },
+  {
+    "key": "street/napior_unit",
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/17670063",
+    "utc": "2026-11-06T10:48:33.013101+00:00",
+    "status": 200,
+    "final_url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/17670063",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "size": 212,
+    "path": "work/s09/street/napior_unit.html",
+    "links": []
+  },
+  {
+    "key": "birth1940/816",
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/43551161",
+    "utc": "2026-11-06T10:48:33.015184+00:00",
+    "status": 200,
+    "final_url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/43551161",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "size": 212,
+    "path": "work/s09/birth1940/816.html",
+    "links": []
+  },
+  {
+    "key": "death1940/unit6",
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/39122528",
+    "utc": "2026-11-06T10:48:34.084157+00:00",
+    "status": 200,
+    "final_url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/39122528",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "size": 212,
+    "path": "work/s09/death1940/unit6.html",
+    "links": []
+  }
+]

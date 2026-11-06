@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/566866f5c580ecb3897394137bd642c4c764168fac3a632e3e98d25cd45c02e4_max",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "access_utc": "2026-11-06T10:57:33.663499+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 111676,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T10:57:34.857789+00:00",
+    "sha256": "06fbe71aca8aa306c6be1aafadd79b9d11674897b499a2a95d4c85f20387645a"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=8742473625627349867,17238747460912741054,7096541478481223057,125700",
+    "status": 200,
+    "size": 0,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T10:57:35.177867+00:00",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/566866f5c580ecb3897394137bd642c4c764168fac3a632e3e98d25cd45c02e4_max",
+    "status": 200,
+    "size": 1489547,
+    "type": "image/jpeg",
+    "access_utc": "2026-11-06T10:57:36.161772+00:00",
+    "sha256": "618481987181b29c9e5475e333d3783939c944f3c74850b360b4b2219ba8cf82"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.4577700612832132",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T10:57:37.172917+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/e58035683b9263a8c59d40d43a2009a197a82cc837fddf1be3c02ed0563a0013_max",
+    "status": 200,
+    "size": 1111222,
+    "type": "image/jpeg",
+    "access_utc": "2026-11-06T10:57:41.762315+00:00",
+    "sha256": "663ae8965d39986c4701357051d1c33bb2f791ed97cfb79a4a26cf91a31dc45e"
+  }
+]
