@@ -1,0 +1,237 @@
+[
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1907_62.jpg",
+    "size": 2253026,
+    "sha256": "a54d526876e9211a6b498c3134ea86a80d0a94486533452095b1c3650820e66e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1907_63.jpg",
+    "size": 2113790,
+    "sha256": "eb8eccc2c20a86e5a5249c9aaec1dc8a47b22ba97a62da4957f67b765f704376"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1907_64.jpg",
+    "size": 2269540,
+    "sha256": "ae17cefb552c7bd873dfe924636ade4ad117eba13b80ca7c5d3a1cd53fe232ff"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1907_83.jpg",
+    "size": 2172905,
+    "sha256": "731a2ec999bd088edcecf83f000a8c1e0960b7c300e14831eeb2e6300c492f99"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1907_91.jpg",
+    "size": 2360857,
+    "sha256": "8529ddf8b9ec894ec64f1e38ebdfac0d69e97a6a01b96df08d8390721a3db24b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1907_manifest.json",
+    "size": 129822,
+    "sha256": "47968fc9d7acfec83abddf206c784fd614700b9fc8519dbfcbb7037c3fd5175f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1917_23.jpg",
+    "size": 2054478,
+    "sha256": "47bf02e20d3b2abe8d6e27c53b6adb295143380c275d0147ff88566dff5becd2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1917_24.jpg",
+    "size": 2227482,
+    "sha256": "1dce2aca8383ddba0a831c68b42ca675061201b7a5c050acf5c6c5d08acda719"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1917_34.jpg",
+    "size": 2220576,
+    "sha256": "b2da74f8b65b6f5ff598a6cc03ac9d414317000ebc38dcc54091199834862c63"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1917_64.jpg",
+    "size": 1990272,
+    "sha256": "fcc51c4d6a3365cbadff138739f4511b72091d826897a702f706c675607d06a9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1917_manifest.json",
+    "size": 126690,
+    "sha256": "c08c8c13c084fca9d74f551769ec492fa4e8a57c6c587fb551ace1ac68b6fc92"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/Julianna360_crop.jpg",
+    "size": 380757,
+    "sha256": "b786c206f24734ccf8f7f878b940e73d9182e8791868d803a892c2a89f7795d2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/Julianna360_dates_parents.jpg",
+    "size": 205466,
+    "sha256": "e72b3e43c7030c2f19448bae5e9f40f0d7bc9ff1283de8df79c1c7d341d5439a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/Sabina124_crop.jpg",
+    "size": 565477,
+    "sha256": "af754d7fbe39008794bea174500d52b4cd683e09a37713a6d89fa5e0e4eafa1d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/julianna_retry_jobs.json",
+    "size": 160,
+    "sha256": "9cd195587bc67674f23875146e899862de04d2ed7544ec4c9d41eeb8d2cacd5f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/julianna_target_job.json",
+    "size": 160,
+    "sha256": "cce642cd41d37195b0bf852bd3f578b362f1c7219e4b361f26dce9af23c2eae5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_julianna_retry_jobs/1907_83_asset.html",
+    "size": 590,
+    "sha256": "cafbb48c2b82433fc4287a62859b50a68bcf1356c32f9564532c967790636232"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_julianna_retry_jobs/asset_network.json",
+    "size": 1705,
+    "sha256": "32152b3fee0e6dc7ff5b582b7069a0e41f359d1bd8c815f47af7b6d4a0c5d265"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_julianna_target_job/1907_91_asset.html",
+    "size": 590,
+    "sha256": "efb76f4269ddea5d3a678ff43eccf9a0f31b7d2dde5f1ec9258a9506797623b5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_julianna_target_job/asset_network.json",
+    "size": 1707,
+    "sha256": "2e31a571f0009bed659a35ab8d7ef40762d039087dec3dd2f69ca561879ec42c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1907_images/1907_62_asset.html",
+    "size": 590,
+    "sha256": "8d6dd784ed32d09d959b161a9162ccafb6e4f04d5e7286f0dd8dcd3dc9b7b911"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1907_images/1907_63_asset.html",
+    "size": 590,
+    "sha256": "3c4429063fba4083d330a6cfec161c8e1396b6bb16609cc9b31822cfcbe92040"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1907_images/1907_64_asset.html",
+    "size": 590,
+    "sha256": "e1feb16c460ed428af445f7de54a1ff4386610a3223dab8900fc146cc731e5a5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1907_images/asset_network.json",
+    "size": 6460,
+    "sha256": "ed456784f0ad1d3a9fa3a1958dc4ab57e7245922406feb8792c0775bebba3f45"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1917_images/1917_23_asset.html",
+    "size": 590,
+    "sha256": "1789af68c6332f2a0836d6cd75daf3bd2f0366916f58eb854415adb58eff73eb"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1917_images/1917_24_asset.html",
+    "size": 590,
+    "sha256": "003a944a4099d0f9859996ca72ea74bff4d1859f66d523b5201a5795519c53bf"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1917_images/1917_34_asset.html",
+    "size": 590,
+    "sha256": "e245f1ece3742887bfb1dffb58ee796811014e567eb9d35613a498f74820bea3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters1917_images/asset_network.json",
+    "size": 6444,
+    "sha256": "d7bf68f33f757bc80dd3033e4f525c9dcd0bda75c6441da2a8257f74babe0bd2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters_targets_jobs/1907_83_asset.html",
+    "size": 877,
+    "sha256": "92ddbc979334b96b1f11ddd070626cdf243f02890075dd60ab77c46c62972ac3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters_targets_jobs/1917_64_asset.html",
+    "size": 590,
+    "sha256": "8c7c978da91c95f621b593d4795387d7e644e040425bbafd46f1d4b2f30c4426"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/browser_scan_sisters_targets_jobs/asset_network.json",
+    "size": 3977,
+    "sha256": "4f730b6979e6152456b7578d31a0c043f11688e4a7c786d33e9649319beafc89"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/swa_jednostka_10505112/39f4f1cbb033b84a.body",
+    "size": 100812,
+    "sha256": "91b041763f196dcd50e07c5f53dc9f1191973bd8db2f08be8c878dc8800dd8c8"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/swa_jednostka_10505112/c5970fe9c2a95b0f.body",
+    "size": 107634,
+    "sha256": "ff72457c01f58274cd53c8b1d6251cdb80ca0321690db7477d01e19a9f68554f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/swa_jednostka_10505112/network.json",
+    "size": 6179,
+    "sha256": "e68e48c2734f18f082439497c8c27122c77271e5c3addf2803076e9cbfebfba4"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/swa_jednostka_32082739/6959b9deb5c945c6.body",
+    "size": 99500,
+    "sha256": "64a9c5320556500648570e8b8deb5778ee31c2d7d07b12d63cb132e46ad7f550"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/swa_jednostka_32082739/c5970fe9c2a95b0f.body",
+    "size": 109522,
+    "sha256": "2b9ab9d03425f043db2f07ae6ad70c7b09a2e23a71c8bf35934a79d80602d7c8"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/swa_jednostka_32082739/d0aa73bf14c9d495.body",
+    "size": 92184,
+    "sha256": "da1661a81ab315f48b52e87c955176558f4b0233046b575c09a18edfa8ce27e2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/proweniencja/swa_jednostka_32082739/network.json",
+    "size": 5446,
+    "sha256": "9dc8e86cf24c3be13b0250b0084e1bbddd588fd103ed82a52f4b9fa10235f169"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/sisters1907_images.json",
+    "size": 480,
+    "sha256": "dcf4b4a7d6c76859b503695488f34e006118c5512331c42ba37c4e7ce11ac921"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/sisters1917_images.json",
+    "size": 480,
+    "sha256": "2ccc7fa162ccd6951635b7b407ef1008aaf0577b06f8f8f03f9f36e705fcf009"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/sisters_catalogue.py",
+    "size": 2170,
+    "sha256": "38f92a26d2c3de79e22e7b94559c5172ae26a7b4502460185400ce2f8e6d7542"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/sisters_targets_jobs.json",
+    "size": 320,
+    "sha256": "3b80cabb9c22ef8ac0dc3de0e9457524219643668354552eb8fb426d839e485f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/units/downloads.json",
+    "size": 288,
+    "sha256": "8bd0c3f3ad5b46eeefcd9f7ff225c4bcc07751ed7be8de7f83436aae021e72de"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/units/page1.html",
+    "size": 171809,
+    "sha256": "f0f23c5f353a3989a9f0c421ab783235df0546f822bef16f77824fe78ccf0ec9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/units/page1.txt",
+    "size": 4116,
+    "sha256": "58f2086505d6b49d09daefccf714b8f4cf23e8dc2697572625875ae8735f747e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/units/units.json",
+    "size": 16708,
+    "sha256": "6afdee36935cf7e0561b3bb9ea7fc23af6adec2088e62e41f1f74c75576ca7d1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/zapytania_internetowe.json",
+    "size": 20591,
+    "sha256": "992ce5aae2cef2c294f40c365d4e0ae4608adbb7df77a647cf639cbfe8345da2"
+  }
+]

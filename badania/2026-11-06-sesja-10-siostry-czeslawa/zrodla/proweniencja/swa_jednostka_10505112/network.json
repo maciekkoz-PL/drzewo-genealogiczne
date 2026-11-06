@@ -1,0 +1,143 @@
+[
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10505112&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10505112",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "access_utc": "2026-11-06T11:34:37.283743+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 104222,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:34:38.927672+00:00",
+    "sha256": "7aad042c29441b1082747acd67fb849301727bc6c3a827ddf337a511e3c705a5",
+    "body_path": "work/swa_jednostka_10505112/c5970fe9c2a95b0f.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=3883389493094900052,17737296069440728552,4169801941670935376,133752",
+    "status": 200,
+    "size": 0,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:34:40.176174+00:00",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10505112&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10505112",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "access_utc": "2026-11-06T11:34:40.693370+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.3823868615530296",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:34:42.230036+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 109636,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:34:42.842260+00:00",
+    "sha256": "7a6fc253c1d6046b23f04db391a7d4a7602a6cfd28257ba48d5b64ece7325adf",
+    "body_path": "work/swa_jednostka_10505112/c5970fe9c2a95b0f.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=7996370852051297255,13648058681357399279,4698906274228364362,129542",
+    "status": 200,
+    "size": 0,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:34:43.677051+00:00",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10505112&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10505112",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "access_utc": "2026-11-06T11:34:44.377976+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.35056493912489217",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:34:44.945172+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 107634,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:34:45.219297+00:00",
+    "sha256": "ff72457c01f58274cd53c8b1d6251cdb80ca0321690db7477d01e19a9f68554f",
+    "body_path": "work/swa_jednostka_10505112/c5970fe9c2a95b0f.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=962844537838514139,4929287611185124118,12702454348403115681,129545",
+    "status": 200,
+    "size": 0,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:34:45.500611+00:00",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=10505112&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F10505112",
+    "status": 200,
+    "size": 27033,
+    "type": "text/html; charset=UTF-8",
+    "access_utc": "2026-11-06T11:34:45.868374+00:00",
+    "sha256": "e164737f9a64d4332a733e4ffb2061fde97a3bf86bcce93fc16852b79f48bca9"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.7524561938996566",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:34:46.134596+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/main-VSYKIVTE.js",
+    "status": 200,
+    "size": 1035246,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:34:46.901126+00:00",
+    "sha256": "2a59ede966e42d8bb0c930df489e6b53e9281fc310f6e09bf829bbc48bddd87e",
+    "body_path": "work/swa_jednostka_10505112/c861c2a5e9146311.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/styles-HPKIIVFU.css",
+    "status": 200,
+    "size": 10898,
+    "type": "text/css",
+    "access_utc": "2026-11-06T11:34:47.613145+00:00",
+    "sha256": "d9feef1259e17d3c467cdcbab3fae898d7e1d24fde2d89f92c04c9d18739f672"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/favicon.ico?v=1",
+    "status": 200,
+    "size": 4001,
+    "type": "image/x-icon",
+    "access_utc": "2026-11-06T11:34:48.378437+00:00",
+    "sha256": "0fa6921456861ddc90f576e8327a68a715b656c1b84c2153e60e9848c8012907"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/o/pliki-api/pliki/jednostka/10505112/0/300",
+    "status": 200,
+    "size": 100812,
+    "type": "application/json",
+    "access_utc": "2026-11-06T11:34:51.478672+00:00",
+    "sha256": "91b041763f196dcd50e07c5f53dc9f1191973bd8db2f08be8c878dc8800dd8c8",
+    "body_path": "work/swa_jednostka_10505112/39f4f1cbb033b84a.body"
+  }
+]

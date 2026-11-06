@@ -1,6 +1,6 @@
 # Rejestr zbadanych źródeł i prób dostępu
 
-Aktualny wykaz 146 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
+Aktualny wykaz 148 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
 
 [Najnowsza ocena dowodu i luka H017](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [dokładny zakres nowych odczytów](badania/2026-11-05-sesja-03-polaczenie/AROLSEN_ODCZYTY.md).
 
@@ -202,3 +202,13 @@ KorektaQ72: wS138 prawidłowa sygnatura39/2736/0/-/10; JPG1896 i link1940ce bez 
 | S146 | Antonina Chmielewska zOrlików — zgon4683/1940 — 39/2736/0/-/14; PTG4852/1940ci/4682-4683.jpg;4683 | ODCZYTANO OBRAZ I SKORYGOWANO NR INDEKSU. Ur.05.05.1869Piaskowice, zm.30.06.1940Łódź; rodziceKazimierzOrlik/Katarzyna. Wdowa poJózefieChmielewskim, zgłasza synZygmunt. To nie dziecko Czesława/Janiny. Prawidłowy nr4683, nie4689: ten drugi akt dotyczy JózefaGoździa i jest tylko kontrolą błędu. | [Źródło](https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ci&kt=1&plik=4682-4683.jpg); [kopia](badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/antonina_4683_image.jpg) |
 
 KorektaQ73: Antonina to4683, nie4689. [Odczyt wszystkich czterech zgonów](badania/2026-11-06-sesja-09-linia-ojca/CZTERY_ZGONY_1940.md).
+
+
+## Etap10 — siostry Czesława
+
+[Pełny odczyt i porównanie](badania/2026-11-06-sesja-10-siostry-czeslawa/STATUS.md).
+
+| ID | Źródło / sygnatura | Zakres i status | Link / kopia |
+|---|---|---|---|
+| S147 | Sabina Chmielewska — urodzenie124/1917 — 88/639/0/-/42; SwA32082739; obraz64/209,id59439545,k64,akt124 | ODCZYTANO ORYGINALNY OBRAZ. RodziceWincenty45/AgnieszkaMiszczyszyn32, Rogoźno. PorównaniezS071potwierdza siostręCzesława. Nie potwierdza dat rodzicówBogusława ani Tczewa. Adnotacja zgonu nad aktem dotyczy123Jana, nie Sabiny. | [Źródło](https://www.szukajwarchiwach.gov.pl/skan/-/skan/9d10d7cde36c6bc6600d52eb97d4ef1c0a384f9a98bbfd52bb23f9c62f65084e); [kopia](badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1917_64.jpg) |
+| S148 | Julianna Chmielewska — urodzenie360/1907 — 88/639/0/-/32; SwA10505112; obraz83/223,id59221698,k81,akt360 | ODCZYTANO ORYGINALNY OBRAZ. RodziceWincenty/AgnieszkaMiszczyszyn, Rogoźno, matka23. Ojciec30 wtym akcie — rozbieżność względem33w1905,36w1909; nie poprawiono i nie wyliczonoDOB. Zgodneoboje rodzice/miejscowość/wiekmatki identyfikują rodzeństwo. Bez Tczewa i późniejszych losów. | [Źródło](https://www.szukajwarchiwach.gov.pl/skan/-/skan/9a130e8ffe855ef7ea744ffba5207c1d4c197eec550bc4925b0a7056e0dddf34); [kopia](badania/2026-11-06-sesja-10-siostry-czeslawa/zrodla/1907_83.jpg) |

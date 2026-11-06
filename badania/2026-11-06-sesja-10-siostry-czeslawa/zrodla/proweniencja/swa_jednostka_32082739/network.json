@@ -1,0 +1,127 @@
+[
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=32082739&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F32082739",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "access_utc": "2026-11-06T11:35:37.597468+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 107007,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:35:39.040879+00:00",
+    "sha256": "a68756078e2bb1bf12530a2f5dff2796545163f122730e9bdef1c2f631c6c14e",
+    "body_path": "work/swa_jednostka_32082739/c5970fe9c2a95b0f.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=6420744227485461519,2828994732788180360,1281620877229982613,133813",
+    "status": 200,
+    "size": 29,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:35:39.481843+00:00",
+    "sha256": "558a8ed81355f3cdfc69e59973acfc8550afd2f57c7c0edd91e1375b605bc15b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=32082739&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F32082739",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "access_utc": "2026-11-06T11:35:40.087115+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.4585895341175217",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:35:41.227618+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 109522,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:35:41.972124+00:00",
+    "sha256": "2b9ab9d03425f043db2f07ae6ad70c7b09a2e23a71c8bf35934a79d80602d7c8",
+    "body_path": "work/swa_jednostka_32082739/c5970fe9c2a95b0f.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=8637320255017271466,7720403656051274782,209583139963063070,129602",
+    "status": 200,
+    "size": 29,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:35:42.831301+00:00",
+    "sha256": "558a8ed81355f3cdfc69e59973acfc8550afd2f57c7c0edd91e1375b605bc15b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/?jednostkaid=32082739&jezyk=pl_PL&returnTo=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fjednostka%2F-%2Fjednostka%2F32082739",
+    "status": 200,
+    "size": 26582,
+    "type": "text/html; charset=UTF-8",
+    "access_utc": "2026-11-06T11:35:43.289633+00:00",
+    "sha256": "e77ad0edf36fb72b4f7b776924d1c478c831d5a878fb052ca2600017bad36949"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.16764720729576088",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:35:43.630058+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/main-VSYKIVTE.js",
+    "status": 200,
+    "size": 1035246,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:35:44.602956+00:00",
+    "sha256": "2a59ede966e42d8bb0c930df489e6b53e9281fc310f6e09bf829bbc48bddd87e",
+    "body_path": "work/swa_jednostka_32082739/c861c2a5e9146311.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=1108729685",
+    "status": 200,
+    "size": 92184,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T11:35:45.038563+00:00",
+    "sha256": "da1661a81ab315f48b52e87c955176558f4b0233046b575c09a18edfa8ce27e2",
+    "body_path": "work/swa_jednostka_32082739/d0aa73bf14c9d495.body"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/styles-HPKIIVFU.css",
+    "status": 200,
+    "size": 10898,
+    "type": "text/css",
+    "access_utc": "2026-11-06T11:35:45.391215+00:00",
+    "sha256": "d9feef1259e17d3c467cdcbab3fae898d7e1d24fde2d89f92c04c9d18739f672"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.4120580135547597",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T11:35:45.886600+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/swa-slider/favicon.ico?v=1",
+    "status": 200,
+    "size": 4001,
+    "type": "image/x-icon",
+    "access_utc": "2026-11-06T11:35:46.332656+00:00",
+    "sha256": "0fa6921456861ddc90f576e8327a68a715b656c1b84c2153e60e9848c8012907"
+  },
+  {
+    "url": "https://www.szukajwarchiwach.gov.pl/o/pliki-api/pliki/jednostka/32082739/0/300",
+    "status": 200,
+    "size": 99500,
+    "type": "application/json",
+    "access_utc": "2026-11-06T11:35:49.354304+00:00",
+    "sha256": "64a9c5320556500648570e8b8deb5778ee31c2d7d07b12d63cb132e46ad7f550",
+    "body_path": "work/swa_jednostka_32082739/6959b9deb5c945c6.body"
+  }
+]

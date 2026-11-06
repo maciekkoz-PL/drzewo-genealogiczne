@@ -1,0 +1,168 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T11:50:38.892285+00:00",
+  "baseline": "6371264",
+  "sheets": 23,
+  "new_people": [
+    "P26",
+    "P27"
+  ],
+  "new_relations": [
+    "R030",
+    "R031",
+    "R032",
+    "R033",
+    "R034",
+    "R035"
+  ],
+  "prior_relationships_and_events_unchanged": true,
+  "H017_H019_open": true,
+  "aliases_preserved": true,
+  "age_conflict_Q74_preserved": true,
+  "existing_cells_changed": [
+    [
+      "RDZEN_RODZINY",
+      2,
+      1
+    ],
+    [
+      "RDZEN_RODZINY",
+      6,
+      7
+    ],
+    [
+      "RDZEN_RODZINY",
+      6,
+      9
+    ],
+    [
+      "RDZEN_RODZINY",
+      8,
+      7
+    ],
+    [
+      "RDZEN_RODZINY",
+      8,
+      9
+    ],
+    [
+      "RDZEN_RODZINY",
+      9,
+      7
+    ],
+    [
+      "RDZEN_RODZINY",
+      9,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      2,
+      1
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      5,
+      3
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      5,
+      4
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      5,
+      6
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      5,
+      7
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      5,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      5,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      5,
+      10
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      7,
+      3
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      7,
+      4
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      7,
+      6
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      7,
+      7
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      7,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      7,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      7,
+      10
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      10,
+      11
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      12,
+      11
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      18,
+      11
+    ],
+    [
+      "START",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      16,
+      3
+    ]
+  ],
+  "jpeg_checked": 12,
+  "markdown_links_checked": 167,
+  "zips_unchanged": true,
+  "workbook_sha256": "f0b53d0bd4aef1f03e74cd54ce774c09d59eca4eb4be3e717c9a4c414cf9e445"
+}
