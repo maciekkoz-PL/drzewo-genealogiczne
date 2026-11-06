@@ -1,3 +1,5 @@
+**Korekta filtra:** własne akty osób nie są ukrywane przez H017. Widok udokumentowany:12osób i16linii, w tym2przerywane łączniki identyfikacji w toku. [Wyjaśnienie](../badania/2026-11-06-trzy-poziomy/KOREKTA_FILTRA.md).
+
 **Wersja9 opublikowana:** trzy poziomy, domyślnie2. Widoki obu gałęzi: 5/21/47osób i5/29/65relacji. Test Chromium1440/390px przeszedł; publiczny URL zwróciłHTTP200 i identyczny HTML. [Publikacja](../badania/2026-11-06-trzy-poziomy/PUBLIKACJA.json).
 
 **Trzy poziomy wiarygodności:** domyślnie poziom 2. Dane publiczne redagować ręcznie w `wiarygodnosc.json`; `generuj.py` składa HTML i zachowaną kronikę. Oceny tożsamości, połączenia z rodziną i każdej relacji są odrębne. [Audyt wszystkich osób i relacji](../badania/2026-11-06-trzy-poziomy/README.md). `python witryna/sprawdz.py` sprawdza poziomy 1–3, obie gałęzie i szerokości 1440/390px. Poniższe opisy dwóch trybów są historyczne.

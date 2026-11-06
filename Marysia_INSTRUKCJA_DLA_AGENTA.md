@@ -1,3 +1,5 @@
+**Korekta filtra:** własne akty osób nie są ukrywane przez H017. Widok udokumentowany:12osób i16linii, w tym2przerywane łączniki identyfikacji w toku. [Wyjaśnienie](badania/2026-11-06-trzy-poziomy/KOREKTA_FILTRA.md).
+
 **Trzy poziomy drzewa (06.11.2026):** 1 — udokumentowane z zachowanym wyjątkiem rodziców Marysi, 2 — także prawdopodobne (domyślny), 3 — także przypuszczenia i najstarsze indeksowane pokolenie. [Audyt i uzasadnienia](badania/2026-11-06-trzy-poziomy/README.md). Dotychczasowe 21 arkuszy zachowane; dodano 2 arkusze audytu.
 
 **Bieżące badania linii ojca — etap09 (06.11.2026):** Napiórkowskiego112 potwierdzone jako rejonXIV, bez ustalonej listy mieszkańców; C42 nadal hipotezą. Dariusz1896/1940 ma innych rodziców i został wykluczony. Katalog25435–25438 to grupa literowa, nie komisariatXI. [Wyniki i ograniczenia](badania/2026-11-06-sesja-09-linia-ojca/STATUS.md), [dokładny plan kontynuacji](badania/2026-11-06-sesja-09-linia-ojca/PLAN_KONTYNUACJI.md).

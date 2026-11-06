@@ -40,7 +40,7 @@ function centerMarysia(){
 }
 function renderTree(){
  currentPeople=filteredPeople();const ids=new Set(currentPeople.map(p=>p.id));
- currentEdges=D.edges.filter(([a,b])=>ids.has(a)&&ids.has(b)&&relationByPair[a+'|'+b].level<=selectedLevel);
+ currentEdges=D.edges.filter(([a,b])=>ids.has(a)&&ids.has(b)&&(relationByPair[a+'|'+b].level<=selectedLevel||relationByPair[a+'|'+b].contextInDocumented));
  $('canvas').querySelectorAll('.node').forEach(n=>n.remove());$('lines').replaceChildren();
  const root=byId.P01,centerX=root.x+120,centerY=root.y+71;
  const halfWidth=Math.max(400,...currentPeople.map(p=>Math.max(centerX-p.x,p.x+240-centerX)))+40;
@@ -85,7 +85,7 @@ function renderTree(){
   path.setAttribute('stroke',evidence.level===3?'#946528':evidence.level===2?'#73827c':'#2b6c59');
   const title=document.createElementNS('http://www.w3.org/2000/svg','title');title.textContent=levelNames[evidence.level]+': '+evidence.reason;path.appendChild(title);$('lines').appendChild(path);
  }
- $('view-note').textContent=`${currentPeople.length} osób · ${currentEdges.length} relacji. Poziom ${selectedLevel}. Istnienie osoby i jej relacja są oceniane oddzielnie; szczegóły w karcie.`;
+ $('view-note').textContent=`${currentPeople.length} osób · ${currentEdges.length} relacji. Poziom ${selectedLevel}. Osoby i własne akty są widoczne niezależnie od H017. Przerywane łączniki rodziców Bogusława zachowują oznaczenie identyfikacji w toku.`;
  applySearch();fit();
 }
 function openPerson(id){

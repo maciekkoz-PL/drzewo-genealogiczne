@@ -4,19 +4,23 @@
   "audit_sheets_added": 2,
   "counts": {
     "1": {
-      "people": 5,
-      "relations": 5
+      "people": 12,
+      "relations": 16,
+      "contextual_links": 2
     },
     "2": {
       "people": 21,
-      "relations": 29
+      "relations": 29,
+      "contextual_links": 0
     },
     "3": {
       "people": 47,
-      "relations": 65
+      "relations": 65,
+      "contextual_links": 0
     }
   },
   "hypotheses_not_promoted": true,
   "private_images_and_workbook_not_exported": true,
-  "historical_C43_C44_aliases_not_duplicated": true
+  "historical_C43_C44_aliases_not_duplicated": true,
+  "own_documented_people_visible_independent_of_H017": true
 }
