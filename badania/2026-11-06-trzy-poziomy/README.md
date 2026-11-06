@@ -9,3 +9,17 @@ Poziom3: indeksowa para C56/C57, rodzice C46–C49 i siedmioro dzieci, osobne od
 Dodano również źródłowe tropy C05,C06,C10,C19,C27–C29. Pozostałe pominięte rekordy są indywidualnie opisane w audycie, w tym wykluczenia i aliasy. Nie usunięto żadnego dawnego źródła/hipotezy.
 
 Najstarsze pokolenie poziomu1: rodzice Marii Roman/Anna. Poziomu2: Wincenty/Agnieszka i Józef/Marianna oraz Józef/Czesława Jankowscy i rodzinni Józef/Konstancja Kulas. Poziomu3: Andrzej Kulas/Antonina Konopka oraz Maciej Gralewicz/Teresa Dąbrowska.
+
+## Wynik i publikacja
+
+| Widok obu gałęzi | Osoby | Relacje | Najstarsze pokolenie |
+| --- | --- | --- | --- |
+| 1 — tylko udokumentowane | 5 | 5 | Roman Jankowski i Anna Kulas, rodzice Marii |
+| 2 — także prawdopodobne (domyślny) | 21 | 29 | Pradziadkowie Marysi po obu stronach |
+| 3 — także przypuszczenia | 47 | 65 | C46–C49: Andrzej Kulas, Antonina Konopka, Maciej Gralewicz, Teresa Dąbrowska |
+
+Dodano do wizualizacji 19 osób: C05,C06,C10,C19,C27–C29,C46–C57. Pozostałe istniejące osoby zachowane. Nowe połączenia obejmują indeksową parę i dzieci/rodziców, hipotetyczne identyfikacje oraz dotychczas niewizualizowane relacje rejestru; nie awansowano ich do potwierdzonych relacji w produkcyjnym arkuszu RELACJE. Każdy przypadek w tabelach audytowych.
+
+Klasyfikacje istniejących kart: P01/P02/P17/P18/P19 poziom1; P03/P04/P05/P06/P07/P08/P12 poziom2 z powodu H017, mimo udokumentowanych lokalnych danych; P09/P10/P11/P20–P25 poziom2 z przekazów rodzinnych i fotografii; dotychczasowe C02/C04/C11/C25/C26/C42/C45 poziom3 jako relacje niepotwierdzone. Tożsamość z aktu C25/C26/C42 pozostaje odrębnie oznaczona1. Nowe widoczne kandydatury i starsze indeksy poziom3. Relacje z aktów zachowują1; R007/R008 jako przyporządkowanie konkretnych kart mają2 z H017, R009/R017 zachowują wyjątek1 zREL-011; pozostałe relacje rodzinne2, hipotezy i indeksowe3.
+
+[Commit implementacji](https://github.com/maciekkoz-PL/drzewo-genealogiczne/commit/1a8223e01148dfa439e2523d780dabe59762d45d). Testy Chromium1440/390px przeszły: trzy poziomy, wszystkie filtry gałęzi, kumulatywność, stałe linie rodziców, brak przepełnienia telefonu i błędówJS, szczegółowe karty najstarszego pokolenia. [Publikacja wersji9](PUBLIKACJA.json): succeeded, HTTP200 i identyczny hash HTML. Hosting otrzymał2pliki bez prywatnych dokumentów i zdjęć.
