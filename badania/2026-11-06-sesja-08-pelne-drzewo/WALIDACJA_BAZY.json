@@ -12,7 +12,7 @@
   ],
   "source": "S086 existing read of the supplied marriage certificate",
   "unavailable_other_chatgpt_threads_not_claimed_searched": true,
-  "workbook_sha256": "d2f53186ad9dd1264e398526af54843a5f2d6bef675eeab3f5d45c143ade1fff",
+  "workbook_sha256": "b6f515333d9abc1c92283bfd6e8f48be326e54b3c757959d33a9e0a7b169d386",
   "general_validation_counts": {
     "ZRODLA_I_SKANY": 126,
     "KANDYDACI_I_HOMONIMY": 42,
@@ -36,6 +36,20 @@
     "H017_edges_hidden_in_documented_view": true,
     "maternal_parentage_source_S086": true,
     "dialog_navigation_search_and_390px_checked": true,
+    "javascript_errors": []
+  },
+  "publication_version": 5,
+  "live_view_validation": {
+    "result": "PASS",
+    "checked_at_utc": "2026-11-06T07:53:39.872497+00:00",
+    "version_number": 5,
+    "http_status": 200,
+    "full_nodes": 21,
+    "documented_nodes": 13,
+    "maternal_nodes": 4,
+    "paternal_full_nodes": 18,
+    "news": 5,
+    "viewport_width": 390,
     "javascript_errors": []
   }
 }
