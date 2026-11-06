@@ -21,7 +21,33 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rachanie",
+          "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+        },
+        {
+          "label": "Rogoźno",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Rachanie",
+          "when": "1905",
+          "context": "Miejsce urodzenia i zamieszkania Wincentego w akcie ślubu 73/1905.",
+          "source": "S072",
+          "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+        },
+        {
+          "label": "Rogoźno, parafia Tomaszów Lubelski",
+          "when": "1909; 1919",
+          "context": "Miejsce zamieszkania ojca wskazane w aktach urodzenia synów Czesława i Romana.",
+          "source": "S071",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ]
     },
     {
       "id": "P06",
@@ -44,7 +70,22 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rogoźno",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Rogoźno, parafia Tomaszów Lubelski",
+          "when": "1905",
+          "context": "Miejsce urodzenia i zamieszkania Agnieszki w akcie ślubu 73/1905.",
+          "source": "S072",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ]
     },
     {
       "id": "P07",
@@ -66,7 +107,22 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Socha, parafia Warta",
+          "when": "1910",
+          "context": "Miejsce zamieszkania Józefa w akcie urodzenia Janiny 112/1910. Zapis w odczycie: „w Sochach”.",
+          "source": "S063",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ]
     },
     {
       "id": "P08",
@@ -88,7 +144,14 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P12",
@@ -111,7 +174,14 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rogoźno",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P03",
@@ -135,7 +205,26 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rogoźno",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        },
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Łódź, ul. Stocka 12",
+          "when": "03.05.1936",
+          "context": "Adres obojga małżonków w akcie ślubu 110/1936. Potwierdzony dla 1936 r.; nie ustala ich adresu w 1943 r.",
+          "source": "S001",
+          "query": "Stocka 12, Łódź, Polska"
+        }
+      ]
     },
     {
       "id": "P04",
@@ -159,7 +248,26 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        },
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Łódź, ul. Stocka 12",
+          "when": "03.05.1936",
+          "context": "Adres obojga małżonków w akcie ślubu 110/1936. Potwierdzony dla 1936 r.; nie ustala ich adresu w 1943 r.",
+          "source": "S001",
+          "query": "Stocka 12, Łódź, Polska"
+        }
+      ]
     },
     {
       "id": "P11",
@@ -181,7 +289,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P02",
@@ -204,7 +314,14 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P17",
@@ -228,7 +345,14 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P10",
@@ -250,14 +374,16 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P09",
       "name": "Tomasz Chmielewski",
       "role": "Przyrodni brat Marysi",
       "dates": "Zm. 26.04.2001† · 30 lat",
-      "place": "",
+      "place": "Stara Gadka · miejsce pochówku według rodziny",
       "note": "Imię, nazwisko, dzień 26 IV i wiek odczytano z rodzinnych fotografii nagrobka. †Rok 2001 oraz relacja ojciec–syn z Bogusławem pochodzą z przekazu rodzinnego; rok na zdjęciu jest częściowo zasłonięty. Nie znamy dokładnej daty urodzenia.",
       "source": [
         "S027",
@@ -273,7 +399,22 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Stara Gadka · miejsce pochówku",
+          "query": "51.67956,19.47182"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Stara Gadka · cmentarz",
+          "when": "miejsce wskazane przez rodzinę",
+          "context": "Lokalizacja grobu i współrzędne z przekazu zachowanego przy fotografiach. Nie jest adresem zamieszkania; nie wykonano niezależnego pomiaru.",
+          "source": "S027",
+          "query": "51.67956,19.47182"
+        }
+      ]
     },
     {
       "id": "P01",
@@ -295,7 +436,9 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Wyjątek rodzinny; akt Marysi nie jest wymagany.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "C42",
@@ -318,7 +461,22 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Akt urodzenia dziecka/ewidencja: daty, pochodzenie, adresy i ślub rodziców; porównać z S001/S086",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Łódź, ul. Napiórkowskiego 112",
+          "when": "03.02.1940",
+          "context": "Miejsce zgonu ośmiodniowego Czesława w akcie 66/1940. Nie stanowi potwierdzenia adresu rodziców Bogusława.",
+          "source": "S126",
+          "query": "Napiórkowskiego 112, Łódź, Polska"
+        }
+      ]
     },
     {
       "id": "P18",
@@ -343,7 +501,14 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P19",
@@ -368,7 +533,14 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P27",
@@ -391,7 +563,14 @@
       "connectionLevel": 2,
       "classificationReason": "Odczytany akt urodzenia i zgodni oboje rodzice z rodziną Czesława. H017 pozostaje odrębną oceną łącznika do Bogusława.",
       "missing": "Późniejszy ślub, nazwisko poślubne i dalsze losy. Związek z Tczewem nie został ustalony.",
-      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk."
+      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk.",
+      "locations": [
+        {
+          "label": "Rogoźno",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P26",
@@ -414,7 +593,14 @@
       "connectionLevel": 2,
       "classificationReason": "Odczytany akt urodzenia i zgodni oboje rodzice z rodziną Czesława. H017 pozostaje odrębną oceną łącznika do Bogusława.",
       "missing": "Późniejszy ślub, nazwisko poślubne i dalsze losy. Związek z Tczewem nie został ustalony.",
-      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk."
+      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk.",
+      "locations": [
+        {
+          "label": "Rogoźno",
+          "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C25",
@@ -437,7 +623,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Ślub/śluby rodziców, dalsze akta i powiązania adresowe; możliwość homonimów lub drugiej żony.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C26",
@@ -460,7 +653,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Ślub/śluby rodziców i ciągłość zamieszkania Socha–Włyń.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Włyń",
+          "query": "Włyń, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C11",
@@ -482,7 +682,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Miejski rejestr potwierdza wspólny grób XXXVI-15-36, nie daty urodzenia ani relację. Potrzebny dodatkowy identyfikator rodziny; nie wystarcza współpochówek.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź · Zarzew",
+          "query": "Zarzew, Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P20",
@@ -504,7 +711,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P21",
@@ -526,7 +735,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P22",
@@ -550,7 +761,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P23",
@@ -574,7 +787,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P24",
@@ -597,7 +812,14 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P25",
@@ -620,7 +842,14 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C45",
@@ -642,7 +871,9 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Własny ślub/urodzenie Anny i akt18/1910",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "C05",
@@ -666,7 +897,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Porównać identyfikatory Wincentego 1901/1905, nie schodzić dalej poza potrzebę.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Tomaszów Lubelski",
+          "query": "Tomaszów Lubelski, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C06",
@@ -688,7 +926,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Ustalić rodziców; nie nazywać bratem Janiny.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C10",
@@ -711,7 +956,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Miejski rejestr potwierdza wspólny grób XXXVI-15-36, nie daty urodzenia ani relację. Potrzebny dodatkowy identyfikator rodziny; nie wystarcza współpochówek.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C19",
@@ -734,7 +986,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Prośba o przekazanie wiadomości za zgodą przez komisariat; NIE poszukiwanie prywatnych danych.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C27",
@@ -757,7 +1016,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Sprawdzić 91 stron IPN Ld 1/3503 pod kątem rodziców, adresu i miejsca ur.; nie wysyłać wniosku bez zatwierdzenia.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        },
+        {
+          "label": "Stołpce (Stolpce)",
+          "query": "Stołpce, Białoruś"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C28",
@@ -781,7 +1051,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Imienna karta AOK/meldunkowa; sprawdzić nazwisko żony i rodziców. Wyjaśnić zakres 1940–1945 wobec rodzinnego urodzenia Bogusława 1943, bez automatycznego wykluczenia ojcostwa.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Caßdorf",
+          "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
+        },
+        {
+          "label": "Fritzlar",
+          "query": "Fritzlar, Hessen, Deutschland"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C29",
@@ -804,7 +1085,22 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Dokument osobowy z rodzicami/żoną/adresem. Nie zakładać, że wszystkie wykazy 1909 dotyczą tej samej osoby.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        },
+        {
+          "label": "Caßdorf",
+          "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
+        },
+        {
+          "label": "Fritzlar",
+          "query": "Fritzlar, Hessen, Deutschland"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C46",
@@ -827,7 +1123,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C47",
@@ -850,7 +1153,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C48",
@@ -873,7 +1183,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        },
+        {
+          "label": "Prusocin",
+          "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C49",
@@ -896,7 +1217,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        },
+        {
+          "label": "Prusocin",
+          "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C50",
@@ -918,7 +1250,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C51",
@@ -940,7 +1279,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C52",
@@ -962,7 +1308,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C53",
@@ -984,7 +1337,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C54",
@@ -1006,7 +1366,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C55",
@@ -1028,7 +1395,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C56",
@@ -1051,7 +1425,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Akty55/1859,16/1894 i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C57",
@@ -1074,7 +1455,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Akty60/1873,16/1894 i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        },
+        {
+          "label": "Prusocin",
+          "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     }
   ],
   "edges": [
