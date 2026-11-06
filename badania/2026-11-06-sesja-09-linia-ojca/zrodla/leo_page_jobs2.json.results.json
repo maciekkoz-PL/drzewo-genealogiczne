@@ -1,0 +1,26 @@
+[
+  {
+    "key": "death1940/leo_2617",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cf&kt=1&plik=2616-2617.jpg",
+    "utc": "2026-11-06T11:17:42.217361+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cf&kt=1&plik=2616-2617.jpg",
+    "sha256": "3ec128bf7e788c0bdc61dfce63e6b31ad9f929f4b6de08eee03ffb6879c2dc71",
+    "size": 55004,
+    "path": "work/s09/death1940/leo_2617.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940cf&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zWJ8W-IPryqdVUMSRqqYArO40MGCbkp8dcGBwYEwz0tK&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=2616-2617.jpg"
+      }
+    ]
+  }
+]

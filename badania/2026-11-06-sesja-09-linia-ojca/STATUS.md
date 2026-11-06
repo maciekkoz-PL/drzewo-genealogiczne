@@ -2,6 +2,8 @@
 
 **Brak nowej potwierdzonej relacji.** Badania dotyczą rodzeństwa Bogusława i ojca Piotra. S086 potwierdza imiona rodziców Bogusława: Czesław Chmielewski i Janina Poprawka. H017, przyporządkowanie ich do konkretnych dat1909/1910 i pary1936, nadal czeka na dodatkowe dane. H018, niemowlę Czesław C42, pozostaje otwarta. Rodzinne połączenie Marysi z obojgiem rodziców jest znane i nie podlega temu warunkowi.
 
+**Dalszy odczyt:** S144, noworodekLeo, ma matkęJaninęChmielewską i niewpisanego ojca; C59/H025 bez potwierdzonego pokrewieństwa. S143: sprawdzono253wpisy rejestru1936 wokół ślubu, bez Chmielewskich. Dopisano pominięty wcześniej indeksLeo1612, bez odczytu aktu urodzenia. [Pełne uzupełnienie i korekty](UZUPELNIENIE_LEO_I_MELDUNKI.md).
+
 ## Ustalony adres i właściwa ewidencja
 
 S126 wskazuje zgon ośmiodniowego Czesława 03.02.1940 przy Napiórkowskiego112. W nowo odczytanym **S139**, księdze nieruchomości **39/221/0/4.4/15874**, SwA17670063, znaleziono dokumenty posesji112 na pozycjach639–641. **Pieczęć na pozycji640, karta638, wskazuje XIV komisariat**; dokument wpłynął08.01.1936. [Obraz](zrodla/street/napior_640.jpg), [karta jednostki](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/17670063).

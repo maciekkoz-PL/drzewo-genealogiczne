@@ -17,7 +17,7 @@ for sn in new.sheetnames:
         for j,v in enumerate(row):
             actual=rows[i][j]
             if v==actual:continue
-            allowed=(sn in ['ZRODLA_I_SKANY','KANDYDACI_I_HOMONIMY'] and i==1 and j==0) or (sn=='HIPOTEZY_OTWARTE' and row[0]=='H018' and j in [2,3])
+            allowed=(sn in ['ZRODLA_I_SKANY','KANDYDACI_I_HOMONIMY'] and i==1 and j==0) or (sn=='HIPOTEZY_OTWARTE' and row[0]=='H018' and j in [2,3]) or (sn=='ZRODLA_I_SKANY' and row[0]=='S067' and j in [2,10]) or (sn=='ZRODLA_I_SKANY' and row[0]=='S138' and j==6)
             assert allowed,(sn,i+1,j+1,v,actual)
             changes.append([sn,i+1,j+1])
     keys=[r[0] for r in rows if isinstance(r[0],str) and re.fullmatch(r'(?:S|C|R|E|L|F|Q|T|H|P)\d+',r[0])]

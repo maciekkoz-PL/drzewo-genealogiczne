@@ -1,28 +1,28 @@
 {
   "result": "PASS",
-  "validated_at_utc": "2026-11-06T11:15:07.217493+00:00",
+  "validated_at_utc": "2026-11-06T11:29:17.676498+00:00",
   "baseline": "019919f96c2f1fd9d82c28ceb2f27ac2dadc2b01",
   "sheets": 21,
   "counts": {
     "RDZEN_RODZINY": 12,
     "RODZINA_Z_RELACJI": 9,
     "RELACJE": 29,
-    "KANDYDACI_I_HOMONIMY": 58,
+    "KANDYDACI_I_HOMONIMY": 59,
     "ZDARZENIA_I_FAKTY": 57,
-    "ZRODLA_I_SKANY": 142,
+    "ZRODLA_I_SKANY": 144,
     "KONTAKTY_URZEDOWE": 0,
     "SZKICE_GMAIL": 0,
     "ZADANIA_AGENTA": 33,
-    "KOREKTY_I_SPRZECZNOSCI": 70,
-    "DZIENNIK_KWEREND": 114,
-    "PLIKI_DOWODOWE": 87,
+    "KOREKTY_I_SPRZECZNOSCI": 72,
+    "DZIENNIK_KWEREND": 116,
+    "PLIKI_DOWODOWE": 90,
     "START": 0,
     "INSTRUKCJA_AGENTA": 0,
     "POTWIERDZONE_AKTEM_1936": 6,
     "DRZEWO_SCHEMAT": 0,
     "RELACJE_ZRODLOWE": 0,
     "AUDYT_PAKIETU": 0,
-    "HIPOTEZY_OTWARTE": 18,
+    "HIPOTEZY_OTWARTE": 19,
     "TROPY_SKOROWIDZE": 0,
     "HIPOTEZY_ROZSTRZYGNIETE": 6
   },
@@ -38,6 +38,16 @@
       1
     ],
     [
+      "ZRODLA_I_SKANY",
+      70,
+      3
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      70,
+      11
+    ],
+    [
       "HIPOTEZY_OTWARTE",
       15,
       3
@@ -51,8 +61,8 @@
   "family_relationships_events_and_maternal_updates_unchanged": true,
   "public_html_unchanged": true,
   "original_zips_unchanged": true,
-  "jpeg_checked": 38,
-  "local_links_checked": 149,
+  "jpeg_checked": 71,
+  "local_links_checked": 159,
   "H017_H018_open": true,
-  "workbook_sha256": "657b547c850fad2d20a14da211985d3128721d5de52c87a510f8fae7cfd9186a"
+  "workbook_sha256": "7c24d9ec05cc80284ba4d6614dde43a8dca2bcb5e9c87843a275cc553f09752a"
 }
