@@ -1,0 +1,450 @@
+[
+  {
+    "key": "systkom_search",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html",
+    "utc": "2026-11-06T07:03:28.980654+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html",
+    "size": 42937,
+    "sha256": "4ec6a6841770dcdc2775af670f6d4495336aef186f3640410bdbf1a68dfeb277",
+    "path": "work/s07/systkom_search.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Mapa cmentarza",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/plan.html"
+      },
+      {
+        "text": "Wyszukiwarka grobów",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/kontakt.html"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "© SYST-KOM - Kompleksowe rozwiązania informatyczne",
+        "url": "https://www.systkom.pl"
+      }
+    ]
+  },
+  {
+    "key": "lodz_official_cemetery",
+    "url": "https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/",
+    "utc": "2026-11-06T07:03:28.982029+00:00",
+    "status": 200,
+    "final_url": "https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/",
+    "size": 61379,
+    "sha256": "abc9978b487f3dbdf463bb61cee58b0689b604e633cbb7181ba375d8bdb2cb59",
+    "path": "work/s07/lodz_official_cemetery.html",
+    "links": [
+      {
+        "text": "Menu główne",
+        "url": "https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/#accessible-aside-nav"
+      },
+      {
+        "text": "Przeskocz do treści",
+        "url": "https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/#accessible-body"
+      },
+      {
+        "text": "Stopka",
+        "url": "https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/#accessible-footer"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/"
+      },
+      {
+        "text": "BIP",
+        "url": "https://bip.biblioteka.lodz.pl/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/lodzpl"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/miasto_lodz"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/kochamLodz/"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/user/LodzTube/videos"
+      },
+      {
+        "text": "TikTok",
+        "url": "https://www.tiktok.com/@kochamlodz"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://lodz.pl/aktualnosci/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://lodz.pl/kontakt/"
+      },
+      {
+        "text": "Aplikacja mobilna",
+        "url": "https://lodz.pl/artykul/aplikacja-lodzpl-newsy-alerty-drogowe-bilety-parkowanie-i-inne-wazne-funkcje-w-twoim-telefonie-60481/"
+      },
+      {
+        "text": "Kalendarz wydarzeń",
+        "url": "https://uml.lodz.pl/kalendarz-wydarzen"
+      },
+      {
+        "text": "Łódź Buduje",
+        "url": "https://lodz.pl/aktualnosci/kategoria/lodz-buduje-261/"
+      },
+      {
+        "text": "Komunikacja",
+        "url": "https://lodz.pl/aktualnosci/kategoria/komunikacja-260/"
+      },
+      {
+        "text": "Historia Łodzi",
+        "url": "https://lodz.pl/aktualnosci/kategoria/historia-lodzi-256/"
+      },
+      {
+        "text": "Czas wolny",
+        "url": "https://lodz.pl/aktualnosci/kategoria/czas-wolny-258/"
+      },
+      {
+        "text": "Wieści z miasta",
+        "url": "https://lodz.pl/aktualnosci/kategoria/wiesci-z-miasta-263/"
+      },
+      {
+        "text": "Zielona Łódź",
+        "url": "https://lodz.pl/aktualnosci/kategoria/zielona-lodz-259/"
+      },
+      {
+        "text": "Łodzianie z pasją",
+        "url": "https://lodz.pl/aktualnosci/kategoria/lodzianie-z-pasja-257/"
+      },
+      {
+        "text": "Zdrowie",
+        "url": "https://lodz.pl/aktualnosci/kategoria/zdrowie-255/"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://lodz.pl/aktualnosci/kategoria/edukacja-254/"
+      },
+      {
+        "text": "Biznes",
+        "url": "https://lodz.pl/aktualnosci/kategoria/biznes-253/"
+      },
+      {
+        "text": "Sport",
+        "url": "https://lodz.pl/aktualnosci/kategoria/sport-252/"
+      },
+      {
+        "text": "Kultura",
+        "url": "https://lodz.pl/aktualnosci/kategoria/kultura-251/"
+      },
+      {
+        "text": "Mapa Łodzi",
+        "url": "https://nowa.mapa.lodz.pl/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://lodz.pl/aktualnosci/"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://lodz.pl/kontakt/"
+      },
+      {
+        "text": "Aplikacja mobilna",
+        "url": "https://lodz.pl/artykul/aplikacja-lodzpl-newsy-alerty-drogowe-bilety-parkowanie-i-inne-wazne-funkcje-w-twoim-telefonie-60481/"
+      },
+      {
+        "text": "Kalendarz wydarzeń",
+        "url": "https://uml.lodz.pl/kalendarz-wydarzen"
+      },
+      {
+        "text": "Łódź Buduje",
+        "url": "https://lodz.pl/aktualnosci/kategoria/lodz-buduje-261/"
+      },
+      {
+        "text": "Komunikacja",
+        "url": "https://lodz.pl/aktualnosci/kategoria/komunikacja-260/"
+      },
+      {
+        "text": "Historia Łodzi",
+        "url": "https://lodz.pl/aktualnosci/kategoria/historia-lodzi-256/"
+      },
+      {
+        "text": "Czas wolny",
+        "url": "https://lodz.pl/aktualnosci/kategoria/czas-wolny-258/"
+      },
+      {
+        "text": "Wieści z miasta",
+        "url": "https://lodz.pl/aktualnosci/kategoria/wiesci-z-miasta-263/"
+      },
+      {
+        "text": "Zielona Łódź",
+        "url": "https://lodz.pl/aktualnosci/kategoria/zielona-lodz-259/"
+      },
+      {
+        "text": "Łodzianie z pasją",
+        "url": "https://lodz.pl/aktualnosci/kategoria/lodzianie-z-pasja-257/"
+      },
+      {
+        "text": "Zdrowie",
+        "url": "https://lodz.pl/aktualnosci/kategoria/zdrowie-255/"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://lodz.pl/aktualnosci/kategoria/edukacja-254/"
+      },
+      {
+        "text": "Biznes",
+        "url": "https://lodz.pl/aktualnosci/kategoria/biznes-253/"
+      },
+      {
+        "text": "Sport",
+        "url": "https://lodz.pl/aktualnosci/kategoria/sport-252/"
+      },
+      {
+        "text": "Kultura",
+        "url": "https://lodz.pl/aktualnosci/kategoria/kultura-251/"
+      },
+      {
+        "text": "Mapa Łodzi",
+        "url": "https://nowa.mapa.lodz.pl/"
+      },
+      {
+        "text": "BIP",
+        "url": "https://bip.biblioteka.lodz.pl/"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/lodzpl"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/miasto_lodz"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/kochamLodz/"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/user/LodzTube/videos"
+      },
+      {
+        "text": "TikTok",
+        "url": "https://www.tiktok.com/@kochamlodz"
+      },
+      {
+        "text": "Pierwsze szyny już na Rzgowskiej. Zobacz!",
+        "url": "https://lodz.pl/artykul/pierwsze-szyny-juz-na-rzgowskiej-remont-wkroczyl-w-nowy-etap-zdjecia-76273/"
+      },
+      {
+        "text": "Zajrzyj do środka zwrotnicy przy Mickiewicza!",
+        "url": "https://lodz.pl/artykul/zajrzyj-do-srodka-zwrotnicy-torowcy-mpk-lodz-montuja-je-przy-mickiewicza-zdjecia-76268/"
+      },
+      {
+        "text": "Które remonty w Łodzi dokończą w 2026 roku?",
+        "url": "https://lodz.pl/artykul/ktore-remonty-w-lodzi-dokoncza-jeszcze-w-2026-roku-lista-jest-dluga-szczegoly-76271/"
+      },
+      {
+        "text": "Nie poznasz Wigury po remoncie! Kładą już asfalt",
+        "url": "https://lodz.pl/artykul/nie-poznasz-wigury-po-remoncie-klada-juz-asfalt-na-polowie-ulicy-zdjecia-76264/"
+      },
+      {
+        "text": "Wielkie zmiany na Bałutach! Od Teofilowa aż po Doły",
+        "url": "https://lodz.pl/artykul/baluty-zmienily-sie-tak-ze-glowa-mala-nowymi-drogami-smigniesz-od-teofilowa-az-po-doly-zdjecia-76256/"
+      },
+      {
+        "text": "Wszystko o remontach w Łodzi [AKTUALIZUJEMY]",
+        "url": "https://lodz.pl/remonty/"
+      },
+      {
+        "text": "Wieści z miasta",
+        "url": "https://lodz.pl/aktualnosci/kategoria/wiesci-z-miasta-263/"
+      },
+      {
+        "text": "",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?fbclid=IwY2xjawVZzz9leHRuA2FlbQMxMDAAcGRvZgFzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR_Sn4Aea4BUWq6tK2L9YXcHlsX1295Zar3Zgmh_45GfrEXc2Zt-BpTx5HnW6g_aem_5BPU7KbFPklaXPvky3THHg&utm_id=97757_v0_s00_e0_tv2"
+      },
+      {
+        "text": "",
+        "url": "fb-messenger://share/?link=https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?fbclid=IwY2xjawVZzz9leHRuA2FlbQMxMDAAcGRvZgFzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR_Sn4Aea4BUWq6tK2L9YXcHlsX1295Zar3Zgmh_45GfrEXc2Zt-BpTx5HnW6g_aem_5BPU7KbFPklaXPvky3THHg&utm_id=97757_v0_s00_e0_tv2"
+      },
+      {
+        "text": "",
+        "url": "https://twitter.com/intent/tweet?text=https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?fbclid=IwY2xjawVZzz9leHRuA2FlbQMxMDAAcGRvZgFzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR_Sn4Aea4BUWq6tK2L9YXcHlsX1295Zar3Zgmh_45GfrEXc2Zt-BpTx5HnW6g_aem_5BPU7KbFPklaXPvky3THHg&utm_id=97757_v0_s00_e0_tv2"
+      },
+      {
+        "text": "",
+        "url": "https://wa.me?text=https://lodz.pl/artykul/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?fbclid=IwY2xjawVZzz9leHRuA2FlbQMxMDAAcGRvZgFzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR_Sn4Aea4BUWq6tK2L9YXcHlsX1295Zar3Zgmh_45GfrEXc2Zt-BpTx5HnW6g_aem_5BPU7KbFPklaXPvky3THHg&utm_id=97757_v0_s00_e0_tv2"
+      },
+      {
+        "text": "Obserwuj w Google",
+        "url": "https://www.google.com/preferences/source?q=https://lodz.pl"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/galeria/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?imgNum=1&cHash=fb40845d5ff73196ca3763ee71d699a8"
+      },
+      {
+        "text": "5 zdjęć",
+        "url": "https://lodz.pl/galeria/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?imgNum=1&cHash=fb40845d5ff73196ca3763ee71d699a8"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/galeria/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?imgNum=1&cHash=fb40845d5ff73196ca3763ee71d699a8"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/galeria/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?imgNum=2&cHash=601519c41e1b38a646430d622efa193d"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/galeria/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?imgNum=3&cHash=23885476b2a61e57a5265248f023c73a"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/galeria/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?imgNum=4&cHash=a8d01ca26e923c096ee0b21f09a22050"
+      },
+      {
+        "text": "ZOBACZZDJĘCIA (5)",
+        "url": "https://lodz.pl/galeria/wyszukiwarka-grobow-w-lodzi-znajdz-grob-na-cmentarzu-przez-internet-jak-to-dziala-53995/?imgNum=1&cHash=fb40845d5ff73196ca3763ee71d699a8"
+      },
+      {
+        "text": "Cmentarze komunalne w Łodzi - wyszukiwarka grobów",
+        "url": "http://cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "Największa nekropolia żydowska w Polsce. Cmentarz przy Brackiej w Łodzi ma 134 lata",
+        "url": "https://lodz.pl/artykul/najwieksza-nekropolia-zydowska-w-polsce-cmentarz-przy-brackiej-w-lodzi-ma-134-lata-70025/"
+      },
+      {
+        "text": "Chcesz zachować prochy bliskich lub je uroczyście rozsypać? Watykan daje zielone światło, a prawo?",
+        "url": "https://lodz.pl/artykul/chcesz-zachowac-prochy-bliskich-lub-je-uroczyscie-rozsypac-watykan-daje-zielone-swiatlo-a-prawo-76227/"
+      },
+      {
+        "text": "TOP 10 największych zabytków na cmentarzach w Łodzi. Mauzolea, kaplice, pomniki [ZDJĘCIA]",
+        "url": "https://lodz.pl/artykul/top-10-najwiekszych-zabytkow-na-cmentarzach-w-lodzi-mauzolea-kaplice-pomniki-zdjecia-54006/"
+      },
+      {
+        "text": "MPK Łódź na cmentarze. Więcej kursów i specjalne linie 25-26 października",
+        "url": "https://lodz.pl/artykul/mpk-lodz-na-cmentarze-wiecej-kursow-i-specjalne-linie-25-26-pazdziernika-70252/"
+      },
+      {
+        "text": "wróć do aktualności",
+        "url": "https://lodz.pl/aktualnosci/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/balucki-rynek-na-starych-fotografiach-targowisko-dworzec-tramwajowy-i-okres-okupacji-zdjecia-63955/"
+      },
+      {
+        "text": "Bałucki Rynek na starych fotografiach. Targowisko, dworzec tramwajowy i okres okupacji [ZDJĘCIA]",
+        "url": "https://lodz.pl/artykul/balucki-rynek-na-starych-fotografiach-targowisko-dworzec-tramwajowy-i-okres-okupacji-zdjecia-63955/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/co-robic-w-weekend-w-lodzi-hot-wheels-stunt-jarmark-swietomarcinski-i-wiecej-przewodnik-76266/"
+      },
+      {
+        "text": "Co robić w weekend w Łodzi? Hot Wheels Stunt, Jarmark Świętomarciński i więcej [PRZEWODNIK]",
+        "url": "https://lodz.pl/artykul/co-robic-w-weekend-w-lodzi-hot-wheels-stunt-jarmark-swietomarcinski-i-wiecej-przewodnik-76266/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/ktore-remonty-w-lodzi-dokoncza-jeszcze-w-2026-roku-lista-jest-dluga-szczegoly-76271/"
+      },
+      {
+        "text": "Które remonty w Łodzi dokończą jeszcze w 2026 roku? Lista jest długa! [SZCZEGÓŁY]",
+        "url": "https://lodz.pl/artykul/ktore-remonty-w-lodzi-dokoncza-jeszcze-w-2026-roku-lista-jest-dluga-szczegoly-76271/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/jarmark-swietomarcinski-w-lodzi-rogale-warsztaty-kulinarne-pochod-z-psami-i-wiecej-76193/"
+      },
+      {
+        "text": "Jarmark Świętomarciński w Łodzi. Rogale, warsztaty kulinarne, pochód z psami i więcej!",
+        "url": "https://lodz.pl/artykul/jarmark-swietomarcinski-w-lodzi-rogale-warsztaty-kulinarne-pochod-z-psami-i-wiecej-76193/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/pakuj-walizki-nowe-mieszkania-miejskie-przy-mlynarskiej-w-lodzi-prawie-gotowe-zdjecia-76260/"
+      },
+      {
+        "text": "Pakuj walizki! Nowe mieszkania miejskie przy Młynarskiej w Łodzi prawie gotowe [ZDJĘCIA]",
+        "url": "https://lodz.pl/artykul/pakuj-walizki-nowe-mieszkania-miejskie-przy-mlynarskiej-w-lodzi-prawie-gotowe-zdjecia-76260/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/baluty-zmienily-sie-tak-ze-glowa-mala-nowymi-drogami-smigniesz-od-teofilowa-az-po-doly-zdjecia-76256/"
+      },
+      {
+        "text": "Bałuty zmieniły się tak, że głowa mała! Nowymi drogami śmigniesz od Teofilowa aż po Doły [ZDJĘCIA]",
+        "url": "https://lodz.pl/artykul/baluty-zmienily-sie-tak-ze-glowa-mala-nowymi-drogami-smigniesz-od-teofilowa-az-po-doly-zdjecia-76256/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/top-8-marek-bizuterii-z-lodzi-ktore-musisz-poznac-lodzkie-swiecidelka-sa-cool-zdjecia-63552/"
+      },
+      {
+        "text": "TOP 8 marek biżuterii z Łodzi, które musisz poznać! Łódzkie świecidełka są cool! [ZDJĘCIA]",
+        "url": "https://lodz.pl/artykul/top-8-marek-bizuterii-z-lodzi-ktore-musisz-poznac-lodzkie-swiecidelka-sa-cool-zdjecia-63552/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/giganci-branzy-logistycznej-inwestuja-w-lodzi-to-nie-tylko-amazon-inpost-i-media-expert-zdjecia-mapa-73105/"
+      },
+      {
+        "text": "Giganci branży logistycznej inwestują w Łodzi! To nie tylko Amazon, InPost i Media Expert [ZDJĘCIA, MAPA]",
+        "url": "https://lodz.pl/artykul/giganci-branzy-logistycznej-inwestuja-w-lodzi-to-nie-tylko-amazon-inpost-i-media-expert-zdjecia-mapa-73105/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/swieta-z-abramki-odkryj-park-wenecja-i-nieznane-slady-faustyny-kowalskiej-zdjecia-75930/"
+      },
+      {
+        "text": "Święta z Abramki. Odkryj Park Wenecja i nieznane ślady Faustyny Kowalskiej [ZDJĘCIA]",
+        "url": "https://lodz.pl/artykul/swieta-z-abramki-odkryj-park-wenecja-i-nieznane-slady-faustyny-kowalskiej-zdjecia-75930/"
+      },
+      {
+        "text": "",
+        "url": "https://lodz.pl/artykul/nowosci-na-wakacje-2027-z-lotniska-w-lodzi-az-13-kierunkow-w-tym-dwie-niespodzianki-zdjecia-76241/"
+      },
+      {
+        "text": "Nowości na wakacje 2027 z lotniska w Łodzi! Aż 13 kierunków, w tym dwie niespodzianki! [ZDJĘCIA]",
+        "url": "https://lodz.pl/artykul/nowosci-na-wakacje-2027-z-lotniska-w-lodzi-az-13-kierunkow-w-tym-dwie-niespodzianki-zdjecia-76241/"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "https://lodz.pl/polityka-prywatnosci/"
+      },
+      {
+        "text": "Mapa serwisu",
+        "url": "https://lodz.pl/mapa-serwisu/"
+      }
+    ]
+  }
+]

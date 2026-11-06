@@ -1,3 +1,5 @@
+**Aktualny priorytet po zmianie decyzji użytkownika:** rodzeństwo Bogusława i połączenie z Piotrem. Dokument taty ma uzupełnić rodzina; H017 pozostaje otwarta, bez blokowania innych kwerend. [Zakres](badania/2026-11-06-sesja-07-rodzenstwo/ZMIANA_PRIORYTETU.md). Nowy kandydat: dzieckoCzesław zmarłe1940, niepołączone z rodziną — [wynik i ograniczenia](badania/2026-11-06-sesja-07-rodzenstwo/STATUS.md), [plan](badania/2026-11-06-sesja-07-rodzenstwo/PLAN_KONTYNUACJI.md).
+
 Bieżące badania06.11.2026: [konkretne tomy urodzeń1943 i stan dowodów](badania/2026-11-06-sesja-06-ksiegi-1943/STATUS.md), [plan](badania/2026-11-06-sesja-06-ksiegi-1943/PLAN_KONTYNUACJI.md). 990obejmuje01–27kwietnia,991od27kwietnia. Brak odczytu aktu Bogusława; H017otwarta.
 
 > **Wygląd strony — najnowsza preferencja:** proste drzewo z kartami osób po kliknięciu. Bez ozdobnych tekstów i długich opisów nad drzewem. W dzienniku pod spodem tylko przełomowe odkrycia, bez szczegółowych kwerend, liczb skanów i otwartych tropów.

@@ -1,0 +1,19 @@
+{
+  "params": {
+    "open": [
+      {
+        "ref_id": "https://metryki.genealodzy.pl/id454-sy1940c-kt1"
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Internal Error ()\n【turn676659view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://metryki.genealodzy.pl/id454-sy1940c-kt1\",\"lineno\":null}); \nURL https://metryki.genealodzy.pl/id454-sy1940c-kt1 is not accessible via this tool."
+      }
+    ],
+    "isError": false
+  }
+}

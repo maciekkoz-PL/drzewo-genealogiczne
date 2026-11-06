@@ -1,0 +1,32 @@
+[
+  {
+    "key": "medals/mp1999_304",
+    "url": "https://api.sejm.gov.pl/eli/acts/MP/1999/304/text.pdf",
+    "utc": "2026-11-06T07:07:49.282192+00:00",
+    "status": 200,
+    "final_url": "https://api.sejm.gov.pl/eli/acts/MP/1999/304/text.pdf",
+    "size": 2118289,
+    "sha256": "fa80b25e452bec1436aa19593971a7940b151e79105fd6da8d94ba9da473bf00",
+    "path": "work/s07/medals/mp1999_304.pdf"
+  },
+  {
+    "key": "medals/mp1997_99",
+    "url": "https://eli.gov.pl/api/acts/MP/1997/99/text/O/M19970099.pdf",
+    "utc": "2026-11-06T07:07:49.283223+00:00",
+    "status": 200,
+    "final_url": "https://eli.gov.pl/api/acts/MP/1997/99/text/O/M19970099.pdf",
+    "size": 3260293,
+    "sha256": "8f362eb20abca05aec317fe501a39d9bc7c8038022f636039557efd6fecf5b13",
+    "path": "work/s07/medals/mp1997_99.pdf"
+  },
+  {
+    "key": "medals/mp1999_526",
+    "url": "https://eli.gov.pl/api/acts/MP/1999/526/text/O/M19990526.pdf",
+    "utc": "2026-11-06T07:07:49.285769+00:00",
+    "status": 200,
+    "final_url": "https://eli.gov.pl/api/acts/MP/1999/526/text/O/M19990526.pdf",
+    "size": 2084278,
+    "sha256": "d3d1f83e6805bbe48720698fb1ba48e76ad3ad04bec04386a3cd3fb5263f37a1",
+    "path": "work/s07/medals/mp1999_526.pdf"
+  }
+]

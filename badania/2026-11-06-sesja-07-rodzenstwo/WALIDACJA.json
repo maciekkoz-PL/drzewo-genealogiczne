@@ -1,0 +1,63 @@
+{
+  "result": "PASS",
+  "baseline": "2d622c1",
+  "general_validation": {
+    "validated_at_utc": "2026-11-06T07:24:46.790419+00:00",
+    "result": "PASS",
+    "workbook_sha256": "bd88aaf4b9e7cd489e32137924b4aa55ccb3a8cf75e8a5b9111b5e341d6a56a7",
+    "sheets": 21,
+    "counts": {
+      "ZRODLA_I_SKANY": 126,
+      "KANDYDACI_I_HOMONIMY": 42,
+      "RELACJE": 17,
+      "ZDARZENIA_I_FAKTY": 45,
+      "DZIENNIK_KWEREND": 101,
+      "PLIKI_DOWODOWE": 73,
+      "KOREKTY_I_SPRZECZNOSCI": 60,
+      "ZADANIA_AGENTA": 28
+    },
+    "open_hypotheses": 14,
+    "resolved_hypotheses": 4,
+    "source_reference_occurrences_checked": 946,
+    "manifest_files_verified": {
+      "badania/2026-11-05-sesja-01/manifest_zrodel_sesji.json": 236,
+      "badania/2026-11-05-sesja-02-rodzice/manifest_zrodel_sesji.json": 31,
+      "badania/2026-11-05-sesja-03-polaczenie/manifest_zrodel_sesji.json": 92,
+      "badania/2026-11-05-sesja-04-weryfikacja/manifest_zrodel_sesji.json": 177,
+      "badania/2026-11-05-sesja-05-prasa/manifest_zrodel_sesji.json": 114,
+      "badania/2026-11-06-sesja-06-ksiegi-1943/manifest_zrodel_sesji.json": 143,
+      "badania/2026-11-06-sesja-07-rodzenstwo/manifest_zrodel_sesji.json": 106
+    },
+    "new_jpeg_verified": 35,
+    "original_zip_entries_crc_ok": 22,
+    "local_markdown_links_checked": 159,
+    "draft_crc_and_identifying_data_ok": true,
+    "baseline_check": null,
+    "evidence_limits": {
+      "H001_parent_names_resolved_by_S086": true,
+      "H017_additional_parent_identifiers_unresolved": true,
+      "S086_original_image_local": false,
+      "new_search_rows_are_index_not_images": 280,
+      "outreach_applications_and_payments": 0
+    }
+  },
+  "general_validation_scope_note": "Generic validator uses stage03 for the existing unsent DOCX; its35images/280rows describe stage03, not this new stage. All source IDs and manifests include stage07.",
+  "new_stage_images_verified": 3,
+  "queries_final_complete": 46,
+  "initial_failures_retained": 6,
+  "successful_retries": 6,
+  "controls": [
+    1,
+    1,
+    0,
+    1,
+    1
+  ],
+  "family_core_relationships_and_events_unchanged": true,
+  "resolved_hypotheses_unchanged": true,
+  "original_zip_unchanged": true,
+  "C42_in_candidates_only_H018_open": true,
+  "local_links_checked": 122,
+  "website_unchanged_no_new_confirmed_relation": true,
+  "outreach_and_payments": 0
+}

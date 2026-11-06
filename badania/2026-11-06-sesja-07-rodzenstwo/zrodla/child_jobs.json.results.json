@@ -1,0 +1,598 @@
+[
+  {
+    "key": "child1940/index",
+    "url": "https://metryki.genealodzy.pl/id454-sy1940c-kt1",
+    "utc": "2026-11-06T07:17:50.590691+00:00",
+    "status": 200,
+    "final_url": "https://metryki.genealodzy.pl/id454-sy1940c-kt1",
+    "size": 48250,
+    "sha256": "6a04494cf2896480697a05d2029a73d2c43dc24211b807b99661d1541893822b",
+    "path": "work/s07/child1940/index.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/"
+      },
+      {
+        "text": "Powrót do Skanoteki",
+        "url": "https://skanoteka.genealodzy.pl"
+      },
+      {
+        "text": "",
+        "url": "https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://geneteka.genealodzy.pl/plany.php"
+      },
+      {
+        "text": "",
+        "url": "https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/opjk"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl/donate-pol"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/?op=lang&lang=pl_PL"
+      },
+      {
+        "text": "",
+        "url": "https://metryki.genealodzy.pl/?op=lang&lang=en_EN"
+      },
+      {
+        "text": "000",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=000.jpg"
+      },
+      {
+        "text": "063-066",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=063-066.jpg"
+      },
+      {
+        "text": "131-134",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=131-134.jpg"
+      },
+      {
+        "text": "199-202",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=199-202.jpg"
+      },
+      {
+        "text": "267-270",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=267-270.jpg"
+      },
+      {
+        "text": "335-338",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=335-338.jpg"
+      },
+      {
+        "text": "399-402",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=399-402.jpg"
+      },
+      {
+        "text": "001-002",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=001-002.jpg"
+      },
+      {
+        "text": "067-070",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=067-070.jpg"
+      },
+      {
+        "text": "135-138",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=135-138.jpg"
+      },
+      {
+        "text": "203-206",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=203-206.jpg"
+      },
+      {
+        "text": "271-274",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=271-274.jpg"
+      },
+      {
+        "text": "339-342",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=339-342.jpg"
+      },
+      {
+        "text": "403-406",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=403-406.jpg"
+      },
+      {
+        "text": "003-006",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=003-006.jpg"
+      },
+      {
+        "text": "071-074",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=071-074.jpg"
+      },
+      {
+        "text": "139-142",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=139-142.jpg"
+      },
+      {
+        "text": "207-210",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=207-210.jpg"
+      },
+      {
+        "text": "275-278",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=275-278.jpg"
+      },
+      {
+        "text": "343-346",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=343-346.jpg"
+      },
+      {
+        "text": "407-410",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=407-410.jpg"
+      },
+      {
+        "text": "007-010",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=007-010.jpg"
+      },
+      {
+        "text": "075-078",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=075-078.jpg"
+      },
+      {
+        "text": "143-146",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=143-146.jpg"
+      },
+      {
+        "text": "211-214",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=211-214.jpg"
+      },
+      {
+        "text": "279-282",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=279-282.jpg"
+      },
+      {
+        "text": "347-350",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=347-350.jpg"
+      },
+      {
+        "text": "411-414",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=411-414.jpg"
+      },
+      {
+        "text": "011-014",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=011-014.jpg"
+      },
+      {
+        "text": "079-082",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=079-082.jpg"
+      },
+      {
+        "text": "147-150",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=147-150.jpg"
+      },
+      {
+        "text": "215-218",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=215-218.jpg"
+      },
+      {
+        "text": "283-286",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=283-286.jpg"
+      },
+      {
+        "text": "351-354",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=351-354.jpg"
+      },
+      {
+        "text": "415-418",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=415-418.jpg"
+      },
+      {
+        "text": "015-018",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=015-018.jpg"
+      },
+      {
+        "text": "083-086",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=083-086.jpg"
+      },
+      {
+        "text": "151-154",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=151-154.jpg"
+      },
+      {
+        "text": "219-222",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=219-222.jpg"
+      },
+      {
+        "text": "287-290",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=287-290.jpg"
+      },
+      {
+        "text": "355-358",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=355-358.jpg"
+      },
+      {
+        "text": "419-422",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=419-422.jpg"
+      },
+      {
+        "text": "019-022",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=019-022.jpg"
+      },
+      {
+        "text": "087-090",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=087-090.jpg"
+      },
+      {
+        "text": "155-158",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=155-158.jpg"
+      },
+      {
+        "text": "223-226",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=223-226.jpg"
+      },
+      {
+        "text": "291-294",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=291-294.jpg"
+      },
+      {
+        "text": "359-362",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=359-362.jpg"
+      },
+      {
+        "text": "423-426",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=423-426.jpg"
+      },
+      {
+        "text": "023-026",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=023-026.jpg"
+      },
+      {
+        "text": "091-094",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=091-094.jpg"
+      },
+      {
+        "text": "159-162",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=159-162.jpg"
+      },
+      {
+        "text": "227-230",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=227-230.jpg"
+      },
+      {
+        "text": "295-298",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=295-298.jpg"
+      },
+      {
+        "text": "363-364",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=363-364.jpg"
+      },
+      {
+        "text": "427-430",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=427-430.jpg"
+      },
+      {
+        "text": "027-030",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=027-030.jpg"
+      },
+      {
+        "text": "095-098",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=095-098.jpg"
+      },
+      {
+        "text": "163-166",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=163-166.jpg"
+      },
+      {
+        "text": "231-234",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=231-234.jpg"
+      },
+      {
+        "text": "299-302",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=299-302.jpg"
+      },
+      {
+        "text": "365-366",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=365-366.jpg"
+      },
+      {
+        "text": "431-433",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=431-433.jpg"
+      },
+      {
+        "text": "031-034",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=031-034.jpg"
+      },
+      {
+        "text": "099-102",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=099-102.jpg"
+      },
+      {
+        "text": "167-170",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=167-170.jpg"
+      },
+      {
+        "text": "235-238",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=235-238.jpg"
+      },
+      {
+        "text": "303-306",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=303-306.jpg"
+      },
+      {
+        "text": "367-370",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=367-370.jpg"
+      },
+      {
+        "text": "SkZ-1",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=SkZ-1.jpg"
+      },
+      {
+        "text": "035-038",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=035-038.jpg"
+      },
+      {
+        "text": "103-106",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=103-106.jpg"
+      },
+      {
+        "text": "171-174",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=171-174.jpg"
+      },
+      {
+        "text": "239-242",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=239-242.jpg"
+      },
+      {
+        "text": "307-310",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=307-310.jpg"
+      },
+      {
+        "text": "371-374",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=371-374.jpg"
+      },
+      {
+        "text": "SkZ-2",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=SkZ-2.jpg"
+      },
+      {
+        "text": "039-042",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=039-042.jpg"
+      },
+      {
+        "text": "107-110",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=107-110.jpg"
+      },
+      {
+        "text": "175-178",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=175-178.jpg"
+      },
+      {
+        "text": "243-246",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=243-246.jpg"
+      },
+      {
+        "text": "311-314",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=311-314.jpg"
+      },
+      {
+        "text": "375-378",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=375-378.jpg"
+      },
+      {
+        "text": "SkZ-3",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=SkZ-3.jpg"
+      },
+      {
+        "text": "043-046",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=043-046.jpg"
+      },
+      {
+        "text": "111-114",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=111-114.jpg"
+      },
+      {
+        "text": "179-182",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=179-182.jpg"
+      },
+      {
+        "text": "247-250",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=247-250.jpg"
+      },
+      {
+        "text": "315-318",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=315-318.jpg"
+      },
+      {
+        "text": "379-382",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=379-382.jpg"
+      },
+      {
+        "text": "SkZ-4",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=SkZ-4.jpg"
+      },
+      {
+        "text": "047-050",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=047-050.jpg"
+      },
+      {
+        "text": "115-118",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=115-118.jpg"
+      },
+      {
+        "text": "183-186",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=183-186.jpg"
+      },
+      {
+        "text": "251-254",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=251-254.jpg"
+      },
+      {
+        "text": "319-322",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=319-322.jpg"
+      },
+      {
+        "text": "383-386",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=383-386.jpg"
+      },
+      {
+        "text": "zz",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=zz.jpg"
+      },
+      {
+        "text": "051-054",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=051-054.jpg"
+      },
+      {
+        "text": "119-122",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=119-122.jpg"
+      },
+      {
+        "text": "187-190",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=187-190.jpg"
+      },
+      {
+        "text": "255-258",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=255-258.jpg"
+      },
+      {
+        "text": "323-326",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=323-326.jpg"
+      },
+      {
+        "text": "387-390",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=387-390.jpg"
+      },
+      {
+        "text": "zzz",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=zzz.jpg"
+      },
+      {
+        "text": "055-058",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=055-058.jpg"
+      },
+      {
+        "text": "123-126",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=123-126.jpg"
+      },
+      {
+        "text": "191-194",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=191-194.jpg"
+      },
+      {
+        "text": "259-262",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=259-262.jpg"
+      },
+      {
+        "text": "327-330",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=327-330.jpg"
+      },
+      {
+        "text": "391-394",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=391-394.jpg"
+      },
+      {
+        "text": "059-062",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=059-062.jpg"
+      },
+      {
+        "text": "127-130",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=127-130.jpg"
+      },
+      {
+        "text": "195-198",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=195-198.jpg"
+      },
+      {
+        "text": "263-266",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=263-266.jpg"
+      },
+      {
+        "text": "331-334",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=331-334.jpg"
+      },
+      {
+        "text": "395-398",
+        "url": "https://metryki.genealodzy.pl/index.php?op=pg&id=454&sy=1940c&kt=1&plik=395-398.jpg"
+      },
+      {
+        "text": "1939c",
+        "url": "https://metryki.genealodzy.pl/index.php?op=kt&id=454&sy=1939c"
+      },
+      {
+        "text": "Zgony",
+        "url": "https://metryki.genealodzy.pl/id454-sy1939c-kt1"
+      },
+      {
+        "text": "1939",
+        "url": "https://metryki.genealodzy.pl/id454-sy1939c-kt1"
+      },
+      {
+        "text": "1940b",
+        "url": "https://metryki.genealodzy.pl/index.php?op=kt&id=454&sy=1940b"
+      },
+      {
+        "text": "Małżeństwa",
+        "url": "https://metryki.genealodzy.pl/id454-sy1940b-kt1"
+      },
+      {
+        "text": "1940",
+        "url": "https://metryki.genealodzy.pl/id454-sy1940b-kt1"
+      },
+      {
+        "text": "1940c",
+        "url": "https://metryki.genealodzy.pl/index.php?op=kt&id=454&sy=1940c"
+      },
+      {
+        "text": "Zgony",
+        "url": "https://metryki.genealodzy.pl/id454-sy1940c-kt1"
+      },
+      {
+        "text": "1940",
+        "url": "https://metryki.genealodzy.pl/id454-sy1940c-kt1"
+      },
+      {
+        "text": "1945b",
+        "url": "https://metryki.genealodzy.pl/index.php?op=kt&id=454&sy=1945b"
+      },
+      {
+        "text": "Małżeństwa",
+        "url": "https://metryki.genealodzy.pl/id454-sy1945b-kt2"
+      },
+      {
+        "text": "1945",
+        "url": "https://metryki.genealodzy.pl/id454-sy1945b-kt2"
+      },
+      {
+        "text": "1945c",
+        "url": "https://metryki.genealodzy.pl/index.php?op=kt&id=454&sy=1945c"
+      },
+      {
+        "text": "Zgony",
+        "url": "https://metryki.genealodzy.pl/id454-sy1945c-kt3"
+      },
+      {
+        "text": "1945",
+        "url": "https://metryki.genealodzy.pl/id454-sy1945c-kt3"
+      },
+      {
+        "text": "powrót do zespołu",
+        "url": "https://metryki.genealodzy.pl/id454"
+      },
+      {
+        "text": "",
+        "url": "https://genealodzy.pl/donate-pol"
+      },
+      {
+        "text": "Polskie Towarzystwo Genealogiczne",
+        "url": "http://genealodzy.pl"
+      }
+    ]
+  }
+]

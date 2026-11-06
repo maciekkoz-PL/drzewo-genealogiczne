@@ -1,0 +1,532 @@
+[
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/063-066.jpg",
+    "size": 1255112,
+    "sha256": "6fab7a682dc65ef2dcbd206ec34cc416230f7f5f5636e4722ee2cdefd73d407a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/akt66_crop.jpg",
+    "size": 232846,
+    "sha256": "6761c3596d7f1a6470c0ef7ec3cf0849ee0d9bfceb932591fa48292a6d4136b5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/download.json",
+    "size": 585,
+    "sha256": "6eda9102a0ae970de1bd9d0fbb6507220b0bebbb674aa3e44ca9f0f117bdbc5a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/index.html",
+    "size": 48250,
+    "sha256": "6a04494cf2896480697a05d2029a73d2c43dc24211b807b99661d1541893822b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/index.txt",
+    "size": 1515,
+    "sha256": "4374ca6a94e5f4f6a2e3823e47732fd33c201e6007347c2be4c232d44e50cd19"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/overview.jpg",
+    "size": 392356,
+    "sha256": "f5364f977fa444c4bdab80ce81ac07152daebc7f0f7d5910ec22bb3ac5c2fa57"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/view66.html",
+    "size": 54953,
+    "sha256": "9b80477ba7db39fa4a26f7eb807f2f7877a1cc6eb9264221f716442f4313444d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child1940/view66.txt",
+    "size": 263,
+    "sha256": "3e2c332c0dda011fa8049f5764f26536ad3944b77c74967c4998f32fdb950b4b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child_jobs.json",
+    "size": 72,
+    "sha256": "a1ee60960afe0865116a30603f279f4e13dcb6d711b6469f4c01e65997f0b46d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child_jobs.json.results.json",
+    "size": 20387,
+    "sha256": "ff60198734bb65a4e5f999831aee1ee6ab4db1cd72d9a48967e3515b8965f7cf"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child_page_jobs.json",
+    "size": 109,
+    "sha256": "0f8c3015d9d46d4391e486d5b17ca030846c9b109d14c79a8353d84d5d6ec4cd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/child_page_jobs.json.results.json",
+    "size": 937,
+    "sha256": "35289ad258d18c94e4a3dd0d2d676d750e4df7415ab79232a946c1022d1da881"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/fetch.py",
+    "size": 1294,
+    "sha256": "0338e12b8d79ff30fd2975c8e998f54e51623c5406ad82473a59849377fa4aad"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/01ds_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/01ds_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/02kp_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/02kp_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/03lb_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/03lb_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/04ls_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/04ls_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/05ld_B_father.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/05ld_B_mother.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/05ld_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/05ld_D_father.json",
+    "size": 3613,
+    "sha256": "71bd356c098f53b0e822f8bce991242755a57016b7b628a206d3dec32a25c3e2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/05ld_D_mother.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/05ld_D_parents_any_maiden.json",
+    "size": 987,
+    "sha256": "5935a6c331c244f33f7448d0a86b07397ce89ce842994df3d81d60ecd3ab0134"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/06mp_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/06mp_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/07mz_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/07mz_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/08op_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/08op_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/09pk_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/09pk_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/10pl_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/10pl_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/11pm_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/11pm_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/12sl_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/12sl_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/13sk_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/13sk_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/14wm_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/14wm_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/15wp_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/15wp_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/16zp_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/16zp_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/21uk_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/21uk_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/22br_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/22br_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/23lt_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/23lt_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/25po_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/25po_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/71wa_B_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/71wa_D_parents_any_maiden.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/b1910_janina.json",
+    "size": 907,
+    "sha256": "c79ebefab18283ff69cbbd04c7c6656a0977939804e3a6e848038e2b3685297b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/b1910_parents.json",
+    "size": 907,
+    "sha256": "c79ebefab18283ff69cbbd04c7c6656a0977939804e3a6e848038e2b3685297b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/controls.json",
+    "size": 28019,
+    "sha256": "1178bb31162cb229624d2165e0dd78a1d7fc7a37846b6cf552cddaec2b9a04f9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/relatives_queries.json",
+    "size": 260776,
+    "sha256": "f572dad70572f9af827cf2e7b60d804a45b7d31d98c6a7e6c54a11b0e0792b5d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/retries.json",
+    "size": 2318,
+    "sha256": "4133e63bae9c43d2faf7d215774c39d3517f2715b33ab8299c566667a5a2e4c5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/s1936_negative_second.json",
+    "size": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/s1936_pair_current.json",
+    "size": 1080,
+    "sha256": "86de3ab691bc08468dc56b51f67cee01ee65af4d4f1e7b6b3c5590fda08dab4a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka/s1936_pair_without_maiden.json",
+    "size": 1080,
+    "sha256": "86de3ab691bc08468dc56b51f67cee01ee65af4d4f1e7b6b3c5590fda08dab4a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka_controls.py",
+    "size": 2012,
+    "sha256": "b6f85e27981dc03ed9aa16fd8ab3bb60575b05f9d1c8aeeb20b5e3a7fb58bc5f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/geneteka_relatives.py",
+    "size": 2424,
+    "sha256": "ddf08a286d9651a365b8992965fc01d1b189b3c417a301d737332b2e83058b13"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/lodz_official_cemetery.html",
+    "size": 61379,
+    "sha256": "abc9978b487f3dbdf463bb61cee58b0689b604e633cbb7181ba375d8bdb2cb59"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/lodz_official_cemetery.txt",
+    "size": 3952,
+    "sha256": "b3c00f508e20055387457888c78a35c3dff9d1565e80b9af95169aea87ae83df"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/map_jobs.json",
+    "size": 228,
+    "sha256": "28f838b4ed9d6f79d3e41020347c0a10da39c965b922442c78469ef65f8c0ff9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/map_jobs.json.results.json",
+    "size": 2337,
+    "sha256": "d9680a63d69206c23e0190fff17ba6a1f4ec52753d07826f0326e4ca637bde8f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals/mp1997_99.pdf",
+    "size": 3260293,
+    "sha256": "8f362eb20abca05aec317fe501a39d9bc7c8038022f636039557efd6fecf5b13"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals/mp1997_99.txt",
+    "size": 38643,
+    "sha256": "7f4c090ed03592d10ab66d0a9f027e568acfed8a86671df0353d29a8424ab824"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals/mp1999_304.pdf",
+    "size": 2118289,
+    "sha256": "fa80b25e452bec1436aa19593971a7940b151e79105fd6da8d94ba9da473bf00"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals/mp1999_304.txt",
+    "size": 24818,
+    "sha256": "8164e3a89fab5a4477750a3d5d15cf4265e5f4ea3672a2950ab161a57f0d9738"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals/mp1999_526.pdf",
+    "size": 2084278,
+    "sha256": "d3d1f83e6805bbe48720698fb1ba48e76ad3ad04bec04386a3cd3fb5263f37a1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals/mp1999_526.txt",
+    "size": 24370,
+    "sha256": "20877f6f50e2f115435aa182908ec1e007dbde1df4b25f516cc9e45bcd506b90"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals_jobs.json",
+    "size": 296,
+    "sha256": "00510fd06f3b254a57309e7247de15e02caeb963136f78b371ff62e3833a5b40"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/medals_jobs.json.results.json",
+    "size": 1217,
+    "sha256": "10013b462d1e152add7d80fbbfff7b40169d8be8bbba5d33a8689ae2fdf12a8f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/boguslaw.html",
+    "size": 43563,
+    "sha256": "ace98de0be4f30c5550a2650657ea2b42bfe71793318b6024b97a028f7c3540f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/boguslaw.txt",
+    "size": 5370,
+    "sha256": "2c95d7b3559fc73de3d3100aab44b4cd23905d1b6ad725b5913f3e42a7da673b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/czeslaw.html",
+    "size": 44616,
+    "sha256": "35ba9de78a3b6f222c26cbfdc581c216575d44323dfb870b7724a931062e768b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/czeslaw.txt",
+    "size": 5607,
+    "sha256": "ea68e7d1e4529d7f55763ac6f724182c2cdb6055b1b5d82dea425f4894f0388e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/janina.html",
+    "size": 43804,
+    "sha256": "ab8c3e392905d4c931df0a3d761c40197024d734d75430b55df808656153cbbb"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/janina.txt",
+    "size": 5424,
+    "sha256": "924c5adb0a7a1939669821343119024e69992d14d133eb746c383b65bf8acacd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/searches.json",
+    "size": 7066,
+    "sha256": "08cb4a13682afa72fb144e7938d89c59ce10cd1c360883614c8706ee6ce0a8f1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/witold.html",
+    "size": 43805,
+    "sha256": "ab42c0ee02a2e771fec3c2c449bc4b7a371ba79c38c804f4e495d6d09e70c945"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal/witold.txt",
+    "size": 5426,
+    "sha256": "a3ca969b145af62e62e02ea60b599692bbf8357edda1ed6b6bb9e2e92ed67752"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal_functions.html",
+    "size": 2908,
+    "sha256": "b74ab33e86d5a23baa63ba73975139d8e5c1cea1d51c4aa01bcf17db0ef5142b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal_functions.txt",
+    "size": 2539,
+    "sha256": "ecd126b2c31e7b488bf87ffdd926c19bfe26228cc4eb25061bca2144fb3c8db5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal_jobs.json",
+    "size": 256,
+    "sha256": "946706d5860860abd0c7fed7d9dcf44ad7684b391fbb7431848903f7dc184303"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal_jobs.json.results.json",
+    "size": 18408,
+    "sha256": "594892883b7a8275ecf9364e9733c1a3916186f151fe01077574fa94cddd2013"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal_map_zarzew.html",
+    "size": 11583,
+    "sha256": "69da348cab4e11be5a95a932e5e9824f84db311e97a777b2e7e473446ff2a127"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal_map_zarzew.txt",
+    "size": 651,
+    "sha256": "08764195cc64c722e7f71087e7bb6bd0c3a1b36d58c7a2f21d673bc28113b854"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/municipal_search.py",
+    "size": 2218,
+    "sha256": "ae3e8951756a5e1112fd8e059151e5b145f5d0822ebe78c1f3c6e202009b2d2b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/retry_geneteka.py",
+    "size": 1207,
+    "sha256": "3407a36755f2c535e41016667e05c94f1637a74ad85af6b556cd511297200989"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/systkom_search.html",
+    "size": 42937,
+    "sha256": "4ec6a6841770dcdc2775af670f6d4495336aef186f3640410bdbf1a68dfeb277"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/systkom_search.txt",
+    "size": 5245,
+    "sha256": "44b384be870285dbacf336ce972b23c7269b814bcef70b5088f8225e80fbf151"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/web/s07_child1940.json",
+    "size": 518,
+    "sha256": "58c848b8c1348f0389447f401f0180a0c190572639b609b6c35cb68807f5ed62"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/web/s07_child_followup.json",
+    "size": 20488,
+    "sha256": "6e2a7875e26ae8f7d7036e8396c6129aab3d1cdac135e45eaa639931b3de4f86"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/web/s07_family_names.json",
+    "size": 24181,
+    "sha256": "45ee9a2f086a7ec6951ea5f3cabc694079a094e10bd29e343db32d0d12f116c1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/web/s07_piotr.json",
+    "size": 26037,
+    "sha256": "b9b674fb052f7931d57822c4baa53d227bdd20734c805b19da7d35ffa7276777"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/web/s07_start.json",
+    "size": 24005,
+    "sha256": "a51d0f95a1646e238fdd211ddec77f7170857318d519980fd42b8e420019eafd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-07-rodzenstwo/zrodla/web/s07_witold.json",
+    "size": 20502,
+    "sha256": "7557ba4d6b6dbe7b7c94a76d25a04a4edd7e4a0e9d3a13370827fa7b42799c65"
+  }
+]

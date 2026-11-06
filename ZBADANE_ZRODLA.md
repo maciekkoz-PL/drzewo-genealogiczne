@@ -142,3 +142,12 @@ Etap06: [pełny odczyt zakresów i ograniczeń](badania/2026-11-06-sesja-06-ksie
 - S119: Czesław i Janina z Witnicy — biografia — Czesław17.04.1924Łuck nie jest26-letnim mężem1936. Nie ustalono nazwiska rodowego Janiny ani związku tej rodziny z P02.
 - S120: WBP —8nowych zapytań i DziennikŁódzki30.01.1970 — WojciechChmielewski i BogusławNiedzielski to dwie osoby; fałszywy wynik frazy. Trzy szerokie listy tylko pierwsza strona, nie pełna kwerenda.
 - S121: Art.16b — podstawa warunkowego udostępniania wskazana w SwA — 100lat, wyjątek dla uprawnionych. Nie gwarantuje dostępu konkretnej osobie. Szkic niewysłany, brak wniosku lub opłat.
+
+
+Etap07: [rodzeństwo, C42 i granice dowodu](badania/2026-11-06-sesja-07-rodzenstwo/STATUS.md).
+
+- S122: Miejski rejestr cmentarny Łodzi — cztery zapytania i wspólny grób — Witold22.08.2003 i Czesław16.01.1981 w jednym grobie. Brak dat urodzenia i relacji. Bogusław bez wyniku tylko w trzech cmentarzach komunalnych. Nie wyklucza innych cmentarzy.
+- S123: Geneteka — kontrole pary/rodziców i nowe poszukiwanie rodzeństwa — Po sześciu ponowieniach wszystkie46 kompletne na poziomie zwróconych wierszy API. Jedno istotne trafienie: dzieckoCzesław, rodziceCzesław/JaninaPoprawska. Pokrycie indeksów nie jest pełnym pokryciem ksiąg.
+- S124: Monitor Polski — trzy nowe dokumenty odznaczeń — Czesław synJana/Czesława oraz Czesław synKlemensa/Genowefa nie są parą1936. Edward/Czesława to także inna para. Nie dodano do rodziny.
+- S125: Wyszukiwanie publicznych wzmianek o Witoldzie, Piotrze i wariancie Poprawska — Znany artykuł o Piotrze nie dostarcza rodziców ani powiązania z Bogusławem. Pozostałe wyniki ogólne i medalowe; brak nowego zidentyfikowanego pokrewieństwa. Nie jest to wyczerpująca kwerenda ujemna.
+- S126: Czesław Chmielewski — zgon dziecka, Łódź św. Anna 66/1940 — Zgon03.02.1940godz7, osiem dni, Łódź,Napiórkowskiego112; synCzesława i Janiny z Poprawskich. Akt05.02godz12. Brak wieku/DOB rodziców, brak Bogusława. Nazwisko matki w samym akcie Poprawskich, nie wolno poprawić naPoprawka bez dodatkowego dowodu.

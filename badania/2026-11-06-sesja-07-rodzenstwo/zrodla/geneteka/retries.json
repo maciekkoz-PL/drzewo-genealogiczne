@@ -1,0 +1,68 @@
+[
+  {
+    "key": "04ls_B_parents_any_maiden",
+    "utc": "2026-11-06T07:17:43.924206+00:00",
+    "previous_error": "HTTP Error 502: Bad Gateway",
+    "status": 200,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382",
+    "total": 0,
+    "rows": 0,
+    "path": "work/s07/geneteka/04ls_B_parents_any_maiden.json",
+    "complete": true
+  },
+  {
+    "key": "04ls_D_parents_any_maiden",
+    "utc": "2026-11-06T07:17:44.782189+00:00",
+    "previous_error": "HTTP Error 502: Bad Gateway",
+    "status": 200,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382",
+    "total": 0,
+    "rows": 0,
+    "path": "work/s07/geneteka/04ls_D_parents_any_maiden.json",
+    "complete": true
+  },
+  {
+    "key": "05ld_B_parents_any_maiden",
+    "utc": "2026-11-06T07:17:45.482473+00:00",
+    "previous_error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>",
+    "status": 200,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382",
+    "total": 0,
+    "rows": 0,
+    "path": "work/s07/geneteka/05ld_B_parents_any_maiden.json",
+    "complete": true
+  },
+  {
+    "key": "05ld_D_parents_any_maiden",
+    "utc": "2026-11-06T07:17:46.196751+00:00",
+    "previous_error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>",
+    "status": 200,
+    "sha256": "5935a6c331c244f33f7448d0a86b07397ce89ce842994df3d81d60ecd3ab0134",
+    "total": 1,
+    "rows": 1,
+    "path": "work/s07/geneteka/05ld_D_parents_any_maiden.json",
+    "complete": true
+  },
+  {
+    "key": "06mp_B_parents_any_maiden",
+    "utc": "2026-11-06T07:17:47.163055+00:00",
+    "previous_error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>",
+    "status": 200,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382",
+    "total": 0,
+    "rows": 0,
+    "path": "work/s07/geneteka/06mp_B_parents_any_maiden.json",
+    "complete": true
+  },
+  {
+    "key": "06mp_D_parents_any_maiden",
+    "utc": "2026-11-06T07:17:47.753225+00:00",
+    "previous_error": "<urlopen error Tunnel connection failed: 502 Bad Gateway>",
+    "status": 200,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382",
+    "total": 0,
+    "rows": 0,
+    "path": "work/s07/geneteka/06mp_D_parents_any_maiden.json",
+    "complete": true
+  }
+]

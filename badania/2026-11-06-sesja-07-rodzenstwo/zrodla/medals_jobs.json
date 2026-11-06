@@ -1,0 +1,14 @@
+[
+  [
+    "medals/mp1999_304",
+    "https://api.sejm.gov.pl/eli/acts/MP/1999/304/text.pdf"
+  ],
+  [
+    "medals/mp1997_99",
+    "https://eli.gov.pl/api/acts/MP/1997/99/text/O/M19970099.pdf"
+  ],
+  [
+    "medals/mp1999_526",
+    "https://eli.gov.pl/api/acts/MP/1999/526/text/O/M19990526.pdf"
+  ]
+]

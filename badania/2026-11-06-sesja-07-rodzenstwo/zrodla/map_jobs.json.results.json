@@ -1,0 +1,69 @@
+[
+  {
+    "key": "municipal_map_zarzew",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW",
+    "utc": "2026-11-06T07:05:52.536214+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW",
+    "size": 11583,
+    "sha256": "69da348cab4e11be5a95a932e5e9824f84db311e97a777b2e7e473446ff2a127",
+    "path": "work/s07/municipal_map_zarzew.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/index.html"
+      },
+      {
+        "text": "Mapa cmentarza",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/plan.html"
+      },
+      {
+        "text": "Wyszukiwarka grobów",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/kontakt.html"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW"
+      },
+      {
+        "text": "A",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW"
+      },
+      {
+        "text": "Powrót do widoku mapy cmentarza",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW"
+      },
+      {
+        "text": "Drukuj",
+        "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/wydrukInformacjiOGrobie.html"
+      },
+      {
+        "text": "© SYST-KOM - Kompleksowe rozwiązania informatyczne",
+        "url": "https://www.systkom.pl"
+      }
+    ]
+  },
+  {
+    "key": "municipal_functions",
+    "url": "https://www.cmentarzekomunalne.lodz.systkom.pl/js/functions.js?v=2",
+    "utc": "2026-11-06T07:05:52.537203+00:00",
+    "status": 200,
+    "final_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/js/functions.js?v=2",
+    "size": 2908,
+    "sha256": "b74ab33e86d5a23baa63ba73975139d8e5c1cea1d51c4aa01bcf17db0ef5142b",
+    "path": "work/s07/municipal_functions.html",
+    "links": []
+  }
+]
