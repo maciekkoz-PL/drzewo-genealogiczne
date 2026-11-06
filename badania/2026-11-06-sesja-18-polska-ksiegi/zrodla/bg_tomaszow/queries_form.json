@@ -1,0 +1,82 @@
+[
+  {
+    "family": "Mandziuk",
+    "given": "",
+    "collection": "1",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?FamilyName=Mandziuk&page=1",
+    "file": "Mandziuk_1.txt",
+    "at_utc": "2026-11-06T19:11:05.717841+00:00"
+  },
+  {
+    "family": "Mandziuk",
+    "given": "",
+    "collection": "5",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?FamilyName=Mandziuk&page=1",
+    "file": "Mandziuk_5.txt",
+    "at_utc": "2026-11-06T19:11:08.113015+00:00"
+  },
+  {
+    "family": "Chmielewski",
+    "given": "",
+    "collection": "1",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?FamilyName=Chmielewski&page=1",
+    "file": "Chmielewski_1.txt",
+    "at_utc": "2026-11-06T19:11:10.436170+00:00"
+  },
+  {
+    "family": "Chmielewski",
+    "given": "",
+    "collection": "5",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?FamilyName=Chmielewski&page=1",
+    "file": "Chmielewski_5.txt",
+    "at_utc": "2026-11-06T19:11:12.773408+00:00"
+  },
+  {
+    "family": "Chmielewska",
+    "given": "",
+    "collection": "1",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?FamilyName=Chmielewska&page=1",
+    "file": "Chmielewska_1.txt",
+    "at_utc": "2026-11-06T19:11:15.135659+00:00"
+  },
+  {
+    "family": "Chmielewska",
+    "given": "",
+    "collection": "5",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?FamilyName=Chmielewska&page=1",
+    "file": "Chmielewska_5.txt",
+    "at_utc": "2026-11-06T19:11:17.449761+00:00"
+  },
+  {
+    "family": "",
+    "given": "Sabina",
+    "collection": "1",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?page=1&GivenNames=Sabina",
+    "file": "Sabina_1.txt",
+    "at_utc": "2026-11-06T19:11:19.786339+00:00"
+  },
+  {
+    "family": "",
+    "given": "Sabina",
+    "collection": "5",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?page=1&GivenNames=Sabina",
+    "file": "Sabina_5.txt",
+    "at_utc": "2026-11-06T19:11:22.201845+00:00"
+  },
+  {
+    "family": "",
+    "given": "Julianna",
+    "collection": "1",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?page=1&GivenNames=Julianna",
+    "file": "Julianna_1.txt",
+    "at_utc": "2026-11-06T19:11:25.114587+00:00"
+  },
+  {
+    "family": "",
+    "given": "Julianna",
+    "collection": "5",
+    "page_url": "https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search?page=1&GivenNames=Julianna",
+    "file": "Julianna_5.txt",
+    "at_utc": "2026-11-06T19:11:27.497389+00:00"
+  }
+]

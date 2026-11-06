@@ -322,3 +322,20 @@ KorektaQ73: Antonina to4683, nie4689. [Odczyt wszystkich czterech zgonów](badan
 | S202 | [BDM Victoria/Queensland oraz pozostałe próby dostępu do indeksów](https://www.bdm.vic.gov.au/search-your-family-history) — Victoria:30lat od rejestracji zgonu; formularz efamily-history | Victoria: oficjalna instrukcja odczytana; aplikacja HTTP200 bez formularza, żądanie efam/me401, nie obchodzono. QLD403, Allambe503/timeout, AncestryAnna1987 i FindAGraveRoman403. Nie znaleziono aktu rodziców. Roman1997 może wejść do indeksu dopiero po30latach od rejestracji, nie automatycznie od daty śmierci. Brak płatności, konta i zamówień. | [bdm_network.json](badania/2026-11-06-sesja-16-australia/zrodla/bdm_network.json) |
 | S203 | [Blue Circle1983 — wzmianki pracownicze i sportowe](https://berrimadistricthistoricalsociety.org.au/data/documents/1983.pdf) — 390stron; odczyt trafień81,162,362 | E.Chmielewski w golfie Waurn Ponds; Ernie Chmie-lowski/Chmei-lowski na zdjęciu zmianyA. Nie potwierdzono tożsamości z C75. 42to punkty,26handicap, nie wiek! BrakDOB/krewnych; nie przypisano zawodu. Nie deklarować lektury wszystkich390stron. PełnyPDF40975372bajty, SHA wmanifest. | [company1983.pdf](badania/2026-11-06-sesja-16-australia/zrodla/company1983.pdf) |
 | S204 | [Kwerendy celowane i Australian Cemeteries Index](https://austcemindex.com/?family_name=Chmielewski&search=Search) — Parametry i odpowiedzi w4JSON oraz parametry_kwerend.json | Austcem:9inskrypcji, bezRomana/Anny/Ernesta; ograniczona baza nie wyklucza grobu potwierdzonegoS199. Pierwszy parametrsurname nie wypełniał formularza; za wynik uznano dopiero family_name. Wyniki profili Geelong bez łącznika rodzinnego odrzucono jako nieutożsamione. AnnaTheresaRiedlberger1926–2020 nie została żonąC69 na podstawie podobnego imienia. Początkowe zapytania częściowo nakładają się na etap15; nie są niezależnym rozszerzeniem dowodu. | [parametry_kwerend.json](badania/2026-11-06-sesja-16-australia/zrodla/parametry_kwerend.json) |
+
+
+## Etap 18 — polskie rodziny rodzeństwa, 6 listopada 2026
+
+Pełne adresy, oryginały i granice: [raport](badania/2026-11-06-sesja-18-polska-ksiegi/STATUS.md), [zakres odczytu](badania/2026-11-06-sesja-18-polska-ksiegi/ZAKRES_ODCZYTU.md), [manifest](badania/2026-11-06-sesja-18-polska-ksiegi/manifest_zrodel_sesji.json).
+
+| ID | Źródło i zakres | Wynik i ograniczenia |
+|---|---|---|
+| S217 | [Bełżec, BillionGraves336870](https://billiongraves.com/cemetery/Be%C5%82%C5%BCec-Cmentarz-parafialny/336870), 73 wpisy + 7 zdjęć bez transkrypcji | Bez Mandziuków; fragmentaryczny zbiór45zdjęć, H045 nie wykluczono. API total0 nie oznacza0wyników. |
+| S218 | [Tomaszów1924, album4780](https://fotolubgens.lubgens.eu/index.php?/category/4780), 88/639/0/-/49 | Pełne indeksy U369/M81/Z146, bez rodzinnego łącznika; nie596pełnychaktów. |
+| S219 | [Tomaszów1925, album4328](https://fotolubgens.lubgens.eu/index.php?/category/4328) | M77, Z180+2dopiski. U318wprotokole, lecz skanów Ubrak, ich nieodczytano. |
+| S220 | TomaszówM1939–1942, indeksy obojga małżonków | 341 numerowanych pozycji +2dopiski; 343wiersze, bez sióstr. Użyto starego030/1940zsesji11. |
+| S221 | Pełne96/1940 i52/1941,026.jpg/014.jpg | JaninaMiszczyszyn iWandaChlebowska, nie Chmielewskie; błędne rozpoznanie poprawiono. Bez nowych relacji. |
+| S222 | [Tomaszów, BillionGraves226235](https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search), komplet10stron,1176+620rekordów | Lokalne filtrowanie1796rekordów i odczyt trafień, nie pełnych1796kart. BrakEmiliiMandziuk/zgodnegoDOBsióstr. Poprawiono ignorowany filtr imienia; drugi Bełżec528978pusty katalog/błąd500. |
+| S223 | Karty46553169,44887491,176848766; sekcje współpochówku i2miniatury | Józef1966wiek24, inny niżP29. JuliannaBucior1995wiek86, różnica1rok; nieutożsamiona. Józef1939bezDOB, współpochowanaKatarzynaTryndoch, brak dowodu małżeństwa. |
+
+Nie potwierdzono nowego żyjącego krewnego. Excel, hipotezy i plan zaktualizowane; drzewo pozostawiono bez publikowania negatywnych kwerend jako przełomów. Kopie nie zawierają cookies ani tymczasowych podpisów URL.

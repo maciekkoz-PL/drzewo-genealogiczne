@@ -1,0 +1,57 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T19:19:18.234265+00:00",
+  "baseline_commit": "3f2c56a",
+  "sheets": 23,
+  "counts": {
+    "ZRODLA_I_SKANY": 223,
+    "KANDYDACI_I_HOMONIMY": 97,
+    "DZIENNIK_KWEREND": 205,
+    "PLIKI_DOWODOWE": 171,
+    "RELACJE_ZRODLOWE": 16
+  },
+  "old_cells_changed": [
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "START",
+      2,
+      1
+    ],
+    [
+      "INSTRUKCJA_AGENTA",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      16,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      23,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      36,
+      3
+    ]
+  ],
+  "other_old_cells_preserved": true,
+  "source_paths_present": true,
+  "original_zips_unchanged": true,
+  "public_files_unchanged": true,
+  "audits_match": true,
+  "no_new_family_relationships": true,
+  "no_new_living_relative_claimed": true,
+  "belzec_records_reviewed": 73,
+  "belzec_untranscribed_photos_reviewed": 7,
+  "transient_url_credentials_excluded": true,
+  "source_files": 88,
+  "source_bytes": 68153682
+}
