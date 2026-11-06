@@ -2,6 +2,7 @@
 from playwright.sync_api import sync_playwright
 from pathlib import Path
 import json,datetime
+Path('/workspace/work/linia-matki').mkdir(parents=True,exist_ok=True)
 with sync_playwright() as p:
  browser=p.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
  page=browser.new_page(viewport={'width':1440,'height':1100});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))

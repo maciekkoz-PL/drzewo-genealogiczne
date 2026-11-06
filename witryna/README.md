@@ -1,3 +1,5 @@
+**Publikacja suplementu zakończona:** wersja 6, status `succeeded`, dotychczasowy publiczny URL. Odczyt HTTP 200 i hash potwierdzają zgodność strony z wygenerowanym HTML. Kontrole danych i składni JS przeszły; test renderowania w przeglądarce w tej sesji nie został uruchomiony (brak `cua_repl.js` w środowisku Sites). [Metadane](../badania/2026-11-06-linia-matki/PUBLIKACJA.json).
+
 **Suplement linii matki06.11.2026:** widok pełny ma25kart, w tym8po stronie mamy (zMarysią); udokumentowany nadal13kart, mama4. Dodano P20/P21 i rodzinne P22/P23. Daty nagrobne P18/P19 oznaczone‡: to przekazany odczyt, oczekuje na oryginalny JPEG. Julianna Anna i Józef/Czesława nie otrzymali potwierdzonych połączeń. Nowy krótki wpis odsyła do commitu badań eeea4ee13194fced879518918962ea5ecd94ed36. [Raport](../badania/2026-11-06-linia-matki/README.md). Publikację potwierdzają metadane sesji; poniższy opis21kart/5wpisów dokumentuje stan poprzedni.
 
 # Drzewo Marysi

@@ -46,3 +46,7 @@ Najważniejsze dokumenty do uzyskania/odczytania:
 Nie wysłano wiadomości, wniosków ani nie poniesiono opłat. Publiczny widok otrzymuje wyłącznie ręcznie wybrane opisy, bez XLSX, ZIP, transkrypcji całej dokumentacji, fotografii rodzinnych i skanów USC. Stan publikacji zostanie zapisany osobno w `PUBLIKACJA.json`; wygenerowanie HTML samo nie oznacza wdrożenia.
 
 Następne wolne ID po tej sesji: **P24, S135, C58, R028, E053, L106, Q68, F79, H025, REL-011, T34**. P13–P16 zachowują historyczną rezerwację.
+
+## Zapis i publikacja
+
+[Commit badań eeea4ee](https://github.com/maciekkoz-PL/drzewo-genealogiczne/commit/eeea4ee13194fced879518918962ea5ecd94ed36), [commit publicznego widoku b034a80](https://github.com/maciekkoz-PL/drzewo-genealogiczne/commit/b034a80). Oba zapisane na `main`. [Publikacja wersji 6](PUBLIKACJA.json) zakończyła się statusem `succeeded`; [kontrola URL](WALIDACJA_URL.json) zwróciła HTTP 200 i identyczny hash HTML. Publicznie 25 kart, 6 wpisów; 13 kart w widoku udokumentowanym. Hosting otrzymał tylko `dist/index.html` i istniejącą konfigurację. Kontrole danych/składni przeszły; renderowania w przeglądarce nie testowano w tej sesji, ponieważ brak narzędzia `cua_repl.js` wymaganego przez instrukcję Sites. Skrypt regresji zaktualizowano do nowych liczebności.

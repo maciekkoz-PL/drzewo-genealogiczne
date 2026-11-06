@@ -1,5 +1,5 @@
 {
-  "validated_at_utc": "2026-11-06T08:11:32.752085+00:00",
+  "validated_at_utc": "2026-11-06T08:22:04.977212+00:00",
   "result": "PASS",
   "workbook_sha256": "90b4d27f624e9ed221cc83c482c3df4586851ab41f374cca10386a660c06b00c",
   "sheets": 21,
@@ -27,7 +27,6 @@
     "badania/2026-11-06-sesja-07-rodzenstwo/manifest_zrodel_sesji.json": 106,
     "badania/2026-11-06-sesja-08-pelne-drzewo/manifest_zrodel_sesji.json": 1
   },
-  "new_jpeg_verified": 35,
   "original_zip_entries_crc_ok": 22,
   "local_markdown_links_checked": 179,
   "draft_crc_and_identifying_data_ok": true,
@@ -38,5 +37,10 @@
     "S086_original_image_local": false,
     "new_search_rows_are_index_not_images": 280,
     "outreach_applications_and_payments": 0
-  }
+  },
+  "legacy_validator_stage": "badania/2026-11-05-sesja-03-polaczenie",
+  "legacy_stage_JPEG_count": 35,
+  "maternal_original_JPEG_count": 0,
+  "maternal_photo_status": "oczekuje na oryginalny JPEG",
+  "scope_note": "Validator checks current workbook and all source manifests, plus historical stage03 images/draft. The35JPEG and280search rows concern historical stage03, not this maternal import."
 }

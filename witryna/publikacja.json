@@ -2,10 +2,10 @@
   "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
   "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
   "access_mode": "public",
-  "version_number": 5,
-  "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_67cebc35d0548191b356af4e9690c0b5",
-  "deployment_id": "appgdep_6aed8750a7cc8191959663f56240b564",
+  "version_number": 6,
+  "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_a79a639d12ec8191ba69855911a80c8d",
+  "deployment_id": "appgdep_6aed8d9c1a50819197ab8f12b462c328",
   "status": "succeeded",
-  "source_commit_sha": "ae32009dda1c0b51aea6e420baf776b03e06bcf4",
-  "updated_at": "2026-11-06T07:52:58.882926+00:00"
+  "source_commit_sha": "ad058b807b4ed1c2df001d34736b87c49cac1ed5",
+  "updated_at": "2026-11-06T08:19:50.735439+00:00"
 }
