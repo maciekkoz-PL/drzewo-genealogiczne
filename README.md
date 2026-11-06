@@ -1,3 +1,5 @@
+**Aktualizacja po potwierdzeniu rodziny i otrzymaniu zdjęcia (06.11.2026):** Józef P24 i Czesława P25 są pradziadkami Marysi, rodzicami Romana według bezpośredniego przekazu REL-012. C43/C44 zachowano jako aliasy; daty i wiek odczytano z otrzymanego JPEG S135, zapisanego prywatnie. [Szczegóły i granice](badania/2026-11-06-linia-matki/POTWIERDZENIE_PRADZIADKOW.md).
+
 **Układ wymagany przez użytkownika:** Marysia w centrum, cała rodzina taty powyżej, mamy poniżej. Połączenia Marysi z Bogusławem i Marią są znane rodzinie (REL-011) i zawsze widoczne także w widoku udokumentowanym; nie żądać dla nich aktu Marysi. [Zasada](witryna/UKLAD_I_RODZICE.md).
 
 **Scalenie linii matki (06.11.2026):** zachowano P17/P18/P19 i 21 arkuszy. Dodano rodzinne rodzeństwo Marii P20/P21, przekaz o P22/P23, cztery inskrypcje i odrębne kandydatury indeksowe; Anna nie została utożsamiona z Julianną Anną1910, Józef/Czesława nie zostali uznani za rodziców Romana. [Raport i braki](badania/2026-11-06-linia-matki/README.md), [kontrola indeksów i geografii](badania/2026-11-06-linia-matki/KONTROLA_INDEKSOW.md). **Oczekuje na oryginalny JPEG.**
@@ -22,7 +24,7 @@ Bieżąca kontynuacja: [etap04 — wyniki, ograniczenia i plan](badania/2026-11-
 
 Akt małżeństwa II-1592/1982: 13.11.1982 Warszawa, Maria Jankowska; adnotacja rozwodu 23.04.1985. H001 rozstrzygnięta. Dane obojga rodziców są zgodne z parą 110/1936 z Łodzi. S086 nie zawiera DOB rodziców; dodatkową kontrolę przyporządkowania dat 1909/1910 prowadzi H017. **Aktualny zakres nadal dotyczy wyłącznie połączenia Bogusława z rodzicami.** [Macierz dowodów](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [najnowszy plan](badania/2026-11-05-sesja-04-weryfikacja/PLAN_KONTYNUACJI.md).
 
-Aktualna baza: [Marysia_KOMPLET_BAZA_2026-11-05.xlsx](Marysia_KOMPLET_BAZA_2026-11-05.xlsx), 21 arkuszy, 134 źródła, 57 pozycji kandydatów/aliasów i 20 osobnych tropów indeksowych. Zgon 1988 Łódź i grób bez inskrypcji nadal mają status relacji. Nie awansowano pokrewieństwa Piotra/Tomasza.
+Aktualna baza: [Marysia_KOMPLET_BAZA_2026-11-05.xlsx](Marysia_KOMPLET_BAZA_2026-11-05.xlsx), 21 arkuszy, 135 źródeł, 57 pozycji kandydatów/aliasów i 20 osobnych tropów indeksowych. Zgon 1988 Łódź i grób bez inskrypcji nadal mają status relacji. Nie awansowano pokrewieństwa Piotra/Tomasza.
 
 **Etap 03:** odczytano 35 nowych obrazów Arolsen i 280 dalszych wierszy indeksu; brak dodatkowego łącznika H017, wykluczono homonimów. Znaleziono [oficjalny druk USC z PESEL „jeśli jest znany” i przygotowano niewysłany wniosek](badania/2026-11-05-sesja-03-polaczenie/S105_WNIOSEK_I_AKTA_1982.md). Najbardziej bezpośrednim kolejnym dokumentem jest odpis zupełny urodzenia Bogusława.
 

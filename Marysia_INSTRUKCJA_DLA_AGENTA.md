@@ -1,3 +1,5 @@
+**Aktualizacja po potwierdzeniu rodziny i otrzymaniu zdjęcia (06.11.2026):** Józef P24 i Czesława P25 są pradziadkami Marysi, rodzicami Romana według bezpośredniego przekazu REL-012. C43/C44 zachowano jako aliasy; daty i wiek odczytano z otrzymanego JPEG S135, zapisanego prywatnie. [Szczegóły i granice](badania/2026-11-06-linia-matki/POTWIERDZENIE_PRADZIADKOW.md).
+
 **Układ wymagany przez użytkownika:** Marysia w centrum, cała rodzina taty powyżej, mamy poniżej. Połączenia Marysi z Bogusławem i Marią są znane rodzinie (REL-011) i zawsze widoczne także w widoku udokumentowanym; nie żądać dla nich aktu Marysi. [Zasada](witryna/UKLAD_I_RODZICE.md).
 
 **Scalenie linii matki (06.11.2026):** zachowano P17/P18/P19 i 21 arkuszy. Dodano rodzinne rodzeństwo Marii P20/P21, przekaz o P22/P23, cztery inskrypcje i odrębne kandydatury indeksowe; Anna nie została utożsamiona z Julianną Anną1910, Józef/Czesława nie zostali uznani za rodziców Romana. [Raport i braki](badania/2026-11-06-linia-matki/README.md), [kontrola indeksów i geografii](badania/2026-11-06-linia-matki/KONTROLA_INDEKSOW.md). **Oczekuje na oryginalny JPEG.**

@@ -1,3 +1,5 @@
+**Nowszy stan:** [potwierdzenie pradziadków i otrzymany JPEG](POTWIERDZENIE_PRADZIADKOW.md). Józef P24 i Czesława P25 są rodzicami Romana według REL-012; C43/C44 to aliasy. Zdjęcie S135 zostało zapisane prywatnie. Poniższy raport zachowuje stan sprzed otrzymania załącznika i nowego przekazu.
+
 # Gałąź matki Marysi — scalenie 6 listopada 2026
 
 Scalono suplement `Marysia_LINIA_MATKI_repo_ready_2026-11-06.zip` z aktualnym `main` **b86519ced59d9ad205a79307763b9cb5572ddc31**. Zachowano wszystkie21arkuszy, poprzednie badania i oba oryginalne ZIP-y. Nie zastąpiono repo ani bazy plikami pakietu. Oryginalne dane przekazania w [dane/linia_matki.json](dane/linia_matki.json) i CSV pozostają bez zmian; [mapowanie ID](MAPOWANIE_ID.json) odróżnia je od produkcyjnych identyfikatorów.

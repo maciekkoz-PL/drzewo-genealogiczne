@@ -34,7 +34,7 @@ assert people.count('P17')==1 and people.count('P18')==1 and people.count('P19')
 assert records(old['RDZEN_RODZINY'])['P12']==records(new['RDZEN_RODZINY'])['P12']
 for row in records(new['RELACJE']).values():
  if int(row[0][1:])>=20:
-  assert 'RELACJA RODZINNA' in row[5] and row[6] in ['REL-009','REL-010']
+  assert 'RELACJA RODZINNA' in row[5] and row[6] in ['REL-009','REL-010','REL-012']
   assert not row[1].startswith('C') and not row[2].startswith('C')
 assert records(old['RELACJE'])['R018']==records(new['RELACJE'])['R018']
 assert records(old['RELACJE'])['R019']==records(new['RELACJE'])['R019']
@@ -49,7 +49,13 @@ with zipfile.ZipFile(ROOT/archives[1]) as z:
  for name in z.namelist():
   if name.startswith(('dane/','zdjecia/')):
    assert (STAGE/name).read_bytes()==z.read(name),('raw handoff modified',name)
-assert not list((STAGE/'zdjecia').glob('*.jp*g'))
-report={'result':'PASS','at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'baseline':BASE,'sheets':21,'old_record_cells_compared':checked,'permitted_cell_changes':changes,'all_old_ids_preserved':True,'P12_unchanged_P17_P18_P19_unique':True,'R018_R019_unchanged':True,'all_new_relations_family_only':True,'C45_not_merged_with_P19':True,'C43_C44_no_parent_or_marriage_edges':True,'H017_preserved':True,'both_original_ZIPs_byte_identical':True,'raw_handoff_byte_identical':True,'grave_JPEG_status':'oczekuje na oryginalny JPEG','new_grave_JPEG_count':0,'index_rows_not_original_acts':True}
+photo_meta=json.loads((STAGE/'zdjecia/MANIFEST_JPEG.json').read_text())
+assert hashlib.sha256((ROOT/photo_meta['repo_path']).read_bytes()).hexdigest()==photo_meta['sha256']
+assert records(new['RELACJE'])['R028'][1:3]==('P24','P18')
+assert records(new['RELACJE'])['R029'][1:3]==('P25','P18')
+assert records(new['KANDYDACI_I_HOMONIMY'])['C43'][3].endswith('P24')
+assert records(new['KANDYDACI_I_HOMONIMY'])['C44'][3].endswith('P25')
+assert all(h not in records(new['HIPOTEZY_OTWARTE']) and h in records(new['HIPOTEZY_ROZSTRZYGNIETE']) for h in ['H021','H022'])
+report={'result':'PASS','at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'baseline':BASE,'sheets':21,'old_record_cells_compared':checked,'permitted_cell_changes':changes,'all_old_ids_preserved':True,'P12_unchanged_P17_P18_P19_unique':True,'R018_R019_unchanged':True,'all_new_relations_family_only':True,'C45_not_merged_with_P19':True,'C43_C44_no_parent_or_marriage_edges':True,'H017_preserved':True,'both_original_ZIPs_byte_identical':True,'raw_handoff_byte_identical':True,'grave_JPEG_status':'otrzymany JPEG zapisany prywatnie; S135','new_grave_JPEG_count':1,'family_confirmation_source':'REL-012','C43_C44_aliases_for_P24_P25':True,'index_rows_not_original_acts':True}
 (STAGE/'WALIDACJA_SCALENIA.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(report,ensure_ascii=False,indent=2))

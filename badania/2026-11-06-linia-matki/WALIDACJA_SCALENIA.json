@@ -1,6 +1,6 @@
 {
   "result": "PASS",
-  "at_utc": "2026-11-06T08:30:20.783075+00:00",
+  "at_utc": "2026-11-06T08:42:53.263940+00:00",
   "baseline": "b86519ced59d9ad205a79307763b9cb5572ddc31",
   "sheets": 21,
   "old_record_cells_compared": 4863,
@@ -160,7 +160,9 @@
   "H017_preserved": true,
   "both_original_ZIPs_byte_identical": true,
   "raw_handoff_byte_identical": true,
-  "grave_JPEG_status": "oczekuje na oryginalny JPEG",
-  "new_grave_JPEG_count": 0,
+  "grave_JPEG_status": "otrzymany JPEG zapisany prywatnie; S135",
+  "new_grave_JPEG_count": 1,
+  "family_confirmation_source": "REL-012",
+  "C43_C44_aliases_for_P24_P25": true,
   "index_rows_not_original_acts": true
 }

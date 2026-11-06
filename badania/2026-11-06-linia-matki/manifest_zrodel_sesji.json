@@ -6,8 +6,13 @@
   },
   {
     "path": "badania/2026-11-06-linia-matki/MAPOWANIE_ID.json",
-    "size": 1967,
-    "sha256": "99c833df1ad6966922346160d3fd4e782989a8ea29e52717febbe391820a243e"
+    "size": 2253,
+    "sha256": "e407325151817cd961f8f7abfddab33e2c54b524c0b055322741a78afad4bc1d"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/POTWIERDZENIE_PRADZIADKOW.md",
+    "size": 3097,
+    "sha256": "3d4ee740b939898e50a1572ed34cd116191b9354029a0266c34bc9e67be36fd1"
   },
   {
     "path": "badania/2026-11-06-linia-matki/PRZEKAZANIE_DO_CODEX.md",
@@ -16,8 +21,8 @@
   },
   {
     "path": "badania/2026-11-06-linia-matki/README.md",
-    "size": 6933,
-    "sha256": "4a2d7d7663adeb7460af3a8a0cd8f354f60ab3e1f45664151e97aed8787e3906"
+    "size": 7237,
+    "sha256": "a9ee671952d59e5e3d0e090ab0a4f634140d2d3dfbc2cc5afb2ab02c5ea36dbf"
   },
   {
     "path": "badania/2026-11-06-linia-matki/dane/dzieci_kulasow_indeksy.csv",
@@ -60,9 +65,24 @@
     "sha256": "afb708c0849afbb6077c5c8108f709aa7fb761237f49d2f9b2267c9c2297fe62"
   },
   {
+    "path": "badania/2026-11-06-linia-matki/zdjecia/MANIFEST_JPEG.json",
+    "size": 510,
+    "sha256": "c75cc92729daadbaa509422c56f1ef68d6016fc1bfee423c54f93cfcba0aa440"
+  },
+  {
     "path": "badania/2026-11-06-linia-matki/zdjecia/README.md",
     "size": 1337,
     "sha256": "4743669ff218ac5926c93ed252f34c751d50742450c9380db17a5ea3f5ad0519"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zdjecia/STATUS.md",
+    "size": 637,
+    "sha256": "cc68dbbccd7c6259463209bf70813e7308d6e5b51189177c69b16a23c9ca61ab"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zdjecia/grob_Jankowskich_Strzegowo_zalacznik_2026-11-06.jpg",
+    "size": 406368,
+    "sha256": "456c79d9c8f10e3e9f11838cdcf864d1d307ed4e95e4ec0bfd32c967c067b3d3"
   },
   {
     "path": "badania/2026-11-06-linia-matki/zrodla/idx1859.json",

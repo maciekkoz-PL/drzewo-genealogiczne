@@ -1,6 +1,6 @@
 # Rejestr zbadanych źródeł i prób dostępu
 
-Aktualny wykaz 134 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
+Aktualny wykaz 135 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
 
 [Najnowsza ocena dowodu i luka H017](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [dokładny zakres nowych odczytów](badania/2026-11-05-sesja-03-polaczenie/AROLSEN_ODCZYTY.md).
 
@@ -170,3 +170,8 @@ Etap08: [uzupełnienie rodziców Marii z istniejącego S086 i audyt granic dost�
 | S132 | Indeks urodzenia Julianny Anny Kulas — Strzegowo;18/1910; [INDEKS — NIE SKAN](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5727&bdm=B&search_lastname=Kulas&from_date=1910&to_date=1910) | ODCZYTANO WIERSZ INDEKSU06.11.2026. Rodzice Józef/Konstancja Gralewicz. C45 NIE została utożsamiona z Anną P19. | [odczyt](badania/2026-11-06-linia-matki/zrodla/idx1910.json) |
 | S133 | Indeksy dzieci Kulas/Gralewicz1895–1913 — Strzegowo;94/1895;9/1898;20/1901;70/1904;55/1906;18/1910;50/1913; [INDEKS — NIE SKANY](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5727&bdm=B&search_lastname=Kulas&search_lastname2=Gralewicz&from_date=1895&to_date=1913) | ODCZYTANO WIERSZE INDEKSU06.11.2026. Siedmioro dzieci pary Józef/Konstancja. W wynikach także odrębne dzieci Józefa/Franciszki Gralewicz — nie mieszać matek ani pokoleń. | [odczyt](badania/2026-11-06-linia-matki/zrodla/idxchildren.json) |
 | S134 | Kontrola katalogów Strzegowo / Strzegowa — Geneteka07mz rid5727/5728/5729; Skanoteka1541 zespół1119d; [KATALOG / GEOGRAFIA](https://skanoteka.genealodzy.pl/id1541) | ODCZYTANO KATALOGI; NIE AKTY. id1541 to Strzegowa, małopolskie, powiat olkuski. Właściwe indeksy odczytano w Strzegowie mazowieckim. Nie przenosić linków pomiędzy parafiami. | [odczyt](badania/2026-11-06-linia-matki/KONTROLA_INDEKSOW.md) |
+
+
+## Aktualizacja: pradziadkowie i otrzymany JPEG
+
+**S135 — fotografia użytkownika dostarczona06.11.2026, odczytano obraz i zapisano plik prywatnie.** Józef30.09.1967(81), Anna28.09.1978(68), Roman29.05.2002(88), Czesława03.01.1982(98). Daty zgodne z transkrypcjąS128; S128 zachowuje wcześniejsze pochodzenie. **REL-012:** bezpośrednie „Józef i Czesława to pradziadkowie”; w kontekście gałęzi rodzice Romana. P24/P25, aliasy C43/C44, R028/R029 z przekazu. Pokrewieństwo nie pochodzi z samej płyty. [Odczyt i granice](badania/2026-11-06-linia-matki/POTWIERDZENIE_PRADZIADKOW.md), [manifest zdjęcia](badania/2026-11-06-linia-matki/zdjecia/MANIFEST_JPEG.json). Fotografia nie jest publikowana.
