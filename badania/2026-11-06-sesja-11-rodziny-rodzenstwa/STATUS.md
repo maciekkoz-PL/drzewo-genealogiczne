@@ -62,3 +62,9 @@ Przejrzano publiczną [historię PZN Łódź](https://www.pznlodz.pl/historia/),
 Excel zachowuje23arkusze. Dodano P28–P32, S149–S160, R036–R041, E060–E064, L122–L130, F96–F102, Q75–Q78, T34–T36. H029 rozstrzygnięta; H028 iH030 otwarte; C05→P30 jako alias. H017/H019 pozostają otwarte. Dane o zdrowiu są tylko w prywatnej dokumentacji.
 
 [Manifest plików i SHA256](manifest_zrodel_sesji.json). [Plan dalszej pracy](PLAN_KONTYNUACJI.md). Aktualizacja strony i metadane publikacji są zapisywane oddzielnie po sprawdzeniu działającego URL; sam zapis Excela nie jest publikacją.
+
+## Publikacja po odkryciu
+
+06.11.2026 opublikowano **wersję15** pod dotychczasowym adresem. 51kart,75relacji i7krótkich wpisów; najnowszy opisuje potwierdzenie Emilii i małżeństwa z Józefem. Zachowano równoległe zmiany map/adresów i Rogóźno z wersji14 — [protokół scalenia](SCALENIE_WERSJI_14.md).
+
+Testy Chromium1440/390px, poziomy/gałęzie/dialogi, brak kolizji kart domyślnych, walidacja93rekordów audytu osób i75relacji, zgodność CSV/Excel/JSON/HTML oraz397kopii źródłowych: PASS. Działający publiczny URL zwróciłHTTP200 i identyczne bajtyHTML; sprawdzono nową kartę, linki map i rodziców Marysi. [Metadane](PUBLIKACJA.json), [kontrola publiczna i ograniczenie TLS narzędzia](WALIDACJA_PUBLICZNA.json). Hosting otrzymał tylko konfigurację i publiczny HTML. Prywatna wskazówka zdrowotna nie została wyeksportowana.

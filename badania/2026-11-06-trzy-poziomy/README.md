@@ -1,3 +1,5 @@
+**Aktualny audyt — wersja15:**93rekordy osób (w tym aliasy i pominięci kandydaci) oraz75relacji wizualizacji. Poziomy:17/27(w tym2łącznikiH017),28/41,51/75. Emilia P28/Józef P29/Julia P30 udokumentowani; Czesia P31 i syn P32 z przekazu, V066 Roman↔Czesia tylko hipoteza. C05aliasP30. Zachowano mapy z wersji14. [Walidacja Excel/CSV/JSON/HTML](../2026-11-06-sesja-11-rodziny-rodzenstwa/WALIDACJA_SPOJNOSCI_PUBLIKACJI.json), [strona publiczna](../2026-11-06-sesja-11-rodziny-rodzenstwa/WALIDACJA_PUBLICZNA.json). Poniższe liczby historyczne opisują wcześniejsze wersje.
+
 **Aktualizacja po dwóch aktach sióstr Czesława (wersja12):** P26/P27 zastępują na stronie C04/C02, aliasy zachowane w bazie. Audyt:84rekordy osób i69relacji. Poziomy:14/22(wtym2łącznikiH017),23/35,47/69. [Potwierdzenie zgodności](../2026-11-06-sesja-10-siostry-czeslawa/WALIDACJA_SPOJNOSCI_PUBLIKACJI.json). Historyczne liczby poniżej pozostają opisem poprzedniego stanu.
 
 **Korekta filtra:** własne akty osób nie są ukrywane przez H017. Widok udokumentowany:12osób i16linii, w tym2przerywane łączniki identyfikacji w toku. [Wyjaśnienie](KOREKTA_FILTRA.md).

@@ -38,7 +38,13 @@ with sync_playwright() as p:
    page.select_option('#people',id);assert 'Potrzebny dowód' in page.locator('#detail').inner_text();page.locator('#close').click()
   assert page.locator('[data-id=P19]').count()==1 and page.locator('[data-id=C45]').count()==1
  assert not errors,errors
- assert page.evaluate('D.news.length')==6
+ assert page.evaluate('D.news.length')==7
+ assert page.evaluate('D.people.length')==51
+ assert page.evaluate('D.relations.length')==75
+ assert page.evaluate('D.people.some(p=>p.id==="P30")&&!D.people.some(p=>p.id==="C05")')
+ assert page.evaluate('D.relations.find(r=>r.id==="V066").level')==3
+ assert page.evaluate('D.relations.find(r=>r.id==="R041").a')=='P31'
+ assert not page.evaluate('D.relations.some(r=>r.a==="P12"&&r.b==="P32")')
  assert page.evaluate('D.relations.filter(r=>["R030","R031","R032","R033","R034","R035"].includes(r.id)).every(r=>r.level===1)')
  b.close()
 report={'result':'PASS','at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'widths':[1440,390],'all_levels_and_both_branches':True,'cumulative':True,'parent_exception_preserved':True,'line_styles_checked':True,'sources_and_dialogs_checked':True,'javascript_errors':errors}

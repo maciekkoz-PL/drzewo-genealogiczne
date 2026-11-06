@@ -5,11 +5,14 @@
       "name": "Wincenty Chmielewski",
       "role": "Ojciec Czesława",
       "dates": "Ślub: 25.06.1905",
-      "place": "Rachanie → Rogoźno",
-      "note": "Młynarz. Wiek podany w kolejnych aktach nie wyznacza dokładnej daty urodzenia. Przyporządkowanie tej gałęzi do Bogusława nadal sprawdzamy.",
+      "place": "Rachanie → Rogóźno",
+      "note": "Młynarz. Wiek podany w kolejnych aktach nie wyznacza dokładnej daty urodzenia. Przyporządkowanie tej gałęzi do Bogusława nadal sprawdzamy. Pierwszą żoną była Julia z Jabłońskich, matka Emilii; po jej śmierci poślubił Agnieszkę.",
       "source": [
         "S071",
-        "S072"
+        "S072",
+        "S155",
+        "S154",
+        "S156"
       ],
       "x": 560,
       "y": 40,
@@ -21,14 +24,40 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rachanie",
+          "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+        },
+        {
+          "label": "Rogóźno",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Rachanie",
+          "when": "1905",
+          "context": "Miejsce urodzenia i zamieszkania Wincentego w akcie ślubu 73/1905.",
+          "source": "S072",
+          "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+        },
+        {
+          "label": "Rogóźno, parafia Tomaszów Lubelski",
+          "when": "1909; 1919",
+          "context": "Miejsce zamieszkania ojca wskazane w aktach urodzenia synów Czesława i Romana.",
+          "source": "S071",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ]
     },
     {
       "id": "P06",
       "name": "Agnieszka Miszczyszyn",
       "role": "Matka Czesława",
       "dates": "Ślub: 25.06.1905",
-      "place": "Rogoźno",
+      "place": "Rogóźno",
       "note": "Po ślubie Chmielewska. W aktach urodzeń Czesława i Romana podano tych samych obojga rodziców. Przyporządkowanie gałęzi do Bogusława nadal sprawdzamy.",
       "source": [
         "S071",
@@ -44,7 +73,22 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rogóźno",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Rogóźno, parafia Tomaszów Lubelski",
+          "when": "1905",
+          "context": "Miejsce urodzenia i zamieszkania Agnieszki w akcie ślubu 73/1905.",
+          "source": "S072",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ]
     },
     {
       "id": "P07",
@@ -66,7 +110,22 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Socha, parafia Warta",
+          "when": "1910",
+          "context": "Miejsce zamieszkania Józefa w akcie urodzenia Janiny 112/1910. Zapis w odczycie: „w Sochach”.",
+          "source": "S063",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ]
     },
     {
       "id": "P08",
@@ -88,14 +147,21 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P12",
       "name": "Roman Chmielewski",
       "role": "Brat Czesława",
       "dates": "Ur. 06.06.1919",
-      "place": "Rogoźno",
+      "place": "Rogóźno",
       "note": "Syn Wincentego i Agnieszki Miszczyszyn. Braterstwo z Czesławem potwierdzono przez porównanie obu aktów urodzenia. Roman nie jest bratem Bogusława.",
       "source": [
         "S061",
@@ -111,19 +177,29 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rogóźno",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P03",
       "name": "Czesław Chmielewski",
       "role": "Ojciec Bogusława — nazwisko w odpisie",
       "dates": "Ur. 03.07.1909*",
-      "place": "Rogoźno → Łódź",
-      "note": "Odpis ślubu Bogusława wymienia ojca Czesława Chmielewskiego. Data 1909 pochodzi z osobnego aktu, powiązanego ze ślubem pary w 1936 r. *Dodatkowe potwierdzenie, że to dokładnie ta osoba, pozostaje otwarte (H017). Ślub z Janiną: 03.05.1936, Łódź, akt 110.",
+      "place": "Rogóźno → Łódź",
+      "note": "Odpis ślubu Bogusława wymienia ojca Czesława Chmielewskiego. Data 1909 pochodzi z osobnego aktu, powiązanego ze ślubem pary w 1936 r. *Dodatkowe potwierdzenie, że to dokładnie ta osoba, pozostaje otwarte (H017). Ślub z Janiną: 03.05.1936, Łódź, akt 110. Emilia Chmielewska, po ślubie Mandziuk, jest jego przyrodnią siostrą po ojcu.",
       "source": [
         "S086",
         "S001",
-        "S071"
+        "S071",
+        "S154",
+        "S155",
+        "S156"
       ],
       "x": 800,
       "y": 280,
@@ -135,7 +211,26 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Rogóźno",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        },
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Łódź, ul. Stocka 12",
+          "when": "03.05.1936",
+          "context": "Adres obojga małżonków w akcie ślubu 110/1936. Potwierdzony dla 1936 r.; nie ustala ich adresu w 1943 r.",
+          "source": "S001",
+          "query": "Stocka 12, Łódź, Polska"
+        }
+      ]
     },
     {
       "id": "P04",
@@ -159,7 +254,26 @@
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        },
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Łódź, ul. Stocka 12",
+          "when": "03.05.1936",
+          "context": "Adres obojga małżonków w akcie ślubu 110/1936. Potwierdzony dla 1936 r.; nie ustala ich adresu w 1943 r.",
+          "source": "S001",
+          "query": "Stocka 12, Łódź, Polska"
+        }
+      ]
     },
     {
       "id": "P11",
@@ -181,7 +295,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P02",
@@ -204,7 +320,14 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P17",
@@ -228,7 +351,14 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P10",
@@ -250,14 +380,16 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P09",
       "name": "Tomasz Chmielewski",
       "role": "Przyrodni brat Marysi",
       "dates": "Zm. 26.04.2001† · 30 lat",
-      "place": "",
+      "place": "Stara Gadka · miejsce pochówku według rodziny",
       "note": "Imię, nazwisko, dzień 26 IV i wiek odczytano z rodzinnych fotografii nagrobka. †Rok 2001 oraz relacja ojciec–syn z Bogusławem pochodzą z przekazu rodzinnego; rok na zdjęciu jest częściowo zasłonięty. Nie znamy dokładnej daty urodzenia.",
       "source": [
         "S027",
@@ -273,7 +405,22 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Stara Gadka · miejsce pochówku",
+          "query": "51.67956,19.47182"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Stara Gadka · cmentarz",
+          "when": "miejsce wskazane przez rodzinę",
+          "context": "Lokalizacja grobu i współrzędne z przekazu zachowanego przy fotografiach. Nie jest adresem zamieszkania; nie wykonano niezależnego pomiaru.",
+          "source": "S027",
+          "query": "51.67956,19.47182"
+        }
+      ]
     },
     {
       "id": "P01",
@@ -295,7 +442,9 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Wyjątek rodzinny; akt Marysi nie jest wymagany.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "C42",
@@ -318,7 +467,22 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Akt urodzenia dziecka/ewidencja: daty, pochodzenie, adresy i ślub rodziców; porównać z S001/S086",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": [
+        {
+          "label": "Łódź, ul. Napiórkowskiego 112",
+          "when": "03.02.1940",
+          "context": "Miejsce zgonu ośmiodniowego Czesława w akcie 66/1940. Nie stanowi potwierdzenia adresu rodziców Bogusława.",
+          "source": "S126",
+          "query": "Napiórkowskiego 112, Łódź, Polska"
+        }
+      ]
     },
     {
       "id": "P18",
@@ -343,7 +507,14 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P19",
@@ -368,15 +539,22 @@
       "connectionLevel": 1,
       "classificationReason": "Znana osoba i połączenie urzędowe lub wyjątek rodzinny Marysi/rodziców.",
       "missing": "Dla urzędowo zapisanych danych brak dodatkowego wymogu; daty nagrobne i przekazy opisano osobno.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P27",
       "name": "Julianna Chmielewska",
       "role": "Siostra Czesława",
       "dates": "09.11.1907 · data gregoriańska",
-      "place": "Rogoźno · parafia Tomaszów Lubelski",
-      "note": "Akt 360/1907 podaje rodziców: Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów z Rogoźna. Julianna jest siostrą Czesława. W tym akcie ojcu wpisano 30 lat, co różni się od pozostałych dokumentów; rozbieżność zachowano. Brak ustalenia późniejszego nazwiska i związku z Tczewem.",
+      "place": "Rogóźno · parafia Tomaszów Lubelski",
+      "note": "Akt 360/1907 podaje rodziców: Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów z Rogóźna. Julianna jest siostrą Czesława. W tym akcie ojcu wpisano 30 lat, co różni się od pozostałych dokumentów; rozbieżność zachowano. Brak ustalenia późniejszego nazwiska i związku z Tczewem.",
       "source": [
         "S148",
         "S071"
@@ -391,15 +569,22 @@
       "connectionLevel": 2,
       "classificationReason": "Odczytany akt urodzenia i zgodni oboje rodzice z rodziną Czesława. H017 pozostaje odrębną oceną łącznika do Bogusława.",
       "missing": "Późniejszy ślub, nazwisko poślubne i dalsze losy. Związek z Tczewem nie został ustalony.",
-      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk."
+      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk.",
+      "locations": [
+        {
+          "label": "Rogóźno",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P26",
       "name": "Sabina Chmielewska",
       "role": "Siostra Czesława",
       "dates": "14.07.1917 · data z aktu urodzenia",
-      "place": "Rogoźno · parafia Tomaszów Lubelski",
-      "note": "Akt 124/1917 podaje rodziców: Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów. Ci sami rodzice i Rogoźno występują w akcie Czesława. Sabina jest jego siostrą; nie ustalono późniejszych losów ani pobytu w Tczewie.",
+      "place": "Rogóźno · parafia Tomaszów Lubelski",
+      "note": "Akt 124/1917 podaje rodziców: Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów. Ci sami rodzice i Rogóźno występują w akcie Czesława. Sabina jest jego siostrą; nie ustalono późniejszych losów ani pobytu w Tczewie.",
       "source": [
         "S147",
         "S071"
@@ -414,7 +599,14 @@
       "connectionLevel": 2,
       "classificationReason": "Odczytany akt urodzenia i zgodni oboje rodzice z rodziną Czesława. H017 pozostaje odrębną oceną łącznika do Bogusława.",
       "missing": "Późniejszy ślub, nazwisko poślubne i dalsze losy. Związek z Tczewem nie został ustalony.",
-      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk."
+      "dataEvidence": "Data urodzenia, rodzice i miejscowość z oryginalnego aktu; rodzeństwo z porównania metryk.",
+      "locations": [
+        {
+          "label": "Rogóźno",
+          "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C25",
@@ -437,7 +629,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Ślub/śluby rodziców, dalsze akta i powiązania adresowe; możliwość homonimów lub drugiej żony.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Socha",
+          "query": "Socha, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C26",
@@ -460,7 +659,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Ślub/śluby rodziców i ciągłość zamieszkania Socha–Włyń.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Włyń",
+          "query": "Włyń, gmina Warta, łódzkie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C11",
@@ -482,7 +688,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Miejski rejestr potwierdza wspólny grób XXXVI-15-36, nie daty urodzenia ani relację. Potrzebny dodatkowy identyfikator rodziny; nie wystarcza współpochówek.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź · Zarzew",
+          "query": "Zarzew, Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P20",
@@ -504,7 +717,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P21",
@@ -526,7 +741,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P22",
@@ -550,7 +767,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P23",
@@ -574,7 +793,9 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [],
+      "addresses": []
     },
     {
       "id": "P24",
@@ -597,7 +818,14 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "P25",
@@ -620,7 +848,14 @@
       "connectionLevel": 2,
       "classificationReason": "Bezpośredni przekaz rodzinny lub zgodne dokumenty; konkretne relacje mają odrębne oceny.",
       "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
-      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony"
+      "dataEvidence": "Daty i miejsca: odczyt JPEG S135, rok urodzenia tylko wyliczony",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C45",
@@ -642,31 +877,41 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Własny ślub/urodzenie Anny i akt18/1910",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [],
+      "addresses": []
     },
     {
-      "id": "C05",
-      "name": "Julianna Bartecka z d. Jabłońska",
-      "role": "możliwa wcześniejsza małżonka pradziadka",
-      "dates": "ślub z Wincentym 1901, akt 72",
-      "place": "Tomaszów Lubelski",
-      "note": "W 1905 Wincenty jest w indeksie wdowcem",
+      "id": "P30",
+      "name": "Julia / Julianna Jabłońska",
+      "role": "Pierwsza żona Wincentego",
+      "dates": "Ślub: 19.11.1901 · zm. 08.03.1905",
+      "place": "Wieprzów → Rachanie",
+      "note": "Przed ślubem z Wincentym była wdową Bartecką. Matka Emilii, przyrodniej siostry Czesława. Jej zgon poprzedza ślub Wincentego z Agnieszką w 1905 r. Nie jest matką Czesława. Wiek w kolejnych aktach jest zmienny; dokładna data urodzenia pozostaje nieustalona.",
       "source": [
-        "S006",
-        "S011",
-        "S003"
+        "S155",
+        "S154",
+        "S156",
+        "S072"
       ],
-      "x": 0,
-      "y": -260,
-      "status": "candidate",
+      "x": 280,
+      "y": 40,
+      "status": "document",
       "branch": "paternal",
-      "evidence": "hypothesis",
-      "identityLevel": 3,
-      "level": 3,
-      "connectionLevel": 3,
-      "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
-      "missing": "Porównać identyfikatory Wincentego 1901/1905, nie schodzić dalej poza potrzebę.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "evidence": "document",
+      "identityLevel": 1,
+      "level": 1,
+      "connectionLevel": 2,
+      "classificationReason": "Własny odczytany akt i porównanie dokumentów tej rodziny. H017 dotyczy odrębnie połączenia konkretnych dat rodziców z Bogusławem.",
+      "missing": "Własny akt urodzenia i dalsze losy wcześniejszej rodziny Barteckich.",
+      "dataEvidence": "Daty i lokalne relacje podano z dokładnymi odnośnikami do dokumentów.",
+      "locations": [
+        {
+          "label": "Rachanie",
+          "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C06",
@@ -688,7 +933,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Ustalić rodziców; nie nazywać bratem Janiny.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C10",
@@ -711,7 +963,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Miejski rejestr potwierdza wspólny grób XXXVI-15-36, nie daty urodzenia ani relację. Potrzebny dodatkowy identyfikator rodziny; nie wystarcza współpochówek.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C19",
@@ -734,7 +993,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Prośba o przekazanie wiadomości za zgodą przez komisariat; NIE poszukiwanie prywatnych danych.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C27",
@@ -742,7 +1008,7 @@
       "role": "kandydat na P03, NIE utożsamiony",
       "dates": "ur. 03.07.1909; mieszkaniec Łodzi; informacja o nieobecności 17.02.1944",
       "place": "Łódź / OT Stolpce, Białoruś",
-      "note": "Data i miasto zbieżne z P03, ale opis wtórny bez rodziców, Rogoźna i Stockiej. Nie przypisano represji rodzinie jako faktu.",
+      "note": "Data i miasto zbieżne z P03, ale opis wtórny bez rodziców, Rogóźna i Stockiej. Nie przypisano represji rodzinie jako faktu.",
       "source": [
         "S075",
         "S079"
@@ -757,7 +1023,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Sprawdzić 91 stron IPN Ld 1/3503 pod kątem rodziców, adresu i miejsca ur.; nie wysyłać wniosku bez zatwierdzenia.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        },
+        {
+          "label": "Stołpce (Stolpce)",
+          "query": "Stołpce, Białoruś"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C28",
@@ -765,7 +1042,7 @@
       "role": "kandydat na P03, NIE utożsamiony",
       "dates": "ur. 03.07.1909 Rogosni; pobyt zapisany 01.07.1940–1945",
       "place": "Caßdorf, Fritzlar-Homberg, Hesja",
-      "note": "Rogosni może odpowiadać Rogoźnu, ale brak powiatu/rodziców. Lista ma także odrębny wiersz C29. Nie uznano grupowania Straty za dowód scalenia.",
+      "note": "Rogosni może odpowiadać Rogóźnu, ale brak powiatu/rodziców. Lista ma także odrębny wiersz C29. Nie uznano grupowania Straty za dowód scalenia.",
       "source": [
         "S075",
         "S076",
@@ -781,7 +1058,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Imienna karta AOK/meldunkowa; sprawdzić nazwisko żony i rodziców. Wyjaśnić zakres 1940–1945 wobec rodzinnego urodzenia Bogusława 1943, bez automatycznego wykluczenia ojcostwa.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Caßdorf",
+          "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
+        },
+        {
+          "label": "Fritzlar",
+          "query": "Fritzlar, Hessen, Deutschland"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C29",
@@ -789,7 +1077,7 @@
       "role": "porównanie z C28/P03; NIE utożsamiony",
       "dates": "ur. 03.07.1909 Lodz, status Kgf., pobyt nieznany",
       "place": "Caßdorf / Fritzlar; w dalszych wykazach Litzmannstadt",
-      "note": "Ta sama data, podobne nazwisko, lecz miejsce ur. Łódź zamiast Rogoźna. Może być homonimem lub błędnym/zdublowanym zapisem; przyczyny nie rozstrzygnięto.",
+      "note": "Ta sama data, podobne nazwisko, lecz miejsce ur. Łódź zamiast Rogóźna. Może być homonimem lub błędnym/zdublowanym zapisem; przyczyny nie rozstrzygnięto.",
       "source": [
         "S076",
         "S077"
@@ -804,7 +1092,22 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Dokument osobowy z rodzicami/żoną/adresem. Nie zakładać, że wszystkie wykazy 1909 dotyczą tej samej osoby.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie"
+      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        },
+        {
+          "label": "Caßdorf",
+          "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
+        },
+        {
+          "label": "Fritzlar",
+          "query": "Fritzlar, Hessen, Deutschland"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C46",
@@ -827,7 +1130,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C47",
@@ -850,7 +1160,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C48",
@@ -873,7 +1190,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        },
+        {
+          "label": "Prusocin",
+          "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C49",
@@ -896,7 +1224,18 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt oryginałów i łącznik Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        },
+        {
+          "label": "Prusocin",
+          "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C50",
@@ -918,7 +1257,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C51",
@@ -940,7 +1286,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C52",
@@ -962,7 +1315,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C53",
@@ -984,7 +1344,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C54",
@@ -1006,7 +1373,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C55",
@@ -1028,7 +1402,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Odczyt aktu i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C56",
@@ -1051,7 +1432,14 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Akty55/1859,16/1894 i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
     },
     {
       "id": "C57",
@@ -1074,7 +1462,143 @@
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
       "missing": "Akty60/1873,16/1894 i dokument Anny",
-      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki"
+      "dataEvidence": "Daty i miejsca: indeks, nie odczyt metryki",
+      "locations": [
+        {
+          "label": "Strzegowo",
+          "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+        },
+        {
+          "label": "Prusocin",
+          "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "status": "document",
+      "branch": "paternal",
+      "evidence": "document",
+      "identityLevel": 1,
+      "level": 1,
+      "connectionLevel": 2,
+      "classificationReason": "Własny odczytany akt i porównanie dokumentów tej rodziny. H017 dotyczy odrębnie połączenia konkretnych dat rodziców z Bogusławem.",
+      "dataEvidence": "Daty i lokalne relacje podano z dokładnymi odnośnikami do dokumentów.",
+      "id": "P28",
+      "name": "Emilia Chmielewska",
+      "role": "Przyrodnia siostra Czesława",
+      "dates": "26.01.1904 — 27.02.1979‡",
+      "place": "Rachanie · Tomaszów Lubelski",
+      "note": "Córka Wincentego Chmielewskiego i Julii z Jabłońskich. Emilia i Czesław mają wspólnego ojca, lecz inne matki. 22 listopada 1932 r. wyszła za Józefa Mandziuka. ‡Data i miejsce zgonu pochodzą z adnotacji przy urodzeniu; samego aktu zgonu 76/1979 nie odczytano. Dzieci pozostają nieustalone.",
+      "source": [
+        "S154",
+        "S153",
+        "S155",
+        "S156",
+        "S071",
+        "S072"
+      ],
+      "missing": "Dokumenty dzieci oraz oryginalny akt zgonu 76/1979.",
+      "x": -260,
+      "y": 280,
+      "locations": [
+        {
+          "label": "Rachanie",
+          "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+        },
+        {
+          "label": "Tomaszów Lubelski",
+          "query": "Tomaszów Lubelski, Polska"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "status": "document",
+      "branch": "paternal",
+      "evidence": "document",
+      "identityLevel": 1,
+      "level": 1,
+      "connectionLevel": 2,
+      "classificationReason": "Własny odczytany akt i porównanie dokumentów tej rodziny. H017 dotyczy odrębnie połączenia konkretnych dat rodziców z Bogusławem.",
+      "dataEvidence": "Daty i lokalne relacje podano z dokładnymi odnośnikami do dokumentów.",
+      "id": "P29",
+      "name": "Józef Mandziuk",
+      "role": "Mąż Emilii",
+      "dates": "33 lata przy ślubie 22.11.1932",
+      "place": "Majdan Górny · parafia Tomaszów Lubelski",
+      "note": "Rolnik, kawaler w chwili ślubu z Emilią Chmielewską. Syn Bartłomieja i Marianny z Raczkiewiczów. W indeksie występuje także zapis Mańdziuk. Dokładne daty jego urodzenia i śmierci oraz dzieci małżeństwa nie zostały ustalone.",
+      "source": [
+        "S153"
+      ],
+      "missing": "Własny akt urodzenia, późniejsze losy i dokumenty dzieci.",
+      "x": -520,
+      "y": 280,
+      "locations": [
+        {
+          "label": "Majdan Górny",
+          "query": "Majdan Górny, gmina Tomaszów Lubelski, lubelskie, Polska"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "id": "P31",
+      "name": "Czesława Chmielewska",
+      "role": "Ciocia Czesia · pokrewieństwo nieustalone",
+      "dates": "Około 100 lat w 2026 r.†",
+      "place": "Łódź — przekaz rodzinny",
+      "note": "Marysia pamięta ciocię Czesię z Łodzi i jej syna mieszkającego w Niemczech. Dokładne pokrewieństwo z Marysią oraz nazwisko rodowe Czesi są nieznane. Możliwość, że była żoną Romana Chmielewskiego, pozostaje hipotezą. †Wiek jest orientacyjnym wspomnieniem, nie ustaloną datą urodzenia. Nie potwierdzono daty zgonu.",
+      "source": [
+        "REL-013"
+      ],
+      "x": -800,
+      "y": 280,
+      "status": "family",
+      "branch": "paternal",
+      "evidence": "family",
+      "identityLevel": 2,
+      "level": 2,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba zapamiętana przez rodzinę; dokładne miejsce w gałęzi ojca pozostaje nieustalone.",
+      "dataEvidence": "Imię, nazwisko, Łódź, orientacyjny wiek i informacja o synu pochodzą ze wspomnienia rodziny.",
+      "missing": "Nazwisko rodowe, daty oraz dokument lub jednoznaczny przekaz ustalający męża i dokładne pokrewieństwo.",
+      "locations": [
+        {
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        }
+      ],
+      "addresses": []
+    },
+    {
+      "id": "P32",
+      "name": "Syn cioci Czesi",
+      "role": "Imię i nazwisko nieustalone",
+      "dates": "Daty nieznane",
+      "place": "Niemcy — przekaz rodzinny",
+      "note": "Według rodzinnego wspomnienia syn Czesławy Chmielewskiej mieszkał całe życie w Niemczech. Nie znamy jego imienia, nazwiska, dat ani ojca. Nie przypisano go Romanowi Chmielewskiemu i nie ustalono, że urodził się w Niemczech.",
+      "source": [
+        "REL-013"
+      ],
+      "x": -800,
+      "y": 560,
+      "status": "family",
+      "branch": "paternal",
+      "evidence": "family",
+      "identityLevel": 2,
+      "level": 2,
+      "connectionLevel": 3,
+      "classificationReason": "Istnienie i relacja z Czesią pochodzą z rodzinnego wspomnienia; osoba nie została niezależnie zidentyfikowana.",
+      "dataEvidence": "Wyłącznie przekaz rodzinny, bez dokumentu.",
+      "missing": "Imię, nazwisko i niezależny dokument lub rodzinne potwierdzenie identyfikatorów oraz ojca.",
+      "locations": [
+        {
+          "label": "Niemcy",
+          "query": "Niemcy"
+        }
+      ],
+      "addresses": []
     }
   ],
   "edges": [
@@ -1295,8 +1819,8 @@
     ],
     [
       "P05",
-      "C05",
-      "family_marriage"
+      "P30",
+      "marriage"
     ],
     [
       "P04",
@@ -1422,6 +1946,36 @@
       "P06",
       "P27",
       "document"
+    ],
+    [
+      "P05",
+      "P28",
+      "document"
+    ],
+    [
+      "P30",
+      "P28",
+      "document"
+    ],
+    [
+      "P03",
+      "P28",
+      "document"
+    ],
+    [
+      "P28",
+      "P29",
+      "marriage"
+    ],
+    [
+      "P31",
+      "P32",
+      "family"
+    ],
+    [
+      "P12",
+      "P31",
+      "hypothesis_marriage"
     ]
   ],
   "sources": {
@@ -1561,7 +2115,7 @@
     },
     "S075": {
       "title": "Straty IPN — wyszukiwania oraz rekordy 5791928 i 4205404",
-      "description": "ODCZYTANO REKORDY; NIE SCALONO Z P03. C27: Czesław 03.07.1909, mieszkaniec Łodzi, OT Stolpce, poszukiwany od nieobecności 17.02.1944 według opisu. Rodziców i Rogoźna brak. S076 ujawnia dwa różne wiersze na skanie grupowanym przez bazę.",
+      "description": "ODCZYTANO REKORDY; NIE SCALONO Z P03. C27: Czesław 03.07.1909, mieszkaniec Łodzi, OT Stolpce, poszukiwany od nieobecności 17.02.1944 według opisu. Rodziców i Rogóźna brak. S076 ujawnia dwa różne wiersze na skanie grupowanym przez bazę.",
       "url": "https://www.straty.pl/szukaj-osoby.php"
     },
     "S079": {
@@ -1576,7 +2130,7 @@
     },
     "S077": {
       "title": "Arolsen — dalsze wykazy medyczne i ubezpieczeniowe, 1909",
-      "description": "ODCZYTANO TRZY OBRAZY; BRAK RODZICÓW I ŻONY. W dwóch źródłach Litzmannstadt jako miejsce ur., w trzecim unbekannt. 70431406 podaje zatrudnienie 05.01–12.11.1941 i wystawcę Cassdorf. Podobieństwo danych nie rozstrzyga z Rogoźnem w S071.",
+      "description": "ODCZYTANO TRZY OBRAZY; BRAK RODZICÓW I ŻONY. W dwóch źródłach Litzmannstadt jako miejsce ur., w trzecim unbekannt. 70431406 podaje zatrudnienie 05.01–12.11.1941 i wystawcę Cassdorf. Podobieństwo danych nie rozstrzyga z Rogóźnem w S071.",
       "url": "https://collections.arolsen-archives.org/en/document/70380976"
     },
     "S133": {
@@ -1591,6 +2145,26 @@
     "S148": {
       "title": "Julianna Chmielewska — akt urodzenia 360/1907",
       "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/9a130e8ffe855ef7ea744ffba5207c1d4c197eec550bc4925b0a7056e0dddf34"
+    },
+    "S153": {
+      "title": "Emilia i Józef Mandziuk — ślub 74/1932",
+      "url": "https://fotolubgens.lubgens.eu/picture.php?/284676/category/4343"
+    },
+    "S154": {
+      "title": "Emilia — urodzenie 22/1904 i adnotacja zgonu",
+      "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/17e25d9765aeca0d9d9f7753bf08b7f96c6c5ac8a9d5abedefdf01f97849b7a4"
+    },
+    "S155": {
+      "title": "Wincenty i Julianna — ślub 72/1901",
+      "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/bc1bf37adce9ee64959695a97549d6eda47d3a23b95713a346195cc9d1ea3a6b"
+    },
+    "S156": {
+      "title": "Julianna Chmielewska — zgon 16/1905",
+      "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/fcc8392d62f1057e144f39b7eb6b3d70c707ed5796577414d930c7ee325be06e"
+    },
+    "REL-013": {
+      "title": "Ciocia Czesia i jej syn — wspomnienie rodziny",
+      "description": "Marysia pamięta Czesławę Chmielewską z Łodzi oraz jej syna mieszkającego w Niemczech. Dokładne pokrewieństwo oraz mąż Czesi pozostają nieustalone. Wiek około 100 lat w 2026 r. jest orientacyjny."
     }
   },
   "relations": [
@@ -1823,7 +2397,7 @@
       "b": "P27",
       "kind": "document",
       "level": 1,
-      "reason": "Oryginalne akty podają tych samych oboje rodziców, nazwisko rodowe matki i Rogoźno. W akcie Julianny wiek ojca jest rozbieżny; zapisano to w opisie i Q74.",
+      "reason": "Oryginalne akty podają tych samych oboje rodziców, nazwisko rodowe matki i Rogóźno. W akcie Julianny wiek ojca jest rozbieżny; zapisano to w opisie i Q74.",
       "missing": "Brak wymogu kolejnego dokumentu dla tej relacji. Dalsze losy i Tczew pozostają nieustalone.",
       "sources": "S148; S071",
       "exception": false,
@@ -1836,7 +2410,7 @@
       "b": "P26",
       "kind": "document",
       "level": 1,
-      "reason": "Oryginalne akty podają tych samych oboje rodziców, nazwisko rodowe matki i Rogoźno. Wiek rodziców jest zgodny w przybliżeniu.",
+      "reason": "Oryginalne akty podają tych samych oboje rodziców, nazwisko rodowe matki i Rogóźno. Wiek rodziców jest zgodny w przybliżeniu.",
       "missing": "Brak wymogu kolejnego dokumentu dla tej relacji. Dalsze losy i Tczew pozostają nieustalone.",
       "sources": "S147; S071",
       "exception": false,
@@ -2044,7 +2618,7 @@
       "b": "P06",
       "kind": "marriage",
       "level": 1,
-      "reason": "Akt 73/1905: młynarz Wincenty, wdowiec, Rachanie; Agnieszka Miszczyszyn, panna, Rogoźno. Powiązanie z dziećmi przez S071/S061.",
+      "reason": "Akt 73/1905: młynarz Wincenty, wdowiec, Rachanie; Agnieszka Miszczyszyn, panna, Rogóźno. Powiązanie z dziećmi przez S071/S061.",
       "missing": "Nie potrzeba nowego aktu do tej relacji.",
       "sources": "S003; S072",
       "exception": false,
@@ -2057,7 +2631,7 @@
       "b": "P12",
       "kind": "sibling",
       "level": 1,
-      "reason": "Ci sami oboje rodzice, nazwisko panieńskie matki, Rogoźno, zawód i zgodna zmiana wieku ojca. Nie dotyczy rodzeństwa Bogusława.",
+      "reason": "Ci sami oboje rodzice, nazwisko panieńskie matki, Rogóźno, zawód i zgodna zmiana wieku ojca. Nie dotyczy rodzeństwa Bogusława.",
       "missing": "Nie potrzeba nowego aktu do tej relacji.",
       "sources": "S001; S061; S071",
       "exception": false,
@@ -2156,17 +2730,17 @@
       "new_level": 3
     },
     {
-      "id": "V044",
+      "id": "R040",
       "a": "P05",
-      "b": "C05",
-      "kind": "family_marriage",
-      "level": 3,
-      "reason": "W 1905 Wincenty jest w indeksie wdowcem. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
-      "missing": "Porównać identyfikatory Wincentego 1901/1905, nie schodzić dalej poza potrzebę.",
-      "sources": "S071; S072; S006; S011; S003",
+      "b": "P30",
+      "kind": "marriage",
+      "level": 1,
+      "reason": "Odczytano ślub 72/1901 oraz zgon Julii przed kolejnym ślubem Wincentego. Rodzice Wincentego, Rachanie i chronologia wskazują tę samą osobę.",
+      "missing": "Małżeństwo i lokalna identyfikacja udokumentowane. H017 dotyczy dalszego łącznika do Bogusława.",
+      "sources": "S155; S156; S154; S072",
       "exception": false,
-      "previous_status": "family_marriage",
-      "new_level": 3
+      "previous_status": "hypothesis",
+      "new_level": 1
     },
     {
       "id": "V045",
@@ -2226,7 +2800,7 @@
       "b": "C27",
       "kind": "identity_candidate",
       "level": 3,
-      "reason": "Data i miasto zbieżne z P03, ale opis wtórny bez rodziców, Rogoźna i Stockiej. Nie przypisano represji rodzinie jako faktu.. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
+      "reason": "Data i miasto zbieżne z P03, ale opis wtórny bez rodziców, Rogóźna i Stockiej. Nie przypisano represji rodzinie jako faktu.. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
       "missing": "Sprawdzić 91 stron IPN Ld 1/3503 pod kątem rodziców, adresu i miejsca ur.; nie wysyłać wniosku bez zatwierdzenia.",
       "sources": "S086; S001; S071; S075; S079",
       "exception": false,
@@ -2239,7 +2813,7 @@
       "b": "C28",
       "kind": "identity_candidate",
       "level": 3,
-      "reason": "Rogosni może odpowiadać Rogoźnu, ale brak powiatu/rodziców. Lista ma także odrębny wiersz C29. Nie uznano grupowania Straty za dowód scalenia.. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
+      "reason": "Rogosni może odpowiadać Rogóźnu, ale brak powiatu/rodziców. Lista ma także odrębny wiersz C29. Nie uznano grupowania Straty za dowód scalenia.. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
       "missing": "Imienna karta AOK/meldunkowa; sprawdzić nazwisko żony i rodziców. Wyjaśnić zakres 1940–1945 wobec rodzinnego urodzenia Bogusława 1943, bez automatycznego wykluczenia ojcostwa.",
       "sources": "S086; S001; S071; S075; S076; S077",
       "exception": false,
@@ -2252,7 +2826,7 @@
       "b": "C29",
       "kind": "identity_candidate",
       "level": 3,
-      "reason": "Ta sama data, podobne nazwisko, lecz miejsce ur. Łódź zamiast Rogoźna. Może być homonimem lub błędnym/zdublowanym zapisem; przyczyny nie rozstrzygnięto.. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
+      "reason": "Ta sama data, podobne nazwisko, lecz miejsce ur. Łódź zamiast Rogóźna. Może być homonimem lub błędnym/zdublowanym zapisem; przyczyny nie rozstrzygnięto.. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
       "missing": "Dokument osobowy z rodzicami/żoną/adresem. Nie zakładać, że wszystkie wykazy 1909 dotyczą tej samej osoby.",
       "sources": "S086; S001; S071; S076; S077",
       "exception": false,
@@ -2492,6 +3066,84 @@
       "reason": "Rodzic wymieniony bezpośrednio w odczytanym akcie urodzenia.",
       "missing": "Relacja udokumentowana aktem.",
       "sources": "S148"
+    },
+    {
+      "id": "R036",
+      "a": "P05",
+      "b": "P28",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "exception": false,
+      "previous_status": "new_document",
+      "reason": "Ojciec wymieniony bezpośrednio w urodzeniu Emilii 22/1904; młynarz Wincenty z Rachań.",
+      "missing": "Brak wymogu dodatkowego aktu dla tej udokumentowanej relacji.",
+      "sources": "S154; S155; S072"
+    },
+    {
+      "id": "R037",
+      "a": "P30",
+      "b": "P28",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "exception": false,
+      "previous_status": "new_document",
+      "reason": "Julia z Jabłońskich wymieniona jako matka w urodzeniu i późniejszym ślubie Emilii.",
+      "missing": "Brak wymogu dodatkowego aktu dla tej udokumentowanej relacji.",
+      "sources": "S154; S153"
+    },
+    {
+      "id": "R038",
+      "a": "P03",
+      "b": "P28",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "exception": false,
+      "previous_status": "new_document",
+      "reason": "Rodzeństwo przyrodnie po Wincentym: Emilia z pierwszą żoną Julią, Czesław z drugą żoną Agnieszką. Porównano małżeństwa, urodzenia i zgon Julii.",
+      "missing": "Brak wymogu dodatkowego aktu dla tej udokumentowanej relacji.",
+      "sources": "S154; S155; S156; S072; S071"
+    },
+    {
+      "id": "R039",
+      "a": "P28",
+      "b": "P29",
+      "kind": "marriage",
+      "level": 1,
+      "new_level": 1,
+      "exception": false,
+      "previous_status": "new_document",
+      "reason": "Małżeństwo Emilii i Józefa Mandziuka potwierdza akt 74/1932, 22 listopada. Emilia zgodna z urodzeniem 22/1904 przez rodziców, wiek i Rachanie.",
+      "missing": "Brak wymogu dodatkowego aktu dla tej udokumentowanej relacji.",
+      "sources": "S153; S154"
+    },
+    {
+      "id": "R041",
+      "a": "P31",
+      "b": "P32",
+      "kind": "family",
+      "level": 2,
+      "new_level": 2,
+      "exception": false,
+      "previous_status": "new_family_report",
+      "reason": "Rodzina pamięta, że Czesia miała syna mieszkającego w Niemczech. Nie ustalono jego ojca, imienia ani nazwiska.",
+      "missing": "Dokument lub jednoznaczne rodzinne potwierdzenie identyfikatorów i tej relacji.",
+      "sources": "REL-013"
+    },
+    {
+      "id": "V066",
+      "a": "P12",
+      "b": "P31",
+      "kind": "hypothesis_marriage",
+      "level": 3,
+      "new_level": 3,
+      "exception": false,
+      "previous_status": "new_family_report",
+      "reason": "Użytkownik pyta, czy ciocia Czesia mogła być żoną Romana. Nie ma jeszcze dokumentu ani pewnego przekazu potwierdzającego małżeństwo. H028 pozostaje otwarta.",
+      "missing": "Dokument lub jednoznaczne rodzinne potwierdzenie identyfikatorów i tej relacji.",
+      "sources": "REL-013; H028"
     }
   ]
 }
