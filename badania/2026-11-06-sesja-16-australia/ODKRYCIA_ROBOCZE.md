@@ -1,3 +1,5 @@
+> Zapis historyczny pierwszego utrwalenia odkryć. Baza, drzewo i publikacja zostały następnie uzupełnione; aktualny stan: [STATUS.md](STATUS.md), dalsza praca: [PLAN_KONTYNUACJI.md](PLAN_KONTYNUACJI.md).
+
 # Odczytane nowe źródła — etap 16
 
 06.11.2026. Zapis przed uzupełnieniem bazy i strony; aktualny raport końcowy będzie w STATUS.md.
