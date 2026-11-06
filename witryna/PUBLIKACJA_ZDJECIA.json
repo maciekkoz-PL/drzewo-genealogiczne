@@ -1,0 +1,48 @@
+{
+  "version": {
+    "id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_164d6b917bd08191bdef3ce54eb21d53",
+    "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
+    "version_number": 21,
+    "source": {
+      "commit_sha": "12fe36549adda951315891e1910bf20820d03f4e"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000e718820ab4f472d5d5d251e1",
+      "content_hash": "sha256:ef36d98c1cea4f5c1c2e1c5b2d6aa72485075f9625195e961af25c5625b35aaa",
+      "size_bytes": 1085440,
+      "file_count": 4
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6aee125314bc81919fbd4bff80901637",
+    "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
+    "title": "Korzenie Marysi",
+    "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_164d6b917bd08191bdef3ce54eb21d53",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6aeccd5dcec48191950b70bad04d3017",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-06T17:46:07.655559+00:00"
+  },
+  "validation": {
+    "widths": [
+      1440,
+      390
+    ],
+    "result": "passed",
+    "checks": [
+      "relative labels",
+      "vertical list",
+      "portraits",
+      "Australian cities",
+      "no JS errors"
+    ]
+  }
+}
