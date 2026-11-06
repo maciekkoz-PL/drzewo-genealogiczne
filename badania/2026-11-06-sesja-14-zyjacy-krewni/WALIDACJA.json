@@ -1,0 +1,149 @@
+{
+  "result": "PASS",
+  "baseline_commit": "028e3b3",
+  "at_utc": "2026-11-06T14:33:54.533584+00:00",
+  "sheets": 23,
+  "sources": 180,
+  "new_sources": 6,
+  "queries": 44,
+  "firecrawl_queries": 1,
+  "reviewed_index_entries": 199,
+  "new_people": 0,
+  "new_relationships": 0,
+  "people": 51,
+  "edges": 75,
+  "news": 7,
+  "old_rows_preserved_except_listed_cells": [
+    [
+      "RODZINA_Z_RELACJI",
+      4,
+      9
+    ],
+    [
+      "RODZINA_Z_RELACJI",
+      4,
+      10
+    ],
+    [
+      "RODZINA_Z_RELACJI",
+      5,
+      9
+    ],
+    [
+      "RODZINA_Z_RELACJI",
+      5,
+      10
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      22,
+      6
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      22,
+      7
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      22,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      22,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      23,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      23,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      24,
+      9
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      3,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      3,
+      4
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      3,
+      5
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      14,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      14,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      15,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      15,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      41,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      41,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      41,
+      9
+    ],
+    [
+      "WIARYGODNOSC_RELACJI",
+      49,
+      6
+    ],
+    [
+      "WIARYGODNOSC_RELACJI",
+      49,
+      7
+    ],
+    [
+      "WIARYGODNOSC_RELACJI",
+      49,
+      8
+    ]
+  ],
+  "old_zip_bytes_unchanged": true,
+  "audits_match": true,
+  "maternal_branch_unchanged": true,
+  "P10_C19_not_merged": true,
+  "source_files": 15,
+  "source_bytes": 12048561
+}

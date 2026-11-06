@@ -366,9 +366,10 @@
       "role": "Kuzyn Marysi — według przekazu",
       "dates": "Ur. ok. 1969–1973†",
       "place": "",
-      "note": "Syn nieznanego z imienia brata Bogusława — według relacji rodziny. †Przedział urodzenia to oszacowanie na podstawie przybliżonego wieku, a nie odczyt z aktu. Rodzina pamięta jego udział w mundurze policjanta w pogrzebie Tomasza w 2001 r. Nie potwierdzono, czy jest osobą opisaną w artykułach o policjancie z Łodzi. Pokrewieństwo nadal wymaga dokumentów.",
+      "note": "Syn nieznanego z imienia brata Bogusława — według relacji rodziny. †Przedział urodzenia to oszacowanie na podstawie przybliżonego wieku, a nie odczyt z aktu. Rodzina pamięta jego udział w mundurze policjanta w pogrzebie Tomasza w 2001 r. Nie potwierdzono, czy jest osobą opisaną w artykułach o policjancie z Łodzi. Pokrewieństwo nadal wymaga dokumentów. Według oceny przekazanej w tej rozmowie łódzki policjant opisany w2010r. jest głównym tropem. Rodzina nie zna jego jednostki ani stopnia. Aktualnego stanu życia i miejsca pobytu nie potwierdzono.",
       "source": [
-        "REL"
+        "REL-003",
+        "REL-016"
       ],
       "x": 800,
       "y": 800,
@@ -390,10 +391,11 @@
       "role": "Przyrodni brat Marysi",
       "dates": "Zm. 26.04.2001† · 30 lat",
       "place": "Stara Gadka · miejsce pochówku według rodziny",
-      "note": "Imię, nazwisko, dzień 26 IV i wiek odczytano z rodzinnych fotografii nagrobka. †Rok 2001 oraz relacja ojciec–syn z Bogusławem pochodzą z przekazu rodzinnego; rok na zdjęciu jest częściowo zasłonięty. Nie znamy dokładnej daty urodzenia.",
+      "note": "Imię, nazwisko, dzień 26 IV i wiek odczytano z rodzinnych fotografii nagrobka. †Rok 2001 oraz relacja ojciec–syn z Bogusławem pochodzą z przekazu rodzinnego; rok na zdjęciu jest częściowo zasłonięty. Nie znamy dokładnej daty urodzenia. Według najnowszego rodzinnego wspomnienia raczej nie miał żony ani dzieci, ale nie ma co do tego pewności.",
       "source": [
         "S027",
-        "REL"
+        "REL",
+        "REL-015"
       ],
       "x": 1360,
       "y": 800,
@@ -975,13 +977,13 @@
     {
       "id": "C19",
       "name": "Piotr Chmielewski – policjant Łódź",
-      "role": "najmocniejszy kandydat na kuzyna Piotra",
+      "role": "Główny trop dotyczący kuzyna Piotra",
       "dates": "mł. asp., kierownik referatu, 12.03.2010",
       "place": "Łódź, I Komisariat",
-      "note": "Zbieżne imię, nazwisko, miasto, zawód",
+      "note": "Artykuł z12.03.2010 opisuje młodszego aspiranta Piotra Chmielewskiego, kierownika referatu III wydziału dochodzeniowo-śledczego, w kontekście I Komisariatu w Łodzi. Użytkownik przypuszcza, że to kuzyn Marysi. Artykuł nie podaje rodziców ani daty urodzenia; rodzina nie zna szczegółów jego służby. Tożsamość z kuzynem i aktualny stan życia pozostają niepotwierdzone.",
       "source": [
         "S034",
-        "S035"
+        "REL-016"
       ],
       "x": 840,
       "y": -260,
@@ -992,7 +994,7 @@
       "level": 3,
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
-      "missing": "Prośba o przekazanie wiadomości za zgodą przez komisariat; NIE poszukiwanie prywatnych danych.",
+      "missing": "Dodatkowy identyfikator rodzinny lub źródło wskazujące ojca; sama zgodność nazwiska, miasta i zawodu nie rozstrzyga tożsamości.",
       "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
       "locations": [
         {
@@ -2176,6 +2178,18 @@
     "REL-014": {
       "title": "Przekaz rodzinny 06.11.2026: Czesia, jej syn i spotkania sprzed 2000 r.",
       "url": null
+    },
+    "REL-003": {
+      "title": "Przekaz rodzinny: kuzyn Piotr i pogrzeb Tomasza w2001r.",
+      "url": null
+    },
+    "REL-015": {
+      "title": "Przekaz06.11.2026: niepewna informacja o braku żony i dzieci Tomasza",
+      "url": null
+    },
+    "REL-016": {
+      "title": "Ocena rodziny06.11.2026: łódzki policjant głównym tropem, bez dodatkowych danych",
+      "url": null
     }
   },
   "relations": [
@@ -2798,9 +2812,9 @@
       "b": "C19",
       "kind": "identity_candidate",
       "level": 3,
-      "reason": "Zbieżne imię, nazwisko, miasto, zawód. Hipoteza oparta na opisanych w kartach indeksach, zgodności identyfikatorów lub kontekście źródłowym; brak pełnego łącznika z rodziną.",
-      "missing": "Prośba o przekazanie wiadomości za zgodą przez komisariat; NIE poszukiwanie prywatnych danych.",
-      "sources": "REL; S034; S035",
+      "reason": "Zgodne imię, nazwisko, Łódź i zawód. Użytkownik uważa tę identyfikację za główny trop (REL-016), ale nie zna dalszych szczegółów. Brak niezależnego rodzinnego identyfikatora.",
+      "missing": "Dodatkowy szczegół rozpoznany przez rodzinę albo źródło wskazujące ojca; nie ustalono tożsamości z kuzynem ani aktualnego stanu życia.",
+      "sources": "REL-003; REL-016; S034; S035",
       "exception": false,
       "previous_status": "identity_candidate",
       "new_level": 3

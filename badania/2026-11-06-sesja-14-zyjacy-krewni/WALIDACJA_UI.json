@@ -1,0 +1,18 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T14:33:57.906757+00:00",
+  "url": "file:///workspace/drzewo-genealogiczne/witryna/public/index.html",
+  "html_sha256": "750d0f7c71374a8f41163230c4a13a67de72b69854a8571fbb269f033be58e83",
+  "people": 51,
+  "edges": 75,
+  "news": 7,
+  "Piotr_main_candidate_not_confirmed": true,
+  "Tomasz_uncertainty_visible": true,
+  "P10_C19_separate": true,
+  "parent_lines": 2,
+  "maps_and_maternal_branch_preserved": true,
+  "mobile_no_overflow": true,
+  "js_errors": [],
+  "local_html_injected": true,
+  "network_note": "Polityka Chromium blokuje file://; lokalny HTML załadowano przez set_content, bez zmiany strony."
+}

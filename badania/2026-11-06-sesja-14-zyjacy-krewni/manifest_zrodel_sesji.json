@@ -1,0 +1,77 @@
+[
+  {
+    "path": "zrodla/indeksy1943_44_pobrania.json",
+    "bytes": 914,
+    "sha256": "f3173aa35bd5ae46adcf8b344bc7bd90b287a98610d1cc974efd5eb5e9387e48"
+  },
+  {
+    "path": "zrodla/index_1944_029.jpg",
+    "bytes": 2666938,
+    "sha256": "d75c19de0f045ccad5f33c9919218bbb1d3fd31cc6e37dfd8c53338cd0e666fa"
+  },
+  {
+    "path": "zrodla/index_1944_030.jpg",
+    "bytes": 2638861,
+    "sha256": "7b28fb39e43d27da11f71d84662a299064d9b22e2481be1bffde45c36a443288"
+  },
+  {
+    "path": "zrodla/index_1944_031.jpg",
+    "bytes": 2083529,
+    "sha256": "0b7f6ad231ce41775525f2375db1d17935b1aa089bdcdf3f359f5d276382277e"
+  },
+  {
+    "path": "zrodla/piotr2010_wp.html",
+    "bytes": 167915,
+    "sha256": "7c112f3481b33fe6d0626c6cbbfc88679a9d093875594f2a6e42e1139b622ec0"
+  },
+  {
+    "path": "zrodla/piotr2010_wp.txt",
+    "bytes": 9378,
+    "sha256": "2b23b3091d156f919dc01375a5769f85fd4243b25dc95de7456c3a3c02c51479"
+  },
+  {
+    "path": "zrodla/pobrania_1.json",
+    "bytes": 300,
+    "sha256": "2017c498b37d3e5ad11ca5f8c987b86f7e2adb9ec41321645ca38c24b8198bf2"
+  },
+  {
+    "path": "zrodla/pobrania_2.json",
+    "bytes": 647,
+    "sha256": "8b2d7021aad1acff5f2b6a0ed9e6e06260fa1916ee858e6afe64f174ad9e8677"
+  },
+  {
+    "path": "zrodla/pobrania_3.json",
+    "bytes": 461,
+    "sha256": "330cd66b1fe092baa36f687246f7c61cedc6e4d11fd4817a6b65ddd809bd8b44"
+  },
+  {
+    "path": "zrodla/ponownie_uzyte_pliki.json",
+    "bytes": 1016,
+    "sha256": "e52400f84a2788fae3ffb2f8c0c41e7d392d87b51585affb4a10534b4a9c5bb1"
+  },
+  {
+    "path": "zrodla/poznan_sabina_365_odpowiedz.html",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "zrodla/tomaszow_1943_005.jpg",
+    "bytes": 2314306,
+    "sha256": "44edd56bf923798702540c8a49ff2bfadfb5d8d389eda4c1f3f12a36244c70ce"
+  },
+  {
+    "path": "zrodla/tomaszow_1944_034.jpg",
+    "bytes": 1859223,
+    "sha256": "c5aad04b24f33a7d8b2950cb7b29c0248186139e434283080d6be7bd8fae36a2"
+  },
+  {
+    "path": "zrodla/web/kwerendy_i_odczyty.json",
+    "bytes": 279121,
+    "sha256": "b39f49477671ae630453a93ff0e9284a03249157c00be453970816db46d7042d"
+  },
+  {
+    "path": "zrodla/web/piotr_po_ocenie_rodziny.json",
+    "bytes": 25740,
+    "sha256": "8e865eb9f47724fb2953366421642144bca4c3c02ee3532beece6834f2fad4f9"
+  }
+]

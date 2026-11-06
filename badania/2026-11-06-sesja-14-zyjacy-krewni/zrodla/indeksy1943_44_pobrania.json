@@ -1,0 +1,26 @@
+[
+  {
+    "key": "index_1944_029",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/029.jpg",
+    "utc": "2026-11-06T14:13:38.981707+00:00",
+    "status": 200,
+    "size": 2666938,
+    "sha256": "d75c19de0f045ccad5f33c9919218bbb1d3fd31cc6e37dfd8c53338cd0e666fa"
+  },
+  {
+    "key": "index_1944_030",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/030.jpg",
+    "utc": "2026-11-06T14:13:38.982888+00:00",
+    "status": 200,
+    "size": 2638861,
+    "sha256": "7b28fb39e43d27da11f71d84662a299064d9b22e2481be1bffde45c36a443288"
+  },
+  {
+    "key": "index_1944_031",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/031.jpg",
+    "utc": "2026-11-06T14:13:38.983497+00:00",
+    "status": 200,
+    "size": 2083529,
+    "sha256": "0b7f6ad231ce41775525f2375db1d17935b1aa089bdcdf3f359f5d276382277e"
+  }
+]

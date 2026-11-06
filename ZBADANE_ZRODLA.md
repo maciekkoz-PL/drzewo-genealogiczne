@@ -1,6 +1,8 @@
 # Rejestr zbadanych źródeł i prób dostępu
 
-Aktualny wykaz 148 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
+Najnowszy etap: [żyjący krewni linii ojca](badania/2026-11-06-sesja-14-zyjacy-krewni/STATUS.md), S175–S180. Nie potwierdzono nowego żyjącego krewnego. Tabela początkowa jest historycznym zapisem; późniejsze odczyty i korekty (m.in. S147/S148 oraz P30) mają pierwszeństwo przed dawnym statusem indeksów.
+
+Aktualny wykaz 180 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
 
 [Najnowsza ocena dowodu i luka H017](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [dokładny zakres nowych odczytów](badania/2026-11-05-sesja-03-polaczenie/AROLSEN_ODCZYTY.md).
 
@@ -254,3 +256,16 @@ KorektaQ73: Antonina to4683, nie4689. [Odczyt wszystkich czterech zgonów](badan
 | S172 | Czesława Chmielewska z Dąbek — życiorys i deklaracja; ZZNSZ-07-001-0001-t2-k012-013,k014,k014a;2000 | Odczytano dwie wersje życiorysu: rocznik1924, nauczycielka, gospodarstwo rodzinne, Dąbki gm.Zambrów, mążEdward, synowie. Metadane deklaracji wskazują wdowę poEdwardzie. Brak łącznika zŁodzią/P03/P12 lub synem wNiemczech; nie przypisanoP31. Nie odsłaniano zredagowanych pól; deklaracji nie odczytano wcałości. | [Źródło](https://archiwumcyfrowe.nsz.com.pl/zznsz-07-001-0001-t2-k014/); [kopia](badania/2026-11-06-sesja-13-ciocia-czesia/zrodla/ZZNSZ-07-001-0001-t2-k014.jpg) |
 | S173 | Akta łódzkiego PZN — lokalizacja katalogowa; 39/854/0/5/791–793; SwA9475813–9475815;0skanów wkatalogu serii | 791:1945–1962;792:1963–1972;793:1966–1973. Dokumentacja organizacyjna, protokoły/sprawozdania, nie potwierdzona kartoteka wszystkich członków. Seria wskazuje0skanów, karty jednostek zwróciły komunikat portletuniedostępny. Nie odczytano akt, brak potwierdzenia Czesi; nie kontaktowano archiwum. | [Źródło](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/9475813); [kopia](badania/2026-11-06-sesja-13-ciocia-czesia/zrodla/web/s13_swa_pzn_catalogue.json) |
 | S174 | Poszukiwania Czesi i syna — nowe zapytania internetowe; 8zestawów po4zapytania +1Firecrawl; dokładne zapytania/odpowiedzi | Zapisano również nieudany dostęp do wyszukiwarkiDziennikaŁódzkiego1999(503). Nie znaleziono niezależnej identyfikacji syna. Nie używano baz kontaktów/telefonów. Liczne homonimy pozostają niepołączone. | [Źródło](https://jozefszczurek.pl/biop0.html); [kopia](badania/2026-11-06-sesja-13-ciocia-czesia/zrodla/web/s13_q1.json) |
+
+## Etap 14 — żyjący krewni po ojcu
+
+| ID | Zakres | Wynik i granice |
+|---|---|---|
+| S175 | 44 zapytania web + 1 Firecrawl; profil C19/S034 | Brak nowego rodzinnego identyfikatora; C19 głównym tropem, bez dowodu tożsamości lub życia w 2026. |
+| S176 | Tomaszów, pełne indeksy małżeństw 1943/1944 | 85+114 pozycji, oboje małżonków, bez P12/P26/P27; nie pełne akty. |
+| S177 | Akt 17/1943 Tomaszów | Irena Wiśniewska/Sasin; nie Chmielewska, bez nowej relacji. |
+| S178 | Poznań 14325/365 Sabina | Indeks bez dat/rodziców; skan nieodczytany, HTTP200 z HTML ochrony. |
+| S179 | Dwie publikacje Szkoły Policji Katowice 2019 | Historyczna aktywność znanego C20, bez pokrewieństwa. |
+| S180 | Cmentarz parafialny Tomaszów, Lwowska81b | Wizytówka bez inwentaryzacji; nie negatywna kwerenda Emilii. |
+
+[Dokładne adresy, lokalne kopie i ograniczenia](badania/2026-11-06-sesja-14-zyjacy-krewni/STATUS.md), [manifest SHA256](badania/2026-11-06-sesja-14-zyjacy-krewni/manifest_zrodel_sesji.json). Nowe przekazy REL-015/016 zachowują niepewność rodziny.

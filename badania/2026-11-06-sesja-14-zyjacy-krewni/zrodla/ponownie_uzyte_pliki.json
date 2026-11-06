@@ -1,0 +1,20 @@
+[
+  {
+    "path": "badania/2026-11-06-sesja-11-rodziny-rodzenstwa/zrodla/indexes1943/023.jpg",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1943/023.jpg",
+    "scope": "pełny indeks1943 pozycje1–68, oboje małżonków",
+    "sha256": "ca5846226bf9eef8bf511e48247b0ad20193e900258def446401216d9c1e1a67"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-11-rodziny-rodzenstwa/zrodla/tomaszow1943/024.jpg",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1943/024.jpg",
+    "scope": "indeks1943 pozycje69–85 i koniec",
+    "sha256": "314104f30554db952641e56a43ae6f5394b21bc3e21c6509d357e75d56652136"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-11-rodziny-rodzenstwa/zrodla/tomaszow1944/033.jpg",
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1944/033.jpg",
+    "scope": "indeks1944 pozycje1–73, oboje małżonków",
+    "sha256": "9f716228f72bfc1ba785f4f6edd57d34f1c9a6b1cc488263f05b979494ac8cee"
+  }
+]
