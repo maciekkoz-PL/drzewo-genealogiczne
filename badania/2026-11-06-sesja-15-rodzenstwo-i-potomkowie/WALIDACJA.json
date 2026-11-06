@@ -1,0 +1,55 @@
+{
+  "result": "PASS",
+  "baseline_commit": "1b2a1a7d9d38137a9dbf59f571b01cd4c19336f1",
+  "at_utc": "2026-11-06T15:31:51.120669+00:00",
+  "sheets": 23,
+  "counts": {
+    "ZRODLA_I_SKANY": 194,
+    "KANDYDACI_I_HOMONIMY": 78,
+    "DZIENNIK_KWEREND": 164,
+    "PLIKI_DOWODOWE": 138,
+    "RELACJE_ZRODLOWE": 16
+  },
+  "new_sources": 14,
+  "new_candidates": 10,
+  "queries": 76,
+  "firecrawl_queries": 1,
+  "people": 55,
+  "edges": 79,
+  "news": 8,
+  "old_rows_preserved_except_listed_cells": [
+    [
+      "RDZEN_RODZINY",
+      8,
+      10
+    ],
+    [
+      "RDZEN_RODZINY",
+      12,
+      10
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      10,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      10,
+      9
+    ]
+  ],
+  "old_zip_bytes_unchanged": true,
+  "audits_match": true,
+  "old_public_people_and_edges_preserved": true,
+  "maternal_branch_unchanged": true,
+  "P12_C69_not_merged": true,
+  "current_life_not_claimed": true,
+  "source_files": 152,
+  "source_bytes": 15587364
+}

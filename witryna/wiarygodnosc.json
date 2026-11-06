@@ -162,7 +162,7 @@
       "role": "Brat Czesława",
       "dates": "Ur. 06.06.1919",
       "place": "Rogóźno",
-      "note": "Syn Wincentego i Agnieszki Miszczyszyn. Braterstwo z Czesławem potwierdzono przez porównanie obu aktów urodzenia. Roman nie jest bratem Bogusława.",
+      "note": "Syn Wincentego i Agnieszki Miszczyszyn. Braterstwo z Czesławem potwierdzono przez porównanie obu aktów urodzenia. Roman nie jest bratem Bogusława. Nowy trop australijski: emigrant Roman o tej samej dacie urodzenia (06.06.1919) miał żonę Annę i synów Romana (1946) oraz Ernesta (1947). Pokazano go osobno jako C69. Nie znamy jego rodziców; tożsamość z bratem Czesława pozostaje niepotwierdzona (H035).",
       "source": [
         "S061",
         "S071"
@@ -176,7 +176,7 @@
       "level": 1,
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
-      "missing": "Własny akt urodzenia/ślubu potwierdzający rodziców, daty i tożsamość; szczegóły przy relacjach.",
+      "missing": "Dokument łączący brata Czesława z emigrantem C69 przez rodziców lub inny niezależny identyfikator; ustalenie późniejszych losów domniemanych potomków.",
       "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
       "locations": [
         {
@@ -1604,6 +1604,109 @@
         }
       ],
       "addresses": []
+    },
+    {
+      "id": "C69",
+      "name": "Roman Chmielewski — Australia",
+      "role": "Możliwy brat Czesława — osobny rekord",
+      "dates": "Ur.06.06.1919 · Australia od1950",
+      "place": "Berri,Australia ·1950",
+      "note": "Dokumenty migracyjne wymieniają Romana Chmielewskiego, ur. 06.06.1919, żonę Annę i synów Romana oraz Ernesta. Przybył do Australii 30.01.1950; w lutym 1950 skierowano go do Berri. Pełna data urodzenia zgadza się z bratem Czesława (P12), ale nie znamy rodziców emigranta, a jego miejsce urodzenia zapisano „Rezegno”. Nie potwierdzono, że chodzi o Rogóźno. Tożsamość obu Romanów pozostaje hipotezą H035.",
+      "source": [
+        "S182",
+        "S183",
+        "S185"
+      ],
+      "x": -1080,
+      "y": 280,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 3,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
+      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
+      "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C70",
+      "name": "Anna Chmielewski",
+      "role": "Żona emigranta Romana",
+      "dates": "Ur.19.02.1929",
+      "place": "Melk,Austria",
+      "note": "Karta emigranta Romana wymienia ją wprost jako żonę. Lista transportowa podaje datę 19.02.1929 i miejsce Melk w Austrii. Nazwisko rodowe nieznane; dokument używa formy Chmielewski. Nie utożsamiono jej z ciocią Czesią ani Hanną z ogłoszeń z 2003 r. Jej późniejsze losy i związek z rodziną Marysi pozostają nieustalone.",
+      "source": [
+        "S182",
+        "S183",
+        "S185"
+      ],
+      "x": -1340,
+      "y": 280,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 3,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
+      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
+      "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C71",
+      "name": "Roman Chmielewski (1946)",
+      "role": "Syn emigranta Romana",
+      "dates": "Ur.06.10.1946",
+      "place": "Austria · Mildura,Australia1950",
+      "note": "Własna karta migracyjna podaje datę 06.10.1946 i ojca Romana. Przyjechał do Australii 30.01.1950; w kwietniu skierowano go do ośrodka w Mildurze. Lista podaje miejsce urodzenia Austria/Scheibbe. Karta zawiera fotografię dziecka i podpis Anny. Nie ustalono, czy obecnie żyje. Jeśli emigrant okaże się bratem Czesława, Roman byłby kuzynem Bogusława. To połączenie nadal wymaga dowodu.",
+      "source": [
+        "S182",
+        "S184"
+      ],
+      "x": -1340,
+      "y": 560,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 3,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
+      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
+      "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C72",
+      "name": "Ernest / Ernst Chmielewski",
+      "role": "Syn emigranta Romana",
+      "dates": "Ur.20.11.1947",
+      "place": "Austria · transport doAustralii1950",
+      "note": "Syn emigranta Romana według jego karty. Lista transportowa i australijski katalog podają datę 20.11.1947 oraz miejsce Austria/Scheibbe. Imię zapisano jako Ernest lub Ernst. Nie ustalono, czy obecnie żyje. Wpis pogrzebu Erniego w Geelong z 2024 r. nie podaje daty urodzenia ani krewnych, więc nie utożsamiono tych osób. Potencjalne pokrewieństwo z Marysią zależy od hipotezy H035.",
+      "source": [
+        "S182",
+        "S183",
+        "S185"
+      ],
+      "x": -1080,
+      "y": 560,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 3,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
+      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
+      "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
+      "locations": [],
+      "addresses": []
     }
   ],
   "edges": [
@@ -1981,6 +2084,26 @@
       "P12",
       "P31",
       "hypothesis_marriage"
+    ],
+    [
+      "C69",
+      "C70",
+      "marriage"
+    ],
+    [
+      "C69",
+      "C71",
+      "document"
+    ],
+    [
+      "C69",
+      "C72",
+      "document"
+    ],
+    [
+      "P12",
+      "C69",
+      "identity_candidate"
     ]
   ],
   "sources": {
@@ -2190,6 +2313,26 @@
     "REL-016": {
       "title": "Ocena rodziny06.11.2026: łódzki policjant głównym tropem, bez dodatkowych danych",
       "url": null
+    },
+    "S182": {
+      "title": "Lista rodzinyRomana: transport doAustralii1950, str.32,poz.766–769",
+      "url": "https://collections.arolsen-archives.org/en/document/81766762",
+      "description": "Rodzina emigranta udokumentowana; tożsamość ojca zP12 i obecne życie potomków pozostają niepotwierdzone."
+    },
+    "S183": {
+      "title": "KartaRomana1919 — żonaAnna i dzieciRoman/Ernest",
+      "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670395",
+      "description": "Rodzina emigranta udokumentowana; tożsamość ojca zP12 i obecne życie potomków pozostają niepotwierdzone."
+    },
+    "S184": {
+      "title": "Własna kartaRomana1946 z ojcemRomanem",
+      "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670397",
+      "description": "Rodzina emigranta udokumentowana; tożsamość ojca zP12 i obecne życie potomków pozostają niepotwierdzone."
+    },
+    "S185": {
+      "title": "NAAkatalogA12002,766–769 — cztery osoby iDOB",
+      "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=4256174&isAv=N",
+      "description": "Rodzina emigranta udokumentowana; tożsamość ojca zP12 i obecne życie potomków pozostają niepotwierdzone."
     }
   },
   "relations": [
@@ -3169,6 +3312,58 @@
       "reason": "Użytkownik pyta, czy ciocia Czesia mogła być żoną Romana. Nie ma jeszcze dokumentu ani pewnego przekazu potwierdzającego małżeństwo. H028 pozostaje otwarta.",
       "missing": "Dokument lub jednoznaczne rodzinne potwierdzenie identyfikatorów i tej relacji.",
       "sources": "REL-013; H028"
+    },
+    {
+      "id": "R042",
+      "a": "C69",
+      "b": "C70",
+      "kind": "marriage",
+      "level": 1,
+      "new_level": 1,
+      "reason": "WprostWife:Anna na karcieC69. Relacja lokalna tej rodziny udokumentowana; związek zP12wH035.",
+      "missing": "Relacja między osobami źródłowymi udokumentowana; ich połączenie zP12 nadalH035.",
+      "sources": "S183; S182",
+      "exception": false,
+      "previous_status": "new_document"
+    },
+    {
+      "id": "R043",
+      "a": "C69",
+      "b": "C71",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "reason": "Children:Roman uojca iFather:Roman usyna; zgodneDOB i podróż. Nie automatycznie synP12.",
+      "missing": "Relacja między osobami źródłowymi udokumentowana; ich połączenie zP12 nadalH035.",
+      "sources": "S183; S184; S182",
+      "exception": false,
+      "previous_status": "new_document"
+    },
+    {
+      "id": "R044",
+      "a": "C69",
+      "b": "C72",
+      "kind": "document",
+      "level": 1,
+      "new_level": 1,
+      "reason": "Children:Ernest uojca, wspólna rodzina1058739, DOB20.11.1947. Nie automatycznie synP12.",
+      "missing": "Relacja między osobami źródłowymi udokumentowana; ich połączenie zP12 nadalH035.",
+      "sources": "S183; S182; S185",
+      "exception": false,
+      "previous_status": "new_document"
+    },
+    {
+      "id": "V067",
+      "a": "P12",
+      "b": "C69",
+      "kind": "identity_candidate",
+      "level": 3,
+      "new_level": 3,
+      "reason": "Zgodne pełne imię/nazwisko iDOB06.06.1919. Miejsce emigrantaRezegno nie zostało potwierdzone jakoRogóźno; brak jego rodziców. H035 otwarta.",
+      "missing": "RodziceWincenty/AgnieszkaMiszczyszyn lub inny niezależny łącznik; nie sam kolejny odpis tej samej listy.",
+      "sources": "S061; S182; S183; S185; H035",
+      "exception": false,
+      "previous_status": "new_hypothesis"
     }
   ]
 }

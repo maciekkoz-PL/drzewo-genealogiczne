@@ -1,3 +1,5 @@
+> Zapis historyczny z pierwszego utrwalenia źródeł. Baza, audyt i strona zostały następnie uzupełnione; aktualny stan i zajęte ID: [STATUS.md](STATUS.md) oraz [PLAN_KONTYNUACJI.md](PLAN_KONTYNUACJI.md). Niżej zachowano dawną notatkę, nie bieżące polecenia.
+
 # Nowy trop australijski — stan roboczy
 
 06.11.2026: Arolsen DocID81766762,3.1.3.2, jednostka8315170, strona32, poz.766–769. Odczytano oryginał i odwrocie. Roman Chmielewski06.06.1919, żonaAnna19.02.1929Melk, synowieRoman06.10.1946 iErnest20.11.1947Scheibbe(Austria). Miejsce urodzenia ojca wygląda jakRezegno; nie utożsamiać automatycznie zRogóźnem. Wspólny numer1058739. Dokumentacja transportuUSSGeneralStewart doAustralii, początek1950.
