@@ -45,6 +45,10 @@ remote_ps={p['id']:p for p in remote['people']}
 for ident,fields in imported['imported_data_fields'].items():
  for key in fields:assert ps[ident][key]==remote_ps[ident][key],(ident,key)
 assert hashlib.sha256((ROOT/imported['photo_path']).read_bytes()).hexdigest()==imported['photo_sha256']
+son=json.loads((HERE/'zrodla/hosting_son_import.json').read_text())
+assert hashlib.sha256((ROOT/son['photo_path']).read_bytes()).hexdigest()==son['photo_sha256']
+latest=(HERE/'zrodla/hosting12fe365.html').read_text();latest=json.loads(latest.split('<script id="family-data" type="application/json">')[1].split('</script>')[0].replace('<\\/','</'))
+assert ps['C71']['photo']==next(p for p in latest['people'] if p['id']=='C71')['photo']
 for p in d['people']:
  for source in p.get('source',[]):assert source in d['sources'],(p['id'],source)
 for edge,rel in zip(d['edges'],d['relations']):assert edge==[rel['a'],rel['b'],rel['kind']]

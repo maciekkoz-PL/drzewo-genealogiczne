@@ -1715,7 +1715,15 @@
           "source": "S184",
           "query": "Mildura, Victoria, Australia"
         }
-      ]
+      ],
+      "photo": {
+        "src": "assets/roman-syn-naa.jpg",
+        "source": "S184",
+        "caption": "Roman Chmielewski (ur. 06.10.1946) — fotografia z karty migracyjnej z 1950 r. National Archives of Australia, A2571, item 203670397. Pokrewieństwo z rodziną Marysi pozostaje hipotezą H035.",
+        "viewBox": "2480 100 650 880",
+        "width": 3200,
+        "height": 2000
+      }
     },
     {
       "id": "C72",

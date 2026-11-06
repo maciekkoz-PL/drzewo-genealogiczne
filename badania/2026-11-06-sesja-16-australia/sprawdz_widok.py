@@ -19,7 +19,7 @@ with sync_playwright() as pw:
   assert page.locator('.node[data-id="C79"]').count()==(1 if level==3 else 0);counts.append(dict(level=level,people=persons,edges=edges))
  page.wait_for_function('document.querySelector(\'.node[data-id="C69"] img\')?.naturalWidth>0')
  page.select_option('#people','C69');assert page.locator('#detail .person-photo img').count()==1 and page.locator('#detail a[href*="maps"]').count()>0;page.locator('#close').click()
- page.select_option('#people','C71');assert page.locator('#detail a[href*="maps"]').count()>0;page.locator('#close').click()
+ page.select_option('#people','C71');assert page.locator('#detail a[href*="maps"]').count()>0 and page.locator('#detail .person-photo svg image').count()==1;page.locator('#close').click()
  for ident in ['C75','C79','C81','C82','C84','C86','C88','C94']:
   page.select_option('#people',ident);s=page.locator('#detail').inner_text()
   assert page.locator('#detail a[href*="mytributes"],#detail a[href*="dailytelegraph"],#detail a[href*="gct.net.au"]').count()>0

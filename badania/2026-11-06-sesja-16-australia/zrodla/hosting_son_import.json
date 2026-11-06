@@ -1,0 +1,11 @@
+{
+  "source_commit": "12fe36549adda951315891e1910bf20820d03f4e",
+  "imported_fields": {
+    "C71": [
+      "photo"
+    ]
+  },
+  "photo_sha256": "f22a3d83288e7b7dc1057cd11fb6341441caa69a02203f0b3b40b997b992f0ee",
+  "photo_path": "witryna/public/assets/roman-syn-naa.jpg",
+  "note": "Kolejna zastana aktualizacja źródła hostingu: portret synaRomana zS184 i obsługaSVG. Zachowano dane badawcze oraz etykiety niejednoznacznych relacji."
+}

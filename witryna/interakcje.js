@@ -132,7 +132,7 @@ function relativeStatus(personId,relative){
  if(r?.level===2)return 'przekaz rodzinny';
  return '';
 }
-const portrait=p=>p.photo?`<div class="portrait"><img src="${esc(p.photo.src)}" alt="Portret: ${esc(p.name)}" loading="lazy"></div>`:'';
+const portrait=p=>p.photo?`<div class="portrait">${p.photo.viewBox?`<svg viewBox="${esc(p.photo.viewBox)}" role="img" aria-label="Portret: ${esc(p.name)}"><image href="${esc(p.photo.src)}" width="${p.photo.width}" height="${p.photo.height}" /></svg>`:`<img src="${esc(p.photo.src)}" alt="Portret: ${esc(p.name)}" loading="lazy">`}</div>`:'';
 femaleIds.add('C81'); // Rose jest wymieniona jako żona Raya.
 function openPerson(id){
  const p=byId[id];if(!p)return;

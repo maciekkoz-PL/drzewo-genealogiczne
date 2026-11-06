@@ -215,6 +215,11 @@
     "sha256": "7ad230ec1961e8406a8bac61bafd1fa576d509b2ba7ca048135757f4025534e0"
   },
   {
+    "path": "zrodla/hosting12fe365.html",
+    "bytes": 138046,
+    "sha256": "533c386fd9701be022f603fcf379c6dac7c470338e0ec3c6b04db27201c94400"
+  },
+  {
     "path": "zrodla/hosting20.html",
     "bytes": 137456,
     "sha256": "1700d669e56f391ca8e8e2973e4519a06b10844bb786a1f95732328cc7ba44a4"
@@ -223,6 +228,11 @@
     "path": "zrodla/hosting20_import.json",
     "bytes": 660,
     "sha256": "2e12a6882ffce650bc782675c48e530d9ee92ae300aaaa49da141723b3abd9b7"
+  },
+  {
+    "path": "zrodla/hosting_son_import.json",
+    "bytes": 439,
+    "sha256": "a1c85e5ce32da67862e6edf628ac299df60a0596751ddf2b7d8208536ed3ee51"
   },
   {
     "path": "zrodla/kwerendy_i_odczyty_01.json",

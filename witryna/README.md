@@ -28,7 +28,7 @@ Adres: https://korzenie-marysi.maciekkoz187874.chatgpt.site
 
 Użytkownik 05.11.2026 wybrał publiczny link, a następnie wyraźnie dopuścił publikację znanych danych żyjących krewnych. Nowsza decyzja zastępuje początkowe ograniczenie do anonimowych kart mamy i kuzyna. Repozytorium badań pozostaje prywatne. Hosting otrzymuje tylko statyczny plik strony i konfigurację; nie otrzymuje Excela, ZIP, fotografii rodzinnych, dzienników ani pełnej historii repozytorium badań.
 
-`public/index.html` zawiera wygląd, dane i interakcje. Portret dodany w wersji20 jest w `public/assets/roman-australia-naa.jpg`; do pobrania lub publikacji ze zdjęciem zachować również ten plik. Strona nie pobiera bibliotek, fontów, analityki ani prywatnych plików z zewnętrznych serwisów. Źródła publicznych skanów otwierają się dopiero po kliknięciu. Meta robots noindex nie stanowi zabezpieczenia dostępu: witryna jest publiczna.
+`public/index.html` zawiera wygląd, dane i interakcje. Portrety są w `public/assets/roman-australia-naa.jpg` i `public/assets/roman-syn-naa.jpg`; przy pobieraniu lub publikacji zachować również te pliki. Strona nie pobiera bibliotek, fontów, analityki ani prywatnych plików z zewnętrznych serwisów. Źródła publicznych skanów otwierają się dopiero po kliknięciu. Meta robots noindex nie stanowi zabezpieczenia dostępu: witryna jest publiczna.
 
 ## Aktualizacja po kolejnej sesji
 

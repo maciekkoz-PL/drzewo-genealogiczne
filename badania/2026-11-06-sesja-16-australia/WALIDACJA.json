@@ -1,6 +1,6 @@
 {
   "result": "PASS",
-  "at_utc": "2026-11-06T17:45:34.784280+00:00",
+  "at_utc": "2026-11-06T17:48:47.756521+00:00",
   "baseline_commit": "4b4141e5ee76d2c8488b32cba581c6913ded5524",
   "sheets": 23,
   "counts": {
@@ -254,8 +254,8 @@
   "no_invented_biological_roles": true,
   "no_invented_surnames": true,
   "current_life_not_claimed": true,
-  "source_files": 64,
-  "source_bytes": 45630131,
+  "source_files": 66,
+  "source_bytes": 45768616,
   "web_queries": 33,
   "firecrawl_searches": 16,
   "firecrawl_scrapes_basic": 3
