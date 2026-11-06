@@ -1,0 +1,92 @@
+[
+  {
+    "path": "badania/2026-11-06-linia-matki/KONTROLA_INDEKSOW.md",
+    "size": 3174,
+    "sha256": "c88abb51205ab0576b8ed7b73385a3d36875f2cbd65bfea8a7a3fd1755a0ca93"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/MAPOWANIE_ID.json",
+    "size": 1967,
+    "sha256": "99c833df1ad6966922346160d3fd4e782989a8ea29e52717febbe391820a243e"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/PRZEKAZANIE_DO_CODEX.md",
+    "size": 8978,
+    "sha256": "988b130dbe564d2f000acfc3c2b9fe3c71a6048c27d128175f2d71c156f4e897"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/README.md",
+    "size": 6134,
+    "sha256": "98382bd21a3ce42d97352c6436233e300ff615a35a37aa05fe57cee2e8ba66de"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/dzieci_kulasow_indeksy.csv",
+    "size": 1340,
+    "sha256": "5f408f8e988cb87f3d0285ff3cdc1a91c49204e475c783651c904e6035e08e99"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/linia_matki.json",
+    "size": 19975,
+    "sha256": "702bf710043bbb27aac52ac9303aab68b453e4e5121800d51ce24bb3fde68f3b"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/nagrobek_strzegowo.csv",
+    "size": 503,
+    "sha256": "f7ef89d16f3e9509d0f8751bb6c7e6ac79dec02e5789a0c859b0fedc8dc399ff"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/osoby.csv",
+    "size": 2556,
+    "sha256": "df7a2cd3c9a7f6c9494e4fd00b1c28b05736e304ca46adde338d9dcf86131d44"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/relacje.csv",
+    "size": 1913,
+    "sha256": "e7ce35f7c3fbede5bb9426c8246691eab7ff0d3e4545ba1b49ab26c6a327c837"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/tropy_aktowe.csv",
+    "size": 981,
+    "sha256": "b894541b8391e0ed66520fcdc01fb267b918597b07200a8d8d760570325866bd"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/zrodla.csv",
+    "size": 2160,
+    "sha256": "dde26783c3e9da18e86334f7326c9bed1a3262f8ea7457aa3e3e8a1786c12eac"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/manifest.json",
+    "size": 630,
+    "sha256": "afb708c0849afbb6077c5c8108f709aa7fb761237f49d2f9b2267c9c2297fe62"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zdjecia/README.md",
+    "size": 1337,
+    "sha256": "4743669ff218ac5926c93ed252f34c751d50742450c9380db17a5ea3f5ad0519"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/idx1859.json",
+    "size": 14726,
+    "sha256": "6dbe86b284c86462efd90f7d706df5537399514e34852ca25b542f317ea4619c"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/idx1873.json",
+    "size": 14795,
+    "sha256": "5ef48d7ef8dd6a8fb36528678371e216a5644f997c66fae3d2de2599ddcb80cd"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/idx1894.json",
+    "size": 14899,
+    "sha256": "ed1809ec41a322c8f7f840b542c1ecec7abadfc87e2ee794ae3636d98b3ba75e"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/idx1910.json",
+    "size": 14784,
+    "sha256": "4fe226dfae132e6b85167ab52e4538e23ff330e39f0b4a1d67fddc275a5c0c92"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/idxchildren.json",
+    "size": 21087,
+    "sha256": "a94e165e3560d6410b3ac7c3fb687cfefce6b9afd6b9254968238b1089011cd3"
+  }
+]

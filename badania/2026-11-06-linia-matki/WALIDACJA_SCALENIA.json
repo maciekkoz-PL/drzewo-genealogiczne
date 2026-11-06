@@ -1,0 +1,126 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T08:14:33.221114+00:00",
+  "baseline": "b86519ced59d9ad205a79307763b9cb5572ddc31",
+  "sheets": 21,
+  "old_record_cells_compared": 4863,
+  "permitted_cell_changes": [
+    [
+      "RDZEN_RODZINY",
+      "P17",
+      6
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P17",
+      9
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P17",
+      10
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      4
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      5
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      6
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      7
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      8
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      9
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      10
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P18",
+      11
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      2
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      4
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      5
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      6
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      7
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      8
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      9
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      10
+    ],
+    [
+      "RDZEN_RODZINY",
+      "P19",
+      11
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      "S086",
+      11
+    ]
+  ],
+  "all_old_ids_preserved": true,
+  "P12_unchanged_P17_P18_P19_unique": true,
+  "R018_R019_unchanged": true,
+  "all_new_relations_family_only": true,
+  "C45_not_merged_with_P19": true,
+  "C43_C44_no_parent_or_marriage_edges": true,
+  "H017_preserved": true,
+  "both_original_ZIPs_byte_identical": true,
+  "raw_handoff_byte_identical": true,
+  "grave_JPEG_status": "oczekuje na oryginalny JPEG",
+  "new_grave_JPEG_count": 0,
+  "index_rows_not_original_acts": true
+}

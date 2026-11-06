@@ -1,6 +1,6 @@
 # Rejestr zbadanych źródeł i prób dostępu
 
-Aktualny wykaz wszystkich 105 rekordów z bazy po etapie 03. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
+Aktualny wykaz 134 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
 
 [Najnowsza ocena dowodu i luka H017](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [dokładny zakres nowych odczytów](badania/2026-11-05-sesja-03-polaczenie/AROLSEN_ODCZYTY.md).
 
@@ -154,3 +154,19 @@ Etap07: [rodzeństwo, C42 i granice dowodu](badania/2026-11-06-sesja-07-rodzenst
 
 
 Etap08: [uzupełnienie rodziców Marii z istniejącego S086 i audyt granic dostępu](badania/2026-11-06-sesja-08-pelne-drzewo/STATUS.md). Rodzeństwo w widoku rozszerzonym pozostaje hipotezami; innych czatówChatGPTnie przeszukano.
+
+
+## Linia matki — suplement06.11.2026
+
+[Raport, mapowanie i brakujące akty](badania/2026-11-06-linia-matki/README.md). S086 potwierdza również Marię04.01.1942 Strzegowo oraz jej rodziców: Romana Jankowskiego i Annę z domu Kulas. P17/P18/P19 i R018/R019 już istniały. REL-009: rodzeństwo Marii i małżeństwo Romana/Anny; REL-010: rodzice Anny Józef/Konstancja Kulas. To przekazy z pakietu, nie odczyt innych rozmów ChatGPT.
+
+| ID | Źródło | Stan i granica dowodu | Kopia / odczyt |
+| --- | --- | --- | --- |
+| S127 | Pakiet uzupełniający linię matki — Marysia_LINIA_MATKI_repo_ready_2026-11-06.zip; PAKIET WTÓRNY / PRZEKAZ | ODCZYTANO INSTRUKCJĘ, JSON I CSV; SPRAWDZONO CRC ZIP. Suplement, nie nowa baza; nie wszystkie twierdzenia są faktami. Zdjęć brak. | [odczyt](badania/2026-11-06-linia-matki/PRZEKAZANIE_DO_CODEX.md) |
+| S128 | Grób Jankowskich — cztery inskrypcje, przekazany odczyt — 4F72A452-6F93-446F-A30E-F0B58131AEC5.jpeg — nazwa, nie plik; TRANSKRYPCJA FOTOGRAFII — BRAK ORYGINAŁU | ODCZYTANO TRANSKRYPCJĘ W PAKIECIE; OCZEKUJE NA ORYGINALNY JPEG. Nie oglądano w tej sesji zdjęcia. Ave Maria nie jest osobą. Wiek nie daje dokładnej daty urodzenia; tablica nie podaje więzi i nazwisk rodowych. Strzegowo z REL-009. | [odczyt](badania/2026-11-06-linia-matki/dane/nagrobek_strzegowo.csv) |
+| S129 | Indeks ślubu Józefa Kulasa i Konstancji Gralewicz — Strzegowo;16/1894; [INDEKS — NIE SKAN](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5728&search_lastname=Kulas&search_lastname2=Gralewicz&from_date=1894&to_date=1894) | ODCZYTANO WIERSZ INDEKSU06.11.2026. Rodzice pana: Andrzej i Antonina Konopka; panny: Maciej i Teresa Dąbrowska. Brak aktu; identyfikacja z P22/P23 w H024. | [odczyt](badania/2026-11-06-linia-matki/zrodla/idx1894.json) |
+| S130 | Indeks urodzenia Józefa Kulasa — Strzegowo;55/1859; [INDEKS — NIE SKAN](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5727&bdm=B&search_lastname=Kulas&from_date=1859&to_date=1859) | ODCZYTANO WIERSZ INDEKSU06.11.2026. Parafia i miejscowość Strzegowo, rodzice Andrzej/Antonina Konopka. Nie jest dowodem tożsamości P22. | [odczyt](badania/2026-11-06-linia-matki/zrodla/idx1859.json) |
+| S131 | Indeks urodzenia Konstancji Gralewicz — Strzegowo;60/1873; Prusocin; [INDEKS — NIE SKAN](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5727&bdm=B&search_lastname=Gralewicz&from_date=1873&to_date=1873) | ODCZYTANO WIERSZ INDEKSU06.11.2026. Parafia Strzegowo, miejscowość Prusocin, rodzice Maciej/Teresa Dąbrowska. Nie utożsamiono z P23. | [odczyt](badania/2026-11-06-linia-matki/zrodla/idx1873.json) |
+| S132 | Indeks urodzenia Julianny Anny Kulas — Strzegowo;18/1910; [INDEKS — NIE SKAN](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5727&bdm=B&search_lastname=Kulas&from_date=1910&to_date=1910) | ODCZYTANO WIERSZ INDEKSU06.11.2026. Rodzice Józef/Konstancja Gralewicz. C45 NIE została utożsamiona z Anną P19. | [odczyt](badania/2026-11-06-linia-matki/zrodla/idx1910.json) |
+| S133 | Indeksy dzieci Kulas/Gralewicz1895–1913 — Strzegowo;94/1895;9/1898;20/1901;70/1904;55/1906;18/1910;50/1913; [INDEKS — NIE SKANY](https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&w=07mz&rid=5727&bdm=B&search_lastname=Kulas&search_lastname2=Gralewicz&from_date=1895&to_date=1913) | ODCZYTANO WIERSZE INDEKSU06.11.2026. Siedmioro dzieci pary Józef/Konstancja. W wynikach także odrębne dzieci Józefa/Franciszki Gralewicz — nie mieszać matek ani pokoleń. | [odczyt](badania/2026-11-06-linia-matki/zrodla/idxchildren.json) |
+| S134 | Kontrola katalogów Strzegowo / Strzegowa — Geneteka07mz rid5727/5728/5729; Skanoteka1541 zespół1119d; [KATALOG / GEOGRAFIA](https://skanoteka.genealodzy.pl/id1541) | ODCZYTANO KATALOGI; NIE AKTY. id1541 to Strzegowa, małopolskie, powiat olkuski. Właściwe indeksy odczytano w Strzegowie mazowieckim. Nie przenosić linków pomiędzy parafiami. | [odczyt](badania/2026-11-06-linia-matki/KONTROLA_INDEKSOW.md) |

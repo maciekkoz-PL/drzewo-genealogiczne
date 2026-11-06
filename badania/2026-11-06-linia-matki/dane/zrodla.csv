@@ -1,0 +1,10 @@
+﻿id;nazwa;rodzaj;url_lub_lokalizacja;status;zakres_i_ograniczenia
+S086;Odpis skrócony aktu ślubu 1982, II-1592/1982;"oryginalny dokument na fotografii użytkownika; odczyt w GitHub";https://github.com/maciekkoz-PL/drzewo-genealogiczne/blob/main/badania/2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md;Odczyt repo, sam obraz odpisu nie jest w obecnym repo;Uznane: Maria 1942 Strzegowo, rodzice Roman Jankowski i Anna Kulas, Bogusław, ślub 1982
+MAT-FOTO-01;Rodzinny grób Jankowskich w Strzegowie;fotografia przesłana przez użytkownika 02.11.2026;;"Obraz obejrzany; oryginalny JPEG nie trafił do nowego ZIP";4 inskrypcje, daty zgonów i wiek, bez potwierdzenia pokrewieństwa wszystkich pochowanych
+MAT-REL-01;Relacja rodzinna użytkownika 02.11.2026;rozmowa ChatGPT;;Przekaz, brak aktów rodzeństwa;"Roman i Anna mieszkali w Strzegowie i są tam pochowani; Maria Andrzej Teresa ich dzieci"
+MAT-REL-02;Przekaz rodziny o Józefie i Konstancji Kulasach;rozmowa ChatGPT z 02.11.2026;;Przekaz o genealogii + dopasowanie indeksu;Józef i Konstancja Kulas przodkami, Konstancja zd. Gralewicz z indeksu
+MAT-IDX-01;Ślub Józef Kulas / Konstancja Gralewicz 16/1894;indeks historycznie odnaleziony;https://geneteka.genealodzy.pl/;Brak ponownego odczytu w tym przekazaniu;Koniecznie zweryfikować właściwą parafię i skan
+MAT-IDX-02;Urodzenie Józef Kulas 55/1859;indeks historycznie odnaleziony;https://geneteka.genealodzy.pl/;Brak ponownego odczytu w tym przekazaniu;Koniecznie zweryfikować właściwą parafię i skan
+MAT-IDX-03;Urodzenie Konstancji Gralewicz 60/1873;indeks historycznie odnaleziony;https://geneteka.genealodzy.pl/;Brak ponownego odczytu w tym przekazaniu;Koniecznie zweryfikować właściwą parafię i skan
+MAT-IDX-04;Urodzenie Julianny Anny Kulas 18/1910;indeks historycznie odnaleziony;https://geneteka.genealodzy.pl/;Brak ponownego odczytu w tym przekazaniu;Nie utożsamiać z Anną Jankowską
+MAT-CONTEXT-01;Historyczny schemat gałęzi matczynej;grafika Drzewo_Marysi_Matka.png;;Wcześniejszy diagram zawiera hipotezy, nie służy jako dowód;Uwaga z grafiki o niepotwierdzonym utożsamieniu Anny / Julianny
