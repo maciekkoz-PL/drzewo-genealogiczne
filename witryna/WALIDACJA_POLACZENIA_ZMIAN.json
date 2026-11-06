@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "canonical_research_commit": "3b3a217",
+  "existing_canonical_records_preserved": true,
+  "only_existing_relation_changes": [
+    "R009",
+    "R017"
+  ],
+  "new_family_confirmation": "REL-011",
+  "new_log": "L106",
+  "no_duplicate_maternal_import": true,
+  "all_21_sheets_preserved": true,
+  "both_histories_preserved_in_merge": true
+}

@@ -1,0 +1,24 @@
+{
+  "at_utc": "2026-11-06T08:18:07.782337+00:00",
+  "static_validation": "PASS",
+  "html_sha256": "370d171637480f333ef30fa203ecc9673ab652a749cbf447030fb6eb8c7e8b02",
+  "full_nodes": 25,
+  "documented_nodes": 13,
+  "maternal_full_nodes": 8,
+  "maternal_documented_nodes": 4,
+  "news": 6,
+  "private_artifacts_in_html": false,
+  "original_grave_JPEG_present": false,
+  "browser_QA": "not_run",
+  "reason": "Sites managed environment: cua_repl.js unavailable; browser QA skipped per Sites skill. Updated existing browser regression script for next supported execution.",
+  "checks": [
+    "generator completed",
+    "unique IDs",
+    "all edge endpoints exist",
+    "all source IDs exist",
+    "new family branches excluded from documented filter",
+    "no confirmed edges for grave candidates",
+    "no XLSX/ZIP/private paths or images in HTML",
+    "node --check interakcje.js"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
+  "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_a79a639d12ec8191ba69855911a80c8d",
+  "version_number": 6,
+  "hosting_commit": "ad058b807b4ed1c2df001d34736b87c49cac1ed5",
+  "archive": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_00000000b09082109844d31709be01a0",
+    "content_hash": "sha256:05834130cb771ae280377ee04e435ae191d453dbe15cb5f523977f17f5c5d830",
+    "size_bytes": 40960,
+    "file_count": 2
+  },
+  "deployment_id": "appgdep_6aed8d9c1a50819197ab8f12b462c328",
+  "status": "succeeded",
+  "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
+  "updated_at": "2026-11-06T08:19:50.735439+00:00",
+  "research_commit": "eeea4ee13194fced879518918962ea5ecd94ed36",
+  "site_source_commit": "b034a80",
+  "public_files_only": [
+    ".openai/hosting.json",
+    "dist/index.html"
+  ],
+  "family_photos_or_USC_images_published": false,
+  "browser_QA": "not_run; cua_repl.js unavailable; static checks passed",
+  "http_verification": {
+    "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
+    "status": 200,
+    "verified_at_utc": "2026-11-06T08:21:03.589458+00:00",
+    "public_cards": 25,
+    "news": 6,
+    "body_sha256": "370d171637480f333ef30fa203ecc9673ab652a749cbf447030fb6eb8c7e8b02",
+    "exact_local_HTML_match": true,
+    "browser_render_test": false
+  }
+}

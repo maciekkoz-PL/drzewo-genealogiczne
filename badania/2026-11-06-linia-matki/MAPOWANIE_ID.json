@@ -1,61 +1,72 @@
 {
-  "people": {
+  "persons": {
     "MAT-P01": "P17",
     "MAT-P02": "P18",
     "MAT-P03": "P19",
     "MAT-P04": "P20",
     "MAT-P05": "P21",
-    "MAT-P06": "P22",
-    "MAT-P07": "P23",
+    "MAT-P06": "P22 (relacja); C56 (kandydat1859)",
+    "MAT-P07": "P23 (relacja); C57 (kandydat1873)",
     "MAT-P08": "C43",
     "MAT-P09": "C44",
     "MAT-P10": "C46",
     "MAT-P11": "C47",
     "MAT-P12": "C48",
     "MAT-P13": "C49",
-    "MAT-C01": "C45",
-    "P01": "P01"
-  },
-  "children_indexes": {
-    "Władysław Kulas": "C50",
-    "Marianna Kulas": "C51",
-    "Józef Kulas": "C52",
-    "Zofia Kulas": "C53",
-    "Stanisława Kulas": "C54",
-    "Julianna Anna Kulas": "C45",
-    "Jan Piotr Kulas": "C55"
+    "MAT-C01": "C45"
   },
   "sources": {
     "S086": "S086",
     "MAT-FOTO-01": "S128",
-    "MAT-REL-01": "S129",
-    "MAT-REL-02": "S130",
-    "MAT-IDX-01": "S131",
-    "MAT-IDX-02": "S131",
+    "MAT-REL-01": "REL-009",
+    "MAT-REL-02": "REL-010",
+    "MAT-IDX-01": "S129",
+    "MAT-IDX-02": "S130",
     "MAT-IDX-03": "S131",
-    "MAT-IDX-04": "S131",
-    "MAT-CONTEXT-01": "S131"
+    "MAT-IDX-04": "S132",
+    "MAT-CONTEXT-01": "S127 (opis brakującego diagramu; nie plik)"
   },
   "relations": {
-    "MAT-R01": "R018",
-    "MAT-R02": "R019",
-    "MAT-R17": "R017",
+    "MAT-R01": "R018 (istniejąca)",
+    "MAT-R02": "R019 (istniejąca)",
     "MAT-R03": "R020",
     "MAT-R04": "R021",
     "MAT-R05": "R022",
     "MAT-R06": "R023",
     "MAT-R07": "R024",
     "MAT-R08": "R025",
-    "MAT-R09": "R026",
-    "MAT-R10": "R027",
-    "MAT-R11": "R028",
-    "MAT-R12": "R029",
-    "MAT-R13": "R030",
-    "MAT-R14": "R031",
-    "MAT-R15": "R032",
-    "MAT-R16": "R033"
+    "MAT-R09": "R026 (wyłącznie przekaz)",
+    "MAT-R10": "H024 / R027 tylko zREL-010; indeks16/1894nieprzypisany",
+    "MAT-R11": "H021 (bez relacji)",
+    "MAT-R12": "H022 (bez relacji)",
+    "MAT-R13": "C46/C56: opis indeksu, bez relacji rodzinnej",
+    "MAT-R14": "C47/C56: opis indeksu, bez relacji rodzinnej",
+    "MAT-R15": "C48/C57: opis indeksu, bez relacji rodzinnej",
+    "MAT-R16": "C49/C57: opis indeksu, bez relacji rodzinnej",
+    "MAT-R17": "R017 (istniejąca, REL-007; uzupełnienie REL-009)"
   },
-  "additional_relation": "R034 C45/P19possibleidentity",
-  "source_commit": "b86519ced59d9ad205a79307763b9cb5572ddc31",
-  "original_jpeg_present": false
+  "children": {
+    "Władysław Kulas": "C50",
+    "Marianna Kulas": "C51",
+    "Józef Kulas": "C52",
+    "Zofia Kulas": "C53",
+    "Stanisława Kulas": "C54",
+    "Jan Piotr Kulas": "C55",
+    "Julianna Anna Kulas": "C45"
+  },
+  "next_ids": {
+    "P": "P24",
+    "S": "S135",
+    "C": "C58",
+    "R": "R028",
+    "E": "E053",
+    "L": "L106",
+    "Q": "Q68",
+    "F": "F79",
+    "H": "H025",
+    "REL": "REL-011",
+    "T": "T34"
+  },
+  "base_commit": "b86519ced59d9ad205a79307763b9cb5572ddc31",
+  "photos_original_present": false
 }
