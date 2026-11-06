@@ -1,0 +1,34 @@
+[
+  {
+    "key": "garbow1932",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=6445&per_page=100&page=0",
+    "status": 200,
+    "size": 82759,
+    "sha256": "c04e74470603c6a0aede51494057565168715d6b0b1a0ce8eb50c1ad51bd893b",
+    "at_utc": "2026-11-06T13:21:01.905725+00:00"
+  },
+  {
+    "key": "emilia_mandziuk",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=wyniki&name=Emilia+Mandziuk&submit=Szukaj",
+    "status": 200,
+    "size": 60211,
+    "sha256": "d194e4afb5e21dab1d5cda7ce08bcb9a6ed383e671627116b6d8b24a827872a7",
+    "at_utc": "2026-11-06T13:21:02.326146+00:00"
+  },
+  {
+    "key": "emilia_mandziuk_accent",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=wyniki&name=Emilia+Ma%C5%84dziuk&submit=Szukaj",
+    "status": 200,
+    "size": 60211,
+    "sha256": "d194e4afb5e21dab1d5cda7ce08bcb9a6ed383e671627116b6d8b24a827872a7",
+    "at_utc": "2026-11-06T13:21:01.938714+00:00"
+  },
+  {
+    "key": "jozef_mandziuk",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=wyniki&name=J%C3%B3zef+Mandziuk&submit=Szukaj",
+    "status": 200,
+    "size": 67974,
+    "sha256": "a969ebf8a342eabea0782b685996f6d8bc771085833c142d41e76a918ba1f431",
+    "at_utc": "2026-11-06T13:21:02.377338+00:00"
+  }
+]

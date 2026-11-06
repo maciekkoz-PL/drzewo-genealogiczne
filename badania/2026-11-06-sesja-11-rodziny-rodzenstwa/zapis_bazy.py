@@ -1,3 +1,4 @@
+# UWAGA ETAP12/Q79: historyczny zapis odczytu33lat był błędny; poprawny35lat, DOB22.07.1897. Nie uruchamiać tej migracji ponownie.
 """Jednorazowy zapis etapu11; poprzedni stan zachowany w Git 890fb62."""
 from pathlib import Path
 from copy import copy

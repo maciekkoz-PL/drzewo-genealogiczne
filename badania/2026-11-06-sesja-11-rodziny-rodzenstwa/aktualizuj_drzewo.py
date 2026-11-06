@@ -1,3 +1,4 @@
+# UWAGA ETAP12/Q79: historyczny zapis odczytu33lat był błędny; poprawny35lat, DOB22.07.1897. Nie uruchamiać tej migracji ponownie.
 """Jednorazowa redakcja publiczna: bez wskazówki zdrowotnej z REL-013."""
 from pathlib import Path
 from copy import copy

@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/c07a9fd88a54463d6f84d279f3c376a637f7814d3f5de061aa28a624503618d2_max",
+    "status": 200,
+    "size": 212,
+    "type": "text/html",
+    "access_utc": "2026-11-06T13:29:06.556655+00:00",
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 108585,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T13:29:06.903846+00:00",
+    "sha256": "3b091c8c07a4fb6aef005d8979d21730496dea0ae75863d4d20a0a019e28c6f5"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=1775109237149832716,1234201017830892146,16990024983311383518,139329",
+    "status": 200,
+    "size": 29,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T13:29:07.183326+00:00",
+    "sha256": "558a8ed81355f3cdfc69e59973acfc8550afd2f57c7c0edd91e1375b605bc15b"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/c07a9fd88a54463d6f84d279f3c376a637f7814d3f5de061aa28a624503618d2_max",
+    "status": 200,
+    "size": 2788497,
+    "type": "image/jpeg",
+    "access_utc": "2026-11-06T13:29:08.789407+00:00",
+    "sha256": "3e584ba6facaab74729253f7cb52453cd935ae4b0145749b005cbdeaacd6e343"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.27953592627338464",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T13:29:09.382416+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  }
+]

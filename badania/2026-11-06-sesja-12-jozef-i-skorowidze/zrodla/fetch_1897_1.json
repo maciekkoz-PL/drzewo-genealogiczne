@@ -1,0 +1,17 @@
+[
+  {
+    "position": 35,
+    "url": "https://photos.szukajwarchiwach.gov.pl/6160971b1bb7c44b6d8873b01daa2e425f2926b4026f92854b01d34887d81cb9_max",
+    "error": "cannot identify image file 'work/s12/1897_35.jpg'"
+  },
+  {
+    "position": 40,
+    "url": "https://photos.szukajwarchiwach.gov.pl/013fb58dccf26553a346f6121907c78903aea24a23021771539e6e4f76c4c56a_max",
+    "error": "cannot identify image file 'work/s12/1897_40.jpg'"
+  },
+  {
+    "position": 45,
+    "url": "https://photos.szukajwarchiwach.gov.pl/4ed49dac6363250aaeb66c201030766b2515e5deb38f7c83a5463796a0462ae6_max",
+    "error": "cannot identify image file 'work/s12/1897_45.jpg'"
+  }
+]

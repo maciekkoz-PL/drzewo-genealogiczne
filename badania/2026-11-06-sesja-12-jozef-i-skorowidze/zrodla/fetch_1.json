@@ -1,0 +1,18 @@
+[
+  {
+    "key": "grobonet_start",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php",
+    "status": 200,
+    "size": 61337,
+    "sha256": "0301321e82d43a355cb7c9d2fe0243883f6416dfb25b97f397403c003a41e437",
+    "at_utc": "2026-11-06T13:20:31.682803+00:00"
+  },
+  {
+    "key": "garbow_albums",
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getList&cat_id=5395&recursive=true",
+    "status": 200,
+    "size": 41443,
+    "sha256": "89a2942213e31c04129db6253be6fbca702472d1fe7da822aee3f158b7b38bfd",
+    "at_utc": "2026-11-06T13:20:31.703507+00:00"
+  }
+]

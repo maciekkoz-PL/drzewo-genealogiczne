@@ -1,3 +1,5 @@
+**Uzupełnione w etapie12:** Józef ur.22.07.1897, wiek35, S166. Przeczytano pełne skorowidze1933–1938(614pozycji); cmentarz komunalny Tomaszowa i alegatyGarbów1932 sprawdzone w opisanym zakresie. ID wolne i dalsze kroki w [nowszym planie](../2026-11-06-sesja-12-jozef-i-skorowidze/PLAN_KONTYNUACJI.md). Poniższy plan jest historyczny.
+
 # Kontynuacja: małżonkowie i dzieci rodzeństwa Czesława
 
 1. **Nowy priorytet użytkownika:** rodzeństwoCzesława, szczególnie małżonkowie/dzieci. RomanP12, SabinaP26, JuliannaP27 są rodzeństwem pełnym; EmiliaP28 jest przyrodnią siostrą po Wincentym. Zapisano jej mężaJózefaMandziukaP29, ślub22.11.1932, nie20XI. Julia/JuliannaJabłońskaP30 to pierwsza żonaWincentego; C05alias. Nie wracać do stanu „wcześniejszy ślub nieodczytany”.

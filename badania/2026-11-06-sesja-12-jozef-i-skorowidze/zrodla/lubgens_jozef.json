@@ -1,0 +1,72 @@
+[
+  {
+    "key": "jozef1899",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST public read-only search",
+    "params": {
+      "urodz": "1",
+      "parafia": "",
+      "nazwisko": "Mandziuk",
+      "imie": "Józef",
+      "rok_od": "1897",
+      "rok_do": "1901",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "status": 200,
+    "rows": [
+      {
+        "cells": [
+          "Mandziuk",
+          "Józef",
+          "Tomaszów Lub.",
+          "195",
+          "1897",
+          "ślub z Emilia Chmielewska 1932r. Tomaszów Lubelski"
+        ],
+        "links": [
+          "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/10503472"
+        ]
+      }
+    ],
+    "sha256": "9decbcded332bba23f40514c16eab1056e98cca86357f9f400887af701e55cfc",
+    "at_utc": "2026-11-06T13:26:51.428911+00:00"
+  },
+  {
+    "key": "jozef1899_accent",
+    "url": "https://regestry.lubgens.eu/viewpage.php?page_id=1057",
+    "method": "POST public read-only search",
+    "params": {
+      "urodz": "1",
+      "parafia": "",
+      "nazwisko": "Mańdziuk",
+      "imie": "Józef",
+      "rok_od": "1897",
+      "rok_do": "1901",
+      "wildmode": "1",
+      "sort1": "5",
+      "sort2": "1",
+      "sort3": "3"
+    },
+    "status": 200,
+    "rows": [
+      {
+        "cells": [
+          "Mandziuk",
+          "Józef",
+          "Tomaszów Lub.",
+          "195",
+          "1897",
+          "ślub z Emilia Chmielewska 1932r. Tomaszów Lubelski"
+        ],
+        "links": [
+          "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/10503472"
+        ]
+      }
+    ],
+    "sha256": "14cb7910dfc3d4b85b42c2c0a12f990bfa3e46dbd7f832b794b4d16fb961f647",
+    "at_utc": "2026-11-06T13:26:51.842210+00:00"
+  }
+]

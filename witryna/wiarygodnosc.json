@@ -1525,13 +1525,14 @@
       "id": "P29",
       "name": "Józef Mandziuk",
       "role": "Mąż Emilii",
-      "dates": "33 lata przy ślubie 22.11.1932",
+      "dates": "22.07.1897 · data śmierci nieustalona",
       "place": "Majdan Górny · parafia Tomaszów Lubelski",
-      "note": "Rolnik, kawaler w chwili ślubu z Emilią Chmielewską. Syn Bartłomieja i Marianny z Raczkiewiczów. W indeksie występuje także zapis Mańdziuk. Dokładne daty jego urodzenia i śmierci oraz dzieci małżeństwa nie zostały ustalone.",
+      "note": "Urodzony w Majdanie Górnym, syn Bartłomieja Mandziuka i Marianny z Raczkiewiczów. Akt urodzenia 195/1897 i ślub z Emilią Chmielewską 74/1932 wskazują tych samych rodziców i wieś. Przy ślubie miał 35 lat — wcześniejszy odczyt 33 poprawiono po ponownym sprawdzeniu skanu. Rolnik, kawaler przed ślubem. W indeksie także Mańdziuk. Dzieci małżeństwa i data śmierci pozostają nieustalone.",
       "source": [
-        "S153"
+        "S153",
+        "S166"
       ],
-      "missing": "Własny akt urodzenia, późniejsze losy i dokumenty dzieci.",
+      "missing": "Późniejsze losy, data i miejsce śmierci oraz dokumenty dzieci.",
       "x": -520,
       "y": 280,
       "locations": [
@@ -2165,6 +2166,10 @@
     "REL-013": {
       "title": "Ciocia Czesia i jej syn — wspomnienie rodziny",
       "description": "Marysia pamięta Czesławę Chmielewską z Łodzi oraz jej syna mieszkającego w Niemczech. Dokładne pokrewieństwo oraz mąż Czesi pozostają nieustalone. Wiek około 100 lat w 2026 r. jest orientacyjny."
+    },
+    "S166": {
+      "title": "Józef Mandziuk — urodzenie195/1897, Tomaszów Lubelski",
+      "url": "https://www.szukajwarchiwach.gov.pl/skan/-/skan/c07a9fd88a54463d6f84d279f3c376a637f7814d3f5de061aa28a624503618d2"
     }
   },
   "relations": [

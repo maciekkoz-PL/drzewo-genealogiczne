@@ -1,0 +1,434 @@
+[
+  {
+    "key": "grobo_mandziuk",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=wyniki&name=Mandziuk&submit=Szukaj&ilosc=100",
+    "status": 200,
+    "size": 106637,
+    "sha256": "20101ea42081b8f4b6dbfafebaa5bbec7cd6a0f5c0b1452307c1d8eb0e678404",
+    "file": "grobo_mandziuk.html",
+    "at_utc": "2026-11-06T13:21:51.696385+00:00"
+  },
+  {
+    "key": "grobo_emilia",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=wyniki&name=Emilia&submit=Szukaj&ilosc=100",
+    "status": 200,
+    "size": 79376,
+    "sha256": "0378bcddc5a03e90b473b5495ea4e12a276bf24076b02617c4f250bb0c9647bd",
+    "file": "grobo_emilia.html",
+    "at_utc": "2026-11-06T13:21:51.602919+00:00"
+  },
+  {
+    "key": "jozef_8031",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=detale&idg=8031&inni=0&cinki=0",
+    "status": 200,
+    "size": 80109,
+    "sha256": "fec3ada5f3ba8b1e9c365157847f087dc30c1243ef6e36e007d64b7b5ddda060",
+    "file": "jozef_8031.html",
+    "at_utc": "2026-11-06T13:21:51.719042+00:00"
+  },
+  {
+    "key": "jozef_9474",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=detale&idg=9474&inni=0&cinki=0",
+    "status": 200,
+    "size": 80083,
+    "sha256": "583c9e357a7b9d679f0cd15878868abd635ed85ed74ee7bf415ded4ca08f56aa",
+    "file": "jozef_9474.html",
+    "at_utc": "2026-11-06T13:21:51.701003+00:00"
+  },
+  {
+    "key": "jozef_6666",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=detale&idg=6666&inni=0&cinki=0",
+    "status": 200,
+    "size": 80292,
+    "sha256": "43ed4cea2720ced360db352ea24e72b80617cfbac795f5fda75b11c4dd220c80",
+    "file": "jozef_6666.html",
+    "at_utc": "2026-11-06T13:21:51.644471+00:00"
+  },
+  {
+    "key": "jozef_928",
+    "url": "https://tomaszow.grobonet.com/grobonet/start.php?id=detale&idg=928&inni=0&cinki=0",
+    "status": 200,
+    "size": 80082,
+    "sha256": "dd9ea7f0cd0c326356855047551dc052df971d3cb2bbc3d2289e91b87a3b871e",
+    "file": "jozef_928.html",
+    "at_utc": "2026-11-06T13:21:52.312533+00:00"
+  },
+  {
+    "key": "garbow1932_001",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/001-me.jpg",
+    "status": 200,
+    "size": 68473,
+    "sha256": "2c9e3994e9f904049a5c9f71ac8ac8e4410a2976ff1dacb5aa8d97bfa4312c80",
+    "file": "garbow1932_001.jpg",
+    "at_utc": "2026-11-06T13:21:53.014856+00:00"
+  },
+  {
+    "key": "garbow1932_002",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Garbow/Alegaty/par_Garbow/1932/002-me.jpg",
+    "status": 200,
+    "size": 164828,
+    "sha256": "7dad06372c3e0ccebefef022d19758a890930d1b5cde29dfb3d30dcd88f727b4",
+    "file": "garbow1932_002.jpg",
+    "at_utc": "2026-11-06T13:21:52.475088+00:00"
+  },
+  {
+    "key": "garbow1932_003",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/003-me.jpg",
+    "status": 200,
+    "size": 173098,
+    "sha256": "b6d31a88d8a05d76aaf41f7f9e51b0717006565f021e8e3daf48c9e2cf79464e",
+    "file": "garbow1932_003.jpg",
+    "at_utc": "2026-11-06T13:21:53.503722+00:00"
+  },
+  {
+    "key": "garbow1932_004",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/004-me.jpg",
+    "status": 200,
+    "size": 139574,
+    "sha256": "06600498bd08990b69ce3e0f77bcbb7676b3005843db516e6e108a64265bc2f1",
+    "file": "garbow1932_004.jpg",
+    "at_utc": "2026-11-06T13:21:53.394601+00:00"
+  },
+  {
+    "key": "garbow1932_005",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/005-me.jpg",
+    "status": 200,
+    "size": 138056,
+    "sha256": "ee3b5d4c79dbf28be57be5728745ab021b507c0b5a7de71554787b7961811e5c",
+    "file": "garbow1932_005.jpg",
+    "at_utc": "2026-11-06T13:21:53.379092+00:00"
+  },
+  {
+    "key": "garbow1932_006",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/006-me.jpg",
+    "status": 200,
+    "size": 135529,
+    "sha256": "ec342dcd16336191e9fd7a0383cf6d662ca968f97ad3e2489799451daee6bfd0",
+    "file": "garbow1932_006.jpg",
+    "at_utc": "2026-11-06T13:21:53.502817+00:00"
+  },
+  {
+    "key": "garbow1932_007",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Garbow/Alegaty/par_Garbow/1932/007-me.jpg",
+    "status": 200,
+    "size": 170995,
+    "sha256": "23c3bf5988807734b766543b775a2078b01b05f9c3af9baa1324f3142988b2fc",
+    "file": "garbow1932_007.jpg",
+    "at_utc": "2026-11-06T13:21:53.494297+00:00"
+  },
+  {
+    "key": "garbow1932_008",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Garbow/Alegaty/par_Garbow/1932/008-me.jpg",
+    "status": 200,
+    "size": 221143,
+    "sha256": "6c594df0be2767c68893d016ffdb13dd3d8cdc638b98c165e225d1b2e1c9a3f0",
+    "file": "garbow1932_008.jpg",
+    "at_utc": "2026-11-06T13:21:53.765000+00:00"
+  },
+  {
+    "key": "garbow1932_009",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/009-me.jpg",
+    "status": 200,
+    "size": 164987,
+    "sha256": "c921d30e82fab1274d755c3394778405388046135916d53ef914b1a553e3fe5c",
+    "file": "garbow1932_009.jpg",
+    "at_utc": "2026-11-06T13:21:54.161928+00:00"
+  },
+  {
+    "key": "garbow1932_010",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/010-me.jpg",
+    "status": 200,
+    "size": 163144,
+    "sha256": "91a5256ed79e1dc6733267c269d0a9b47b0e6e2dc63edc481dc8207beafdbaff",
+    "file": "garbow1932_010.jpg",
+    "at_utc": "2026-11-06T13:21:54.319617+00:00"
+  },
+  {
+    "key": "garbow1932_011",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/011-me.jpg",
+    "status": 200,
+    "size": 168691,
+    "sha256": "6c7b342f0aeb0502f9a601404fa62df19c95f0c08da4c39adbf0d44a58441878",
+    "file": "garbow1932_011.jpg",
+    "at_utc": "2026-11-06T13:21:54.305238+00:00"
+  },
+  {
+    "key": "garbow1932_012",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Garbow/Alegaty/par_Garbow/1932/012-me.jpg",
+    "status": 200,
+    "size": 180418,
+    "sha256": "7166e889f5e61b18d89e9f9454475307772dfe47b57bcb8bc6503ea5aca9211a",
+    "file": "garbow1932_012.jpg",
+    "at_utc": "2026-11-06T13:21:53.904918+00:00"
+  },
+  {
+    "key": "garbow1932_013",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/013-me.jpg",
+    "status": 200,
+    "size": 146936,
+    "sha256": "9661f4dc218b990e663fc43bf9a7b3b80c5c996f7e7562f38e510d889dd0a7ed",
+    "file": "garbow1932_013.jpg",
+    "at_utc": "2026-11-06T13:21:54.460509+00:00"
+  },
+  {
+    "key": "garbow1932_014",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/014-me.jpg",
+    "status": 200,
+    "size": 153304,
+    "sha256": "456866d8c04ae5b8be38e581f8063afd4972c91cc6a6d6a34c359c07f8ae7a4e",
+    "file": "garbow1932_014.jpg",
+    "at_utc": "2026-11-06T13:21:54.636505+00:00"
+  },
+  {
+    "key": "garbow1932_015",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/015-me.jpg",
+    "status": 200,
+    "size": 180381,
+    "sha256": "89c580c183440f7ba1593467bff94617e63f0a7264e09c55176e51c55177695c",
+    "file": "garbow1932_015.jpg",
+    "at_utc": "2026-11-06T13:21:55.080636+00:00"
+  },
+  {
+    "key": "garbow1932_016",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/016-me.jpg",
+    "status": 200,
+    "size": 179524,
+    "sha256": "1df7bca89cd22c4eefbbd028cb8c76ef37d35160d1e9ddd7c1624a6cc45d0406",
+    "file": "garbow1932_016.jpg",
+    "at_utc": "2026-11-06T13:21:55.000311+00:00"
+  },
+  {
+    "key": "garbow1932_017",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/017-me.jpg",
+    "status": 200,
+    "size": 165761,
+    "sha256": "460ece71db94cf848ae7f69ca4c09b8311cebc2c6ef29147976324fceb92b537",
+    "file": "garbow1932_017.jpg",
+    "at_utc": "2026-11-06T13:21:55.018782+00:00"
+  },
+  {
+    "key": "garbow1932_018",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/018-me.jpg",
+    "status": 200,
+    "size": 190248,
+    "sha256": "9abf0670625e8df7cd5cb1fc291ddf61eb88052d78e15c694417f00786573d97",
+    "file": "garbow1932_018.jpg",
+    "at_utc": "2026-11-06T13:21:55.156251+00:00"
+  },
+  {
+    "key": "garbow1932_019",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/019-me.jpg",
+    "status": 200,
+    "size": 136704,
+    "sha256": "e94e6b93cac2b72f170034d9499bf93c8b95282e2533cdc2929cf62a85730521",
+    "file": "garbow1932_019.jpg",
+    "at_utc": "2026-11-06T13:21:55.313094+00:00"
+  },
+  {
+    "key": "garbow1932_020",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/020-me.jpg",
+    "status": 200,
+    "size": 165168,
+    "sha256": "acd6ed0d1d26044c648690bbf8f0ec425a214ee48e2547a4fed67a1fe9dd740a",
+    "file": "garbow1932_020.jpg",
+    "at_utc": "2026-11-06T13:21:55.705929+00:00"
+  },
+  {
+    "key": "garbow1932_021",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/021-me.jpg",
+    "status": 200,
+    "size": 168806,
+    "sha256": "1ffbfbca132cc480afdb1e5e15e0f0dd54782b3a07f1a663a5b8d64f8271110e",
+    "file": "garbow1932_021.jpg",
+    "at_utc": "2026-11-06T13:21:55.833072+00:00"
+  },
+  {
+    "key": "garbow1932_022",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/022-me.jpg",
+    "status": 200,
+    "size": 167720,
+    "sha256": "62579c4563108e87c1dd0950e884858f926592af418f71ba3848413f825bc1bd",
+    "file": "garbow1932_022.jpg",
+    "at_utc": "2026-11-06T13:21:56.149932+00:00"
+  },
+  {
+    "key": "garbow1932_023",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/023-me.jpg",
+    "status": 200,
+    "size": 168856,
+    "sha256": "3d601d91f4c1e8668e6acefde73f48c01285f5b7c305e8ee1734d6f22824b2be",
+    "file": "garbow1932_023.jpg",
+    "at_utc": "2026-11-06T13:21:56.434708+00:00"
+  },
+  {
+    "key": "garbow1932_024",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/024-me.jpg",
+    "status": 200,
+    "size": 171979,
+    "sha256": "24031d95d8d7f74c65219adc0c987cc56041097d29d09e9894ee2f23e31a7fba",
+    "file": "garbow1932_024.jpg",
+    "at_utc": "2026-11-06T13:21:56.298428+00:00"
+  },
+  {
+    "key": "garbow1932_025",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/025-me.jpg",
+    "status": 200,
+    "size": 193061,
+    "sha256": "db6e027b076d680bcc12134f645848522ef6daeb47d850c0e5973d746386d25f",
+    "file": "garbow1932_025.jpg",
+    "at_utc": "2026-11-06T13:21:56.448101+00:00"
+  },
+  {
+    "key": "garbow1932_026",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/026-me.jpg",
+    "status": 200,
+    "size": 179840,
+    "sha256": "8260fb7bc271c9ef449bdd445e0b7bd3422c98541016a33ea392adeadf96c9f0",
+    "file": "garbow1932_026.jpg",
+    "at_utc": "2026-11-06T13:21:56.723231+00:00"
+  },
+  {
+    "key": "garbow1932_027",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/027-me.jpg",
+    "status": 200,
+    "size": 168773,
+    "sha256": "614e233680c0acf1a96c1319d318505bcf1190afc04ebc679ee6d30d5ab7b575",
+    "file": "garbow1932_027.jpg",
+    "at_utc": "2026-11-06T13:21:56.842990+00:00"
+  },
+  {
+    "key": "garbow1932_028",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/028-me.jpg",
+    "status": 200,
+    "size": 181845,
+    "sha256": "e8cfe2320b84a3548f3314d0bc04f23be67bf5eb11ebe729bb3ad3e082474841",
+    "file": "garbow1932_028.jpg",
+    "at_utc": "2026-11-06T13:21:57.031664+00:00"
+  },
+  {
+    "key": "garbow1932_029",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/029-me.jpg",
+    "status": 200,
+    "size": 179873,
+    "sha256": "9ebf8366bbefd74b5a6867ed97783b189c82b09a78faeec81aa9fa2bafb425fc",
+    "file": "garbow1932_029.jpg",
+    "at_utc": "2026-11-06T13:21:57.331900+00:00"
+  },
+  {
+    "key": "garbow1932_030",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/030-me.jpg",
+    "status": 200,
+    "size": 177080,
+    "sha256": "ae480b191b19fbbc65b76d5daf59d0fa2f2b4deae27c76eb86c24479af059d6b",
+    "file": "garbow1932_030.jpg",
+    "at_utc": "2026-11-06T13:21:57.304639+00:00"
+  },
+  {
+    "key": "garbow1932_031",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Garbow/Alegaty/par_Garbow/1932/031-me.jpg",
+    "status": 200,
+    "size": 184619,
+    "sha256": "389ce36ee65e94c5509a93eff1e4aaa099af26cb87e80222033320a40d7c67d9",
+    "file": "garbow1932_031.jpg",
+    "at_utc": "2026-11-06T13:21:57.006403+00:00"
+  },
+  {
+    "key": "garbow1932_032",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/032-me.jpg",
+    "status": 200,
+    "size": 158318,
+    "sha256": "254ccb1bea5d7b59032d2fa3bac7ca8c105cdecc5b05f75f9bd1cb6b5df7a270",
+    "file": "garbow1932_032.jpg",
+    "at_utc": "2026-11-06T13:21:57.567721+00:00"
+  },
+  {
+    "key": "garbow1932_033",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/033-me.jpg",
+    "status": 200,
+    "size": 165437,
+    "sha256": "c5f9feb3c6ddf1ec616ee2cfc82b8a8583f8900e6a7f4ccfc40157acae682c18",
+    "file": "garbow1932_033.jpg",
+    "at_utc": "2026-11-06T13:21:57.790830+00:00"
+  },
+  {
+    "key": "garbow1932_034",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/034-me.jpg",
+    "status": 200,
+    "size": 190108,
+    "sha256": "03d201be62f334b17d9dca8597545a43d24de2c4be66b8c922ff9929e9d6b049",
+    "file": "garbow1932_034.jpg",
+    "at_utc": "2026-11-06T13:21:57.777929+00:00"
+  },
+  {
+    "key": "garbow1932_035",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/035-me.jpg",
+    "status": 200,
+    "size": 174778,
+    "sha256": "1c017e593b78b59f1c6ada8356733936cfba290cd36c6ef38a27446bcda1b048",
+    "file": "garbow1932_035.jpg",
+    "at_utc": "2026-11-06T13:21:58.015328+00:00"
+  },
+  {
+    "key": "garbow1932_036",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/036-me.jpg",
+    "status": 200,
+    "size": 176175,
+    "sha256": "769b07047d2a9c0f5dfb05f29eedd6a245e2dc295fb33e2a1f5809efeb7d6ce0",
+    "file": "garbow1932_036.jpg",
+    "at_utc": "2026-11-06T13:21:58.125710+00:00"
+  },
+  {
+    "key": "garbow1932_037",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/037-me.jpg",
+    "status": 200,
+    "size": 149454,
+    "sha256": "fa56ab6a9adf59b0db7af0b5cbccf2453a582acae01625dc1fc523475a464c0c",
+    "file": "garbow1932_037.jpg",
+    "at_utc": "2026-11-06T13:21:58.352628+00:00"
+  },
+  {
+    "key": "garbow1932_038",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/038-me.jpg",
+    "status": 200,
+    "size": 182494,
+    "sha256": "e7340178f3ca89faff7ba094fdd71530e579caab4e828aeec59edce11f1d7268",
+    "file": "garbow1932_038.jpg",
+    "at_utc": "2026-11-06T13:21:58.510054+00:00"
+  },
+  {
+    "key": "garbow1932_039",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/039-me.jpg",
+    "status": 200,
+    "size": 165325,
+    "sha256": "c35eba9374478c4e8826515c44ce1b680a39fab64749cddd5dcd14900114aa23",
+    "file": "garbow1932_039.jpg",
+    "at_utc": "2026-11-06T13:21:58.466345+00:00"
+  },
+  {
+    "key": "garbow1932_040",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Garbow/Alegaty/par_Garbow/1932/040-me.jpg",
+    "status": 200,
+    "size": 143283,
+    "sha256": "648b434909c5f0538f3fe04e9d4fdc5a0ce80002ee65a35e8f3e18c021f938b6",
+    "file": "garbow1932_040.jpg",
+    "at_utc": "2026-11-06T13:21:58.364663+00:00"
+  },
+  {
+    "key": "garbow1932_041",
+    "url": "https://fotolubgens.lubgens.eu/i.php?/galleries/USC_Garbow/Alegaty/par_Garbow/1932/041-me.jpg",
+    "status": 200,
+    "size": 115379,
+    "sha256": "566d80fadba5fb1584c629262ff3f9d0233e37a2b6f811d1c502130094853f45",
+    "file": "garbow1932_041.jpg",
+    "at_utc": "2026-11-06T13:21:58.776674+00:00"
+  },
+  {
+    "key": "garbow1932_042",
+    "url": "https://fotolubgens.lubgens.eu/_data/i/galleries/USC_Garbow/Alegaty/par_Garbow/1932/042-me.jpg",
+    "status": 200,
+    "size": 72459,
+    "sha256": "a4628bb711cce4fc5a43b3eb16564b58c3b8db349b07bb069d231b3dd7d37ae8",
+    "file": "garbow1932_042.jpg",
+    "at_utc": "2026-11-06T13:21:58.605106+00:00"
+  }
+]

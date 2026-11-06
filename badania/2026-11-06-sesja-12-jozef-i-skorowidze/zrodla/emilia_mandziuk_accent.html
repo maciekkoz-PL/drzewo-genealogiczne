@@ -1,0 +1,1837 @@
+<link href="../../css/dark-mode.css" rel="stylesheet" />
+
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+            
+<!-- WCAG Accessibility Menu (HTML) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-keyboard@latest/build/css/index.css" />
+<script src="https://cdn.jsdelivr.net/npm/simple-keyboard@latest/build/index.js"></script>
+
+<style>
+:focus-visible {
+  outline: 3px solid #ffcc00 !important;  /* Kontrastowy kolor (np. żółty) */
+  outline-offset: 3px !important;
+  z-index: 9999 !important;               /* Fokus nad innymi */
+  position: relative;
+}
+
+#keyboard-container {
+  position: fixed;
+  bottom: 5%;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  z-index: 10050;
+  background: #f5f5f5;
+  box-shadow: 0 -4px 10px rgba(0,0,0,0.2);
+  width: 90vw;
+  max-width: 900px;
+  width: 100%;
+  border-radius: 12px 12px 0 0;
+}
+
+input#colorPicker[type="range"] {
+  width: 100%;
+  height: 14px;
+  border-radius: 10px;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  margin-top: 8px;
+  background: linear-gradient(
+    to right,
+    red 0%,
+    magenta 10%,
+    blue 20%,
+    cyan 30%,
+    lime 40%,
+    yellow 50%,
+    orange 60%,
+    black 75%,
+    white 100%
+  );
+}
+
+input#colorPicker[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #0057d9;
+  border: 2px solid white;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+  margin-top: -3px;
+}
+
+input#colorPicker[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #0057d9;
+  border: 2px solid white;
+  cursor: pointer;
+}
+
+  .color-buttons.new {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.color-buttons.new button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  margin: 0 5px;
+  border-radius: 20px;
+  background: #eee;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.color-buttons.new button.active {
+  background: #0057d9;
+  color: white;
+}
+
+/* Przyciski WCAG toggle */
+
+#accessibility-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  font-size: 48px;
+  z-index: 10001;
+  background: #0057d9;
+  color: white;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#accessibility-menu {
+  display: none;
+  position: fixed;
+  top: 80px;
+  right: 20px;
+  background: #fff;
+  padding: 20px;
+  width: 420px;
+  max-height: 80vh;
+  overflow-y: auto;
+  z-index: 10000;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  font-family: sans-serif;
+}
+
+#accessibility-menu button {
+  display: inline-flex;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  font-size: 14px;
+  background: #f0f0f0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+#accessibility-menu button:hover {
+  background: #e0e0e0;
+}
+
+#accessibility-menu i {
+  margin-right: 10px;
+  min-width: 20px;
+  text-align: center;
+}
+
+#accessibility-menu .section {
+  margin-top: 15px;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+}
+
+#colorPicker {
+  width: 100%;
+  height: 30px;
+  margin-top: 5px;
+}
+
+#accessibility-menu .color-buttons button {
+  margin: 2px;
+}
+
+
+/* Tryb kontrastu */
+body.contrast *:not(#accessibility-menu):not(#accessibility-menu *):not(#accessibility-toggle):not(#accessibility-toggle *) {
+  background-color: black !important;
+  color: yellow !important;
+}
+body.contrast a *:not(#accessibility-menu):not(#accessibility-menu *):not(#accessibility-toggle):not(#accessibility-toggle *) {
+  color: cyan !important;
+}
+body.contrast img *:not(#accessibility-menu):not(#accessibility-menu *):not(#accessibility-toggle):not(#accessibility-toggle *) {
+  filter: invert(1);
+}
+
+/* Jasny kontrast */
+body.contrast-light *:not(#accessibility-menu):not(#accessibility-menu *):not(#accessibility-toggle):not(#accessibility-toggle *):not(#accessibility-menu button):not(#accessibility-menu i):not(#accessibility-menu .section) {
+  background-color: white !important;
+  color: black !important;
+  border-color: #000 !important;
+}
+
+body.contrast-light a:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast-light button:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast-light input[type="button"]:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast-light input[type="submit"]:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast-light input[type="text"]:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast-light select:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast-light textarea:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast-light [role="button"]:not(#accessibility-menu *):not(#accessibility-toggle *) {
+  outline: 1px dashed #000 !important;
+  outline-offset: 1px !important;
+  border: none !important;
+  color: black !important;
+  background-color: white !important;
+}
+
+
+body.contrast a:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast button:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast input[type="button"]:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast input[type="submit"]:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast input[type="text"]:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast select:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast textarea:not(#accessibility-menu *):not(#accessibility-toggle *),
+body.contrast [role="button"]:not(#accessibility-menu *):not(#accessibility-toggle *) {
+  outline: 1px dashed yellow !important;
+  outline-offset: 1px !important;
+  border: none !important;
+  color: yellow !important;
+  background-color: black !important;
+}
+
+
+
+body.contrast-light a *:not(#accessibility-menu *){
+  color: #003366 !important;
+  text-decoration: underline !important;
+}
+body.contrast-light button *:not(#accessibility-menu *){
+  background-color: #eee !important;
+  color: #000 !important;
+  border: 1px solid #000 !important;
+}
+body.contrast-light h1,
+body.contrast-light h2,
+body.contrast-light h3,
+body.contrast-light h4,
+body.contrast-light h5,
+body.contrast-light h6 *:not(#accessibility-menu *){
+  color: #111 !important;
+}
+body.contrast-light table *:not(#accessibility-menu *),
+body.contrast-light th *:not(#accessibility-menu *),
+body.contrast-light td *:not(#accessibility-menu *){
+  background-color: white !important;
+  color: black !important;
+  border-color: #000 !important;
+}
+body.contrast-light input *:not(#accessibility-menu *),
+body.contrast-light textarea,
+body.contrast-light select *:not(#accessibility-menu *){
+  background-color: white !important;
+  color: black !important;
+  border: 1px solid #000 !important;
+}
+body.contrast-light img {
+  filter: none !important;
+}
+body.contrast-light .dark,
+body.contrast-light .footer,
+body.contrast-light .banner,
+body.contrast-light .navbar {
+  background-color: white !important;
+  color: black !important;
+}
+
+/* Monochromatyczny filtr */
+body.monochrome * *:not(#accessibility-menu):not(#accessibility-menu *) {
+  filter: grayscale(100%) !important;
+}
+
+/* Czytelna czcionka */
+body.accessible-font *:not(#accessibility-menu):not(#accessibility-menu *):not(#accessibility-toggle):not(#accessibility-toggle *) {
+  font-family: Arial, sans-serif !important;
+}
+
+
+
+body.cursor-white {
+  cursor: url('/cursor/cursor-white-large.cur'), auto !important;
+}
+
+body.cursor-black {
+  cursor: url('/cursor/cursor-black-large.cur'), auto !important;
+}
+
+body.cursor-white a,
+body.cursor-white button,
+body.cursor-white [role='button'],
+body.cursor-white input[type='button'],
+body.cursor-white input[type='submit'],
+body.cursor-white label,
+body.cursor-white select {
+  cursor: url('/cursor/hand-cursor-large.cur'), pointer !important;
+}
+
+body.cursor-black a,
+body.cursor-black button,
+body.cursor-black [role='button'],
+body.cursor-black input[type='button'],
+body.cursor-black input[type='submit'],
+body.cursor-black label,
+body.cursor-black select {
+  cursor: url('/cursor/hand-cursor-black-large.cur'), pointer !important;
+}
+
+#font-preview {
+  position: fixed;
+  pointer-events: none;
+  background: rgba(0, 0, 0, 0.85);
+  color: white;
+  font-size: 24px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-family: Arial, sans-serif;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 10002;
+  max-width: 400px;
+  white-space: normal; /* zamiast nowrap */
+  word-break: break-word; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+  visibility: hidden;
+}
+
+#font-preview.visible {
+  opacity: 1;
+  transform: translateY(0);
+  visibility: visible;
+}
+
+.font-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .font-option {
+    flex: 1;
+    margin: 0 3px;
+    padding: 8px;
+    background: #f0f0f0;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+  }
+  .font-option.active {
+    background: #0057d9;
+    color: white;
+  }
+  .slider-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .slider-wrapper input[type='range'] {
+    flex: 1;
+  }
+  
+
+  #accessibility-menu button.selected {
+  border: 2px solid #0057d9;
+  background-color: #ffffff;
+  position: relative;
+}
+
+#accessibility-menu button.selected::after {
+  content: "✔";
+  color: #0057d9;
+  font-size: 12px;
+  position: absolute;
+  top: 3px;
+  right: 4px;
+}
+
+#accessibility-menu .toggle-btn {
+  font-weight: bold;
+  transition: all 0.2s;
+  position: relative;
+  cursor: pointer;
+}
+
+#accessibility-menu .toggle-btn.active {
+  background-color:rgb(10, 32, 105);
+  color: white;
+}
+
+.cursor-btn.active {
+  background-color: #00124c;
+  color: white;
+  font-weight: bold;
+}
+
+@media (max-width: 1200px) {
+  #accessibility-menu {
+    width: 95vw;
+    right: 2.5vw;
+    left: auto;
+    max-height: 80vh;
+    overflow-y: auto;
+    padding: 16px;
+    font-size: 14px;
+  }
+
+   #accessibility-toggle {
+    top: auto;
+    bottom: 20px;
+    right: 20px;
+  }
+
+  #accessibility-menu button {
+    width: 100%;
+    justify-content: flex-start;
+    font-size: 14px;
+  }
+
+  .color-buttons.new {
+    flex-direction: column;
+  }
+
+  .color-buttons.new button {
+    margin: 4px 0;
+  }
+
+  .font-controls {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .slider-wrapper {
+    flex-direction: column;
+  }
+}
+
+
+</style>
+
+<div id="accessibility-toggle" onclick="toggleAccessibilityMenu()">
+  <i class="fas fa-universal-access"></i>
+</div>
+
+<div id="accessibility-menu">
+  <button onclick="zoomOut()"><i class="fas fa-search-minus"></i> Pomniejszenie</button>
+  <button onclick="zoomIn()"><i class="fas fa-search-plus"></i> Powiększenie</button>
+  <button onclick="resetZoom()"><i class="fas fa-compress"></i> Resetuj zoom</button>
+  <button onclick="toggleHoverSpeech()"><i class="fas fa-volume-up"></i> Czytnik tekstu</button>
+  <button onclick="toggleFontStyle()"><i class="fas fa-font"></i> Wyraźna czcionka</button>
+  <button onclick="toggleImageDescriptions()"><i class="fas fa-image"></i> Opisy obrazów</button>
+  <button onclick="highlightContent()"><i class="fas fa-highlighter"></i> Wyróżnij</button>
+  <button onclick="highlightHeadings()"><i class="fas fa-heading"></i> Wyróżnij nagłówki</button>
+  <button onclick="highlightLinks()"><i class="fas fa-link"></i> Wyróżnij linki</button>
+  <button onclick="toggleFontZoom()"><i class="fas fa-search"></i> Powiększenie tekstu</button>
+  <button onclick="toggleVirtualKeyboard()"><i class="fa-solid fa-keyboard"></i> Wirtualna klawiatura</button>
+
+  <div class="section">
+    <button onclick="toggleContrast('dark')"><i class="fas fa-moon"></i> Ciemny kontrast</button>
+    <button onclick="toggleContrast('light')"><i class="fas fa-sun"></i> Jasny kontrast</button>
+    <button onclick="toggleMonochrome()"><i class="fas fa-adjust"></i> Monochromia</button>
+  </div>
+
+<div class="section">
+  <p><i class="fas fa-tint"></i> Niestandardowy kolor <br><small>Zmień kolory witryny</small></p>
+  
+<div class="color-buttons new">
+  <button id="bgBtn" class="toggle-btn active" onclick="setColorTarget('background')">Tła</button>
+  <button id="headingsBtn" class="toggle-btn" onclick="setColorTarget('headings')">Nagłówki</button>
+  <button id="textBtn" class="toggle-btn" onclick="setColorTarget('text')">Zawartość</button>
+</div>
+
+
+  <input type="range" id="colorPicker" min="0" max="1000" step="1">
+
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; margin-top: 10px;">
+    <div id="colorValuePreview" style="width: 24px; height: 24px; border-radius: 50%;"></div>
+    <button onclick="resetColors()"><i class="fas fa-undo-alt"></i> Resetuj </button>
+  </div>
+</div>
+
+
+
+<div class="section">
+  <p><i class="fas fa-mouse-pointer"></i> Kursor</p>
+  <button class="cursor-btn toggle-btn" onclick="setCursor('white')">BIAŁY</button>
+  <button class="cursor-btn toggle-btn" onclick="setCursor('black')">CZARNY</button>
+  <!--<button class="cursor-btn toggle-btn" onclick="setCursor('default')">DOMYŚLNY</button>-->
+</div>
+
+
+<div class="section">
+  <p><i class="fas fa-text-height"></i> Ustawienia czcionki</p>
+
+  <div class="font-controls">
+    <button class="toggle-btn active" onclick="setFontControl('size')">Rozmiar czcionki</button>
+    <button class="toggle-btn" onclick="setFontControl('line')">Interlinia</button>
+    <button class="toggle-btn" onclick="setFontControl('word')">Odstępy między wyrazami</button>
+    <button class="toggle-btn" onclick="setFontControl('letter')">Odstępy między literami</button>
+  </div>
+
+
+  <div class="slider-wrapper">
+    <button onclick="adjustFontSetting(-1)">-</button>
+    <input type="range" id="fontRange" oninput="updateFontSetting(this.value)">
+    <button onclick="adjustFontSetting(1)">+</button>
+  </div>
+</div>
+</div>
+
+
+<script>
+  let colorTarget = 'background';
+
+  function toggleAccessibilityMenu() {
+    const menu = document.getElementById('accessibility-menu');
+    menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+  }
+
+let hoverSpeechEnabled = false;
+let hoverTimer = null;
+let isHoverReading = false;
+
+function toggleHoverSpeech() {
+  hoverSpeechEnabled = !hoverSpeechEnabled;
+  toggleButtonState("toggleHoverSpeech()", hoverSpeechEnabled);
+
+  if (hoverSpeechEnabled) {
+    document.querySelectorAll('p, a, button, li, span, h1, h2, h3, h4, h5, h6').forEach(el => {
+      el.addEventListener('mouseenter', handleHoverSpeech);
+      el.addEventListener('mouseleave', cancelHoverSpeech);
+    });
+  } else {
+    document.querySelectorAll('p, a, button, li, span, h1, h2, h3, h4, h5, h6').forEach(el => {
+      el.removeEventListener('mouseenter', handleHoverSpeech);
+      el.removeEventListener('mouseleave', cancelHoverSpeech);
+    });
+    cancelHoverSpeech();
+  }
+}
+
+function handleHoverSpeech(e) {
+  if (!hoverSpeechEnabled) return;
+  const el = e.currentTarget;
+  hoverTimer = setTimeout(() => {
+    speakHoveredText(el.innerText || el.textContent);
+  }, 500); // opóźnienie
+}
+
+function cancelHoverSpeech() {
+  clearTimeout(hoverTimer);
+  if (isHoverReading) {
+    speechSynthesis.cancel();
+    isHoverReading = false;
+  }
+}
+
+function speakHoveredText(text) {
+  if (!text.trim()) return;
+
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'pl-PL';
+
+  const voices = speechSynthesis.getVoices();
+  const polishVoice = voices.find(v => v.lang === 'pl-PL');
+  if (polishVoice) utterance.voice = polishVoice;
+
+  utterance.onend = () => {
+    isHoverReading = false;
+  };
+
+  speechSynthesis.cancel();
+  speechSynthesis.speak(utterance);
+  isHoverReading = true;
+}
+
+
+
+function zoomIn() {
+  let zoom = parseFloat(localStorage.getItem('zoom') || 1);
+  zoom = Math.min(2.0, zoom + 0.1);
+  applyZoomToContent(zoom);
+  localStorage.setItem('zoom', zoom);
+}
+
+function zoomOut() {
+  let zoom = parseFloat(localStorage.getItem('zoom') || 1);
+  zoom = Math.max(0.5, zoom - 0.1);
+  applyZoomToContent(zoom);
+  localStorage.setItem('zoom', zoom);
+}
+
+function resetZoom() {
+  const wrapper = document.getElementById('zoom-wrapper');
+  if (wrapper) {
+    wrapper.style.transform = '';
+  }
+  localStorage.removeItem('zoom');
+}
+
+
+// function resetZoom() {
+//   applyZoomToContent(1);
+//   localStorage.removeItem('zoom');
+// }
+
+
+function applyZoomToContent(scale) {
+  const excludedIds = ['accessibility-menu', 'accessibility-toggle', 'keyboard-container'];
+
+  // Obiekt nadrzędny do skalowania
+  let zoomWrapper = document.getElementById('zoom-wrapper');
+
+  if (!zoomWrapper) {
+    zoomWrapper = document.createElement('div');
+    zoomWrapper.id = 'zoom-wrapper';
+
+    // Przenieś wszystkie dzieci body (oprócz wykluczonych) do wrappera
+    const children = Array.from(document.body.children);
+    children.forEach(child => {
+      if (!excludedIds.includes(child.id)) {
+        zoomWrapper.appendChild(child);
+      }
+    });
+
+    document.body.insertBefore(zoomWrapper, document.body.firstChild);
+  }
+
+  zoomWrapper.style.transform = `scale(${scale})`;
+  zoomWrapper.style.transformOrigin = 'top left';
+}
+
+
+// function applyZoomToContent(scale) {
+//   const excludedIds = ['accessibility-menu', 'accessibility-toggle', 'keyboard-container'];
+//   const allChildren = Array.from(document.body.children);
+
+//   allChildren.forEach(el => {
+//     if (excludedIds.includes(el.id)) {
+//       el.style.transform = '';
+//       el.style.transformOrigin = '';
+//     } else {
+//       el.style.transform = `scale(${scale})`;
+//       el.style.transformOrigin = 'top left';
+//     }
+//   });
+// }
+
+
+function toggleFontZoom() {
+  const enabled = document.body.classList.toggle('zoomed-font');
+  localStorage.setItem('zoomedFont', enabled);
+  toggleButtonState("toggleFontZoom()", enabled);
+  const previewBox = document.getElementById('font-preview');
+
+  if (enabled) {
+    document.addEventListener('mousemove', fontPreviewHandler);
+  } else {
+    document.removeEventListener('mousemove', fontPreviewHandler);
+    previewBox.classList.remove('visible'); // płynnie znika
+  }
+}
+
+function toggleFontStyle() {
+  const enabled = document.body.classList.toggle('accessible-font');
+  localStorage.setItem('accessibleFont', enabled);
+    toggleButtonState("toggleFontStyle()", enabled);
+
+}
+
+
+function toggleButtonState(selector, enabled) {
+  const button = typeof selector === "string"
+    ? document.querySelector(`button[onclick="${selector}"]`)
+    : selector;
+
+  if (!button) return;
+
+  if (enabled) {
+    button.classList.add('selected');
+  } else {
+    button.classList.remove('selected');
+  }
+}
+
+
+let hideFontPreviewTimer = null;
+
+function fontPreviewHandler(e) {
+  const preview = document.getElementById('font-preview');
+  const element = document.elementFromPoint(e.clientX, e.clientY);
+
+  if (
+    !element ||
+    !element.textContent.trim() ||
+    !['P', 'A', 'SPAN', 'DIV', 'TD', 'TH', 'LI', 'BUTTON', 'H1', 'H2', 'H3', 'H4', 'H5', 'STRONG', 'B'].includes(element.tagName)
+  ) {
+    preview.classList.remove('visible');
+    return;
+  }
+
+  let hoveredText = "";
+
+  if (element.tagName === 'STRONG' || element.tagName === 'B') {
+    hoveredText = element.textContent.trim();
+  } else if (element.tagName === 'BR') {
+    hoveredText = '[linia przerwy]';
+  } else {
+    // Wyszukujemy najbliższy tekstowy węzeł dziecka lub stronga w środku
+    const range = document.caretRangeFromPoint
+      ? document.caretRangeFromPoint(e.clientX, e.clientY)
+      : document.caretPositionFromPoint(e.clientX, e.clientY);
+
+    if (range) {
+      const node = range.startContainer;
+      if (node.nodeType === Node.TEXT_NODE) {
+        hoveredText = node.textContent.trim();
+      }
+    }
+  }
+
+  if (!hoveredText) {
+    preview.classList.remove('visible');
+    return;
+  }
+
+  preview.textContent = hoveredText;
+  preview.style.left = `${e.clientX + 15}px`;
+  preview.style.top = `${e.clientY + 15}px`;
+
+  preview.classList.add('visible');
+  clearTimeout(hideFontPreviewTimer);
+  hideFontPreviewTimer = setTimeout(() => {
+    preview.classList.remove('visible');
+  }, 1000);
+}
+
+
+
+
+
+function toggleImageDescriptions() {
+  const enabled = document.body.classList.toggle('show-image-descriptions');
+  localStorage.setItem('imageDescriptions', enabled);
+
+  toggleButtonState("toggleImageDescriptions()", enabled);
+
+  if (enabled) {
+    document.querySelectorAll('img').forEach(img => {
+      if (img.alt) {
+        img.addEventListener('mouseenter', showImageAlt);
+        img.addEventListener('mousemove', moveImageAlt);
+        img.addEventListener('mouseleave', hideImageAlt);
+      }
+    });
+  } else {
+    document.querySelectorAll('img').forEach(img => {
+      img.removeEventListener('mouseenter', showImageAlt);
+      img.removeEventListener('mousemove', moveImageAlt);
+      img.removeEventListener('mouseleave', hideImageAlt);
+    });
+    document.querySelectorAll('.img-alt-tooltip').forEach(el => el.remove());
+  }
+}
+
+function showImageAlt(e) {
+  const tooltip = document.createElement('div');
+  tooltip.className = 'img-alt-tooltip';
+  tooltip.innerText = e.target.alt;
+  tooltip.style.position = 'absolute';
+  tooltip.style.background = 'rgba(0, 0, 0, 0.8)';
+  tooltip.style.color = 'white';
+  tooltip.style.fontSize = '24px';
+  tooltip.style.padding = '4px 8px';
+  tooltip.style.borderRadius = '4px';
+  tooltip.style.zIndex = '9999';
+  tooltip.style.pointerEvents = 'none';
+  document.body.appendChild(tooltip);
+  moveImageAlt(e);
+}
+
+function moveImageAlt(e) {
+  const tooltip = document.querySelector('.img-alt-tooltip');
+  if (tooltip) {
+    tooltip.style.left = `${e.pageX + 12}px`;
+    tooltip.style.top = `${e.pageY + 12}px`;
+  }
+}
+
+function hideImageAlt() {
+  document.querySelectorAll('.img-alt-tooltip').forEach(el => el.remove());
+}
+
+
+  function highlightContent() {
+    const elements = document.querySelectorAll('p, span, li');
+    const alreadyHighlighted = [...elements].some(el => el.style.backgroundColor === 'rgb(255, 251, 204)');
+     const enabled = !alreadyHighlighted;
+    elements.forEach(el => {
+      el.style.backgroundColor = alreadyHighlighted ? '' : '#fffbcc';
+    });
+    toggleButtonState("highlightContent()", enabled);
+  }
+
+  function highlightHeadings() {
+    const elements = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+    const alreadyHighlighted = [...elements].some(el => el.style.backgroundColor === 'rgb(204, 229, 255)');
+      const enabled = !alreadyHighlighted;
+
+    elements.forEach(el => {
+      el.style.backgroundColor = alreadyHighlighted ? '' : '#cce5ff';
+    });
+    toggleButtonState("highlightHeadings()", enabled);
+  }
+
+function highlightLinks() {
+  const elements = document.querySelectorAll('a');
+  const highlightColor = 'rgb(204, 0, 0)'; // odpowiada #c00
+  
+  const alreadyHighlighted = [...elements].some(el => {
+    return getComputedStyle(el).color === highlightColor;
+  });
+    const enabled = !alreadyHighlighted;
+
+  elements.forEach(el => {
+    el.style.color = alreadyHighlighted ? '' : '#c00';
+  });
+  toggleButtonState("highlightLinks()", enabled);
+}
+
+
+
+  function setCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days*24*60*60*1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  function getCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1,c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return null;
+  }
+
+  function eraseCookie(name) {
+    setCookie(name, "", -1);
+  }
+
+
+function toggleContrast(type) {
+  const isDark = document.body.classList.contains('contrast-dark');
+  const isLight = document.body.classList.contains('contrast-light');
+  const darkEnabled = !isDark;
+  const lightEnabled = !isLight;
+  toggleButtonState("toggleContrast('dark')", false);
+  toggleButtonState("toggleContrast('light')", false);
+  // Jeśli kliknięto tryb ciemny i jest aktywny → wyłącz
+  if (type === 'dark' && isDark) {
+    document.body.classList.remove('contrast', 'contrast-dark');
+    localStorage.removeItem('contrast');
+    eraseCookie('contrast');
+    return;
+  }
+
+  // Jeśli kliknięto tryb jasny i jest aktywny → wyłącz
+  if (type === 'light' && isLight) {
+    document.body.classList.remove('contrast-light');
+    localStorage.removeItem('contrast');
+    eraseCookie('contrast');
+    return;
+  }
+
+  // Usuń inne klasy kontrastu
+  document.body.classList.remove('contrast', 'contrast-dark', 'contrast-light');
+  localStorage.removeItem('contrast');
+  eraseCookie('contrast');
+
+  // Ustaw odpowiedni tryb
+  if (type === 'dark') {
+    document.body.classList.add('contrast', 'contrast-dark');
+    localStorage.setItem('contrast', 'dark');
+    toggleButtonState("toggleContrast('dark')", darkEnabled);
+    //setCookie('contrast', '1', 30);
+  }
+
+  if (type === 'light') {
+    document.body.classList.add('contrast-light');
+    localStorage.setItem('contrast', 'light');
+    toggleButtonState("toggleContrast('light')", lightEnabled);
+    //setCookie('contrast', '2', 30);
+  }
+}
+
+
+
+function toggleMonochrome() {
+  const enabled = document.body.classList.toggle('monochrome');
+  localStorage.setItem('monochrome', enabled);
+  toggleButtonState("toggleMonochrome()", enabled);
+}
+
+
+function resetColors() {
+  // Usuń klasy
+  document.body.classList.remove(
+    'contrast-dark',
+    'contrast-light',
+    'monochrome',
+    'cursor-white',
+    'cursor-black',
+    'cursor-large',
+    'accessible-font'
+  );
+
+  // Reset konkretnych stylów zamiast całego body.style
+  document.body.style.zoom = '';
+  document.body.style.fontSize = '';
+  document.body.style.lineHeight = '';
+  document.body.style.wordSpacing = '';
+  document.body.style.letterSpacing = '';
+
+  // Reset kolorów elementów
+  document.querySelectorAll('*').forEach(el => {
+    el.style.backgroundColor = '';
+    el.style.color = '';
+  });
+
+  // Ukryj niestandardowy kursor
+  //document.getElementById('custom-cursor').style.display = 'none';
+
+  // Wyczyść localStorage
+  ['contrast', 'monochrome', 'cursor', 'accessibleFont'].forEach(key => localStorage.removeItem(key));
+
+  //  Wymuś przeliczenie layoutu (hack: trigger reflow)
+  void document.body.offsetHeight;
+}
+
+
+colorTarget = 'background';
+
+function setColorTarget(target) {
+  colorTarget = target;
+
+  document.querySelectorAll('.color-buttons.new button').forEach(btn =>
+    btn.classList.remove('active')
+  );
+
+  if (target === 'background') document.getElementById('bgBtn').classList.add('active');
+  if (target === 'headings') document.getElementById('headingsBtn').classList.add('active');
+  if (target === 'text') document.getElementById('textBtn').classList.add('active');
+}
+
+function applyColorLive(color) {
+  let selector = '';
+
+  if (colorTarget === 'background') selector = 'body *';
+  else if (colorTarget === 'headings') selector = 'h1, h2, h3, h4, h5, h6';
+  else if (colorTarget === 'text') selector = 'p, span, li';
+
+  document.querySelectorAll(selector).forEach(el => {
+    if (
+      el.closest('#accessibility-menu') ||
+      el.closest('#accessibility-toggle') ||
+      el.id === 'accessibility-menu' ||
+      el.id === 'accessibility-toggle'
+    ) return;
+
+    if (colorTarget === 'background') {
+      el.style.backgroundColor = color;
+    } else {
+      el.style.color = color;
+    }
+  });
+}
+
+
+
+
+function setCursor(type) {
+  const body = document.body;
+  const isActive = body.classList.contains(`cursor-${type}`);
+  const buttons = document.querySelectorAll('.cursor-btn');
+
+  // Reset
+  body.classList.remove('cursor-white', 'cursor-black');
+  buttons.forEach(btn => btn.classList.remove('active'));
+
+  if (isActive) {
+    // Kliknięto ponownie → wróć do domyślnego
+    localStorage.removeItem('cursor');
+    return;
+  }
+
+  // Ustaw nowy
+  body.classList.add(`cursor-${type}`);
+  localStorage.setItem('cursor', type);
+  const button = document.querySelector(`.cursor-btn[onclick*="${type}"]`);
+  if (button) button.classList.add('active'); //  zabezpieczenie
+}
+
+  function adjustFontSize(amount) {
+    const body = document.body;
+    let size = parseFloat(window.getComputedStyle(body).fontSize);
+    size += amount;
+    body.style.fontSize = size + 'px';
+    localStorage.setItem('fontSize', size);
+  }
+
+  function adjustLineHeight(amount) {
+    const body = document.body;
+    let lh = parseFloat(window.getComputedStyle(body).lineHeight);
+    lh += amount;
+    body.style.lineHeight = lh;
+    localStorage.setItem('lineHeight', lh);
+  }
+
+  function adjustWordSpacing(amount) {
+    const body = document.body;
+    let ws = parseFloat(window.getComputedStyle(body).wordSpacing);
+    ws += amount;
+    body.style.wordSpacing = ws + 'px';
+    localStorage.setItem('wordSpacing', ws);
+  }
+
+  function adjustLetterSpacing(amount) {
+    const body = document.body;
+    let ls = parseFloat(window.getComputedStyle(body).letterSpacing);
+    ls += amount;
+    body.style.letterSpacing = ls + 'px';
+    localStorage.setItem('letterSpacing', ls);
+  }
+  let currentFontControl = 'size';
+
+const gradientStops = [
+  { stop: 0,    color: [255,   0,   0] },     // red
+  { stop: 100,  color: [255,   0, 255] },     // magenta
+  { stop: 200,  color: [0,     0, 255] },     // blue
+  { stop: 300,  color: [0,   255, 255] },     // cyan
+  { stop: 400,  color: [0,   255,   0] },     // lime
+  { stop: 500,  color: [255, 255,   0] },     // yellow
+  { stop: 600,  color: [255, 102,   0] },     // orange
+  { stop: 750,  color: [0,     0,   0] },     // black
+  { stop: 1000, color: [255, 255, 255] },     // white
+];
+
+
+  const controlMap = {
+    size: {
+      css: 'fontSize',
+      storage: 'fontSize',
+      unit: 'px',
+      default: 22,
+      min: 22,
+      max: 32
+    },
+    line: {
+      css: 'lineHeight',
+      storage: 'lineHeight',
+      unit: '',
+      default: 1.6,
+      min: 1.6,
+      max: 2.6,
+      step: 0.1
+    },
+    word: {
+      css: 'wordSpacing',
+      storage: 'wordSpacing',
+      unit: 'px',
+      default: 0,
+      min: 0,
+      max: 10
+    },
+    letter: {
+      css: 'letterSpacing',
+      storage: 'letterSpacing',
+      unit: 'px',
+      default: 0,
+      min: 0,
+      max: 10
+    }
+  };
+  function interpolateColor(value) {
+  for (let i = 0; i < gradientStops.length - 1; i++) {
+    const start = gradientStops[i];
+    const end = gradientStops[i + 1];
+
+    if (value >= start.stop && value <= end.stop) {
+      const ratio = (value - start.stop) / (end.stop - start.stop);
+
+      const r = Math.round(start.color[0] + (end.color[0] - start.color[0]) * ratio);
+      const g = Math.round(start.color[1] + (end.color[1] - start.color[1]) * ratio);
+      const b = Math.round(start.color[2] + (end.color[2] - start.color[2]) * ratio);
+
+      return `rgb(${r}, ${g}, ${b})`;
+    }
+  }
+
+  // fallback (na wypadek błędu)
+  return 'rgb(0, 0, 0)';
+}
+
+
+function setFontControl(type) {
+  currentFontControl = type;
+
+  // Obsługa font-option
+  document.querySelectorAll('.font-option').forEach(btn => btn.classList.remove('active'));
+  const fontBtn = document.querySelector(`.font-option[onclick*="'${type}'"]`);
+  if (fontBtn) fontBtn.classList.add('active');
+
+  // Obsługa toggle-btn (jeśli są używane zamiennie lub równolegle)
+  document.querySelectorAll('.font-controls .toggle-btn').forEach(btn => btn.classList.remove('active'));
+  const toggleBtn = document.querySelector(`.toggle-btn[onclick*="'${type}'"]`);
+  if (toggleBtn) toggleBtn.classList.add('active');
+
+  // Aktualizacja suwaka
+  const range = document.getElementById('fontRange');
+  const settings = controlMap[type];
+  const stored = parseFloat(localStorage.getItem(settings.storage)) || settings.default;
+  range.min = settings.min;
+  range.max = settings.max;
+  range.step = settings.step || 1;
+  range.value = stored;
+}
+
+function updateFontSetting(value) {
+  const settings = controlMap[currentFontControl];
+  const numericValue = parseFloat(value);
+
+  document.querySelectorAll('body *').forEach(el => {
+    if (
+      el.closest('#accessibility-menu') ||
+      el.closest('#accessibility-toggle') ||
+      el.closest('#keyboard-container')
+    ) return;
+
+    const original = parseFloat(el.dataset[`original${capitalize(settings.css)}`]);
+
+    if (!isNaN(original)) {
+      let finalValue = numericValue;
+
+      // Dla fontSize i odstępów przelicz jako oryginał + delta
+      if (['fontSize', 'wordSpacing', 'letterSpacing'].includes(settings.css)) {
+        finalValue = original + (numericValue - settings.default);
+        el.style[settings.css] = finalValue + settings.unit;
+      }
+
+      // Dla lineHeight, która może być wartością liczbową bez jednostki
+      if (settings.css === 'lineHeight') {
+        finalValue = original + (numericValue - settings.default);
+        el.style.lineHeight = finalValue.toFixed(2);
+      }
+    }
+  });
+
+  localStorage.setItem(settings.storage, value);
+}
+
+function capitalize(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+
+
+//   function updateFontSetting(value) {
+//     const settings = controlMap[currentFontControl];
+//     const numericValue = parseFloat(value);
+
+//     document.querySelectorAll('body *').forEach(el => {
+//   if (
+//     el.closest('#accessibility-menu') ||
+//     el.closest('#accessibility-toggle') ||
+//     el.id === 'accessibility-menu' ||
+//     el.id === 'accessibility-toggle'
+//   ) return;
+
+//   el.style[settings.css] = numericValue + settings.unit;
+// });
+
+//     localStorage.setItem(settings.storage, value);
+//   }
+
+function adjustFontSetting(delta) {
+  const range = document.getElementById('fontRange');
+  const settings = controlMap[currentFontControl]; 
+  let newValue = parseFloat(range.value) + delta * (settings.step || 1);
+
+  newValue = Math.min(settings.max, Math.max(settings.min, newValue));
+  range.value = newValue;
+  updateFontSetting(newValue);
+}
+
+
+
+  // Przesuwanie własnego kursora za myszką
+  document.addEventListener('mousemove', e => {
+    const cursor = document.getElementById('custom-cursor');
+    if (!cursor) return;
+    cursor.style.left = e.clientX + 'px';
+    cursor.style.top = e.clientY + 'px';
+  });
+
+window.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('body *').forEach(el => {
+    if (
+      el.closest('#accessibility-menu') ||
+      el.closest('#accessibility-toggle') ||
+      el.closest('#keyboard-container')
+    ) return;
+
+    const style = getComputedStyle(el);
+    const fontSize = parseFloat(style.fontSize);
+    el.dataset.originalFontSize = fontSize;
+    el.dataset.originalWordSpacing = parseFloat(style.wordSpacing) || 0;
+    el.dataset.originalLetterSpacing = parseFloat(style.letterSpacing) || 0;
+
+    const lineHeight = style.lineHeight;
+    if (lineHeight !== 'normal') {
+      const pxLineHeight = parseFloat(lineHeight);
+      el.dataset.originalLineHeight = (pxLineHeight / fontSize).toFixed(3);
+    } else {
+      el.dataset.originalLineHeight = controlMap.line.default;
+    }
+  });
+
+  // Ustawienia początkowe
+  setFontControl('size');
+  setColorTarget('background');
+
+  const showAlts = localStorage.getItem('imageDescriptions');
+  if (showAlts === 'true') toggleImageDescriptions();
+
+  if (!document.getElementById('font-preview')) {
+    const preview = document.createElement('div');
+    preview.id = 'font-preview';
+    document.body.appendChild(preview);
+  }
+
+  if (!document.getElementById('keyboard-container')) {
+    const preview = document.createElement('div');
+    preview.id = 'keyboard-container';
+    preview.classList.add('simple-keyboard');
+    document.body.appendChild(preview);
+  }
+
+  document.body.classList.remove('contrast', 'contrast-dark', 'contrast-light');
+  const contrast = localStorage.getItem('contrast');
+  if (contrast === 'dark') {
+    document.body.classList.add('contrast', 'contrast-dark');
+    toggleButtonState("toggleContrast('dark')", true);
+  } else if (contrast === 'light') {
+    document.body.classList.add('contrast-light');
+    toggleButtonState("toggleContrast('light')", true);
+  } else {
+    const contrastCookie = getCookie('contrast');
+    if (contrastCookie === '1') {
+      document.body.classList.add('contrast', 'contrast-dark');
+    } else if (contrastCookie === '2') {
+      document.body.classList.add('contrast-light');
+    }
+  }
+
+  const monochrome = localStorage.getItem('monochrome');
+  if (monochrome === 'true') {
+    document.body.classList.add('monochrome');
+    toggleButtonState("toggleMonochrome()", true);
+  }
+
+  const accessibleFont = localStorage.getItem('accessibleFont');
+  if (accessibleFont === 'true') document.body.classList.add('accessible-font');
+
+  const zoomedFont = localStorage.getItem('zoomedFont');
+  if (zoomedFont === 'true') document.body.classList.add('zoomed-font');
+
+  const savedCursor = localStorage.getItem('cursor');
+  if (!['white', 'black'].includes(savedCursor)) {
+    setCursor(savedCursor);
+  }
+
+  const zoom = localStorage.getItem('zoom');
+  if (zoom) document.body.style.zoom = zoom;
+
+  // Automatyczne wywołanie updateFontSetting dla każdej cechy stylu
+Object.keys(controlMap).forEach(key => {
+  const value = localStorage.getItem(controlMap[key].storage);
+  if (value !== null) {
+    const prev = currentFontControl; // zapamiętaj
+    currentFontControl = key;
+    updateFontSetting(value);
+    currentFontControl = prev; // przywróć poprzedni
+  }
+});
+
+});
+
+  let keyboard;
+  let activeInput;
+
+  function toggleVirtualKeyboard() {
+    const container = document.getElementById("keyboard-container");
+    const isVisible = container.style.display === "block";
+    const enabled = !isVisible;
+
+    toggleButtonState("toggleVirtualKeyboard()", enabled);
+    
+    if (isVisible) {
+      container.style.display = "none";
+      return;
+    }
+    
+    container.style.display = "block";
+    
+    if (!keyboard) {
+      keyboard = new SimpleKeyboard.default({
+        root: document.getElementById("keyboard-container"),
+        onChange: input => {
+          if (activeInput) {
+            activeInput.value = input;
+          }
+        },
+        onKeyPress: button => {
+          if (button === "{bksp}" && activeInput) {
+            activeInput.value = activeInput.value.slice(0, -1);
+            keyboard.setInput(activeInput.value);
+          }
+        }
+      });
+    }
+    
+    document.querySelectorAll('input[type="text"], textarea').forEach(input => {
+      input.addEventListener('focus', () => {
+        activeInput = input;
+        keyboard.setInput(input.value);
+      });
+    });
+  }
+document.getElementById('colorPicker').addEventListener('input', function () {
+  const val = parseInt(this.value);
+  const color = interpolateColor(val);
+
+  document.body.style.backgroundColor = color;
+  applyColorLive(color);
+  document.getElementById('colorValuePreview').style.backgroundColor = color;
+});
+
+
+
+
+</script>        <meta name=”deklaracja-dostępności” content=https://tomaszow.grobonet.com/deklaracja.php> 
+        		<meta name="keywords" content="cmentarz komunalny, cmentarze, nagrobki, zmarli, pochowani, wyszukiwarka">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
+        <link href="/css/bootstrap.css" rel="stylesheet">
+        <link href="/css/newstyle.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/dark-mode.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+        <script src="/js/modernizr.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <script src="/js/jquery.nice-select.js"></script>
+        <script src="/js/script.js"></script>
+        <script src="/js/jquery.slicknav.js"></script>
+        <link rel="stylesheet" href="/grobonet/lib/lightbox2/css/lightbox.css" type="text/css" />
+        <script>
+            $(document).ready(function() {
+                jQuery('select').niceSelect();
+            });
+            $(document).ready(function(){
+                jQuery('#menu').slicknav();
+            });
+        </script>
+		
+		<title>Cmentarz komunalny w Tomaszowie Lubelskim</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3S8DQK2BXC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3S8DQK2BXC');
+</script>
+    
+</head>
+	<body style="position:relative; min-height:100vh; padding-bottom:161px;" class="">
+        <header>
+            <div class="header">
+                        <div class="pasek">
+            
+                <ul class="menu-dostepnosci">
+                                            <li><a href="../deklaracja.php">Deklaracja dostępności</a></li>
+                    
+                                                                <li>
+                    <div class="custom-select" id="language_selector">
+                        <div class="selected">
+                        <span class="selected-text" data-value="pl">
+                            &#x1F1F5;&#x1F1F1; Polski                        </span>
+                        <span class="arrow">&#9662;</span>
+                        </div>
+                        <div class="options">
+                                                    <div class="option" data-value="pl">&#x1F1F5;&#x1F1F1; Polski</div>
+                                                                            <div class="option" data-value="en">&#x1F1FA;&#x1F1F8; English</div>
+                                                                            <div class="option" data-value="ua">&#x1F1FA;&#x1F1E6; Українська</div>
+                                                                            <div class="option" data-value="de">&#x1F1E9;&#x1F1EA; Deutsch</div>
+                                                </div>
+                    </div>
+                                            <button id="toggle-dark-mode" style="font-size: 1.2em;"></button>
+                                        <script>
+                    const btn = document.getElementById('toggle-dark-mode');
+
+                    // inicjalizacja ikony w zależności od aktywnego trybu
+                    function updateButtonIcon() {
+                        if (document.body.classList.contains('dark-mode')) {
+                            btn.textContent = '🌙'; // aktualnie ciemny tryb
+                        } else {
+                            btn.textContent = '☀️'; // aktualnie jasny tryb
+                        }
+                    }
+
+                    // ustawienie początkowej ikony
+                    updateButtonIcon();
+
+                    btn.addEventListener('click', () => {
+                        document.body.classList.toggle('dark-mode');
+
+                        // aktualizacja ikony po przełączeniu
+                        updateButtonIcon();
+
+                        // zapis ciasteczka
+                        document.cookie = "dark_mode=" + (document.body.classList.contains('dark-mode') ? "1" : "0") + "; path=/; max-age=" + 60*60*24*30;
+                    });
+                    </script>
+
+                    </li>
+                                                                        </ul>
+            
+                    <script>
+                    function zmienJezyk(lang) {
+                        document.cookie = "jezyk=" + lang + "; path=/; max-age=31536000"; 
+                        localStorage.setItem('jezyk', lang);
+                        location.reload(); 
+                    }
+
+                    document.addEventListener('DOMContentLoaded', function () {
+                        const storedLang = localStorage.getItem('jezyk');
+                        if (storedLang) {
+                            document.getElementById('language_selector').value = storedLang;
+                        }
+                    });
+                    document.addEventListener("DOMContentLoaded", function() {
+                    const select = document.getElementById("language_selector");
+                    const selectedText = select.querySelector(".selected-text");
+                    const options = select.querySelector(".options");
+                    const optionItems = select.querySelectorAll(".option");
+
+                    function setCookie(name, value, days) {
+                        let expires = "";
+                        if (days) {
+                        const date = new Date();
+                        date.setTime(date.getTime() + days*24*60*60*1000);
+                        expires = "; expires=" + date.toUTCString();
+                        }
+                        document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+                    }
+
+                    // pokaz/ukryj menu przez toggle klasy
+                    select.querySelector(".selected").addEventListener("click", () => {
+                        options.classList.toggle("open");
+                    });
+
+                    // wybór opcji
+                    optionItems.forEach(option => {
+                        option.addEventListener("click", () => {
+                        const lang = option.getAttribute("data-value");
+                        selectedText.textContent = option.textContent;
+                        selectedText.setAttribute("data-value", lang);
+                        options.classList.remove("open"); // ukrycie menu
+                        setCookie("lang", lang, 365);
+
+                        if (typeof zmienJezyk === "function") {
+                            zmienJezyk(lang);
+                        }
+                        });
+                    });
+
+                    // kliknięcie poza menu zamyka dropdown
+                    document.addEventListener("click", (e) => {
+                        if (!select.contains(e.target)) {
+                        options.classList.remove("open");
+                        }
+                    });
+                    });
+                  </script>
+                </div>
+               
+                
+
+                <div class="logo">
+                    <a href="index.php" title="Grobonet"><img src="../../gfx/grobonet_logo.png" alt="Wyszukiwarka osob pochowanych grobonet"></a>
+                </div>
+                
+            <div class="title" style="height: 110px;">
+                <h1 style="position: relative; top: 40px; padding-bottom: 70px;">Cmentarz komunalny w Tomaszowie Lubelskim</h1>
+                                </div>
+                            </div>
+        </header>
+        <div class="menu_g">
+        <section id="menu_res" class="text-center">
+        <hr>
+            
+               <nav>
+             
+                <ol id="menu">
+                    <li><a class="btn" href="/">Strona główna</a></li><li><a class="btn" href="/grobonet/start.php">Wyszukiwarka</a></li> <li><a class="btn" href="/mapa/">Mapa</a></li><li><a class="btn" href="/rocznice.php">Rocznice</a></li><li><a class="btn" href="/nekrologi.php">Nekrologi</a></li><li><a class="btn" href="/spacer.php">Wirtualny spacer</a></li><li><a class="btn" href="#">Informacje</a><ol><li><a class="btn" href="/regulamin.php">Regulamin</a></li><li><a class="btn" href="/cennik.php">Cennik</a></li></ol>
+                    </li><li><a class="btn" href="/wykaz_grobow_nieoplaconych.php">Wykaz grobów nieopłaconych</a></li><li><a class="btn" href="/kontakt.php">Kontakt</a></li>
+
+                </ol>
+               
+            </nav>
+            <hr>
+        </section>
+        </div><!-- <script src="lib/jquery-3.3.1.min.js"></script>-->
+<script>
+		// $.noConflict();
+		// Code that uses other library's $ can follow here.
+	</script>
+
+<!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>-->
+<script src="../whcookies.js"></script>
+<script>
+    function show_mapa() {
+        var mapa_szczegolowa_a = this.document.getElementById("mapa_szczegolowa");
+		jQuery(mapa_szczegolowa_a).click();
+    }
+// jQuery(document).ready(function() {
+//     jQuery(".menu li a").hover(
+//         function () {
+//             jQuery(this).animate({backgroundColor: '#cc3300'})
+//         },
+//         function () {
+//             jQuery(this).animate({backgroundColor: '#222222'})
+//         }
+//     );
+//
+// });
+</script>
+
+<script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script>
+try {
+var pageTracker = _gat._getTracker("UA-161627228-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+	<div class="content-page">
+		<section id="subpage">
+		<div class="subpage">
+			<div class="results">
+            <h1>System nie znalazł żadnej osoby o podanych kryteriach. Wróć do panelu wyszukiwania i podaj szersze 
+                        kryteria np. tylko imię lub nazwisko.</h1>
+            </div></div></section>	</div></div></div>
+<script>
+    $('document').ready(function(){
+        if($('#sort').val() == '3' || $('#sort').val() == '4')
+        {
+            $('.date-info').css('display', 'block');
+        } else {
+            $('.date-info').css('display', 'none');
+        }
+    });
+</script>	</div>
+
+    <!-- Return to Top -->
+    <a href="javascript:" id="return-to-top" title="Powrót do góry"><p>up</p><i class="icon-chevron-up"></i></a>
+
+    <Script>
+		function setCookie(name,value,days) {
+			var expires = "";
+			if (days) {
+				var date = new Date();
+				date.setTime(date.getTime() + (days*24*60*60*1000));
+				expires = "; expires=" + date.toUTCString();
+			}
+			document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+		}
+		function getCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
+		function eraseCookie(name) {
+			setCookie(name,"",-1);
+		}
+
+		var font_size = 16;
+		var $affectedElements = jQuery("p,div,h1,h2,h3,h4,li,a");
+
+		jQuery(document).ready(function () {
+			var x = getCookie('contrast');
+			if(x){
+				jQuery("body").addClass("contrast");
+				jQuery("#contrast_btn").text("Kontrast [Wyłącz]");
+			}
+			var x = getCookie('font_size');
+			if(x){
+				font_size = parseInt(x);
+				changeFontSize(font_size);
+			}
+
+			function changeFontSize(font_size){
+				console.log("ustawiam: "+font_size);
+				saveFontSize(font_size);
+				$affectedElements.each( function(){
+					var $this = jQuery(this);
+					$this.css( "font-size" , parseInt(font_size));
+				});
+			}
+
+			function saveFontSize(size){
+				setCookie('font_size', size, 30);
+			}
+
+			jQuery("#contrast_btn").click(function (e) {
+				e.preventDefault();
+				jQuery("body").toggleClass("contrast");
+
+				if(jQuery("body").hasClass("contrast")) {
+					setCookie('contrast', '1', 30);
+					jQuery("#contrast_btn").text("Kontrast [Wyłącz]");
+				}else{
+					eraseCookie('contrast');
+					jQuery("#contrast_btn").text("Kontrast");
+				}
+			});
+
+			jQuery("#font_increase_btn").click(function(e){
+				e.preventDefault();
+				font_size = font_size+2;
+				changeFontSize(font_size);
+			});
+
+			jQuery("#font_decrease_btn").click(function(e){
+				e.preventDefault();
+				font_size = font_size-2;
+				changeFontSize(font_size);
+			});
+
+		});
+
+        // ===== Scroll to Top ====
+		jQuery(window).scroll(function() {
+            if (jQuery(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+				jQuery('#return-to-top').fadeIn(200);    // Fade in the arrow
+            } else {
+				jQuery('#return-to-top').fadeOut(200);   // Else fade out the arrow
+            }
+        });
+		jQuery('#return-to-top').click(function() {      // When arrow is clicked
+			jQuery('body,html').animate({
+                scrollTop : 0                       // Scroll to top of body
+            }, 500);
+        });
+    </script>
+
+<script src="lib/lightbox2/js/lightbox.min.js"></script>
+<script>
+    lightbox.option({
+        'albumLabel': "%1 z %2"
+    });
+
+</script>
+<!-- <a href="http://kwestonet.artlookgallery.com"><img src="gfx/Kwestonet.png" id="kwestonetImgFooter" style="display:none;" alt="Kwestonet"></img></a> -->
+
+<footer id="footerE" style="position:absolute; bottom:0; height:161px;">
+            <div class="footer">
+                <address style="margin-bottom: 0 !important;">
+                    <p> </p>
+                    <p>  </p>
+                    <p></p>
+                     <p></a></p> 
+                </address>
+                <div class="copyright">
+<!--                    <div style="float: left; background-color: white; color: black; width: 250px;padding: 9px 4px 9px 11px;box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;-->
+<!--    border-radius: 20px; text-align: center;-->
+<!--">-->
+<!--                        <p>Szukaj na wszystkich cmentarzach objętych Grobonetem</p>-->
+<!--                        <i class="fas fa-arrow-right"></i>-->
+<!--                    </div>-->
+<div class="logo">
+
+                    <div style="float:left; text-align: center;">
+                        <p><a href="../polityka_cookies.pdf">Polityka Prywatności</a></p>
+                        <p style="margin-bottom: 5px;font-size:1.3rem;">Wyszukaj groby i mogiły osób pochowanych na cmentarzach w Polsce objętych wyszukiwarką</p>
+                        <a href="http://grobonet.com/"><img src="../../gfx/grobonet_kolor.png" alt="Wyszukiwarka grobow i cmentarzy grobonet.com"></a>
+                        <div style="align-items:center;" id="footer-site-link">
+<!--                        <br><br><br>-->
+<p><a href="http://polskie-cmentarze.com">polskie-cmentarze.com</a></p>
+                    </div>
+                    </div>
+
+</div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- Return to Top -->
+        <a href="javascript:" id="return-to-top"><p>up</p><i class="icon-chevron-up"></i></a>
+		
+	</body>
+
+<div id="surveyPopup" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%);
+     background:#fff; padding:30px; border:2px solid #333; box-shadow:0 0 10px rgba(0,0,0,0.5); z-index:9999;">
+    <h3>Twoja opinia</h3>
+    <form id="surveyForm">
+        <input type="hidden" name="survey_type" value="index">
+        <label>Jak oceniasz nasz program?</label><br>
+        <select name="rating" required>
+            <option value="">Wybierz</option>
+            <option value="5">5 – świetnie</option>
+            <option value="4">4 – dobrze</option>
+            <option value="3">3 – średnio</option>
+            <option value="2">2 – słabo</option>
+            <option value="1">1 – bardzo słabo</option>
+        </select><br><br>
+        <label>Czy funkcje są przydatne?</label><br>
+        <input type="radio" id="tak" name="usefull" value="2" required>
+        <label for="tak">Tak</label><br>
+
+        <input type="radio" id="nie" name="usefull" value="1" required>
+        <label for="nie">Nie</label><br><br>
+
+        <label>Twoje uwagi:</label><br>
+        <textarea name="comments" rows="4" cols="30" required></textarea><br><br>
+
+        <button type="submit" class="btn">Wyślij</button>
+        <button type="button" id="closePopup" class="btn">Zamknij</button>
+    </form>
+</div>
+
+
+<script>
+
+    function toggleTooltip(id) {
+        document.getElementById(id).classList.toggle('tooltip-show');
+    }
+
+    $(document).ready(function() {
+
+        
+        $("#closePopup").on("click", function() {
+            $("#surveyPopup").fadeOut();
+        });
+        $("#surveyForm").on("submit", function(e) {
+            e.preventDefault();
+
+            let formData = $(this).serialize();
+
+            $.ajax({
+                url: "/survey.php",
+                method: "POST",
+                data: formData,
+                dataType: "json",
+                success: function(res) {
+                    if(res.success) {
+                        alert("Dziękujemy za wypełnienie ankiety!");
+                        $("#surveyPopup").fadeOut();
+                    } else {
+                        alert("Błąd: " + res.message);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    console.error(xhr.responseText);
+                    alert("Wystąpił błąd przy wysyłaniu ankiety.");
+                }
+            });
+        });
+
+        $(".like-btn").on("click", function() {
+            let $el = $(this);
+            let $countEl = $el.find(".count");
+            let type = $el.data("type");   // np. "section"
+            let id   = $el.data("id");     // np. "1"
+            let liked = $el.hasClass("active");
+
+            $.ajax({
+                url: "/like.php",
+                method: "POST",
+                contentType: "application/json",
+                data: JSON.stringify({
+                    type: type,
+                    id: id,
+                    action: liked ? "unlike" : "like"
+                }),
+                success: function(res) {
+                    if (res.success) {
+                        $el.toggleClass("active", res.liked);
+                        $countEl.text(res.count);
+                    } else {
+                        alert("Błąd: " + res.message);
+                    }
+                },
+                error: function(e) {
+                    console.log(e);
+                    alert("Wystąpił błąd połączenia.");
+                }
+            });
+        });
+    });
+
+</script>
+</html>

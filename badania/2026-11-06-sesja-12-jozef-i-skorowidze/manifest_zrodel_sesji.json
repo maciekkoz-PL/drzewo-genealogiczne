@@ -1,0 +1,522 @@
+[
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1897_35.jpg",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1897_40.jpg",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1897_40_browser.jpg",
+    "size": 2722585,
+    "sha256": "98a4a513f47c4fe5762866878ce12a06fd07c06fbcc943eae56151b75b01589e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1897_45.jpg",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1897_45_browser.jpg",
+    "size": 2825723,
+    "sha256": "761864b8069a9e1c154270df4260372c43f4c052d8113028935538c03333ed91"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1933_024.jpg",
+    "size": 1622657,
+    "sha256": "5d00096618f46cfb9a7fe2711b68d457a97a0a3a47b57c15ee0101af7a10d073"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1935_029.jpg",
+    "size": 1802166,
+    "sha256": "8061c7c0f37f66460e2323687e772dde6efc63aa767d410c289edc45a718a560"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1937_033.jpg",
+    "size": 1912696,
+    "sha256": "1a7ba882b57f3fadf534b9fecc53d3b25776a59519d333c16e6041222aecb11e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1937_034.jpg",
+    "size": 1676497,
+    "sha256": "dfaa09e5dd546fab61d7d2c51d51d2109c3bfb885bde6b61fc6fb9be4908950a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1937_bride_row.jpg",
+    "size": 260190,
+    "sha256": "f3d9a2ef5db01f757e9a102eb04137228e1752712cc6736835ec3b9e4ae27def"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1937_first_bride.jpg",
+    "size": 169172,
+    "sha256": "96f50ee7079cf9643d1f238ddea0a2e5070f4e84a2eb8aaa87227cc12708bf5e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1938_027.jpg",
+    "size": 2304860,
+    "sha256": "afd7f98097ae5e92eaddf20f9cb73c357e7e521ac3e95d1d647a45b9b3114622"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/1938_028.jpg",
+    "size": 1662146,
+    "sha256": "aea2f65a75fba6403a82f178b9dc37f44356c5527ab0436119aa41a36379b24b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/Jozef1897_27.jpg",
+    "size": 2788497,
+    "sha256": "3e584ba6facaab74729253f7cb52453cd935ae4b0145749b005cbdeaacd6e343"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/Jozef195_crop.jpg",
+    "size": 210963,
+    "sha256": "02c09d8d0d202c4e9148b50f097fb16a52a7a6efc15eb5b955563f7dafcb2893"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/Jozef195_dates.jpg",
+    "size": 83558,
+    "sha256": "87a819600f8a835de754bee54d192b37e321c06dbd7f7e4145d7160c5ac4de25"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef1897_job/013fb58dccf26553a346f6121907c78903aea24a23021771539e6e4f76c4c56a_max.jpg",
+    "size": 2722585,
+    "sha256": "98a4a513f47c4fe5762866878ce12a06fd07c06fbcc943eae56151b75b01589e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef1897_job/1897_35_browser_asset.html",
+    "size": 989,
+    "sha256": "44bc642b43108187504fefaaebaa54d08c89d17e10d3d6ccafd11c209b19f959"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef1897_job/1897_40_browser_asset.html",
+    "size": 591,
+    "sha256": "66e90128d4d13a00942ec7d6a9cd6a80c6b9ab4f93bd403d9e98d3ff5bfd9487"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef1897_job/1897_45_browser_asset.html",
+    "size": 591,
+    "sha256": "92a51eb115d324c2e5ee8305aebb13b1345f6515162e7abab917a70a1008edbb"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef1897_job/4ed49dac6363250aaeb66c201030766b2515e5deb38f7c83a5463796a0462ae6_max.jpg",
+    "size": 2825723,
+    "sha256": "761864b8069a9e1c154270df4260372c43f4c052d8113028935538c03333ed91"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef1897_job/asset_network.json",
+    "size": 2239,
+    "sha256": "4889970aae3d9a0ec7f7d28fa5f1310143c5d81ccbbf1f566372b51ab7571fd9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef195_target/Jozef1897_27_asset.html",
+    "size": 591,
+    "sha256": "ff009be3f0aa1e2d71ea4e771f994c622de7d16f907db3d36aeb8c21261fdc79"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef195_target/asset_network.json",
+    "size": 1707,
+    "sha256": "dc0e13f64582ce65202c3f45920fc4945357974282a77f9e1d384f2b57c1866a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/browser_scan_jozef195_target/c07a9fd88a54463d6f84d279f3c376a637f7814d3f5de061aa28a624503618d2_max.jpg",
+    "size": 2788497,
+    "sha256": "3e584ba6facaab74729253f7cb52453cd935ae4b0145749b005cbdeaacd6e343"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/emilia74_recheck.jpg",
+    "size": 273454,
+    "sha256": "d484e5a06960b4d1efcdda1f9b0f2a6bbcccf7b9edd311bb876b80af4fba3e5d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/emilia_mandziuk.html",
+    "size": 60211,
+    "sha256": "d194e4afb5e21dab1d5cda7ce08bcb9a6ed383e671627116b6d8b24a827872a7"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/emilia_mandziuk.txt",
+    "size": 1235,
+    "sha256": "c98d80af483455519c57c542a360cdace4469b6690e1e467f54632441fc3ba28"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/emilia_mandziuk_accent.html",
+    "size": 60211,
+    "sha256": "d194e4afb5e21dab1d5cda7ce08bcb9a6ed383e671627116b6d8b24a827872a7"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/emilia_mandziuk_accent.txt",
+    "size": 1235,
+    "sha256": "c98d80af483455519c57c542a360cdace4469b6690e1e467f54632441fc3ba28"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/fetch_1.json",
+    "size": 599,
+    "sha256": "4e701ca312034527c485400a46447502d4ff54ad2e329d084180713973362c35"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/fetch_1897_1.json",
+    "size": 650,
+    "sha256": "f4dffb17a30f4bde6fdf54ca19803c6980a9022a20ba661b6c7e091a276bad3c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/fetch_2.json",
+    "size": 1296,
+    "sha256": "1c3076f284c668157fc82b7111b019ee8d802af27a2aec257d3c3b163397a3e2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/fetch_3.json",
+    "size": 16729,
+    "sha256": "ab3ad2ae71d3490ef39bb15cad599aa687fa2a06d46347489ba63ddc088e0f30"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/fetch_4.json",
+    "size": 1682,
+    "sha256": "cc266938335efdf2c186a6bb84c4c0ec95ed713b042c6cf7edeec151db8a64f3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932.html",
+    "size": 82759,
+    "sha256": "c04e74470603c6a0aede51494057565168715d6b0b1a0ce8eb50c1ad51bd893b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_001.jpg",
+    "size": 68473,
+    "sha256": "2c9e3994e9f904049a5c9f71ac8ac8e4410a2976ff1dacb5aa8d97bfa4312c80"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_002.jpg",
+    "size": 164828,
+    "sha256": "7dad06372c3e0ccebefef022d19758a890930d1b5cde29dfb3d30dcd88f727b4"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_003.jpg",
+    "size": 173098,
+    "sha256": "b6d31a88d8a05d76aaf41f7f9e51b0717006565f021e8e3daf48c9e2cf79464e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_004.jpg",
+    "size": 139574,
+    "sha256": "06600498bd08990b69ce3e0f77bcbb7676b3005843db516e6e108a64265bc2f1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_005.jpg",
+    "size": 138056,
+    "sha256": "ee3b5d4c79dbf28be57be5728745ab021b507c0b5a7de71554787b7961811e5c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_006.jpg",
+    "size": 135529,
+    "sha256": "ec342dcd16336191e9fd7a0383cf6d662ca968f97ad3e2489799451daee6bfd0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_007.jpg",
+    "size": 170995,
+    "sha256": "23c3bf5988807734b766543b775a2078b01b05f9c3af9baa1324f3142988b2fc"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_008.jpg",
+    "size": 221143,
+    "sha256": "6c594df0be2767c68893d016ffdb13dd3d8cdc638b98c165e225d1b2e1c9a3f0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_009.jpg",
+    "size": 164987,
+    "sha256": "c921d30e82fab1274d755c3394778405388046135916d53ef914b1a553e3fe5c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_010.jpg",
+    "size": 163144,
+    "sha256": "91a5256ed79e1dc6733267c269d0a9b47b0e6e2dc63edc481dc8207beafdbaff"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_011.jpg",
+    "size": 168691,
+    "sha256": "6c7b342f0aeb0502f9a601404fa62df19c95f0c08da4c39adbf0d44a58441878"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_012.jpg",
+    "size": 180418,
+    "sha256": "7166e889f5e61b18d89e9f9454475307772dfe47b57bcb8bc6503ea5aca9211a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_013.jpg",
+    "size": 146936,
+    "sha256": "9661f4dc218b990e663fc43bf9a7b3b80c5c996f7e7562f38e510d889dd0a7ed"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_014.jpg",
+    "size": 153304,
+    "sha256": "456866d8c04ae5b8be38e581f8063afd4972c91cc6a6d6a34c359c07f8ae7a4e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_015.jpg",
+    "size": 180381,
+    "sha256": "89c580c183440f7ba1593467bff94617e63f0a7264e09c55176e51c55177695c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_016.jpg",
+    "size": 179524,
+    "sha256": "1df7bca89cd22c4eefbbd028cb8c76ef37d35160d1e9ddd7c1624a6cc45d0406"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_017.jpg",
+    "size": 165761,
+    "sha256": "460ece71db94cf848ae7f69ca4c09b8311cebc2c6ef29147976324fceb92b537"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_018.jpg",
+    "size": 190248,
+    "sha256": "9abf0670625e8df7cd5cb1fc291ddf61eb88052d78e15c694417f00786573d97"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_019.jpg",
+    "size": 136704,
+    "sha256": "e94e6b93cac2b72f170034d9499bf93c8b95282e2533cdc2929cf62a85730521"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_020.jpg",
+    "size": 165168,
+    "sha256": "acd6ed0d1d26044c648690bbf8f0ec425a214ee48e2547a4fed67a1fe9dd740a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_021.jpg",
+    "size": 168806,
+    "sha256": "1ffbfbca132cc480afdb1e5e15e0f0dd54782b3a07f1a663a5b8d64f8271110e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_022.jpg",
+    "size": 167720,
+    "sha256": "62579c4563108e87c1dd0950e884858f926592af418f71ba3848413f825bc1bd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_023.jpg",
+    "size": 168856,
+    "sha256": "3d601d91f4c1e8668e6acefde73f48c01285f5b7c305e8ee1734d6f22824b2be"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_024.jpg",
+    "size": 171979,
+    "sha256": "24031d95d8d7f74c65219adc0c987cc56041097d29d09e9894ee2f23e31a7fba"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_025.jpg",
+    "size": 193061,
+    "sha256": "db6e027b076d680bcc12134f645848522ef6daeb47d850c0e5973d746386d25f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_026.jpg",
+    "size": 179840,
+    "sha256": "8260fb7bc271c9ef449bdd445e0b7bd3422c98541016a33ea392adeadf96c9f0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_027.jpg",
+    "size": 168773,
+    "sha256": "614e233680c0acf1a96c1319d318505bcf1190afc04ebc679ee6d30d5ab7b575"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_028.jpg",
+    "size": 181845,
+    "sha256": "e8cfe2320b84a3548f3314d0bc04f23be67bf5eb11ebe729bb3ad3e082474841"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_029.jpg",
+    "size": 179873,
+    "sha256": "9ebf8366bbefd74b5a6867ed97783b189c82b09a78faeec81aa9fa2bafb425fc"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_030.jpg",
+    "size": 177080,
+    "sha256": "ae480b191b19fbbc65b76d5daf59d0fa2f2b4deae27c76eb86c24479af059d6b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_031.jpg",
+    "size": 184619,
+    "sha256": "389ce36ee65e94c5509a93eff1e4aaa099af26cb87e80222033320a40d7c67d9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_032.jpg",
+    "size": 158318,
+    "sha256": "254ccb1bea5d7b59032d2fa3bac7ca8c105cdecc5b05f75f9bd1cb6b5df7a270"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_033.jpg",
+    "size": 165437,
+    "sha256": "c5f9feb3c6ddf1ec616ee2cfc82b8a8583f8900e6a7f4ccfc40157acae682c18"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_034.jpg",
+    "size": 190108,
+    "sha256": "03d201be62f334b17d9dca8597545a43d24de2c4be66b8c922ff9929e9d6b049"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_035.jpg",
+    "size": 174778,
+    "sha256": "1c017e593b78b59f1c6ada8356733936cfba290cd36c6ef38a27446bcda1b048"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_036.jpg",
+    "size": 176175,
+    "sha256": "769b07047d2a9c0f5dfb05f29eedd6a245e2dc295fb33e2a1f5809efeb7d6ce0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_037.jpg",
+    "size": 149454,
+    "sha256": "fa56ab6a9adf59b0db7af0b5cbccf2453a582acae01625dc1fc523475a464c0c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_038.jpg",
+    "size": 182494,
+    "sha256": "e7340178f3ca89faff7ba094fdd71530e579caab4e828aeec59edce11f1d7268"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_039.jpg",
+    "size": 165325,
+    "sha256": "c35eba9374478c4e8826515c44ce1b680a39fab64749cddd5dcd14900114aa23"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_040.jpg",
+    "size": 143283,
+    "sha256": "648b434909c5f0538f3fe04e9d4fdc5a0ce80002ee65a35e8f3e18c021f938b6"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_041.jpg",
+    "size": 115379,
+    "sha256": "566d80fadba5fb1584c629262ff3f9d0233e37a2b6f811d1c502130094853f45"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow1932_042.jpg",
+    "size": 72459,
+    "sha256": "a4628bb711cce4fc5a43b3eb16564b58c3b8db349b07bb069d231b3dd7d37ae8"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/garbow_albums.html",
+    "size": 41443,
+    "sha256": "89a2942213e31c04129db6253be6fbca702472d1fe7da822aee3f158b7b38bfd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/get_swa1897.py",
+    "size": 1356,
+    "sha256": "a722772aa2818880b0a972f2554121a2ca7af9647203bb61b6d590e3c70877c9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/grobo_emilia.html",
+    "size": 79376,
+    "sha256": "0378bcddc5a03e90b473b5495ea4e12a276bf24076b02617c4f250bb0c9647bd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/grobo_emilia.txt",
+    "size": 3552,
+    "sha256": "29bec1c521cfb5d4fc9287fd0ef44b985fbcade3ef3eb99838b8b132067c7dc9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/grobo_mandziuk.html",
+    "size": 106637,
+    "sha256": "20101ea42081b8f4b6dbfafebaa5bbec7cd6a0f5c0b1452307c1d8eb0e678404"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/grobo_mandziuk.txt",
+    "size": 7573,
+    "sha256": "d6ae431b6fc58bfc4fb5c7bd9b142a1f715f64371c78103dca5f4af63a7ab80c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/grobonet_start.html",
+    "size": 61337,
+    "sha256": "0301321e82d43a355cb7c9d2fe0243883f6416dfb25b97f397403c003a41e437"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef1897_job.json",
+    "size": 480,
+    "sha256": "a412dd83d50cecdb86a52712367cbf3cb7d7cac53d1f9b0a092953844ecc6916"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef1899.html",
+    "size": 303282,
+    "sha256": "9decbcded332bba23f40514c16eab1056e98cca86357f9f400887af701e55cfc"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef1899_accent.html",
+    "size": 303242,
+    "sha256": "14cb7910dfc3d4b85b42c2c0a12f990bfa3e46dbd7f832b794b4d16fb961f647"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef195_target.json",
+    "size": 157,
+    "sha256": "dcc014c6b19e8972664984cfc4806362c58e73b4177f6ddabff48bb2e53fca4a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_6666.html",
+    "size": 80292,
+    "sha256": "43ed4cea2720ced360db352ea24e72b80617cfbac795f5fda75b11c4dd220c80"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_6666.txt",
+    "size": 2075,
+    "sha256": "58c50a6fcca98c508d6cbe019c898141796a851af1351d712180e0a235c383d6"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_8031.html",
+    "size": 80109,
+    "sha256": "fec3ada5f3ba8b1e9c365157847f087dc30c1243ef6e36e007d64b7b5ddda060"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_8031.txt",
+    "size": 2075,
+    "sha256": "215cd46ad59d50a08849c7ef09a8271c881412ef9c482cd8981379ac81c14edd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_928.html",
+    "size": 80082,
+    "sha256": "dd9ea7f0cd0c326356855047551dc052df971d3cb2bbc3d2289e91b87a3b871e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_928.txt",
+    "size": 2092,
+    "sha256": "0b29fc4c85954705d19ffcec616c65408282d772036731c186802e6497570d86"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_9474.html",
+    "size": 80083,
+    "sha256": "583c9e357a7b9d679f0cd15878868abd635ed85ed74ee7bf415ded4ca08f56aa"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_9474.txt",
+    "size": 2090,
+    "sha256": "af75f55caf84bfbd85d6b060d3f5fd114125e9f6cb90fe0973834117516674e3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_mandziuk.html",
+    "size": 67974,
+    "sha256": "a969ebf8a342eabea0782b685996f6d8bc771085833c142d41e76a918ba1f431"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/jozef_mandziuk.txt",
+    "size": 1909,
+    "sha256": "5d2d8a46069ce1005bc0c53350ccb177edf0b5cfddf4f13db8a43cafc4d27e8d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/lubgens_jozef.json",
+    "size": 1790,
+    "sha256": "f46da3f887882ed981701cc79283def0bea697a3f2392f966ea4e0630b615431"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/swa1897/Tomaszow1897.html",
+    "size": 135013,
+    "sha256": "aba06bd77585912f1df77e8ca0bd36b89cae4a4c85a811dbd691a341b8c9c69b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/swa1897/Tomaszow1897_api.json",
+    "size": 44346,
+    "sha256": "05de6483523e345dd72156d3d23ac0f1ac585aa8e9338d420e89f21797801bfd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/swa1897/log.json",
+    "size": 331,
+    "sha256": "3e716d00b17d625a9062c65645b2032ddbf694805e373a47dd771cb696008da1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-12-jozef-i-skorowidze/zrodla/web_queries.json",
+    "size": 47861,
+    "sha256": "97c412df44b66d18978413d6e06b9b71fddedef7f8c321dd374fdc9b706257e1"
+  }
+]

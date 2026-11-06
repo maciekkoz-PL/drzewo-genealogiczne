@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/6160971b1bb7c44b6d8873b01daa2e425f2926b4026f92854b01d34887d81cb9_max",
+    "status": 200,
+    "size": 955,
+    "type": "text/html",
+    "access_utc": "2026-11-06T13:28:24.325226+00:00",
+    "sha256": "7363c8dc3b97aad66f8d73b5ee39352dbe8a2301289ee73aca8f061319c01226"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3",
+    "status": 200,
+    "size": 87733,
+    "type": "application/javascript",
+    "access_utc": "2026-11-06T13:28:25.534696+00:00",
+    "sha256": "a0916acc38773e9be3ff8d128174ac8b0b2a1ae6e5e217e181b843a39a20163b"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.5949779385358931",
+    "status": 200,
+    "size": 1,
+    "type": "text/plain",
+    "access_utc": "2026-11-06T13:28:26.390227+00:00",
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWUDNSAI=31&xinfo=9-9337795-0%200NNN%20RT%281793971661758%2042494%29%20q%280%20-1%20-1%202%29%20r%280%20-1%29%20B12%284%2c315%2c0%29%20U18&incident_id=1379000750092631752-65868194067452617&edet=12&cinfo=04000000&rpinfo=0&cts=AXvSOQ1fvA4ozJFRVt5BuTL5A4H9sBeF%2fDJRaN3wTr%2b0d2Ccw%2f5YZZ8HtU95xqzg&cip=90.96.176.230&mth=GET",
+    "status": 200,
+    "size": 14203,
+    "type": "text/html",
+    "access_utc": "2026-11-06T13:28:27.278941+00:00",
+    "sha256": "6814338b5bed200f586248d795f82352bde9baa19772573de4a0e78c212341f8"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/013fb58dccf26553a346f6121907c78903aea24a23021771539e6e4f76c4c56a_max",
+    "status": 200,
+    "size": 2722585,
+    "type": "image/jpeg",
+    "access_utc": "2026-11-06T13:28:30.633704+00:00",
+    "sha256": "98a4a513f47c4fe5762866878ce12a06fd07c06fbcc943eae56151b75b01589e"
+  },
+  {
+    "url": "https://photos.szukajwarchiwach.gov.pl/4ed49dac6363250aaeb66c201030766b2515e5deb38f7c83a5463796a0462ae6_max",
+    "status": 200,
+    "size": 2825723,
+    "type": "image/jpeg",
+    "access_utc": "2026-11-06T13:28:35.828598+00:00",
+    "sha256": "761864b8069a9e1c154270df4260372c43f4c052d8113028935538c03333ed91"
+  }
+]
