@@ -1,0 +1,29 @@
+[
+  {
+    "url": "http://cmentarze.lubgens.eu/",
+    "utc": "2026-11-06T14:47:44.759762+00:00",
+    "status": 200,
+    "bytes": 39384,
+    "sha256": "8aa370370f1a9950265465dabd6abbba94dfd3ddf8a1e77f17063190ed466a35",
+    "path": "work/s15/cmentarze_http.html",
+    "actual_url": "https://cmentarze.lubgens.eu/news.php"
+  },
+  {
+    "url": "https://cmentarze.lubgens.eu/",
+    "utc": "2026-11-06T14:47:47.755738+00:00",
+    "status": 200,
+    "bytes": 39384,
+    "sha256": "12a658adaa807e7edaf16c467855dab1323796fd75f438715f8d8625ddffb05f",
+    "path": "work/s15/cmentarze_https.html",
+    "actual_url": "https://cmentarze.lubgens.eu/news.php"
+  },
+  {
+    "url": "https://muzykaroztocza.pl/muzyk/183/name/Harbuz%2BTadeusz%2B.html",
+    "utc": "2026-11-06T14:47:49.350884+00:00",
+    "status": 200,
+    "bytes": 80338,
+    "sha256": "3d80f772abdc54ee039ebc6b5f0abd44cdf544aabb11559d628c4d57131f8f04",
+    "path": "work/s15/muzyk.html",
+    "actual_url": "https://muzykaroztocza.pl/muzyk/183/name/Harbuz%2BTadeusz%2B.html"
+  }
+]

@@ -1,0 +1,270 @@
+
+
+ Wyszukiwarka nagrobków - Pomoce genealogiczne Lubelskich Korzeni
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                
+              
+            
+          
+        
+        
+		  
+            
+ · 
+Portal
+ · 
+Nawigacja
+ · 
+Nasze Forum
+ · 
+Regestry
+ · 
+Admin/Autorzy
+ · 
+Cookies
+
+
+            06 Listopada 2026 14:49:56
+          
+        
+
+        
+		  
+
+
+Szukaj
+
+
+
+Szukaj w artykułach
+
+
+
+
+  
+    Nawigacja
+    
+  
+  
+    
+
+
+
+Portal
+
+
+Nawigacja
+
+
+Nasze Forum
+
+
+Regestry
+
+
+Admin/Autorzy
+
+
+Cookies
+
+
+
+
+
+Miejscowości w parafiach
+
+
+
+
+
+Tabele oraz szukaj nagrobków
+
+
+Źródła do badań on-line
+
+
+
+Nasze publikacje
+
+
+
+
+
+FamilySearch
+
+
+Szukajwarchiwach
+
+
+
+Rzymskokatolickie
+
+
+Inne wyznania
+
+
+Pozametrykalne
+
+
+
+
+
+
+
+
+  
+    Najnowsze artykuły
+    
+  
+  
+     Dzierzkowice Majorac...
+ Kapłani w parafii B...
+ Funkcje i zawody w p...
+ Krzeszów spis osób...
+ Spis ludności paraf...
+
+
+
+O nie! Gdzie jest JavaScript?Twoja przeglądarka internetowa nie ma włączonej obsługi JavaScript lub nie obsługuje JavaScript.
+Proszę włączyć JavaScript w przeglądarce internetowej, aby poprawnie wyświetlić tę witrynę, lub zaktualizować do przeglądarki internetowej, która obsługuje JavaScript.
+
+
+
+
+
+Wyszukiwarka nagrobków
+
+
+
+ Znajdź nagrobek na opracowanych cmentarzach z woj. Lubelskiego
+Wyniki poukładane są alfabetycznie wewnątrz jednej parafii.
+
+
+Wpisz szukane nazwisko lub jego częśćwtedy system pokaże również nazwiska podobne.
+ Wyszukaj dokładnie    
+
+
+Lub wyświetl tabelę nagrobków z danego cmentarza 
+
+<!--
+// origjnal code by Bill Trefzger 12/12/96
+function go(){
+if (document.selecter.select1.options[document.selecter.select1.selectedIndex].value != "none") {
+location = document.selecter.select1.options[document.selecter.select1.selectedIndex].value
+ }
+}
+//-->
+
+
+
+<!--
+document.write('<form name="selecter"><select name="select1" size=1>');
+document.write('<option value=none>Wybierz cmentarz..');
+document.write('<option value=none>--------------------');
+document.write('<option value="/viewpage.php?page_id=3&nr=Babin">Babin');
+document.write('<option value="/viewpage.php?page_id=3&nr=Baranów">Baranów');
+document.write('<option value="/viewpage.php?page_id=3&nr=Boby">Boby');
+document.write('<option value="/viewpage.php?page_id=3&nr=Bristol">Bristol');
+document.write('<option value="/viewpage.php?page_id=3&nr=Bychawa">Bychawa');
+document.write('<option value="/viewpage.php?page_id=3&nr=Cmentarz Obrońców Lwowa">Cmentarz Obrońców Lwowa');
+document.write('<option value="/viewpage.php?page_id=3&nr=Lublin - ul. Lipowa">Lublin - ul. Lipowa');
+document.write('<option value="/viewpage.php?page_id=3&nr=Lublin - ul. Unicka">Lublin - ul. Unicka');
+document.write('<option value="/viewpage.php?page_id=3&nr=Markuszów">Markuszów');
+document.write('<option value="/viewpage.php?page_id=3&nr=Modliborzyce">Modliborzyce');
+document.write('<option value="/viewpage.php?page_id=3&nr=Osuchy">Osuchy');
+document.write('<option value="/viewpage.php?page_id=3&nr=Rakołupy">Rakołupy');
+document.write('<option value="/viewpage.php?page_id=3&nr=Ryki">Ryki');
+document.write('<option value="/viewpage.php?page_id=3&nr=Sigła">Sigła');
+document.write('<option value="/viewpage.php?page_id=3&nr=Tarnogóra">Tarnogóra');
+document.write('<option value="/viewpage.php?page_id=3&nr=Urzędów">Urzędów');
+document.write('<option value="/viewpage.php?page_id=3&nr=Włostowice">Włostowice');
+document.write('<option value="/viewpage.php?page_id=3&nr=Wólka Kraśniczyńska">Wólka Kraśniczyńska');
+document.write('<option value="/viewpage.php?page_id=3&nr=Zaklików">Zaklików');
+document.write('</select>');
+document.write('<INPUT TYPE="button" VALUE="Pokaż !" onclick="go()">');
+document.write('</form>');
+//-->
+ 
+
+znalezionych nazwisk 0 wpisówCmentarzLp.NAZWISKAIMIONALINK
+
+
+
+
+
+Nasze źródła
+
+
+
+
+
+
+
+
+Źródła FamilySearch
+
+
+
+
+
+
+
+
+  
+    Zasoby szukajwarchiwach.pl
+    
+  
+  
+    rzymskokatolickieinne wyznaniapozametrykalneŻyczymy owocnych poszukiwań
+
+
+
+          
+		
+    
+	
+	Copyright © 2021
+	
+	
+Powered by PHPFusion Copyright © 2026 PHP Fusion Inc
+Released as free software without warranties under GNU Affero GPL v3.
+
+	
+	
+Appalachia Theme by: Kyon
+	
+	
+102,638 unikalnych wizyt
+	            
+	          
+	        
+	      
+	    
+	  
+    
+  
+
+
+

@@ -1,0 +1,39 @@
+roman_all BuildQueryGlobalForAngular True
+roman_all GetCount 34
+roman_all GetPersonList rows=34
+PERSON roman_all {'ObjId': 1393219, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '03/17/1907', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 1393226, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '04/18/1907', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 3767061, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '01/12/1897', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 3768590, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '01/12/1897', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 5282249, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 5282464, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '09/04/1921', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 5672515, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '09/04/1921', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 10007501, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '01/12/1897', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 66752654, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 66782242, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '08/07/1903', 'PlaceBirth': 'Warszawa'}
+PERSON roman_all {'ObjId': 70622535, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '09/10/1923', 'PlaceBirth': 'Kübeck'}
+PERSON roman_all {'ObjId': 70721293, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '08/07/1903', 'PlaceBirth': 'Warschau'}
+PERSON roman_all {'ObjId': 71780004, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '11/17/1925', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 71780006, 'FirstName': 'ROMAN ZBIGNIEW', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '11/03/1947', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 81673879, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 81766762, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '06/06/1919', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 81766762, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '10/06/1946', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 100422551, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '01/12/1897', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 124985123, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '08/07/1903', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 129643829, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '01/12/1897', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 130122359, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '03/17/1907', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 130122360, 'FirstName': 'Roman', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '04/18/1907', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 130430133, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '01/12/1897', 'PlaceBirth': 'Posen'}
+PERSON roman_all {'ObjId': 130431054, 'FirstName': 'ROMAN', 'LastName': 'CHMIELEWSKI', 'MaidenName': '', 'Dob': '01/12/1897', 'PlaceBirth': 'Posen'}
+PERSON roman_all {'ObjId': 3433761, 'FirstName': 'ROMAN', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '02/24/1905', 'PlaceBirth': 'RAWA-RUSSKA'}
+PERSON roman_all {'ObjId': 3640759, 'FirstName': 'ROMAN', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '02/24/1905', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 10007590, 'FirstName': 'ROMAN', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '11/05/1914', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 70640295, 'FirstName': 'Roman', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '02/24/1905', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 70640326, 'FirstName': 'Roman', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '02/24/1905', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 89234359, 'FirstName': 'Roman', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '05/14/1935', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 100422577, 'FirstName': 'ROMAN', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '11/05/1914', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 128452154, 'FirstName': 'ROMAN', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '11/05/1914', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 130432377, 'FirstName': 'ROMAN', 'LastName': 'CHMIELOWSKI', 'MaidenName': '', 'Dob': '11/05/1914', 'PlaceBirth': ''}
+PERSON roman_all {'ObjId': 71780597, 'FirstName': 'ROMAN', 'LastName': 'CHMILEWSKI', 'MaidenName': '', 'Dob': '10/25/1912', 'PlaceBirth': ''}
+sabina_all BuildQueryGlobalForAngular True
+sabina_all GetCount 0

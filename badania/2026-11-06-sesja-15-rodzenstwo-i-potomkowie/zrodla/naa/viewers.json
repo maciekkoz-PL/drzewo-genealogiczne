@@ -1,0 +1,88 @@
+[
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670395",
+    "item_id": "203670395",
+    "utc": "2026-11-06T15:03:56.826288+00:00",
+    "status": 200,
+    "actual_url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670395",
+    "title": "View digital copy",
+    "images": [
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/naa_logo_blue_small.jpg",
+        "w": 250,
+        "h": 118
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/zoom.png",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B=203670395&S=1&T=P&R=0",
+        "w": 3199,
+        "h": 1991
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/twitter.png",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/facebook.png",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/email.png",
+        "w": 24,
+        "h": 24
+      }
+    ],
+    "frames": [
+      "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670395"
+    ]
+  },
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670397",
+    "item_id": "203670397",
+    "utc": "2026-11-06T15:04:00.652278+00:00",
+    "status": 200,
+    "actual_url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670397",
+    "title": "View digital copy",
+    "images": [
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/naa_logo_blue_small.jpg",
+        "w": 250,
+        "h": 118
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/zoom.png",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B=203670397&S=1&T=P&R=0",
+        "w": 3203,
+        "h": 1991
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/twitter.png",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/facebook.png",
+        "w": 24,
+        "h": 24
+      },
+      {
+        "src": "https://recordsearch.naa.gov.au/SearchNRetrieve/Images/email.png",
+        "w": 24,
+        "h": 24
+      }
+    ],
+    "frames": [
+      "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/ViewImage.aspx?B=203670397"
+    ]
+  }
+]

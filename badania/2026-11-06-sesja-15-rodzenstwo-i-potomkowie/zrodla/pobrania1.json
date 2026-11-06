@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.ttr-tomaszow.pl/files/rt_2016.pdf",
+    "utc": "2026-11-06T14:45:16.876831+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 4148954,
+    "sha256": "32fdde7808e82271f4042c48943d2631db68eb25c7ff6c3ef3e96e9d5aec2fb1",
+    "path": "work/s15/rocznik2016.pdf"
+  },
+  {
+    "url": "https://www.familysearch.org/ark:/61903/3:1:TH-1-11880-96620-31",
+    "utc": "2026-11-06T14:45:19.895290+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

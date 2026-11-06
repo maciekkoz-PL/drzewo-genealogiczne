@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B=203670395&S=1&T=P&R=0",
+    "path": "work/s15/naa/203670395_1.jpg",
+    "status": 200,
+    "bytes": 491458,
+    "sha256": "7ab4099ad10645224692010f9a0b54a3691915eb117acace644fc7e45466ae9b",
+    "utc": "2026-11-06T15:04:52.633003+00:00"
+  },
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B=203670395&S=2&T=P&R=0",
+    "path": "work/s15/naa/203670395_2.jpg",
+    "status": 200,
+    "bytes": 327935,
+    "sha256": "20b3212c747bc4316bf3304c21b09b0832e4c1f3ee047a86337270d582fef9b9",
+    "utc": "2026-11-06T15:04:56.423263+00:00"
+  },
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B=203670397&S=1&T=P&R=0",
+    "path": "work/s15/naa/203670397_1.jpg",
+    "status": 200,
+    "bytes": 450677,
+    "sha256": "f22a3d83288e7b7dc1057cd11fb6341441caa69a02203f0b3b40b997b992f0ee",
+    "utc": "2026-11-06T15:04:58.884954+00:00"
+  },
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/NAAMedia/ShowImage.aspx?B=203670397&S=2&T=P&R=0",
+    "path": "work/s15/naa/203670397_2.jpg",
+    "status": 200,
+    "bytes": 323310,
+    "sha256": "cfcdf872480095739d298e76039732b0f11ab9f7d2d27a6161442f4a434ef32a",
+    "utc": "2026-11-06T15:05:01.464101+00:00"
+  }
+]

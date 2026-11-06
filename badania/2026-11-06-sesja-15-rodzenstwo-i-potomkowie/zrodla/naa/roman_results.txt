@@ -1,0 +1,73 @@
+RecordSearch
+Login
+Help RecordSearch Forum View previous searches
+Basic search
+Advanced search
+NameSearch
+PhotoSearch
+Passenger arrivals
+Newly scanned records
+Item list
+Welcome guest
+
+
+New search
+	
+Refine search
+			
+Display 
+10
+20
+50
+100
+150
+200
+ search results per page
+	
+   Displaying 1 to 6 of 6
+	
+List report
+Details report
+Select	Series no.	Control symbol	Item title	Date range	Digitised item	Item ID	Format
+	A2571	CHMIELEWSKI ROMAN	CHMIELEWSKI, Roman : Year of Birth - 1919 : Nationality - POLISH : Travelled per - GEN.STEW. 3 : Number - 129690
+
+Access status: Open
+Location: Canberra
+	1947 - 1956		203670395	
+	A12002	766-769	CHMIELEWSKI Roman born 6 June 1919; Anna born 19 February 1929; Roman born 6 October 1946; Ernst born 20 November 1947
+
+Access status: Open
+Location: Canberra
+	1950 - 1950		4256174	
+	D4881	CHMIELEWSKI ROMAN	CHMIELEWSKI Roman - Nationality: Polish - Arrived Melbourne per General M B Stewart 30 January 1950
+
+Access status: Open
+Location: Adelaide
+	1950 - 1976		7196078	
+	MP1155/1	V1962/9185	Chmielewski, Roman William
+
+Access status: Not yet examined
+Location: Melbourne
+	1962 - 1962		25989976	
+	A2571	CHMIELEWSKI ROMAN	CHMIELEWSKI, Roman : Year of Birth - 1946 : Nationality - POLISH : Travelled per - GEN.STEW. 3 : Number - [UNKNOWN]
+
+Access status: Open
+Location: Canberra
+	1947 - 1956		203670397	
+	MP1155/1	V1962/5786	Chmielewski, Zbigniew Roman
+
+Access status: Not yet examined
+Location: Melbourne
+	1962 - 1962		25987330	
+
+
+Jump to record number Go 	
+   Displaying 1 to 6 of 6
+New search
+	
+Refine search
+			
+Back to top
+Privacy Copyright Terms of use Accessibility Using the collection Citation Service charter Ask us a question
+
+© Copyright National Archives of Australia 2026

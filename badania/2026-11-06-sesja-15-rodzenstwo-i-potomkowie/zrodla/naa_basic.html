@@ -1,0 +1,249 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	Session expired | RecordSearch | National Archives of Australia
+</title><link id="mainStyleSheet" href="/SearchNRetrieve/Stylesheets/rs_combined.css" rel="stylesheet" type="text/css" /><link rel="icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon" /><link rel="shortcut icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon" />
+    <script id="jqueryLink" src="/SearchNRetrieve/JS/jquery.js" type="text/javascript" language="javascript" ></script>   
+     
+    
+    <script language="JavaScript" type="text/javascript">    
+        var bTimeSession = true;
+    </script>       
+    
+</head>
+<script language="JavaScript" type="text/javascript">    
+
+
+        var sessionTimeoutWarning = '29'; 
+        var sessionTimeout = '30';
+        var imgHiddenDotID = 'imgHiddenDot';
+        
+        var timeOnPageLoad = new Date();
+        var sessionWarningTimer = null;
+        var redirectToWelcomePageTimer = null;
+
+        function fHandleSessionTimeOut()
+        {	         
+            //For warning
+            sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+            //To redirect to the welcome page
+            redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+        }
+
+        //Session Warning
+        function SessionWarning()
+        {
+            //minutes left for expiry
+            var minutesForExpiry =  (60 * (parseInt(sessionTimeout) - parseInt(sessionTimeoutWarning)));
+            var message = "Your session will expire in another " + minutesForExpiry + " seconds. Do you want to extend the session?";
+
+            //Confirm the user if he wants to extend the session
+            answer = confirm(message);
+
+            //if yes, extend the session.
+            if(answer)
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+                
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+                else
+                {                
+                    var img = document.getElementById(imgHiddenDotID);
+                    var rndm=Math.floor(Math.random()*11);
+                    img.src = '/SearchNRetrieve/KeepSessionAlive.aspx?RN=' + rndm;
+
+                    //Clear the RedirectToWelcomePage method
+                    if (redirectToWelcomePageTimer != null) 
+                    {
+                        clearTimeout(redirectToWelcomePageTimer);
+                    }
+                    //reset the time on page load
+                    timeOnPageLoad =  new Date();
+                    sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+                    //To redirect to the welcome page
+                    redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()',parseInt(sessionTimeout) * 60 * 1000);
+                }
+            }
+            else
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+            }
+        }                
+                
+        //Session timeout
+        function RedirectToWelcomePage()
+        {
+            //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+            window.location = "/SearchNRetrieve/Guest.aspx";
+        }      
+	     
+	             
+         if (bTimeSession)
+         {        
+             $(document).ready(fHandleSessionTimeOut);
+         }
+         
+</script>
+<body>
+    <form method="post" action="./SessionTimeout.aspx" id="formSNRMaster">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="//RYxBWs6nH192yAj6VPSfvFc+PgcJ2XE2ognp2UyzxyCVisMnjpP1AvuH4xIrV3HrNnv3xybHKqWcB/HNS8SAbuW88806T+3w6t8fpqFORBy4tSS/bbGqGWrVdtF9zyu+AJClTq2Li9v05CtF5rPrcomfPJfbS2ngcBDRoRAwSglWHuPHK/PhtdZfq5lEo/xcVHop+inZcdcv6gdUvBu7cl02C9nPQljgW9+wlKG4U=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['formSNRMaster'];
+if (!theForm) {
+    theForm = document.formSNRMaster;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+
+<script src="/SearchNRetrieve/JS/common_functions.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="78C97734" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="GjYq13Rvq3KLHNlXOFNz0JFzH6dlBNRxkOORB5J/EQTp/ZYNCal58uUSbLrccXsajjzOYVyu2RVPgHlYG8R/GQumh02WexAFhJciXJMgD5S63J/j5yACvaFWKAb7QYyS" />
+</div>
+        <div id="container">
+            
+            <div id="page_header" class="clearfix">                
+                <div id="naa_logo">
+                    <a href="https://www.naa.gov.au/"><img src="/SearchNRetrieve/Images/naa_logo_blue_small.jpg" class="naa_logo" alt="The Australian Government | National Archives of Australia logo"/></a>                    
+                </div>
+                <div id="site-title">
+                    RecordSearch
+                </div>
+
+                <!-- <div style="display:none;">
+                    <img id="imgHiddenDot" alt="" src="../../scripts/KeepSessionAlive.asp" />
+                </div> -->
+                
+                <div class="topLinks" style="float:right;">
+                    
+                    
+                </div>
+            </div> 
+                      
+            <div class="topLinks">
+                
+                
+            </div>
+            <div style="clear: both;"></div>
+            <div id="topMenu" class="clearfix">
+                <ul>
+                  <li id="tabBasicSearch" style="margin:0">
+                      <a id="atabBasicSearch">Basic search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabAdvancedSearch">
+                      <a id="atabAdvancedSearch">Advanced search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNameSearch">
+                      <a id="atabNameSearch">NameSearch</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPhotoSearch">
+                      <a id="atabPhotoSearch">PhotoSearch</a>  
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPassenger">
+                      <a id="atabPassenger">Passenger arrivals</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNewlyScanned">
+                      <a id="atabNewlyScanned">Newly scanned records</a>
+                  </li>
+                </ul>
+            </div>
+            <div id="topBar">            
+                <h2 id="barHighlighted">Session time out</h2>       
+                <div id="divLoginDesc" class="log-in">You are logged in as guest</div>
+                
+            </div>
+        </div>
+    
+        <div id="placeHolder">
+            
+<div class="narrow_content">
+<div class="tblBackground">
+        <div style="width: 100%; vertical-align: top;">
+            <div style="float: left;">
+                <p>You are no longer in an active session, this can happen when:</p>  
+                    <ul>
+                       <li class="discInside">There is no activity on the screen for more than 30 minutes</li>
+                       <li class="discInside">a link or bookmark referred to an expired session</li>
+                       <li class="discInside">RecordSearch has experienced an outage</li>
+                       <li class="discInside">browser preferences were changed, eg. disabled cookies. RecordSearch requires cookies to be enabled to store a session identifier in your browser's memory.</li>
+                     </ul>
+                     <br />
+                     <p>To start an active session, you can search as a <a id="ContentPlaceHolderSNR_lbnGuest" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolderSNR$lbnGuest&#39;,&#39;&#39;)">guest</a></p>
+                                          
+                    <br />
+             <span id="ContentPlaceHolderSNR_lblInfo"></span>
+            </div>
+            
+            <br style="clear: both;"/>            
+            </div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer">
+             <div class="footerLinks">
+             <ul>
+               <li><a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/privacy/website-privacy-statement" target="_blank">Privacy</a></li>
+               <li><a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">Copyright</a></li>
+               <li><a href="/../SearchNRetrieve/Interface/TermsOfUse.aspx" target="_blank">Terms of use</a></li>
+               <li><a href="	https://www.naa.gov.au/about-us/accessibility" target="_blank">Accessibility</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/using-collection" target="_blank">Using the collection</a></li>
+               <li><a href="https://www.naa.gov.au/help-your-research/using-collection/citing-archival-records" target="_blank">Citation</a></li>
+               <li><a href="https://www.naa.gov.au/about-us/our-services/our-service-standards" target="_blank">Service charter</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/ask-us-about-collection" target="_blank">Ask us a question</a></li>             </ul>
+             </div>
+            <div class="footerCopyright">
+                <p>&copy; Copyright <a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">   National Archives of Australia </a> <span id="lblYear">2015</span></p>             
+             </div>
+             <div class="footerGovLogo">
+                <img alt="National Archives Australia" src=/SearchNRetrieve/Images/NAA_Gov_logo.png  class="gov_logo"/>
+             </div>
+        </div>
+
+    </form>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"ad8a8eb238a749478a6a9fdec05aeacd","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

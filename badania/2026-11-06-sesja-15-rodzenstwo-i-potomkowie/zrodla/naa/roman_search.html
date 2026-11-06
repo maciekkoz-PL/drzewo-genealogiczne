@@ -1,0 +1,129 @@
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Items listing
+</title><link id="mainStyleSheet" href="/SearchNRetrieve/Stylesheets/rs_combined.css" rel="stylesheet" type="text/css"><link rel="icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon"><link rel="shortcut icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon">
+    <script id="jqueryLink" src="/SearchNRetrieve/JS/jquery.js" type="text/javascript" language="javascript"></script>   
+     
+    
+    <script language="JavaScript" type="text/javascript">    
+        var bTimeSession = true;
+    </script>       
+    
+<script language="JavaScript" type="text/javascript">    
+
+
+        var sessionTimeoutWarning = '29'; 
+        var sessionTimeout = '30';
+        var imgHiddenDotID = 'imgHiddenDot';
+        
+        var timeOnPageLoad = new Date();
+        var sessionWarningTimer = null;
+        var redirectToWelcomePageTimer = null;
+
+        function fHandleSessionTimeOut()
+        {	         
+            //For warning
+            sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+            //To redirect to the welcome page
+            redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+        }
+
+        //Session Warning
+        function SessionWarning()
+        {
+            //minutes left for expiry
+            var minutesForExpiry =  (60 * (parseInt(sessionTimeout) - parseInt(sessionTimeoutWarning)));
+            var message = "Your session will expire in another " + minutesForExpiry + " seconds. Do you want to extend the session?";
+
+            //Confirm the user if he wants to extend the session
+            answer = confirm(message);
+
+            //if yes, extend the session.
+            if(answer)
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+                
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+                else
+                {                
+                    var img = document.getElementById(imgHiddenDotID);
+                    var rndm=Math.floor(Math.random()*11);
+                    img.src = '/SearchNRetrieve/KeepSessionAlive.aspx?RN=' + rndm;
+
+                    //Clear the RedirectToWelcomePage method
+                    if (redirectToWelcomePageTimer != null) 
+                    {
+                        clearTimeout(redirectToWelcomePageTimer);
+                    }
+                    //reset the time on page load
+                    timeOnPageLoad =  new Date();
+                    sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+                    //To redirect to the welcome page
+                    redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()',parseInt(sessionTimeout) * 60 * 1000);
+                }
+            }
+            else
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+            }
+        }                
+                
+        //Session timeout
+        function RedirectToWelcomePage()
+        {
+            //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+            window.location = "/SearchNRetrieve/Guest.aspx";
+        }      
+	     
+	             
+         if (bTimeSession)
+         {        
+             $(document).ready(fHandleSessionTimeOut);
+         }
+         
+</script></head>
+
+<body>
+    <form method="post" action="./ItemsListing.aspx" id="formSNRMaster">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+zLSbOXiPQhN+NKPq7ZvAR5vUz00c4t0O0TfgqmG36Vins/u/+pAprubZrLJ7Hl0oV0uMXv5913whkA8b33A8cgMzc3WUkokG+rxAP+5hmlWBeq1FcI5MQ4VvN+wsxPrQFj5wGZdPLO7ZQFJciOvP5FaJqj5O0T/+FFeBizwthA0FmnFbM9ocpvbiP8l63QW/k9iq/pv/wDhrElTzD+z9znNkUYbcPNXl6YOf2Rb11ywijDsXAngb0tORUWCcFx4v58BBRX1vQMz0K5cFc5p5cL1EzRJIdDNAoWm7i8TP476zYLkEfMwJvCjWqbJI9Oly3/gvlj9y55j3nlM5ydEMsPke8DbXV7hUbR/iYVWkVb0ohyugYbA2w0CN2LFOA8TkvxP8B00c1BzWBo5it5xU1nJZ2hKVRUAGXHvV58miDowxwTm5jGauiUBz9gP+UQs7to3Hi0aa2LGWogU1SWmzWxxHL+M8I249Pm4hv19ImR3paoXubMFsN+1VP3Buyb3c8hCIfbhri7UlzCRReMrMA8x9hsXhTxTFxcVSpgohQEh9V9aX/wzQ6zOUpMHRCsiYCj4hYoh3OWLHxsNwswP4q+vAlWq3jfIAyfcK3N/Ch/TuhXnBic8aO4AvORqGeM0h3/XvCQjAlWvJvWkjSW3KlLzL1J735dZwtCaDQ0YoYunf1W8M0BKTbD4kRpijvowN1p55wWirD/jxlR1LroutyiRZdjLJqW12XYyFvfsg8woH/oP+xV+bynKjhPrJI8eE+W7zgk0j2nKZqskWPH0k+9gVi4U22RPmqsJKH1FwiEBC49O7vYSmb1xVair1Of5cHOISW8xZr4mA0DoYwocuFzDNgjpZGiCQtlUIHiFCuLmV5PfFiGxb8IWCs/z5GMf8CtuHhqt74fMXkfxn943JPewWki6Ik9P4YIjz6c/zhTJtADQ+e7fQfRC9M+jqdvhdc79tnDp+tP33UYrmVsjV0Wajq1BtiOkzQI8DdNgKTYFWrNelMrm7lFRjKxR6iamTi/LTIg3qVLB0pupmF5xHFveU/mrqQnCmVc8KW0hTuZhEpeVtUaiW21BG7xNIBV6PgCxDj91Nwc4D2Ipdr+8B6suhqqIWqnToT9c59OsK3T6SmoQHX4eiI6IKjnKl5rfZMQlU4Ud6bGq5F931gSCf2x+0JfOyujiRoZOj5Hu96GEG6ROPNTlgxhFIgwRp9VDy5YLowaPBYZqmY3xIAFy7ZqusgGOUWvkhmIQGdaL5Cibw8FfiUHupxmHk98sor46BpA+G2BLb5fg2Ch68k6Ei+GkWCaktFqL4+nFX+C7xDE8yeFJpuY8r6qM9TyqksndbFjh0X1ucRbgL5hkK6z71VFVvwZttNYrQBf6jiH2ZZQ+8EZhZcpkMlGjt6prf4y1OaxtyNmt23thNx1bECLM3Kfv9y/xIYV9MeZ4xqOVDwoxHp73kArnAs+oeym80MFWlSOv0NvGoAU+1VknpfMCkDAXsV4ywgm96Wwk5HeVhrph5HftONISc/PM5jg2z+420pIncmAuwlGXPQDIArmcNxnhngvL8gie1FCKGtPcg1h/sFwJIyXB7LoT6Vrhb9f3XeSH2nC3kmjxoBoAClmbox+bRv9EO6RAWzf8iOtFt+jrr4SCfICIodDpha3+zfrWf4nU011wN5+SRQuDKqd+4oitvGGqh/JuGNYVc2zWDhzqMnTNKy0fCp1KVpf7BaVq8IMYABo0+4H7D/s4iDABlidjiuShaJvRfqSByn1JnsyC3U6EqUCFuVMwfnibXRjVsZDRL4UmDkZyi3HcUwa+VTtCrjfCAWENayHkwBaVZyt6ydIAzKN3kZfuSYuywzrszGnS6J6JsSYgLjmKYw0/jP+vpPQK/oZgHN94hC+b5a4+0LCAUC5H6nvlg09vMNElD5GYvuZjLMSapBl8ZlVmtz5hALvWVIy5gxhRJV0nRdjLDbVKEeU/DZZaTh1QQR0AzUtwUnUntDWhHubNhwmfFWbyMdRFPjPpTtjhMRPOqqtySagL/DXNamAs/btm/UoF7l0IbRz0SG3/Iqnvk1FJugjrJSjCfk0u9fmbQxORrSTtxUbksFuLz2ztu4viqH2LPXoJ+d0we11c2xkG8uks8IerZkJvOgNhdlqpF4njSqFNnkFHus9BElMXdwUoqP9XWBNHV+hszQOXNchBomesReWp/lllHt4RvfeBHWqc+6tEvwlgtEJ/xRfW2CEHZ6SQfF0spDQsFSUrJPY7720ES0N1PxDbtY0cshnvynxzV6gpU7JeHQseOp3L2nCiSqIQjOD0a/f44udXzzP/OevVaGQJdwqcHYSRWMyD9dp+1wKYbf3QKSGQp6vRbtpX0amL+n0zTJWidhWFUo/6kMtkow/IbxmCLlt7OhkwLCHwgSAK2xCrjoRqIimJgcS2c47P94V5AFTlVP6qEmta864wmpgtK1zfoljr2Q88bHHaEGCCO9QfOo7Ub0V/fbNMd/z/yE1qMgGDfJWW815ViPyrfPfd/IIPFiOVR3BQ2uB0nzMdy6PvZWF0OSe1W7NgxgRkNvJnKa95cXTNg/AXs2y4l5Ym5PY+I3KN4YggiizwADf8U0YZrQQt+97YXi4ybeT9CSLKtO5KUnQ8Jht/fvrkOKjqsJs20gx1r+eSbZngNzkKf3Ge09S26x128eXrSjtsRXaOMSxfqxdHAKfgdvohCMePYhFG5Ek5ucYUgmA2pRQbTFY+aQu0wNUwYESv5ONOxnAgm3H4cS1ejZDKYtoMhyyxqHTQ+yxDb/xkjLKkBaaCk+8qNjG0yLEk6pPmP/3CasWjE+AFYeumjP52UL50FJt/kX8VDI7r9uZWLPahzrXkcfvhirfSzcAHWiMQkI7HizUuDihEWgnfCenpQNDhHBzYfU1dmQIbIDDNlJH8vr7//T62CxtS1lYlL0rM5AYmisaWHPBBQ+EOUmdDsWXXx7bB2o8HyjsVL4D2hm2lHH1T23o0UYT4UIoECjX2mVrEq8GzInclwdSFmM/B8CTUgMPNSKZ4QK/KMs71plLCqrAUzWJdfWGdC9eYX2daCb72Nzrtv0rbQRtQf5rSJ/xjBWuWm3IgD48mmJjWcNX9u1sK6av/fuqSqEa2tUCY0IsME7FIFzyXCj6ql39PQTnVmsMPC3oPxmCLaJSw04RDPO6DDE9p7DnHuBeZtQHX48Bj4/yOwR752Mpqym0SRJ0bBXk/JJcW7TXRPxee4cqs7DgZFEqTuvsw5zEo/dLs7f6HZMnzZZYVLqsbM4iEmGeFl39kthxxLDazZoeka4Da+uuKniF8Ak39Vqkj/wYV6jyrVl19qlw5NprcKfZd0eporNQ/mcDMSQt99rfHy3CWR2nT5+71yD6EKY6DKS1NPy5gMiI8BwNNQ/PbFutGpsZ9MRpxIj0Umu6m44OZUecjBs7VQbK4K+L/0kkX3CYo95BKHyTZwS4a/nhyK3TOtZi4AGvInb1fdpMdawjxV9XZk7hoLCj01YBoYaFprDCYpWEy3yHShL0zrIE3iMj6EyBXzW42cdDUFYsLxFqm9wjlOASP5zw36YGuWRN62JoEh+2lw/YJWmH130VR6ylT7rrShunerxtbUskeaGvd7SlGy1rCVKqKy+1Xs4zkvhXQfYStN1XIOomzX9L8NhsZXDQY7GDFIYUPEPPuu+TaSamnZDmnmewzxFCX5tEjgIz/1S0S2y32Px0emJnzQs+gaFZNi2iFybg67+f7XiIPEk0kpaAbsBmC0nBT44gMhRy2Zz3UOXY2jAnXoyicnrqbWNtGLld1PDo8l6Tkp4p/gWY/buLRnZ7LTkvnJ2yY6EBdznyOjCfEz6p/onv2bskBL5B6G845P0l2lFk04FJxUd+BGI+7MRTHmM4GXmyS/DhR7DMCejoitMfVpSKuIf5Y9eKyTdOVVkxt+FHpo11Xe0JfSKlOygV9tz3GbN7pAoTUiqMCpFMtuv+UnPlH5ZOBu9VZB9yjsiluv8d0T6GKqm/B5RqywgALB6jwHiQds85LI5QyJ6JZSMWUSX9T8GytbUtEL708aBlPAT1ETWm4eEvO/HUq4CzXYo8BiyREJCYGth/GXTgBxur4qmHpl3O9PNA1UyLZfrwFEdQUqjIcDqTiO5YOsWMOb1fNa1hOhnClwilxnAM+b7BXnZZ5EAZxIIkC1BgeR3TfIrio21iGlw5Cxci0AUq2EUKbJUIGNThOlABShaxuUSCbz+q76RK9LVsn3ilIn4b2/U7Isen3F7nVSTDFvZ1PGhY/L/nFriDA4MOTBYGV1ccJ5Zloe4kN567RB+fLhpRBZ/c3S1LI/uPXDncHPLiQlJ9M0jun+Ll6AcysrLeYKiNbK9PXYiNxNl8cpoXa6OsqM3afNtSMYiU5WCXgaiHz9XoCVv4o2xhTyW4n/FNkZ7ZBlOGJEOcVmvCyCWq58AyvkIyaLDrghGxIo/qdE5FwHiRjBiCPTcwNgJgMDwCyRu0yFPBBDR16PAiICVP4pEJ5sgrg34hAGXbH/bKJOmR8c5PcJQOWdMLEwwmWgNTj4RVhP80ZnwxkHS0W0DEJ+L3439jBb6zT9CxGPz5iWTDjdd3sJmVDk/6vwI5l">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['formSNRMaster'];
+if (!theForm) {
+    theForm = document.formSNRMaster;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/SearchNRetrieve/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMM2cu29u9xw12bDl-djkMrg7QGlP7t1T2XLB7ZHhx7VfsvlpIffbYUlOZW_LNXYhA2&amp;t=639191193332169432" type="text/javascript"></script></form></body></html>

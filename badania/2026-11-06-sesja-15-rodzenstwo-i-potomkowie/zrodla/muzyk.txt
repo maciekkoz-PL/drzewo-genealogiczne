@@ -1,0 +1,2420 @@
+
+	
+
+	
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Harbuz Tadeusz  : Muzyka Roztocza
+
+	
+
+	
+	
+
+    jQuery.browser = {};
+    (function () {
+        jQuery.browser.msie = false;
+        jQuery.browser.version = 0;
+        if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+            jQuery.browser.msie = true;
+            jQuery.browser.version = RegExp.$1;
+        }
+    })();
+
+
+	
+			
+	
+
+	
+
+	
+	
+
+	
+
+	
+
+
+
+	
+
+        
+(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+               js = d.createElement(s); js.id = id;
+               js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.8";
+               fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        
+
+
+
+
+
+
+ 
+
+
+
+    
+
+        
+
+            
+
+                
+
+                    
+Expand the menu
+
+                    
+
+                    
+
+                    
+
+                
+
+            
+
+                
+
+                    
+
+
+
+Kontakt
+
+
+Strona główna 
+
+
+Muzyczne roztocze
+
+
+Jesteśmy na FB
+
+
+
+	
+
+
+    
+
+        
+
+
+    
+
+
+
+
+
+
+kontrast:   
+A
+
+                
+A
+
+                
+A
+
+                
+A
+
+
+
+
+
+    
+
+
+
+	
+                
+
+        
+
+    
+
+
+
+
+
+    
+
+        
+ 
+            
+
+        
+
+    
+
+
+
+
+
+    
+
+        
+
+            
+
+
+
+    
+Kategorie
+    
+
+
+
+
+
+Instrumentaliści / Kapele 
+
+
+
+
+Bartoń Walenty 
+
+
+Bednarz Ignacy i Kapela Bednarzy
+
+
+Bida Bronisław 
+
+
+Bielak Czesław 
+
+
+Bielak Jan
+
+
+Bielecki Mieczysław 
+
+
+Blacha Andrzej
+
+
+Borsuk Jacenty 
+
+
+Bugała Józef
+
+
+Butryn Krzysztof 
+
+
+Butryn Zbigniew 
+
+
+Bździuchów Kapela 
+
+
+Cieliszak Mateusz 
+
+
+Ciupak Michał 
+
+
+Czajka Władysław
+
+
+Daśko Sebastian 
+
+
+Dudka Bronisław i Kapela Dudków
+
+
+Dyjanki Kapela  / kapela z Zamchu
+
+
+Dziadoszów Kapela 
+
+
+Dzida Tadeusz 
+
+
+Futyma Stanisław 
+
+
+Gilasa Kapela 
+
+
+Gilów - muzykanci
+
+
+Gimple
+
+
+Gnap Bronisław 
+
+
+Góry i Gzika Kapela 
+
+
+Głaz Stanisław 
+
+
+Harbuz Tadeusz 
+
+
+Herda Jan 
+
+
+Jamroży Wojciech 
+
+
+Jarosz Eugeniusz
+
+
+Kapela dęta z Woli Gródeckiej (Kapela Kimaka)
+
+
+Kapela Kotów
+
+
+Kapela Lachowiczów
+
+
+Kapela z Niemstowa
+
+
+Kapela Żurawiczów
+
+
+Kałdusiów Kapela 
+
+
+Kloc Mieczysław 
+
+
+Kocurów Kapela / Kапела Кoцурів
+
+
+Korczak Adam
+
+
+Korzan Oleksij / Олексій Корзан
+
+
+Kosz Józef 
+
+
+Kotuła Jan 
+
+
+Kowal Aleksander
+
+
+Kowalski Andrzej
+
+
+Kozina Katarzyna 
+
+
+Krzos Leon i Kapela ze Zdziłowic
+
+
+Kucharski Władysław 
+
+
+Kufera Józef 
+
+
+Kukiełka Tomasz 
+
+
+Kula Józef
+
+
+Kurczaba Władysław 
+
+
+Leszczyński Jan 
+
+
+Magdziarz Bronisław 
+
+
+Magdziarz Jan
+
+
+Magdziarz Stanisław
+
+
+Maziarczyk Stefan 
+
+
+Mazur Franciszek 
+
+
+Małyszek Paweł 
+
+
+Małyszek Władysław 
+
+
+Małyszkowie ze Średniówki
+
+
+Momot Wiesław
+
+
+Moskal Stefan 
+
+
+Mucha Jan 
+
+
+Myszkowski Ludwik i Kapela z Paar
+
+
+Nazarowicz Włodzimierz 
+
+
+Niedźwiedzki Józef 
+
+
+Oleszczaków braci Kapela
+
+
+Paleń Eugeniusz i kapela ze Stojeszyna
+
+
+Pawlicha Bazyli 
+
+
+Pietrykowski Andrzej
+
+
+Poździk Walenty
+
+
+Pudło Stanisław 
+
+
+Radej Józef 
+
+
+Radliński Władysław
+
+
+Rawski Bronisław 
+
+
+Rebizant Jan 
+
+
+Robak Stanisław 
+
+
+Rosołowskich Kapela 
+
+
+Sawa Aleksander
+
+
+Serafinów Kapela 
+
+
+Sirko Jan 
+
+
+Sitarz Jan
+
+
+Skiba Michał 
+
+
+Skiba Stanisław 
+
+
+Smerdel Władysław i kapela z Jędrzejówki
+
+
+Smutniaków Kapela / Капела Смутняків
+
+
+Smylów Kapela 
+
+
+Stecyk Teodor / Tеодор Cтецик
+
+
+Sulowskiego Kapela 
+
+
+Świś Andrzej 
+
+
+Szpargała Józef 
+
+
+Szyjak z Białej
+
+
+Tracz Hipolit 
+
+
+Walczak Marcin 
+
+
+Widz Leon 
+
+
+Wojciechowski Jan 
+
+
+Wypych Józef 
+
+
+Wypych Paweł
+
+
+Zdybel Jan 
+
+
+Żmijan Jan 
+
+
+Żuk Roman
+
+
+Łagód Piotr 
+
+
+Łogoźny Kazimierz 
+
+
+Пилип Романович Віхоть - Pylyp Romanowycz Wichot
+
+
+Теодор Фурта - Teodor Furta
+
+
+
+
+
+
+Śpiewacy i śpiewaczki 
+
+
+
+
+Adamczuk Marianna 
+
+
+Albiniak Józefa 
+
+
+Baraniak Julia 
+
+
+Bartnik Karolina 
+
+
+Bondyra Katarzyna 
+
+
+Bondyra Teresa
+
+
+Borowicz Anna 
+
+
+Borsuk Franciszka 
+
+
+Bykowa Eleonora 
+
+
+Chmiel Anna 
+
+
+Chmiel Janina 
+
+
+Dubaj Władysława
+
+
+Dubiel Jan 
+
+
+Dycha Władysława 
+
+
+Fijałkowska Marianna 
+
+
+Fijałkowski Stanisław 
+
+
+Gadzińska Stefania 
+
+
+Gardias Aniela
+
+
+Gilas Józefa 
+
+
+Gmoch Aniela i zespół "Dolinianki"
+
+
+Góra Honorata 
+
+
+Góra Władysław 
+
+
+Górska Honorata 
+
+
+Gołąb Emilia 
+
+
+Gumiela Agnieszka
+
+
+Gumiela Marianna 
+
+
+Gzik Wojciech 
+
+
+Głaz Feliksa 
+
+
+Herda Jan 
+
+
+Jargiło-Kowalik Maria
+
+
+Jedlińska Cyryla 
+
+
+Jurczyk Kateryna / Катерина Юрчик
+
+
+Kamińska Elżbieta 
+
+
+Kasprzak Aniela 
+
+
+Kawucha Aniela 
+
+
+Kimak Leokadia 
+
+
+Komornik Leokadia 
+
+
+Korba Anastazja 
+
+
+Korczak Adam
+
+
+Korczak Janina
+
+
+Korczak Maciej 
+
+
+Kotyła Maria 
+
+
+Kowal Stefania
+
+
+Kowalczuk Janina 
+
+
+Kołodziej Józefa
+
+
+Krupa Jan 
+
+
+Kubina Władysława
+
+
+Kulik Marian 
+
+
+Kurantowicz Antoni 
+
+
+Lachowicz Wojciech
+
+
+Machałek Maria 
+
+
+Mączka Janina 
+
+
+Majewska Zofia 
+
+
+Maksim Anna 
+
+
+Malec Anna 
+
+
+Malec Czesław 
+
+
+Malec Marianna 
+
+
+Małek Julia 
+
+
+Małek Władysława 
+
+
+Małyszek Antoni
+
+
+Michałek Helena 
+
+
+Miksza Jan 
+
+
+Misiak Łucja 
+
+
+Myszak Alina 
+
+
+Okoń Julia 
+
+
+Oleszek Beata 
+
+
+Oleszko Stanisława 
+
+
+Paszko Katarzyna 
+
+
+Paszko Wojciech 
+
+
+Pitura Franciszka
+
+
+Placha Krystyna i Stefan 
+
+
+Polska Maria 
+
+
+Powroźnik Janina 
+
+
+Pydo Janina 
+
+
+Rachańska Joanna 
+
+
+Różańska Karolina 
+
+
+Rzemieniuk Jakub 
+
+
+Sałamaja Franciszka 
+
+
+Skiba Stanisław 
+
+
+Skrzypek Jerzy 
+
+
+Smagała Stanisław 
+
+
+Smerdel Maria 
+
+
+Sobańska Maria 
+
+
+Sołtys Wojciech 
+
+
+Stecyk Teodor / Tеодор Cтецик
+
+
+Strumidło Aniela 
+
+
+Sulowscy Anastazja i Leon 
+
+
+Sulowska Aniela 
+
+
+Tuzin Katarzyna 
+
+
+Uchman Maria 
+
+
+Wnuk Jan 
+
+
+Wójcik Anna 
+
+
+Wybraniec Katarzyna 
+
+
+Zając Albina 
+
+
+Zaręba Jan 
+
+
+Zborowska Irena 
+
+
+Zielińska Karolina 
+
+
+Łagowska Karolina 
+
+
+Łukasik Agnieszka 
+
+
+Łukasz Stanisława 
+
+
+Ева Савечко / Ewa Saweczko
+
+
+Катерина Кожушко / Kateryna Kożuszko 
+
+
+Теодор Фурта - Teodor Furta
+
+
+
+
+
+
+Wytwórcy instrumentów
+
+
+
+
+Butryn Zbigniew 
+
+
+Iwańczuk Dymitr
+
+
+Kucharski Władysław 
+
+
+Sirko Jan 
+
+
+
+
+
+
+Dyskografia
+
+
+
+
+"Czyście radzi czy nie radzi" Zespół śp. z Rudy Solskiej CD
+
+
+"Jadąc przez Roztocze" CD
+
+
+"Kapela Dudków" CD
+
+
+"Stanisław Fijałkowski - portret śpiewaka" CD
+
+
+"Tabor w Szczebrzeszynie 2008" CD
+
+
+Anna Malec i Kapela Braci Bździuchów
+
+
+Lubelskie. Polska pieśń i muzyka ludowa. 
+
+
+Muzyka Źródeł. Lubelskie CD
+
+
+Na rozstajnych drogach CD
+
+
+Oj, chmielu, oj nieboże. Najstarsze pieśni z Łukowej. CD
+
+
+SPOD NIEBIESKIEJ GÓRY - muzyka Roztocza CD
+
+
+Ło Matko Kocheno! Pieśni z Kocudzy CD
+
+
+Łukowskie dunaje i kolędy CD
+
+
+
+
+
+
+Inicjatywy
+
+
+
+
+Festiwal Muzyki Tradycyjnej "Na rozstajnych drogach"
+
+
+Scena/Studio In Crudo
+
+
+Szkoła Suki Biłgorajskiej
+
+
+Tabor roztoczański
+
+
+
+
+
+
+Muzycy wędrowni
+
+
+
+
+Gimple
+
+
+Lirnik z Rawy Ruskiej, Żółkwi / Лірник - Жовква, Рава-Руська 
+
+
+Lirnik z Żółkwi / Лірник з Жо́вкви
+
+
+Lirnik ze Lwowa - Лірник зі Львова
+
+
+
+
+
+
+Orkiestry dęte
+
+
+
+
+Henryk Welcz  "Orkiestry dęte okolic Tomaszowa"
+
+
+Kapela dęta i orkiestra z Deszkowic
+
+
+Kapela dęta z Dzierążni
+
+
+Kapela dęta z Majdanu Górnego
+
+
+Kapela dęta z Woli Gródeckiej (Kapela Kimaka)
+
+
+Orkiestra Ligajów z Majdanu Grabiny
+
+
+Orkiestra Szubartowskiego ze Starej Wsi
+
+
+Orkiestra w Szastarce
+
+
+Orkiestra w Wierzchowiskach
+
+
+Orkiestra z Chrzanowa
+
+
+Orkiestra z Dzwoli
+
+
+Orkiestra z Jędrzejówki i Hoszni
+
+
+Orkiestra z Kocudzy
+
+
+Orkiestra z Radzięcina
+
+
+Orkiestra z Sokołówki
+
+
+Orkiestra z Sułowca
+
+
+Orkiestra z Wólki
+
+
+Orkiestra z Łady
+
+
+Orkiestra Zaburska
+
+
+Orkiestry w Błażku
+
+
+
+
+
+
+Zespoły śpiewacze
+
+
+
+
+"Aleksandrowiacy" z Aleksandrowa
+
+
+"Blinowianki" z Blinowa
+
+
+"Dorbozianki" z Dorboz
+
+
+"Jarzębina" z Kocudzy
+
+
+"Jezioranki" z Jezierni
+
+
+"Kocudzanki" z Kocudzy
+
+
+"Rogóźnianki" z Rogóźna
+
+
+"Wesołe gosposie" z Kolonii Sitaniec
+
+
+"Zamszanki" z Zamchu
+
+
+"Вишиванка" - Лавриків / "Wyszywanka" z Ławrykowa 
+
+
+Gmoch Aniela i zespół "Dolinianki"
+
+
+Hosznianki
+
+
+Męski Śpiewaczy Zespół z Godziszowa
+
+
+Męski zespół śpiewaczy Branwiacy
+
+
+Męski Zespół Śpiewaczy z Bukowej
+
+
+Męski Zespół Śpiewaczy „Majdaniacy”
+
+
+Zespół "Dunaje"
+
+
+Zespół mieszany z Łukowej
+
+
+Zespół z Hoszni Ordynackiej
+
+
+Zespół z Momot Dolnych
+
+
+Zespół z Paar
+
+
+Zespół z Rudy Solskiej
+
+
+Zespół z Łukowej I
+
+
+Zespół z Łukowej IV
+
+
+Zespół ze Zdziłowic
+
+
+Zespół Żeński z Godziszowa
+
+
+
+
+
+
+Badacze / popularyzatorzy
+
+
+
+
+Adamowski Jan 
+
+
+Bartmiński Jerzy 
+
+
+Bieńkowski Andrzej 
+
+
+Brzuskowska Marta 
+
+
+Czekanowska-Kuklińska Anna 
+
+
+Dahlig Piotr 
+
+
+Domański Marian 
+
+
+Olesiejuk Feliks 
+
+
+Sobiescy Jadwiga i Marian 
+
+
+Sokołowski Józef 
+
+
+Turczyn Antoni 
+
+
+
+
+
+
+Wszyscy wykonawcy
+
+
+Miejscowości
+
+
+
+
+Abramów
+
+
+Aleksandrów
+
+
+Andrzejów
+
+
+Andrzejówka
+
+
+Baraki
+
+
+Bełżec
+
+
+Biała
+
+
+Białowola
+
+
+Bilsko
+
+
+Biskupie
+
+
+Blinów
+
+
+Bondyrz
+
+
+Borowa Góra
+
+
+Branew
+
+
+Branewka
+
+
+Bukowa
+
+
+Błażek
+
+
+Chmielek
+
+
+Chrzanów
+
+
+Chłopków
+
+
+Ciotusza Nowa
+
+
+Dąbrowa
+
+
+Deszkowice
+
+
+Dorbozy
+
+
+Dzierążnia
+
+
+Dzwola
+
+
+Gałęzów
+
+
+Gilów
+
+
+Godziszów
+
+
+Goraj
+
+
+Gorajec-Zastawie
+
+
+Grabowica
+
+
+Gródki
+
+
+Gruszka Zaporska
+
+
+Hosznia Abramowska
+
+
+Hosznia Ordynacka
+
+
+Hrebenne
+
+
+Hutków
+
+
+jacnia
+
+
+Janów Lubelski
+
+
+Jarosławiec
+
+
+Jędrzejówka
+
+
+Jeziernia
+
+
+Klekacz
+
+
+Kocudza
+
+
+Kocudza Górna
+
+
+Kolonia Sitaniec
+
+
+Kolonia Sitno
+
+
+Kolonia Teodorówka
+
+
+Komodzianka
+
+
+Konstantów
+
+
+Kranosbród
+
+
+Krzemień
+
+
+Księżpol
+
+
+Latyczyn
+
+
+Lwów - Львів
+
+
+Majdan Abramowski
+
+
+Majdan Górny
+
+
+Majdan Grabina
+
+
+Majdan Księżpolski
+
+
+Majdan Obleszcze
+
+
+Majorat
+
+
+Modliborzyce
+
+
+Momoty Dolne
+
+
+Momoty Górne
+
+
+Nawóz
+
+
+Nedeżów
+
+
+Niedzieliska
+
+
+Niemstów
+
+
+Nowa Wieś
+
+
+Nowe Brusno
+
+
+Nowiny
+
+
+Olszanka
+
+
+Paary
+
+
+Piłatka
+
+
+Podborcze
+
+
+Podhorce
+
+
+Podhucie
+
+
+Podlesie
+
+
+Potoczek
+
+
+Potylicz / Потелич
+
+
+Radzięcin
+
+
+Rata/ Рата
+
+
+Rawa Ruska
+
+
+Rogóźno
+
+
+Rokitów
+
+
+Ruda Solska
+
+
+Ruda Żurawiecka
+
+
+Sąsiadka
+
+
+Siemnice
+
+
+Smoryń
+
+
+Sokołówka
+
+
+Sól
+
+
+Średniówka
+
+
+Stara Wieś
+
+
+Stojeszyn
+
+
+Sumin
+
+
+Sułów
+
+
+Sułowiec
+
+
+Szarowola
+
+
+Szperówka
+
+
+Targowisko
+
+
+Teodorówka
+
+
+Tomaszów Lubelski 
+
+
+Tworyczów
+
+
+Typin
+
+
+Udrycze
+
+
+Węgliska
+
+
+Werchrata / Верхрата
+
+
+Wieprzów
+
+
+Wieprzowe Jezioro
+
+
+Wierzchowiska
+
+
+Wilków
+
+
+Wola Gałęzowska
+
+
+Wola Gródecka
+
+
+Wola Radzięcka
+
+
+Wólka Ratajska
+
+
+Wywłoczka
+
+
+Władysławów
+
+
+Żabno
+
+
+Zaburze
+
+
+Zagrody
+
+
+Zakłodzie
+
+
+Zamch
+
+
+Zaporze
+
+
+Zaraszów
+
+
+Zarudzie
+
+
+Zastawie
+
+
+Załawcze
+
+
+Zdzisławice
+
+
+Zdziłowice
+
+
+Zofianka
+
+
+Żurawie
+
+
+Żurawnica
+
+
+Zynie
+
+
+Łada
+
+
+Łówcza
+
+
+Łubcze
+
+
+Łukowa
+
+
+Великий Дорошів (Doroszew Wielki)
+
+
+Жо́вква / Żółkiew
+
+
+Лавриків / Ławryków
+
+
+Магерів / Magierów
+
+
+
+
+
+
+Gminy
+
+
+
+
+ Gmina Aleksandrów
+
+
+Gmina Adamów
+
+
+Gmina Batorz
+
+
+Gmina Bełżec
+
+
+Gmina Biłgoraj
+
+
+Gmina Bychawa
+
+
+Gmina Chrzanów
+
+
+Gmina Cieszanów
+
+
+Gmina Dzwola
+
+
+Gmina Frampol
+
+
+Gmina Godziszów
+
+
+Gmina Goraj
+
+
+Gmina Horyniec-Zdrój
+
+
+Gmina Janów Lubelski
+
+
+Gmina Jarczów
+
+
+Gmina Krasnobród
+
+
+Gmina Krynice
+
+
+Gmina Księżpol
+
+
+Gmina Lubaczów
+
+
+Gmina Lubycza Królewska
+
+
+Gmina Modliborzyce
+
+
+Gmina Narol
+
+
+Gmina Nielisz
+
+
+Gmina Obsza
+
+
+Gmina Potok Wielki
+
+
+Gmina Rachanie
+
+
+Gmina Radecznica
+
+
+Gmina Sitno
+
+
+Gmina Stary Zamość
+
+
+Gmina Susiec
+
+
+Gmina Sułów
+
+
+Gmina Szastarka
+
+
+Gmina Szczebrzeszyn
+
+
+Gmina Tarnawatka
+
+
+Gmina Tereszpol
+
+
+Gmina Tomaszów Lubelski
+
+
+Gmina Turobin
+
+
+Gmina Werbkowice
+
+
+Gmina Wysokie
+
+
+Gmina Zakrzew
+
+
+Gmina Zakrzówek
+
+
+Gmina Zamość
+
+
+Gmina Zwierzyniec
+
+
+Gmina Łukowa
+
+
+Lublin
+
+
+Rachanie
+
+
+rejon żółkiewski
+
+
+Łukowa
+
+
+
+
+
+
+AUDIO - gatunki muzyczne
+
+
+
+
+skrzypce
+
+
+oberek
+
+
+walc
+
+
+instrumentalna
+
+
+śpiew obrzędowy
+
+
+weselne
+
+
+liryka
+
+
+kolęda / pastorałka / życząca / gospodarska
+
+
+żniwne/dożynkowe
+
+
+polka
+
+
+śpiew męski
+
+
+pieśni nabożne / religijne
+
+
+dęte
+
+
+przyśpiewki
+
+
+pieśni dziadowskie
+
+
+pieśni stanowe
+
+
+kołysanki
+
+
+pieśni żołnierskie / wojenne
+
+
+ballady
+
+
+podróżniak
+
+
+sieroce
+
+
+pasterskie
+
+
+zalotne / miłosne
+
+
+patriotyczne
+
+
+pieśni o świętych
+
+
+żartobliwe
+
+
+mazurek
+
+
+marsz
+
+
+chrzcinne
+
+
+zastolne
+
+
+
+
+
+
+
+
+
+
+
+
+
+li { 
+    margin-top: 7px;
+    margin-bottom: 10px;
+    list-style-type: none;
+    -moz-border-radius: 9px;
+    -webkit-border-radius: 9px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+
+
+
+
+
+    
+
+                
+Harbuz Tadeusz 
+
+
+        
+
+
+
+
+
+		
+Majdan Górny
+ 
+Gmina Tomaszów Lubelski
+		
+
+2663
+
+
+
+	    
+
+
+
+Henryk Welcz 
+ 
+
+	
+
+
+Tadeusz Harbuz – muzykant i
+kapelmistrz z Majdanu Górnego
+
+
+ 
+
+
+ 
+
+
+  Tadeusz Harbuz urodził się w 1931
+roku w Majdanie Górnym koło Tomaszowa Lubelskiego w wielodzietnej
+rodzinie chłopskiej. Matki swojej nie pamięta, ponieważ zmarła
+gdy miał 9 miesięcy. Ojciec był stolarzem i jednocześnie
+gospodarował na niewielkim kawałku pola, było to nie wystarczające
+jak na potrzeby dużej rodziny. Z opowiadań ojca wiedział o dziadku
+i pradziadku, którzy po ciężkiej pracy na roli muzykowali. Grali
+różne melodie ludowe na flecie i dwurzędowej harmonii. Na tej
+samej harmonii grał potem ze słuchu ojciec pana Tadeusza – Marcin
+Harbuz. 
+
+
+  W tej samej wsi i okolicach
+mieszkało kilkunastu znanych i cenionych przez społeczność
+wiejską muzykantów, którzy jak się potem okazało mieli duży
+wpływ, na kształtowanie i rozwój jego zainteresowań muzycznych.
+Jednym z nich był rolnik Jan Mazurek, który jednocześnie prowadził
+w blisko położonym Tomaszowie Lubelskim Orkiestrę Dętą
+Ochotniczej Straży Pożarnej, miał też małą kapelę weselną
+złożoną z muzyków tej orkiestry. Jak to wtedy bywało mały
+chłopiec Tadeusz zasłuchiwał się w grę dorosłych i zapragnął
+zrobić sobie własny instrument – skrzypce takie jakie widział na
+odpuście u wędrownego kramarza. Wykorzystał deski ojca stolarza i
+jego nieobecność w domu konstruując swój pierwszy instrument. To
+zdarzenie miało taki finał, że ojciec kupił mu na 2 tygodnie
+przed Wielkanocą, od muzykanta ze wsi prawdziwe skrzypce. Nauczył
+się na nich zgodnie życzeniem ojca grać ze słuchu melodie pieśni
+wielkanocnych, które wykonał zgodnie z miejscową tradycją na
+Białej Górze w pierwszym dniu Świąt Wielkanocnych.  Pierwszym jego nauczycielem  muzyki z
+nut był legendarny Jan Mazurek -  kapelmistrz carskiej orkiestry
+dętej. Po wyjeździe Mazurka następnym nauczycielem był wiejski
+muzykant Jan Marguła. 
+
+
+  Niedługo wybuchła wojna, w czasie
+której nie rozstawał się ze skrzypcami, a w roku 1944 założył
+swój pierwszy zespół 4 – osobową kapelę, która przygrywała
+na majdańskim podwórku, przeważnie w niedzielne popołudnie. Ta
+muzyka rozbrzmiewała na całą wieś, przyciągając tak młodych
+jak i starszych. Zaczęły się występy na weselach i zabawach. 
+Po zakończeniu wojny dowiedział się
+o 2-3 miesięcznych kursach organizowanych dla muzyków amatorów
+przez Ludowy Instytut Muzyczny w Łodzi i ukończył w 1949 roku III
+stopień kursu. W 1950 roku wyjechał do pracy do Nowej Huty i tam
+podjął się prowadzenia orkiestry. Okazało się wtedy, że ma
+absolutny słuch muzyczny, dużą pamięć muzyczną i dużą swobodę
+manualną, przydatną do gry na różnych instrumentach muzycznych. 
+W latach 1952- 1954 odbywał służbę
+wojskową w Mrągowie, gdzie grał w Pułkowej Orkiestrze Wojskowej,
+w której był waltornistą. Ponadto w zespole jazzowym przy tej
+orkiestrze grał na kontrabasie.   
+
+
+Po odbyciu służby wojskowej
+Tadeusz Harbuz wrócił do Tomaszowa i zaczął pracę w organizacji
+„Służba Polsce” i zaczyna prowadzić na terenie miasta i całego
+powiatu szkolne zespoły instrumentalne. Kończy w tym czasie
+zaocznie liceum i gra  na różnych instrumentach w Orkiestrze Dętej
+przy OSP w Tomaszowie. Po odbyciu kursu kapelmistrzowskiego w 1965
+roku obejmuje na 25 lat prowadzenie orkiestry dętej. Otrzymuje w tym
+czasie wiele dowodów uznania dla swojej działalności
+organizacyjnej. W 1969 roku otrzymuje uprawnienia instruktora
+kategorii pierwszej w specjalizacji kapelmistrza orkiestr dętych. 
+
+
+ Tworzy własne utwory bazujące na
+miejscowym folklorze. Najbardziej znane z nich to: Hejnał
+Tomaszowski – napisany na 1000 – lecie Polski, walce „Biała
+Góra”, „Grażyna”, marsze żałobne m.in. „Na wieki”,
+„Titanic”. Zbiera też zapisując słowa i transkrypcje nutowe
+melodii z Majdanu Górnego i okolic.
+
+
+  Prowadzona przez niego orkiestra dęta
+daje przeciętnie 50 występów rocznie.
+
+
+ 
+W terenie zorganizował i wyszkolił
+następne orkiestry w Budach, Tarnawatce, Żwiartowie, Wożuczynie,
+Ulhówku, Machnowie i Narolu. W szkołach tworzył dziecięce zespoły
+mandolinowe, ze skrzypcami, gitarami, akordeonami i bandźolami. W 
+roku 1968 tworzy kapelę tzw. stylizowaną, czyli grającą repertuar
+ludowy z nut na zapotrzebowanie konkursu i występu na Festiwalu
+Kapel w Kazimierzu Dolnym. Gra sam w niej na kontrabasie,  na
+skrzypcach  natomiast Aleksander Kowal, na akordeonie Kowal
+Mieczysław a Józef Herda na bębnie. Później skład zespołu
+wzbogacały instrumenty dęte, grali na nich  muzycy z Majdanu
+Górnego, członkowie dużej orkiestry dętej OSP Tomaszów Lubelski.
+Sam Tadeusz Harbuz grał praktycznie na każdym dętym instrumencie:
+najczęściej na puzonie, trąbce, saksofonie, tubie, waltorni,
+sięgał też po akordeon, w zależności od zapotrzebowania, składu
+zespołu i własnej ochoty. Był otwarty na zapotrzebowanie w danej
+chwili na określonego muzyka do gry w kapeli i sięgał wtedy
+chociażby  po kontrabas /kapela Kimaka z Woli Gródeckiej/, czy
+skrzypce /kapela Bednarzy/.Grali też z nim inni znani  w regionie
+tomaszowskim muzycy jak: Stanisław Kowal – skrzypce, klarnet i
+akordeon, Aleksander Kowal – skrzypce, Stanisław Harbuz –
+trąbka, Mieczysław Kogut – sax alt, Stanisław Borowiec – sax
+tenor, Mieczysław Kowal – akordeon, Józef Kowal – akordeon,
+Józef Mandziuk – klarnet, trąbka, bracia Czabanowie –trąbki,
+Antoni Cioch – dżaz, Marian Fus – klarnet, saksofon.  Po przejściu na emeryturę w 1990
+roku nadal prowadzi małe zespoły muzyczne dęte, gra też z Kapelą
+Bednarzy na skrzypcach. Dokonał wielu nagrań radiowych do tej pory
+trudno dostępnych, obecnych w archiwach radiowych, telewizyjnych  i
+prywatnych zbiorach. Zdjęcia  Tadeusza Harbuza, jego orkiestr dętych
+,innych grających z nim muzykantów,  obrazki z wesel na których
+grał, jego wspomnienia  znalazły się w książce Andrzeja
+Bieńkowskiego „Sprzedana muzyka” i „ Jadąc przez Roztocze”.
+
+
+ 
+
+
+
+
+
+ 
+
+
+Tadeusz Harbuz z kapelą na weselu foto z zasobów Archiwum Muzyki Wiejskiej. Patrz: 
+
+		Patrz: 
+http://archiwummuzykiwiejskiej.pl/index.php?count=4&fraza=Harbuz%20Czes%C5%82aw&sel=3&id_regionu=6&pak=4h0h318h363h36ch3d6
+ 
+
+	 
+
+
+ 
+
+
+T
+omaszów Lubelski, lata 80. Czesław Harbuz (baraban), Tadeusz Harbuz, Aleksander Kowal (skrzypce), Józef Kowal (akordeon), Stanisław Kowal (klarnet) 
+
+		 foto z zasobów Archiwum Muzyki Wiejskiej.
+ Patrz: http://archiwummuzykiwiejskiej.pl/index.php?count=4&fraza=Harbuz%20Czes%C5%82aw&sel=2&id_regionu=6&pak=4h0h318h363h36ch3d6
+
+	
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Marcin, Czesław, Tadeusz i Henryk Harbuzowie. foto z zasobów Archiwum Muzyki Wiejskiej.
+ Patrz: 
+http://archiwummuzykiwiejskiej.pl/index.php?count=4&fraza=Harbuz%20Czes%C5%82aw&sel=1&id_regionu=6&pak=4h0h318h363h36ch3d6
+
+	
+
+
+ 
+
+
+Bibliografia:
+
+
+ 
+
+
+Bieńkowski Andrzej: Sprzedana
+	muzyka. Wydawnictwo Czarne,
+
+
+ 2008.Bieńkowski Andrzej: Jadąc przez
+	Roztocze, Muzyka Odnaleziona, książka i CD, 2009.
+
+
+Tomaszowska Straż Pożarna 1907 -
+	2007. Tomaszów Lubelski, 2007.
+
+
+Welcz Henryk: Aleksander Kowal –
+	skrzypek z Majdanu Górnego. tekst niepublikowany. 
+
+
+Welcz Henryk: Tradycje muzyczne
+	małych orkiestr dętych regionu Tomaszowa Lubelskiego.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+ 	    
+	
+
+		
+
+		
+
+			int(1)
+		
+
+			
+		 
+
+	
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+        
+
+				
+
+		
+
+					
+		
+
+		
+        
+
+
+
+
+
+
+
+        
+Zobacz również
+
+
+Kowal Aleksander
+
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+        
+        
+
+            
+
+            
+
+        
+
+        
+Tweet
+
+
+	
+
+        
+
+	
+
+	
+
+    
+
+
+
+
+
+
+
+    
+
+    
+
+        
+
+	
+
+
+
+
+
+ 
+
+
+
+	
+
+		
+
+			
+
+				
+Realizacja:
+ 
+
+				
+
+				
+
+				
+Towarzyst
+wo 
+dla Natury
+
+				
+ i Człowieka 
+
+			
+
+				
+
+			
+
+				
+
+				
+Rozbudowa i modernizacja serwisu  w roku 2021 sfinansowana ze środków Ministra Kultury i Dziedzictwa Narodowego pochodzących z Funduszu Promocji Kultury  
+
+				
+ 
+
+				
+ 
+
+				
+ 
+
+				
+Budowę strony w 2012 zrealizowano dzięki współfinansowaniu Ministerstwa Kultury i Dziedzictwa
+ Narodowego 
+
+				
+ 
+Badania i rozbudowę serwisu w roku 2014 sfinansowano ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu „Kolberg 2014 – Promesa”, realizowanego przez Instytut Muzyki i Tańca”
+
+				
+ 
+
+			
+
+				
+
+			
+
+				
+
+		
+
+		
+
+			
+PARTNERZY:
+     
+
+			
+
+				
+
+			
+
+				
+
+			
+
+				
+
+			
+ 
+
+				
+
+		
+
+	
+
+
+
+
+
+
+
+ 
+
+
+   
+	
+
+
+
+    
+
+    
+
+            
+
+    
+
+        
+
+        
+
+
+Copyright 2012-2021
+ Towarzystwo dla Natury i Człowieka.  
+
+
+fotografia w nagłówku: Marcin Pietrusza
+ 
+        
+
+    
+
+
+
+
+
+
+
+/*<![CDATA[*/
+
+	$(document).ready(function() {
+	//blocksit define
+	$(window).load( function() {
+		$('#wykonawca-gallery').BlocksIt({
+			numOfCol: 2,
+			offsetX: 10,
+			offsetY: 10
+		});
+	});
+});
+jQuery('a[rel="tooltip"]').tooltip();
+jQuery('a[rel="popover"]').popover();
+jQuery('#yw0').yiiListView({'ajaxUpdate':['yw0'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'list\x2Dview\x2Dloading','sorterClass':'sorter','enableHistory':false,'afterAjaxUpdate':function() {
+			jQuery('.popover').remove();
+			jQuery('a[rel="popover"]').popover();
+			jQuery('.tooltip').remove();
+			jQuery('a[rel="tooltip"]').tooltip();
+		}});
+
+			$('#foo').carouFredSel({'items':3,'height':220,'scroll':{'items':1,'duration':1000,'pauseDuration':1500,'pauseOnHover':true}});
+		
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'list\x2Dview\x2Dloading','sorterClass':'sorter','enableHistory':false,'afterAjaxUpdate':function() {
+			jQuery('.popover').remove();
+			jQuery('a[rel="popover"]').popover();
+			jQuery('.tooltip').remove();
+			jQuery('a[rel="tooltip"]').tooltip();
+		}});
+
+
+			$('a[rel=gallery]').fancybox([]);
+
+		
+jQuery('#artist').autocomplete({'minLength':'2','source':['Chmiel\x20Janina\x20','\x22Jarz\u0119bina\x22\x20z\x20Kocudzy','G\u00F3ry\x20i\x20Gzika\x20Kapela\x20','Ma\u0142ek\x20W\u0142adys\u0142awa\x20','Blacha\x20Andrzej','G\u0142az\x20Stanis\u0142aw\x20','Bida\x20Bronis\u0142aw\x20','Bednarz\x20Ignacy\x20i\x20Kapela\x20Bednarzy','Korczak\x20Adam','B\u017Adziuch\u00F3w\x20Kapela\x20','Dudka\x20Bronis\u0142aw\x20i\x20Kapela\x20Dudk\u00F3w','Dycha\x20W\u0142adys\u0142awa\x20','Butryn\x20Zbigniew\x20','Gilasa\x20Kapela\x20','Kozina\x20Katarzyna\x20','Szparga\u0142a\x20J\u00F3zef\x20','Sulowskiego\x20Kapela\x20','Rawski\x20Bronis\u0142aw\x20','Ciupak\x20Micha\u0142\x20','Dziadosz\u00F3w\x20Kapela\x20','Krzos\x20Leon\x20i\x20Kapela\x20ze\x20Zdzi\u0142owic','Radej\x20J\u00F3zef\x20','Tracz\x20Hipolit\x20','Borsuk\x20Jacenty\x20','Fija\u0142kowski\x20Stanis\u0142aw\x20','Zesp\u00F3\u0142\x20z\x20\u0141ukowej\x20I','Kawucha\x20Aniela\x20','\x22Zamszanki\x22\x20z\x20Zamchu','So\u0142tys\x20Wojciech\x20','Zesp\u00F3\u0142\x20z\x20Rudy\x20Solskiej','Racha\u0144ska\x20Joanna\x20','Placha\x20Krystyna\x20i\x20Stefan\x20','R\u00F3\u017Ca\u0144ska\x20Karolina\x20','Gumiela\x20Marianna\x20','Oko\u0144\x20Julia\x20','Oleszek\x20Beata\x20','Gadzi\u0144ska\x20Stefania\x20','M\u0119ski\x20\u015Apiewaczy\x20Zesp\u00F3\u0142\x20z\x20Godziszowa','Korczak\x20Maciej\x20','Kowalczuk\x20Janina\x20','Kulik\x20Marian\x20','\u0141agowska\x20Karolina\x20','Malec\x20Anna\x20','Gmoch\x20Aniela\x20i\x20zesp\u00F3\u0142\x20\x22Dolinianki\x22','Albiniak\x20J\u00F3zefa\x20','Stecyk\x20Teodor\x20\x2F\x20T\u0435\u043E\u0434\u043E\u0440\x20C\u0442\u0435\u0446\u0438\u043A','Uchman\x20Maria\x20','Sulowska\x20Aniela\x20','Zaj\u0105c\x20Albina\x20','Jedli\u0144ska\x20Cyryla\x20','Widz\x20Leon\x20','Bartnik\x20Karolina\x20','Herda\x20Jan\x20','Tuzin\x20Katarzyna\x20','Strumid\u0142o\x20Aniela\x20','Bykowa\x20Eleonora\x20','Batorska\x20Maria\x20','Kucharski\x20W\u0142adys\u0142aw\x20','Sirko\x20Jan\x20','Korba\x20Anastazja\x20','Maksim\x20Anna\x20','Borsuk\x20Franciszka\x20','Smerdel\x20Maria\x20','Paszko\x20Wojciech\x20','\u0415\u0432\u0430\x20\u0421\u0430\u0432\u0435\u0447\u043A\u043E\x20\x2F\x20Ewa\x20Saweczko','Pawlicha\x20Bazyli\x20','Bondyra\x20Katarzyna\x20','Kasprzak\x20Aniela\x20','Skiba\x20Micha\u0142\x20','Rebizant\x20Jan\x20','Herda\x20Jan\x20','Komornik\x20Leokadia\x20','M\u0105czka\x20Janina\x20','Wnuk\x20Jan\x20','Mucha\x20Jan\x20','Futyma\x20Stanis\u0142aw\x20','Pale\u0144\x20Eugeniusz\x20i\x20kapela\x20ze\x20Stojeszyna','Maziarczyk\x20Stefan\x20','Wybraniec\x20Katarzyna\x20','Fija\u0142kowska\x20Marianna\x20','Sulowscy\x20Anastazja\x20i\x20Leon\x20','Pietrykowski\x20Andrzej','Myszak\x20Alina\x20','Zesp\u00F3\u0142\x20\x22Dunaje\x22','Kloc\x20Mieczys\u0142aw\x20','Kurantowicz\x20Antoni\x20','\x22Kocudzanki\x22\x20z\x20Kocudzy','Kowalski\x20Andrzej','Nied\u017Awiedzki\x20J\u00F3zef\x20','Wypych\x20J\u00F3zef\x20','Kami\u0144ska\x20El\u017Cbieta\x20','\u0141ukasik\x20Agnieszka\x20','Micha\u0142ek\x20Helena\x20','Baraniak\x20Julia\x20','G\u0142az\x20Feliksa\x20','Ma\u0142ek\x20Julia\x20','Sa\u0142amaja\x20Franciszka\x20','Kukie\u0142ka\x20Tomasz\x20','Malec\x20Czes\u0142aw\x20','Zieli\u0144ska\x20Karolina\x20','Adamczuk\x20Marianna\x20','Lachowicz\x20Wojciech','G\u00F3ra\x20Honorata\x20','G\u00F3rska\x20Honorata\x20','Majewska\x20Zofia\x20','Kosz\x20J\u00F3zef\x20','Polska\x20Maria\x20','Smaga\u0142a\x20Stanis\u0142aw\x20','M\u0119ski\x20Zesp\u00F3\u0142\x20\u015Apiewaczy\x20\u201EMajdaniacy\u201D','\x22Jad\u0105c\x20przez\x20Roztocze\x22\x20CD','Szko\u0142a\x20Suki\x20Bi\u0142gorajskiej','Tabor\x20roztocza\u0144ski','Scena\x2FStudio\x20In\x20Crudo','Muzyka\x20\u0179r\u00F3de\u0142.\x20Lubelskie\x20CD','\x22Tabor\x20w\x20Szczebrzeszynie\x202008\x22\x20CD','SPOD\x20NIEBIESKIEJ\x20G\u00D3RY\x20\x2D\x20muzyka\x20Roztocza\x20CD','\x22Stanis\u0142aw\x20Fija\u0142kowski\x20\x2D\x20portret\x20\u015Bpiewaka\x22\x20CD','\u0141o\x20Matko\x20Kocheno\x21\x20Pie\u015Bni\x20z\x20Kocudzy\x20CD','Kimak\x20Leokadia\x20','Lubelskie.\x20Polska\x20pie\u015B\u0144\x20i\x20muzyka\x20ludowa.\x20','Oj,\x20chmielu,\x20oj\x20niebo\u017Ce.\x20Najstarsze\x20pie\u015Bni\x20z\x20\u0141ukowej.\x20CD','\x22Czy\u015Bcie\x20radzi\x20czy\x20nie\x20radzi\x22\x20Zesp\u00F3\u0142\x20\u015Bp.\x20z\x20Rudy\x20Solskiej\x20CD','Orkiestra\x20Dzwolska','\x22Kapela\x20Dudk\u00F3w\x22\x20CD','Orkiestra\x20Ligaj\u00F3w\x20z\x20Majdanu\x20Grabiny','Orkiestra\x20z\x20Chrzanowa','Orkiestra\x20z\x20W\u00F3lki','Gumiela\x20Agnieszka','Go\u0142\u0105b\x20Emilia\x20','\u0141ukasz\x20Stanis\u0142awa\x20','Butryn\x20Krzysztof\x20','Cieliszak\x20Mateusz\x20','Zesp\u00F3\u0142\x20z\x20\u0141ukowej\x20IV','\u0141ukowskie\x20dunaje\x20i\x20kol\u0119dy\x20CD','Na\x20rozstajnych\x20drogach\x20CD','Gzik\x20Wojciech\x20','Chmiel\x20Anna\x20','Macha\u0142ek\x20Maria\x20','Rzemieniuk\x20Jakub\x20','Leszczy\u0144ski\x20Jan\x20','Lirnik\x20z\x20Rawy\x20Ruskiej,\x20\u017B\u00F3\u0142kwi\x20\x2F\x20\u041B\u0456\u0440\u043D\u0438\u043A\x20\x2D\x20\u0416\u043E\u0432\u043A\u0432\u0430,\x20\u0420\u0430\u0432\u0430\x2D\u0420\u0443\u0441\u044C\u043A\u0430\x20','Gimple','Lirnik\x20ze\x20Lwowa\x20\x2D\x20\u041B\u0456\u0440\u043D\u0438\u043A\x20\u0437\u0456\x20\u041B\u044C\u0432\u043E\u0432\u0430','Serafin\u00F3w\x20Kapela\x20','Roso\u0142owskich\x20Kapela\x20','Oleszko\x20Stanis\u0142awa\x20','Zesp\u00F3\u0142\x20z\x20Momot\x20Dolnych','Wojciechowski\x20Jan\x20','Orkiestra\x20w\x20Wierzchowiskach','Robak\x20Stanis\u0142aw\x20','Kufera\x20J\u00F3zef\x20','Szyjak\x20z\x20Bia\u0142ej','Zesp\u00F3\u0142\x20mieszany\x20z\x20\u0141ukowej','\x22Blinowianki\x22\x20z\x20Blinowa','Dubiel\x20Jan\x20','Bielak\x20Czes\u0142aw\x20','Zar\u0119ba\x20Jan\x20','Skrzypek\x20Jerzy\x20','Mazur\x20Franciszek\x20','Orkiestra\x20Zaburska','\u0422\u0435\u043E\u0434\u043E\u0440\x20\u0424\u0443\u0440\u0442\u0430\x20\x2D\x20Teodor\x20Furta','Henryk\x20Welcz\x20\x20\x22Orkiestry\x20d\u0119te\x20okolic\x20Tomaszowa\x22','Harbuz\x20Tadeusz\x20','Skiba\x20Stanis\u0142aw\x20','Myszkowski\x20Ludwik\x20i\x20Kapela\x20z\x20Paar','Borowicz\x20Anna\x20','Kotu\u0142a\x20Jan\x20','Zesp\u00F3\u0142\x20z\x20Paar','Zdybel\x20Jan\x20','Pi\u0119dzio\x20Wojciech\x20','Kapela\x20d\u0119ta\x20z\x20Dzier\u0105\u017Cni','Kapela\x20d\u0119ta\x20z\x20Majdanu\x20G\u00F3rnego','Kapela\x20d\u0119ta\x20z\x20Woli\x20Gr\u00F3deckiej\x20\x28Kapela\x20Kimaka\x29','Orkiestra\x20Szubartowskiego\x20ze\x20Starej\x20Wsi','Ostrowski\x20Feliks\x20','Soba\u0144ska\x20Maria\x20','Bie\u0144kowski\x20Andrzej\x20','Adamowski\x20Jan\x20','Orkiestra\x20z\x20J\u0119drzej\u00F3wki\x20i\x20Hoszni','Orkiestra\x20z\x20\u0141ady','Orkiestra\x20z\x20Radzi\u0119cina','Orkiestra\x20z\x20Soko\u0142\u00F3wki','Orkiestra\x20z\x20Aleksandrowa','Orkiestra\x20z\x20Kocudzy','Orkiestra\x20z\x20Dzwoli','Kowal\x20Aleksander','\x22Jezioranki\x22\x20z\x20Jezierni','\x22Dorbozianki\x22\x20z\x20Dorboz','\x22Weso\u0142e\x20gosposie\x22\x20z\x20Kolonii\x20Sitaniec','\x22Rog\u00F3\u017Anianki\x22\x20z\x20Rog\u00F3\u017Ana','Zesp\u00F3\u0142\x20\u017Be\u0144ski\x20z\x20Godziszowa','\x22Aleksandrowiacy\x22\x20z\x20Aleksandrowa','Bielecki\x20Mieczys\u0142aw\x20','Gnap\x20Bronis\u0142aw\x20','Kurczaba\x20W\u0142adys\u0142aw\x20','Da\u015Bko\x20Sebastian\x20','Zborowska\x20Irena\x20','Bartmi\u0144ski\x20Jerzy\x20','Dahlig\x20Piotr\x20','Zesp\u00F3\u0142\x20ze\x20Zdzi\u0142owic','Doma\u0144ski\x20Marian\x20','Sobiescy\x20Jadwiga\x20i\x20Marian\x20','Anna\x20Malec\x20i\x20Kapela\x20Braci\x20B\u017Adziuch\u00F3w','Kapela\x20z\x20Niemstowa','Walczak\x20Marcin\x20','Koty\u0142a\x20Maria\x20','Kocur\u00F3w\x20Kapela\x20\x2F\x20K\u0430\u043F\u0435\u043B\u0430\x20\u041Ao\u0446\u0443\u0440\u0456\u0432','Kapela\x20d\u0119ta\x20i\x20orkiestra\x20z\x20Deszkowic','Smutniak\u00F3w\x20Kapela\x20\x2F\x20\u041A\u0430\u043F\u0435\u043B\u0430\x20\u0421\u043C\u0443\u0442\u043D\u044F\u043A\u0456\u0432','Korzan\x20Oleksij\x20\x2F\x20\u041E\u043B\u0435\u043A\u0441\u0456\u0439\x20\u041A\u043E\u0440\u0437\u0430\u043D','\u017Bmijan\x20Jan\x20','Ka\u0142dusi\u00F3w\x20Kapela\x20','Orkiestry\x20w\x20B\u0142a\u017Cku','Orkiestra\x20w\x20Szastarce','\u0141ag\u00F3d\x20Piotr\x20','Gilas\x20J\u00F3zefa\x20','Jamro\u017Cy\x20Wojciech\x20','Pud\u0142o\x20Stanis\u0142aw\x20','Moskal\x20Stefan\x20','Festiwal\x20Muzyki\x20Tradycyjnej\x20\x22Na\x20rozstajnych\x20drogach\x22','W\u00F3jcik\x20Anna\x20','Krupa\x20Jan\x20','Misiak\x20\u0141ucja\x20','Paszko\x20Katarzyna\x20','\u041A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\x20\u041A\u043E\u0436\u0443\u0448\u043A\u043E\x20\x2F\x20Kateryna\x20Ko\u017Cuszko\x20','\x22\u0412\u0438\u0448\u0438\u0432\u0430\u043D\u043A\u0430\x22\x20\x2D\x20\u041B\u0430\u0432\u0440\u0438\u043A\u0456\u0432\x20\x2F\x20\x22Wyszywanka\x22\x20z\x20\u0141awrykowa\x20','Dyjanki\x20Kapela\x20\x20\x2F\x20kapela\x20z\x20Zamchu','\u041F\u0438\u043B\u0438\u043F\x20\u0420\u043E\u043C\u0430\u043D\u043E\u0432\u0438\u0447\x20\u0412\u0456\u0445\u043E\u0442\u044C\x20\x2D\x20Pylyp\x20Romanowycz\x20Wichot','Czekanowska\x2DKukli\u0144ska\x20Anna\x20','Brzuskowska\x20Marta\x20','Soko\u0142owski\x20J\u00F3zef\x20','Olesiejuk\x20Feliks\x20','Turczyn\x20Antoni\x20','Ma\u0142yszek\x20Pawe\u0142\x20','Sawa\x20Aleksander','Malec\x20Marianna\x20','Smerdel\x20W\u0142adys\u0142aw\x20i\x20kapela\x20z\x20J\u0119drzej\u00F3wki','Barto\u0144\x20Walenty\x20','\u0141ogo\u017Any\x20Kazimierz\x20','Miksza\x20Jan\x20','Oleszczak\u00F3w\x20braci\x20Kapela','Smyl\u00F3w\x20Kapela\x20','G\u00F3ra\x20W\u0142adys\u0142aw\x20','Ma\u0142yszek\x20Antoni','Ma\u0142yszek\x20W\u0142adys\u0142aw\x20','Gil\u00F3w\x20\x2D\x20muzykanci','Ma\u0142yszkowie\x20ze\x20\u015Aredni\u00F3wki','Zesp\u00F3\u0142\x20z\x20Hoszni\x20Ordynackiej','Powro\u017Anik\x20Janina\x20','Dzida\x20Tadeusz\x20','Korczak\x20Janina','M\u0119ski\x20zesp\u00F3\u0142\x20\u015Bpiewaczy\x20Branwiacy','M\u0119ski\x20Zesp\u00F3\u0142\x20\u015Apiewaczy\x20z\x20Bukowej','Pydo\x20Janina\x20','Lirnik\x20z\x20\u017B\u00F3\u0142kwi\x20\x2F\x20\u041B\u0456\u0440\u043D\u0438\u043A\x20\u0437\x20\u0416\u043E\u0301\u0432\u043A\u0432\u0438','Bondyra\x20Teresa','Bielak\x20Jan','Radli\u0144ski\x20W\u0142adys\u0142aw','Pitura\x20Franciszka','Gardias\x20Aniela','Ko\u0142odziej\x20J\u00F3zefa','Nazarowicz\x20W\u0142odzimierz\x20','Jurczyk\x20Kateryna\x20\x2F\x20\u041A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\x20\u042E\u0440\u0447\u0438\u043A','Iwa\u0144czuk\x20Dymitr','\u015Awi\u015B\x20Andrzej\x20','Magdziarz\x20Bronis\u0142aw\x20','Jarosz\x20Eugeniusz','Hosznianki','Magdziarz\x20Jan','Sitarz\x20Jan','Buga\u0142a\x20J\u00F3zef','Kula\x20J\u00F3zef','Kapela\x20Kot\u00F3w','Kapela\x20Lachowicz\u00F3w','Kapela\x20\u017Burawicz\u00F3w','Jargi\u0142o\x2DKowalik\x20Maria','Orkiestra\x20z\x20Su\u0142owca','Wypych\x20Pawe\u0142','\u017Buk\x20Roman','Magdziarz\x20Stanis\u0142aw','Kowal\x20Stefania','Po\u017Adzik\x20Walenty','Momot\x20Wies\u0142aw','Czajka\x20W\u0142adys\u0142aw','Dubaj\x20W\u0142adys\u0142awa','Kubina\x20W\u0142adys\u0142awa']});
+/*]]>*/
+
+

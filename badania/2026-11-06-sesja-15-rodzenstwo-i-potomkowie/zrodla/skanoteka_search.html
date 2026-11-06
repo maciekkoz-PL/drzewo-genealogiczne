@@ -1,0 +1,5334 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Skanoteka - Baza skanów dokumentów o wartości genealogicznej</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:image" content="https://skanoteka.genealodzy.pl/images/PTG_Logo_Skanoteka_pl_PL_200.png" />
+<meta name="author" content="Genealodzy.PL Genealogia">
+<meta name="copyright" content="Copyright (c) 2006-2026 Polskie Towarzystwo Genealogiczne">
+<meta name="description" content="Baza skanów dokumentów o wartości genealogicznej.">
+<meta name="revisit-after" content="1 days">
+<link rel="canonical" href="https://skanoteka.genealodzy.pl">
+<link rel="stylesheet" href="style/style.css?=v6" type="text/css">
+<link rel="stylesheet" href="style/ajaxcss.css?=v2" type="text/css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?=v2">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?=v2">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?=v2">
+<link rel="manifest" href="/images/site.webmanifest">
+<link rel="shortcut icon" href="/images/favicon.ico?=v2">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="js/snap.svg-min.js"></script>
+<style>
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+	background: #f3e2e7;
+	border: 1px solid #c5c5c5;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+	background: #f3d0e7;
+	border: 1px solid #c5c5c5;
+	color: black;
+}
+
+.ui-accordion .ui-accordion-content {
+	padding: 0px 0px;
+	background: none;
+}
+
+.ui-state-active .ui-icon,
+.ui-button:active .ui-icon {
+	background-image: url("https://code.jquery.com/ui/1.13.2/themes/base/images/ui-icons_444444_256x240.png");
+}
+
+:root
+{
+	--background-image-url: url('/images/back-pink.gif');
+}</style><link rel="shortcut icon" href="images/favicon.ico">
+
+		<script async src="https://platform.twitter.com/widgets.js"></script>
+		<script src="ajax/ajaxcore.js"></script>
+		<script src="ajax/ajax.js"></script>
+		<script src="style/centeredpop.js"></script>
+		<script>
+			var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-22184319-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+		</script>
+			</head>
+
+	<body id="body">
+		<script src="/cookies_komunikat.js"></script>
+		<div>
+			<br>
+			<table style="border-collapse: collapse; width: 1000px; margin: 0 auto; border: 1px solid rgb(100,100,100)">
+				<tr>
+					<td class="head">
+													<a href="/" target="_self" title="https://metryki.genealodzy.pl/">
+								<img style="display: block;max-width: 1000px" src=/images/PTG_Banner_Skanoteka-OPP_pl_PL.png?v3 alt="metryki.genealodzy.pl" title="metryki.genealodzy.pl"></a>
+											</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+													<div class="center">
+
+								<table border="0" cellpadding="0" cellspacing="0" width="98%">
+									<tr>
+										<td width="100%">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tr>
+													<td width="230" class="left valign-middle">
+																											</td>
+													<td width="220" class="valign-middle">
+														<div id="fb-root"></div>
+														<script>
+															(function (d, s, id) {
+var js,
+fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) 
+return;
+
+
+js = d.createElement(s);
+js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+														</script>
+														<div class="fb-share-button" data-href="https://skanoteka.genealodzy.pl" data-layout="button"></div>
+														<a href="https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="Projekt digitalizacji i indeksacji metryk" data-url="https://skanoteka.genealodzy.pl" data-show-count="false"></a>
+
+													</td>
+													<td width="400" class="valign-middle">
+														<a href="https://genealodzy.pl"><img class="valign-sub" src="images/navhome.gif" width="20" height="20" alt="Genealodzy.PL" title="Genealodzy.PL"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="/"><img class="valign-sub" src="images/navmapa.gif" width="20" height="20" alt="Strona główna" title="Strona główna"></a>
+<a href="https://geneteka.genealodzy.pl/plany.php"><img src="images/navplany.gif" class="valign-sub" width="20" height="20" alt="Zasoby w trakcie indeksacji" title="Zasoby w trakcie indeksacji"></a>
+<a href="https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"><img src="images/navhelp.gif" class="valign-sub" width="20" height="20" alt="Jak indeksować" title="Jak indeksować"></a>
+<a href="opjk"><img src="images/navjak.gif" class="valign-sub" width="20" height="20" alt="Jak wyszukiwać" title="Jak wyszukiwać"></a>
+<a href="https://genealodzy.pl/donate-pol"><img src="images/navdonate.gif" class="valign-sub" width="20" height="20" alt="Jak wspomóc" title="Jak wspomóc"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/?op=lang&amp;lang=pl_PL"><img src="images/flag-pol.png" class="valign-middle" alt="flag-pol.png" width="30" height="16" title="polski"></a>
+<a href="/?op=lang&amp;lang=en_EN"><img src="images/flag-eng.png" class="valign-middle" alt="flag-eng.png" width="30" height="16" title="english"></a>
+													</td>
+													<td></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+											</td>
+				</tr>
+
+				<tr>
+					<td>
+							<table width="100%" border="1">
+		<tr>
+			<td width="70%" class="valign-top">
+			<span style="float:right; margin-top:5px;margin-right:10px">Ilość zdjęć w serwisie: 18,502,989</span>
+				<br><br>
+								<div style="text-align: center">Szukaj:
+					<input type="text" id="nazwa" onkeyup="var nazwa=encodeURIComponent(document.getElementById(&#039;nazwa&#039;).value);callBoczek(&#039;index.php?op=sz&amp;nazwa=&#039;+nazwa+&#039;&amp;search_jednostki=&#039;+document.getElementById(&#039;search_jednostki&#039;).checked,&#039;ostatnie&#039;,&#039;&#039;)">
+					<input type="checkbox" id="search_jednostki" onclick="var nazwa=encodeURIComponent(document.getElementById(&#039;nazwa&#039;).value);callBoczek(&#039;index.php?op=sz&amp;nazwa=&#039;+nazwa+&#039;&amp;search_jednostki=&#039;+document.getElementById(&#039;search_jednostki&#039;).checked,&#039;ostatnie&#039;,&#039;&#039;)"/>
+					<label for="search_jednostki">wyszukaj również w jednostkach</label>
+					<br><br>
+					lub
+					<br><br>
+					<a href="opar">przeglądaj archiwa</a>
+											/ <a href="?op=tg">wyszukaj w tagach</a>
+									</div><br>
+				<div id="ostatnie">
+					<h2 style="text-align:center">Ostatnio zaktualizowane</h2>
+<table style="margin: 0 auto; width: 90%; border-collapse: separate" border="0">
+	<tr>
+		<td class="top">Info</td>
+		<td class="top center">Data</td>
+		<td class="top center">Archiwum</td>
+		<td class="top right">Zespół</td>
+		<td class="top">Nazwa zespołu</td>
+	</tr>
+
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5956><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5956>
+					1626
+				</a>
+			</td>
+			<td>
+				<a href=id5956>
+					Urząd Stanu Cywilnego Nowa Ruda
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1332><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id1332>
+					2449d
+				</a>
+			</td>
+			<td>
+				<a href=id1332>
+					Akta stanu cywilnego parafii rzymskokatolickiej Busko-Zdrój
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3515><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id3515>
+					320
+				</a>
+			</td>
+			<td>
+				<a href=id3515>
+					Starostwo Powiatowe w Kępnie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4303><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4303>
+					433
+				</a>
+			</td>
+			<td>
+				<a href=id4303>
+					Urząd Katastralny w Krotoszynie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4461><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4461>
+					439
+				</a>
+			</td>
+			<td>
+				<a href=id4461>
+					Urząd Katastralny w Poznaniu
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4156><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4156>
+					436
+				</a>
+			</td>
+			<td>
+				<a href=id4156>
+					Urząd Katastralny w Nowym Tomyślu
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5967><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5967>
+					333
+				</a>
+			</td>
+			<td>
+				<a href=id5967>
+					Starostwo Powiatowe w Ostrzeszowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5859><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5859>
+					312
+				</a>
+			</td>
+			<td>
+				<a href=id5859>
+					Starostwo Powiatowe w Odolanowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2410><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id2410>
+					20
+				</a>
+			</td>
+			<td>
+				<a href=id2410>
+					Księgi grodzkie poznańskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2977><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id2977>
+					18
+				</a>
+			</td>
+			<td>
+				<a href=id2977>
+					Księgi grodzkie kościańskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2525><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id2525>
+					474a
+				</a>
+			</td>
+			<td>
+				<a href=id2525>
+					Akta miasta Poznania
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5717><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5717>
+					4255
+				</a>
+			</td>
+			<td>
+				<a href=id5717>
+					Księgi metrykalne parafii rzymskokatolickiej Libusza
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4926><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4926>
+					13
+				</a>
+			</td>
+			<td>
+				<a href=id4926>
+					Księgi grodzkie gnieźnieńskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4462><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4462>
+					4431m
+				</a>
+			</td>
+			<td>
+				<a href=id4462>
+					Akta gminy Kleszczewo (pow. średzki) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5617><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5617>
+					99901
+				</a>
+			</td>
+			<td>
+				<a href=id5617>
+					Księgi parafialne w parafiach diecezji rzeszowskiej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4219><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				AP Sandomierz
+			</td>
+						<td class="right">
+				<a href=id4219>
+					11118
+				</a>
+			</td>
+			<td>
+				<a href=id4219>
+					Akta stanu cywilnego parafii greckokatolickiej Dąbrówka
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5966><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				Muzeum Biecz
+			</td>
+						<td class="right">
+				<a href=id5966>
+					4
+				</a>
+			</td>
+			<td>
+				<a href=id5966>
+					Księgi metrykalne parafii rzymskokatolickiej Libusza
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5965><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				Muzeum Biecz
+			</td>
+						<td class="right">
+				<a href=id5965>
+					3
+				</a>
+			</td>
+			<td>
+				<a href=id5965>
+					Księgi metrykalne parafii rzymskokatolickiej Moszczenica
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5955><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5955>
+					3061
+				</a>
+			</td>
+			<td>
+				<a href=id5955>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Szewna
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5964><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				Muzeum Biecz
+			</td>
+						<td class="right">
+				<a href=id5964>
+					2
+				</a>
+			</td>
+			<td>
+				<a href=id5964>
+					Szkoła ludowa w Binarowej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5963><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				Muzeum Biecz
+			</td>
+						<td class="right">
+				<a href=id5963>
+					1
+				</a>
+			</td>
+			<td>
+				<a href=id5963>
+					Szkoła ludowa w Uściu Ruskim-Odernem
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4195><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id4195>
+					311
+				</a>
+			</td>
+			<td>
+				<a href=id4195>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Sulejów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5675><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5675>
+					2173
+				</a>
+			</td>
+			<td>
+				<a href=id5675>
+					Księgi metrykalne parafii rzymskokatolickiej Gorlice-Fara
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id239><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id239>
+					1015d
+				</a>
+			</td>
+			<td>
+				<a href=id239>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kielce św. Wojciecha
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5932><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.11.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5932>
+					1550
+				</a>
+			</td>
+			<td>
+				<a href=id5932>
+					Urząd Stanu Cywilnego Kłodzko
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3580><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id3580>
+					3084
+				</a>
+			</td>
+			<td>
+				<a href=id3580>
+					Akta stanu cywilnego parafii rzymskokatolickiej Momina
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id265><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.11.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id265>
+					1428d
+				</a>
+			</td>
+			<td>
+				<a href=id265>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Buczku
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id473><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.11.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id473>
+					1548d
+				</a>
+			</td>
+			<td>
+				<a href=id473>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Lututów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3997><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id3997>
+					680
+				</a>
+			</td>
+			<td>
+				<a href=id3997>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Uniejów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1850><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				AP Łomża
+			</td>
+						<td class="right">
+				<a href=id1850>
+					559
+				</a>
+			</td>
+			<td>
+				<a href=id1850>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Drozdowo
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1375><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id1375>
+					466
+				</a>
+			</td>
+			<td>
+				<a href=id1375>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Rzeczyca
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5962><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5962>
+					753
+				</a>
+			</td>
+			<td>
+				<a href=id5962>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Książ Wielki
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4039><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4039>
+					4931
+				</a>
+			</td>
+			<td>
+				<a href=id4039>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Maniowy
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4040><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4040>
+					3853
+				</a>
+			</td>
+			<td>
+				<a href=id4040>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Krempachy
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4041><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4041>
+					2511
+				</a>
+			</td>
+			<td>
+				<a href=id4041>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Harklowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4042><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4042>
+					3317
+				</a>
+			</td>
+			<td>
+				<a href=id4042>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Klikuszowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4043><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4043>
+					4497
+				</a>
+			</td>
+			<td>
+				<a href=id4043>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Ludźmierz
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4044><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4044>
+					4705
+				</a>
+			</td>
+			<td>
+				<a href=id4044>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Łopuszna
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4045><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4045>
+					5517
+				</a>
+			</td>
+			<td>
+				<a href=id4045>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Nowa Biała
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4046><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4046>
+					5969
+				</a>
+			</td>
+			<td>
+				<a href=id4046>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Ostrowsko
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4047><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.11.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4047>
+					9132
+				</a>
+			</td>
+			<td>
+				<a href=id4047>
+					Akta stanu cywilnego ekspozytury Parafii Rzymskokatolickiej Waksmund
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2012><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Łomża
+			</td>
+						<td class="right">
+				<a href=id2012>
+					785
+				</a>
+			</td>
+			<td>
+				<a href=id2012>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Łosewo
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5961><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5961>
+					2115
+				</a>
+			</td>
+			<td>
+				<a href=id5961>
+					Akta stanu cywilnego parafii greckokatolickiej Ułazów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5960><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5960>
+					11491
+				</a>
+			</td>
+			<td>
+				<a href=id5960>
+					Akta stanu cywilnego parafii greckokatolickiej Nowy Lubliniec
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5959><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5959>
+					1714
+				</a>
+			</td>
+			<td>
+				<a href=id5959>
+					Akta stanu cywilnego parafii greckokatolickiej Gorajec
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5058><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5058>
+					2027
+				</a>
+			</td>
+			<td>
+				<a href=id5058>
+					Akta stanu cywilnego parafii greckokatolickiej Dachnów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5958><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5958>
+					1685
+				</a>
+			</td>
+			<td>
+				<a href=id5958>
+					Akta stanu cywilnego parafii greckokatolickiej Cieszanów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5957><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5957>
+					2466
+				</a>
+			</td>
+			<td>
+				<a href=id5957>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Sędziejowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5954><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5954>
+					3313
+				</a>
+			</td>
+			<td>
+				<a href=id5954>
+					Księgi metrykalne parafii rzymskokatolickiej Klęczany
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5953><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5953>
+					1409
+				</a>
+			</td>
+			<td>
+				<a href=id5953>
+					Księgi metrykalne parafii rzymskokatolickiej Dąbrowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5952><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5952>
+					2467
+				</a>
+			</td>
+			<td>
+				<a href=id5952>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Solec-Zdrój
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5951><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5951>
+					11071
+				</a>
+			</td>
+			<td>
+				<a href=id5951>
+					Księgi metrykalne parafii rzymskokatolickiej Zagorzyce Dolne
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5950><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5950>
+					10013
+				</a>
+			</td>
+			<td>
+				<a href=id5950>
+					Księgi metrykalne parafii rzymskokatolickiej Zagorzyce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5949><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5949>
+					4886
+				</a>
+			</td>
+			<td>
+				<a href=id5949>
+					Księgi metrykalne parafii rzymskokatolickiej Malawa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5948><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.11.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5948>
+					752
+				</a>
+			</td>
+			<td>
+				<a href=id5948>
+					Księgi metrykalne parafii rzymskokatolickiej Rzeszów-Budziwój
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5947><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5947>
+					2455
+				</a>
+			</td>
+			<td>
+				<a href=id5947>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kargów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id951><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.11.2026</td>
+			<td class="center">
+				AP Łomża
+			</td>
+						<td class="right">
+				<a href=id951>
+					535
+				</a>
+			</td>
+			<td>
+				<a href=id951>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Rutki
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5946><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5946>
+					2454
+				</a>
+			</td>
+			<td>
+				<a href=id5946>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Janina
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5945><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.11.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5945>
+					2452
+				</a>
+			</td>
+			<td>
+				<a href=id5945>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Drugnia
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5944><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5944>
+					242
+				</a>
+			</td>
+			<td>
+				<a href=id5944>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kroczyce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2329><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id2329>
+					855
+				</a>
+			</td>
+			<td>
+				<a href=id2329>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Bliżyn
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5942><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5942>
+					1706
+				</a>
+			</td>
+			<td>
+				<a href=id5942>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kozłów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5943><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5943>
+					1182
+				</a>
+			</td>
+			<td>
+				<a href=id5943>
+					Księgi metrykalne Parafii Rzymskokatolickiej Koprzywnica
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5941><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5941>
+					422
+				</a>
+			</td>
+			<td>
+				<a href=id5941>
+					Akta stanu cywilnego Okręgu Bóżniczego Kielce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id360><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id360>
+					3085d
+				</a>
+			</td>
+			<td>
+				<a href=id360>
+					Akta stanu cywilnego parafii rzymskokatolickiej Bzin
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5939><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5939>
+					2329
+				</a>
+			</td>
+			<td>
+				<a href=id5939>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Góry
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1337><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id1337>
+					2458d
+				</a>
+			</td>
+			<td>
+				<a href=id1337>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Lisów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5938><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5938>
+					1725
+				</a>
+			</td>
+			<td>
+				<a href=id5938>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Sobków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5937><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5937>
+					1705
+				</a>
+			</td>
+			<td>
+				<a href=id5937>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Korytnica
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5674><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5674>
+					1150
+				</a>
+			</td>
+			<td>
+				<a href=id5674>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Podwyższenia Krzyża Świętego Kielce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5929><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5929>
+					1597
+				</a>
+			</td>
+			<td>
+				<a href=id5929>
+					Urząd Stanu Cywilnego Mokrzeszów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2311><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id2311>
+					676
+				</a>
+			</td>
+			<td>
+				<a href=id2311>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Racławice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5936><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5936>
+					310
+				</a>
+			</td>
+			<td>
+				<a href=id5936>
+					Urząd Stanu Cywilnego Mikorowo
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5935><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id5935>
+					572
+				</a>
+			</td>
+			<td>
+				<a href=id5935>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Brudzewice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5934><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">29.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5934>
+					305
+				</a>
+			</td>
+			<td>
+				<a href=id5934>
+					Urząd Stanu Cywilnego Mianowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5933><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">29.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5933>
+					300
+				</a>
+			</td>
+			<td>
+				<a href=id5933>
+					Urząd Stanu Cywilnego Lubuczewo
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5930><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">29.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5930>
+					299
+				</a>
+			</td>
+			<td>
+				<a href=id5930>
+					Urząd Stanu Cywilnego Lipnica
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2936><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id2936>
+					3930
+				</a>
+			</td>
+			<td>
+				<a href=id2936>
+					Zbiór indeksów do staropolskich ksiąg sądowych województwa krakowskiego i powiatu pilzneńskiego województwa sandomierskiego
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5202><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5202>
+					1866
+				</a>
+			</td>
+			<td>
+				<a href=id5202>
+					Urząd Stanu Cywilnego Gorce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5931><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.10.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id5931>
+					145
+				</a>
+			</td>
+			<td>
+				<a href=id5931>
+					Akta stanu cywilnego parafii rzymskokatolickiej Drobin
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2830><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id2830>
+					464
+				</a>
+			</td>
+			<td>
+				<a href=id2830>
+					Księgi gruntowe z obszaru apelacji krakowskiej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5928><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Siedlce
+			</td>
+						<td class="right">
+				<a href=id5928>
+					2100
+				</a>
+			</td>
+			<td>
+				<a href=id5928>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Gocław
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5550><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5550>
+					299
+				</a>
+			</td>
+			<td>
+				<a href=id5550>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Żytno
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2264><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Siedlce
+			</td>
+						<td class="right">
+				<a href=id2264>
+					1303
+				</a>
+			</td>
+			<td>
+				<a href=id2264>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Trąbki
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2573><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id2573>
+					411
+				</a>
+			</td>
+			<td>
+				<a href=id2573>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Sułoszowej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id87><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id87>
+					1566d
+				</a>
+			</td>
+			<td>
+				<a href=id87>
+					Akta stanu cywilnego Parafii Ewangelicko-Augsburskiej św. Trójcy Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id571><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id571>
+					1565d
+				</a>
+			</td>
+			<td>
+				<a href=id571>
+					Akta stanu cywilnego Parafii Ewangelicko-Augsburskiej św. Jana w Łodzi 
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1503><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1503>
+					1890d
+				</a>
+			</td>
+			<td>
+				<a href=id1503>
+					Akta stanu cywilnego Parafii Ewangelicko-Augsburskiej św. Mateusza Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id634><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id634>
+					1708d
+				</a>
+			</td>
+			<td>
+				<a href=id634>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Uników
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5622><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id5622>
+					2639
+				</a>
+			</td>
+			<td>
+				<a href=id5622>
+					Urząd Stanu Cywilnego Obwodu Złoczew
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id375><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id375>
+					1752d
+				</a>
+			</td>
+			<td>
+				<a href=id375>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Złoczew
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5863><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5863>
+					1291
+				</a>
+			</td>
+			<td>
+				<a href=id5863>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Zawada
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5927><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5927>
+					1645
+				</a>
+			</td>
+			<td>
+				<a href=id5927>
+					Urząd Stanu Cywilnego Piława Górna II
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5926><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5926>
+					1644
+				</a>
+			</td>
+			<td>
+				<a href=id5926>
+					Urząd Stanu Cywilnego Piława Górna I
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5925><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5925>
+					1643
+				</a>
+			</td>
+			<td>
+				<a href=id5925>
+					Urząd Stanu Cywilnego Piława Górna
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5924><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5924>
+					1494
+				</a>
+			</td>
+			<td>
+				<a href=id5924>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kalej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5922><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5922>
+					5493
+				</a>
+			</td>
+			<td>
+				<a href=id5922>
+					Akta stanu cywilnego parafii rzymskokatolickiej Niewodna
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5923><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5923>
+					1545
+				</a>
+			</td>
+			<td>
+				<a href=id5923>
+					Akta stanu cywilnego parafii greckokatolickiej Oparówka
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5879><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5879>
+					2392
+				</a>
+			</td>
+			<td>
+				<a href=id5879>
+					Akta stanu cywilnego parafii rzymskokatolickiej Grodzisko Strzyżowskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5921><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5921>
+					1826
+				</a>
+			</td>
+			<td>
+				<a href=id5921>
+					Akta stanu cywilnego parafii rzymskokatolickiej Frysztak
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5877><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5877>
+					1582
+				</a>
+			</td>
+			<td>
+				<a href=id5877>
+					Akta stanu cywilnego parafii rzymskokatolickiej Dobrzechów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5192><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5192>
+					2401
+				</a>
+			</td>
+			<td>
+				<a href=id5192>
+					Akta stanu cywilnego parafii rzymskokatolickiej Brzeziny
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5920><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5920>
+					266
+				</a>
+			</td>
+			<td>
+				<a href=id5920>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Praszka
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5716><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5716>
+					57
+				</a>
+			</td>
+			<td>
+				<a href=id5716>
+					Akta stanu cywilnego Parafii Ewangelicko-Augsburskiej Częstochowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5919><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5919>
+					1213
+				</a>
+			</td>
+			<td>
+				<a href=id5919>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Jakuba Częstochowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5903><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5903>
+					1734
+				</a>
+			</td>
+			<td>
+				<a href=id5903>
+					Urząd Stanu Cywilnego Radków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5918><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5918>
+					1185
+				</a>
+			</td>
+			<td>
+				<a href=id5918>
+					Akta Stanu Cywilnego Parafii Rzymskokatolickiej św. Rodziny Częstochowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5894><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5894>
+					662
+				</a>
+			</td>
+			<td>
+				<a href=id5894>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Garnek
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5721><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5721>
+					1640
+				</a>
+			</td>
+			<td>
+				<a href=id5721>
+					Urząd Stanu Cywilnego Głuszyca
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5917><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5917>
+					296
+				</a>
+			</td>
+			<td>
+				<a href=id5917>
+					Urząd Stanu Cywilnego Krępkowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5916><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id5916>
+					1683
+				</a>
+			</td>
+			<td>
+				<a href=id5916>
+					Akta stanu cywilnego gminy żydowskiej Stryków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id491><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id491>
+					0336d
+				</a>
+			</td>
+			<td>
+				<a href=id491>
+					Akta stanu cywilnego Mariawitów w gminie Dobra
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3460><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id3460>
+					159
+				</a>
+			</td>
+			<td>
+				<a href=id3460>
+					Akta stanu cywilnego parafii rzymskokatolickiej Rogotwórsk
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5915><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5915>
+					51
+				</a>
+			</td>
+			<td>
+				<a href=id5915>
+					Urząd Stanu Cywilnego Stryków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id57><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.10.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id57>
+					0086d
+				</a>
+			</td>
+			<td>
+				<a href=id57>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Kielcach - Katedra
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id599><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id599>
+					2385d
+				</a>
+			</td>
+			<td>
+				<a href=id599>
+					Akta stanu cywilnego Mariawitów w Lipce, gmina Stryków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id307><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id307>
+					1457d
+				</a>
+			</td>
+			<td>
+				<a href=id307>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Dobra
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id362><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id362>
+					1527d
+				</a>
+			</td>
+			<td>
+				<a href=id362>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Koźle
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id416><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id416>
+					1600d
+				</a>
+			</td>
+			<td>
+				<a href=id416>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Niesułków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5914><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5914>
+					50
+				</a>
+			</td>
+			<td>
+				<a href=id5914>
+					Urząd Stanu Cyilnego Łęg (Gmina Drobin)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5913><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.10.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5913>
+					10473
+				</a>
+			</td>
+			<td>
+				<a href=id5913>
+					Księgi metrykalne parafii rzymskokatolickiej Żyznów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id533><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id533>
+					1682d
+				</a>
+			</td>
+			<td>
+				<a href=id533>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Strykowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1410><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.10.2026</td>
+			<td class="center">
+				AP Mława
+			</td>
+						<td class="right">
+				<a href=id1410>
+					0150ad
+				</a>
+			</td>
+			<td>
+				<a href=id1410>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Opinogóra
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5912><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5912>
+					297
+				</a>
+			</td>
+			<td>
+				<a href=id5912>
+					Urząd Stanu Cywilnego Krępa Słupska
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3457><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.10.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id3457>
+					149
+				</a>
+			</td>
+			<td>
+				<a href=id3457>
+					Akta stanu cywilnego parafii rzymskokatolickiej Łęg
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1295><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1295>
+					2568d
+				</a>
+			</td>
+			<td>
+				<a href=id1295>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej NSJ Łódź-Radogoszcz
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1289><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1289>
+					2549
+				</a>
+			</td>
+			<td>
+				<a href=id1289>
+					Akta stanu cywilnego Parafii Mariawickiej MB Nieustającej Pomocy Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id501><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id501>
+					2472d
+				</a>
+			</td>
+			<td>
+				<a href=id501>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Kazimierza Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id204><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id204>
+					2310
+				</a>
+			</td>
+			<td>
+				<a href=id204>
+					Akta stanu cywilnego Parafii Mariawickiej św. Franciszka Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id699><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id699>
+					1567d
+				</a>
+			</td>
+			<td>
+				<a href=id699>
+					Akta stanu cywilnego Parafii Prawosławnej w Łodzi
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id511><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id511>
+					1724d
+				</a>
+			</td>
+			<td>
+				<a href=id511>
+					Akta stanu cywilnego parafii rzymskokatolickiej Wierzchlas
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3295><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.10.2026</td>
+			<td class="center">
+				AP Kutno
+			</td>
+						<td class="right">
+				<a href=id3295>
+					123
+				</a>
+			</td>
+			<td>
+				<a href=id3295>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kutno
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2135><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">20.10.2026</td>
+			<td class="center">
+				AP Siedlce
+			</td>
+						<td class="right">
+				<a href=id2135>
+					220
+				</a>
+			</td>
+			<td>
+				<a href=id2135>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Stanisława Siedlce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5911><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">20.10.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id5911>
+					170
+				</a>
+			</td>
+			<td>
+				<a href=id5911>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Zagroba
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5910><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">20.10.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id5910>
+					143
+				</a>
+			</td>
+			<td>
+				<a href=id5910>
+					Akta stanu cywilnego parafii rzymskokatolickiej Ciachcin
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5909><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">20.10.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id5909>
+					137
+				</a>
+			</td>
+			<td>
+				<a href=id5909>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Bielsk
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5908><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">19.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5908>
+					1602
+				</a>
+			</td>
+			<td>
+				<a href=id5908>
+					Urząd Stanu Cywilnego Lądek-Zdrój
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5907><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">19.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5907>
+					294
+				</a>
+			</td>
+			<td>
+				<a href=id5907>
+					Urząd Stanu Cywilnego Konarzyny
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5906><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.10.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5906>
+					153
+				</a>
+			</td>
+			<td>
+				<a href=id5906>
+					Akta stanu cywilnego parafii rzymskokatolickiej Cieszanów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5905><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.10.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5905>
+					2168
+				</a>
+			</td>
+			<td>
+				<a href=id5905>
+					Akta stanu cywilnego parafii rzymskokatolickiej Gorajec
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5610><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5610>
+					1552
+				</a>
+			</td>
+			<td>
+				<a href=id5610>
+					Urząd Stanu Cywilnego Sokołowsko
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5232><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">16.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5232>
+					1575
+				</a>
+			</td>
+			<td>
+				<a href=id5232>
+					Urząd Stanu Cywilnego Sobięcin
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5904><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">16.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5904>
+					293
+				</a>
+			</td>
+			<td>
+				<a href=id5904>
+					Urząd Stanu Cywilnego Koczała
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id181><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Sandomierz
+			</td>
+						<td class="right">
+				<a href=id181>
+					0488d
+				</a>
+			</td>
+			<td>
+				<a href=id181>
+					Akta stanu cywilnego parafii rzymskokatolickiej Baranów Sandomierski
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3856><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id3856>
+					7967
+				</a>
+			</td>
+			<td>
+				<a href=id3856>
+					Księgi metrykalne parafii rzymskokatolickiej Spie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5234><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5234>
+					1522
+				</a>
+			</td>
+			<td>
+				<a href=id5234>
+					Urząd Stanu Cywilnego Podgórze
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id285><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Łowicz
+			</td>
+						<td class="right">
+				<a href=id285>
+					0203d
+				</a>
+			</td>
+			<td>
+				<a href=id285>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Wojciecha Kompina
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id329><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Łowicz
+			</td>
+						<td class="right">
+				<a href=id329>
+					0310d
+				</a>
+			</td>
+			<td>
+				<a href=id329>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Macieja Bełchów 
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4015><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Warszawa
+			</td>
+						<td class="right">
+				<a href=id4015>
+					4122
+				</a>
+			</td>
+			<td>
+				<a href=id4015>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Bednary
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4024><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Warszawa
+			</td>
+						<td class="right">
+				<a href=id4024>
+					4354
+				</a>
+			</td>
+			<td>
+				<a href=id4024>
+					Akta stanu cywilnego Parafii Mariawickiej Zduny
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id376><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Łowicz
+			</td>
+						<td class="right">
+				<a href=id376>
+					0311d
+				</a>
+			</td>
+			<td>
+				<a href=id376>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Nieborów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4025><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.10.2026</td>
+			<td class="center">
+				AP Warszawa
+			</td>
+						<td class="right">
+				<a href=id4025>
+					4343
+				</a>
+			</td>
+			<td>
+				<a href=id4025>
+					Akta stanu cywilnego Parafii Mariawickiej Łowicz
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5196><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5196>
+					1553
+				</a>
+			</td>
+			<td>
+				<a href=id5196>
+					Urząd Stanu Cywilnego Boguszów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3448><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id3448>
+					260
+				</a>
+			</td>
+			<td>
+				<a href=id3448>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Czarnocin
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id367><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id367>
+					1507d
+				</a>
+			</td>
+			<td>
+				<a href=id367>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kazimierz
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1294><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1294>
+					2569d
+				</a>
+			</td>
+			<td>
+				<a href=id1294>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Przemienienia Pańskiego Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5902><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5902>
+					291
+				</a>
+			</td>
+			<td>
+				<a href=id5902>
+					Urząd Stanu Cywilnego Janowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5865><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id5865>
+					1235
+				</a>
+			</td>
+			<td>
+				<a href=id5865>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Poborowicach (Dobranowicach)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5901><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id5901>
+					3109
+				</a>
+			</td>
+			<td>
+				<a href=id5901>
+					Akta miasta Myślenice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5900><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">12.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5900>
+					49
+				</a>
+			</td>
+			<td>
+				<a href=id5900>
+					Akta stanu cywilnego Parafii Mariawickiej Wola Cyrusowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id306><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">12.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id306>
+					1456d
+				</a>
+			</td>
+			<td>
+				<a href=id306>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Dmosinie 
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5899><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">12.10.2026</td>
+			<td class="center">
+				CAW
+			</td>
+						<td class="right">
+				<a href=id5899>
+					I.371.8
+				</a>
+			</td>
+			<td>
+				<a href=id5899>
+					Dowództwo Okręgu Korpusu VIII (Dowództwo Okręgu Generalnego Pomorze)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4321><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">12.10.2026</td>
+			<td class="center">
+				AP Włocławek
+			</td>
+						<td class="right">
+				<a href=id4321>
+					213
+				</a>
+			</td>
+			<td>
+				<a href=id4321>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Lipno
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5898><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">11.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5898>
+					286
+				</a>
+			</td>
+			<td>
+				<a href=id5898>
+					Urząd Stanu Cywilnego Garczegorze
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1620><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">11.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id1620>
+					284
+				</a>
+			</td>
+			<td>
+				<a href=id1620>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Lubochnia
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5897><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">11.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5897>
+					333
+				</a>
+			</td>
+			<td>
+				<a href=id5897>
+					Urząd Stanu Cywilnego Roszczyce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5896><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5896>
+					283
+				</a>
+			</td>
+			<td>
+				<a href=id5896>
+					Urząd Stanu Cywilnego Czarna Dąbrówka
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5191><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5191>
+					1539
+				</a>
+			</td>
+			<td>
+				<a href=id5191>
+					Urząd Stanu Cywilnego Świebodzice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5290><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.10.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5290>
+					2117
+				</a>
+			</td>
+			<td>
+				<a href=id5290>
+					Urząd Stanu Cywilnego Sobięcin Górny
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5895><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id5895>
+					756
+				</a>
+			</td>
+			<td>
+				<a href=id5895>
+					Akta stanu cywilnego Parafii Ewangelicko-Reformowanej Kuców
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4437><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.10.2026</td>
+			<td class="center">
+				CPAHU Lwów
+			</td>
+						<td class="right">
+				<a href=id4437>
+					146
+				</a>
+			</td>
+			<td>
+				<a href=id4437>
+					Namiestnictwo Galicyjskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4683><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.10.2026</td>
+			<td class="center">
+				CPAHU Lwów
+			</td>
+						<td class="right">
+				<a href=id4683>
+					20
+				</a>
+			</td>
+			<td>
+				<a href=id4683>
+					Metryki Franciszkańskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4682><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.10.2026</td>
+			<td class="center">
+				CPAHU Lwów
+			</td>
+						<td class="right">
+				<a href=id4682>
+					19
+				</a>
+			</td>
+			<td>
+				<a href=id4682>
+					Metryki Józefińskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5893><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.10.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5893>
+					2783
+				</a>
+			</td>
+			<td>
+				<a href=id5893>
+					Księgi metrykalne parafii rzymskokatolickiej Jasło-Niegłowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5892><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id5892>
+					1378
+				</a>
+			</td>
+			<td>
+				<a href=id5892>
+					Akta stanu cywilnego Zboru Ewangelicznych Chrześcijan Pawłowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5891><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5891>
+					5258
+				</a>
+			</td>
+			<td>
+				<a href=id5891>
+					Księgi metrykalne parafii rzymskokatolickiej Mostek
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1942><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id1942>
+					263
+				</a>
+			</td>
+			<td>
+				<a href=id1942>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Dłutów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id369><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id369>
+					1517d
+				</a>
+			</td>
+			<td>
+				<a href=id369>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kołacinek
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4004><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id4004>
+					289
+				</a>
+			</td>
+			<td>
+				<a href=id4004>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Moszczenica
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5888><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5888>
+					2148
+				</a>
+			</td>
+			<td>
+				<a href=id5888>
+					Księgi metrykalne parafii rzymskokatolickiej Gołcza
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5889><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5889>
+					8115
+				</a>
+			</td>
+			<td>
+				<a href=id5889>
+					Księgi metrykalne parafii rzymskokatolickiej Szreniawa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5890><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5890>
+					1198
+				</a>
+			</td>
+			<td>
+				<a href=id5890>
+					Księgi metrykalne parafii rzymskokatolickiej Czaple Wielkie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4050><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id4050>
+					279
+				</a>
+			</td>
+			<td>
+				<a href=id4050>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kunice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1952><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.10.2026</td>
+			<td class="center">
+				AP Piotrków Tryb.
+			</td>
+						<td class="right">
+				<a href=id1952>
+					256
+				</a>
+			</td>
+			<td>
+				<a href=id1952>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Budziszewice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5887><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.10.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5887>
+					9965
+				</a>
+			</td>
+			<td>
+				<a href=id5887>
+					Księgi metrykalne parafii rzymskokatolickiej Zaborów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1379><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1379>
+					2611d
+				</a>
+			</td>
+			<td>
+				<a href=id1379>
+					Akta stanu cywilnego parafii rzymskokatolickiej św. Antoniego w Łodzi
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id426><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id426>
+					2474d
+				</a>
+			</td>
+			<td>
+				<a href=id426>
+					Akta stanu cywilnego parafii Św. Józefa Oblubieńca Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id300><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id300>
+					1942d
+				</a>
+			</td>
+			<td>
+				<a href=id300>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Antoniego Padewskiego Łódź-Łagiewniki
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id495><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id495>
+					1564d
+				</a>
+			</td>
+			<td>
+				<a href=id495>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Wojciecha Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5886><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.10.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5886>
+					7194
+				</a>
+			</td>
+			<td>
+				<a href=id5886>
+					Księgi metrykalne parafii rzymskokatolickiej Rożnowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5885><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.10.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5885>
+					2788
+				</a>
+			</td>
+			<td>
+				<a href=id5885>
+					Księgi metrykalne parafii rzymskokatolickiej Jasło-Fara
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2408><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id2408>
+					337
+				</a>
+			</td>
+			<td>
+				<a href=id2408>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Bolechowicach
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1838><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1838>
+					2969
+				</a>
+			</td>
+			<td>
+				<a href=id1838>
+					Akta stanu cywilnego parafii rzymskokatolickiej w Skawinie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5884><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id5884>
+					206
+				</a>
+			</td>
+			<td>
+				<a href=id5884>
+					Urząd Wojewódzki Krakowski
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5864><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.10.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id5864>
+					1237
+				</a>
+			</td>
+			<td>
+				<a href=id5864>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Żębocinie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5663><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.10.2026</td>
+			<td class="center">
+				AP Przemyśl
+			</td>
+						<td class="right">
+				<a href=id5663>
+					1105
+				</a>
+			</td>
+			<td>
+				<a href=id5663>
+					Akta c.k. notariusza Piotra Pieli w Nisku
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id374><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">05.10.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id374>
+					1582d
+				</a>
+			</td>
+			<td>
+				<a href=id374>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Mąkolice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5883><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5883>
+					8166
+				</a>
+			</td>
+			<td>
+				<a href=id5883>
+					Akta stanu cywilnego parafii rzymskokatolickiej Straszydle
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5652><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5652>
+					1240
+				</a>
+			</td>
+			<td>
+				<a href=id5652>
+					Akta stanu cywilnego parafii rzymskokatolickiej Lubenia
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3889><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.10.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id3889>
+					857
+				</a>
+			</td>
+			<td>
+				<a href=id3889>
+					Akta stanu cywilnego parafii rzymskokatolickiej Kurzyna Średnia
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3070><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">03.10.2026</td>
+			<td class="center">
+				AP Sandomierz
+			</td>
+						<td class="right">
+				<a href=id3070>
+					9077
+				</a>
+			</td>
+			<td>
+				<a href=id3070>
+					Akta stanu cywilnego parafii rzymskokatolickiej Ulanów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5881><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.10.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5881>
+					349
+				</a>
+			</td>
+			<td>
+				<a href=id5881>
+					Urząd Stanu Cywilnego Wierzchowo
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5882><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.10.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5882>
+					10473
+				</a>
+			</td>
+			<td>
+				<a href=id5882>
+					Akta stanu cywilnego parafii rzymskokatolickiej Żyznów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5880><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.09.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5880>
+					9918
+				</a>
+			</td>
+			<td>
+				<a href=id5880>
+					Akta stanu cywilnego parafii rzymskokatolickiej Wysoka Strzyżowska
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1377><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1377>
+					2599d
+				</a>
+			</td>
+			<td>
+				<a href=id1377>
+					Akta stanu cywilnego parafii mariawickiej w Zgierzu
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id526><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id526>
+					1472d
+				</a>
+			</td>
+			<td>
+				<a href=id526>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Giecznie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id95><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id95>
+					1748d
+				</a>
+			</td>
+			<td>
+				<a href=id95>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Zgierz
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id237><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id237>
+					1749d
+				</a>
+			</td>
+			<td>
+				<a href=id237>
+					Akta stanu cywilnego Parafii Ewangelicko-Augsburskiej w Zgierzu
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5846><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">29.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id5846>
+					4255
+				</a>
+			</td>
+			<td>
+				<a href=id5846>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Tymowej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1882><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">29.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1882>
+					3694
+				</a>
+			</td>
+			<td>
+				<a href=id1882>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Krzeszowicach
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5878><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">29.09.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5878>
+					295
+				</a>
+			</td>
+			<td>
+				<a href=id5878>
+					Urząd Stanu Cywilnego Kozy
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5876><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.09.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5876>
+					8239
+				</a>
+			</td>
+			<td>
+				<a href=id5876>
+					Akta stanu cywilnego parafii rzymskokatolickiej Strzyżów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3860><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id3860>
+					1568
+				</a>
+			</td>
+			<td>
+				<a href=id3860>
+					Akta stanu cywilnego gminy żydowskiej Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5623><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id5623>
+					2738
+				</a>
+			</td>
+			<td>
+				<a href=id5623>
+					Urząd Stanu Cywilnego w Zgierzu
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2615><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id2615>
+					291
+				</a>
+			</td>
+			<td>
+				<a href=id2615>
+					Urząd Stanu Cywilnego Jankowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2676><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id2676>
+					515
+				</a>
+			</td>
+			<td>
+				<a href=id2676>
+					Urząd Stanu Cywilnego Paruszowiec
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5875><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5875>
+					10307
+				</a>
+			</td>
+			<td>
+				<a href=id5875>
+					Księgi metrykalne parafii rzymskokatolickiej Rzeszów-Zwięczyca
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5873><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5873>
+					8166
+				</a>
+			</td>
+			<td>
+				<a href=id5873>
+					Księgi metrykalne parafii rzymskokatolickiej Straszydle
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5874><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.09.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5874>
+					889
+				</a>
+			</td>
+			<td>
+				<a href=id5874>
+					Urząd Stanu Cywilnego Międzybórz
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5872><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5872>
+					4377
+				</a>
+			</td>
+			<td>
+				<a href=id5872>
+					Księgi metrykalne parafii rzymskokatolickiej Lubenia
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5871><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.09.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5871>
+					362
+				</a>
+			</td>
+			<td>
+				<a href=id5871>
+					Urząd Stanu Cywilnego Jęczniki Wielkie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4685><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id4685>
+					99900
+				</a>
+			</td>
+			<td>
+				<a href=id4685>
+					Księgi parafialne w parafiach archidiecezji krakowskiej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5870><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">25.09.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5870>
+					924
+				</a>
+			</td>
+			<td>
+				<a href=id5870>
+					Urząd Stanu Cywilnego Lipnica
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4767><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id4767>
+					11095
+				</a>
+			</td>
+			<td>
+				<a href=id4767>
+					Akta stanu cywilnego parafii rzymskokatolickiej Rzeszów-Fara
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2776><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id2776>
+					271
+				</a>
+			</td>
+			<td>
+				<a href=id2776>
+					Urząd Stanu Cywilnego Rybnik
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3601><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id3601>
+					530
+				</a>
+			</td>
+			<td>
+				<a href=id3601>
+					Urząd Stanu Cywilnego Tworków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3640><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id3640>
+					523
+				</a>
+			</td>
+			<td>
+				<a href=id3640>
+					Urząd Stanu Cywilnego Niedobczyce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3597><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id3597>
+					349
+				</a>
+			</td>
+			<td>
+				<a href=id3597>
+					Urząd Stanu Cywilnego Markowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3534><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id3534>
+					513
+				</a>
+			</td>
+			<td>
+				<a href=id3534>
+					Urząd Stanu Cywilnego Kuźnia Raciborska
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3141><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id3141>
+					289
+				</a>
+			</td>
+			<td>
+				<a href=id3141>
+					Urząd Stanu Cywilnego Gotartowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5869><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Racibórz
+			</td>
+						<td class="right">
+				<a href=id5869>
+					580
+				</a>
+			</td>
+			<td>
+				<a href=id5869>
+					Urząd Stanu Cywilnego Boguszowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5868><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5868>
+					529
+				</a>
+			</td>
+			<td>
+				<a href=id5868>
+					Urząd Stanu Cywilnego Kiełpin
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4189><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.09.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id4189>
+					196
+				</a>
+			</td>
+			<td>
+				<a href=id4189>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Sierpc
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5867><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.09.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5867>
+					292
+				</a>
+			</td>
+			<td>
+				<a href=id5867>
+					Urząd Stanu Cywilnego w Jasieniu
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5866><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.09.2026</td>
+			<td class="center">
+				AP Słupsk
+			</td>
+						<td class="right">
+				<a href=id5866>
+					285
+				</a>
+			</td>
+			<td>
+				<a href=id5866>
+					Urząd Stanu Cywilnego w Główczycach
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5658><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.09.2026</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id5658>
+					233
+				</a>
+			</td>
+			<td>
+				<a href=id5658>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kłomnice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1881><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1881>
+					2968
+				</a>
+			</td>
+			<td>
+				<a href=id1881>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Woli Radziszowskiej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3406><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id3406>
+					4502
+				</a>
+			</td>
+			<td>
+				<a href=id3406>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Radziszowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2355><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id2355>
+					3751
+				</a>
+			</td>
+			<td>
+				<a href=id2355>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Krzęcinie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1697><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1697>
+					2906
+				</a>
+			</td>
+			<td>
+				<a href=id1697>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Tenczynku
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3943><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.09.2026</td>
+			<td class="center">
+				Inne
+			</td>
+						<td class="right">
+				<a href=id3943>
+					1560
+				</a>
+			</td>
+			<td>
+				<a href=id3943>
+					Księgi metrykalne parafii rzymskokatolickiej Dobranowice (Poborowice)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1894><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1894>
+					1713
+				</a>
+			</td>
+			<td>
+				<a href=id1894>
+					Akta stanu cywilnego parafii rzymskokatolickiej w Wieliczce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1851><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.09.2026</td>
+			<td class="center">
+				AP Łomża
+			</td>
+						<td class="right">
+				<a href=id1851>
+					537
+				</a>
+			</td>
+			<td>
+				<a href=id1851>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Kolno
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5210><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">21.09.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5210>
+					1721
+				</a>
+			</td>
+			<td>
+				<a href=id5210>
+					Urząd Stanu Cywilnego Wałbrzych
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5862><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.09.2026</td>
+			<td class="center">
+				AP Toruń
+			</td>
+						<td class="right">
+				<a href=id5862>
+					1207
+				</a>
+			</td>
+			<td>
+				<a href=id5862>
+					Urząd Stanu Cywilnego Podgórz
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5861><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5861>
+					1969
+				</a>
+			</td>
+			<td>
+				<a href=id5861>
+					Urząd Stanu Cywilnego Trzcielin (pow. poznański)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5783><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5783>
+					1991
+				</a>
+			</td>
+			<td>
+				<a href=id5783>
+					Urząd Stanu Cywilnego Złotniki (pow. poznański)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5387><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.09.2026</td>
+			<td class="center">
+				AP Toruń
+			</td>
+						<td class="right">
+				<a href=id5387>
+					216
+				</a>
+			</td>
+			<td>
+				<a href=id5387>
+					Państwowe Gimnazjum Męskie w Chełmnie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5858><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5858>
+					6049
+				</a>
+			</td>
+			<td>
+				<a href=id5858>
+					Księgi parafialne grekokatolickiej parafii Owczary (Rychwałd)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5857><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">18.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5857>
+					9918
+				</a>
+			</td>
+			<td>
+				<a href=id5857>
+					Księgi metrykalne parafii rzymskokatolickiej Wysoka Strzyżowska
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5848><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">17.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5848>
+					2156
+				</a>
+			</td>
+			<td>
+				<a href=id5848>
+					Księgi metrykalne parafii rzymskokatolickiej Gołogóry
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5856><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">17.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5856>
+					9906
+				</a>
+			</td>
+			<td>
+				<a href=id5856>
+					Księgi metrykalne parafii rzymskokatolickiej Wysocice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5855><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">17.09.2026</td>
+			<td class="center">
+				AP Płock
+			</td>
+						<td class="right">
+				<a href=id5855>
+					155
+				</a>
+			</td>
+			<td>
+				<a href=id5855>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Bartłomieja Płock
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5853><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">16.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5853>
+					732
+				</a>
+			</td>
+			<td>
+				<a href=id5853>
+					Księgi metrykalne parafii rzymskokatolickiej Brzyska
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5854><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">16.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5854>
+					2392
+				</a>
+			</td>
+			<td>
+				<a href=id5854>
+					Księgi metrykalne parafii rzymskokatolickiej Grodzisko Strzyżowskie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5849><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id5849>
+					9081
+				</a>
+			</td>
+			<td>
+				<a href=id5849>
+					Księgi metrykalne parafii rzymskokatolickiej Ulina Wielka
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1885><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1885>
+					378
+				</a>
+			</td>
+			<td>
+				<a href=id1885>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Wysocicach
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5852><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5852>
+					318
+				</a>
+			</td>
+			<td>
+				<a href=id5852>
+					Starostwo Powiatowe w Grodzisku
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3568><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id3568>
+					336
+				</a>
+			</td>
+			<td>
+				<a href=id3568>
+					Starostwo Powiatowe w Środzie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5727><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5727>
+					0
+				</a>
+			</td>
+			<td>
+				<a href=id5727>
+					Kartoteka do dziejów wsi
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5724><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5724>
+					925
+				</a>
+			</td>
+			<td>
+				<a href=id5724>
+					Majątek Baszków - Czartoryscy
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5851><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5851>
+					4408m
+				</a>
+			</td>
+			<td>
+				<a href=id5851>
+					Akta gminy Lwówek (pow. nowotomyski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3236><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id3236>
+					475
+				</a>
+			</td>
+			<td>
+				<a href=id3236>
+					Akta gmin przyłączonych do miasta Poznania [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id276><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id276>
+					1524d
+				</a>
+			</td>
+			<td>
+				<a href=id276>
+					Akta stanu cywilnego Parafii Ewangelicko-Augsburskiej w Konstantynowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id454><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id454>
+					2471d
+				</a>
+			</td>
+			<td>
+				<a href=id454>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej św. Anny Łódź
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2975><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id2975>
+					2737
+				</a>
+			</td>
+			<td>
+				<a href=id2975>
+					Urząd Stanu Cywilnego w Konstantynowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id425><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id425>
+					2473d
+				</a>
+			</td>
+			<td>
+				<a href=id425>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej NSJ Łódź-Retkinia
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id372><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id372>
+					1585d
+				</a>
+			</td>
+			<td>
+				<a href=id372>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Mierzyce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id187><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id187>
+					1387d
+				</a>
+			</td>
+			<td>
+				<a href=id187>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Aleksandrów
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3241><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id3241>
+					4419m
+				</a>
+			</td>
+			<td>
+				<a href=id3241>
+					Akta gminy Rokietnica [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5847><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5847>
+					4417m
+				</a>
+			</td>
+			<td>
+				<a href=id5847>
+					Akta gminy Poznań - Wschód [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5726><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5726>
+					4411
+				</a>
+			</td>
+			<td>
+				<a href=id5726>
+					Akta gminy Opalenica (pow. nowotomyski)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4038><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4038>
+					2402
+				</a>
+			</td>
+			<td>
+				<a href=id4038>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Gronków
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1871><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1871>
+					349
+				</a>
+			</td>
+			<td>
+				<a href=id1871>
+					Akta stanu cywilnego parafii rzymskokatolickiej w Zalasie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2033><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id2033>
+					3801
+				</a>
+			</td>
+			<td>
+				<a href=id2033>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Sance
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1702><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1702>
+					2794
+				</a>
+			</td>
+			<td>
+				<a href=id1702>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Dziekanowicach
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5845><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id5845>
+					4688
+				</a>
+			</td>
+			<td>
+				<a href=id5845>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Gorzkowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1900><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1900>
+					1476
+				</a>
+			</td>
+			<td>
+				<a href=id1900>
+					Akta stanu cywilnego parafii rzymskokatolickiej w Zakliczynie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1845><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.09.2026</td>
+			<td class="center">
+				AN Kraków
+			</td>
+						<td class="right">
+				<a href=id1845>
+					3824
+				</a>
+			</td>
+			<td>
+				<a href=id1845>
+					Akta stanu cywilnego parafii rzymskokatolickiej w Bodzanowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5844><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.09.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5844>
+					5514
+				</a>
+			</td>
+			<td>
+				<a href=id5844>
+					Akta stanu cywilnego parafii rzymskokatolickiej Nockowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5843><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.09.2026</td>
+			<td class="center">
+				AP Rzeszów
+			</td>
+						<td class="right">
+				<a href=id5843>
+					856
+				</a>
+			</td>
+			<td>
+				<a href=id5843>
+					Akta stanu cywilnego parafii rzymskokatolickiej Bystrzyca
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5842><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5842>
+					7518
+				</a>
+			</td>
+			<td>
+				<a href=id5842>
+					Księgi metrykalne parafii rzymskokatolickiej Sękowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5838><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5838>
+					11054
+				</a>
+			</td>
+			<td>
+				<a href=id5838>
+					Księgi metrykalne parafii rzymskokatolickiej Głogów Małopolski (Rogoźnik)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5839><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5839>
+					178
+				</a>
+			</td>
+			<td>
+				<a href=id5839>
+					Księgi metrykalne parafii rzymskokatolickiej Będziemyśl
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5840><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5840>
+					8897
+				</a>
+			</td>
+			<td>
+				<a href=id5840>
+					Księgi metrykalne parafii rzymskokatolickiej Trzciana
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5841><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">08.09.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5841>
+					856
+				</a>
+			</td>
+			<td>
+				<a href=id5841>
+					Księgi metrykalne parafii rzymskokatolickiej Bystrzyca
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4370><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4370>
+					10152
+				</a>
+			</td>
+			<td>
+				<a href=id4370>
+					Księgi metrykalne parafii rzymskokatolickiej Ząb
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4307><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4307>
+					6529
+				</a>
+			</td>
+			<td>
+				<a href=id4307>
+					Księgi metrykalne parafii rzymskokatolickiej Poronin
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4258><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4258>
+					5561
+				</a>
+			</td>
+			<td>
+				<a href=id4258>
+					Księgi metrykalne parafii rzymskokatolickiej Nowe Bystre
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4387><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4387>
+					10035
+				</a>
+			</td>
+			<td>
+				<a href=id4387>
+					Księgi metrykalne parafii rzymskokatolickiej Zakopane-Olcza
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4386><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.09.2026</td>
+			<td class="center">
+				USC
+			</td>
+						<td class="right">
+				<a href=id4386>
+					10038
+				</a>
+			</td>
+			<td>
+				<a href=id4386>
+					Księgi metrykalne parafii rzymskokatolickiej Zakopane
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2320><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">01.09.2026</td>
+			<td class="center">
+				AP Kielce
+			</td>
+						<td class="right">
+				<a href=id2320>
+					568
+				</a>
+			</td>
+			<td>
+				<a href=id2320>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej Białobrzegi
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5837><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.08.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5837>
+					2726
+				</a>
+			</td>
+			<td>
+				<a href=id5837>
+					Księgi metrykalne parafii rzymskokatolickiej Januszkowice
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5836><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.08.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5836>
+					99902
+				</a>
+			</td>
+			<td>
+				<a href=id5836>
+					Księgi parafialne w parafiach diecezji tarnowskiej
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1552><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.08.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1552>
+					0292d
+				</a>
+			</td>
+			<td>
+				<a href=id1552>
+					Akta stanu cywilnego Filii Ewangelicko-Reformowanej w Kucowie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id1032><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">30.08.2026</td>
+			<td class="center">
+				AP Łódź
+			</td>
+						<td class="right">
+				<a href=id1032>
+					1468d
+				</a>
+			</td>
+			<td>
+				<a href=id1032>
+					Akta stanu cywilnego Parafii Rzymskokatolickiej w Dzietrzkowicach
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5835><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">29.08.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5835>
+					9029
+				</a>
+			</td>
+			<td>
+				<a href=id5835>
+					Księgi metrykalne parafii rzymskokatolickiej Tyczyn
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5834><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.08.2026</td>
+			<td class="center">
+				Parafia
+			</td>
+						<td class="right">
+				<a href=id5834>
+					8742
+				</a>
+			</td>
+			<td>
+				<a href=id5834>
+					Księgi metrykalne parafii rzymskokatolickiej Tarnowiec
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5599><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.08.2026</td>
+			<td class="center">
+				AP Katowice
+			</td>
+						<td class="right">
+				<a href=id5599>
+					3238
+				</a>
+			</td>
+			<td>
+				<a href=id5599>
+					Urząd Stanu Cywilnego Pszczyna-Zamek
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5294><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.08.2026</td>
+			<td class="center">
+				AP Wrocław
+			</td>
+						<td class="right">
+				<a href=id5294>
+					1736
+				</a>
+			</td>
+			<td>
+				<a href=id5294>
+					Urząd Stanu Cywilnego Walim
+				</a>
+			</td>
+		</tr>
+	</table>
+<br>
+				</div>
+
+			</td>
+			<td class="valign-top"><br>
+				<h4>Wybierz rodzaj ksiąg</h4>
+				<div id="boczek"></div>
+																									<div style="padding: 5px; padding-left: 20px">
+						<a class="wo" href="https://metryki.genealodzy.pl">
+							księgi metrykalne
+						</a>
+						(4345)
+					</div>
+																									<div style="padding: 5px; padding-left: 20px">
+						<a class="wo" href="https://sadowe.genealodzy.pl">
+							księgi sądowe
+						</a>
+						(194)
+					</div>
+																									<div style="padding: 5px; padding-left: 20px">
+						<a class="wo" href="https://meldunkowe.genealodzy.pl">
+							księgi meldunkowe
+						</a>
+						(140)
+					</div>
+																									<div style="padding: 5px; padding-left: 20px">
+						<a class="wo" href="https://notariaty.genealodzy.pl">
+							notariaty
+						</a>
+						(889)
+					</div>
+																									<div style="padding: 5px; padding-left: 20px">
+						<a class="wo" href="opzr-ro5">
+							inne
+						</a>
+						(378)
+					</div>
+				
+			</td>
+		</tr>
+	</table>
+					</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+
+													<div class="center">
+								<a href="https://genealodzy.pl/donate-pol"><img src="images/donate.jpg" alt="donate"></a><br>
+								<span class="darkslateblue">&copy; 2010-2026
+									<a href="http://genealodzy.pl">Polskie Towarzystwo Genealogiczne</a>
+								::
+								<script>
+									user = 'skanoteka';
+									site = "genealodzy.pl";
+									document.write('<a href=\"mailto:' + user + '@' + site + '\">');
+									document.write('Administrator<\/a> ');
+								</script>
+								::
+								</span>
+							</div>
+											</td>
+				</tr>
+
+			</table>
+		</div>
+
+	</body>
+</html>

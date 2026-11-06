@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://tuckers.com.au/?s=chmielewski",
+    "utc": "2026-11-06T15:13:00.336290+00:00",
+    "status": 200,
+    "bytes": 435692,
+    "sha256": "24b49182c24ee4da73081bfa1cd01574e355cbfa1ad84089dd3dd1a4bb314f96"
+  },
+  {
+    "url": "https://www.mytributes.com.au/notices/?searchtext=chmielewski",
+    "utc": "2026-11-06T15:13:00.337518+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.heraldsun.com.au/tributes/notices/?searchtext=chmielewski",
+    "utc": "2026-11-06T15:13:01.052152+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=sz&nazwa=Siennica&search_jednostki=false",
+    "bytes": 2028,
+    "status": 200,
+    "sha256": "4d6290a73d12b8b6b05dcd88b0d6ba0b6395059264c45206727ef1248f09e43d",
+    "utc": "2026-11-06T14:49:16.147647+00:00"
+  },
+  {
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=sz&nazwa=Garb%C3%B3w&search_jednostki=false",
+    "bytes": 342,
+    "status": 200,
+    "sha256": "f0e44dcfaccb195a73177c0e936cb93cf41ea5b8370508e58db74039c2f91709",
+    "utc": "2026-11-06T14:49:16.975528+00:00"
+  }
+]

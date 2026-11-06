@@ -1,0 +1,100 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonListByDocId",
+    "params": {
+      "lang": "en",
+      "docId": "81673879"
+    },
+    "status": 200,
+    "bytes": 11437,
+    "sha256": "b54d96c9e0894881b7ed6a9e8cc0ce7f357c084136f71899900d351093af536a",
+    "path": "work/s15/roman_extra/81673879_GetPersonListByDocId.json",
+    "utc": "2026-11-06T15:11:19.637902+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetFileByObj",
+    "params": {
+      "objId": "81673879",
+      "lang": "en"
+    },
+    "status": 200,
+    "bytes": 815,
+    "sha256": "1e97d0d25344141b4eba7cc39eee753ec8aa8cf84e634f0c674c1c73d1cc8f51",
+    "path": "work/s15/roman_extra/81673879_GetFileByObj.json",
+    "utc": "2026-11-06T15:11:20.992060+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/H/Child%20Tracing%20Branch%20General%20Documents/03010302/aa/bp/zf/001.jpg",
+    "path": "work/s15/roman_extra/81673879_001.jpg",
+    "bytes": 251491,
+    "sha256": "d9773a31e2de2b6f5c3731e119da81708848a12a189b091bfeb5bfedd932688e",
+    "utc": "2026-11-06T15:11:22.434409+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/H/Child%20Tracing%20Branch%20General%20Documents/03010302/aa/bp/zf/002.jpg",
+    "path": "work/s15/roman_extra/81673879_002.jpg",
+    "bytes": 185216,
+    "sha256": "882fd2895c89bf53a6d42759b8d79da90bb55e47895fc53518bbc12e794b7464",
+    "utc": "2026-11-06T15:11:23.894403+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetTreeNodeByDocId",
+    "params": {
+      "id": "81673879"
+    },
+    "status": 200,
+    "bytes": 11,
+    "sha256": "07403c3c0eba5b27eb8a8e2b3cf71f1d40dbb2b5111281abcef41a15a5bc839d",
+    "path": "work/s15/roman_extra/81673879_GetTreeNodeByDocId.json",
+    "utc": "2026-11-06T15:11:24.478806+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonListByDocId",
+    "params": {
+      "lang": "en",
+      "docId": "66752654"
+    },
+    "status": 200,
+    "bytes": 1324,
+    "sha256": "2b9d852bae0ed1042da4ede759d5080df104276135af860884d35b1c335bf9d7",
+    "path": "work/s15/roman_extra/66752654_GetPersonListByDocId.json",
+    "utc": "2026-11-06T15:11:25.058426+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetFileByObj",
+    "params": {
+      "objId": "66752654",
+      "lang": "en"
+    },
+    "status": 200,
+    "bytes": 755,
+    "sha256": "ef1f4e3c2112b0f799612bb7e6fa2277dc2169874dff10eb11b7019a010012b1",
+    "path": "work/s15/roman_extra/66752654_GetFileByObj.json",
+    "utc": "2026-11-06T15:11:25.827649+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0377/5856002/001.jpg",
+    "path": "work/s15/roman_extra/66752654_001.jpg",
+    "bytes": 57544,
+    "sha256": "93b4ae9baa3e139ddde0dc250a9b142ecd1e9240c1a2e1b773768e86afa312e3",
+    "utc": "2026-11-06T15:11:26.220119+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0377/5856002/002.jpg",
+    "path": "work/s15/roman_extra/66752654_002.jpg",
+    "bytes": 43254,
+    "sha256": "b8113e0553f85650528174d23cd30e96ddb56995a1603f9ade800178d23d8bc8",
+    "utc": "2026-11-06T15:11:26.634065+00:00"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetTreeNodeByDocId",
+    "params": {
+      "id": "66752654"
+    },
+    "status": 200,
+    "bytes": 13,
+    "sha256": "1b838b2c5204397c44c7538ed560c251641bad7791f72d762caa2ca74f1d13d2",
+    "path": "work/s15/roman_extra/66752654_GetTreeNodeByDocId.json",
+    "utc": "2026-11-06T15:11:26.990175+00:00"
+  }
+]

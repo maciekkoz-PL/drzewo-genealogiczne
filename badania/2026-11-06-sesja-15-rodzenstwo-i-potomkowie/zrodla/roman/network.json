@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetTreeNodeByDocId",
+    "status": 200,
+    "method": "POST",
+    "post_data": "{\"id\":\"81766762\"}",
+    "body_path": "response_000.bin",
+    "bytes": 11,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonListByDocId",
+    "status": 200,
+    "method": "POST",
+    "post_data": "{\"lang\":\"en\",\"docId\":\"81766762\"}",
+    "body_path": "response_001.bin",
+    "bytes": 16667,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetArchiveInfo",
+    "status": 200,
+    "method": "POST",
+    "post_data": "{\"descId\":24741,\"level\":1,\"lang\":\"en\"}",
+    "body_path": "response_002.bin",
+    "bytes": 1771,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetArchiveListByDocId",
+    "status": 200,
+    "method": "POST",
+    "post_data": "{\"descId\":24741,\"level\":1,\"lang\":\"en\"}",
+    "body_path": "response_003.bin",
+    "bytes": 715,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetFileByObj",
+    "status": 200,
+    "method": "POST",
+    "post_data": "{\"objId\":\"81766762\",\"lang\":\"en\"}",
+    "body_path": "response_004.bin",
+    "bytes": 815,
+    "content_type": "application/json; charset=utf-8"
+  }
+]

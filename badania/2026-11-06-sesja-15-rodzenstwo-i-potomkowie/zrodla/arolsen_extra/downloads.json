@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "f05861a6f37a44148320",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Roman Chmielewski",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T15:10:00.553293+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s15/arolsen_extra/roman_all_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "f05861a6f37a44148320",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T15:10:01.812604+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "19f4c7d47f45a5f8a14af6bed4698503d4f3a276ca6360fd4f963027a246ba82",
+    "path": "work/s15/arolsen_extra/roman_all_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "f05861a6f37a44148320",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T15:10:03.216007+00:00",
+    "status": 200,
+    "bytes": 23299,
+    "sha256": "c593212473ce4b82a7cde5dedb16bd55924acdb9666ffa9c73b2cda751f788a6",
+    "path": "work/s15/arolsen_extra/roman_all_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "16a31681a5464676ac6f",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Sabina Chmielewska",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T15:10:06.511965+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s15/arolsen_extra/sabina_all_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "16a31681a5464676ac6f",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T15:10:07.169238+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2",
+    "path": "work/s15/arolsen_extra/sabina_all_GetCount.json"
+  }
+]

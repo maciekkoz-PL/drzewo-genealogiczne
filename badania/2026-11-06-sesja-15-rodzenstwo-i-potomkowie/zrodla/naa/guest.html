@@ -1,0 +1,374 @@
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Basic search | RecordSearch | National Archives of Australia
+</title><link id="mainStyleSheet" href="/SearchNRetrieve/Stylesheets/rs_combined.css" rel="stylesheet" type="text/css"><link rel="icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon"><link rel="shortcut icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon">
+    <script id="jqueryLink" src="/SearchNRetrieve/JS/jquery.js" type="text/javascript" language="javascript"></script>   
+     
+    
+    <script language="JavaScript" type="text/javascript">    
+        var bTimeSession = true;
+    </script>       
+    
+<script language="JavaScript" type="text/javascript">    
+
+
+        var sessionTimeoutWarning = '29'; 
+        var sessionTimeout = '30';
+        var imgHiddenDotID = 'imgHiddenDot';
+        
+        var timeOnPageLoad = new Date();
+        var sessionWarningTimer = null;
+        var redirectToWelcomePageTimer = null;
+
+        function fHandleSessionTimeOut()
+        {	         
+            //For warning
+            sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+            //To redirect to the welcome page
+            redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+        }
+
+        //Session Warning
+        function SessionWarning()
+        {
+            //minutes left for expiry
+            var minutesForExpiry =  (60 * (parseInt(sessionTimeout) - parseInt(sessionTimeoutWarning)));
+            var message = "Your session will expire in another " + minutesForExpiry + " seconds. Do you want to extend the session?";
+
+            //Confirm the user if he wants to extend the session
+            answer = confirm(message);
+
+            //if yes, extend the session.
+            if(answer)
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+                
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+                else
+                {                
+                    var img = document.getElementById(imgHiddenDotID);
+                    var rndm=Math.floor(Math.random()*11);
+                    img.src = '/SearchNRetrieve/KeepSessionAlive.aspx?RN=' + rndm;
+
+                    //Clear the RedirectToWelcomePage method
+                    if (redirectToWelcomePageTimer != null) 
+                    {
+                        clearTimeout(redirectToWelcomePageTimer);
+                    }
+                    //reset the time on page load
+                    timeOnPageLoad =  new Date();
+                    sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+                    //To redirect to the welcome page
+                    redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()',parseInt(sessionTimeout) * 60 * 1000);
+                }
+            }
+            else
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+            }
+        }                
+                
+        //Session timeout
+        function RedirectToWelcomePage()
+        {
+            //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+            window.location = "/SearchNRetrieve/Guest.aspx";
+        }      
+	     
+	             
+         if (bTimeSession)
+         {        
+             $(document).ready(fHandleSessionTimeOut);
+         }
+         
+</script></head>
+
+<body>
+    <form method="post" action="./BasicSearch.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="formSNRMaster">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="qY17U/HTkvbVuyv9Nc8Zu0zlfn8uvlIrljbx5KRg7a7Qbd7wKDzW9QadKnx9mWxdwBaPGcWshfgKHlWvsaXMnjuY/18eFc8yQ2ZdK1fGM8YvF/wQ5vX2M7mvM5S8D7GtZO8sGbhnRV2F+iaEDxM9UOZ+EBZBj75tMOYv37ECmDG+5C3n2Om8o640j0OvZf0QTM6TcUUI9h//OaNbUu0EhvSfwvqXvu/nUkg1nXcwTIk2v4wE48QpCgno9eoiHimOdY6YqtLYKQtdh+MqfLoZm81wihN5+KMbNAkxgcRW3bQwjI5593ZNvVcEu8AOtPVFvBnw1WNWgFM9EmM95xkh0npK7asY6gQCLdHT0G5ue4iayN3ArLWqNnE8ZhOJgisgVgDwbvWUYXrni9xNuu1FvVFaxvsfYPGvhPResk/5+TZ3PA+9/1wWL/ZltzlHYfZqw2uAUGg/JSc36zytqkFhK80ziwlDwTpDpD7fN+rb97mwcLDdqNJq7AnB68m9u+r31NE23vRA4OBDS/HEsOysyV8KVH5uKy/JjijaFRUMFM1fhqlCvIeWExp6KS5AbJLDmBVe7K/RRr6CceUyeUq61ezAQX+YYzWTnhJxdGfUmI25VCE1QQhhXQ5qUacPrqrcVG41wkxUK+SC/+RVMzR6NlCvsCPCf0j3UsX+H9CLmsjsOZ0Br8+vhteH8xuOfgHJy+FR1mkJo8x065/pU72ttm3DS36mn7HMkxsCa5HkV5mMe9hPDudW93OoVFFh+q5HYk4mv4mFN9GMVR1H6oNRFSwEDrX8LktYZAJ9SGZkE8K/ef7aa0l2Zf41pJJ4ikDQ4+PWFQAMJ1AtR0NeUaRkz0P9W4mYT1uAySnfRh1JuG1YhhUgAURQG+GHM0XEgHA1/VcaDxaFmzC9nZFbe1Bm/l10DZxeGqP01LBagcAbQrCGejlwpOLNzvJ6f2wNwh4V6jdN6JyKH/zI/vD4arhHGc9q+toUPwpi424dV98SkDFgzRMzryrdQ1+SgLWbuHKPpvVWoaABBKvCMDP0UQ4k6zuIliv0I5Z+nttChpXswdzrdgmP/2ys9jjvzPbkRTrwqgHSZSQCFPJdXsXChraqjSP1C/dANup6mXDXYk6lmDdtHvioWaioStn+MHtgAvIWzH0/FbRZH47w5If6ABm/kpEpB3Le9X6u4ZX3LXnn7m/l1RIAkukN8M/WW8KEf0NQuKGfqzebr4AAevgm7P3YKZ5thl5aHUh/8Eg6bIW/etXk56cgU2hxRYnI4F2mFwi3">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['formSNRMaster'];
+if (!theForm) {
+    theForm = document.formSNRMaster;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/SearchNRetrieve/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMM2cu29u9xw12bDl-djkMrg7QGlP7t1T2XLB7ZHhx7VfsvlpIffbYUlOZW_LNXYhA2&amp;t=639191193332169432" type="text/javascript"></script>
+
+
+<script src="/SearchNRetrieve/JS/common_functions.js" type="text/javascript"></script>
+<script src="/SearchNRetrieve/WebResource.axd?d=x2nkrMJGXkMELz33nwnakBsdX5aI04csJ1o30EqxVMo1vzV7RSdaOT8WLcZ-HqlaJhwx5VGW-LYRBz80-V3QolHQRPBnkYp3yBsVCtLZdSo1&amp;t=639191193332169432" type="text/javascript"></script>
+<script src="/SearchNRetrieve/WebResource.axd?d=JoBkLzP19aTuxbWOhHobYhxajVTxePY_JwuaGS9mnLL1GI8kBzlKzpozZMSR4EzAwHwrttJKrcJFfeaxM-0aLw2&amp;t=639191193332169432" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBD0FCC">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="olBqYJNLxpnG2GRsGIy17iN2NJC9a3XqSWAlDV2FOBwzDJoWEJMi/c44YVYGhstQ1T7Hx0s0dS8GFIZkbzn0hYugq0R5Q1TPSk+veFDeS1olgRJGrL8JBQBNjCQ7CO/cTPyfPn6CLqXogZ2VRNo8RuXDWoYyHyShptGj9AW26D2pFJMe9eppQ7UlHNL9XbrVEjtldBrhY3WdBrO0h5QaQw==">
+</div>
+        <div id="container">
+            
+            <div id="page_header" class="clearfix">                
+                <div id="naa_logo">
+                    <a href="https://www.naa.gov.au/"><img src="/SearchNRetrieve/Images/naa_logo_blue_small.jpg" class="naa_logo" alt="The Australian Government | National Archives of Australia logo"></a>                    
+                </div>
+                <div id="site-title">
+                    RecordSearch
+                </div>
+
+                <!-- <div style="display:none;">
+                    <img id="imgHiddenDot" alt="" src="../../../scripts/KeepSessionAlive.asp" />
+                </div> -->
+                
+                <div class="topLinks" style="float:right;">
+                    
+                    <div id="pnlLogInLinks">
+	
+                      <ul>   
+                        <li> <a href="/../SearchNRetrieve/Interface/Logins/Login.aspx">Login</a> </li>
+                      </ul>
+                    
+</div>
+                </div>
+            </div> 
+                      
+            <div class="topLinks">
+                
+                <div id="pnlLogInLinks2">
+	
+                    <ul>      
+                        <li> <a href="/../SearchNRetrieve/Interface/HelpRecordSearch.aspx" target="_blank">Help</a></li>
+                        <li> <a href="http://forum.naa.gov.au" target="_blank">RecordSearch Forum</a></li>                               
+                        <li> <a href="/../SearchNRetrieve/Interface/ViewPreviousSearches.aspx">View previous searches</a> </li>
+                    </ul>
+                
+</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div id="topMenu" class="clearfix">
+                <ul>
+                  <li id="tabBasicSearch" style="margin:0" class="current">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx" id="atabBasicSearch">Basic search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabAdvancedSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/AdvSearchMain.aspx" id="atabAdvancedSearch">Advanced search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNameSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/NameSearch.aspx" id="atabNameSearch">NameSearch</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPhotoSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/PhotoSearch.aspx" id="atabPhotoSearch">PhotoSearch</a>  
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPassenger">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/PassengerSearch.aspx" id="atabPassenger">Passenger arrivals</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNewlyScanned">
+                      <a href="/../SearchNRetrieve/Interface/ListingReports/NewlyScannedList.aspx" id="atabNewlyScanned">Newly scanned records</a>
+                  </li>
+                </ul>
+            </div>
+            <div id="topBar">            
+                <h2 id="barHighlighted">Basic search for items</h2>       
+                <div id="divLoginDesc" class="log-in">Welcome guest</div>
+                
+            </div>
+        </div>
+    
+        <div id="placeHolder">
+            
+    <div class="narrow_content">
+
+    
+ 
+    <div class="text-links" style="float:right">
+    <ul>
+       <li><a href="AdvSearchItems.aspx">Advanced search for items</a></li>
+       <li><a href="https://bringingthemhome.naa.gov.au/">Bringing Them Home name index</a></li>
+        <li></li>
+    </ul>
+    </div>
+    <br>
+    <div id="ContentPlaceHolderSNR_validationSummary1" class="basic-errors" style="color:Red;display:none;">
+
+</div>
+    <br>
+    <span id="ContentPlaceHolderSNR_CustomErrorMessage" style="color:Red;display:none;"></span>
+    <div>
+        
+        
+        
+        
+    </div>
+
+        <div class="basicSrch">
+          <div class="basicSrch_box">
+             <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ContentPlaceHolderSNR_btnSearch')">
+	
+                <ol>
+                   <li>
+                      <label for="ContentPlaceHolderSNR_tbxKeyword">Keywords</label>
+                      <input name="ctl00$ContentPlaceHolderSNR$tbxKeyword" type="text" maxlength="50" id="ContentPlaceHolderSNR_tbxKeyword" class="textBox" placeholder="Keywords">
+                   </li>
+                   <li>
+                      <label for="ContentPlaceHolderSNR_tbxDateFrom">Dates<br><i>(eg 1921 or 1939 to 1945)</i></label>
+                      <input name="ctl00$ContentPlaceHolderSNR$tbxDateFrom" type="text" maxlength="4" id="ContentPlaceHolderSNR_tbxDateFrom" class="smallTextBox" placeholder="From date">
+                     
+                      <input name="ctl00$ContentPlaceHolderSNR$tbxDateTo" type="text" maxlength="4" id="ContentPlaceHolderSNR_tbxDateTo" class="smallTextBox" title="Date to" placeholder="To date">
+                   </li>                   
+                </ol>
+            
+</div>
+
+            <br style="clear: both;">
+
+         </div>
+
+         <div class="basicSrchButtons">
+               <input type="submit" name="ctl00$ContentPlaceHolderSNR$btnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolderSNR$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ContentPlaceHolderSNR_btnSearch">
+               <input type="submit" name="ctl00$ContentPlaceHolderSNR$btnClear" value="Clear" id="ContentPlaceHolderSNR_btnClear">
+         </div>
+
+         <div class="highlight-panel" style="margin-top:30px;">
+            
+            <br>
+           
+            <p>
+                Aboriginal and Torres Strait Islander people should be aware that this website and the archival collection may 
+                contain images, voices or names of deceased persons in photographs, file, audio recordings or printed material. 
+            </p>
+
+            <p style="margin-bottom:0px;">
+                Material drawn from the archival collection may contain terms that reflect authors' views, or those of 
+                the period in which the item was written or recorded, but which may not be considered appropriate today.  
+                These views are not necessarily the views of the National Archives of Australia.  While information may not reflect current 
+                understanding, it is provided in historical context.
+            </p>
+            <br>                
+        </div>
+
+
+
+        </div>
+
+
+        <br style="clear: both;">
+
+    <br>
+        
+     <span id="ContentPlaceHolderSNR_cvDates" style="color:Red;display:none;"></span>
+   
+   
+    </div>    
+
+        </div>
+
+        <div class="footer">
+             <div class="footerLinks">
+             <ul>
+               <li><a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/privacy/website-privacy-statement" target="_blank">Privacy</a></li>
+               <li><a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">Copyright</a></li>
+               <li><a href="/../SearchNRetrieve/Interface/TermsOfUse.aspx" target="_blank">Terms of use</a></li>
+               <li><a href="	https://www.naa.gov.au/about-us/accessibility" target="_blank">Accessibility</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/using-collection" target="_blank">Using the collection</a></li>
+               <li><a href="https://www.naa.gov.au/help-your-research/using-collection/citing-archival-records" target="_blank">Citation</a></li>
+               <li><a href="https://www.naa.gov.au/about-us/our-services/our-service-standards" target="_blank">Service charter</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/ask-us-about-collection" target="_blank">Ask us a question</a></li>             </ul>
+             </div>
+            <div class="footerCopyright">
+                <p>© Copyright <a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">   National Archives of Australia </a> <span id="lblYear">2026</span></p>             
+             </div>
+             <div class="footerGovLogo">
+                <img alt="National Archives Australia" src="/SearchNRetrieve/Images/NAA_Gov_logo.png" class="gov_logo">
+             </div>
+        </div>
+
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ContentPlaceHolderSNR_validationSummary1"));
+var Page_Validators =  new Array(document.getElementById("ContentPlaceHolderSNR_CustomErrorMessage"), document.getElementById("ContentPlaceHolderSNR_cvDates"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ContentPlaceHolderSNR_validationSummary1 = document.all ? document.all["ContentPlaceHolderSNR_validationSummary1"] : document.getElementById("ContentPlaceHolderSNR_validationSummary1");
+ContentPlaceHolderSNR_validationSummary1.showmessagebox = "True";
+var ContentPlaceHolderSNR_CustomErrorMessage = document.all ? document.all["ContentPlaceHolderSNR_CustomErrorMessage"] : document.getElementById("ContentPlaceHolderSNR_CustomErrorMessage");
+ContentPlaceHolderSNR_CustomErrorMessage.display = "None";
+ContentPlaceHolderSNR_CustomErrorMessage.evaluationfunction = "CustomValidatorEvaluateIsValid";
+var ContentPlaceHolderSNR_cvDates = document.all ? document.all["ContentPlaceHolderSNR_cvDates"] : document.getElementById("ContentPlaceHolderSNR_cvDates");
+ContentPlaceHolderSNR_cvDates.errormessage = "The date format you entered is not valid. <br>Enter a single date, YYYY (eg. 1901) in the from field or a date range from YYYY to YYYY (eg. 1945 to 1950).";
+ContentPlaceHolderSNR_cvDates.display = "None";
+ContentPlaceHolderSNR_cvDates.evaluationfunction = "CustomValidatorEvaluateIsValid";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        WebForm_AutoFocus('ContentPlaceHolderSNR_tbxKeyword');//]]>
+</script>
+</form>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;ad8a8eb238a749478a6a9fdec05aeacd&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+</body></html>

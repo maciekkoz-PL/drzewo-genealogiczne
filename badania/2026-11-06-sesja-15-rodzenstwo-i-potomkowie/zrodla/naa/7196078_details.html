@@ -1,0 +1,443 @@
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Item details
+</title><link id="mainStyleSheet" href="/SearchNRetrieve/Stylesheets/rs_combined.css" rel="stylesheet" type="text/css"><link rel="icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon"><link rel="shortcut icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon">
+    <script id="jqueryLink" src="/SearchNRetrieve/JS/jquery.js" type="text/javascript" language="javascript"></script>   
+     
+    
+    <script language="JavaScript" type="text/javascript">    
+        var bTimeSession = true;
+    </script>       
+    
+<script language="JavaScript" type="text/javascript">    
+
+
+        var sessionTimeoutWarning = '29'; 
+        var sessionTimeout = '30';
+        var imgHiddenDotID = 'imgHiddenDot';
+        
+        var timeOnPageLoad = new Date();
+        var sessionWarningTimer = null;
+        var redirectToWelcomePageTimer = null;
+
+        function fHandleSessionTimeOut()
+        {	         
+            //For warning
+            sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+            //To redirect to the welcome page
+            redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+        }
+
+        //Session Warning
+        function SessionWarning()
+        {
+            //minutes left for expiry
+            var minutesForExpiry =  (60 * (parseInt(sessionTimeout) - parseInt(sessionTimeoutWarning)));
+            var message = "Your session will expire in another " + minutesForExpiry + " seconds. Do you want to extend the session?";
+
+            //Confirm the user if he wants to extend the session
+            answer = confirm(message);
+
+            //if yes, extend the session.
+            if(answer)
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+                
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+                else
+                {                
+                    var img = document.getElementById(imgHiddenDotID);
+                    var rndm=Math.floor(Math.random()*11);
+                    img.src = '/SearchNRetrieve/KeepSessionAlive.aspx?RN=' + rndm;
+
+                    //Clear the RedirectToWelcomePage method
+                    if (redirectToWelcomePageTimer != null) 
+                    {
+                        clearTimeout(redirectToWelcomePageTimer);
+                    }
+                    //reset the time on page load
+                    timeOnPageLoad =  new Date();
+                    sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+                    //To redirect to the welcome page
+                    redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()',parseInt(sessionTimeout) * 60 * 1000);
+                }
+            }
+            else
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+            }
+        }                
+                
+        //Session timeout
+        function RedirectToWelcomePage()
+        {
+            //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+            window.location = "/SearchNRetrieve/Guest.aspx";
+        }      
+	     
+	             
+         if (bTimeSession)
+         {        
+             $(document).ready(fHandleSessionTimeOut);
+         }
+         
+</script></head>
+
+<body>
+    <form method="post" action="./ItemDetail.aspx?Barcode=7196078&amp;isAv=N" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ContentPlaceHolderSNR_ucItemDetails_btnGo')" id="formSNRMaster">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['formSNRMaster'];
+if (!theForm) {
+    theForm = document.formSNRMaster;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/SearchNRetrieve/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMM2cu29u9xw12bDl-djkMrg7QGlP7t1T2XLB7ZHhx7VfsvlpIffbYUlOZW_LNXYhA2&amp;t=639191193332169432" type="text/javascript"></script>
+
+
+<script src="/SearchNRetrieve/JS/common_functions.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="975AE99F">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="+kGWfA3t9UqLMq5fvSEuUqLkHtMIBK6SHYb5S0SuwG2iI+SPkTqmdbnrqU6lxDf5J9XXo3xf+IP367VlCdsMKzuUvp7tXnTuWY9lgZ37NpsDnu+nX56c9DkzxUP6I4f2UxwiA7hdf4zRCSEAqYKyfkG3O1Um7H1ic8fybIKrKymjHiqgRnrgacfm2SbU/RJar8zMSY0DlSmMdO3rReT+9J8vNw+jFs2fsgVwS5oTh+ro+PLPp8mAjCW/GNsPEDSc+YNhAzWhpRWTbTJ/M6yempk7cCic5jW/v+IX8YDPSmxFyKVEk03EY8/TfBHhM10Poeh8iiKdOZAkWsbcTxG6s6XANClRPZ/lApCCIuuTdRaNYBaaP8UvnpqB12BbfQZBOlPdqxMttH91HbxeFmRVeP0nf/jyQdqhs0pI7TP7qIKfWAy/VIGBHBpMfvJwvvaPivK6dLIWaEum7xyIyew6sA==">
+</div>
+        <div id="container">
+            
+            <div id="page_header" class="clearfix">                
+                <div id="naa_logo">
+                    <a href="https://www.naa.gov.au/"><img src="/SearchNRetrieve/Images/naa_logo_blue_small.jpg" class="naa_logo" alt="The Australian Government | National Archives of Australia logo"></a>                    
+                </div>
+                <div id="site-title">
+                    RecordSearch
+                </div>
+
+                <!-- <div style="display:none;">
+                    <img id="imgHiddenDot" alt="" src="../../../scripts/KeepSessionAlive.asp" />
+                </div> -->
+                
+                <div class="topLinks" style="float:right;">
+                    
+                    <div id="pnlLogInLinks">
+	
+                      <ul>   
+                        <li> <a href="/../SearchNRetrieve/Interface/Logins/Login.aspx">Login</a> </li>
+                      </ul>
+                    
+</div>
+                </div>
+            </div> 
+                      
+            <div class="topLinks">
+                
+                <div id="pnlLogInLinks2">
+	
+                    <ul>      
+                        <li> <a href="/../SearchNRetrieve/Interface/HelpRecordSearch.aspx" target="_blank">Help</a></li>
+                        <li> <a href="http://forum.naa.gov.au" target="_blank">RecordSearch Forum</a></li>                               
+                        <li> <a href="/../SearchNRetrieve/Interface/ViewPreviousSearches.aspx">View previous searches</a> </li>
+                    </ul>
+                
+</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div id="topMenu" class="clearfix">
+                <ul>
+                  <li id="tabBasicSearch" style="margin:0" class="current">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx" id="atabBasicSearch">Basic search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabAdvancedSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/AdvSearchMain.aspx" id="atabAdvancedSearch">Advanced search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNameSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/NameSearch.aspx" id="atabNameSearch">NameSearch</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPhotoSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/PhotoSearch.aspx" id="atabPhotoSearch">PhotoSearch</a>  
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPassenger">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/PassengerSearch.aspx" id="atabPassenger">Passenger arrivals</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNewlyScanned">
+                      <a href="/../SearchNRetrieve/Interface/ListingReports/NewlyScannedList.aspx" id="atabNewlyScanned">Newly scanned records</a>
+                  </li>
+                </ul>
+            </div>
+            <div id="topBar">            
+                <h2 id="barHighlighted">Item details</h2>       
+                <div id="divLoginDesc" class="log-in">Welcome guest</div>
+                
+            </div>
+        </div>
+    
+        <div id="placeHolder">
+            
+
+    <script type="text/javascript" src="../../JS/moreLessLinks.js">
+    </script>
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+       var normalCssCount = ($('link[href$=rs_combined.css]').length);
+       
+       if (normalCssCount > 0)
+       {
+       setMoreLessNotesLink("notes", 500);
+                              
+       
+       $('a.moreLessNotesLink').click(function() {           
+            handleClicks(this,true);
+            // prevent to go to link destination
+            return false;
+        });
+        
+        }        
+      });                
+    </script>
+
+    <div class="detailsContainer">
+        <div class="userControl">
+            
+
+<br>
+<div id="detailsTopContainer">
+    <table class="search_options">
+        <tbody><tr>
+            <td>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_lbtnNewSearch" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$lbtnNewSearch','')">New search</a>
+            </td>
+            <td>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_lbtnRefine" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$lbtnRefine','')">Refine search</a>
+            </td>
+            <td>
+                
+            </td> 
+            <td>
+            </td>     
+        </tr>
+    </tbody></table>
+    <br>
+    <table id="ContentPlaceHolderSNR_ucItemDetails_tblTopNavigation" width="100%">
+	<tbody><tr>
+		<td width="40%">
+            </td>
+		<td width="40%" align="left">
+                <div class="page_controls_displaying">
+                <a id="ContentPlaceHolderSNR_ucItemDetails_FirstPageBtn2" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$FirstPageBtn2','')"><img src="/SearchNRetrieve/Images/First-page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img1" border="0" alt="first" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_PrevBtn2" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$PrevBtn2','')"><img src="/SearchNRetrieve/Images/Previous_page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img2" border="0" alt="previous" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_NextBtn2" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$NextBtn2','')"><img src="/SearchNRetrieve/Images/Next-page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img3" border="0" alt="next" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_LastPageBtn2" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$LastPageBtn2','')"><img src="/SearchNRetrieve/Images/Last-page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img4" border="0" alt="last" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <span>Displaying 3 of 6</span>
+                </div>
+            </td>
+		<td width="20%" align="left" style="vertical-align:top;">
+                <span class="radioList"><input id="ContentPlaceHolderSNR_ucItemDetails_rbtnList" type="radio" name="ctl00$ContentPlaceHolderSNR$ucItemDetails$rbtnList" value="rbtnList" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$ucItemDetails$rbtnList\',\'\')', 0)"><label for="ContentPlaceHolderSNR_ucItemDetails_rbtnList">List report</label></span>
+                <br>
+                
+                <br>   
+                <span class="radioList"><input id="ContentPlaceHolderSNR_ucItemDetails_rbtnDetailReport" type="radio" name="ctl00$ContentPlaceHolderSNR$ucItemDetails$rbtnDetailReport" value="rbtnDetailReport" checked="checked"><label for="ContentPlaceHolderSNR_ucItemDetails_rbtnDetailReport">Details report</label></span>
+            </td>
+	</tr>
+</tbody></table>
+
+
+</div>
+<div class="half_space_br">
+</div>
+<div class="mainDetailsTable">
+    <div class="selectionContainer">
+        <table width="100%">
+            <tbody><tr>
+                <td>
+                    <span id="ContentPlaceHolderSNR_ucItemDetails_lblTitle" style="font-weight:bold;">Item details for: D4881, CHMIELEWSKI ROMAN</span>
+                    
+                </td>
+                <td align="right">
+                    <div id="ContentPlaceHolderSNR_ucItemDetails_pnlDigitalCopy">
+	
+                        
+                        &nbsp; 
+                        &nbsp;
+                        <a id="ContentPlaceHolderSNR_ucItemDetails_lbtnRequestCopy" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$lbtnRequestCopy','')">Request copy</a>
+                        
+                    
+</div>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    <div id="ContentPlaceHolderSNR_ucItemDetails_phDetailsView">
+	
+    <table id="ContentPlaceHolderSNR_ucItemDetails_ctl08" cellspacing="0" style="border-collapse:collapse;">
+		<tbody><tr>
+			<td><div class="detailsTable">
+				<table cellspacing="0">
+					<tbody><tr>
+						<td class="field"><div class="field">Title</div></td>
+						<td>CHMIELEWSKI Roman - Nationality: Polish - Arrived Melbourne per General M B Stewart 30 January 1950</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Contents date range</div></td>
+						<td>30 Jan 1950 - 31 Dec 1976</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Series number</div></td>
+						<td><a href="/SearchNRetrieve/Interface/DetailsReports/SeriesDetail.aspx?series_no=D4881&amp;singleRecord=T">D4881</a><br>Click to see which government agency or person created this item.</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Control symbol</div></td>
+						<td>CHMIELEWSKI ROMAN</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Citation</div></td>
+						<td>NAA: D4881, CHMIELEWSKI ROMAN</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Item ID</div></td>
+						<td>7196078</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Location</div></td>
+						<td>Adelaide</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Access status</div></td>
+						<td>Open</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Date of decision</div></td>
+						<td>12 Aug 2026</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Physical format</div></td>
+						<td>INDEX CARDS (allocated at series level)</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Records authority class number</div></td>
+						<td>19400</td>
+					</tr>
+					<tr>
+						<td class="field"><div class="field">Date registered</div></td>
+						<td>08 Feb 2007</td>
+					</tr>
+				</tbody></table>
+
+			</div></td>
+		</tr>
+	</tbody></table>
+</div>
+</div>
+<div class="detailsBottomContainer">
+    <br>
+    <table id="ContentPlaceHolderSNR_ucItemDetails_tblBottomNavigation" width="100%">
+	<tbody><tr>
+		<td width="40%">
+                Jump to record number
+                <input name="ctl00$ContentPlaceHolderSNR$ucItemDetails$tbxJump" type="text" id="ContentPlaceHolderSNR_ucItemDetails_tbxJump" style="width:70px;">
+                <a id="ContentPlaceHolderSNR_ucItemDetails_btnGo" class="go_button" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$btnGo','')">Go</a>
+            </td>
+		<td width="60%" align="left">
+              <div class="page_controls_displaying">
+                <a id="ContentPlaceHolderSNR_ucItemDetails_FirstPageBtn" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$FirstPageBtn','')"><img src="/SearchNRetrieve/Images/First-page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img5" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_PrevBtn" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$PrevBtn','')"><img src="/SearchNRetrieve/Images/Previous_page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img6" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_NextBtn" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$NextBtn','')"><img src="/SearchNRetrieve/Images/Next-page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img7" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_LastPageBtn" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$LastPageBtn','')"><img src="/SearchNRetrieve/Images/Last-page_off.png" id="ContentPlaceHolderSNR_ucItemDetails_Img8" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+                <span>Displaying 3 of 6</span>
+              </div>
+            </td>
+		<td width="50%">
+            </td>
+	</tr>
+</tbody></table>
+
+    <br>
+    <table class="search_options">
+        <tbody><tr>
+            <td>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_LinkButton2" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$LinkButton2','')">New search</a>
+            </td>
+            <td>
+                <a id="ContentPlaceHolderSNR_ucItemDetails_lbtnRefine2" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$ucItemDetails$lbtnRefine2','')">Refine search</a>
+            </td>
+            <td>
+                
+            </td>
+            <td>
+            </td>      
+        </tr>
+    </tbody></table>
+</div>
+        </div>
+
+        <div class="returnToTop">
+            <a href="#">Back to top</a>
+        </div>
+    </div>
+
+
+
+        </div>
+
+        <div class="footer">
+             <div class="footerLinks">
+             <ul>
+               <li><a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/privacy/website-privacy-statement" target="_blank">Privacy</a></li>
+               <li><a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">Copyright</a></li>
+               <li><a href="/../SearchNRetrieve/Interface/TermsOfUse.aspx" target="_blank">Terms of use</a></li>
+               <li><a href="	https://www.naa.gov.au/about-us/accessibility" target="_blank">Accessibility</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/using-collection" target="_blank">Using the collection</a></li>
+               <li><a href="https://www.naa.gov.au/help-your-research/using-collection/citing-archival-records" target="_blank">Citation</a></li>
+               <li><a href="https://www.naa.gov.au/about-us/our-services/our-service-standards" target="_blank">Service charter</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/ask-us-about-collection" target="_blank">Ask us a question</a></li>             </ul>
+             </div>
+            <div class="footerCopyright">
+                <p>© Copyright <a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">   National Archives of Australia </a> <span id="lblYear">2026</span></p>             
+             </div>
+             <div class="footerGovLogo">
+                <img alt="National Archives Australia" src="/SearchNRetrieve/Images/NAA_Gov_logo.png" class="gov_logo">
+             </div>
+        </div>
+
+    </form>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;ad8a8eb238a749478a6a9fdec05aeacd&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+</body></html>

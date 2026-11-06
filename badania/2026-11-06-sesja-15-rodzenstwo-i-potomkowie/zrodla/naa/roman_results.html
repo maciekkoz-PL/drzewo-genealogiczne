@@ -1,0 +1,498 @@
+<!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Items listing
+</title><link id="mainStyleSheet" href="/SearchNRetrieve/Stylesheets/rs_combined.css" rel="stylesheet" type="text/css"><link rel="icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon"><link rel="shortcut icon" href="/SearchNRetrieve/Images/favicon2.ico" type="image/x-icon">
+    <script id="jqueryLink" src="/SearchNRetrieve/JS/jquery.js" type="text/javascript" language="javascript"></script>   
+     
+    
+    <script language="JavaScript" type="text/javascript">    
+        var bTimeSession = true;
+    </script>       
+    
+<script language="JavaScript" type="text/javascript">    
+
+
+        var sessionTimeoutWarning = '29'; 
+        var sessionTimeout = '30';
+        var imgHiddenDotID = 'imgHiddenDot';
+        
+        var timeOnPageLoad = new Date();
+        var sessionWarningTimer = null;
+        var redirectToWelcomePageTimer = null;
+
+        function fHandleSessionTimeOut()
+        {	         
+            //For warning
+            sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+            //To redirect to the welcome page
+            redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()', parseInt(sessionTimeout) * 60 * 1000);
+        }
+
+        //Session Warning
+        function SessionWarning()
+        {
+            //minutes left for expiry
+            var minutesForExpiry =  (60 * (parseInt(sessionTimeout) - parseInt(sessionTimeoutWarning)));
+            var message = "Your session will expire in another " + minutesForExpiry + " seconds. Do you want to extend the session?";
+
+            //Confirm the user if he wants to extend the session
+            answer = confirm(message);
+
+            //if yes, extend the session.
+            if(answer)
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+                
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+                else
+                {                
+                    var img = document.getElementById(imgHiddenDotID);
+                    var rndm=Math.floor(Math.random()*11);
+                    img.src = '/SearchNRetrieve/KeepSessionAlive.aspx?RN=' + rndm;
+
+                    //Clear the RedirectToWelcomePage method
+                    if (redirectToWelcomePageTimer != null) 
+                    {
+                        clearTimeout(redirectToWelcomePageTimer);
+                    }
+                    //reset the time on page load
+                    timeOnPageLoad =  new Date();
+                    sessionWarningTimer = setTimeout('SessionWarning()', parseInt(sessionTimeoutWarning) * 60 * 1000);
+                    //To redirect to the welcome page
+                    redirectToWelcomePageTimer = setTimeout('RedirectToWelcomePage()',parseInt(sessionTimeout) * 60 * 1000);
+                }
+            }
+            else
+            {
+                var currentTime = new Date();
+                //time for expiry
+                var timeForExpiry = timeOnPageLoad.setMinutes(timeOnPageLoad.getMinutes() + 
+		            parseInt(sessionTimeout));     		
+
+                //Current time is greater than the expiry time
+                if(Date.parse(currentTime) > timeForExpiry)
+                {
+                    //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+                    window.location = "/SearchNRetrieve/Guest.aspx";
+                }
+            }
+        }                
+                
+        //Session timeout
+        function RedirectToWelcomePage()
+        {
+            //window.location = "/../scripts/Logon.asp?N=guest&LoginFrom=Expire";
+            window.location = "/SearchNRetrieve/Guest.aspx";
+        }      
+	     
+	             
+         if (bTimeSession)
+         {        
+             $(document).ready(fHandleSessionTimeOut);
+         }
+         
+</script></head>
+
+<body>
+    <form method="post" action="./ItemsListing.aspx" id="formSNRMaster">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['formSNRMaster'];
+if (!theForm) {
+    theForm = document.formSNRMaster;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/SearchNRetrieve/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMM2cu29u9xw12bDl-djkMrg7QGlP7t1T2XLB7ZHhx7VfsvlpIffbYUlOZW_LNXYhA2&amp;t=639191193332169432" type="text/javascript"></script>
+
+
+                         <script type="text/javascript">
+                         $(document).ready(function(){
+                    $('#ContentPlaceHolderSNR_txbJumpTo').keypress(function(e){
+                         if ((e.keyCode==13) || (e.keyCode == 10))
+                         {
+                             $('#ContentPlaceHolderSNR_btnGo').click();
+                             return false;
+                         }
+                     });
+                  });
+                         </script>
+                         
+<script src="/SearchNRetrieve/JS/common_functions.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F3CDB51D">
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ohJT1bXMBoN3uM9XhFMkueUFdcMRqnVE5C9wqXxu4tkir9u7XX2zJNhCdsvtOnLJG0OGvB0Sf5sAxDOTxZcLjDN7B3qnSA2139BHrVLtN7gAqONF/qBqFUdfEgbxKOJruIZRkEIs0Y7PspCkVz6tk4ffhfvFElFK7k79IgxnNbb8ZIHVpZJhklYi+boIrYot5rdFRky/tRxKhGPlkq30wRgqblGaHnuMbWQLGeR/hT8SPjcNZdoTuGIeRHHCeJGi8kYv9txC0mB0koD0+P2qwFuTHymSE3LAsk+B7a8aTWpcmA4pB0I90Fl2vwcMXARYqv/yX1zuOOOsUEOnxbqGFMRsXMJdvrxcVl69B8cdm1Bp6vQRoSlKJwbDWYRLWBvACviXoVo+g3v79CdKwyZQmyMPBxJR+VHdPFWoV9wxCCwtJR7FWVxJDi4vz99DjHGapZP+hh4x/Bl1vsQoDW0qgzD5OYFpUqceVlddR0dtCgYe41uLhfYfQmfLSY7Iv1YHC7lvOcSe671jIDrBEXLzEj1bRE9tO/S5FEwA60Q37B8=">
+</div>
+        <div id="container">
+            
+            <div id="page_header" class="clearfix">                
+                <div id="naa_logo">
+                    <a href="https://www.naa.gov.au/"><img src="/SearchNRetrieve/Images/naa_logo_blue_small.jpg" class="naa_logo" alt="The Australian Government | National Archives of Australia logo"></a>                    
+                </div>
+                <div id="site-title">
+                    RecordSearch
+                </div>
+
+                <!-- <div style="display:none;">
+                    <img id="imgHiddenDot" alt="" src="../../../scripts/KeepSessionAlive.asp" />
+                </div> -->
+                
+                <div class="topLinks" style="float:right;">
+                    
+                    <div id="pnlLogInLinks">
+	
+                      <ul>   
+                        <li> <a href="/../SearchNRetrieve/Interface/Logins/Login.aspx">Login</a> </li>
+                      </ul>
+                    
+</div>
+                </div>
+            </div> 
+                      
+            <div class="topLinks">
+                
+                <div id="pnlLogInLinks2">
+	
+                    <ul>      
+                        <li> <a href="/../SearchNRetrieve/Interface/HelpRecordSearch.aspx" target="_blank">Help</a></li>
+                        <li> <a href="http://forum.naa.gov.au" target="_blank">RecordSearch Forum</a></li>                               
+                        <li> <a href="/../SearchNRetrieve/Interface/ViewPreviousSearches.aspx">View previous searches</a> </li>
+                    </ul>
+                
+</div>
+            </div>
+            <div style="clear: both;"></div>
+            <div id="topMenu" class="clearfix">
+                <ul>
+                  <li id="tabBasicSearch" style="margin:0" class="current">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx" id="atabBasicSearch">Basic search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabAdvancedSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/AdvSearchMain.aspx" id="atabAdvancedSearch">Advanced search</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNameSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/NameSearch.aspx" id="atabNameSearch">NameSearch</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPhotoSearch">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/PhotoSearch.aspx" id="atabPhotoSearch">PhotoSearch</a>  
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabPassenger">
+                      <a href="/../SearchNRetrieve/Interface/SearchScreens/PassengerSearch.aspx" id="atabPassenger">Passenger arrivals</a>
+                  </li>
+                  <li class="tabSpacer"></li>
+                  <li id="tabNewlyScanned">
+                      <a href="/../SearchNRetrieve/Interface/ListingReports/NewlyScannedList.aspx" id="atabNewlyScanned">Newly scanned records</a>
+                  </li>
+                </ul>
+            </div>
+            <div id="topBar">            
+                <h2 id="barHighlighted">Item list</h2>       
+                <div id="divLoginDesc" class="log-in">Welcome guest</div>
+                
+            </div>
+        </div>
+    
+        <div id="placeHolder">
+            
+<style>
+
+#container 
+{ 
+	max-width:100em;
+}
+
+.footer 
+{
+    max-width:100em;
+}
+
+</style>
+    
+ <div class="print_hide_menus menu_content">  
+ 
+ <br>
+ <table id="ContentPlaceHolderSNR_TableSearchOptions" class="search_options">
+	<tbody><tr>
+		<td><a id="ContentPlaceHolderSNR_lbnNewSearch" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$lbnNewSearch','')">New search</a></td><td><a id="ContentPlaceHolderSNR_lbnRefineSearch" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$lbnRefineSearch','')">Refine search</a></td><td></td><td></td><td></td>
+	</tr>
+</tbody></table>
+ 
+ 
+ <div class="half_space_br">
+  </div> 
+  
+  <table id="ContentPlaceHolderSNR_Table1" style="width:100%;">
+	<tbody><tr>
+		<td style="width:40%;">
+            
+            <div class="results_per_page">
+                <span id="ContentPlaceHolderSNR_lblResultPerPage1">Display </span><select name="ctl00$ContentPlaceHolderSNR$ddlResultsPerPage" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$ddlResultsPerPage\',\'\')', 0)" id="ContentPlaceHolderSNR_ddlResultsPerPage" style="width:48px;">
+			<option value="10">10</option>
+			<option selected="selected" value="20">20</option>
+			<option value="50">50</option>
+			<option value="100">100</option>
+			<option value="150">150</option>
+			<option value="200">200</option>
+
+		</select><span id="ContentPlaceHolderSNR_lblResultPerPage2"> search results per page</span>
+                <div class="displaying_spacer"></div>
+             </div>
+                
+       </td><td align="left" style="width:42%;">
+        <div class="page_controls_displaying">
+             
+            <a href="../ListingReports/ItemsListing.aspx?page=0"><img id="img2" src="../../Images/First-page_off.png" title="go to first page" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+	        <a href="../ListingReports/ItemsListing.aspx?page=0 "><img id="img100" src="../../Images/Previous_page_off.png" title="page back" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+	        <a href="../ListingReports/ItemsListing.aspx?page=0 "><img id="img1" src="../../Images/Next-page_off.png" title="page forward" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+	        <a href="../ListingReports/ItemsListing.aspx?page=0 "><img id="img3" src="../../Images/Last-page_off.png" title="go to last page" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a><span id="ContentPlaceHolderSNR_lblDisplaying">Displaying 1 to 6 of 6</span> 
+        </div>
+       </td><td align="left" style="width:18%;">
+      <div class="displayingLast">
+            <span class="radioList"><input id="ContentPlaceHolderSNR_RadioButton_List" type="radio" name="ctl00$ContentPlaceHolderSNR$rbtnReport" value="RadioButton_List" checked="checked"><label for="ContentPlaceHolderSNR_RadioButton_List">List report</label></span>
+            <br>
+            <span class="radioList"><input id="ContentPlaceHolderSNR_RadioButton_Detailed" type="radio" name="ctl00$ContentPlaceHolderSNR$rbtnReport" value="RadioButton_Detailed" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$RadioButton_Detailed\',\'\')', 0)"><label for="ContentPlaceHolderSNR_RadioButton_Detailed">Details report</label></span>
+      </div>
+     </td>
+	</tr>
+</tbody></table>
+      
+    
+  
+  <div class="half_space_br"></div> 
+  </div> 
+      
+   <div class="table_content">
+      <table id="ContentPlaceHolderSNR_tblItemDetails" width="100%" class="SearchResults">
+	<tbody><tr class="header">
+		<td title="Click to select or deselect all" onclick="window.location = './ItemsListing.aspx?selectAll=true'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Select</td>
+		<td title="Click to sort results by Series &amp; Control symbol" onclick="window.location = './ItemsListing.aspx?sort=1'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Series no.</td>
+		<td title="Click to sort results by Series &amp; Control symbol" onclick="window.location = './ItemsListing.aspx?sort=1'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Control symbol</td>
+		<td title="Click to sort results by Item title" onclick="window.location = './ItemsListing.aspx?sort=3'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Item title</td>
+		<td title="Click to sort results by start date" onclick="window.location = './ItemsListing.aspx?sort=5'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Date range</td>
+		<td title="Click to show items that have digitised images first" onclick="window.location = './ItemsListing.aspx?sort=7'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Digitised item</td>
+		<td title="Click to sort results by Item ID" onclick="window.location = './ItemsListing.aspx?sort=9'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Item ID</td>
+		<td title="Click to show AV items first" onclick="window.location = './ItemsListing.aspx?sort=11'" onmouseover="this.style.backgroundColor='#63C7E9';this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#8FD7EF';this.style.cursor='default';">Format</td>
+	</tr>
+	<tr class="white">
+		<td><input id="ContentPlaceHolderSNR_cb203670395" type="checkbox" name="ctl00$ContentPlaceHolderSNR$cb203670395" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$cb203670395\',\'\')', 0)"></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670395&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">A2571</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670395&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">CHMIELEWSKI ROMAN</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670395&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">
+            CHMIELEWSKI, Roman : Year of Birth - 1919 : Nationality - POLISH : Travelled per - GEN.STEW. 3 : Number - 129690<br>
+                      <div class="CombinedTitle">
+                          <div class="CombinedTitleBottomLeft">
+                                Access status: Open
+                          </div>
+                          <div class="CombinedTitleBottomRight">
+                                Location: Canberra
+                          </div>
+                      </div><div class="IE6minWidthSpacer"></div></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670395&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">1947 - 1956</td>
+		<td title="View digital copy" style="vertical-align: middle;"><a href="/SearchNRetrieve/Interface/ViewImage.aspx?B=203670395" onclick="javascript:void(openNewImageWin(this.href)); return false;"><img src="/SearchNRetrieve/Images/View-record.gif" class="digital_copy"></a></td>
+		<td>203670395</td>
+		<td></td>
+	</tr>
+	<tr class="grey">
+		<td><input id="ContentPlaceHolderSNR_cb4256174" type="checkbox" name="ctl00$ContentPlaceHolderSNR$cb4256174" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$cb4256174\',\'\')', 0)"></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=4256174&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">A12002</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=4256174&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">766-769</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=4256174&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">
+            CHMIELEWSKI Roman born 6 June 1919; Anna born 19 February 1929; Roman born 6 October 1946; Ernst born 20 November 1947<br>
+                      <div class="CombinedTitle">
+                          <div class="CombinedTitleBottomLeft">
+                                Access status: Open
+                          </div>
+                          <div class="CombinedTitleBottomRight">
+                                Location: Canberra
+                          </div>
+                      </div><div class="IE6minWidthSpacer"></div></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=4256174&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">1950 - 1950</td>
+		<td> </td>
+		<td>4256174</td>
+		<td></td>
+	</tr>
+	<tr class="white">
+		<td><input id="ContentPlaceHolderSNR_cb7196078" type="checkbox" name="ctl00$ContentPlaceHolderSNR$cb7196078" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$cb7196078\',\'\')', 0)"></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=7196078&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">D4881</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=7196078&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">CHMIELEWSKI ROMAN</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=7196078&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">
+            CHMIELEWSKI Roman - Nationality: Polish - Arrived Melbourne per General M B Stewart 30 January 1950<br>
+                      <div class="CombinedTitle">
+                          <div class="CombinedTitleBottomLeft">
+                                Access status: Open
+                          </div>
+                          <div class="CombinedTitleBottomRight">
+                                Location: Adelaide
+                          </div>
+                      </div><div class="IE6minWidthSpacer"></div></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=7196078&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">1950 - 1976</td>
+		<td> </td>
+		<td>7196078</td>
+		<td></td>
+	</tr>
+	<tr class="grey">
+		<td><input id="ContentPlaceHolderSNR_cb25989976" type="checkbox" name="ctl00$ContentPlaceHolderSNR$cb25989976" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$cb25989976\',\'\')', 0)"></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25989976&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">MP1155/1</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25989976&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">V1962/9185</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25989976&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">
+            Chmielewski, Roman William<br>
+                      <div class="CombinedTitle">
+                          <div class="CombinedTitleBottomLeft">
+                                Access status: Not yet examined
+                          </div>
+                          <div class="CombinedTitleBottomRight">
+                                Location: Melbourne
+                          </div>
+                      </div><div class="IE6minWidthSpacer"></div></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25989976&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">1962 - 1962</td>
+		<td> </td>
+		<td>25989976</td>
+		<td></td>
+	</tr>
+	<tr class="white">
+		<td><input id="ContentPlaceHolderSNR_cb203670397" type="checkbox" name="ctl00$ContentPlaceHolderSNR$cb203670397" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$cb203670397\',\'\')', 0)"></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670397&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">A2571</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670397&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">CHMIELEWSKI ROMAN</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670397&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">
+            CHMIELEWSKI, Roman : Year of Birth - 1946 : Nationality - POLISH : Travelled per - GEN.STEW. 3 : Number - [UNKNOWN]<br>
+                      <div class="CombinedTitle">
+                          <div class="CombinedTitleBottomLeft">
+                                Access status: Open
+                          </div>
+                          <div class="CombinedTitleBottomRight">
+                                Location: Canberra
+                          </div>
+                      </div><div class="IE6minWidthSpacer"></div></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=203670397&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='white';this.style.cursor='default';" title="Go to Item details">1947 - 1956</td>
+		<td title="View digital copy" style="vertical-align: middle;"><a href="/SearchNRetrieve/Interface/ViewImage.aspx?B=203670397" onclick="javascript:void(openNewImageWin(this.href)); return false;"><img src="/SearchNRetrieve/Images/View-record.gif" class="digital_copy"></a></td>
+		<td>203670397</td>
+		<td></td>
+	</tr>
+	<tr class="grey">
+		<td><input id="ContentPlaceHolderSNR_cb25987330" type="checkbox" name="ctl00$ContentPlaceHolderSNR$cb25987330" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolderSNR$cb25987330\',\'\')', 0)"></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25987330&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">MP1155/1</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25987330&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">V1962/5786</td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25987330&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">
+            Chmielewski, Zbigniew Roman<br>
+                      <div class="CombinedTitle">
+                          <div class="CombinedTitleBottomLeft">
+                                Access status: Not yet examined
+                          </div>
+                          <div class="CombinedTitleBottomRight">
+                                Location: Melbourne
+                          </div>
+                      </div><div class="IE6minWidthSpacer"></div></td>
+		<td onclick="window.location = '../DetailsReports/ItemDetail.aspx?Barcode=25987330&amp;isAv=N'" onmouseover="this.parentNode.className='hover';this.style.cursor='pointer';" onmouseout="this.parentNode.className='grey';this.style.cursor='default';" title="Go to Item details">1962 - 1962</td>
+		<td> </td>
+		<td>25987330</td>
+		<td></td>
+	</tr>
+</tbody></table>
+  
+   </div>
+      
+<div class="print_hide_menus menu_content">  
+    
+ 
+   <br>
+   
+   <table id="ContentPlaceHolderSNR_Table2" style="width:100%;">
+	<tbody><tr>
+		<td style="width:40%;"><span id="ContentPlaceHolderSNR_lblJumpTo">Jump to record number </span><input name="ctl00$ContentPlaceHolderSNR$txbJumpTo" type="text" size="5" id="ContentPlaceHolderSNR_txbJumpTo" style="width:50px;"><a id="ContentPlaceHolderSNR_btnGo" class="go_button" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$btnGo','')">Go&nbsp;</a></td><td align="left" style="width:60%;">
+        <div class="page_controls_displaying">
+             
+            <a href="../ListingReports/ItemsListing.aspx?page=0"><img id="img2" src="../../Images/First-page_off.png" title="go to first page" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+	        <a href="../ListingReports/ItemsListing.aspx?page=0 "><img id="img100" src="../../Images/Previous_page_off.png" title="page back" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+	        <a href="../ListingReports/ItemsListing.aspx?page=0 "><img id="img1" src="../../Images/Next-page_off.png" title="page forward" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a>
+	        <a href="../ListingReports/ItemsListing.aspx?page=0 "><img id="img3" src="../../Images/Last-page_off.png" title="go to last page" border="0" onmouseover="imgSwap(this)" onmouseout="imgSwap(this)"></a><span id="ContentPlaceHolderSNR_lblDisplaying2">Displaying 1 to 6 of 6</span> 
+        </div>
+	  </td>
+	</tr>
+</tbody></table>
+
+<div class="half_space_br">
+</div>    
+
+      <table id="ContentPlaceHolderSNR_TableSearchOptions2" class="search_options">
+	<tbody><tr>
+		<td><a id="ContentPlaceHolderSNR_lbnNewSearch1" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$lbnNewSearch1','')">New search</a></td><td><a id="ContentPlaceHolderSNR_lbnRefineSearch2" href="javascript:__doPostBack('ctl00$ContentPlaceHolderSNR$lbnRefineSearch2','')">Refine search</a></td><td></td><td></td><td></td>
+	</tr>
+</tbody></table>
+    
+    
+    <div class="returnToTop">
+        <a href="#">Back to top</a>
+    </div>
+
+</div> 
+
+
+        </div>
+
+        <div class="footer">
+             <div class="footerLinks">
+             <ul>
+               <li><a href="https://www.naa.gov.au/about-us/our-organisation/accountability-and-reporting/privacy/website-privacy-statement" target="_blank">Privacy</a></li>
+               <li><a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">Copyright</a></li>
+               <li><a href="/../SearchNRetrieve/Interface/TermsOfUse.aspx" target="_blank">Terms of use</a></li>
+               <li><a href="	https://www.naa.gov.au/about-us/accessibility" target="_blank">Accessibility</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/using-collection" target="_blank">Using the collection</a></li>
+               <li><a href="https://www.naa.gov.au/help-your-research/using-collection/citing-archival-records" target="_blank">Citation</a></li>
+               <li><a href="https://www.naa.gov.au/about-us/our-services/our-service-standards" target="_blank">Service charter</a></li>
+               <li><a href="	https://www.naa.gov.au/help-your-research/ask-us-about-collection" target="_blank">Ask us a question</a></li>             </ul>
+             </div>
+            <div class="footerCopyright">
+                <p>© Copyright <a href="https://www.naa.gov.au/home/national-archives-copyright" target="_blank">   National Archives of Australia </a> <span id="lblYear">2026</span></p>             
+             </div>
+             <div class="footerGovLogo">
+                <img alt="National Archives Australia" src="/SearchNRetrieve/Images/NAA_Gov_logo.png" class="gov_logo">
+             </div>
+        </div>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;ad8a8eb238a749478a6a9fdec05aeacd&quot;,&quot;spa&quot;:2}" crossorigin="anonymous"></script>
+
+
+</body></html>

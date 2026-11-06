@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=4256174&isAv=N",
+    "status": 200,
+    "utc": "2026-11-06T15:07:10.437310+00:00"
+  },
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=7196078&isAv=N",
+    "status": 200,
+    "utc": "2026-11-06T15:07:12.651226+00:00"
+  },
+  {
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=25989976&isAv=N",
+    "status": 200,
+    "utc": "2026-11-06T15:07:13.871615+00:00"
+  },
+  {
+    "query": "CHMIELEWSKI Ernst",
+    "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=4256174&isAv=N",
+    "utc": "2026-11-06T15:07:18.145776+00:00"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "9ced56a5e878488fb57c",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski 1909",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T14:56:12.659864+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s15/arolsen/control1909_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "9ced56a5e878488fb57c",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T14:56:13.995474+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "ef55381ad2e496b62ea903ef2dc914e7af35ec277d52464d5eace6742f949e74",
+    "path": "work/s15/arolsen/control1909_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "9ced56a5e878488fb57c",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T14:56:16.806649+00:00",
+    "status": 200,
+    "bytes": 51462,
+    "sha256": "065fc962248dc1cefdb62533c0190738988bfb2d7803a759cf46b059615aec10",
+    "path": "work/s15/arolsen/control1909_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "27b1e775d01f49738699",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Roman Chmielewski 1919",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T14:56:18.878483+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s15/arolsen/roman1919_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "27b1e775d01f49738699",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T14:56:19.558085+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "fb74d2b65a8a1a3c8e33d270599f1ab7ad2b47dea78613a30fc23177dd142030",
+    "path": "work/s15/arolsen/roman1919_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "27b1e775d01f49738699",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T14:56:20.239076+00:00",
+    "status": 200,
+    "bytes": 675,
+    "sha256": "f59bb914c5b0bc10f5fb71e1a3571a614004b4c8076efc9685663fc8ebf18dae",
+    "path": "work/s15/arolsen/roman1919_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "0b800ab8d0d54c028e4e",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Sabina Chmielewska 1917",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T14:56:20.920961+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s15/arolsen/sabina1917_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "0b800ab8d0d54c028e4e",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T14:56:21.731697+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2",
+    "path": "work/s15/arolsen/sabina1917_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "c16eb345534c465f98f7",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Julianna Chmielewska 1907",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T14:56:22.897294+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s15/arolsen/julianna1907_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "c16eb345534c465f98f7",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T14:56:23.711149+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "fb74d2b65a8a1a3c8e33d270599f1ab7ad2b47dea78613a30fc23177dd142030",
+    "path": "work/s15/arolsen/julianna1907_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "c16eb345534c465f98f7",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T14:56:24.492950+00:00",
+    "status": 200,
+    "bytes": 678,
+    "sha256": "5b64e87597c3b799d6aff437e76ff8c3b0d077c0b310bcdb57e5e52af59fe33a",
+    "path": "work/s15/arolsen/julianna1907_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "20c10724566148f5b482",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Emilia Mandziuk 1904",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T14:56:25.140232+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s15/arolsen/emilia1904_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "20c10724566148f5b482",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T14:56:25.724402+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "f4836a94818e6c30ba915d59cfa788288687e9afd63726ffc2e45122b9beddb2",
+    "path": "work/s15/arolsen/emilia1904_GetCount.json"
+  }
+]

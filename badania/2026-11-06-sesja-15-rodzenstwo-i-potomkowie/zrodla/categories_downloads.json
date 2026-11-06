@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getList&cat_id=4295&recursive=true",
+    "path": "work/s15/tomaszow_categories.json",
+    "status": 200,
+    "bytes": 52179,
+    "sha256": "111eb8d0d22045cd6ad4a68d9afe055ef89ed1cb38b42f84f3c137536be7e620",
+    "utc": "2026-11-06T14:44:17.696616+00:00"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getList&cat_id=5395&recursive=true",
+    "path": "work/s15/garbow.json",
+    "status": 200,
+    "bytes": 41443,
+    "sha256": "89a2942213e31c04129db6253be6fbca702472d1fe7da822aee3f158b7b38bfd",
+    "utc": "2026-11-06T14:44:17.812027+00:00"
+  }
+]
