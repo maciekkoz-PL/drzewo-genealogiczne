@@ -1,0 +1,22 @@
+{
+  "base_commit": "8f4d7c5cc5f035ff51c776d0e16e9f1d6b3e56b8",
+  "existing21sheets_cell_values_preserved": true,
+  "audit_sheets_added": 2,
+  "counts": {
+    "1": {
+      "people": 5,
+      "relations": 5
+    },
+    "2": {
+      "people": 21,
+      "relations": 29
+    },
+    "3": {
+      "people": 47,
+      "relations": 65
+    }
+  },
+  "hypotheses_not_promoted": true,
+  "private_images_and_workbook_not_exported": true,
+  "historical_C43_C44_aliases_not_duplicated": true
+}
