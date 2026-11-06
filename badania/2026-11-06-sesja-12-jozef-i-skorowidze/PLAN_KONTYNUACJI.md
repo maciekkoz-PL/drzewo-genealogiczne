@@ -1,3 +1,5 @@
+**Stan na koniec: wersja16 działa; HTTP200 i zgodnośćHTML potwierdzone, 51kart/75relacji/7wpisów. Badania ae9078e.** [Publikacja](PUBLIKACJA.json), [test strony](WALIDACJA_PUBLICZNA.json).
+
 # Następna sesja — małżonkowie i dzieci rodzeństwa Czesława
 
 1. Punkt wejścia: raporty etapu11 i12, Excel23arkusze oraz aktualne `witryna/publikacja.json`. Emilia P28 jest przyrodnią siostrą Czesława po ojcu, jej mąż P29 to Józef Mandziuk **22.07.1897, Majdan Górny**, rodzice Bartłomiej/Marianna Raczkiewicz. W ślubie ma35lat; wcześniejszy odczyt33 poprawiono Q79. Nie wyliczać mu1899 i nie dopisywać dzieci bez dowodu.

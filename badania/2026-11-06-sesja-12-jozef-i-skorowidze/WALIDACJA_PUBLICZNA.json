@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T13:37:29.214086+00:00",
+  "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
+  "http_status": 200,
+  "live_matches_local": true,
+  "people": 51,
+  "news": 7,
+  "jozef_birth_and_age_verified": true,
+  "parent_lines": 2,
+  "maps_preserved": true,
+  "js_errors": [],
+  "mobile_no_overflow": true,
+  "chromium_ignore_https_errors": true,
+  "network_note": "Chromium wymaga pominięcia weryfikacji CA w środowisku wykonawczym. Wcześniejsza próba urllib w tym środowisku zwróciła HTTP403; tej metody nie powtarzano dla wersji16."
+}

@@ -53,3 +53,11 @@ Excel nadal ma23arkusze. Dodano S161–S166, E065, L131–L136, F103–F108, Q79
 Początkowe pobrania obrazów SwA zwróciły212bajtów HTML zamiast JPEG. Zachowano te odpowiedzi jako historię dostępu, nie jako odczyt skanów. Normalny publiczny podgląd dostarczył później właściwy JPEG27 oraz obrazy40/45 do lokalizacji. Manifest zawiera97metadanych, nie97przeczytanych aktów. Nie kontaktowano się z osobami/instytucjami i nie poniesiono kosztów.
 
 [Manifest104kopii i SHA256](manifest_zrodel_sesji.json), [plan kontynuacji](PLAN_KONTYNUACJI.md). Publikacja poprawionej karty jest dokumentowana oddzielnie po sprawdzeniu rzeczywistego URL.
+
+## Publikacja zakończona
+
+Opublikowano **wersję16**, status succeeded, pod [dotychczasowym adresem](https://korzenie-marysi.maciekkoz187874.chatgpt.site). Karta Józefa zawieraDOB22.07.1897, rodziców, poprawny wiek35 i odnośnik do195/1897. Liczby bez zmian:51osób/75relacji/7krótkich wpisów; potwierdzenie Emilii i ślubu opisuje jeden wpis dodany wwersji15. Samo uzupełnienieDOB jej męża nie tworzy kolejnego drobnego wpisu.
+
+Rzeczywisty URL: HTTP200, bajty zgodne zlokalnymHTML, nowy dokument i data widoczne, linki map i rodziceMarysi zachowani, telefon bez przepełnienia i brak błędówJavaScript. [Metadane](PUBLIKACJA.json), [sprawdzenie publiczne z opisanym ograniczeniem CA środowiska](WALIDACJA_PUBLICZNA.json). OryginalneZIPy,23arkusze, cała gałąź mamy i wszystkie wcześniejsze relacje zachowane — [walidacja](WALIDACJA_DOWODOW.json).
+
+Badania zapisano wcommicie `ae9078e`; publikacja i raport końcowy mają osobny kolejny zapis. Następne kroki: pełne skorowidze1943/1944, rzeczywisty aktGarbów26/1932 i publiczne źródła późniejszych losów/dzieci; nie powtarzać614pozycji1933–1938 ani sprawdzonej bazy komunalnej.
