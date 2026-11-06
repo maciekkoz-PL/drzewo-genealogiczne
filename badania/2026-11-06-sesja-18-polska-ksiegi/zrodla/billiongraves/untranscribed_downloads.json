@@ -1,0 +1,69 @@
+{
+  "ids": [
+    "116164444",
+    "116164424",
+    "116164408",
+    "116164399",
+    "116164397",
+    "116164394",
+    "116164376"
+  ],
+  "images": [
+    {
+      "status": 200,
+      "at_utc": "2026-11-06T18:57:18.246881+00:00",
+      "path": "work/s18/billiongraves/untranscribed_116164444.jpg",
+      "bytes": 1292485,
+      "sha256": "5c1e06474d2d2819e591a5f5935b28052182c0034d8d76f88ab9185a2d275e37",
+      "content_type": "image/jpeg"
+    },
+    {
+      "status": 200,
+      "at_utc": "2026-11-06T18:57:20.847664+00:00",
+      "path": "work/s18/billiongraves/untranscribed_116164424.jpg",
+      "bytes": 1250619,
+      "sha256": "a5f6c87f3b35abc973c755f3ef5eb71a1cac902018ffe3755b61d16d082ecb50",
+      "content_type": "image/jpeg"
+    },
+    {
+      "status": 200,
+      "at_utc": "2026-11-06T18:57:23.555826+00:00",
+      "path": "work/s18/billiongraves/untranscribed_116164408.jpg",
+      "bytes": 1077975,
+      "sha256": "9d0d7565f3f1882703564b4b9318158d477e11f4fa8b8d010d92f20f619ee0c8",
+      "content_type": "image/jpeg"
+    },
+    {
+      "status": 200,
+      "at_utc": "2026-11-06T18:57:25.937385+00:00",
+      "path": "work/s18/billiongraves/untranscribed_116164399.jpg",
+      "bytes": 1449453,
+      "sha256": "e37231555c4b19e0557391678d7e747608fb8379d4d9186f8d610f64eea48c82",
+      "content_type": "image/jpeg"
+    },
+    {
+      "status": 200,
+      "at_utc": "2026-11-06T18:57:28.520235+00:00",
+      "path": "work/s18/billiongraves/untranscribed_116164397.jpg",
+      "bytes": 1099738,
+      "sha256": "4dbb949c9dbe710cecd9b9913b5a928747d06db7c7269f28d6eb166c9f88174f",
+      "content_type": "image/jpeg"
+    },
+    {
+      "status": 200,
+      "at_utc": "2026-11-06T18:57:31.214636+00:00",
+      "path": "work/s18/billiongraves/untranscribed_116164394.jpg",
+      "bytes": 1078026,
+      "sha256": "65b1e61eb4113e97281f726d3d0739c9c4e8ec39c378d1d647b0b40466d20ea5",
+      "content_type": "image/jpeg"
+    },
+    {
+      "status": 200,
+      "at_utc": "2026-11-06T18:57:33.513361+00:00",
+      "path": "work/s18/billiongraves/untranscribed_116164376.jpg",
+      "bytes": 936453,
+      "sha256": "3dd8aef2c97877fd48d58895e9608611abdc28c236103ac6f3e79448be96480d",
+      "content_type": "image/jpeg"
+    }
+  ]
+}

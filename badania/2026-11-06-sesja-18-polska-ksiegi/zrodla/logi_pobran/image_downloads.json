@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/001.jpg",
+    "path": "work/s18/4780_001.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1670422,
+    "sha256": "b26faff6940478cc44c408e1f9bd9ef5ebf18efe53b4f6df4abce91e38fd84ab",
+    "at_utc": "2026-11-06T18:51:04.747359+00:00"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/114.jpg",
+    "path": "work/s18/4780_114.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2002980,
+    "sha256": "6e2bd30a7121ce9792b60479af381705bf6cd56f797c17639f7a9dca90962514",
+    "at_utc": "2026-11-06T18:51:05.536920+00:00"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/115.jpg",
+    "path": "work/s18/4780_115.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1949943,
+    "sha256": "71ad2cf90787bb0e0f9a539bd1b7090ac0644fca571e3a723016c7b5a6a0bae7",
+    "at_utc": "2026-11-06T18:51:06.256287+00:00"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/000.jpg",
+    "path": "work/s18/4328_000.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1812846,
+    "sha256": "6603dc439e7ff21a27c786bdf5ef41fbc0bdf07bd7b547024750aaece4f20b68",
+    "at_utc": "2026-11-06T18:51:07.960301+00:00"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/054.jpg",
+    "path": "work/s18/4328_054.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 695099,
+    "sha256": "d55cfafcf2ee5d83e0c6b21848be488948a1d2e168899435849e1c6b3110774f",
+    "at_utc": "2026-11-06T18:51:08.388986+00:00"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/055.jpg",
+    "path": "work/s18/4328_055.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1864534,
+    "sha256": "fe5fbcf751454718a08f6e19b34496da279e79dfa8168c3a3e4a10505e817b08",
+    "at_utc": "2026-11-06T18:51:09.137810+00:00"
+  }
+]
