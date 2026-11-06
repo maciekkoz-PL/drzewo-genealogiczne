@@ -1,9 +1,9 @@
 {
   "result": "PASS",
-  "at_utc": "2026-11-06T08:04:51.228212+00:00",
-  "full_nodes": 21,
+  "at_utc": "2026-11-06T08:19:39.163530+00:00",
+  "full_nodes": 28,
   "documented_nodes": 13,
-  "maternal_nodes": 4,
+  "maternal_nodes": 11,
   "paternal_full_nodes": 18,
   "news": 5,
   "hypothesis_edges_extended_only": 6,

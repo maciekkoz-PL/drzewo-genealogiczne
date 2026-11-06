@@ -154,3 +154,6 @@ Etap07: [rodzeństwo, C42 i granice dowodu](badania/2026-11-06-sesja-07-rodzenst
 
 
 Etap08: [uzupełnienie rodziców Marii z istniejącego S086 i audyt granic dostępu](badania/2026-11-06-sesja-08-pelne-drzewo/STATUS.md). Rodzeństwo w widoku rozszerzonym pozostaje hipotezami; innych czatówChatGPTnie przeszukano.
+
+
+Nowy pakiet linii mamy: [raport scalenia](badania/2026-11-06-linia-matki/README.md). S127przekazanie; S128odtworzonyodczytnagrobka(bezJPEG); S129przekazrodzinnyRomana/Anny; S130przekazKulasów; S131historycznetropyindeksowe, bezponownejkontroliaktów. Nie są to nowe oględziny fotografii lub skanów.

@@ -1,3 +1,5 @@
+**Nowy pakiet mamy jest już scalony (06.11.2026):** P17/P18/P19bezduplikatów; AndrzejP20,TeresaP21,JózefKulasP22,KonstancjaP23i odrębnehipotezy. Zdjęć nieotrzymano. Marysia centralnie, rodzina taty nad nią, mamy pod nią; dwie linie do rodziców stale widoczne. [Raport i źródła](badania/2026-11-06-linia-matki/README.md), [plan](badania/2026-11-06-linia-matki/PLAN_KONTYNUACJI.md).
+
 **Aktualny zakres widoku (06.11.2026):** obie strony rodziny, rodzeństwo także jako jawne hipotezy i przełącznik udokumentowanych relacji. Dodano rodziców Marii zS086. Inne czaty projektuChatGPTniedostępne; siostry zTczewa do identyfikacji, bez zgadywania nazwisk. [Stan i granice](badania/2026-11-06-sesja-08-pelne-drzewo/STATUS.md), [kontynuacja](badania/2026-11-06-sesja-08-pelne-drzewo/PLAN_KONTYNUACJI.md).
 
 **Publiczne drzewo zaktualizowane o akt66/1940:** osobna karta możliwego brata Bogusława i krótki wpis, pokrewieństwo niepotwierdzone. [Zmiana](witryna/AKTUALIZACJA_2026-11-06.md).

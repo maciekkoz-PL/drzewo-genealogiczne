@@ -5,6 +5,7 @@ const byId=Object.fromEntries(D.people.map(p=>[p.id,p]));
 const dt=s=>new Intl.DateTimeFormat('pl-PL',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Warsaw'}).format(new Date(s));
 const labels={document:'Dokument',identity:'Identyfikacja w toku',family:'Przekaz rodzinny',candidate:'Pokrewieństwo do sprawdzenia'};
 const edgeLabels={parent:'Rodzice Marysi — potwierdzone przez rodzinę',document:'Rodzicielstwo wskazane w dokumencie',marriage:'Małżeństwo potwierdzone dokumentem',identity:'Tożsamość pary wymaga dodatkowego potwierdzenia',family:'Relacja z przekazu rodzinnego',sibling:'Rodzeństwo z przekazu rodzinnego',hypothesis:'Hipoteza rodzeństwa — niepotwierdzona'};
+Object.assign(edgeLabels,{hypothesis_parent:'Możliwy rodzic — hipoteza ze wspólnego grobu',identity_candidate:'Możliwa tożsamość — osoby nie zostały scalone',family_marriage:'Małżeństwo według przekazu rodzinnego'});
 const normalize=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ł/g,'l');
 let currentPeople=[],currentEdges=[],positions={},scale=1,width=1540,height=1080,offsetX=0,offsetY=0;
 $('updated').textContent='Aktualizacja: '+dt(D.generated);
@@ -60,13 +61,13 @@ function renderTree(){
  let lane=0;
  for(const [a,b,kind] of currentEdges){
   const A=positions[a],B=positions[b];let d;
-  if(kind==='hypothesis'){
+  if(['hypothesis','identity_candidate'].includes(kind)){
    const top=Math.min(A.y,B.y)-22-(lane++%3)*12;
    d=`M${A.x+120},${A.y} V${top} H${B.x+120} V${B.y}`;
   }else if(kind==='marriage'&&A.y!==B.y){
    const rail=Math.max(...currentPeople.filter(p=>positions[p.id].y>=Math.min(A.y,B.y)&&positions[p.id].y<=Math.max(A.y,B.y)).map(p=>positions[p.id].x+240))+60;
    d=`M${A.x+240},${A.y+66} H${rail} V${B.y+66} H${B.x+240}`;
-  }else if(kind==='marriage'||kind==='sibling'){
+  }else if(['marriage','sibling','family_marriage'].includes(kind)){
    const left=A.x<B.x?A:B,right=left===A?B:A;
    d=`M${left.x+240},${left.y+66} L${right.x},${right.y+66}`;
   }else{
@@ -74,9 +75,10 @@ function renderTree(){
    d=`M${x},${y} V${y+(Y-y)*.5} H${X} V${Y}`;
   }
   const path=document.createElementNS('http://www.w3.org/2000/svg','path');path.setAttribute('d',d);path.setAttribute('fill','none');
-  path.setAttribute('stroke',['identity','hypothesis'].includes(kind)?'#ab7d3e':['family','sibling'].includes(kind)?'#8c9896':kind==='marriage'?'#8e859e':'#729b7c');
-  path.setAttribute('stroke-width',kind==='parent'?'3':'1.7');path.dataset.kind=kind;path.dataset.from=a;path.dataset.to=b;
-  if(['identity','family','sibling','hypothesis'].includes(kind))path.setAttribute('stroke-dasharray',kind==='hypothesis'?'2 6':'6 5');
+  path.setAttribute('stroke',['identity','hypothesis','hypothesis_parent','identity_candidate'].includes(kind)?'#ab7d3e':['family','sibling','family_marriage'].includes(kind)?'#8c9896':kind==='marriage'?'#8e859e':'#729b7c');
+  path.setAttribute('stroke-width',kind==='parent'?'2.5':'1.7');path.dataset.kind=kind;path.dataset.from=a;path.dataset.to=b;
+  if(kind==='parent'){path.setAttribute('stroke','#2b6c59');path.setAttribute('vector-effect','non-scaling-stroke')}
+  if(['identity','family','sibling','hypothesis','family_marriage','hypothesis_parent','identity_candidate'].includes(kind))path.setAttribute('stroke-dasharray',kind.startsWith('hypothesis')?'2 6':'6 5');
   const title=document.createElementNS('http://www.w3.org/2000/svg','title');title.textContent=edgeLabels[kind];path.appendChild(title);$('lines').appendChild(path);
  }
  $('view-note').textContent=documented?'Rodzice Marysi oraz udokumentowane powiązania.':'Marysia w centrum · rodzina taty u góry, rodzina mamy na dole.';
@@ -91,7 +93,7 @@ function openPerson(id){
  }
  const relatives=currentEdges.filter(e=>e[0]===id||e[1]===id).map(e=>({id:e[0]===id?e[1]:e[0],kind:e[2]}));
  const unique=[...new Map(relatives.map(r=>[r.id,r])).values()];
- $('detail').innerHTML=`<div class="eyebrow">${esc(labels[p.status])}</div><h2>${esc(p.name)}</h2><p class="detail-dates">${esc(p.dates)}</p><p>${esc(p.place)}</p><p class="detail-note">${esc(p.note)}</p>${unique.length?`<h3>Powiązane osoby</h3><div class="related">${unique.map(r=>`<button class="pill" data-open="${r.id}">${esc(byId[r.id].name)}${r.kind==='hypothesis'?' · hipoteza':r.kind==='identity'?' · identyfikacja w toku':['family','sibling'].includes(r.kind)?' · przekaz rodzinny':''}</button>`).join('')}</div>`:''}<h3>Podstawa informacji</h3>${p.source.map(sid=>{const s=D.sources[sid];return `<div class="source">${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:`<strong>${esc(s.title)}</strong>`}${s.description?`<p>${esc(s.description)}</p>`:''}</div>`}).join('')}`;
+ $('detail').innerHTML=`<div class="eyebrow">${esc(labels[p.status])}</div><h2>${esc(p.name)}</h2><p class="detail-dates">${esc(p.dates)}</p><p>${esc(p.place)}</p><p class="detail-note">${esc(p.note)}</p>${unique.length?`<h3>Powiązane osoby</h3><div class="related">${unique.map(r=>`<button class="pill" data-open="${r.id}">${esc(byId[r.id].name)}${['hypothesis','hypothesis_parent','identity_candidate'].includes(r.kind)?' · hipoteza':r.kind==='identity'?' · identyfikacja w toku':['family','sibling','family_marriage'].includes(r.kind)?' · przekaz rodzinny':''}</button>`).join('')}</div>`:''}<h3>Podstawa informacji</h3>${p.source.map(sid=>{const s=D.sources[sid];return `<div class="source">${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:`<strong>${esc(s.title)}</strong>`}${s.description?`<p>${esc(s.description)}</p>`:''}</div>`}).join('')}`;
  $('detail').querySelectorAll('[data-open]').forEach(b=>b.onclick=()=>openPerson(b.dataset.open));
  if(!$('person').open)$('person').showModal();location.hash='osoba-'+id;
  $('people').value=id;

@@ -1,0 +1,73 @@
+{
+  "result": "PASS",
+  "baseline_before_import": "3d1c014",
+  "sheets": 21,
+  "existing_relations_events_candidates_unchanged": true,
+  "resolved_hypotheses_unchanged": true,
+  "raw_archive_files_byte_equal": 12,
+  "original_jpeg_received": false,
+  "source_ids_added": [
+    "S127",
+    "S128",
+    "S129",
+    "S130",
+    "S131"
+  ],
+  "family_people_added": [
+    "P20",
+    "P21",
+    "P22",
+    "P23"
+  ],
+  "existing_people_merged": [
+    "P17",
+    "P18",
+    "P19"
+  ],
+  "new_candidates": [
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+  ],
+  "C45_not_merged_with_P19": true,
+  "generic_validation": {
+    "ZRODLA_I_SKANY": 131,
+    "KANDYDACI_I_HOMONIMY": 55,
+    "RELACJE": 34,
+    "ZDARZENIA_I_FAKTY": 49,
+    "DZIENNIK_KWEREND": 107,
+    "PLIKI_DOWODOWE": 75,
+    "KOREKTY_I_SPRZECZNOSCI": 64,
+    "ZADANIA_AGENTA": 28
+  },
+  "view_validation": {
+    "result": "PASS",
+    "at_utc": "2026-11-06T08:19:39.163530+00:00",
+    "full_nodes": 28,
+    "documented_nodes": 13,
+    "maternal_nodes": 11,
+    "paternal_full_nodes": 18,
+    "news": 5,
+    "hypothesis_edges_extended_only": 6,
+    "candidate_identities_not_promoted": true,
+    "H017_edges_hidden_in_documented_view": true,
+    "maternal_parentage_source_S086": true,
+    "Marysia_centered_desktop_mobile": true,
+    "father_family_above_mother_family_below": true,
+    "parents_connected_in_all_evidence_modes": true,
+    "dialog_navigation_search_and_390px_checked": true,
+    "javascript_errors": []
+  },
+  "workbook_sha256": "1b140007a13a6638eb52fcdceeddb70403ff5f1f6ff5fa7b39452c501ae5d3f7",
+  "new_zip_sha256": "db15a31e152ed39268386887731a2e2fcf35853c4b2b8a57f74ba74d4a6a9f7d"
+}
