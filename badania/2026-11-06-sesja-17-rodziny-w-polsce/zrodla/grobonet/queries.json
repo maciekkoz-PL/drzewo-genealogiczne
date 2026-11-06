@@ -1,0 +1,71 @@
+[
+  {
+    "key": "emilia",
+    "url": "https://grobonet.com/wyszukiwanie?imie=Emilia&nazw=Mandziuk",
+    "parameters": {
+      "imie": "Emilia",
+      "nazw": "Mandziuk"
+    },
+    "at_utc": "2026-11-06T18:15:40.552953+00:00",
+    "status": 200,
+    "title": "Wybierz województwo — Grobonet.com",
+    "sha256": "7407f12fcc85843313837eaa073dd2f6820f7c52b55111042de0f2aacebec54f",
+    "text_bytes": 1344
+  },
+  {
+    "key": "jozef1897",
+    "url": "https://grobonet.com/wyszukiwanie?imie=J%C3%B3zef&nazw=Mandziuk&rok_ur=1897",
+    "parameters": {
+      "imie": "Józef",
+      "nazw": "Mandziuk",
+      "rok_ur": "1897"
+    },
+    "at_utc": "2026-11-06T18:15:42.420856+00:00",
+    "status": 200,
+    "title": "Wybierz województwo — Grobonet.com",
+    "sha256": "79ea0910cabcd2313a47058739782daab98997371572d6946a56fc629b00f47b",
+    "text_bytes": 1410
+  },
+  {
+    "key": "sabina1917",
+    "url": "https://grobonet.com/wyszukiwanie?imie=Sabina&nazw=Chmielewska&rok_ur=1917",
+    "parameters": {
+      "imie": "Sabina",
+      "nazw": "Chmielewska",
+      "rok_ur": "1917"
+    },
+    "at_utc": "2026-11-06T18:15:43.613194+00:00",
+    "status": 200,
+    "title": "Wybierz województwo — Grobonet.com",
+    "sha256": "78466352ceb57b5a1462b68d10749f1eef5941404097e0690643efb7e16f22b0",
+    "text_bytes": 1410
+  },
+  {
+    "key": "julianna1907",
+    "url": "https://grobonet.com/wyszukiwanie?imie=Julianna&nazw=Chmielewska&rok_ur=1907",
+    "parameters": {
+      "imie": "Julianna",
+      "nazw": "Chmielewska",
+      "rok_ur": "1907"
+    },
+    "at_utc": "2026-11-06T18:15:44.850796+00:00",
+    "status": 200,
+    "title": "Wybierz województwo — Grobonet.com",
+    "sha256": "90b760219dcdd124b0e740f23f1ce252081699170a9153741be8988e7486f406",
+    "text_bytes": 1410
+  },
+  {
+    "key": "czeslawa_lodz",
+    "url": "https://grobonet.com/wyszukiwanie?imie=Czes%C5%82awa&nazw=Chmielewska&miasto=%C5%81%C3%B3d%C5%BA",
+    "parameters": {
+      "imie": "Czesława",
+      "nazw": "Chmielewska",
+      "miasto": "Łódź"
+    },
+    "at_utc": "2026-11-06T18:15:45.911721+00:00",
+    "status": 200,
+    "title": "Wybierz cmentarz — Grobonet.com",
+    "sha256": "90c14c7ef9dafb065eb461c82b43f3aeb779148f34d8fc97bbbdf72fec035d5b",
+    "text_bytes": 1342
+  }
+]

@@ -1,3 +1,22 @@
+## Etap 17 — polskie gałęzie rodzeństwa Czesława, 06.11.2026
+
+Najnowszy zakres: Polska, dzieci/wnuki, bez wiadomości do osób lub instytucji. **Nie odnaleziono jeszcze nowego potwierdzonego żyjącego krewnego wPolsce.** Raport: [STATUS.md](badania/2026-11-06-sesja-17-rodziny-w-polsce/STATUS.md), szczegółowy [plan](badania/2026-11-06-sesja-17-rodziny-w-polsce/PLAN_KONTYNUACJI.md).
+
+- S205: MyHeritage, zgodne roczniki pary i ślub1932 w indeksie, ale brak pełnego rekordu/autora/dzieci; agregat imienników i blokada zwykłego odczytu.
+- S206: Bełżec2021/2022, indeksowana paraEmilia/Józef bezdat; strona zawieszona, pełne stare wpisy nieodczytane. H045.
+- S207: Geneteka,27żądań zkontrolą74/1932;21regionów oraz66/66lubelskichmałżeństw, bezdzieckaP28/P29. BMandziuk0, Chmielewski31surowychwierszy bezrodziny. Brak windeksie nie dowodzi bezdzietności.
+- S208: LubgensTomaszów1281indeksówurodzeń, faktycznie1920–1923, bezChmiel… iWincenty/Agnieszka. Nie cała dekada.
+- S209: MonitorPolski581/1997,str1170,493/494: Sabina c.Franciszka wykluczona jakoP26c.Wincentego. C97. To inny dokument niżS043.
+- S210: GłosNauczycielski1950nr4,str3: EmiliaMandziuk/Gończyce bezDOB/rodziny; nie zidentyfikowana jakoP28.
+- S211: PełnePDFDziejeTomaszów/Susiec, odczyttrafień, niecałychksiążek. JózefŁosiniec1941 bezDOB/żony; współcześniMandziukowie nieuznani za krewnych.
+- S212: Przysucha/Mandziuk53/1908: unit10505176,88/639/0/-/33,manifest162obrazów. TrzyodpowiedziHTMLIncapsula nie są skanami. Aktnieodczytany.
+- S213: GrobonetPolska,5właściwychkwerend znegatywnymwynikiem oraz kontrolaDylkiewicz1907pozytywna. Jan/Siedlnica — odrzuconeparametry, nie wynik0.
+- S214: Dwa cmentarzeTczewa, imionaJulianna/Sabina/Julia,12stronwyników zpełnąpaginacją.4kartybezDOB i8/8zdjęć obejrzano; brakidentyfikacjiP27. BrakzgodnegoDOBSabiny; Łuczak1916/Dylkiewicz20.01.1907niepasują.
+- S215: Ponownyodczyt istniejącegoS153: świadekMarcinPrzysucha61,nieMarian; Q81. Beznowegopokrewieństwa.
+- S216: Wyszukiwarki iFirecrawlbasic, parametry/wyniki/logi wsesji17. Dodatkowo metadane skorowidza mieszkańcówTomaszowa1926,88/24/0/-/245,unit10446043,34obrazy; nazwisk nieodczytano. Brakadresata do kontaktu; żadnych wiadomości. Bełżec eCmentarze bezinwentaryzacji to nie wykonana kwerenda osób.
+
+Oryginały, logi, ograniczenia odczytu i SHA256: `badania/2026-11-06-sesja-17-rodziny-w-polsce/`. Starsze zakresy poniżej pozostają historyczne. Publicznego drzewa71/96/9 nie zmieniono, gdyż nie potwierdzono nowego rodzinnego przełomu.
+
 # Rejestr zbadanych źródeł i prób dostępu
 
 Najnowszy etap: [australijscy bracia i potomkowie Raya](badania/2026-11-06-sesja-16-australia/STATUS.md), S195–S204. Dokładne daty dwóch braci i rodzina z2020; identyfikacja gałęzi zMarysią nadalH035, aktualnego życia nowej osoby nie potwierdzono. Starsze opisy są historyczne.

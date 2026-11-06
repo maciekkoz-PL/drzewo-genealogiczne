@@ -1,0 +1,34 @@
+[
+  {
+    "name": "śp. JULIANNA SOKOŁOWSKA",
+    "key": "card_41542",
+    "url": "https://swjozeftczew.grobonet.com/osoba/41542",
+    "at_utc": "2026-11-06T18:19:27.772737+00:00",
+    "status": 200,
+    "sha256": "4702de9635859e028cf0df7007fad81f792d114dd0fbfe9f3bd1ecf8c805673d"
+  },
+  {
+    "name": "śp. JULIANNA GRIECH",
+    "key": "card_40862",
+    "url": "https://swjozeftczew.grobonet.com/osoba/40862",
+    "at_utc": "2026-11-06T18:19:30.214814+00:00",
+    "status": 200,
+    "sha256": "3738005ee3176af664b716cfcb06e076d0011d1610fd65e8050751f4b338d78b"
+  },
+  {
+    "name": "śp. JULIANNA CHYŁA",
+    "key": "card_42017",
+    "url": "https://swjozeftczew.grobonet.com/osoba/42017",
+    "at_utc": "2026-11-06T18:19:31.725464+00:00",
+    "status": 200,
+    "sha256": "2d95ab27dd14ae25fa3dea76f73a767640fcaa7e3f0e9386e9fec5af519b8239"
+  },
+  {
+    "name": "śp. JULIANNA SZARMACH",
+    "key": "card_40032",
+    "url": "https://swjozeftczew.grobonet.com/osoba/40032",
+    "at_utc": "2026-11-06T18:19:32.900535+00:00",
+    "status": 200,
+    "sha256": "b768b1d5e19cdb5ab664cde15a885df378b2d0e3b4b56e57d6ccc5b643950a8f"
+  }
+]

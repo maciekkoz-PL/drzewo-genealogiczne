@@ -1,0 +1,32 @@
+{
+  "note": "Cztery dodatkowe kwerendy nazwisk z kart bez DOB. Brak identyfikatora rodzinnego. Dane kontaktowe niepowiązanych osób pominięte.",
+  "calls": [
+    {
+      "key": "s17_fourjulianna0",
+      "result": {
+        "data": {}
+      }
+    },
+    {
+      "key": "s17_fourjulianna1",
+      "result": {
+        "data": {
+          "web": [],
+          "ignored_reason": "Niepowiązane wyniki people-search z USA; nie otwierano, nie utrwalono danych kontaktowych."
+        }
+      }
+    },
+    {
+      "key": "s17_fourjulianna2",
+      "result": {
+        "data": {}
+      }
+    },
+    {
+      "key": "s17_fourjulianna3",
+      "result": {
+        "data": {}
+      }
+    }
+  ]
+}
