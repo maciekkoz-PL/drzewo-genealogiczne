@@ -38,3 +38,5 @@ Odtworzono działający link do znanego opracowania o ewidencji ludności (S024)
 ## Zakres i zapis
 
 Nie zmieniono osób w rdzeniu, potwierdzonych pokrewieństw ani faktów rodzinnych; H017 pozostaje otwarta. Strona publiczna pozostaje przy trzech przełomowych odkryciach — nowe lokalizacje katalogowe i wykluczenia nie są nowym pokrewieństwem ani odczytanym aktem Bogusława. Nie wysyłano wiadomości do osób lub instytucji, nie składano wniosków, nie zlecano usług, nie płacono. Surowe odpowiedzi oraz błędy zachowano z manifestemSHA256.
+
+Końcowa kontrola alternatywnych kopii: trzy zapytania o sygnatury/zakres990/1943 poza SwA nie dały zidentyfikowanej publicznej kopii. PoczekalniaPTG niedostępna zarówno w połączeniu bezpośrednim (tunel403), jak przez narzędzie web. Nie przeszukano jej katalogu i nie uznano niedostępności za dowód braku skanów. Zachowano `web/s06_alternative_copies.json`.

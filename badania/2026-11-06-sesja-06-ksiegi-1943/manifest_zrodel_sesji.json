@@ -708,5 +708,10 @@
     "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/witnica_dob.png",
     "size": 100298,
     "sha256": "bce4d6128f64c7ee46edf26e94e3e668dac43089ae716e2a7c0c2016f8bdfba0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_alternative_copies.json",
+    "size": 23636,
+    "sha256": "36c172f7d0520625406d5bbcca0d4d70f4f214496bba4ceeec2f01f61e33aebd"
   }
 ]

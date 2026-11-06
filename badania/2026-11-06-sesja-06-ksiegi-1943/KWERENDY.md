@@ -76,3 +76,11 @@ Dokładne odpowiedzi i parametry zachowano w zrodla/web/. Brak trafienia wyszuki
 ## WBP i pobrania
 
 Dokładne URL, czas UTC, status i SHA256 są w plikach *_jobs.json.results.json. Cztery wąskie frazy bez linków publikacji; trzy szerokie kwerendy mają tylko pierwsze strony odczytane. Wąski wynik1970 zweryfikowany jako dwie różne osoby.
+
+## Kontrola alternatywnych kopii
+
+- "Łódź" "990" "Geburtenbuch"
+- "Litzmannstadt" "2401" "3000"
+- "2736" "1943" "skany" -site:szukajwarchiwach.gov.pl -site:scribd.com
+
+PoczekalniaPTG: otwarcie niedostępne, bez odczytu katalogu.

@@ -3,11 +3,11 @@
   "sheets": 21,
   "sources": 121,
   "candidates": 41,
-  "research_log": 92,
+  "research_log": 93,
   "corrections": 58,
   "catalogue_rows_unique": 1076,
-  "manifest_files": 142,
+  "manifest_files": 143,
   "family_relationships_and_events_unchanged": true,
   "website_unchanged_no_new_family_breakthrough": true,
-  "workbook_sha256": "0c2963da9cabd09cef6edb0df4b1ec5dc4b5042ca93dc6c91e37125b74d61f8c"
+  "workbook_sha256": "c3113c5718ee8be8120b478f95f0477eaafa4c99e8fcb2b77f4854690fff15db"
 }
