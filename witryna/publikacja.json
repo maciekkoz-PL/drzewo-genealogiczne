@@ -2,22 +2,21 @@
   "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
   "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
   "access_mode": "public",
-  "version_number": 18,
-  "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_16273ad8e6808191ae631009dd145674",
-  "deployment_id": "appgdep_6aede5f8ad7c819186204a87c1d71dbc",
+  "version_number": 19,
+  "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_71315269f99481919d3724fa6fe20bc0",
+  "deployment_id": "appgdep_6aedf38d551081919f512c94b051a1c8",
   "status": "succeeded",
-  "source_commit_sha": "07bd8ca809f681d63a5323d8d3e745a7ff027e52",
-  "updated_at": "2026-11-06T14:36:51.756836+00:00",
-  "html_sha256": "750d0f7c71374a8f41163230c4a13a67de72b69854a8571fbb269f033be58e83",
+  "source_commit_sha": "5d141f5b968a7fd569e2c2d59bb88d3b155f7e1b",
+  "updated_at": "2026-11-06T15:34:49.866390+00:00",
+  "html_sha256": "c319c71d3bb51cdb945f3afa178eebcf8e3f44985f77986cae9f01ada3b4ba64",
   "archive_storage": {
     "archive_format": "tar",
-    "sediment_file_id": "file_00000000c640820aa03969400b1ed4f9",
-    "content_hash": "sha256:dfaab17602a8fc9a91e8f4ba75fc2e1fe9a033b02914d16ab5a52268fce6b24a",
-    "size_bytes": 133120,
+    "sediment_file_id": "file_000000003148820ab2da5d715a17250e",
+    "content_hash": "sha256:d3847fe63dfebbe6d45e4472343cfc12ed4ee8e12ea3778e67b762613c6ed00f",
+    "size_bytes": 143360,
     "file_count": 2
   },
-  "publication_note": "Pierwszy save_site_version zwrócił Internal error; lista wersji potwierdziła brak nowej wersji. Ponowienie zapisało18, następnie wdrożono tę dokładną wersję.",
   "http_status": 200,
   "live_matches_local": true,
-  "verified_at_utc": "2026-11-06T14:37:16.641276+00:00"
+  "verified_at_utc": "2026-11-06T15:35:06.494870+00:00"
 }

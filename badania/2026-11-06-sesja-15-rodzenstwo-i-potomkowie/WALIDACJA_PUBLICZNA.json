@@ -1,0 +1,38 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T15:35:06.494870+00:00",
+  "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
+  "html_sha256": "c319c71d3bb51cdb945f3afa178eebcf8e3f44985f77986cae9f01ada3b4ba64",
+  "people": 55,
+  "edges": 79,
+  "news": 8,
+  "levels": [
+    {
+      "level": 1,
+      "people": 17,
+      "edges": 27
+    },
+    {
+      "level": 2,
+      "people": 28,
+      "edges": 41
+    },
+    {
+      "level": 3,
+      "people": 55,
+      "edges": 79
+    }
+  ],
+  "P12_C69_separate": true,
+  "current_life_uncertainty_visible": true,
+  "source_links_present": true,
+  "new_cards_no_overlap": true,
+  "parent_lines": 2,
+  "maps_and_maternal_branch_preserved": true,
+  "mobile_no_overflow": true,
+  "js_errors": [],
+  "http_status": 200,
+  "live_matches_local": true,
+  "chromium_ignore_https_errors": true,
+  "network_note": "Chromium wymaga pominięcia weryfikacji CA w środowisku; test treści i interakcji nie jest audytem certyfikatu."
+}
