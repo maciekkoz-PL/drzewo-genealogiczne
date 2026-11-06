@@ -151,3 +151,6 @@ Etap07: [rodzeństwo, C42 i granice dowodu](badania/2026-11-06-sesja-07-rodzenst
 - S124: Monitor Polski — trzy nowe dokumenty odznaczeń — Czesław synJana/Czesława oraz Czesław synKlemensa/Genowefa nie są parą1936. Edward/Czesława to także inna para. Nie dodano do rodziny.
 - S125: Wyszukiwanie publicznych wzmianek o Witoldzie, Piotrze i wariancie Poprawska — Znany artykuł o Piotrze nie dostarcza rodziców ani powiązania z Bogusławem. Pozostałe wyniki ogólne i medalowe; brak nowego zidentyfikowanego pokrewieństwa. Nie jest to wyczerpująca kwerenda ujemna.
 - S126: Czesław Chmielewski — zgon dziecka, Łódź św. Anna 66/1940 — Zgon03.02.1940godz7, osiem dni, Łódź,Napiórkowskiego112; synCzesława i Janiny z Poprawskich. Akt05.02godz12. Brak wieku/DOB rodziców, brak Bogusława. Nazwisko matki w samym akcie Poprawskich, nie wolno poprawić naPoprawka bez dodatkowego dowodu.
+
+
+Etap08: [uzupełnienie rodziców Marii z istniejącego S086 i audyt granic dostępu](badania/2026-11-06-sesja-08-pelne-drzewo/STATUS.md). Rodzeństwo w widoku rozszerzonym pozostaje hipotezami; innych czatówChatGPTnie przeszukano.

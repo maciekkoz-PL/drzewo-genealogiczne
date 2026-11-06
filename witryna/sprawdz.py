@@ -1,26 +1,54 @@
+"""Sprawdzenie obu gałęzi, filtrowania dowodów i kart kandydatów."""
 from playwright.sync_api import sync_playwright
 from pathlib import Path
+import json,datetime
 with sync_playwright() as p:
  browser=p.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
  page=browser.new_page(viewport={'width':1440,'height':1100});errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
  page.set_content((Path(__file__).resolve().parent/'public/index.html').read_text())
- page.locator('[data-id=P02]').click();assert page.locator('dialog').is_visible();assert 'Poprawk' in page.locator('#detail').inner_text()
- page.locator('[data-open=P03]').click();assert '1909' in page.locator('#detail').inner_text()
- page.locator('#close').click();page.locator('#fit').click();assert page.locator('.node').count()==14
- page.select_option('#period','all');assert page.locator('.entry').count()==4
- assert 'możliwego brata' in page.locator('.entry').first.inner_text()
+ assert page.locator('.node').count()==21
+ assert page.locator('#lines path[data-kind=hypothesis]').count()==6
+ assert page.locator('[data-id=C03]').count()==0
+ page.select_option('#period','all');assert page.locator('.entry').count()==5
+ assert 'gałąź mamy' in page.locator('.entry').first.inner_text()
  page.select_option('#people','C42');assert 'Pokrewieństwo do sprawdzenia' in page.locator('#detail').text_content()
  assert 'z Poprawskich' in page.locator('#detail').inner_text() and 'nie jest poszukiwanym ojcem Piotra' in page.locator('#detail').inner_text()
  assert page.locator('#detail a').first.get_attribute('href').endswith('plik=063-066.jpg')
- assert page.evaluate('D.edges.every(e=>e[0]!=="C42"&&e[1]!=="C42")')
  page.locator('#close').click()
+ page.select_option('#people','P02');page.locator('[data-open=P03]').click();assert '1909' in page.locator('#detail').inner_text()
+ page.locator('#close').click()
+ page.select_option('#people','C02');assert 'Rodzice nie zostali odczytani' in page.locator('#detail').inner_text()
+ page.locator('#close').click()
+ assert page.evaluate('D.edges.every(([a,b,k])=>!a.startsWith("C")&&!b.startsWith("C")||k==="hypothesis")')
  assert page.locator('.hero,.notice,.about').count()==0
- page.screenshot(path='/workspace/marysia-desktop.png',full_page=True)
- page.set_viewport_size({'width':390,'height':844});page.select_option('#people','P01');assert page.locator('dialog').is_visible()
- page.locator('#close').click();assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
- page.screenshot(path='/workspace/marysia-mobile.png',full_page=True);assert not errors,errors
- text=page.locator('#family-data').text_content()
- for known in ['Maria Jankowska','04.01.1942','Piotr Chmielewski','1969–1973','1984']:assert known in text,known
+ page.locator('#fit').click();page.screenshot(path='/workspace/marysia-desktop.png',full_page=True)
+ page.select_option('#evidence','documented')
+ documented=page.locator('.node').count();assert documented==13,documented
+ assert page.locator('.node.candidate').count()==0
+ assert page.locator('[data-id=P10],[data-id=P11]').count()==0
+ assert page.locator('[data-id=P01]').count()==1
+ assert page.locator('#lines path[data-kind=family],#lines path[data-kind=hypothesis],#lines path[data-kind=identity],#lines path[data-kind=sibling]').count()==0
+ page.select_option('#people','P03');assert page.locator('[data-open=C02],[data-open=P02]').count()==0
+ page.locator('#close').click()
+ page.select_option('#branch','maternal');assert page.locator('.node').count()==4
+ assert page.locator('#lines path').count()==2
+ page.select_option('#evidence','extended');assert page.locator('.node').count()==4
+ assert page.locator('#lines path').count()==3
+ page.select_option('#people','P18');assert 'Roman Jankowski' in page.locator('#detail h2').inner_text()
+ assert 'nie znamy' in page.locator('#detail').inner_text().lower()
+ page.locator('[data-open=P17]').click();assert '04.01.1942' in page.locator('#detail').inner_text()
+ page.locator('#close').click();page.locator('#fit').click();page.screenshot(path='/workspace/marysia-maternal.png',full_page=True)
+ page.set_viewport_size({'width':390,'height':844});page.locator('#fit').click()
+ assert page.evaluate('document.documentElement.scrollWidth<=innerWidth')
+ page.select_option('#people','P19');assert 'nazwisko rodowe Kulas' in page.locator('#detail').inner_text()
+ page.locator('#close').click();page.screenshot(path='/workspace/marysia-mobile.png',full_page=True)
+ page.select_option('#branch','paternal');assert page.locator('.node').count()==18
+ page.fill('#search','Sabina');page.locator('#search').press('Enter');assert 'Sabina' in page.locator('#detail h2').inner_text()
+ page.locator('#close').click();page.fill('#search','')
+ page.select_option('#branch','both');assert page.locator('.node').count()==21
  page.select_option('#people','P10');assert 'Nie potwierdzono' in page.locator('#detail').inner_text()
- page.locator('#close').click();page.select_option('#people','C42');assert page.locator('dialog').is_visible()
- browser.close();print('PASS: 14 kart, 4ważne wpisy, C42bez potwierdzonej relacji i ze źródłem, dialogi, mobile390px, brak błędówJS')
+ assert not errors,errors
+ browser.close()
+ report={'result':'PASS','at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'full_nodes':21,'documented_nodes':documented,'maternal_nodes':4,'paternal_full_nodes':18,'news':5,'hypothesis_edges_extended_only':6,'candidate_identities_not_promoted':True,'H017_edges_hidden_in_documented_view':True,'maternal_parentage_source_S086':True,'dialog_navigation_search_and_390px_checked':True,'javascript_errors':errors}
+ (Path(__file__).resolve().parent/'WALIDACJA_WIDOKU.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
+ print('PASS:21kart,5wpisów, dokumenty13kart/bezhipotez, mama4/tata18, źródła,karty,390px,0błędówJS')

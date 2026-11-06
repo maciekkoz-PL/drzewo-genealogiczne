@@ -1,0 +1,100 @@
+const D=JSON.parse(document.getElementById('family-data').textContent);
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const byId=Object.fromEntries(D.people.map(p=>[p.id,p]));
+const dt=s=>new Intl.DateTimeFormat('pl-PL',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Warsaw'}).format(new Date(s));
+const labels={document:'Dokument',identity:'Identyfikacja w toku',family:'Przekaz rodzinny',candidate:'Pokrewieństwo do sprawdzenia'};
+const edgeLabels={document:'Rodzicielstwo wskazane w dokumencie',marriage:'Małżeństwo potwierdzone dokumentem',identity:'Tożsamość pary wymaga dodatkowego potwierdzenia',family:'Relacja z przekazu rodzinnego',sibling:'Rodzeństwo z przekazu rodzinnego',hypothesis:'Hipoteza rodzeństwa — niepotwierdzona'};
+const normalize=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ł/g,'l');
+let currentPeople=[],currentEdges=[],positions={},scale=1,width=1540,height=1080;
+$('updated').textContent='Aktualizacja: '+dt(D.generated);
+
+function filteredPeople(){
+ const documented=$('evidence').value==='documented',branch=$('branch').value;
+ return D.people.filter(p=>(branch==='both'||p.branch==='both'||p.branch===branch)&&(!documented||p.evidence==='document'||p.id==='P01'));
+}
+function zoom(v){
+ scale=Math.max(.2,Math.min(1.8,v));
+ $('canvas').style.transform=`scale(${scale})`;
+ $('sizer').style.width=width*scale+'px';$('sizer').style.height=height*scale+'px';
+}
+function fit(){
+ const minHeight=innerWidth<700?420:490,maxHeight=Math.min(900,Math.max(minHeight,innerHeight-240));
+ zoom(Math.min($('viewport').clientWidth/width,maxHeight/height,1));
+ $('viewport').style.height=Math.max(minHeight,Math.min(maxHeight,height*scale+20))+'px';$('viewport').scrollTo(0,0);
+}
+function renderTree(){
+ currentPeople=filteredPeople();const ids=new Set(currentPeople.map(p=>p.id));
+ const documented=$('evidence').value==='documented';
+ currentEdges=D.edges.filter(([a,b,kind])=>ids.has(a)&&ids.has(b)&&(!documented||['document','marriage'].includes(kind)));
+ $('canvas').querySelectorAll('.node').forEach(n=>n.remove());$('lines').replaceChildren();
+ const minX=Math.min(...currentPeople.map(p=>p.x))-40;
+ const minY=Math.min(...currentPeople.map(p=>p.y))-40;
+ width=Math.max(800,Math.max(...currentPeople.map(p=>p.x))-minX+280);
+ height=Math.max(520,Math.max(...currentPeople.map(p=>p.y))-minY+240);
+ $('canvas').style.width=width+'px';$('canvas').style.height=height+'px';
+ $('lines').style.width=width+'px';$('lines').style.height=height+'px';$('lines').setAttribute('viewBox',`0 0 ${width} ${height}`);
+ $('people').innerHTML='<option value="">Wybierz osobę, aby zobaczyć szczegóły</option>';
+ for(const p of currentPeople){
+  positions[p.id]={x:p.x-minX,y:p.y-minY};const pos=positions[p.id];
+  const b=document.createElement('button');b.className='node '+p.status;b.dataset.id=p.id;b.style.left=pos.x+'px';b.style.top=pos.y+'px';
+  b.setAttribute('aria-label','Szczegóły: '+p.name);b.innerHTML=`<span class="badge">${esc(labels[p.status])}</span><span class="name">${esc(p.name)}</span><small>${esc(p.role)}</small><div class="dates">${esc(p.dates)}</div>`;
+  b.onclick=()=>openPerson(p.id);$('canvas').appendChild(b);
+  const o=document.createElement('option');o.value=p.id;o.textContent=p.name+(p.status==='candidate'?' · hipoteza':'');$('people').appendChild(o);
+ }
+ let lane=0;
+ for(const [a,b,kind] of currentEdges){
+  const A=positions[a],B=positions[b];let d;
+  if(kind==='hypothesis'){
+   const top=Math.min(A.y,B.y)-22-(lane++%3)*12;
+   d=`M${A.x+120},${A.y} V${top} H${B.x+120} V${B.y}`;
+  }else if(kind==='marriage'||kind==='sibling'){
+   const left=A.x<B.x?A:B,right=left===A?B:A;
+   d=`M${left.x+240},${left.y+66} L${right.x},${right.y+66}`;
+  }else{
+   const x=A.x+120,y=A.y+document.querySelector(`[data-id="${a}"]`).offsetHeight,X=B.x+120,Y=B.y;
+   d=`M${x},${y} V${y+(Y-y)*.5} H${X} V${Y}`;
+  }
+  const path=document.createElementNS('http://www.w3.org/2000/svg','path');path.setAttribute('d',d);path.setAttribute('fill','none');
+  path.setAttribute('stroke',['identity','hypothesis'].includes(kind)?'#ab7d3e':['family','sibling'].includes(kind)?'#8c9896':kind==='marriage'?'#8e859e':'#729b7c');
+  path.setAttribute('stroke-width','1.7');path.dataset.kind=kind;path.dataset.from=a;path.dataset.to=b;
+  if(['identity','family','sibling','hypothesis'].includes(kind))path.setAttribute('stroke-dasharray',kind==='hypothesis'?'2 6':'6 5');
+  const title=document.createElementNS('http://www.w3.org/2000/svg','title');title.textContent=edgeLabels[kind];path.appendChild(title);$('lines').appendChild(path);
+ }
+ $('view-note').textContent=documented?'Tylko udokumentowane relacje; Marysia pozostaje punktem odniesienia.':'Przerywane połączenia oznaczają przekaz rodzinny lub niepotwierdzone pokrewieństwo.';
+ applySearch();fit();
+}
+function openPerson(id){
+ const p=byId[id];if(!p)return;
+ if(!currentPeople.some(x=>x.id===id)){
+  if(p.evidence!=='document'&&id!=='P01')$('evidence').value='extended';
+  if($('branch').value!=='both'&&p.branch!=='both'&&p.branch!==$('branch').value)$('branch').value='both';
+  renderTree();
+ }
+ const relatives=currentEdges.filter(e=>e[0]===id||e[1]===id).map(e=>({id:e[0]===id?e[1]:e[0],kind:e[2]}));
+ const unique=[...new Map(relatives.map(r=>[r.id,r])).values()];
+ $('detail').innerHTML=`<div class="eyebrow">${esc(labels[p.status])}</div><h2>${esc(p.name)}</h2><p class="detail-dates">${esc(p.dates)}</p><p>${esc(p.place)}</p><p class="detail-note">${esc(p.note)}</p>${unique.length?`<h3>Powiązane osoby</h3><div class="related">${unique.map(r=>`<button class="pill" data-open="${r.id}">${esc(byId[r.id].name)}${r.kind==='hypothesis'?' · hipoteza':r.kind==='identity'?' · identyfikacja w toku':['family','sibling'].includes(r.kind)?' · przekaz rodzinny':''}</button>`).join('')}</div>`:''}<h3>Podstawa informacji</h3>${p.source.map(sid=>{const s=D.sources[sid];return `<div class="source">${s.url?`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`:`<strong>${esc(s.title)}</strong>`}${s.description?`<p>${esc(s.description)}</p>`:''}</div>`}).join('')}`;
+ $('detail').querySelectorAll('[data-open]').forEach(b=>b.onclick=()=>openPerson(b.dataset.open));
+ if(!$('person').open)$('person').showModal();location.hash='osoba-'+id;
+ $('people').value=id;
+ const pos=positions[id];$('viewport').scrollTo({left:Math.max(0,(pos.x+120)*scale-$('viewport').clientWidth/2),top:Math.max(0,(pos.y+70)*scale-$('viewport').clientHeight/2)});
+}
+function applySearch(){
+ const q=normalize($('search').value);
+ $('canvas').querySelectorAll('.node').forEach(b=>{const p=byId[b.dataset.id];b.style.opacity=!q||normalize(p.name+' '+p.role).includes(q)?'1':'.25'});
+}
+function changeView(){if($('person').open)$('close').click();renderTree()}
+$('evidence').onchange=changeView;$('branch').onchange=changeView;
+$('close').onclick=()=>{$('person').close();location.hash='drzewo'};
+$('person').addEventListener('click',e=>{if(e.target===$('person'))$('close').click()});
+$('people').onchange=e=>{if(e.target.value)openPerson(e.target.value)};
+$('plus').onclick=()=>zoom(scale+.15);$('minus').onclick=()=>zoom(scale-.15);$('fit').onclick=fit;
+$('search').oninput=applySearch;
+$('search').onkeydown=e=>{if(e.key==='Enter'){e.preventDefault();const q=normalize(e.target.value),p=currentPeople.find(p=>normalize(p.name+' '+p.role).includes(q));if(p)openPerson(p.id)}};
+function renderNews(){
+ const week=$('period').value==='week',cutoff=Date.now()-7*86400000;
+ const news=D.news.filter(n=>!week||new Date(n.at).getTime()>=cutoff).sort((a,b)=>new Date(b.at)-new Date(a.at));
+ $('news').innerHTML=news.length?news.map(n=>`<article class="entry"><time datetime="${esc(n.at)}">${dt(n.at)}</time><div><h3>${esc(n.title)}</h3><p>${esc(n.body)}</p></div></article>`).join(''):'<p class="empty">Brak nowych zapisów w ostatnich 7 dniach. Wybierz „Wszystkie”, aby zobaczyć wcześniejsze odkrycia.</p>';
+}
+$('period').onchange=renderNews;renderNews();renderTree();
+const match=location.hash.match(/^#osoba-([PC]\d+)$/);if(match&&byId[match[1]])openPerson(match[1]);

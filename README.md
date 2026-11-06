@@ -1,3 +1,5 @@
+**Aktualny zakres widoku (06.11.2026):** obie strony rodziny, rodzeństwo także jako jawne hipotezy i przełącznik udokumentowanych relacji. Dodano rodziców Marii zS086. Inne czaty projektuChatGPTniedostępne; siostry zTczewa do identyfikacji, bez zgadywania nazwisk. [Stan i granice](badania/2026-11-06-sesja-08-pelne-drzewo/STATUS.md), [kontynuacja](badania/2026-11-06-sesja-08-pelne-drzewo/PLAN_KONTYNUACJI.md).
+
 **Publiczne drzewo zaktualizowane o akt66/1940:** osobna karta możliwego brata Bogusława i krótki wpis, pokrewieństwo niepotwierdzone. [Zmiana](witryna/AKTUALIZACJA_2026-11-06.md).
 
 **Aktualny priorytet po zmianie decyzji użytkownika:** rodzeństwo Bogusława i połączenie z Piotrem. Dokument taty ma uzupełnić rodzina; H017 pozostaje otwarta, bez blokowania innych kwerend. [Zakres](badania/2026-11-06-sesja-07-rodzenstwo/ZMIANA_PRIORYTETU.md). Nowy kandydat: dzieckoCzesław zmarłe1940, niepołączone z rodziną — [wynik i ograniczenia](badania/2026-11-06-sesja-07-rodzenstwo/STATUS.md), [plan](badania/2026-11-06-sesja-07-rodzenstwo/PLAN_KONTYNUACJI.md).

@@ -20,7 +20,8 @@ Repozytorium źródłowe hostingu:
 
 ## Granice widoku
 
-- 14 kart:13wcześniejszych osób oraz osobna karta C42, z wyraźnym statusem „Pokrewieństwo do sprawdzenia”, bez linii łączącej ją z rodziną. Dane wybrane ręcznie, bez automatycznego eksportu homonimów i kandydatów z Excela.
+- Pełny widok ma21kart: dotychczasowe osoby, rodzice MariiRomanJankowski/AnnaKulas oraz wybrane kandydatury rodzeństwaC02/C04/C11/C25/C26/C42. Linie hipotez są kropkowane i opisane w kartach; nie tworzą potwierdzonych relacji w Excelu. C03wykluczona jako pełna siostraCzesława i pozostałe przypadkowe homonimy nie są dodane. Dane wybrane ręcznie.
+- Przełącznik „Udokumentowane” pokazuje12osób mających dane w dokumentach oraz Marysię jako punkt odniesienia. Usuwa nieudokumentowane relacje, rodzinne i hipotetyczne, w tym krawędzieH017doBogusława. Osoba z dokumentem nie oznacza, że każda jej data i relacja są potwierdzone; gwiazdki i przekazy rodzinne w kartach pozostają jawne. Wybór strony rodziny ogranicza widok do mamy/taty lub obu gałęzi.
 - Marysia: imię i przybliżony rok urodzenia z przekazu (pełne imię/nazwisko nieustalone). Maria Jankowska: dane z odpisu, z odrębnym statusem macierzyństwa. Piotr Chmielewski: imię/nazwisko, oszacowanie daty i kontekst rodzinny; bez połączenia z kandydatem z prasy. Nieznany brat Bogusława pozostaje bez imienia.
 - Własny odpis Bogusława dokumentuje nazwiska rodziców. Przypisanie dokładnych dat1909/1910 i starszej gałęzi nadal H017: komunikat na stronie, bursztynowe krawędzie, gwiazdki przy datach i szczegółowy opis kart.
 - Daty zgonu Bogusława oraz częściowo Tomasza mają status rodzinnego przekazu. Pole nazwiska przyszłych dzieci w odpisie ślubu nie zostało użyte jako dowód pochodzenia Marysi.
@@ -28,4 +29,6 @@ Repozytorium źródłowe hostingu:
 
 Sprawdzono w Chromium widok1440px i390px, otwieranie kart i przechodzenie po powiązaniach, filtrowanie kroniki, brak błędów JavaScript i obecność znanych danych krewnych wraz z oznaczeniami niepewności.
 
-Aktualny układ: samo drzewo, krótkie oznaczenia dowodów i cztery ważne wpisy. Najnowszy dotyczy odczytanego aktu66/1940 i nie potwierdza jeszcze braterstwa. Szczegóły są w kartach osób; nagłówek pokazuje datę wygenerowania strony.
+Aktualny układ: samo drzewo, filtry dowodu i strony rodziny, krótkie oznaczenia oraz pięć ważnych wpisów. Najnowszy dotyczy uzupełnienia znanych danych rodziców Marii zS086, bez deklarowania odnalezienia nowego aktu. Informacja o akcie66/1940 nadal nie potwierdza braterstwa. Szczegóły i źródła w kartach, nagłówek z datą wygenerowania.
+
+Nie ma dostępu do innych czatów projektuChatGPT. Audyt repo i11XLSX nie odnalazł sióstr zTczewa; nie przypisano miejscowości żadnej kandydatce. Po otrzymaniu treści tamtego wątku uzupełnić obie gałęzie, zachowując źródło i status. Zobacz etap08 w badaniach. Rozmowy lub dokumenty rodzinne nie są automatycznie publikowane.
