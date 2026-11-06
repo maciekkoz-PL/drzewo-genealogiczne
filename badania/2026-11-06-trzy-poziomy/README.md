@@ -1,3 +1,5 @@
+**Korekta filtra:** własne akty osób nie są ukrywane przez H017. Widok udokumentowany:12osób i16linii, w tym2przerywane łączniki identyfikacji w toku. [Wyjaśnienie](KOREKTA_FILTRA.md).
+
 # Trzy poziomy wiarygodności
 
 Audyt bazuje na 8f4d7c5cc5f035ff51c776d0e16e9f1d6b3e56b8. Zachowano21dotychczasowych arkuszy i dodano dwa arkusze audytu (łącznie23), bez zmiany historycznych rekordów. Pełne tabele: [osoby](AUDYT_OSOB.csv), [relacje](AUDYT_RELACJI.csv). Identyfikatory V oznaczają wyłącznie krawędzie wizualizacji, nie potwierdzone relacje produkcyjne.

@@ -17,9 +17,12 @@ with sync_playwright() as p:
     assert prior<=ids;prior=ids;assert 'P01' in ids,(width,branch,level,ids,errors)
     expected=page.evaluate('([l,branch])=>D.people.filter(p=>p.level<=l&&(branch==="both"||p.branch==="both"||p.branch===branch)).length',[level,branch])
     assert len(ids)==expected,(width,branch,level,len(ids),expected)
+    if branch in ['both','paternal'] and level==1:
+     assert {'P03','P04','P05','P06','P07','P08','P12'}<=ids
+     assert page.locator('#lines path[data-kind=identity]').count()==2
     assert page.locator('#lines path[data-kind=parent]').count()==(2 if branch=='both' else 1)
     for line in page.locator('#lines path').all():
-     lev=int(line.get_attribute('data-level'));assert lev<=level
+     lev=int(line.get_attribute('data-level'));assert lev<=level or (line.get_attribute('data-kind')=='identity' and level==1)
      assert line.get_attribute('stroke-dasharray')=={1:None,2:'6 5',3:'2 6'}[lev]
     assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),(width,branch,level)
     page.select_option('#people','P01');assert 'wyjątek rodzinny' in page.locator('#detail').inner_text();page.locator('#close').click()

@@ -42,4 +42,4 @@ Odczytano katalog49jednostek zespołu88/639/0. Rocznik1917 ma późniejsze mater
 
 Excel: P26/P27, S147/S148, R030–R035, E058/E059, L119–L121, F93–F95, Q74. C04/C02 pozostały aliasami, nie duplikatami nowych osób. H026/H027 zapisują rozstrzygnięcie dawnych kandydatur; H017/H019 nadal otwarte. Zachowano23arkusze i równoległe prace nad trzema poziomami wiarygodności. Nie kontaktowano się z osobami lub instytucjami.
 
-Przy aktualizacji strony relacje między odczytanymi osobami mają podstawę w aktach; prezentacja tej gałęzi w kontekście Marysi pozostaje na poziomie2 z powodu H017. Nie przenosić automatycznie całej gałęzi do poziomu1. [Plan kontynuacji](PLAN_KONTYNUACJI.md), [manifestSHA256](manifest_zrodel_sesji.json).
+Przy aktualizacji strony relacje między odczytanymi osobami mają podstawę w aktach; osoby z własnymi aktami pojawiają się na poziomie1, zgodnie z równoległą korektą filtra1693e07. NiepewnośćH017 pozostaje wyłącznie przy łącznikach doBogusława, bez awansu do udokumentowanej identyfikacji tych dat. [Plan kontynuacji](PLAN_KONTYNUACJI.md), [manifestSHA256](manifest_zrodel_sesji.json).
