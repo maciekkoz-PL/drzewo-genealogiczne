@@ -107,6 +107,10 @@ const siblingPairs=new Set(['P03|P26','P03|P27','P03|P28']);
 function relativeLabel(personId,relative){
  const other=relative.id,female=femaleIds.has(other),edge=D.edges.find(e=>(e[0]===personId&&e[1]===other)||(e[1]===personId&&e[0]===other));
  const pair=edge[0]+'|'+edge[1],kind=edge[2];
+ const relation=relationByPair[pair];
+ // Ogłoszenie łączy dzieci z ich partnerami; nie podaje rodziców wnuków.
+ if(/^R0(4[7-9]|5[0-2])$/.test(relation.id))return personId==='C79'?'dziecko lub partner dziecka:':'rodzic lub teść:';
+ if(/^R05[3-9]$/.test(relation.id))return personId==='C79'?'wnuk lub wnuczka:':'dziadek według ogłoszenia:';
  if(kind==='identity_candidate')return 'możliwa tożsamość:';
  if(kind==='hypothesis_marriage')return female?'możliwa żona':'możliwy mąż';
  if(['marriage','family_marriage'].includes(kind))return female?'żona':'mąż';
@@ -122,12 +126,15 @@ function relativeLabel(personId,relative){
 function relativeStatus(personId,relative){
  const r=D.relations.find(r=>(r.a===personId&&r.b===relative.id)||(r.b===personId&&r.a===relative.id));
  if(relative.kind==='identity')return 'identyfikacja w toku';
+ if(relative.kind==='identity_candidate')return r?.level===2?'identyfikacja bardzo prawdopodobna':'hipoteza';
  if(r?.level===3)return 'hipoteza';
  if(r?.level===2)return 'przekaz rodzinny';
  return '';
 }
 const portrait=p=>p.photo?`<div class="portrait">${p.photo.viewBox?`<svg viewBox="${esc(p.photo.viewBox)}" role="img" aria-label="Portret: ${esc(p.name)}"><image href="${esc(p.photo.src)}" width="${p.photo.width}" height="${p.photo.height}" /></svg>`:`<img src="${esc(p.photo.src)}" alt="Portret: ${esc(p.name)}" loading="lazy">`}</div>`:'';
+femaleIds.add('C81'); // Rose jest wymieniona jako żona Raya.
 function openPerson(id){
+ if(id==='C69')id='P12';
  const p=byId[id];if(!p)return;
  if(!currentPeople.some(x=>x.id===id)){
   selectedLevel=Math.max(selectedLevel,p.level);syncLevels();
@@ -164,5 +171,4 @@ function renderNews(){
  $('news').innerHTML=news.length?news.map(n=>`<article class="entry"><time datetime="${esc(n.at)}">${dt(n.at)}</time><div><h3>${esc(n.title)}</h3><p>${esc(n.body)}</p></div></article>`).join(''):'<p class="empty">Brak nowych zapisów w ostatnich 7 dniach. Wybierz „Wszystkie”, aby zobaczyć wcześniejsze odkrycia.</p>';
 }
 $('period').onchange=renderNews;renderNews();renderTree();
-const match=location.hash.match(/^#osoba-([PC]\d+)$/);if(match&&byId[match[1]])openPerson(match[1]);
-
+const match=location.hash.match(/^#osoba-([PC]\d+)$/);if(match&&(byId[match[1]]||match[1]==='C69'))openPerson(match[1]);

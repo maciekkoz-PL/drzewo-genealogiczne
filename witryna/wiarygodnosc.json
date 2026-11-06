@@ -160,12 +160,16 @@
       "id": "P12",
       "name": "Roman Chmielewski",
       "role": "Brat Czesława",
-      "dates": "Ur. 06.06.1919",
-      "place": "Rogóźno",
-      "note": "Syn Wincentego i Agnieszki Miszczyszyn. Braterstwo z Czesławem potwierdzono przez porównanie obu aktów urodzenia. Roman nie jest bratem Bogusława. Nowy trop australijski: emigrant Roman o tej samej dacie urodzenia (06.06.1919) miał żonę Annę i synów Romana (1946) oraz Ernesta (1947). Pokazano go osobno jako C69. Nie znamy jego rodziców; tożsamość z bratem Czesława pozostaje niepotwierdzona (H035).",
+      "dates": "Ur. 06.06.1919 · Australia od 1950",
+      "place": "Rogóźno · Berri, Australia (1950)",
+      "note": "Syn Wincentego i Agnieszki Miszczyszyn, brat Czesława. Zgodnie z decyzją użytkownika przyjęto, że Roman z australijskich dokumentów migracyjnych to ta sama osoba: zgadzają się imię, nazwisko i pełna data urodzenia 06.06.1919. Przyjechał do Australii 30.01.1950 z żoną Anną oraz synami Romanem (1946) i Ernestem (1947); 14.02.1950 skierowano go do Berri. Identyfikacja jest prawdopodobna i przyjęta roboczo, nie potwierdzona dodatkowym dokumentem z rodzicami; zapis miejsca „Rezegno” pozostaje niewyjaśniony. W razie nowych dowodów można rozdzielić wpisy. Zdjęcie pochodzi z karty migracyjnej.",
       "source": [
         "S061",
-        "S071"
+        "S071",
+        "S182",
+        "S183",
+        "S185",
+        "S199"
       ],
       "x": 540,
       "y": 280,
@@ -176,15 +180,35 @@
       "level": 1,
       "connectionLevel": 2,
       "classificationReason": "Osoba ma własny odczytany akt. H017 dotyczy wyłącznie łącznika z Bogusławem, nie unieważnia jej dokumentów ani lokalnych relacji.",
-      "missing": "Dokument łączący brata Czesława z emigrantem C69 przez rodziców lub inny niezależny identyfikator; ustalenie późniejszych losów domniemanych potomków.",
-      "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
+      "missing": "Dodatkowy dokument potwierdzający identyfikację australijską przez rodziców lub inny niezależny identyfikator; późniejsze losy.",
+      "dataEvidence": "Urodzenie i rodzice: S061/S071. Pobyt australijski, zdjęcie i rodzina: S182–S185; przypisanie przyjęte roboczo na podstawie zgodnych imienia, nazwiska i pełnej daty urodzenia.",
       "locations": [
         {
           "label": "Rogóźno",
           "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+        },
+        {
+          "label": "Berri",
+          "query": "Berri, South Australia, Australia"
         }
       ],
-      "addresses": []
+      "addresses": [
+        {
+          "label": "Berri, South Australia, Australia",
+          "when": "14.02.1950",
+          "context": "Skierowanie do Australian Dried Fruits Association, Berri, SA, zapisane na karcie migracyjnej.",
+          "source": "S183",
+          "query": "Berri, South Australia, Australia"
+        }
+      ],
+      "photo": {
+        "src": "assets/roman-australia-naa.jpg",
+        "source": "S183",
+        "caption": "Roman Chmielewski — fotografia z karty migracyjnej, 1950. National Archives of Australia, A2571, CHMIELEWSKI ROMAN."
+      },
+      "aliases": [
+        "C69"
+      ]
     },
     {
       "id": "P03",
@@ -1606,71 +1630,28 @@
       "addresses": []
     },
     {
-      "id": "C69",
-      "name": "Roman Chmielewski — Australia",
-      "role": "Możliwy brat Czesława — osobny rekord",
-      "dates": "Ur.06.06.1919 · Australia od1950",
-      "place": "Berri,Australia ·1950",
-      "note": "Dokumenty migracyjne wymieniają Romana Chmielewskiego, ur. 06.06.1919, żonę Annę i synów Romana oraz Ernesta. Przybył do Australii 30.01.1950; w lutym 1950 skierowano go do Berri. Pełna data urodzenia zgadza się z bratem Czesława (P12), ale nie znamy rodziców emigranta, a jego miejsce urodzenia zapisano „Rezegno”. Nie potwierdzono, że chodzi o Rogóźno. Tożsamość obu Romanów pozostaje hipotezą H035.",
-      "source": [
-        "S182",
-        "S183",
-        "S185"
-      ],
-      "x": -1080,
-      "y": 280,
-      "status": "candidate",
-      "branch": "paternal",
-      "evidence": "hypothesis",
-      "identityLevel": 3,
-      "level": 3,
-      "connectionLevel": 3,
-      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
-      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
-      "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
-      "locations": [
-        {
-          "label": "Berri",
-          "query": "Berri, South Australia, Australia"
-        }
-      ],
-      "addresses": [
-        {
-          "label": "Berri, South Australia, Australia",
-          "when": "14.02.1950",
-          "context": "Skierowanie do Australian Dried Fruits Association, Berri, SA, zapisane na karcie migracyjnej.",
-          "source": "S183",
-          "query": "Berri, South Australia, Australia"
-        }
-      ],
-      "photo": {
-        "src": "assets/roman-australia-naa.jpg",
-        "source": "S183",
-        "caption": "Roman Chmielewski — fotografia z karty migracyjnej, 1950. National Archives of Australia, A2571, CHMIELEWSKI ROMAN."
-      }
-    },
-    {
       "id": "C70",
       "name": "Anna Chmielewski",
       "role": "Żona emigranta Romana",
       "dates": "Ur.19.02.1929",
       "place": "Melk,Austria",
-      "note": "Karta emigranta Romana wymienia ją wprost jako żonę. Lista transportowa podaje datę 19.02.1929 i miejsce Melk w Austrii. Nazwisko rodowe nieznane; dokument używa formy Chmielewski. Nie utożsamiono jej z ciocią Czesią ani Hanną z ogłoszeń z 2003 r. Jej późniejsze losy i związek z rodziną Marysi pozostają nieustalone.",
+      "note": "Karta emigranta Romana wymienia ją wprost jako żonę. Lista transportowa podaje datę 19.02.1929 i miejsce Melk w Austrii. Nazwisko rodowe nieznane; dokument używa formy Chmielewski. Nie utożsamiono jej z ciocią Czesią ani Hanną z ogłoszeń z 2003 r. Jej późniejsze losy i związek z rodziną Marysi pozostają nieustalone. Nowy trop: Anna Theresia Chmielewski, zmarła 07.02.1987 w wieku 57 lat, jest w rejestrze tego samego grobu co Roman i Ernest. Wiek pasuje do Anny z 1929 r., lecz pełnej daty urodzenia nie podano. Rekord C96 pozostaje osobno (H042); nie przypisano Annie tego zgonu jako pewnego.",
       "source": [
         "S182",
         "S183",
-        "S185"
+        "S185",
+        "S199"
       ],
       "x": -1340,
       "y": 280,
-      "status": "candidate",
+      "status": "family",
       "branch": "paternal",
-      "evidence": "hypothesis",
-      "identityLevel": 3,
-      "level": 3,
-      "connectionLevel": 3,
-      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
-      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
+      "evidence": "probable",
+      "identityLevel": 2,
+      "level": 2,
+      "connectionLevel": 2,
+      "classificationReason": "Prawdopodobna gałąź australijska Romana P12; identyfikację przyjęto roboczo na życzenie użytkownika na podstawie zgodnego imienia, nazwiska i pełnej daty urodzenia.",
+      "missing": "Dodatkowe potwierdzenie identyfikacji australijskiej Romana P12; późniejsze losy.",
       "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
       "locations": [],
       "addresses": []
@@ -1681,21 +1662,23 @@
       "role": "Syn emigranta Romana",
       "dates": "Ur.06.10.1946",
       "place": "Austria · Mildura,Australia1950",
-      "note": "Własna karta migracyjna podaje datę 06.10.1946 i ojca Romana. Przyjechał do Australii 30.01.1950; w kwietniu skierowano go do ośrodka w Mildurze. Lista podaje miejsce urodzenia Austria/Scheibbe. Karta zawiera fotografię dziecka i podpis Anny. Nie ustalono, czy obecnie żyje. Jeśli emigrant okaże się bratem Czesława, Roman byłby kuzynem Bogusława. To połączenie nadal wymaga dowodu.",
+      "note": "Własna karta migracyjna podaje datę 06.10.1946 i ojca Romana. Przyjechał do Australii 30.01.1950; w kwietniu skierowano go do ośrodka w Mildurze. Lista podaje miejsce urodzenia Austria/Scheibbe. Karta zawiera fotografię dziecka i podpis Anny. Nie ustalono, czy obecnie żyje. Przy przyjętej identyfikacji ojca Roman jest kuzynem Bogusława. Połączenie przyjęto roboczo na podstawie zgodnej daty urodzenia ojca. Bardzo prawdopodobny późniejszy ślad to Ray / Raymond Chmielewski, 06.10.1946–19.11.2020, z bratem Erniem o dacie urodzenia zgodnej z Ernestem z tej rodziny. Ray ma osobną kartę C79 i wymienioną w nekrologu rodzinę. Nie odczytano dokumentu łączącego imiona Roman i Raymond; H040 pozostaje otwarta.",
       "source": [
         "S182",
-        "S184"
+        "S184",
+        "S196",
+        "S197"
       ],
       "x": -1340,
       "y": 560,
-      "status": "candidate",
+      "status": "family",
       "branch": "paternal",
-      "evidence": "hypothesis",
-      "identityLevel": 3,
-      "level": 3,
-      "connectionLevel": 3,
-      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
-      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
+      "evidence": "probable",
+      "identityLevel": 2,
+      "level": 2,
+      "connectionLevel": 2,
+      "classificationReason": "Prawdopodobna gałąź australijska Romana P12; identyfikację przyjęto roboczo na życzenie użytkownika na podstawie zgodnego imienia, nazwiska i pełnej daty urodzenia.",
+      "missing": "Dodatkowe potwierdzenie identyfikacji australijskiej Romana P12; późniejsze losy.",
       "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
       "locations": [
         {
@@ -1715,7 +1698,7 @@
       "photo": {
         "src": "assets/roman-syn-naa.jpg",
         "source": "S184",
-        "caption": "Roman Chmielewski (ur. 06.10.1946) — fotografia z karty migracyjnej z 1950 r. National Archives of Australia, A2571, item 203670397. Pokrewieństwo z rodziną Marysi pozostaje hipotezą H035.",
+        "caption": "Roman Chmielewski (ur. 06.10.1946) — fotografia z karty migracyjnej z 1950 r. National Archives of Australia, A2571, item 203670397. Pokrewieństwo z rodziną Marysi przyjęto roboczo na podstawie zgodnej daty urodzenia ojca.",
         "viewBox": "2480 100 650 880",
         "width": 3200,
         "height": 2000
@@ -1727,23 +1710,413 @@
       "role": "Syn emigranta Romana",
       "dates": "Ur.20.11.1947",
       "place": "Austria · transport doAustralii1950",
-      "note": "Syn emigranta Romana według jego karty. Lista transportowa i australijski katalog podają datę 20.11.1947 oraz miejsce Austria/Scheibbe. Imię zapisano jako Ernest lub Ernst. Nie ustalono, czy obecnie żyje. Wpis pogrzebu Erniego w Geelong z 2024 r. nie podaje daty urodzenia ani krewnych, więc nie utożsamiono tych osób. Potencjalne pokrewieństwo z Marysią zależy od hipotezy H035.",
+      "note": "Syn emigranta Romana według jego karty. Lista transportowa i australijski katalog podają datę 20.11.1947 oraz miejsce Austria/Scheibbe. Imię zapisano jako Ernest lub Ernst. Nie ustalono, czy obecnie żyje. Wpis pogrzebu Erniego w Geelong z 2024 r. nie podaje daty urodzenia ani krewnych, więc nie utożsamiono tych osób. Potencjalne pokrewieństwo z Marysią zależy od hipotezy H035. Pełne ogłoszenie Erniego C75 podaje dokładnie 20.11.1947–27.11.2024; te daty potwierdza też rejestr cmentarny. Nekrolog jego brata Raya podaje datę 06.10.1946 zgodną z Romanem z tej rodziny. H036 jest teraz bardzo prawdopodobna, ale C72 i C75 zachowano osobno; zgonu nie przypisano automatycznie temu rekordowi.",
       "source": [
         "S182",
         "S183",
-        "S185"
+        "S185",
+        "S195",
+        "S196",
+        "S199"
       ],
       "x": -1080,
+      "y": 560,
+      "status": "family",
+      "branch": "paternal",
+      "evidence": "probable",
+      "identityLevel": 2,
+      "level": 2,
+      "connectionLevel": 2,
+      "classificationReason": "Prawdopodobna gałąź australijska Romana P12; identyfikację przyjęto roboczo na życzenie użytkownika na podstawie zgodnego imienia, nazwiska i pełnej daty urodzenia.",
+      "missing": "Dodatkowe potwierdzenie identyfikacji australijskiej Romana P12; późniejsze losy.",
+      "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C75",
+      "name": "Ernest (Ernie) Chmielewski — nekrolog",
+      "role": "Bardzo prawdopodobny późniejszy rekord Ernesta C72",
+      "dates": "20.11.1947 – 27.11.2024",
+      "place": "Geelong, Australia",
+      "note": "Pełne ogłoszenie i rejestr cmentarny podają te same daty urodzenia i śmierci. Pogrzeb odbył się 06.12.2024. W nekrologu z 2020 r. Ernie nazywa Raya swoim bratem. Obaj mają daty urodzenia zgodne z synami emigranta z 1950 r.; to bardzo mocna przesłanka H036/H040. Rekord pozostaje osobno od C72. Nie znamy rodziców z nekrologu ani pewnego połączenia z Marysią.",
+      "source": [
+        "S195",
+        "S196",
+        "S199"
+      ],
+      "x": -1080,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C79",
+      "name": "Raymond (Ray, Chima) Chmielewski",
+      "role": "Bardzo prawdopodobny późniejszy rekord Romana C71",
+      "dates": "06.10.1946 – 19.11.2020",
+      "place": "Geelong dawniej · Nerang: pogrzeb",
+      "note": "Nekrolog od brata Erniego podaje pełną datę urodzenia zgodną z Romanem C71. Ogłoszenie pogrzebowe nazywa go Raymondem (Chima), dawniej z Geelong. Żona: Rose. Dzieci i ich partnerzy wymienieni wspólnie parami: Michelle/Chris, Simone/Nikki, Nicole/Dean. Wnuki: Rebecca, Robert, Max, Ebony, Tori, Marcus, Stella; ich rodziców nie wskazano. Wzmianka o prawnukach bez imion. Pogrzeb 27.11.2020 w Allambe, Nerang. Nie odczytano dokumentu łączącego imiona Roman i Raymond; identyfikacja H040 i połączenie z Marysią pozostają niepotwierdzone.",
+      "source": [
+        "S196",
+        "S197"
+      ],
+      "x": -1860,
       "y": 560,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
-      "identityLevel": 3,
+      "identityLevel": 2,
       "level": 3,
       "connectionLevel": 3,
-      "classificationReason": "Fakty rodziny źródłowej potwierdzają dokumenty migracyjne. Przypisanie do rodzinyMarysi zależy odnierozstrzygniętej identyfikacjiP12=C69; nie scalać rekordów.",
-      "missing": "Niezależny łącznikP12=C69 i potwierdzenie późniejszych losów; dokument z1950 nie potwierdza życia w2026.",
-      "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C81",
+      "name": "Rose — nazwisko niepodane",
+      "role": "Żona Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Rodzinne ogłoszenie wprost nazywa Raya mężem Rose. Nie podaje jej nazwiska ani daty urodzenia. Nie przypisano jej macierzyństwa wobec dzieci Raya. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -2120,
+      "y": 560,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C82",
+      "name": "Michelle — nazwisko niepodane",
+      "role": "Krąg dzieci i ich partnerów Raya · Michelle/Chris",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "W ogłoszeniu Raya z 2020 r. wymieniono wspólnie parę Michelle/Chris wśród jego dzieci i ich partnerów. Nie rozstrzygnięto, kto w tej parze jest dzieckiem Raya, a kto partnerem jego dziecka. Nie znamy nazwiska ani dat tej osoby; nie przypisano jej rodzicielstwa wobec wymienionych wnuków. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -2640,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C83",
+      "name": "Chris — nazwisko niepodane",
+      "role": "Krąg dzieci i ich partnerów Raya · Michelle/Chris",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "W ogłoszeniu Raya z 2020 r. wymieniono wspólnie parę Michelle/Chris wśród jego dzieci i ich partnerów. Nie rozstrzygnięto, kto w tej parze jest dzieckiem Raya, a kto partnerem jego dziecka. Nie znamy nazwiska ani dat tej osoby; nie przypisano jej rodzicielstwa wobec wymienionych wnuków. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -2380,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C84",
+      "name": "Simone — nazwisko niepodane",
+      "role": "Krąg dzieci i ich partnerów Raya · Simone/Nikki",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "W ogłoszeniu Raya z 2020 r. wymieniono wspólnie parę Simone/Nikki wśród jego dzieci i ich partnerów. Nie rozstrzygnięto, kto w tej parze jest dzieckiem Raya, a kto partnerem jego dziecka. Nie znamy nazwiska ani dat tej osoby; nie przypisano jej rodzicielstwa wobec wymienionych wnuków. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -2120,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C85",
+      "name": "Nikki — nazwisko niepodane",
+      "role": "Krąg dzieci i ich partnerów Raya · Simone/Nikki",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "W ogłoszeniu Raya z 2020 r. wymieniono wspólnie parę Simone/Nikki wśród jego dzieci i ich partnerów. Nie rozstrzygnięto, kto w tej parze jest dzieckiem Raya, a kto partnerem jego dziecka. Nie znamy nazwiska ani dat tej osoby; nie przypisano jej rodzicielstwa wobec wymienionych wnuków. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -1860,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C86",
+      "name": "Nicole — nazwisko niepodane",
+      "role": "Krąg dzieci i ich partnerów Raya · Nicole/Dean",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "W ogłoszeniu Raya z 2020 r. wymieniono wspólnie parę Nicole/Dean wśród jego dzieci i ich partnerów. Nie rozstrzygnięto, kto w tej parze jest dzieckiem Raya, a kto partnerem jego dziecka. Nie znamy nazwiska ani dat tej osoby; nie przypisano jej rodzicielstwa wobec wymienionych wnuków. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -1600,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C87",
+      "name": "Dean — nazwisko niepodane",
+      "role": "Krąg dzieci i ich partnerów Raya · Nicole/Dean",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "W ogłoszeniu Raya z 2020 r. wymieniono wspólnie parę Nicole/Dean wśród jego dzieci i ich partnerów. Nie rozstrzygnięto, kto w tej parze jest dzieckiem Raya, a kto partnerem jego dziecka. Nie znamy nazwiska ani dat tej osoby; nie przypisano jej rodzicielstwa wobec wymienionych wnuków. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -1340,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C88",
+      "name": "Rebecca — nazwisko niepodane",
+      "role": "Wnuk / wnuczka Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Wprost wymieniona osoba wśród wnuków Raya. Ogłoszenie nie podaje jej nazwiska, daty urodzenia ani rodziców. Nie przypisano jej dzieci na podstawie ogólnej wzmianki o prawnukach. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -4460,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C89",
+      "name": "Robert — nazwisko niepodane",
+      "role": "Wnuk / wnuczka Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Wprost wymieniona osoba wśród wnuków Raya. Ogłoszenie nie podaje jej nazwiska, daty urodzenia ani rodziców. Nie przypisano jej dzieci na podstawie ogólnej wzmianki o prawnukach. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -4200,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C90",
+      "name": "Max — nazwisko niepodane",
+      "role": "Wnuk / wnuczka Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Wprost wymieniona osoba wśród wnuków Raya. Ogłoszenie nie podaje jej nazwiska, daty urodzenia ani rodziców. Nie przypisano jej dzieci na podstawie ogólnej wzmianki o prawnukach. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -3940,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C91",
+      "name": "Ebony — nazwisko niepodane",
+      "role": "Wnuk / wnuczka Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Wprost wymieniona osoba wśród wnuków Raya. Ogłoszenie nie podaje jej nazwiska, daty urodzenia ani rodziców. Nie przypisano jej dzieci na podstawie ogólnej wzmianki o prawnukach. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -3680,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C92",
+      "name": "Tori — nazwisko niepodane",
+      "role": "Wnuk / wnuczka Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Wprost wymieniona osoba wśród wnuków Raya. Ogłoszenie nie podaje jej nazwiska, daty urodzenia ani rodziców. Nie przypisano jej dzieci na podstawie ogólnej wzmianki o prawnukach. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -3420,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C93",
+      "name": "Marcus — nazwisko niepodane",
+      "role": "Wnuk / wnuczka Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Wprost wymieniona osoba wśród wnuków Raya. Ogłoszenie nie podaje jej nazwiska, daty urodzenia ani rodziców. Nie przypisano jej dzieci na podstawie ogólnej wzmianki o prawnukach. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -3160,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
+      "locations": [],
+      "addresses": []
+    },
+    {
+      "id": "C94",
+      "name": "Stella — nazwisko niepodane",
+      "role": "Wnuk / wnuczka Raya według ogłoszenia",
+      "dates": "Relacja odnotowana w 2020 r.",
+      "place": "Rodzina Raya · źródło z 2020 r.",
+      "note": "Wprost wymieniona osoba wśród wnuków Raya. Ogłoszenie nie podaje jej nazwiska, daty urodzenia ani rodziców. Nie przypisano jej dzieci na podstawie ogólnej wzmianki o prawnukach. Obecny stan życia nieustalony.",
+      "source": [
+        "S197"
+      ],
+      "x": -2900,
+      "y": 840,
+      "status": "candidate",
+      "branch": "paternal",
+      "evidence": "hypothesis",
+      "identityLevel": 2,
+      "level": 3,
+      "connectionLevel": 3,
+      "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
+      "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
+      "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
       "locations": [],
       "addresses": []
     }
@@ -2125,23 +2498,103 @@
       "hypothesis_marriage"
     ],
     [
-      "C69",
+      "P12",
       "C70",
       "marriage"
     ],
     [
-      "C69",
+      "P12",
       "C71",
       "document"
     ],
     [
-      "C69",
+      "P12",
       "C72",
       "document"
     ],
     [
-      "P12",
-      "C69",
+      "C79",
+      "C75",
+      "sibling"
+    ],
+    [
+      "C79",
+      "C81",
+      "marriage"
+    ],
+    [
+      "C79",
+      "C82",
+      "family"
+    ],
+    [
+      "C79",
+      "C83",
+      "family"
+    ],
+    [
+      "C79",
+      "C84",
+      "family"
+    ],
+    [
+      "C79",
+      "C85",
+      "family"
+    ],
+    [
+      "C79",
+      "C86",
+      "family"
+    ],
+    [
+      "C79",
+      "C87",
+      "family"
+    ],
+    [
+      "C79",
+      "C88",
+      "family"
+    ],
+    [
+      "C79",
+      "C89",
+      "family"
+    ],
+    [
+      "C79",
+      "C90",
+      "family"
+    ],
+    [
+      "C79",
+      "C91",
+      "family"
+    ],
+    [
+      "C79",
+      "C92",
+      "family"
+    ],
+    [
+      "C79",
+      "C93",
+      "family"
+    ],
+    [
+      "C79",
+      "C94",
+      "family"
+    ],
+    [
+      "C72",
+      "C75",
+      "identity_candidate"
+    ],
+    [
+      "C71",
+      "C79",
       "identity_candidate"
     ]
   ],
@@ -2372,6 +2825,26 @@
       "title": "NAAkatalogA12002,766–769 — cztery osoby iDOB",
       "url": "https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports/ItemDetail.aspx?Barcode=4256174&isAv=N",
       "description": "Rodzina emigranta udokumentowana; tożsamość ojca zP12 i obecne życie potomków pozostają niepotwierdzone."
+    },
+    "S195": {
+      "title": "Ernest (Ernie), 20.11.1947–27.11.2024 — ogłoszenie pogrzebowe",
+      "url": "https://www.mytributes.com.au/notice/funeral-notices/chmielewski-ernest-ernie/6259122/",
+      "description": "Pełna data urodzenia zgodna z synem emigranta. Identyfikacja C72/C75 bardzo prawdopodobna; związek całej gałęzi z Marysią nadal niepotwierdzony."
+    },
+    "S196": {
+      "title": "Ray, 06.10.1946–19.11.2020 — nekrolog od brata Erniego",
+      "url": "https://www.dailytelegraph.com.au/tributes/notice/death-notices/chmielewski-ray/5589602/",
+      "description": "Wprost wymienia brata Erniego. Daty obu braci są zgodne z listą rodziny z 1950 r.; brak rodziców w nekrologu."
+    },
+    "S197": {
+      "title": "Rodzina Raya: żona Rose, dzieci i ich partnerzy oraz wnuki",
+      "url": "https://www.mytributes.com.au/notice/funeral-notices/raymond-chima-chmielewski/5589271/",
+      "description": "Ogłoszenie z 25.11.2020. Nie podaje nazwisk krewnych ani podziału ról w parach. Nie potwierdza aktualnego życia każdej wymienionej osoby."
+    },
+    "S199": {
+      "title": "Geelong Western — Roman, Anna Theresia i Ernest, grób Lawn 05 / 518",
+      "url": "https://gct.net.au/family-history-search/",
+      "description": "W formularzu wyszukaj nazwisko Chmielewski. Ernest ma daty 20.11.1947–27.11.2024; Roman i Anna nie mają pełnych dat urodzenia. Wspólny grób sam nie dowodzi pokrewieństwa."
     }
   },
   "relations": [
@@ -3354,55 +3827,319 @@
     },
     {
       "id": "R042",
-      "a": "C69",
+      "a": "P12",
       "b": "C70",
       "kind": "marriage",
-      "level": 1,
-      "new_level": 1,
-      "reason": "WprostWife:Anna na karcieC69. Relacja lokalna tej rodziny udokumentowana; związek zP12wH035.",
-      "missing": "Relacja między osobami źródłowymi udokumentowana; ich połączenie zP12 nadalH035.",
+      "level": 2,
+      "new_level": 2,
+      "reason": "Relacja wymieniona w australijskich dokumentach migracyjnych. Roman przyjęty roboczo jako P12 na podstawie zgodnej pełnej daty urodzenia, imienia i nazwiska — decyzja użytkownika.",
+      "missing": "Dodatkowy dokument potwierdzający identyfikację australijską P12.",
       "sources": "S183; S182",
       "exception": false,
       "previous_status": "new_document"
     },
     {
       "id": "R043",
-      "a": "C69",
+      "a": "P12",
       "b": "C71",
       "kind": "document",
-      "level": 1,
-      "new_level": 1,
-      "reason": "Children:Roman uojca iFather:Roman usyna; zgodneDOB i podróż. Nie automatycznie synP12.",
-      "missing": "Relacja między osobami źródłowymi udokumentowana; ich połączenie zP12 nadalH035.",
+      "level": 2,
+      "new_level": 2,
+      "reason": "Relacja wymieniona w australijskich dokumentach migracyjnych. Roman przyjęty roboczo jako P12 na podstawie zgodnej pełnej daty urodzenia, imienia i nazwiska — decyzja użytkownika.",
+      "missing": "Dodatkowy dokument potwierdzający identyfikację australijską P12.",
       "sources": "S183; S184; S182",
       "exception": false,
       "previous_status": "new_document"
     },
     {
       "id": "R044",
-      "a": "C69",
+      "a": "P12",
       "b": "C72",
       "kind": "document",
-      "level": 1,
-      "new_level": 1,
-      "reason": "Children:Ernest uojca, wspólna rodzina1058739, DOB20.11.1947. Nie automatycznie synP12.",
-      "missing": "Relacja między osobami źródłowymi udokumentowana; ich połączenie zP12 nadalH035.",
+      "level": 2,
+      "new_level": 2,
+      "reason": "Relacja wymieniona w australijskich dokumentach migracyjnych. Roman przyjęty roboczo jako P12 na podstawie zgodnej pełnej daty urodzenia, imienia i nazwiska — decyzja użytkownika.",
+      "missing": "Dodatkowy dokument potwierdzający identyfikację australijską P12.",
       "sources": "S183; S182; S185",
       "exception": false,
       "previous_status": "new_document"
     },
     {
-      "id": "V067",
-      "a": "P12",
-      "b": "C69",
-      "kind": "identity_candidate",
-      "level": 3,
-      "new_level": 3,
-      "reason": "Zgodne pełne imię/nazwisko iDOB06.06.1919. Miejsce emigrantaRezegno nie zostało potwierdzone jakoRogóźno; brak jego rodziców. H035 otwarta.",
-      "missing": "RodziceWincenty/AgnieszkaMiszczyszyn lub inny niezależny łącznik; nie sam kolejny odpis tej samej listy.",
-      "sources": "S061; S182; S183; S185; H035",
+      "id": "R045",
+      "a": "C79",
+      "b": "C75",
+      "kind": "sibling",
+      "level": 1,
+      "new_level": 1,
+      "reason": "bracia według nekrologu: Ernie wprost nazywa Raya bratem. Nie rozstrzyga pełnego/przyrodniego rodzeństwa i nie wymienia rodziców.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S196",
       "exception": false,
-      "previous_status": "new_hypothesis"
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R046",
+      "a": "C79",
+      "b": "C81",
+      "kind": "marriage",
+      "level": 1,
+      "new_level": 1,
+      "reason": "mąż–żona według nekrologu: Ray nazwany mężem Rose. Nie podano daty ślubu lub nazwiska Rose; nie przypisano jej macierzyństwa.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R047",
+      "a": "C79",
+      "b": "C82",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "dziecko lub partner dziecka — rola nierozdzielona: Wymieniony/a w parze Michelle/Chris. Nie rozstrzygnięto, kto jest dzieckiem, a kto jego partnerem.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R048",
+      "a": "C79",
+      "b": "C83",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "dziecko lub partner dziecka — rola nierozdzielona: Wymieniony/a w parze Michelle/Chris. Nie rozstrzygnięto, kto jest dzieckiem, a kto jego partnerem.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R049",
+      "a": "C79",
+      "b": "C84",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "dziecko lub partner dziecka — rola nierozdzielona: Wymieniony/a w parze Simone/Nikki. Nie rozstrzygnięto, kto jest dzieckiem, a kto jego partnerem.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R050",
+      "a": "C79",
+      "b": "C85",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "dziecko lub partner dziecka — rola nierozdzielona: Wymieniony/a w parze Simone/Nikki. Nie rozstrzygnięto, kto jest dzieckiem, a kto jego partnerem.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R051",
+      "a": "C79",
+      "b": "C86",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "dziecko lub partner dziecka — rola nierozdzielona: Wymieniony/a w parze Nicole/Dean. Nie rozstrzygnięto, kto jest dzieckiem, a kto jego partnerem.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R052",
+      "a": "C79",
+      "b": "C87",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "dziecko lub partner dziecka — rola nierozdzielona: Wymieniony/a w parze Nicole/Dean. Nie rozstrzygnięto, kto jest dzieckiem, a kto jego partnerem.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R053",
+      "a": "C79",
+      "b": "C88",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "wnuk/wnuczka według nekrologu: Wprost wymieniony/a wśród wnuków Raya. Nie podano rodziców, nazwiska lub płci.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R054",
+      "a": "C79",
+      "b": "C89",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "wnuk/wnuczka według nekrologu: Wprost wymieniony/a wśród wnuków Raya. Nie podano rodziców, nazwiska lub płci.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R055",
+      "a": "C79",
+      "b": "C90",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "wnuk/wnuczka według nekrologu: Wprost wymieniony/a wśród wnuków Raya. Nie podano rodziców, nazwiska lub płci.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R056",
+      "a": "C79",
+      "b": "C91",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "wnuk/wnuczka według nekrologu: Wprost wymieniony/a wśród wnuków Raya. Nie podano rodziców, nazwiska lub płci.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R057",
+      "a": "C79",
+      "b": "C92",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "wnuk/wnuczka według nekrologu: Wprost wymieniony/a wśród wnuków Raya. Nie podano rodziców, nazwiska lub płci.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R058",
+      "a": "C79",
+      "b": "C93",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "wnuk/wnuczka według nekrologu: Wprost wymieniony/a wśród wnuków Raya. Nie podano rodziców, nazwiska lub płci.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "R059",
+      "a": "C79",
+      "b": "C94",
+      "kind": "family",
+      "level": 1,
+      "new_level": 1,
+      "reason": "wnuk/wnuczka według nekrologu: Wprost wymieniony/a wśród wnuków Raya. Nie podano rodziców, nazwiska lub płci.",
+      "missing": "Relacja w rodzinie źródłowej według ogłoszenia. Jej połączenie z Marysią nadal wymaga potwierdzenia; nie jest to dowód biologicznej roli każdej osoby.",
+      "sources": "S197",
+      "exception": false,
+      "previous_status": "new_published_family_notice"
+    },
+    {
+      "id": "V068",
+      "a": "C72",
+      "b": "C75",
+      "kind": "identity_candidate",
+      "level": 2,
+      "new_level": 2,
+      "reason": "Zgodne pełne imię/nazwisko i data 20.11.1947, Australia oraz brat Ray o dacie urodzenia zgodnej ze starszym synem z listy. Identyfikacja bardzo prawdopodobna, rekordy pozostają osobno (H036).",
+      "missing": "Bezpośredni łącznik rodziców lub tożsamości; nie scalać przez samo podobieństwo imion.",
+      "sources": "S182; S183; S184; S185; S195; S196; S197; S199; H036",
+      "exception": false,
+      "previous_status": "strong_identification_hypothesis"
+    },
+    {
+      "id": "V069",
+      "a": "C71",
+      "b": "C79",
+      "kind": "identity_candidate",
+      "level": 2,
+      "new_level": 2,
+      "reason": "Zgodne nazwisko i data 06.10.1946, Australia oraz brat Ernie o dacie 20.11.1947 zgodnej z młodszym synem z listy. Imiona Roman/Raymond nie zostały połączone dokumentem. Identyfikacja bardzo prawdopodobna, rekordy pozostają osobno (H040).",
+      "missing": "Bezpośredni łącznik rodziców lub tożsamości; nie scalać przez samo podobieństwo imion.",
+      "sources": "S182; S183; S184; S185; S195; S196; S197; S199; H040",
+      "exception": false,
+      "previous_status": "strong_identification_hypothesis"
+    }
+  ],
+  "news": [
+    {
+      "at": "2026-11-06T17:25:19Z",
+      "title": "Odnaleziono kolejne pokolenia australijskiej rodziny",
+      "body": "Ogłoszenie Raya Chmielewskiego wymienia żonę Rose, trzy pary z kręgu dzieci i ich partnerów oraz siedmioro wnuków. Daty urodzenia Raya i jego brata Erniego są zgodne z synami emigranta; połączenie całej gałęzi z rodziną Marysi pozostaje niepotwierdzone.",
+      "kind": "ważne odkrycie"
+    },
+    {
+      "at": "2026-11-06T15:15:35Z",
+      "title": "Australijski trop Romana i jego dzieci",
+      "body": "Dokumenty migracyjne wskazują Romana Chmielewskiego (06.06.1919), żonę Annę i synów Romana (1946) oraz Ernesta (1947). Na podstawie zgodnej daty urodzenia, imienia i nazwiska przyjęto roboczo, że jest to brat Czesława. Identyfikacja może zostać skorygowana po uzyskaniu nowych dowodów.",
+      "kind": "ważny trop"
+    },
+    {
+      "at": "2026-11-06T13:06:53Z",
+      "title": "Potwierdzono przyrodnią siostrę Czesława i jej małżeństwo",
+      "body": "Emilia Chmielewska, urodzona 26.01.1904 w Rachaniach, była córką Wincentego i jego pierwszej żony Julii z Jabłońskich. W 1932 r. poślubiła Józefa Mandziuka. Ich dzieci pozostają nieustalone.",
+      "kind": "odkrycie"
+    },
+    {
+      "at": "2026-11-06T11:50:58Z",
+      "title": "Potwierdzono dwie siostry Czesława",
+      "body": "Akty urodzenia Sabiny (14.07.1917) i Julianny (09.11.1907) wskazują Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów z Rogoźna — tych samych rodziców co akt Czesława. Związek sióstr z Tczewem pozostaje nieustalony.",
+      "kind": "odkrycie"
+    },
+    {
+      "at": "2026-11-06T08:43:24Z",
+      "title": "Uzupełniono rodzinę mamy i potwierdzenie pradziadków",
+      "body": "Rodzina potwierdziła Józefa i Czesławę jako pradziadków Marysi, rodziców Romana. Dostarczone zdjęcie potwierdza cztery inskrypcje; wcześniejsze dane rodzeństwa Marii i linii Kulas zachowują swoje źródła.",
+      "kind": "uzupełnienie"
+    },
+    {
+      "at": "2026-11-06T07:25:04Z",
+      "title": "Odnaleziono akt możliwego brata Bogusława",
+      "body": "Czesław zmarł w Łodzi 3 lutego 1940 r., mając osiem dni. Rodziców zapisano jako Czesława i Janinę z Poprawskich; pokrewieństwo z rodziną wymaga potwierdzenia.",
+      "kind": "ważny akt"
+    },
+    {
+      "at": "2026-11-05T14:30:05Z",
+      "title": "Potwierdzono nazwiska rodziców Bogusława",
+      "body": "Jego odpis ślubu wskazuje Czesława Chmielewskiego i Janinę Poprawkę.",
+      "kind": "odkrycie"
+    },
+    {
+      "at": "2026-11-05T11:24:03Z",
+      "title": "Potwierdzono urodzenie Czesława i jego brata Romana",
+      "body": "Akt z 1909 r. pozwolił ustalić datę urodzenia Czesława i potwierdzić wspólnych rodziców obu braci.",
+      "kind": "odkrycie"
+    },
+    {
+      "at": "2026-11-05T10:33:16Z",
+      "title": "Odnaleziono akt urodzenia Janiny Poprawki",
+      "body": "Akt z 1910 r. wskazuje jej rodziców: Józefa Poprawkę i Mariannę Kacprzak.",
+      "kind": "odkrycie"
     }
   ]
 }
