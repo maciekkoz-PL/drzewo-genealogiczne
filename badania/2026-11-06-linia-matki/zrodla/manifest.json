@@ -1,0 +1,23 @@
+{
+  "generated_utc": "2026-11-06",
+  "purpose": "Repo-ready handoff — maternal line of Marysia",
+  "repository": "maciekkoz-PL/drzewo-genealogiczne",
+  "images_included": false,
+  "photo_filenames_missing": [
+    "4F72A452-6F93-446F-A30E-F0B58131AEC5.jpeg",
+    "Drzewo_Marysi_Matka.png"
+  ],
+  "files": [
+    "PRZEKAZANIE_DO_CODEX.md",
+    "README.md",
+    "dane/dzieci_kulasow_indeksy.csv",
+    "dane/linia_matki.json",
+    "dane/nagrobek_strzegowo.csv",
+    "dane/osoby.csv",
+    "dane/relacje.csv",
+    "dane/tropy_aktowe.csv",
+    "dane/zrodla.csv",
+    "dla_codex/POLECENIE_DO_WKLEJENIA.md",
+    "zdjecia/README.md"
+  ]
+}

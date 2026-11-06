@@ -1,0 +1,17 @@
+# Scalenie nowego pakietu linii mamy — 6 listopada 2026
+
+Pakiet `Marysia_LINIA_MATKI_repo_ready_2026-11-06.zip` pojawił się naGitHubie w commicie[b86519c](https://github.com/maciekkoz-PL/drzewo-genealogiczne/commit/b86519ced59d9ad205a79307763b9cb5572ddc31). Zachowano go bez zmian. Przeczytano pełne przekazanie, JSON, wszystkieCSV i notatki o brakujących obrazach. Jest to odtworzenie wcześniejszych rozmów, **nie dostęp do innych czatów ChatGPT i nie oryginały metryk**.
+
+- **Scalono, bez duplikatów:** MariaP17, RomanJankowskiP18, AnnaKulas/JankowskaP19. Nie pomylono z RomanemChmielewskimP12.
+- **Dodano rodzinę z przekazu:** AndrzejJankowskiP20(~1946), TeresaJankowskaP21(~1950), JózefKulasP22, KonstancjaKulasP23. RodzicielstwoKulasów wobecAnny to przekaz, nie odczyt aktuAnny. Gralewicz i lata1859/1873 pozostają dopasowaniem indeksowym, bez niezależnej kontroli.
+- **Dodano oddzielnych kandydatów:** JózefJankowskiC43 iCzesławaJankowskaC44 ze wspólnego nagrobka, JuliannaAnnaKulas1910C45, cztery osoby z dalszych indeksówC46–C49 i sześć pozostałych dzieciKulasówC50–C55. JuliannaAnna z wykazu siedmiorga dzieci to ten sam tropC45, bez kolejnego duplikatu. Nie scalonoC45zAnnąP19. JózefKulas1901C52 nie jest JózefemP22z przypuszczalnym rokiem1859.
+- **Nowe źródła:** S127pakiet, S128wtórny odczyt nagrobka, S129rodzinaRomana/Anny, S130przekazKulasów, S131historyczne tropy indeksowe. NoweR020–R034 mają status rodzinny, indeksowy albo hipotetyczny. IstniejąceR018/R019 pozostają dokumentowym wskazaniem rodzicówMarii zS086. Nie podniesiono stopnia pewności starych hipotez.
+- **Daty z przekazanego odczytu, bez samodzielnych oględzin:** Roman29.05.2002,88lat; Anna28.09.1978,68lat; Józef30.09.1967,81lat; Czesława03.01.1982,98lat. Przybliżone lata urodzenia są wyliczeniem, nie datami z metryk. Wspólny grób nie ustala pokrewieństwa ani małżeństwaJózefa/Czesławy.
+
+**Nie ma oryginalnychJPEG.** Nie zapisano ani nie obejrzano w tej sesji fotografii grobu; otrzymano wyłącznie opis wcześniejszego odczytu i nazwy oryginalnych plików. Nie wygenerowano odtworzonego zdjęcia ani fikcyjnegoSHA. Brakuje `4F72A452-6F93-446F-A30E-F0B58131AEC5.jpeg`, drugiego kadru `284E7A1D-779E-49D3-BC27-905353012A2C.jpeg` oraz dawnego diagramu. S086ma nadal lokalny odczyt, bez oryginalnego obrazu. Materiały rodzinne nie są publikowane w witrynie.
+
+**Geografia i brakujące akty:** trzeba rozróżnić Strzegowo,pow.mławski i Strzegowę,pow.olkuski; nie zweryfikowano teraz4dawnych indeksów. NumeryM16/1894,U55/1859,U60/1873,U18/1910 zachowano jako tropy, nie jako odczytane akty. Nie wymyślono linków do skanów. Priorytetem łączącym jest aktAnnyKulas/Jankowskiej lub ślubuRomana iAnny. H020dotyczyC43/C44, H021Anna/Julianna, H022parafii i dopasowaniaKulasów. Dalsi przodkowie indeksowi zostali w dokumentacji jako kontekst, z zachowaniem priorytetu badań do pradziadków.
+
+Mapowanie każdego tymczasowegoID: [MAPOWANIE_ID.json](MAPOWANIE_ID.json). Surowe12plików w `zrodla/`, kopieCSV/JSON w `dane/`; dokładne bajty iSHA w [manifeście](manifest_zrodel_sesji.json). Wszystkie21wcześniejszych arkuszy zachowane. Dane źródłowe i rozstrzygnięte hipotezy nie zostały zastąpione pakietem. Bez wiadomości do osób lub instytucji, wniosków i płatności.
+
+Witryna: Marysia w centrum, cała gałąź mamy poniżej, taty powyżej. Dwie znane rodzinie linie do rodziców zawsze widoczne. Nowe rodzinne osoby i wybrane hipotezy matczyne mają jawne statusy. Zmiany z pakietu łączy jeden krótki wpis kroniki, bez dopisywania każdej czynności technicznej.

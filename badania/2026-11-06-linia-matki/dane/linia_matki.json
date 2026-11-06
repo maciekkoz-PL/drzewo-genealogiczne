@@ -1,0 +1,547 @@
+{
+  "version": "2026-11-06",
+  "target_repo": "maciekkoz-PL/drzewo-genealogiczne",
+  "target_branch": "main",
+  "status": "maternal handoff, not committed",
+  "existing_identity_map": {
+    "MAT-P01": "P17 (Maria Jankowska)",
+    "existing_Marysia": "P01"
+  },
+  "evidence_scale": {
+    "dokument": "wpis odczytany z fotografii urzędowego odpisu",
+    "foto": "sam zapis nagrobny, nie dowód pokrewieństwa",
+    "relacja rodzinna": "przekaz ustny, źródło wtórne",
+    "indeks": "indeks wyszukiwawczy, oryginał nieobejrzany",
+    "HIPOTEZA": "nie łączyć do potwierdzonego drzewa"
+  },
+  "persons": [
+    {
+      "id_robocze": "MAT-P01",
+      "osoba": "Maria Jankowska (po ślubie Chmielewska)",
+      "data_urodzenia": "1942-01-04",
+      "miejsce_urodzenia": "Strzegowo, pow. mławski",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "S086",
+      "poziom_dowodu": "dokument",
+      "uwagi": "Istnieje w repo jako P17; nie twórz drugiej osoby. Żyje wg relacji rodzinnej; nie zapisuj rozpoznania zdrowotnego w bazie genealogicznej."
+    },
+    {
+      "id_robocze": "MAT-P02",
+      "osoba": "Roman Jankowski",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "2002-05-29",
+      "wiek_z_nagrobka_lat": "88",
+      "zrodla": "S086;MAT-FOTO-01;MAT-REL-01",
+      "poziom_dowodu": "dokument+foto+relacja",
+      "uwagi": "Ojciec Marii: S086. Zgon i wiek: zdjęcie nagrobka. Rok urodzenia tylko wyliczony 1913/1914."
+    },
+    {
+      "id_robocze": "MAT-P03",
+      "osoba": "Anna Kulas (po ślubie Jankowska)",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "1978-09-28",
+      "wiek_z_nagrobka_lat": "68",
+      "zrodla": "S086;MAT-FOTO-01;MAT-REL-01",
+      "poziom_dowodu": "dokument+foto+relacja",
+      "uwagi": "Matka Marii: S086. Nazwisko rodowe w S086, nie na nagrobku. Rok urodzenia tylko ~1909/1910."
+    },
+    {
+      "id_robocze": "MAT-P04",
+      "osoba": "Andrzej Jankowski",
+      "data_urodzenia": "~1946",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja rodzinna",
+      "uwagi": "Syn Romana i Anny; rodzeństwo Marii wg relacji; nie ma aktu."
+    },
+    {
+      "id_robocze": "MAT-P05",
+      "osoba": "Teresa Jankowska",
+      "data_urodzenia": "~1950",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja rodzinna",
+      "uwagi": "Córka Romana i Anny; rodzeństwo Marii wg relacji; nie ma aktu."
+    },
+    {
+      "id_robocze": "MAT-P06",
+      "osoba": "Józef Kulas",
+      "data_urodzenia": "1859",
+      "miejsce_urodzenia": "Strzegowo (indeks — sprawdzić homonim miejscowości)",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-REL-02;MAT-IDX-02",
+      "poziom_dowodu": "rodzina+indeks",
+      "uwagi": "Pradziadek Marysi w przekazie rodzinnym, mąż Konstancji. Akt ur. 55/1859 to indeks, nie sprawdzony skan."
+    },
+    {
+      "id_robocze": "MAT-P07",
+      "osoba": "Konstancja Gralewicz (po ślubie Kulas)",
+      "data_urodzenia": "1873",
+      "miejsce_urodzenia": "Prusocin (dane z wcześniejszego diagramu, do weryfikacji)",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-REL-02;MAT-IDX-03",
+      "poziom_dowodu": "rodzina+indeks",
+      "uwagi": "Prababcia Marysi wg rodziny pod imieniem Konstancja Kulas. Gralewicz to nazwisko wynikające z indeksu; akt ur. 60/1873 niesprawdzony na skanie."
+    },
+    {
+      "id_robocze": "MAT-P08",
+      "osoba": "Józef Jankowski",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "1967-09-30",
+      "wiek_z_nagrobka_lat": "81",
+      "zrodla": "MAT-FOTO-01",
+      "poziom_dowodu": "foto",
+      "uwagi": "Nazwisko i wiek z nagrobka; tożsamość jako ojca Romana NIEPOTWIERDZONA."
+    },
+    {
+      "id_robocze": "MAT-P09",
+      "osoba": "Czesława Jankowska",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "1982-01-03",
+      "wiek_z_nagrobka_lat": "98",
+      "zrodla": "MAT-FOTO-01",
+      "poziom_dowodu": "foto",
+      "uwagi": "Nazwisko i wiek z nagrobka; nazwisko rodowe i relacja do Romana NIEPOTWIERDZONE."
+    },
+    {
+      "id_robocze": "MAT-P10",
+      "osoba": "Andrzej Kulas",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-IDX-01;MAT-IDX-02",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Zapisany w wcześniejszym odczycie indeksu jako ojciec Józefa Kulasa; nie potwierdzono oryginalnym aktem."
+    },
+    {
+      "id_robocze": "MAT-P11",
+      "osoba": "Antonina Konopka",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-IDX-01;MAT-IDX-02",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Zapisana jako matka Józefa Kulasa; nie potwierdzono skanem."
+    },
+    {
+      "id_robocze": "MAT-P12",
+      "osoba": "Maciej Gralewicz",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-IDX-01;MAT-IDX-03",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Wcześniejszy indeks wskazuje jako ojca Konstancji; weryfikować."
+    },
+    {
+      "id_robocze": "MAT-P13",
+      "osoba": "Teresa Dąbrowska",
+      "data_urodzenia": "",
+      "miejsce_urodzenia": "",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-IDX-01;MAT-IDX-03",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Wcześniejszy indeks wskazuje jako matkę Konstancji; weryfikować."
+    },
+    {
+      "id_robocze": "MAT-C01",
+      "osoba": "Julianna Anna Kulas",
+      "data_urodzenia": "1910",
+      "miejsce_urodzenia": "Strzegowo? akt ur. 18/1910",
+      "data_zgonu": "",
+      "wiek_z_nagrobka_lat": "",
+      "zrodla": "MAT-IDX-04",
+      "poziom_dowodu": "kandydat / indeks",
+      "uwagi": "NIE UTOŻSAMIAĆ Z MAT-P03 (Anna Kulas) bez aktu małżeństwa Romana i Anny lub jej urodzenia."
+    }
+  ],
+  "relations": [
+    {
+      "id_robocze": "MAT-R01",
+      "osoba_a": "MAT-P02",
+      "osoba_b": "MAT-P01",
+      "relacja": "ojciec_córka",
+      "zrodla": "S086",
+      "poziom_dowodu": "dokument",
+      "uwagi": "Twardy fakt urzędowy."
+    },
+    {
+      "id_robocze": "MAT-R02",
+      "osoba_a": "MAT-P03",
+      "osoba_b": "MAT-P01",
+      "relacja": "matka_córka",
+      "zrodla": "S086",
+      "poziom_dowodu": "dokument",
+      "uwagi": "Twardy fakt urzędowy."
+    },
+    {
+      "id_robocze": "MAT-R03",
+      "osoba_a": "MAT-P02",
+      "osoba_b": "MAT-P03",
+      "relacja": "małżeństwo",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja",
+      "uwagi": "Wspólne dzieci i przekaz rodzinny; brak własnego aktu ślubu."
+    },
+    {
+      "id_robocze": "MAT-R04",
+      "osoba_a": "MAT-P02",
+      "osoba_b": "MAT-P04",
+      "relacja": "ojciec_syn",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja",
+      "uwagi": "Brak aktu."
+    },
+    {
+      "id_robocze": "MAT-R05",
+      "osoba_a": "MAT-P03",
+      "osoba_b": "MAT-P04",
+      "relacja": "matka_syn",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja",
+      "uwagi": "Brak aktu."
+    },
+    {
+      "id_robocze": "MAT-R06",
+      "osoba_a": "MAT-P02",
+      "osoba_b": "MAT-P05",
+      "relacja": "ojciec_córka",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja",
+      "uwagi": "Brak aktu."
+    },
+    {
+      "id_robocze": "MAT-R07",
+      "osoba_a": "MAT-P03",
+      "osoba_b": "MAT-P05",
+      "relacja": "matka_córka",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja",
+      "uwagi": "Brak aktu."
+    },
+    {
+      "id_robocze": "MAT-R08",
+      "osoba_a": "MAT-P06",
+      "osoba_b": "MAT-P03",
+      "relacja": "ojciec_córka",
+      "zrodla": "MAT-REL-02",
+      "poziom_dowodu": "relacja rodzinna",
+      "uwagi": "Potwierdzona przez przekaz genealogiczny; brak aktu Anny jako łącznika."
+    },
+    {
+      "id_robocze": "MAT-R09",
+      "osoba_a": "MAT-P07",
+      "osoba_b": "MAT-P03",
+      "relacja": "matka_córka",
+      "zrodla": "MAT-REL-02;MAT-IDX-01",
+      "poziom_dowodu": "relacja+indeks",
+      "uwagi": "Tożsamość Konstancji z Gralewicz ma podstawę indeksową, brak skanu."
+    },
+    {
+      "id_robocze": "MAT-R10",
+      "osoba_a": "MAT-P06",
+      "osoba_b": "MAT-P07",
+      "relacja": "małżeństwo",
+      "zrodla": "MAT-IDX-01",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Akt 16/1894 Strzegowo według wcześniejszych ustaleń. Koniecznie sprawdzić miejscowość i skan."
+    },
+    {
+      "id_robocze": "MAT-R11",
+      "osoba_a": "MAT-P08",
+      "osoba_b": "MAT-P02",
+      "relacja": "możliwy_ojciec",
+      "zrodla": "MAT-FOTO-01",
+      "poziom_dowodu": "HIPOTEZA",
+      "uwagi": "Wspólny nagrobek NIE DOWODZI ojcostwa. Nie łączyć jako potwierdzone."
+    },
+    {
+      "id_robocze": "MAT-R12",
+      "osoba_a": "MAT-P09",
+      "osoba_b": "MAT-P02",
+      "relacja": "możliwa_matka",
+      "zrodla": "MAT-FOTO-01",
+      "poziom_dowodu": "HIPOTEZA",
+      "uwagi": "Wspólny nagrobek NIE DOWODZI macierzyństwa. Nie łączyć jako potwierdzone."
+    },
+    {
+      "id_robocze": "MAT-R13",
+      "osoba_a": "MAT-P10",
+      "osoba_b": "MAT-P06",
+      "relacja": "możliwy_ojciec",
+      "zrodla": "MAT-IDX-02",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Dopiero po zweryfikowaniu 55/1859 i 16/1894."
+    },
+    {
+      "id_robocze": "MAT-R14",
+      "osoba_a": "MAT-P11",
+      "osoba_b": "MAT-P06",
+      "relacja": "możliwa_matka",
+      "zrodla": "MAT-IDX-02",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Dopiero po zweryfikowaniu 55/1859 i 16/1894."
+    },
+    {
+      "id_robocze": "MAT-R15",
+      "osoba_a": "MAT-P12",
+      "osoba_b": "MAT-P07",
+      "relacja": "możliwy_ojciec",
+      "zrodla": "MAT-IDX-03",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Dopiero po zweryfikowaniu 60/1873 i 16/1894."
+    },
+    {
+      "id_robocze": "MAT-R16",
+      "osoba_a": "MAT-P13",
+      "osoba_b": "MAT-P07",
+      "relacja": "możliwa_matka",
+      "zrodla": "MAT-IDX-03",
+      "poziom_dowodu": "indeks",
+      "uwagi": "Dopiero po zweryfikowaniu 60/1873 i 16/1894."
+    },
+    {
+      "id_robocze": "MAT-R17",
+      "osoba_a": "MAT-P01",
+      "osoba_b": "P01",
+      "relacja": "matka_córka",
+      "zrodla": "MAT-REL-01",
+      "poziom_dowodu": "relacja rodzinna",
+      "uwagi": "Marysia to P01 w istniejącym repo; S086 jest ślubem rodziców i sam nie dowodzi urodzenia dziecka."
+    }
+  ],
+  "grave": [
+    {
+      "id_robocze": "MAT-P08",
+      "napis_imie_nazwisko": "Józef Jankowski",
+      "zgon_yyyy_mm_dd": "1967-09-30",
+      "przezyte_lata": 81,
+      "urodzenie_wywnioskowane_nie_dokladna_data": "~1885/1886",
+      "uwaga": "Pewne: zapis nagrobny. Niepewne: rodzic Romana"
+    },
+    {
+      "id_robocze": "MAT-P03",
+      "napis_imie_nazwisko": "Anna Jankowska",
+      "zgon_yyyy_mm_dd": "1978-09-28",
+      "przezyte_lata": 68,
+      "urodzenie_wywnioskowane_nie_dokladna_data": "~1909/1910",
+      "uwaga": "Nazwisko rodowe Kulas nie jest na tablicy; jest w S086"
+    },
+    {
+      "id_robocze": "MAT-P02",
+      "napis_imie_nazwisko": "Roman Jankowski",
+      "zgon_yyyy_mm_dd": "2002-05-29",
+      "przezyte_lata": 88,
+      "urodzenie_wywnioskowane_nie_dokladna_data": "~1913/1914",
+      "uwaga": "W S086 wymieniony jako ojciec Marii"
+    },
+    {
+      "id_robocze": "MAT-P09",
+      "napis_imie_nazwisko": "Czesława Jankowska",
+      "zgon_yyyy_mm_dd": "1982-01-03",
+      "przezyte_lata": 98,
+      "urodzenie_wywnioskowane_nie_dokladna_data": "~1883/1884",
+      "uwaga": "Pewne: zapis nagrobny. Niepewne: matka Romana"
+    }
+  ],
+  "index_leads": [
+    {
+      "id": "MAT-IDX-01",
+      "typ_aktu": "M",
+      "rok": "1894",
+      "nr_aktu": "16",
+      "osoba_1": "Józef Kulas",
+      "osoba_2_lub_rodzice": "Konstancja Gralewicz",
+      "parafia_lub_miejsce_ze_starego_raportu": "Strzegowo wg wcześniejszej rozmowy",
+      "pochodzenie": "odczyt indeksu opisany wcześniej",
+      "status": "BRAK SKANU ODCZYTANEGO",
+      "ostroznosc": "Weryfikuj czy nie pomylono Strzegowo pow. mławski ze Strzegową pow. olkuski"
+    },
+    {
+      "id": "MAT-IDX-02",
+      "typ_aktu": "U",
+      "rok": "1859",
+      "nr_aktu": "55",
+      "osoba_1": "Józef Kulas",
+      "osoba_2_lub_rodzice": "Andrzej Kulas; Antonina Konopka",
+      "parafia_lub_miejsce_ze_starego_raportu": "Strzegowo (wczesny odczyt)",
+      "pochodzenie": "odczyt indeksu opisany wcześniej",
+      "status": "BRAK SKANU ODCZYTANEGO",
+      "ostroznosc": "Powiązanie z mężem Konstancji sprawdzić pełnymi danymi"
+    },
+    {
+      "id": "MAT-IDX-03",
+      "typ_aktu": "U",
+      "rok": "1873",
+      "nr_aktu": "60",
+      "osoba_1": "Konstancja Gralewicz",
+      "osoba_2_lub_rodzice": "Maciej Gralewicz; Teresa Dąbrowska",
+      "parafia_lub_miejsce_ze_starego_raportu": "Prusocin (wczesny diagram)",
+      "pochodzenie": "odczyt indeksu opisany wcześniej",
+      "status": "BRAK SKANU ODCZYTANEGO",
+      "ostroznosc": "Prusocin i jednostkę archiwalną sprawdzić niezależnie"
+    },
+    {
+      "id": "MAT-IDX-04",
+      "typ_aktu": "U",
+      "rok": "1910",
+      "nr_aktu": "18",
+      "osoba_1": "Julianna Anna Kulas",
+      "osoba_2_lub_rodzice": "Józef Kulas; Konstancja Gralewicz",
+      "parafia_lub_miejsce_ze_starego_raportu": "Strzegowo?",
+      "pochodzenie": "odczyt indeksu opisany wcześniej",
+      "status": "BRAK SKANU ODCZYTANEGO",
+      "ostroznosc": "Nie utożsamiać z Anną Jankowską zd. Kulas"
+    }
+  ],
+  "possible_children_from_indexes": [
+    {
+      "rok_urodzenia": "1895",
+      "imie_nazwisko": "Władysław Kulas",
+      "rodzice_wskazani_w_indeksie": "Józef Kulas i Konstancja Gralewicz",
+      "status": "indeks - weryfikacja nieukończona",
+      "uwaga": "Nie dopisywać automatycznie do linii głównej ani nie utożsamiać z Anną Jankowską"
+    },
+    {
+      "rok_urodzenia": "1898",
+      "imie_nazwisko": "Marianna Kulas",
+      "rodzice_wskazani_w_indeksie": "Józef Kulas i Konstancja Gralewicz",
+      "status": "indeks - weryfikacja nieukończona",
+      "uwaga": "Nie dopisywać automatycznie do linii głównej ani nie utożsamiać z Anną Jankowską"
+    },
+    {
+      "rok_urodzenia": "1901",
+      "imie_nazwisko": "Józef Kulas",
+      "rodzice_wskazani_w_indeksie": "Józef Kulas i Konstancja Gralewicz",
+      "status": "indeks - weryfikacja nieukończona",
+      "uwaga": "Nie dopisywać automatycznie do linii głównej ani nie utożsamiać z Anną Jankowską"
+    },
+    {
+      "rok_urodzenia": "1904",
+      "imie_nazwisko": "Zofia Kulas",
+      "rodzice_wskazani_w_indeksie": "Józef Kulas i Konstancja Gralewicz",
+      "status": "indeks - weryfikacja nieukończona",
+      "uwaga": "Nie dopisywać automatycznie do linii głównej ani nie utożsamiać z Anną Jankowską"
+    },
+    {
+      "rok_urodzenia": "1906",
+      "imie_nazwisko": "Stanisława Kulas",
+      "rodzice_wskazani_w_indeksie": "Józef Kulas i Konstancja Gralewicz",
+      "status": "indeks - weryfikacja nieukończona",
+      "uwaga": "Nie dopisywać automatycznie do linii głównej ani nie utożsamiać z Anną Jankowską"
+    },
+    {
+      "rok_urodzenia": "1910",
+      "imie_nazwisko": "Julianna Anna Kulas",
+      "rodzice_wskazani_w_indeksie": "Józef Kulas i Konstancja Gralewicz",
+      "status": "indeks - weryfikacja nieukończona",
+      "uwaga": "Nie dopisywać automatycznie do linii głównej ani nie utożsamiać z Anną Jankowską"
+    },
+    {
+      "rok_urodzenia": "1913",
+      "imie_nazwisko": "Jan Piotr Kulas",
+      "rodzice_wskazani_w_indeksie": "Józef Kulas i Konstancja Gralewicz",
+      "status": "indeks - weryfikacja nieukończona",
+      "uwaga": "Nie dopisywać automatycznie do linii głównej ani nie utożsamiać z Anną Jankowską"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S086",
+      "nazwa": "Odpis skrócony aktu ślubu 1982, II-1592/1982",
+      "rodzaj": "oryginalny dokument na fotografii użytkownika; odczyt w GitHub",
+      "url_lub_lokalizacja": "https://github.com/maciekkoz-PL/drzewo-genealogiczne/blob/main/badania/2026-11-05-sesja-02-rodzice/S086_ODPIS_MALZENSTWA_RODZICE.md",
+      "status": "Odczyt repo, sam obraz odpisu nie jest w obecnym repo",
+      "zakres_i_ograniczenia": "Uznane: Maria 1942 Strzegowo, rodzice Roman Jankowski i Anna Kulas, Bogusław, ślub 1982"
+    },
+    {
+      "id": "MAT-FOTO-01",
+      "nazwa": "Rodzinny grób Jankowskich w Strzegowie",
+      "rodzaj": "fotografia przesłana przez użytkownika 02.11.2026",
+      "url_lub_lokalizacja": "",
+      "status": "Obraz obejrzany; oryginalny JPEG nie trafił do nowego ZIP",
+      "zakres_i_ograniczenia": "4 inskrypcje, daty zgonów i wiek, bez potwierdzenia pokrewieństwa wszystkich pochowanych"
+    },
+    {
+      "id": "MAT-REL-01",
+      "nazwa": "Relacja rodzinna użytkownika 02.11.2026",
+      "rodzaj": "rozmowa ChatGPT",
+      "url_lub_lokalizacja": "",
+      "status": "Przekaz, brak aktów rodzeństwa",
+      "zakres_i_ograniczenia": "Roman i Anna mieszkali w Strzegowie i są tam pochowani; Maria Andrzej Teresa ich dzieci"
+    },
+    {
+      "id": "MAT-REL-02",
+      "nazwa": "Przekaz rodziny o Józefie i Konstancji Kulasach",
+      "rodzaj": "rozmowa ChatGPT z 02.11.2026",
+      "url_lub_lokalizacja": "",
+      "status": "Przekaz o genealogii + dopasowanie indeksu",
+      "zakres_i_ograniczenia": "Józef i Konstancja Kulas przodkami, Konstancja zd. Gralewicz z indeksu"
+    },
+    {
+      "id": "MAT-IDX-01",
+      "nazwa": "Ślub Józef Kulas / Konstancja Gralewicz 16/1894",
+      "rodzaj": "indeks historycznie odnaleziony",
+      "url_lub_lokalizacja": "https://geneteka.genealodzy.pl/",
+      "status": "Brak ponownego odczytu w tym przekazaniu",
+      "zakres_i_ograniczenia": "Koniecznie zweryfikować właściwą parafię i skan"
+    },
+    {
+      "id": "MAT-IDX-02",
+      "nazwa": "Urodzenie Józef Kulas 55/1859",
+      "rodzaj": "indeks historycznie odnaleziony",
+      "url_lub_lokalizacja": "https://geneteka.genealodzy.pl/",
+      "status": "Brak ponownego odczytu w tym przekazaniu",
+      "zakres_i_ograniczenia": "Koniecznie zweryfikować właściwą parafię i skan"
+    },
+    {
+      "id": "MAT-IDX-03",
+      "nazwa": "Urodzenie Konstancji Gralewicz 60/1873",
+      "rodzaj": "indeks historycznie odnaleziony",
+      "url_lub_lokalizacja": "https://geneteka.genealodzy.pl/",
+      "status": "Brak ponownego odczytu w tym przekazaniu",
+      "zakres_i_ograniczenia": "Koniecznie zweryfikować właściwą parafię i skan"
+    },
+    {
+      "id": "MAT-IDX-04",
+      "nazwa": "Urodzenie Julianny Anny Kulas 18/1910",
+      "rodzaj": "indeks historycznie odnaleziony",
+      "url_lub_lokalizacja": "https://geneteka.genealodzy.pl/",
+      "status": "Brak ponownego odczytu w tym przekazaniu",
+      "zakres_i_ograniczenia": "Nie utożsamiać z Anną Jankowską"
+    },
+    {
+      "id": "MAT-CONTEXT-01",
+      "nazwa": "Historyczny schemat gałęzi matczynej",
+      "rodzaj": "grafika Drzewo_Marysi_Matka.png",
+      "url_lub_lokalizacja": "",
+      "status": "Wcześniejszy diagram zawiera hipotezy, nie służy jako dowód",
+      "zakres_i_ograniczenia": "Uwaga z grafiki o niepotwierdzonym utożsamieniu Anny / Julianny"
+    }
+  ],
+  "photo_assets_status": {
+    "physically_in_archive": false,
+    "reason": "Narzędzia plikowe udostępniły podgląd obrazu, ale nie umożliwiły odczytu oryginalnych bajtów; nie tworzono fałszywych kopii",
+    "image_library_filenames": [
+      "4F72A452-6F93-446F-A30E-F0B58131AEC5.jpeg",
+      "284E7A1D-779E-49D3-BC27-905353012A2C.jpeg"
+    ],
+    "old_tree_image": "Drzewo_Marysi_Matka.png",
+    "expected_repo_path": "badania/2026-11-06-linia-matki/zdjecia/"
+  }
+}

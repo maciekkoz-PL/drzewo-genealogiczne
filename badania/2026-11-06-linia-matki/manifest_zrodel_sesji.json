@@ -1,0 +1,97 @@
+[
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/PRZEKAZANIE_DO_CODEX.md",
+    "size": 8978,
+    "sha256": "988b130dbe564d2f000acfc3c2b9fe3c71a6048c27d128175f2d71c156f4e897"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/README.md",
+    "size": 814,
+    "sha256": "46e3a97392720ed1eb52ee750f99be106c854f048f66ea431ab4ff70940b9115"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dane/dzieci_kulasow_indeksy.csv",
+    "size": 1340,
+    "sha256": "5f408f8e988cb87f3d0285ff3cdc1a91c49204e475c783651c904e6035e08e99"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dane/linia_matki.json",
+    "size": 19975,
+    "sha256": "702bf710043bbb27aac52ac9303aab68b453e4e5121800d51ce24bb3fde68f3b"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dane/nagrobek_strzegowo.csv",
+    "size": 503,
+    "sha256": "f7ef89d16f3e9509d0f8751bb6c7e6ac79dec02e5789a0c859b0fedc8dc399ff"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dane/osoby.csv",
+    "size": 2556,
+    "sha256": "df7a2cd3c9a7f6c9494e4fd00b1c28b05736e304ca46adde338d9dcf86131d44"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dane/relacje.csv",
+    "size": 1913,
+    "sha256": "e7ce35f7c3fbede5bb9426c8246691eab7ff0d3e4545ba1b49ab26c6a327c837"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dane/tropy_aktowe.csv",
+    "size": 981,
+    "sha256": "b894541b8391e0ed66520fcdc01fb267b918597b07200a8d8d760570325866bd"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dane/zrodla.csv",
+    "size": 2160,
+    "sha256": "dde26783c3e9da18e86334f7326c9bed1a3262f8ea7457aa3e3e8a1786c12eac"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/dla_codex/POLECENIE_DO_WKLEJENIA.md",
+    "size": 2094,
+    "sha256": "c051e6b33f0d597aae8a4686b589f89989b82056a5f79c55fe5627b0a7fd5ec7"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/manifest.json",
+    "size": 630,
+    "sha256": "afb708c0849afbb6077c5c8108f709aa7fb761237f49d2f9b2267c9c2297fe62"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/zrodla/zdjecia/README.md",
+    "size": 1337,
+    "sha256": "4743669ff218ac5926c93ed252f34c751d50742450c9380db17a5ea3f5ad0519"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/dzieci_kulasow_indeksy.csv",
+    "size": 1340,
+    "sha256": "5f408f8e988cb87f3d0285ff3cdc1a91c49204e475c783651c904e6035e08e99"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/linia_matki.json",
+    "size": 19975,
+    "sha256": "702bf710043bbb27aac52ac9303aab68b453e4e5121800d51ce24bb3fde68f3b"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/nagrobek_strzegowo.csv",
+    "size": 503,
+    "sha256": "f7ef89d16f3e9509d0f8751bb6c7e6ac79dec02e5789a0c859b0fedc8dc399ff"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/osoby.csv",
+    "size": 2556,
+    "sha256": "df7a2cd3c9a7f6c9494e4fd00b1c28b05736e304ca46adde338d9dcf86131d44"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/relacje.csv",
+    "size": 1913,
+    "sha256": "e7ce35f7c3fbede5bb9426c8246691eab7ff0d3e4545ba1b49ab26c6a327c837"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/tropy_aktowe.csv",
+    "size": 981,
+    "sha256": "b894541b8391e0ed66520fcdc01fb267b918597b07200a8d8d760570325866bd"
+  },
+  {
+    "path": "badania/2026-11-06-linia-matki/dane/zrodla.csv",
+    "size": 2160,
+    "sha256": "dde26783c3e9da18e86334f7326c9bed1a3262f8ea7457aa3e3e8a1786c12eac"
+  }
+]

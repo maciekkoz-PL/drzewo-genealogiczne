@@ -1,0 +1,18 @@
+﻿id_robocze;osoba_a;osoba_b;relacja;zrodla;poziom_dowodu;uwagi
+MAT-R01;MAT-P02;MAT-P01;ojciec_córka;S086;dokument;Twardy fakt urzędowy.
+MAT-R02;MAT-P03;MAT-P01;matka_córka;S086;dokument;Twardy fakt urzędowy.
+MAT-R03;MAT-P02;MAT-P03;małżeństwo;MAT-REL-01;relacja;"Wspólne dzieci i przekaz rodzinny; brak własnego aktu ślubu."
+MAT-R04;MAT-P02;MAT-P04;ojciec_syn;MAT-REL-01;relacja;Brak aktu.
+MAT-R05;MAT-P03;MAT-P04;matka_syn;MAT-REL-01;relacja;Brak aktu.
+MAT-R06;MAT-P02;MAT-P05;ojciec_córka;MAT-REL-01;relacja;Brak aktu.
+MAT-R07;MAT-P03;MAT-P05;matka_córka;MAT-REL-01;relacja;Brak aktu.
+MAT-R08;MAT-P06;MAT-P03;ojciec_córka;MAT-REL-02;relacja rodzinna;"Potwierdzona przez przekaz genealogiczny; brak aktu Anny jako łącznika."
+MAT-R09;MAT-P07;MAT-P03;matka_córka;"MAT-REL-02;MAT-IDX-01";relacja+indeks;Tożsamość Konstancji z Gralewicz ma podstawę indeksową, brak skanu.
+MAT-R10;MAT-P06;MAT-P07;małżeństwo;MAT-IDX-01;indeks;Akt 16/1894 Strzegowo według wcześniejszych ustaleń. Koniecznie sprawdzić miejscowość i skan.
+MAT-R11;MAT-P08;MAT-P02;możliwy_ojciec;MAT-FOTO-01;HIPOTEZA;Wspólny nagrobek NIE DOWODZI ojcostwa. Nie łączyć jako potwierdzone.
+MAT-R12;MAT-P09;MAT-P02;możliwa_matka;MAT-FOTO-01;HIPOTEZA;Wspólny nagrobek NIE DOWODZI macierzyństwa. Nie łączyć jako potwierdzone.
+MAT-R13;MAT-P10;MAT-P06;możliwy_ojciec;MAT-IDX-02;indeks;Dopiero po zweryfikowaniu 55/1859 i 16/1894.
+MAT-R14;MAT-P11;MAT-P06;możliwa_matka;MAT-IDX-02;indeks;Dopiero po zweryfikowaniu 55/1859 i 16/1894.
+MAT-R15;MAT-P12;MAT-P07;możliwy_ojciec;MAT-IDX-03;indeks;Dopiero po zweryfikowaniu 60/1873 i 16/1894.
+MAT-R16;MAT-P13;MAT-P07;możliwa_matka;MAT-IDX-03;indeks;Dopiero po zweryfikowaniu 60/1873 i 16/1894.
+MAT-R17;MAT-P01;P01;matka_córka;MAT-REL-01;relacja rodzinna;"Marysia to P01 w istniejącym repo; S086 jest ślubem rodziców i sam nie dowodzi urodzenia dziecka."
