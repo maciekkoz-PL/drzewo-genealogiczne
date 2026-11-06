@@ -657,7 +657,7 @@
         "S003"
       ],
       "x": 0,
-      "y": -740,
+      "y": -260,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
@@ -679,7 +679,7 @@
         "S001"
       ],
       "x": 280,
-      "y": -740,
+      "y": -260,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
@@ -702,7 +702,7 @@
         "S122"
       ],
       "x": 560,
-      "y": -740,
+      "y": -260,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
@@ -725,7 +725,7 @@
         "S035"
       ],
       "x": 840,
-      "y": -740,
+      "y": -260,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
@@ -748,7 +748,7 @@
         "S079"
       ],
       "x": 1120,
-      "y": -740,
+      "y": -260,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
@@ -772,7 +772,7 @@
         "S077"
       ],
       "x": 1400,
-      "y": -740,
+      "y": -260,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
@@ -795,7 +795,7 @@
         "S077"
       ],
       "x": 1680,
-      "y": -740,
+      "y": -260,
       "status": "candidate",
       "branch": "paternal",
       "evidence": "hypothesis",
