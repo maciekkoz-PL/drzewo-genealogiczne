@@ -73,3 +73,11 @@ Zachowano23arkusze, wszystkie wcześniejsze relacje i dokumenty. Dodano S167–S
 Publiczne karty uzupełniono o spotkania sprzed2000 i szerszą hipotezę dotyczącą brataCzesława. Nie dodano wpisu kroniki o przełomie, bo **nie nastąpiło rozstrzygnięcie pokrewieństwa**. Nie eksportowano wskazówki zdrowotnej. Publikację opisują osobne metadane po rzeczywistym wdrożeniu.
 
 [Manifest źródeł](manifest_zrodel_sesji.json), [plan dalszej pracy](PLAN_KONTYNUACJI.md).
+
+## Zapis i publikacja zakończone
+
+Badania i źródła zapisano naGitHubie wcommicie `9aa6ce1`. Opublikowano **wersję17** pod [dotychczasowym adresem](https://korzenie-marysi.maciekkoz187874.chatgpt.site): status succeeded, HTTP200, identycznyHTML. Sprawdzono kartyCzesi/syna, źródłoREL-014, hipotezę małżeństwa wyłącznie na poziomie3, stałe linie rodzicówMarysi i mapy. Telefon390px bez przepełnienia, komputer1440px, brak błędówJavaScript. [Publikacja](PUBLIKACJA.json), [sprawdzenie publiczne i ograniczenie weryfikacjiCA środowiska](WALIDACJA_PUBLICZNA.json).
+
+Walidacja bazy i77kopii źródłowych oraz1118członków korpusuZIP przeszła. Audyt96rekordówosób/75relacji, publiczne51kart/75relacji/7wpisów. Potwierdzone relacje, rdzeń rodziny, cała gałąź mamy i oryginalneZIPy zachowane. [Walidacja](WALIDACJA.json).
+
+Najbliższe nowe kierunki: rzeczywiste nekrologiŁodzi zX1999, dwa indeksowe śluby bez rodziców (Skrwilno/Pniewo) z odczytem oryginałów oraz publikacje spoza558tekstów Szczurka. Nie ma niezależnego dowodu identyfikującego syna. Sam katalogPZN z0skanów nie zastępuje dokumentu i nie uprawnia do przypisania członkostwa.

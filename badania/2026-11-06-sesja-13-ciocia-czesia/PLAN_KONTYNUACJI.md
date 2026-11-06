@@ -1,3 +1,5 @@
+**Stan końcowy:** badania `9aa6ce1`; publiczna wersja17 działa, HTTP200 i zgodnośćHTML potwierdzone.51kart/75relacji/7wpisów; audyt96rekordówosób. H028/H030/H033 nadal otwarte. [Metadane](PUBLIKACJA.json).
+
 # Kontynuacja — Czesia i syn
 
 1. **Obowiązujący priorytet:** tylko P31 ciociaCzesia zŁodzi i P32 jej nienazwany syn wNiemczech. Ogólna hipoteza H033 „żona brataCzesława”, RomanP12 tylko wariantH028. Nie tworzyć fikcyjnego nowego brata lub ojca syna. P12 urodzony06.06.1919Rogóźno, rodziceWincenty/AgnieszkaMiszczyszyn. HipotezaH017 przypisania dat rodzicówBogusława pozostaje osobna.
