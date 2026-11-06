@@ -188,7 +188,7 @@
           "query": "Rogóźno, gmina Tomaszów Lubelski, lubelskie, Polska"
         },
         {
-          "label": "Berri",
+          "label": "Berri, Australia",
           "query": "Berri, South Australia, Australia"
         }
       ],
@@ -1033,7 +1033,7 @@
       "name": "Czesław Chmielewski — rekord IPN Straty 5791928",
       "role": "kandydat na P03, NIE utożsamiony",
       "dates": "ur. 03.07.1909; mieszkaniec Łodzi; informacja o nieobecności 17.02.1944",
-      "place": "Łódź / OT Stolpce, Białoruś",
+      "place": "Łódź / Stołpce (Stolpce), Białoruś",
       "note": "Data i miasto zbieżne z P03, ale opis wtórny bez rodziców, Rogóźna i Stockiej. Nie przypisano represji rodzinie jako faktu.",
       "source": [
         "S075",
@@ -1056,7 +1056,7 @@
           "query": "Łódź, Polska"
         },
         {
-          "label": "Stołpce (Stolpce)",
+          "label": "Stołpce (Stolpce), Białoruś",
           "query": "Stołpce, Białoruś"
         }
       ],
@@ -1067,7 +1067,7 @@
       "name": "Czeskowo / Chmielevki — zapis z listy Caßdorf",
       "role": "kandydat na P03, NIE utożsamiony",
       "dates": "ur. 03.07.1909 Rogosni; pobyt zapisany 01.07.1940–1945",
-      "place": "Caßdorf, Fritzlar-Homberg, Hesja",
+      "place": "Caßdorf, Niemcy · Fritzlar-Homberg, Niemcy · Hesja",
       "note": "Rogosni może odpowiadać Rogóźnu, ale brak powiatu/rodziców. Lista ma także odrębny wiersz C29. Nie uznano grupowania Straty za dowód scalenia.",
       "source": [
         "S075",
@@ -1087,11 +1087,11 @@
       "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
       "locations": [
         {
-          "label": "Caßdorf",
+          "label": "Caßdorf, Niemcy",
           "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
         },
         {
-          "label": "Fritzlar",
+          "label": "Fritzlar, Niemcy",
           "query": "Fritzlar, Hessen, Deutschland"
         }
       ],
@@ -1102,7 +1102,7 @@
       "name": "Chmielowski Czeslaw — odrębny wiersz listy Caßdorf",
       "role": "porównanie z C28/P03; NIE utożsamiony",
       "dates": "ur. 03.07.1909 Lodz, status Kgf., pobyt nieznany",
-      "place": "Caßdorf / Fritzlar; w dalszych wykazach Litzmannstadt",
+      "place": "Caßdorf, Niemcy / Fritzlar, Niemcy; w dalszych wykazach Litzmannstadt (Łódź)",
       "note": "Ta sama data, podobne nazwisko, lecz miejsce ur. Łódź zamiast Rogóźna. Może być homonimem lub błędnym/zdublowanym zapisem; przyczyny nie rozstrzygnięto.",
       "source": [
         "S076",
@@ -1125,11 +1125,11 @@
           "query": "Łódź, Polska"
         },
         {
-          "label": "Caßdorf",
+          "label": "Caßdorf, Niemcy",
           "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
         },
         {
-          "label": "Fritzlar",
+          "label": "Fritzlar, Niemcy",
           "query": "Fritzlar, Hessen, Deutschland"
         }
       ],
@@ -1634,7 +1634,7 @@
       "name": "Anna Chmielewski",
       "role": "Żona emigranta Romana",
       "dates": "Ur.19.02.1929",
-      "place": "Melk,Austria",
+      "place": "Melk, Austria",
       "note": "Karta emigranta Romana wymienia ją wprost jako żonę. Lista transportowa podaje datę 19.02.1929 i miejsce Melk w Austrii. Nazwisko rodowe nieznane; dokument używa formy Chmielewski. Nie utożsamiono jej z ciocią Czesią ani Hanną z ogłoszeń z 2003 r. Jej późniejsze losy i związek z rodziną Marysi pozostają nieustalone. Nowy trop: Anna Theresia Chmielewski, zmarła 07.02.1987 w wieku 57 lat, jest w rejestrze tego samego grobu co Roman i Ernest. Wiek pasuje do Anny z 1929 r., lecz pełnej daty urodzenia nie podano. Rekord C96 pozostaje osobno (H042); nie przypisano Annie tego zgonu jako pewnego.",
       "source": [
         "S182",
@@ -1653,7 +1653,12 @@
       "classificationReason": "Prawdopodobna gałąź australijska Romana P12; identyfikację przyjęto roboczo na życzenie użytkownika na podstawie zgodnego imienia, nazwiska i pełnej daty urodzenia.",
       "missing": "Dodatkowe potwierdzenie identyfikacji australijskiej Romana P12; późniejsze losy.",
       "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
-      "locations": [],
+      "locations": [
+        {
+          "label": "Melk, Austria",
+          "query": "Melk, Austria"
+        }
+      ],
       "addresses": []
     },
     {
@@ -1661,7 +1666,7 @@
       "name": "Roman Chmielewski (1946)",
       "role": "Syn emigranta Romana",
       "dates": "Ur.06.10.1946",
-      "place": "Austria · Mildura,Australia1950",
+      "place": "Austria · Mildura, Australia (1950)",
       "note": "Własna karta migracyjna podaje datę 06.10.1946 i ojca Romana. Przyjechał do Australii 30.01.1950; w kwietniu skierowano go do ośrodka w Mildurze. Lista podaje miejsce urodzenia Austria/Scheibbe. Karta zawiera fotografię dziecka i podpis Anny. Nie ustalono, czy obecnie żyje. Przy przyjętej identyfikacji ojca Roman jest kuzynem Bogusława. Połączenie przyjęto roboczo na podstawie zgodnej daty urodzenia ojca. Bardzo prawdopodobny późniejszy ślad to Ray / Raymond Chmielewski, 06.10.1946–19.11.2020, z bratem Erniem o dacie urodzenia zgodnej z Ernestem z tej rodziny. Ray ma osobną kartę C79 i wymienioną w nekrologu rodzinę. Nie odczytano dokumentu łączącego imiona Roman i Raymond; H040 pozostaje otwarta.",
       "source": [
         "S182",
@@ -1682,7 +1687,7 @@
       "dataEvidence": "Daty i relacje lokalne zlisty oraz kartNAA; nie są to odczytane akty urodzenia/ślubu.",
       "locations": [
         {
-          "label": "Mildura",
+          "label": "Mildura, Australia",
           "query": "Mildura, Victoria, Australia"
         }
       ],
@@ -1709,7 +1714,7 @@
       "name": "Ernest / Ernst Chmielewski",
       "role": "Syn emigranta Romana",
       "dates": "Ur.20.11.1947",
-      "place": "Austria · transport doAustralii1950",
+      "place": "Austria · transport do Australii (1950)",
       "note": "Syn emigranta Romana według jego karty. Lista transportowa i australijski katalog podają datę 20.11.1947 oraz miejsce Austria/Scheibbe. Imię zapisano jako Ernest lub Ernst. Nie ustalono, czy obecnie żyje. Wpis pogrzebu Erniego w Geelong z 2024 r. nie podaje daty urodzenia ani krewnych, więc nie utożsamiono tych osób. Potencjalne pokrewieństwo z Marysią zależy od hipotezy H035. Pełne ogłoszenie Erniego C75 podaje dokładnie 20.11.1947–27.11.2024; te daty potwierdza też rejestr cmentarny. Nekrolog jego brata Raya podaje datę 06.10.1946 zgodną z Romanem z tej rodziny. H036 jest teraz bardzo prawdopodobna, ale C72 i C75 zachowano osobno; zgonu nie przypisano automatycznie temu rekordowi.",
       "source": [
         "S182",
@@ -1756,7 +1761,12 @@
       "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
       "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
       "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
-      "locations": [],
+      "locations": [
+        {
+          "label": "Geelong, Australia",
+          "query": "Geelong, Australia"
+        }
+      ],
       "addresses": []
     },
     {
@@ -1764,7 +1774,7 @@
       "name": "Raymond (Ray, Chima) Chmielewski",
       "role": "Bardzo prawdopodobny późniejszy rekord Romana C71",
       "dates": "06.10.1946 – 19.11.2020",
-      "place": "Geelong dawniej · Nerang: pogrzeb",
+      "place": "Geelong, Australia (dawniej) · Nerang, Australia (pogrzeb)",
       "note": "Nekrolog od brata Erniego podaje pełną datę urodzenia zgodną z Romanem C71. Ogłoszenie pogrzebowe nazywa go Raymondem (Chima), dawniej z Geelong. Żona: Rose. Dzieci i ich partnerzy wymienieni wspólnie parami: Michelle/Chris, Simone/Nikki, Nicole/Dean. Wnuki: Rebecca, Robert, Max, Ebony, Tori, Marcus, Stella; ich rodziców nie wskazano. Wzmianka o prawnukach bez imion. Pogrzeb 27.11.2020 w Allambe, Nerang. Nie odczytano dokumentu łączącego imiona Roman i Raymond; identyfikacja H040 i połączenie z Marysią pozostają niepotwierdzone.",
       "source": [
         "S196",
@@ -1781,7 +1791,16 @@
       "classificationReason": "Osoba wymieniona w publicznym ogłoszeniu rodzinnym. Połączenie z Marysią zależy od nierozstrzygniętych identyfikacji P12/C69 oraz braci z listy migracyjnej i nekrologów.",
       "missing": "Niepotwierdzone połączenie z rodziną Marysi. Nazwiska i dokładne role dopisywać tylko z nowego źródła; ogłoszenie z 2020 r. nie potwierdza obecnego stanu życia.",
       "dataEvidence": "Odczyt ogłoszenia rodzinnego; nie odczytano aktu tej osoby.",
-      "locations": [],
+      "locations": [
+        {
+          "label": "Geelong, Australia",
+          "query": "Geelong, Australia"
+        },
+        {
+          "label": "Nerang, Australia",
+          "query": "Nerang, Australia"
+        }
+      ],
       "addresses": []
     },
     {
