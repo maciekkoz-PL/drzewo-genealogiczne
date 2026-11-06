@@ -1,3 +1,5 @@
+**Układ wymagany przez użytkownika:** Marysia w centrum, rodzina taty nad nią, mamy pod nią. Połączenia Marysi z Bogusławem i Marią są znane rodzinie i zawsze widoczne także w widoku udokumentowanym; nie żądać dla nich aktu Marysi. [Zasada](witryna/UKLAD_I_RODZICE.md).
+
 **Aktualny zakres widoku (06.11.2026):** obie strony rodziny, rodzeństwo także jako jawne hipotezy i przełącznik udokumentowanych relacji. Dodano rodziców Marii zS086. Inne czaty projektuChatGPTniedostępne; siostry zTczewa do identyfikacji, bez zgadywania nazwisk. [Stan i granice](badania/2026-11-06-sesja-08-pelne-drzewo/STATUS.md), [kontynuacja](badania/2026-11-06-sesja-08-pelne-drzewo/PLAN_KONTYNUACJI.md).
 
 **Stała zasada aktualizacji strony (przypomnienie06.11.2026):** każde ważne odkrycie zapisz także w drzewie i krótkiej kronice pod nim oraz opublikuj pod istniejącym linkiem w tej samej sesji. Ważny akt dotyczący kandydata pokaż z jawną niepewnością, bez udawania potwierdzonego pokrewieństwa. [Szczegóły](witryna/README.md).

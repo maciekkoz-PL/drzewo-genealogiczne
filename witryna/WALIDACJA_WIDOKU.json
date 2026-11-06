@@ -1,6 +1,6 @@
 {
   "result": "PASS",
-  "at_utc": "2026-11-06T07:50:07.480464+00:00",
+  "at_utc": "2026-11-06T08:04:51.228212+00:00",
   "full_nodes": 21,
   "documented_nodes": 13,
   "maternal_nodes": 4,
@@ -10,6 +10,9 @@
   "candidate_identities_not_promoted": true,
   "H017_edges_hidden_in_documented_view": true,
   "maternal_parentage_source_S086": true,
+  "Marysia_centered_desktop_mobile": true,
+  "father_family_above_mother_family_below": true,
+  "parents_connected_in_all_evidence_modes": true,
   "dialog_navigation_search_and_390px_checked": true,
   "javascript_errors": []
 }

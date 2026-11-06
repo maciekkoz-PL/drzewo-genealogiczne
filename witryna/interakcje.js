@@ -4,9 +4,9 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const byId=Object.fromEntries(D.people.map(p=>[p.id,p]));
 const dt=s=>new Intl.DateTimeFormat('pl-PL',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Warsaw'}).format(new Date(s));
 const labels={document:'Dokument',identity:'Identyfikacja w toku',family:'Przekaz rodzinny',candidate:'Pokrewieństwo do sprawdzenia'};
-const edgeLabels={document:'Rodzicielstwo wskazane w dokumencie',marriage:'Małżeństwo potwierdzone dokumentem',identity:'Tożsamość pary wymaga dodatkowego potwierdzenia',family:'Relacja z przekazu rodzinnego',sibling:'Rodzeństwo z przekazu rodzinnego',hypothesis:'Hipoteza rodzeństwa — niepotwierdzona'};
+const edgeLabels={parent:'Rodzice Marysi — potwierdzone przez rodzinę',document:'Rodzicielstwo wskazane w dokumencie',marriage:'Małżeństwo potwierdzone dokumentem',identity:'Tożsamość pary wymaga dodatkowego potwierdzenia',family:'Relacja z przekazu rodzinnego',sibling:'Rodzeństwo z przekazu rodzinnego',hypothesis:'Hipoteza rodzeństwa — niepotwierdzona'};
 const normalize=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ł/g,'l');
-let currentPeople=[],currentEdges=[],positions={},scale=1,width=1540,height=1080;
+let currentPeople=[],currentEdges=[],positions={},scale=1,width=1540,height=1080,offsetX=0,offsetY=0;
 $('updated').textContent='Aktualizacja: '+dt(D.generated);
 
 function filteredPeople(){
@@ -14,26 +14,36 @@ function filteredPeople(){
  return D.people.filter(p=>(branch==='both'||p.branch==='both'||p.branch===branch)&&(!documented||p.evidence==='document'||p.id==='P01'));
 }
 function zoom(v){
+ const centerX=($('viewport').scrollLeft+$('viewport').clientWidth/2-offsetX)/scale,centerY=($('viewport').scrollTop+$('viewport').clientHeight/2-offsetY)/scale;
  scale=Math.max(.2,Math.min(1.8,v));
  $('canvas').style.transform=`scale(${scale})`;
- $('sizer').style.width=width*scale+'px';$('sizer').style.height=height*scale+'px';
+ updateCanvasBox();
+ $('viewport').scrollTo(Math.max(0,offsetX+centerX*scale-$('viewport').clientWidth/2),Math.max(0,offsetY+centerY*scale-$('viewport').clientHeight/2));
+}
+function updateCanvasBox(){
+ offsetX=Math.max(0,($('viewport').clientWidth-width*scale)/2);offsetY=Math.max(0,($('viewport').clientHeight-height*scale)/2);
+ $('canvas').style.left=offsetX+'px';$('canvas').style.top=offsetY+'px';
+ $('sizer').style.width=Math.max(width*scale,$('viewport').clientWidth)+'px';$('sizer').style.height=Math.max(height*scale,$('viewport').clientHeight)+'px';
 }
 function fit(){
  const minHeight=innerWidth<700?420:490,maxHeight=Math.min(900,Math.max(minHeight,innerHeight-240));
  zoom(Math.min($('viewport').clientWidth/width,maxHeight/height,1));
- $('viewport').style.height=Math.max(minHeight,Math.min(maxHeight,height*scale+20))+'px';$('viewport').scrollTo(0,0);
+ $('viewport').style.height=Math.max(minHeight,Math.min(maxHeight,height*scale+20))+'px';updateCanvasBox();centerMarysia();
+}
+function centerMarysia(){
+ const p=positions.P01;if(!p)return;const node=document.querySelector('[data-id="P01"]');
+ $('viewport').scrollTo(Math.max(0,offsetX+(p.x+120)*scale-$('viewport').clientWidth/2),Math.max(0,offsetY+(p.y+node.offsetHeight/2)*scale-$('viewport').clientHeight/2));
 }
 function renderTree(){
  currentPeople=filteredPeople();const ids=new Set(currentPeople.map(p=>p.id));
  const documented=$('evidence').value==='documented';
- currentEdges=D.edges.filter(([a,b,kind])=>ids.has(a)&&ids.has(b)&&(!documented||['document','marriage'].includes(kind)));
+ currentEdges=D.edges.filter(([a,b,kind])=>ids.has(a)&&ids.has(b)&&(!documented||['document','marriage','parent'].includes(kind)));
  $('canvas').querySelectorAll('.node').forEach(n=>n.remove());$('lines').replaceChildren();
- const minX=Math.min(...currentPeople.map(p=>p.x))-40;
- const minY=Math.min(...currentPeople.map(p=>p.y))-40;
- width=Math.max(800,Math.max(...currentPeople.map(p=>p.x))-minX+280);
- height=Math.max(520,Math.max(...currentPeople.map(p=>p.y))-minY+240);
- $('canvas').style.width=width+'px';$('canvas').style.height=height+'px';
- $('lines').style.width=width+'px';$('lines').style.height=height+'px';$('lines').setAttribute('viewBox',`0 0 ${width} ${height}`);
+ const root=byId.P01,centerX=root.x+120,centerY=root.y+71;
+ const halfWidth=Math.max(400,...currentPeople.map(p=>Math.max(centerX-p.x,p.x+240-centerX)))+40;
+ const halfHeight=Math.max(260,...currentPeople.map(p=>Math.max(centerY-p.y,p.y+142-centerY)))+40;
+ const minX=centerX-halfWidth,minY=centerY-halfHeight;
+ width=halfWidth*2;height=halfHeight*2;
  $('people').innerHTML='<option value="">Wybierz osobę, aby zobaczyć szczegóły</option>';
  for(const p of currentPeople){
   positions[p.id]={x:p.x-minX,y:p.y-minY};const pos=positions[p.id];
@@ -42,26 +52,34 @@ function renderTree(){
   b.onclick=()=>openPerson(p.id);$('canvas').appendChild(b);
   const o=document.createElement('option');o.value=p.id;o.textContent=p.name+(p.status==='candidate'?' · hipoteza':'');$('people').appendChild(o);
  }
+ // Centre the measured root card, whose height can vary with text wrapping.
+ const rootNode=document.querySelector('[data-id="P01"]'),shiftY=height/2-(positions.P01.y+rootNode.offsetHeight/2);
+ for(const p of currentPeople){positions[p.id].y+=shiftY;document.querySelector(`[data-id="${p.id}"]`).style.top=positions[p.id].y+'px'}
+ $('canvas').style.width=width+'px';$('canvas').style.height=height+'px';
+ $('lines').style.width=width+'px';$('lines').style.height=height+'px';$('lines').setAttribute('viewBox',`0 0 ${width} ${height}`);
  let lane=0;
  for(const [a,b,kind] of currentEdges){
   const A=positions[a],B=positions[b];let d;
   if(kind==='hypothesis'){
    const top=Math.min(A.y,B.y)-22-(lane++%3)*12;
    d=`M${A.x+120},${A.y} V${top} H${B.x+120} V${B.y}`;
+  }else if(kind==='marriage'&&A.y!==B.y){
+   const rail=Math.max(...currentPeople.filter(p=>positions[p.id].y>=Math.min(A.y,B.y)&&positions[p.id].y<=Math.max(A.y,B.y)).map(p=>positions[p.id].x+240))+60;
+   d=`M${A.x+240},${A.y+66} H${rail} V${B.y+66} H${B.x+240}`;
   }else if(kind==='marriage'||kind==='sibling'){
    const left=A.x<B.x?A:B,right=left===A?B:A;
    d=`M${left.x+240},${left.y+66} L${right.x},${right.y+66}`;
   }else{
-   const x=A.x+120,y=A.y+document.querySelector(`[data-id="${a}"]`).offsetHeight,X=B.x+120,Y=B.y;
+   const down=B.y>A.y,x=A.x+120,y=A.y+(down?document.querySelector(`[data-id="${a}"]`).offsetHeight:0),X=B.x+120,Y=B.y+(down?0:document.querySelector(`[data-id="${b}"]`).offsetHeight);
    d=`M${x},${y} V${y+(Y-y)*.5} H${X} V${Y}`;
   }
   const path=document.createElementNS('http://www.w3.org/2000/svg','path');path.setAttribute('d',d);path.setAttribute('fill','none');
   path.setAttribute('stroke',['identity','hypothesis'].includes(kind)?'#ab7d3e':['family','sibling'].includes(kind)?'#8c9896':kind==='marriage'?'#8e859e':'#729b7c');
-  path.setAttribute('stroke-width','1.7');path.dataset.kind=kind;path.dataset.from=a;path.dataset.to=b;
+  path.setAttribute('stroke-width',kind==='parent'?'3':'1.7');path.dataset.kind=kind;path.dataset.from=a;path.dataset.to=b;
   if(['identity','family','sibling','hypothesis'].includes(kind))path.setAttribute('stroke-dasharray',kind==='hypothesis'?'2 6':'6 5');
   const title=document.createElementNS('http://www.w3.org/2000/svg','title');title.textContent=edgeLabels[kind];path.appendChild(title);$('lines').appendChild(path);
  }
- $('view-note').textContent=documented?'Tylko udokumentowane relacje; Marysia pozostaje punktem odniesienia.':'Przerywane połączenia oznaczają przekaz rodzinny lub niepotwierdzone pokrewieństwo.';
+ $('view-note').textContent=documented?'Rodzice Marysi oraz udokumentowane powiązania.':'Marysia w centrum · rodzina taty u góry, rodzina mamy na dole.';
  applySearch();fit();
 }
 function openPerson(id){
@@ -77,7 +95,7 @@ function openPerson(id){
  $('detail').querySelectorAll('[data-open]').forEach(b=>b.onclick=()=>openPerson(b.dataset.open));
  if(!$('person').open)$('person').showModal();location.hash='osoba-'+id;
  $('people').value=id;
- const pos=positions[id];$('viewport').scrollTo({left:Math.max(0,(pos.x+120)*scale-$('viewport').clientWidth/2),top:Math.max(0,(pos.y+70)*scale-$('viewport').clientHeight/2)});
+ const pos=positions[id];$('viewport').scrollTo({left:Math.max(0,offsetX+(pos.x+120)*scale-$('viewport').clientWidth/2),top:Math.max(0,offsetY+(pos.y+70)*scale-$('viewport').clientHeight/2)});
 }
 function applySearch(){
  const q=normalize($('search').value);

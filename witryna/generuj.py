@@ -15,10 +15,10 @@ person('P03','Czesław Chmielewski','Ojciec Bogusława — nazwisko w odpisie','
 person('P04','Janina Poprawka','Matka Bogusława — nazwisko w odpisie','Ur. 12.05.1910*','Socha → Łódź','Odpis ślubu Bogusława wymienia matkę Janinę, z domu Poprawkę. Data 1910 pochodzi z osobnego aktu, powiązanego ze ślubem pary w 1936 r. *Dodatkowe potwierdzenie, że to dokładnie ta osoba, pozostaje otwarte (H017). Po ślubie Chmielewska.',['S086','S001','S063'],840,260,'identity'),
 person('P11','Brat Bogusława','Imię pozostaje nieznane','Daty nieustalone','', 'Według przekazu rodzinnego Bogusław miał brata, który był ojcem kuzyna Marysi. Brak dokumentu potwierdzającego tę relację. Nie przypisujemy mu imienia na podstawie grobów ani zbieżności nazwiska.',['REL'],140,510,'family'),
 person('P02','Bogusław Kazimierz Chmielewski','Tata Marysi','25.04.1943 – 1988†','Łódź','Odpis ślubu potwierdza urodzenie 25.04.1943 w Łodzi i podaje rodziców: Czesława Chmielewskiego oraz Janinę Poprawkę. Ślub w Warszawie 13.11.1982; adnotacja rozwodu z 23.04.1985. †Zgon w 1988 r. pochodzi z przekazu rodzinnego i nadal wymaga dokumentu.',['S086','REL'],620,510),
-person('P17','Maria Jankowska','Mama Marysi — według przekazu','Ur. 04.01.1942','Strzegowo', 'Odpis ślubu podaje imię Maria, nazwisko rodowe Jankowska, datę i miejsce urodzenia oraz rodziców: Romana Jankowskiego i Annę z domu Kulas. Ślub z Bogusławem: 13.11.1982 Warszawa; po ślubie Chmielewska; adnotacja rozwodu: 23.04.1985. Macierzyństwo wobec Marysi wynika z kontekstu przekazu rodzinnego. Nie ustalono informacji o zgonie ani obecnie używanego nazwiska.',['S086','REL'],1030,510,'family'),
+person('P17','Maria Jankowska','Mama Marysi','Ur. 04.01.1942','Strzegowo', 'Mama Marysi, zgodnie z potwierdzeniem rodziny. Odpis ślubu podaje imię Maria, nazwisko rodowe Jankowska, datę i miejsce urodzenia oraz rodziców: Romana Jankowskiego i Annę z domu Kulas. Ślub z Bogusławem: 13.11.1982 Warszawa; po ślubie Chmielewska; adnotacja rozwodu: 23.04.1985. Nie ustalono informacji o zgonie ani obecnie używanego nazwiska.',['S086','REL-009'],1030,510,'family'),
 person('P10','Piotr Chmielewski','Kuzyn Marysi — według przekazu','Ur. ok. 1969–1973†','', 'Syn nieznanego z imienia brata Bogusława — według relacji rodziny. †Przedział urodzenia to oszacowanie na podstawie przybliżonego wieku, a nie odczyt z aktu. Rodzina pamięta jego udział w mundurze policjanta w pogrzebie Tomasza w 2001 r. Nie potwierdzono, czy jest osobą opisaną w artykułach o policjancie z Łodzi. Pokrewieństwo nadal wymaga dokumentów.',['REL'],140,760,'family'),
 person('P09','Tomasz Chmielewski','Przyrodni brat Marysi','Zm. 26.04.2001† · 30 lat','', 'Imię, nazwisko, dzień 26 IV i wiek odczytano z rodzinnych fotografii nagrobka. †Rok 2001 oraz relacja ojciec–syn z Bogusławem pochodzą z przekazu rodzinnego; rok na zdjęciu jest częściowo zasłonięty. Nie znamy dokładnej daty urodzenia.',['S027','REL'],510,760,'family'),
-person('P01','Marysia','Od niej zaczyna się ta opowieść','Ur. ok. 1984†','', 'Córka Bogusława i Marii według przekazu rodzinnego. †Przybliżony rok urodzenia pochodzi z historii rodzinnej; nie zweryfikowano go aktem urodzenia. Nie ustalono jej pełnego imienia i nazwiska — nie uzupełniamy ich na podstawie nazwisk rodziców.',['REL'],970,760,'family'),
+person('P01','Marysia','Córka Bogusława i Marii','Ur. ok. 1984†','', 'Rodzice Marysi to Bogusław Kazimierz Chmielewski i Maria Jankowska — potwierdzone przez rodzinę. Te połączenia są zawsze widoczne w drzewie. †Przybliżony rok urodzenia pochodzi z historii rodzinnej. Nie ustalono jej pełnego imienia i nazwiska.',['REL-009'],970,760,'family'),
 person('C42','Czesław Chmielewski','Możliwy brat Bogusława','Zm. 03.02.1940 · 8 dni','Łódź','Odnaleziony akt zgonu 66/1940 parafii św. Anny w Łodzi wymienia rodziców: Czesława i Janinę z Poprawskich. Bogusław ma w swoim odpisie ślubu rodziców Czesława i Janinę Poprawkę. Podobne dane uzasadniają sprawdzenie, ale różnica nazwiska matki i brak dat urodzenia rodziców nie pozwalają jeszcze potwierdzić braterstwa. Linia w pełnym widoku oznacza tylko hipotezę. Dziecko zmarło jako niemowlę i nie jest poszukiwanym ojcem Piotra. Dokładna data urodzenia nie została odczytana z aktu.',['S126','S086'],1280,510,'candidate'),
 person('P18','Roman Jankowski','Ojciec Marii · strona mamy','Daty nieustalone','','W odpisie ślubu Marii Jankowskiej i Bogusława z 1982 r. Roman Jankowski jest wymieniony jako ojciec Marii. To dziadek Marysi przez jej mamę według przekazu rodzinnego. Nie znamy jego dat ani miejsc urodzenia i śmierci. Nie jest Romanem Chmielewskim, bratem Czesława. Nie odnaleziono dokumentu jego małżeństwa z Anną.',['S086'],0,0),
 person('P19','Anna Kulas','Matka Marii · strona mamy','Daty nieustalone','','W odpisie ślubu Marii i Bogusława z 1982 r. matka Marii ma imię Anna i nazwisko rodowe Kulas. To babcia Marysi przez jej mamę według przekazu rodzinnego. Jej daty i miejsca urodzenia oraz śmierci pozostają nieustalone. Nie dopisujemy nazwiska po ślubie ani dat jej własnego małżeństwa.',['S086'],0,0),
@@ -30,9 +30,10 @@ person('C11','Witold Chmielewski','Możliwy brat · trop grobowy','Zm. 22.08.200
 layout={
  'P05':(560,40),'P06':(820,40),'P07':(1550,40),'P08':(1810,40),
  'C02':(20,280),'C04':(280,280),'P12':(540,280),'P03':(800,280),
- 'P04':(1180,280),'C25':(1440,280),'C26':(1700,280),'P18':(2020,280),'P19':(2280,280),
- 'C11':(540,560),'C42':(800,560),'P11':(1060,560),'P02':(1320,560),'P17':(2180,560),
- 'P10':(1060,840),'P09':(1540,840),'P01':(1940,840)}
+ 'P04':(1180,280),'C25':(1440,280),'C26':(1700,280),
+ 'C11':(280,560),'C42':(540,560),'P11':(800,560),'P02':(1080,560),
+ 'P10':(800,800),'P09':(1360,800),'P01':(1080,1040),
+ 'P17':(1080,1280),'P18':(920,1520),'P19':(1240,1520)}
 for p in people:
  if p['id'] in ['P17','P09']:p['status']='document'
  p['x'],p['y']=layout[p['id']]
@@ -40,6 +41,7 @@ for p in people:
  p['evidence']='hypothesis' if p['status']=='candidate' else 'family' if p['id'] in ['P01','P10','P11'] else 'document'
 edges=[('P05','P03','document'),('P06','P03','document'),('P05','P12','document'),('P06','P12','document'),('P07','P04','document'),('P08','P04','document'),('P03','P02','identity'),('P04','P02','identity'),('P02','P01','family'),('P17','P01','family'),('P02','P09','family'),('P11','P10','family'),('P02','P11','sibling'),('P03','P04','marriage'),('P02','P17','marriage')]
 edges += [('P18','P17','document'),('P19','P17','document'),('P03','C02','hypothesis'),('P03','C04','hypothesis'),('P04','C25','hypothesis'),('P04','C26','hypothesis'),('P02','C11','hypothesis'),('P02','C42','hypothesis')]
+edges=[(a,b,'parent' if (a,b) in [('P02','P01'),('P17','P01')] else kind) for a,b,kind in edges]
 sources={
 'S086':dict(title='Odpis ślubu Bogusława, II-1592/1982',description='Fotografia przekazana przez rodzinę. Rodzice podani wprost; brak ich dat urodzenia. Dokument rodzinny nie jest publikowany.'),
 'S001':dict(title='Ślub Czesława i Janiny, 110/1936',url='https://metryki.genealodzy.pl/index.php?id=424&kt=1&op=pg&plik=110-111.jpg&sy=1936b'),
@@ -55,6 +57,7 @@ sources={
 'S066':dict(title='Urodzenie Kazimiery, 13/1916, Kamionacz',url='https://skanoteka.genealodzy.pl/index.php?op=pg&id=301&sy=1916&kt=1&plik=011-014.jpg'),
 'S122':dict(title='Miejski rejestr: wspólny grób Czesława i Witolda',url='https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW',description='Zarzew XXXVI-15-36. Współpochówek nie potwierdza pokrewieństwa.'),
 'REL':dict(title='Przekaz rodzinny',description='Informacja od rodziny; nie zastępuje dokumentu potwierdzającego pokrewieństwo.')}
+sources['REL-009']=dict(title='Rodzice Marysi — potwierdzenie rodziny',description='Rodzina potwierdza Bogusława jako tatę Marysi i Marię jako jej mamę. Zgodnie z decyzją rodziny tych dwóch połączeń nie uzależniamy od pozyskania aktów USC.')
 events=[
 ('1f774f3','Uzupełniono gałąź mamy Marysi','Do drzewa dodano Romana Jankowskiego i Annę Kulas — rodziców Marii, wymienionych w znanym już odpisie jej ślubu.','uzupełnienie'),
 ('2843053','Odnaleziono akt możliwego brata Bogusława','Czesław zmarł w Łodzi 3 lutego 1940 r., mając osiem dni. Rodziców zapisano jako Czesława i Janinę z Poprawskich; pokrewieństwo z rodziną wymaga potwierdzenia.','ważny akt'),
