@@ -1,0 +1,199 @@
+{
+  "utc": "2026-11-06T07:41:49.252594+00:00",
+  "workbooks": [
+    {
+      "path": "Marysia_KOMPLET_BAZA_2026-11-05.xlsx",
+      "sheets": [
+        "RDZEN_RODZINY",
+        "RODZINA_Z_RELACJI",
+        "RELACJE",
+        "KANDYDACI_I_HOMONIMY",
+        "ZDARZENIA_I_FAKTY",
+        "ZRODLA_I_SKANY",
+        "KONTAKTY_URZEDOWE",
+        "SZKICE_GMAIL",
+        "ZADANIA_AGENTA",
+        "KOREKTY_I_SPRZECZNOSCI",
+        "DZIENNIK_KWEREND",
+        "PLIKI_DOWODOWE",
+        "START",
+        "INSTRUKCJA_AGENTA",
+        "POTWIERDZONE_AKTEM_1936",
+        "DRZEWO_SCHEMAT",
+        "RELACJE_ZRODLOWE",
+        "AUDYT_PAKIETU",
+        "HIPOTEZY_OTWARTE",
+        "TROPY_SKOROWIDZE",
+        "HIPOTEZY_ROZSTRZYGNIETE"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/Marysia_KOMPLET_BAZA_2026-11-05.xlsx",
+      "sheets": [
+        "RDZEN_RODZINY",
+        "RODZINA_Z_RELACJI",
+        "RELACJE",
+        "KANDYDACI_I_HOMONIMY",
+        "ZDARZENIA_I_FAKTY",
+        "ZRODLA_I_SKANY",
+        "KONTAKTY_URZEDOWE",
+        "SZKICE_GMAIL",
+        "ZADANIA_AGENTA",
+        "KOREKTY_I_SPRZECZNOSCI",
+        "DZIENNIK_KWEREND",
+        "PLIKI_DOWODOWE",
+        "START",
+        "INSTRUKCJA_AGENTA",
+        "POTWIERDZONE_AKTEM_1936",
+        "DRZEWO_SCHEMAT"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_2026-11-04_trop_Piotr_Policja.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia",
+        "Weryfikacja Czesława",
+        "Kontakty instytucji",
+        "Szkice zapytań",
+        "Kwerenda 04-11 II",
+        "Plan kontaktu",
+        "Kwerenda 04-11 III",
+        "Kwerenda 04-11 IV",
+        "Kwerenda 04-11 V",
+        "Trop Piotr Policja"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_rodziny_i_dzialan.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_rozszerzenie.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia",
+        "Weryfikacja Czesława",
+        "Kontakty instytucji",
+        "Szkice zapytań",
+        "Kwerenda 04-11 II",
+        "Plan kontaktu"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_weryfikacja_grobow.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia",
+        "Weryfikacja Czesława",
+        "Kontakty instytucji",
+        "Szkice zapytań"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_potwierdzone_zrodla_i_kontakty.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia",
+        "Weryfikacja Czesława",
+        "Kontakty instytucji",
+        "Szkice zapytań",
+        "Kwerenda 04-11 II",
+        "Plan kontaktu",
+        "Kwerenda 04-11 III"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_trop_prasa_i_weryfikacja.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia",
+        "Weryfikacja Czesława",
+        "Kontakty instytucji",
+        "Szkice zapytań",
+        "Kwerenda 04-11 II",
+        "Plan kontaktu",
+        "Kwerenda 04-11 III",
+        "Kwerenda 04-11 IV"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_rodziny_aktualizacja_2026-11-04.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_2026-11-04_weryfikacja_Piotrow.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia",
+        "Weryfikacja Czesława",
+        "Kontakty instytucji",
+        "Szkice zapytań",
+        "Kwerenda 04-11 II",
+        "Plan kontaktu",
+        "Kwerenda 04-11 III",
+        "Kwerenda 04-11 IV",
+        "Kwerenda 04-11 V",
+        "Trop Piotr Policja",
+        "Piotr Policja - 2 kandydaci"
+      ],
+      "tczew_matches": []
+    },
+    {
+      "path": "work/pakiet/archiwum_wersji_Excel/Marysia_rejestr_rodziny_2026-11-04_poszerzona_kwerenda.xlsx",
+      "sheets": [
+        "Osoby",
+        "Relacje i hipotezy",
+        "Dokumenty",
+        "Działania",
+        "Nowe ustalenia",
+        "Weryfikacja Czesława",
+        "Kontakty instytucji",
+        "Szkice zapytań"
+      ],
+      "tczew_matches": []
+    }
+  ],
+  "text_archive_search": "No Tczew/Jankowsk/Kulas hits in original unpacked text/HTML/DOCX. The current workbook contains maternal names from S086.",
+  "other_ChatGPT_threads_searched": false,
+  "reason": "No tool exposes private ChatGPT project conversation history. Plugin discovery returned no matching capability.",
+  "limitations": "No conclusion that user never provided these details elsewhere. Not an audit of all ChatGPT conversations."
+}

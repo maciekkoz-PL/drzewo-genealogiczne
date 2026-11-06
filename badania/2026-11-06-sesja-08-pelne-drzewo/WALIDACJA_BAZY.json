@@ -1,0 +1,16 @@
+{
+  "baseline": "417aabc",
+  "existing_relationships_and_events_unchanged": true,
+  "candidate_identities_unchanged": true,
+  "added_people": [
+    "P18",
+    "P19"
+  ],
+  "added_relations": [
+    "R018",
+    "R019"
+  ],
+  "source": "S086 existing read of the supplied marriage certificate",
+  "unavailable_other_chatgpt_threads_not_claimed_searched": true,
+  "workbook_sha256": "d2f53186ad9dd1264e398526af54843a5f2d6bef675eeab3f5d45c143ade1fff"
+}
