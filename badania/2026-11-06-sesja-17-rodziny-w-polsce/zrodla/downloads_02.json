@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.tomaszowlubelski.pl/asp/pliki/aktualnosci_2021/dzieje_gminy_tomaszow_lubelski_-_calosc_z_okladka.pdf",
+    "at_utc": "2026-11-06T18:01:08.708335+00:00",
+    "status": 200,
+    "bytes": 12495205,
+    "sha256": "a79bade8ff2b962b5b647749a14958d6a0210f92e63397cb5722522077a793cd"
+  },
+  {
+    "url": "https://susiec.pl/images/publikacje/Dzieje_miejscowosci_Gminy_Susiec.pdf",
+    "at_utc": "2026-11-06T18:01:08.709178+00:00",
+    "status": 200,
+    "bytes": 22776764,
+    "sha256": "ff00f19d5c1aee1d789c43179dc33b9bdf4a34e566dd551fdc96c57fe7807c51"
+  }
+]

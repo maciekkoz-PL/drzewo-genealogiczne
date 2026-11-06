@@ -1,0 +1,352 @@
+[
+  {
+    "path": "MP1997_581.pdf",
+    "bytes": 1958593,
+    "sha256": "ba837784d3c344a4e71663fda2055f7c7662d5e4e3eda608302d177cf9bf9c69"
+  },
+  {
+    "path": "MP1997_581.txt",
+    "bytes": 25515,
+    "sha256": "75ed52d5dee5fa29526b0fc013772574e3d519e824e8a11e28c0924043198e26"
+  },
+  {
+    "path": "belzec_2022.html",
+    "bytes": 2152,
+    "sha256": "da92e6f2c568a8da0a60dc77ef233103a35fe5941988c7f1dd8fdf8ad0724771"
+  },
+  {
+    "path": "belzec_2022.txt",
+    "bytes": 322,
+    "sha256": "19e2af11c1be1978818f65ddc6e0136f1888fb4773a28d467ca3de1d072a3be2"
+  },
+  {
+    "path": "browser/fotolubgens.html",
+    "bytes": 559,
+    "sha256": "0da5b068244eb715181940b46c05caecbbcbf2ab8a39a026c3aff9b00828963e"
+  },
+  {
+    "path": "browser/fotolubgens.txt",
+    "bytes": 71,
+    "sha256": "8eb960f049d1840adb0994b9cec042974dde1bc28e879dcaad0dbbfa198423c4"
+  },
+  {
+    "path": "browser/grobonet.html",
+    "bytes": 42134,
+    "sha256": "1cdb9287ed129cddf842fd1a88ec8172d0536acc7b0463fc8833781ff6984d74"
+  },
+  {
+    "path": "browser/grobonet.txt",
+    "bytes": 3767,
+    "sha256": "bbd6205628086a0c7d1dee6ecb1653ffbb4c8e32735b3564ca6ae7b9bc097068"
+  },
+  {
+    "path": "browser/log.json",
+    "bytes": 1760,
+    "sha256": "18a95419289a62ee48c71833ae509252ee59395e82a1aa775ac08174fd8e79d2"
+  },
+  {
+    "path": "browser/swa_scan110.html",
+    "bytes": 993,
+    "sha256": "fe569c41dbfe8fb0b54d734a4c093d03e416898b70916f830c36f8277a81cd85"
+  },
+  {
+    "path": "browser/swa_scan110.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "downloads_01.json",
+    "bytes": 712,
+    "sha256": "ae4a47a34dd0869a749fb9c01d5a75d7b87aae77af27fea4bf15cad4ae3237f4"
+  },
+  {
+    "path": "downloads_02.json",
+    "bytes": 581,
+    "sha256": "9845690b51ff3c5defeb26c4ab1a3de16343082a8b3f73286f34fbb7639b5829"
+  },
+  {
+    "path": "downloads_03.json",
+    "bytes": 248,
+    "sha256": "5165034454f9394e94301fba09ecb31d2baddc5ef3dd13f2bf7bba22edaac1ff"
+  },
+  {
+    "path": "downloads_04.json",
+    "bytes": 228,
+    "sha256": "4f2d594f8b6243491962e99be349705b7d549e01654e7c3dd9e2bf206549c1d6"
+  },
+  {
+    "path": "dzieje_susiec.pdf",
+    "bytes": 22776764,
+    "sha256": "ff00f19d5c1aee1d789c43179dc33b9bdf4a34e566dd551fdc96c57fe7807c51"
+  },
+  {
+    "path": "dzieje_susiec.txt",
+    "bytes": 1044915,
+    "sha256": "8d2f27ed6765363dfa58b745fca81258533c4e4a9e9be4ab7202702348ae22f9"
+  },
+  {
+    "path": "dzieje_tomaszow.pdf",
+    "bytes": 12495205,
+    "sha256": "a79bade8ff2b962b5b647749a14958d6a0210f92e63397cb5722522077a793cd"
+  },
+  {
+    "path": "dzieje_tomaszow.txt",
+    "bytes": 808610,
+    "sha256": "a33c969a2eb9f6e78e74783e3ce1e6bd74284f8578691657e8e62181a323eacf"
+  },
+  {
+    "path": "geneteka/01ds_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/02kp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/03lb_mandziuk_emilia.json",
+    "bytes": 928,
+    "sha256": "c5ab77dd3830f327c1a51cec8d9436feeeb6dc77bcf7079d73289a1f98cc1a1e"
+  },
+  {
+    "path": "geneteka/04ls_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/05ld_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/06mp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/07mz_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/08op_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/09pk_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/10pl_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/11pm_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/12sl_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/13sk_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/14wm_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/15wp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/16zp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/21uk_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/22br_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/23lt_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/25po_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/71wa_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/additional_queries.json",
+    "bytes": 11140,
+    "sha256": "1c30c828fe73382376456b4c94a9ac18dcb5996cd14a3624ca3ef0db3213cadd"
+  },
+  {
+    "path": "geneteka/control1932.json",
+    "bytes": 928,
+    "sha256": "c5ab77dd3830f327c1a51cec8d9436feeeb6dc77bcf7079d73289a1f98cc1a1e"
+  },
+  {
+    "path": "geneteka/emilja_control.json",
+    "bytes": 928,
+    "sha256": "c5ab77dd3830f327c1a51cec8d9436feeeb6dc77bcf7079d73289a1f98cc1a1e"
+  },
+  {
+    "path": "geneteka/lublin_chmielewski_1920_1926.json",
+    "bytes": 27163,
+    "sha256": "69438f46b9bbe559f89577f8aa59272320d015c909cfc122e8f7b066f66b0309"
+  },
+  {
+    "path": "geneteka/lublin_mandziuk_all.json",
+    "bytes": 43881,
+    "sha256": "09e6ee2c86dd5d63f536f192579c6ec3218142506032d03efde26ceb052a8c9a"
+  },
+  {
+    "path": "geneteka/lublin_mandziuk_all_page2.json",
+    "bytes": 14042,
+    "sha256": "bd130b58add5684deb02baa2d6c8e0f0b83331278bc7a270b81d80f56ed0db9b"
+  },
+  {
+    "path": "geneteka/lublin_mandziuk_births.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "geneteka/page2_query.json",
+    "bytes": 5385,
+    "sha256": "47ca64b056fddf1cfe544a349cc87c8665a3603020acf86991177ab1dd0e177f"
+  },
+  {
+    "path": "geneteka/queries.json",
+    "bytes": 133876,
+    "sha256": "b818e254874093daf5df890847d0048edb69cb9adb5506a739be31a154ba4495"
+  },
+  {
+    "path": "geneteka/rows.json",
+    "bytes": 30526,
+    "sha256": "f518aeeed662c740954e6aa6fc0be1b99a846a722d28da1dd426ffff48748b77"
+  },
+  {
+    "path": "glos1950_4.pdf",
+    "bytes": 7025500,
+    "sha256": "e04dfb7997d40d8089c7b4642527f47c93214dbe9cbd1eddbf3d666ce8b830f3"
+  },
+  {
+    "path": "glos1950_4.txt",
+    "bytes": 183078,
+    "sha256": "fb293fdcabfb0235a8fb32230514d3bbc12fe950fd0d8e50651e714a4afcdcc1"
+  },
+  {
+    "path": "kwerendy_01.json",
+    "bytes": 154929,
+    "sha256": "f7844526fded0e151fd2160b22e28b0f44ad4c4ca7f977368caa7829ce10b879"
+  },
+  {
+    "path": "kwerendy_02.json",
+    "bytes": 78287,
+    "sha256": "eddf40536338837550d98e2963d2343ab0588412da4c9aa20d270ad846804637"
+  },
+  {
+    "path": "myheritage_browser.html",
+    "bytes": 880,
+    "sha256": "6c2a3cd7b2056920aacf340af112fa8c01e622f4261cd72a72b7693670081c4a"
+  },
+  {
+    "path": "myheritage_browser.json",
+    "bytes": 148,
+    "sha256": "f23c95977993a6227a797b31581f720e3ca0d59fe2434112d3a6b7fd57844b47"
+  },
+  {
+    "path": "myheritage_browser.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "myheritage_emilia.html",
+    "bytes": 847,
+    "sha256": "081e89414a8737c53cb392074ea67eb0352d61fc9e84662f87ce27c5e6e59fa7"
+  },
+  {
+    "path": "myheritage_emilia.txt",
+    "bytes": 81,
+    "sha256": "a1e874f71128551d0523e4d37abf33c7d0ef6079998684b558e39967911de6ab"
+  },
+  {
+    "path": "myheritage_pl.html",
+    "bytes": 848,
+    "sha256": "7f86660b819bb985df65b4d66fa30de6befbd3e751e02db7b4f5d9f9d28e21a4"
+  },
+  {
+    "path": "myheritage_pl.txt",
+    "bytes": 82,
+    "sha256": "855a9479fbbcab1fed5984f17680e7c97cbdb3d31c82504887867b11ecf2af4b"
+  },
+  {
+    "path": "swa1908/Tomaszow1908.html",
+    "bytes": 135313,
+    "sha256": "0abfe0a9151d5d9afdc35762bfda81c270cf52af0ceb556207eac21e37b47a86"
+  },
+  {
+    "path": "swa1908/Tomaszow1908_api.json",
+    "bytes": 73240,
+    "sha256": "2cb364f2bf3010dc4954e2dceda5add546781a9d0f37467fc468b9f4e99f026a"
+  },
+  {
+    "path": "swa1908/image_downloads.json",
+    "bytes": 755,
+    "sha256": "0da9a32c742b930181dc6da210c2b99cea601b226e14074e301931a62176972b"
+  },
+  {
+    "path": "swa1908/log.json",
+    "bytes": 332,
+    "sha256": "6b7823e51fef3061c88d60ca0975fe6dd5a2a3428d5cd6292b85765b07aaa942"
+  },
+  {
+    "path": "swa1908/scan110_odpowiedz_html.txt",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "swa1908/scan130_odpowiedz_html.txt",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "swa1908/scan90_odpowiedz_html.txt",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "tomaszow_birth192.html",
+    "bytes": 445202,
+    "sha256": "416291c56c96ae3b56f0a13fd4f9ed8bb862cd91c70741c205298c63f814bf68"
+  },
+  {
+    "path": "tomaszow_birth192_query.json",
+    "bytes": 266,
+    "sha256": "93fa0bb30cc0d87ec4ed523041fdc435120d58b8430f60269c192021cf04106a"
+  }
+]
