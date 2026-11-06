@@ -25,6 +25,26 @@
     "sha256": "9f3d66cbf2e3159759ff95ed687007d83ef3cda57adf5bd36ba579ca2347fe61"
   },
   {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/antonina_correct_page_jobs.json",
+    "size": 122,
+    "sha256": "7f3604c799bb9b60f7ba9d8f5e0753eac3cd1fb65c50d1e5b63c85e4c957f1a2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/antonina_correct_page_jobs.json.results.json",
+    "size": 971,
+    "sha256": "f74c16867804bf4da636520384ae819a7a1fb6f8ed937be9c9a675b840922f7b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/antonina_image_jobs.json",
+    "size": 236,
+    "sha256": "32d1f73b39197b94fef377b1ba68568c7c4fd670d2ed36cbb96ba0463c09fe2f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/antonina_image_jobs.json.results.json",
+    "size": 710,
+    "sha256": "aa7dd16287f54dab26363339f8fa1bec58854f6ba6208d4bd3e873c832420dcd"
+  },
+  {
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/arrivals_sample_jobs.json",
     "size": 1503,
     "sha256": "0fd660198e9ed25c3ed23732fa3b55cad89d57dc22a4926e1168bfc9feb64234"
@@ -160,6 +180,51 @@
     "sha256": "d752660eb89256be5beb932fa2b37e02fc0c45fa2714ab06c268c5cff1b6b392"
   },
   {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/act_3339.html",
+    "size": 55004,
+    "sha256": "c767b9040bcc11fce27d2c1f52f42baf0dadfc5cc53fc25471cab88fad35752a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/act_3339.txt",
+    "size": 279,
+    "sha256": "bd4cf64851698cc8b6385d183fc1e4a59a2192895b3fe138c2a412bf3caef6f3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/act_3339_image.jpg",
+    "size": 654167,
+    "sha256": "a568619875b4324e320001b37fa0b2e51f125a4723249b1c859d48f34eac4c96"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/act_4689.html",
+    "size": 55004,
+    "sha256": "881e8ce140db20ec89f2cf42e18e1c4adc471501a1bf1fef5c908df2a1239671"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/act_4689.txt",
+    "size": 279,
+    "sha256": "7e142d396791756cd43cfa892082bf76f8191cf59e7d46a563842a08753c65a8"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/act_4689_image.jpg",
+    "size": 685753,
+    "sha256": "561cf62e5b93c0354130f13dc72f1251b0d26bdd8312898aa58e9337896b2151"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/antonina_4683.html",
+    "size": 55004,
+    "sha256": "6b45cbb4bc69ee10a8fdbfe06812a224306f95df552b64ffc9f385c120bafb07"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/antonina_4683.txt",
+    "size": 279,
+    "sha256": "273fcb107f64626367639daedaae044497d5fe5331cf930e5cd96b53caa8a032"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/antonina_4683_image.jpg",
+    "size": 693997,
+    "sha256": "3c6f7d0bc5fca4dd80a2d71749c6826bdbfb1b869eeedd06a6c50fc496191c57"
+  },
+  {
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/ca_000b.html",
     "size": 54925,
     "sha256": "206572feb58c221102ed7629e9e3dabf26d5e459b8440c811d2eb50312a5d325"
@@ -243,6 +308,26 @@
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/cf_catalogue.txt",
     "size": 3537,
     "sha256": "d9c272df95bf169a2569fc2d87ced1a3fc5b7117cd1429da3847cf5320b79eee"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/cg_catalogue.html",
+    "size": 106541,
+    "sha256": "b3e6a2e205732db89aa5e4382c75812369cb39f7157933285437712b79ad8a16"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/cg_catalogue.txt",
+    "size": 3507,
+    "sha256": "8df4c2866914084e893acc42a8ca25265c38fc55bc2e9469642a9a8e37465503"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/ci_catalogue.html",
+    "size": 107541,
+    "sha256": "3d7f99e27d03641a26d14637356cf360ac6b04e3413b04114d7f97fa53a542ab"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/ci_catalogue.txt",
+    "size": 3537,
+    "sha256": "c20611e455f27db1ce1f3655647c2605f79cfbcbb44f279615fadc387aaa141e"
   },
   {
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/cq_000b.html",
@@ -493,6 +578,41 @@
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/initial_jobs.json.results.json",
     "size": 23174,
     "sha256": "77d5c362cd7cc731edb832e7f96b063ddd9eabb3f1f9553a81411bb35ae405ff"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/koncowe_zgony.py",
+    "size": 5862,
+    "sha256": "1d85f1324420d1724b86c6ecdc4cd5585503595da0ed0446c9e860e4110cdca2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/last_deaths_catalogue_jobs.json",
+    "size": 158,
+    "sha256": "dfa820edab794f9bb636d3a11b2781882fc2fb53bc58de65a0cf7ce240593336"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/last_deaths_catalogue_jobs.json.results.json",
+    "size": 98741,
+    "sha256": "a73390998f34d71e50a43ee202a46f10e728ffce48e2cc8cb2094fce632c5383"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/last_deaths_image_jobs.json",
+    "size": 462,
+    "sha256": "744a0a0b2406d2effe72a8701944a7242a5e61d87e4d21f3fa40c53f2e9b9cb9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/last_deaths_image_jobs.json.results.json",
+    "size": 1398,
+    "sha256": "313d880587994425f4855e1fde3d1c62e84ab9ba100956455442657d8ab9eba1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/last_deaths_page_jobs.json",
+    "size": 234,
+    "sha256": "d93ed1f3ffe62706fcec03748565e7a43f05895c59376aea9a613a7ad70fc454"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/last_deaths_page_jobs.json.results.json",
+    "size": 1920,
+    "sha256": "442af6c6dc176a8c64e553a794df04e58b31ced8bf2573e9803be1d63723fcc2"
   },
   {
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/leo_birthindex_image_jobs.json",
@@ -778,6 +898,61 @@
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/second_catalogue_jobs.json.results.json",
     "size": 72339,
     "sha256": "39ef50ec1b6160999d91eabd293bbf2a98bfeddca75ff51b382fcd25306736fa"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/1907_62.jpg",
+    "size": 2253026,
+    "sha256": "a54d526876e9211a6b498c3134ea86a80d0a94486533452095b1c3650820e66e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/1907_63.jpg",
+    "size": 2113790,
+    "sha256": "eb8eccc2c20a86e5a5249c9aaec1dc8a47b22ba97a62da4957f67b765f704376"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/1907_64.jpg",
+    "size": 2269540,
+    "sha256": "ae17cefb552c7bd873dfe924636ade4ad117eba13b80ca7c5d3a1cd53fe232ff"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/1907_manifest.json",
+    "size": 129822,
+    "sha256": "47968fc9d7acfec83abddf206c784fd614700b9fc8519dbfcbb7037c3fd5175f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/1917_manifest.json",
+    "size": 126690,
+    "sha256": "c08c8c13c084fca9d74f551769ec492fa4e8a57c6c587fb551ace1ac68b6fc92"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/units/downloads.json",
+    "size": 288,
+    "sha256": "8bd0c3f3ad5b46eeefcd9f7ff225c4bcc07751ed7be8de7f83436aae021e72de"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/units/page1.html",
+    "size": 171809,
+    "sha256": "f0f23c5f353a3989a9f0c421ab783235df0546f822bef16f77824fe78ccf0ec9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/units/page1.txt",
+    "size": 4116,
+    "sha256": "58f2086505d6b49d09daefccf714b8f4cf23e8dc2697572625875ae8735f747e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters/units/units.json",
+    "size": 16708,
+    "sha256": "6afdee36935cf7e0561b3bb9ea7fc23af6adec2088e62e41f1f74c75576ca7d1"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters1907_images.json",
+    "size": 480,
+    "sha256": "dcf4b4a7d6c76859b503695488f34e006118c5512331c42ba37c4e7ce11ac921"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/sisters_catalogue.py",
+    "size": 2170,
+    "sha256": "38f92a26d2c3de79e22e7b94559c5172ae26a7b4502460185400ce2f8e6d7542"
   },
   {
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/street/arrivals1936_1.jpg",
@@ -1118,6 +1293,11 @@
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/uzupelnienie.py",
     "size": 6693,
     "sha256": "49094c9a9c4799216139f52e25b6a1eeb6c3cc3953336b6db536eb649cdd1981"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/validation_summary.json",
+    "size": 1555,
+    "sha256": "9b64bfad4d8e2b284abb01a7e036092cda618da61997cdbbf9b96c504e1f0de6"
   },
   {
     "path": "badania/2026-11-06-sesja-09-linia-ojca/zrodla/web/paternal09_catalogues.json",

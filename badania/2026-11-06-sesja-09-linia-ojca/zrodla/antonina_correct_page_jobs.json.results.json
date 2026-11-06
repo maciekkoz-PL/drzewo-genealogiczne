@@ -1,0 +1,26 @@
+[
+  {
+    "key": "death1940/antonina_4683",
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ci&kt=1&plik=4682-4683.jpg",
+    "utc": "2026-11-06T11:32:10.083225+00:00",
+    "status": 200,
+    "final_url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ci&kt=1&plik=4682-4683.jpg",
+    "sha256": "6b45cbb4bc69ee10a8fdbfe06812a224306f95df552b64ffc9f385c120bafb07",
+    "size": 55004,
+    "path": "work/s09/death1940/antonina_4683.html",
+    "links": [
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/"
+      },
+      {
+        "text": "",
+        "url": "https://skanoteka.genealodzy.pl/index.php?op=kt&id=4852&se=&sy=1940ci&kt=1"
+      },
+      {
+        "text": "",
+        "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRkzpvRyPY7ERrodwn45ogFp40EnZhWAjkY5ihCNHmPd&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=4682-4683.jpg"
+      }
+    ]
+  }
+]

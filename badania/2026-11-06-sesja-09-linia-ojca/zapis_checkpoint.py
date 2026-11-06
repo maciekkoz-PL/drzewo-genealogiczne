@@ -48,7 +48,7 @@ for row in w['HIPOTEZY_OTWARTE'].iter_rows():
 
 logs=[
 ('L108','Katalog1076jednostek ponownie wykorzystany; karty816 i6','Ustalono zakres treści816 i rozdział zgonów chrześcijańskich/żydowskich. WSwA0skanów6, wPTG dostępne obrazy.','Nie odczytano U1940; nie pobrano ponownie277obrazów żydowskich.','S081; S136'),
-('L109','USC1940cq: tytuł,SkZ10,13–17; cs012–014; ca000b,001','Cała częśćC pierwopisu: Dariusz1896,Leo2617,Józef3339,Antonina4689. Dariusz odczytany oddzielnie. Akt1 z08.02.1940.','Nie znaleziono C42. cs późniejsza częśćC nieodczytana; nie twierdzić pełnej kontroli obu egzemplarzy ani całego roku.','S137'),
+('L109','USC1940cq: tytuł,SkZ10,13–17; cs012–014; ca000b,001','Cała częśćC pierwopisu: Dariusz1896,Leo2617,Józef3339,Antonina4683. Dariusz odczytany oddzielnie. Akt1 z08.02.1940.','Nie znaleziono C42. cs późniejsza częśćC nieodczytana; nie twierdzić pełnej kontroli obu egzemplarzy ani całego roku.','S137'),
 ('L110','Zgon Dariusza1896/1940: oryginalny JPG i wycinek','RodziceZygmunt/Danuta, inna para. C58wykluczony w zadanej hipotezie.','Obraz nieostry, nazwisko rodowe matki niepewne; nie zgadywać.','S138'),
 ('L111','Napiórkowskiego: manifest706; wybrane363,367,600,637,639–641,680; S069ulice27–33','Nr112 znaleziono639–641, pieczęćXIV na640. S069poz27(k25): numeryparzyste92do końcaXIV.','Bez listy lokatorów; próbkowanie innych adresów jedynie do lokalizacji. Nie odczytano706skanów.','S139; S069'),
 ('L112','Nowe zapytania i katalogiXIV; manifest25434(1934–35)','Zidentyfikowano właściwy komisariat i konkretne księgi. Odpowiedzi oraz błędy zachowane.','Bez nowego łącznika rodzinnego. Późniejsze katalogi grupują nazwiska literami, nie wolno zakładać komisariatu z sąsiedztwa sygnatur.','S140'),

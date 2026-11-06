@@ -1,0 +1,2014 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Skanoteka - Baza skanów dokumentów o wartości genealogicznej</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:image" content="https://skanoteka.genealodzy.pl/images/PTG_Logo_Skanoteka_pl_PL_200.png" />
+<meta name="author" content="Genealodzy.PL Genealogia">
+<meta name="copyright" content="Copyright (c) 2006-2026 Polskie Towarzystwo Genealogiczne">
+<meta name="description" content="Baza skanów dokumentów o wartości genealogicznej.">
+<meta name="revisit-after" content="1 days">
+<link rel="canonical" href="https://skanoteka.genealodzy.pl">
+<link rel="stylesheet" href="style/style.css?=v6" type="text/css">
+<link rel="stylesheet" href="style/ajaxcss.css?=v2" type="text/css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?=v2">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?=v2">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?=v2">
+<link rel="manifest" href="/images/site.webmanifest">
+<link rel="shortcut icon" href="/images/favicon.ico?=v2">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="js/snap.svg-min.js"></script>
+<style>
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+	background: #f3e2e7;
+	border: 1px solid #c5c5c5;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+	background: #f3d0e7;
+	border: 1px solid #c5c5c5;
+	color: black;
+}
+
+.ui-accordion .ui-accordion-content {
+	padding: 0px 0px;
+	background: none;
+}
+
+.ui-state-active .ui-icon,
+.ui-button:active .ui-icon {
+	background-image: url("https://code.jquery.com/ui/1.13.2/themes/base/images/ui-icons_444444_256x240.png");
+}
+
+:root
+{
+	--background-image-url: url('/images/back-pink.gif');
+}</style><link rel="shortcut icon" href="images/favicon.ico">
+
+		<script async src="https://platform.twitter.com/widgets.js"></script>
+		<script src="ajax/ajaxcore.js"></script>
+		<script src="ajax/ajax.js"></script>
+		<script src="style/centeredpop.js"></script>
+		<script>
+			var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-22184319-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+		</script>
+			</head>
+
+	<body id="body">
+		<script src="/cookies_komunikat.js"></script>
+		<div>
+			<br>
+			<table style="border-collapse: collapse; width: 1000px; margin: 0 auto; border: 1px solid rgb(100,100,100)">
+				<tr>
+					<td class="head">
+													<a href="/" target="_self" title="https://metryki.genealodzy.pl/">
+								<img style="display: block;max-width: 1000px" src=/images/PTG_Banner_Skanoteka-OPP_pl_PL.png?v3 alt="metryki.genealodzy.pl" title="metryki.genealodzy.pl"></a>
+											</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+													<div class="center">
+
+								<table border="0" cellpadding="0" cellspacing="0" width="98%">
+									<tr>
+										<td width="100%">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tr>
+													<td width="230" class="left valign-middle">
+																											</td>
+													<td width="220" class="valign-middle">
+														<div id="fb-root"></div>
+														<script>
+															(function (d, s, id) {
+var js,
+fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) 
+return;
+
+
+js = d.createElement(s);
+js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+														</script>
+														<div class="fb-share-button" data-href="https://skanoteka.genealodzy.pl" data-layout="button"></div>
+														<a href="https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="Projekt digitalizacji i indeksacji metryk" data-url="https://skanoteka.genealodzy.pl" data-show-count="false"></a>
+
+													</td>
+													<td width="400" class="valign-middle">
+														<a href="https://genealodzy.pl"><img class="valign-sub" src="images/navhome.gif" width="20" height="20" alt="Genealodzy.PL" title="Genealodzy.PL"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="/"><img class="valign-sub" src="images/navmapa.gif" width="20" height="20" alt="Strona główna" title="Strona główna"></a>
+<a href="https://geneteka.genealodzy.pl/plany.php"><img src="images/navplany.gif" class="valign-sub" width="20" height="20" alt="Zasoby w trakcie indeksacji" title="Zasoby w trakcie indeksacji"></a>
+<a href="https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"><img src="images/navhelp.gif" class="valign-sub" width="20" height="20" alt="Jak indeksować" title="Jak indeksować"></a>
+<a href="opjk"><img src="images/navjak.gif" class="valign-sub" width="20" height="20" alt="Jak wyszukiwać" title="Jak wyszukiwać"></a>
+<a href="https://genealodzy.pl/donate-pol"><img src="images/navdonate.gif" class="valign-sub" width="20" height="20" alt="Jak wspomóc" title="Jak wspomóc"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/?op=lang&amp;lang=pl_PL"><img src="images/flag-pol.png" class="valign-middle" alt="flag-pol.png" width="30" height="16" title="polski"></a>
+<a href="/?op=lang&amp;lang=en_EN"><img src="images/flag-eng.png" class="valign-middle" alt="flag-eng.png" width="30" height="16" title="english"></a>
+													</td>
+													<td></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+											</td>
+				</tr>
+
+				<tr>
+					<td>
+							
+	<table width="100%">
+		<tr>
+			<td width="65%" class="valign-top">
+				Zespół:
+				<span class="bold">
+					2736 / Urząd Stanu Cywilnego Łódź
+				</span>
+				<br>Jednostka:
+				<span class="bold">
+					1940cg / 
+											Z-1940
+									</span>
+				<br>Katalog:
+				<span class="bold">
+					Zgony
+				</span>
+									<br>Lata:
+					<span class="bold">1940</span>
+																	<br><br>Uwagi do księgi:
+					3011-3614
+												<br><br>
+
+				<div id="pliki" class="dataDiv">
+					<table style="width:100%;">
+													<tr>
+								<td style="background-color:#E0E0E0;text-align:center">
+																			Pliki:
+									
+								</td>
+							</tr>
+												<tr>
+							<td>
+																	<table style="margin: 0 auto;text-align:center;border-collapse:collapse">
+										
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=0000.jpg>
+														0000
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3100-3101.jpg>
+															3100-3101
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3188-3189.jpg>
+															3188-3189
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3276-3277.jpg>
+															3276-3277
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3364-3365.jpg>
+															3364-3365
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3450-3451.jpg>
+															3450-3451
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3536-3537.jpg>
+															3536-3537
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3011.jpg>
+														3011
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3102-3103.jpg>
+															3102-3103
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3190-3191.jpg>
+															3190-3191
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3278-3279.jpg>
+															3278-3279
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3366-3367.jpg>
+															3366-3367
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3452-3453.jpg>
+															3452-3453
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3538-3539.jpg>
+															3538-3539
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3012-3013.jpg>
+														3012-3013
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3104-3105.jpg>
+															3104-3105
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3192-3193.jpg>
+															3192-3193
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3280-3281.jpg>
+															3280-3281
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3368-3369.jpg>
+															3368-3369
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3454-3455.jpg>
+															3454-3455
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3540-3541.jpg>
+															3540-3541
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3014-3015.jpg>
+														3014-3015
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3106-3107.jpg>
+															3106-3107
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3194-3195.jpg>
+															3194-3195
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3282-3283.jpg>
+															3282-3283
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3370-3371.jpg>
+															3370-3371
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3456-3457.jpg>
+															3456-3457
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3542-3543.jpg>
+															3542-3543
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3016-3017.jpg>
+														3016-3017
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3108-3109.jpg>
+															3108-3109
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3196-3197.jpg>
+															3196-3197
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3284-3285.jpg>
+															3284-3285
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3372-3373.jpg>
+															3372-3373
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3458-3459.jpg>
+															3458-3459
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3544-3545.jpg>
+															3544-3545
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3018-3019.jpg>
+														3018-3019
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3110-3111.jpg>
+															3110-3111
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3198-3199.jpg>
+															3198-3199
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3286-3287.jpg>
+															3286-3287
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3374-3375.jpg>
+															3374-3375
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3460-3461.jpg>
+															3460-3461
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3546-3547.jpg>
+															3546-3547
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3020-3021.jpg>
+														3020-3021
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3112-3113.jpg>
+															3112-3113
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3200-3201.jpg>
+															3200-3201
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3288-3289.jpg>
+															3288-3289
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3376-3377.jpg>
+															3376-3377
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3462-3463.jpg>
+															3462-3463
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3548-3549.jpg>
+															3548-3549
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3022-3023.jpg>
+														3022-3023
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3114-3115.jpg>
+															3114-3115
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3202-3203.jpg>
+															3202-3203
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3290-3291.jpg>
+															3290-3291
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3378-3379.jpg>
+															3378-3379
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3464-3465.jpg>
+															3464-3465
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3550-3551.jpg>
+															3550-3551
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3024-3025.jpg>
+														3024-3025
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3116-3117.jpg>
+															3116-3117
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3204-3205.jpg>
+															3204-3205
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3292-3293.jpg>
+															3292-3293
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3380-3381.jpg>
+															3380-3381
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3466-3467.jpg>
+															3466-3467
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3552-3553.jpg>
+															3552-3553
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3026-3027.jpg>
+														3026-3027
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3118-3119.jpg>
+															3118-3119
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3206-3207.jpg>
+															3206-3207
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3294-3295.jpg>
+															3294-3295
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3382-3383.jpg>
+															3382-3383
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3468-3469.jpg>
+															3468-3469
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3554-3555.jpg>
+															3554-3555
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3028-3029.jpg>
+														3028-3029
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3120-3121.jpg>
+															3120-3121
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3208-3209.jpg>
+															3208-3209
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3296-3297.jpg>
+															3296-3297
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3384-3385.jpg>
+															3384-3385
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3470-3471.jpg>
+															3470-3471
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3556-3557.jpg>
+															3556-3557
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3030-3031.jpg>
+														3030-3031
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3122-3123.jpg>
+															3122-3123
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3210-3211.jpg>
+															3210-3211
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3298-3299.jpg>
+															3298-3299
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3386-3387.jpg>
+															3386-3387
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3472-3473.jpg>
+															3472-3473
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3558-3559.jpg>
+															3558-3559
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3032-3033.jpg>
+														3032-3033
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3124-3125.jpg>
+															3124-3125
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3212-3213.jpg>
+															3212-3213
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3300-3301.jpg>
+															3300-3301
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3388-3389.jpg>
+															3388-3389
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3474-3475.jpg>
+															3474-3475
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3560-3561.jpg>
+															3560-3561
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3034-3035.jpg>
+														3034-3035
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3126-3127.jpg>
+															3126-3127
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3214-3215.jpg>
+															3214-3215
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3302-3303.jpg>
+															3302-3303
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3390-3391.jpg>
+															3390-3391
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3476-3477.jpg>
+															3476-3477
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3562-3563.jpg>
+															3562-3563
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3036-3037.jpg>
+														3036-3037
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3128-3129.jpg>
+															3128-3129
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3216-3217.jpg>
+															3216-3217
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3304-3305.jpg>
+															3304-3305
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3392-3393.jpg>
+															3392-3393
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3478-3479.jpg>
+															3478-3479
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3564-3565.jpg>
+															3564-3565
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3038-3039.jpg>
+														3038-3039
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3130-3131.jpg>
+															3130-3131
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3218-3219.jpg>
+															3218-3219
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3306-3307.jpg>
+															3306-3307
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3394-3395.jpg>
+															3394-3395
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3480-3481.jpg>
+															3480-3481
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3566-3567.jpg>
+															3566-3567
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3040-3041.jpg>
+														3040-3041
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3132-3133.jpg>
+															3132-3133
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3220-3221.jpg>
+															3220-3221
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3308-3309.jpg>
+															3308-3309
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3396-3397.jpg>
+															3396-3397
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3482-3483.jpg>
+															3482-3483
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3568-3569.jpg>
+															3568-3569
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3042-3043.jpg>
+														3042-3043
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3134-3135.jpg>
+															3134-3135
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3222-3223.jpg>
+															3222-3223
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3310-3311.jpg>
+															3310-3311
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3398-3399.jpg>
+															3398-3399
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3484-3485.jpg>
+															3484-3485
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3570-3571.jpg>
+															3570-3571
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3044-3045.jpg>
+														3044-3045
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3136-3137.jpg>
+															3136-3137
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3224-3225.jpg>
+															3224-3225
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3312-3313.jpg>
+															3312-3313
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3400-3401.jpg>
+															3400-3401
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3486-3487.jpg>
+															3486-3487
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3572-3573.jpg>
+															3572-3573
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3046-3047.jpg>
+														3046-3047
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3138-3139.jpg>
+															3138-3139
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3226-3227.jpg>
+															3226-3227
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3314-3315.jpg>
+															3314-3315
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3402-3403.jpg>
+															3402-3403
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3488-3489.jpg>
+															3488-3489
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3574-3575.jpg>
+															3574-3575
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3048-3049.jpg>
+														3048-3049
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3140-3141.jpg>
+															3140-3141
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3228-3229.jpg>
+															3228-3229
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3316-3317.jpg>
+															3316-3317
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3404-3405.jpg>
+															3404-3405
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3490-3491.jpg>
+															3490-3491
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3576-3577.jpg>
+															3576-3577
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3054-3055.jpg>
+														3054-3055
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3142-3143.jpg>
+															3142-3143
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3230-3231.jpg>
+															3230-3231
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3318-3319.jpg>
+															3318-3319
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3406-3407.jpg>
+															3406-3407
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3492-3493.jpg>
+															3492-3493
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3578-3579.jpg>
+															3578-3579
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3058-3059.jpg>
+														3058-3059
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3144-3145.jpg>
+															3144-3145
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3232-3233.jpg>
+															3232-3233
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3320-3321.jpg>
+															3320-3321
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3408-3409.jpg>
+															3408-3409
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3494-3495.jpg>
+															3494-3495
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3580-3581.jpg>
+															3580-3581
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3060-3061.jpg>
+														3060-3061
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3146-3147.jpg>
+															3146-3147
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3234-3235.jpg>
+															3234-3235
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3322-3323.jpg>
+															3322-3323
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3410-3411.jpg>
+															3410-3411
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3496-3497.jpg>
+															3496-3497
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3582-3583.jpg>
+															3582-3583
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3062-3063.jpg>
+														3062-3063
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3148-3149.jpg>
+															3148-3149
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3236-3237.jpg>
+															3236-3237
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3324-3325.jpg>
+															3324-3325
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3412-3413.jpg>
+															3412-3413
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3498-3499.jpg>
+															3498-3499
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3584-3585.jpg>
+															3584-3585
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3064-3065.jpg>
+														3064-3065
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3150-3151.jpg>
+															3150-3151
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3238-3239.jpg>
+															3238-3239
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3326-3327.jpg>
+															3326-3327
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3414-3415.jpg>
+															3414-3415
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3500-3501.jpg>
+															3500-3501
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3586-3587.jpg>
+															3586-3587
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3066-3067.jpg>
+														3066-3067
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3152-3153.jpg>
+															3152-3153
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3240-3241.jpg>
+															3240-3241
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3328-3329.jpg>
+															3328-3329
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3416-3417.jpg>
+															3416-3417
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3502-3503.jpg>
+															3502-3503
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3588-3589.jpg>
+															3588-3589
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3068-3069.jpg>
+														3068-3069
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3154-3155.jpg>
+															3154-3155
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3242-3243.jpg>
+															3242-3243
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3330-3331.jpg>
+															3330-3331
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3418-3419.jpg>
+															3418-3419
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3504-3505.jpg>
+															3504-3505
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3590-3591.jpg>
+															3590-3591
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3070-3071.jpg>
+														3070-3071
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3156-3157.jpg>
+															3156-3157
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3244-3245.jpg>
+															3244-3245
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3332-3333.jpg>
+															3332-3333
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3420-3421.jpg>
+															3420-3421
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3506-3507.jpg>
+															3506-3507
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3592-3593.jpg>
+															3592-3593
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3072-3073.jpg>
+														3072-3073
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3158-3159.jpg>
+															3158-3159
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3246-3247.jpg>
+															3246-3247
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3336-3337.jpg>
+															3336-3337
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3422-3423.jpg>
+															3422-3423
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3508-3509.jpg>
+															3508-3509
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3594-3595.jpg>
+															3594-3595
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3074-3075.jpg>
+														3074-3075
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3160-3161.jpg>
+															3160-3161
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3248-3249.jpg>
+															3248-3249
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3338-3339.jpg>
+															3338-3339
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3424-3425.jpg>
+															3424-3425
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3510-3511.jpg>
+															3510-3511
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3596-3597.jpg>
+															3596-3597
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3076-3077.jpg>
+														3076-3077
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3162-3163.jpg>
+															3162-3163
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3250-3251.jpg>
+															3250-3251
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3340-3341.jpg>
+															3340-3341
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3426-3427.jpg>
+															3426-3427
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3512-3513.jpg>
+															3512-3513
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3598-3599.jpg>
+															3598-3599
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3078-3079.jpg>
+														3078-3079
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3166-3167.jpg>
+															3166-3167
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3252-3253.jpg>
+															3252-3253
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3342-3343.jpg>
+															3342-3343
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3428-3429.jpg>
+															3428-3429
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3514-3515.jpg>
+															3514-3515
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3600-3601.jpg>
+															3600-3601
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3080-3081.jpg>
+														3080-3081
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3168-3169.jpg>
+															3168-3169
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3254-3255.jpg>
+															3254-3255
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3344-3345.jpg>
+															3344-3345
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3430-3431.jpg>
+															3430-3431
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3516-3517.jpg>
+															3516-3517
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3602-3603.jpg>
+															3602-3603
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3082-3083.jpg>
+														3082-3083
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3170-3171.jpg>
+															3170-3171
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3256-3257.jpg>
+															3256-3257
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3346-3347.jpg>
+															3346-3347
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3432-3433.jpg>
+															3432-3433
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3518-3519.jpg>
+															3518-3519
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3604-3605.jpg>
+															3604-3605
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3084-3085.jpg>
+														3084-3085
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3172-3173.jpg>
+															3172-3173
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3258-3259.jpg>
+															3258-3259
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3348-3349.jpg>
+															3348-3349
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3434-3435.jpg>
+															3434-3435
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3520-3521.jpg>
+															3520-3521
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3606-3607.jpg>
+															3606-3607
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3086-3087.jpg>
+														3086-3087
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3174-3175.jpg>
+															3174-3175
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3260-3261.jpg>
+															3260-3261
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3350-3351.jpg>
+															3350-3351
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3436-3437.jpg>
+															3436-3437
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3522-3523.jpg>
+															3522-3523
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3608-3609.jpg>
+															3608-3609
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3088-3089.jpg>
+														3088-3089
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3176-3177.jpg>
+															3176-3177
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3262-3263.jpg>
+															3262-3263
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3352-3353.jpg>
+															3352-3353
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3438-3439.jpg>
+															3438-3439
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3524-3525.jpg>
+															3524-3525
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3610-3611.jpg>
+															3610-3611
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3090-3091.jpg>
+														3090-3091
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3178-3179.jpg>
+															3178-3179
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3264-3265.jpg>
+															3264-3265
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3354-3355.jpg>
+															3354-3355
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3440-3441.jpg>
+															3440-3441
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3526-3527.jpg>
+															3526-3527
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3612-3613.jpg>
+															3612-3613
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3092-3093.jpg>
+														3092-3093
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3180-3181.jpg>
+															3180-3181
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3266-3267.jpg>
+															3266-3267
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3356-3357.jpg>
+															3356-3357
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3442-3443.jpg>
+															3442-3443
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3528-3529.jpg>
+															3528-3529
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3614.jpg>
+															3614
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3094-3095.jpg>
+														3094-3095
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3182-3183.jpg>
+															3182-3183
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3268-3269.jpg>
+															3268-3269
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3358-3359.jpg>
+															3358-3359
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3444-3445.jpg>
+															3444-3445
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3530-3531.jpg>
+															3530-3531
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=zzzz.jpg>
+															zzzz
+														</a>
+													</td>
+																							</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3096-3097.jpg>
+														3096-3097
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3184-3185.jpg>
+															3184-3185
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3272-3273.jpg>
+															3272-3273
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3360-3361.jpg>
+															3360-3361
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3446-3447.jpg>
+															3446-3447
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3532-3533.jpg>
+															3532-3533
+														</a>
+													</td>
+																																			</tr>
+																					<tr>
+												<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																										<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3098-3099.jpg>
+														3098-3099
+													</a>
+												</td>
+																									<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3186-3187.jpg>
+															3186-3187
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3274-3275.jpg>
+															3274-3275
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3362-3363.jpg>
+															3362-3363
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3448-3449.jpg>
+															3448-3449
+														</a>
+													</td>
+																																					<td style="border:0px;border-right:1px;border-style:dashed;min-width:70px">
+																												<a class="plik" target="doc" href=index.php?op=pg&amp;id=4852&amp;sy=1940cg&amp;kt=1&amp;plik=3534-3535.jpg>
+															3534-3535
+														</a>
+													</td>
+																																			</tr>
+																			</table>
+															</td>
+						</tr>
+
+						<tr>
+							<td style="background-color:#E0E0E0;text-align:center">
+															</td>
+						</tr>
+					</table>
+				</div>
+			</td>
+			<td width="35%" class="right-table valign-top">
+				<div class="center">
+					<span class="bold">
+						Jednostki i katalogi zespołu:
+					</span>
+					<br>2736 Urząd Stanu Cywilnego Łódź<br>
+				</div>
+
+<table width="100%" border="0" class="sygnatury-right">
+	<tr>
+		<td>
+			<span class="grey">L.p.</span>
+		</td>
+		<td class="center">Jednostka</td>
+		<td>Opis</td>
+		<td>Info</td>
+		<td class="right">Plików</td>
+	</tr>
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">1</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940ce>1940ce</a>
+			</td>
+			<td class="top">(Z-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="1803-2410" title="1803-2410">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940ce-kt1>
+						Zgony
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940ce-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">307</td>
+			</tr>
+
+		
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">2</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940cf>1940cf</a>
+			</td>
+			<td class="top">(Z-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="2411-3010" title="2411-3010">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940cf-kt1>
+						Zgony
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940cf-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">302</td>
+			</tr>
+
+		
+	
+		<tr>
+													<td class="top">
+				<span class="grey">3</span>
+			</td>
+			<td class="top center sygn_selected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940cg>1940cg</a>
+			</td>
+			<td class="top">(Z-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="3011-3614" title="3011-3614">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=wo href=id4852-sy1940cg-kt1>
+						Zgony
+					</a>
+				</td>
+				<td title=1940>
+					<a class=wo href=id4852-sy1940cg-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=wo align="right">299</td>
+			</tr>
+
+		
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">4</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940ch>1940ch</a>
+			</td>
+			<td class="top">(Z-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="3615-4234" title="3615-4234">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940ch-kt1>
+						Zgony
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940ch-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">313</td>
+			</tr>
+
+		
+	
+		<tr>
+						    						<td class="top">
+				<span class="grey">5</span>
+			</td>
+			<td class="top center sygn_deselected">
+								<a class="po" href=index.php?op=kt&amp;id=4852&amp;sy=1940ci>1940ci</a>
+			</td>
+			<td class="top">(Z-1940)</td>
+			<td class="top" title="">
+				<img src="images/info.gif" alt="" title="">
+
+													<img src="images/infok.gif" alt="4235-4834" title="4235-4834">
+								
+			</td>
+			<td class="top">&nbsp;</td>
+		</tr>
+
+		
+					<tr>
+				<td></td>
+				<td>
+
+																				</td>
+				<td>
+										<a class=won href=id4852-sy1940ci-kt1>
+						Zgony
+					</a>
+				</td>
+				<td title=1940>
+					<a class=won href=id4852-sy1940ci-kt1>
+						1940
+					</a>
+				</td>
+
+				<td class=won align="right">302</td>
+			</tr>
+
+		
+	
+	
+	<tr>
+		<td colspan="4">
+			<a href=id4852>powrót do zespołu</a>
+		</td>
+	</tr>
+
+</table></td></tr></table>					</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+
+													<div class="center">
+								<a href="https://genealodzy.pl/donate-pol"><img src="images/donate.jpg" alt="donate"></a><br>
+								<span class="darkslateblue">&copy; 2010-2026
+									<a href="http://genealodzy.pl">Polskie Towarzystwo Genealogiczne</a>
+								::
+								<script>
+									user = 'skanoteka';
+									site = "genealodzy.pl";
+									document.write('<a href=\"mailto:' + user + '@' + site + '\">');
+									document.write('Administrator<\/a> ');
+								</script>
+								::
+								</span>
+							</div>
+											</td>
+				</tr>
+
+			</table>
+		</div>
+
+	</body>
+</html>

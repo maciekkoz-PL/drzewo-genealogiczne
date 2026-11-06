@@ -22,7 +22,7 @@ S140: zidentyfikowano **39/221/0/4.12/25434**, SwA6209611, rejestr przybyłych X
 
 Kontrolny akt1 w1940ca sporządzono08.02.1940, a więc po parafialnym akcie C42 z05.02.1940. Ten jeden akt nie dowodzi, kiedy urząd rozpoczął działalność ani gdzie rejestrowano wszystkie wcześniejsze zgony. Katalog opisuje skorowidz od1lutego; brak C42 wymaga uwzględnienia sposobu rejestracji, nie odrzucenia oryginału parafialnego.
 
-W indeksie znaleziono cztery inne wpisy Chmielewskich: Dariusz1896(31.03), Leo2617(18.04), Józef3339(11.05), Antonina4689(30.06). Daty odczytane z indeksu nie są samodzielną identyfikacją rodzinną. Podobne Chmielecki/Czernielewski nie zostały scalone z Chmielewskimi.
+W indeksie znaleziono cztery inne wpisy Chmielewskich: Dariusz1896(31.03), Leo2617(18.04), Józef3339(11.05), Antonina4683(30.06). Daty odczytane z indeksu nie są samodzielną identyfikacją rodzinną. Podobne Chmielecki/Czernielewski nie zostały scalone z Chmielewskimi.
 
 **S138, C58: odczytano akt1896/1940 Dariusza** — rodzice **Zygmunt i Danuta**, inni niż znani rodzice Bogusława. Wykluczono go jako dziecko poszukiwanej pary; dalsze pokrewieństwo nieustalone. Akt01.04.1940, zgon31.03.1940, urodzenie w lutym1938(dzień wygląda na21, wymaga ostrzejszego obrazu). Nazwisko rodowe Danuty nie zostało rozstrzygnięte. Obraz lewej strony nieostry, kopia i wycinek zachowane; nie zgadywano nieczytelnych szczegółów. [Karta aktu](https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ce&kt=1&plik=1896-1897.jpg), [JPG](zrodla/death1940/ce_1896-1897_image.jpg).
 
@@ -39,3 +39,5 @@ Zapisano surowe zapytania internetowe, strony katalogowe, dokładne adresy pobra
 Excel: S136–S142, C58, L108–L114, Q68–Q70, F80–F87; uzupełniono H018. **Nie zmieniono osób rodzinnych, relacji ani wydarzeń, w tym równoległych aktualizacji linii matki zGitHuba019919f.** Nie dodano wpisu do publicznej kroniki, ponieważ obecne wyniki nie ustalają nowego krewnego; dotychczasowa kartaC42 pozostaje hipotezą. Nie wysłano wiadomości ani wniosków, nie zlecono usług lub płatności.
 
 Kontynuacja: [dokładny plan](PLAN_KONTYNUACJI.md). Dowody: [manifestSHA256](manifest_zrodel_sesji.json).
+
+**Dalsza kontrola:** odczytano pozostałe dwa akty i poprawiono numerAntoniny. [Cztery zgony i wykluczenia](CZTERY_ZGONY_1940.md). Uzupełniono audyt po równoległym scaleniu trzech poziomów; obecnie23arkusze, bez utraty badań obu gałęzi.

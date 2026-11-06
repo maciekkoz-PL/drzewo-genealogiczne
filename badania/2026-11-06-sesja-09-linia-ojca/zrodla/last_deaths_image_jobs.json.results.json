@@ -1,0 +1,22 @@
+[
+  {
+    "key": "death1940/act_3339_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6ze9MxlK9tgU5_GAvpCsu_UzLymxjPWAGKM9M6RXVGlZd&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=3338-3339.jpg",
+    "utc": "2026-11-06T11:30:21.122947+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6ze9MxlK9tgU5_GAvpCsu_UzLymxjPWAGKM9M6RXVGlZd&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=3338-3339.jpg",
+    "sha256": "a568619875b4324e320001b37fa0b2e51f125a4723249b1c859d48f34eac4c96",
+    "size": 654167,
+    "path": "work/s09/death1940/act_3339_image.jpg"
+  },
+  {
+    "key": "death1940/act_4689_image",
+    "url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRkzpvRyPY7ERrodwn45ogFp40EnZhWAjkY5ihCNHmPd&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=4688-4689.jpg",
+    "utc": "2026-11-06T11:30:21.139647+00:00",
+    "status": 200,
+    "final_url": "https://metbox3.genealodzy.pl/3/metryka_get.php?op=download&dir=IwUcsE39YCMA6NCPeeR6zRkzpvRyPY7ERrodwn45ogFp40EnZhWAjkY5ihCNHmPd&znak=Dr4CEsnE6HaOEhNyb6eRFWWgOzgPdXL701JMqE68ATA,&plik=4688-4689.jpg",
+    "sha256": "561cf62e5b93c0354130f13dc72f1251b0d26bdd8312898aa58e9337896b2151",
+    "size": 685753,
+    "path": "work/s09/death1940/act_4689_image.jpg"
+  }
+]

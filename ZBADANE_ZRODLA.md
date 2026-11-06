@@ -1,6 +1,6 @@
 # Rejestr zbadanych źródeł i prób dostępu
 
-Aktualny wykaz 144 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
+Aktualny wykaz 146 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
 
 [Najnowsza ocena dowodu i luka H017](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [dokładny zakres nowych odczytów](badania/2026-11-05-sesja-03-polaczenie/AROLSEN_ODCZYTY.md).
 
@@ -194,3 +194,11 @@ Etap08: [uzupełnienie rodziców Marii z istniejącego S086 i audyt granic dost�
 | S144 | Leo Chmielewski — zgon2617/1940 z odesłaniem do urodzenia1612 — 39/2736/0/-/11; PTG4852/1940cf/2616-2617.jpg; akt2617 | ODCZYTANO OBRAZ; ODESŁANIE DO URODZENIA, NIE AKT URODZENIA. Urodzony18.04.1940o10:35, zmarłtegodniao11; matkaJaninaChmielewska, Goebenstrasse28; ojciec niewpisany. Brak rodowego/DOBmatki. Rejestracja20.04.1940; odesłanieU1612/1940. Nie potwierdza ani nie wyklucza przyrodniego braterstwa zBogusławem. U1612 w skorowidzuS067, oryginał wtomie818(0skanówSwA), nieodczytany. | [Źródło](https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cf&kt=1&plik=2616-2617.jpg); [kopia](badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/leo_2617_image.jpg) |
 
 KorektaQ72: wS138 prawidłowa sygnatura39/2736/0/-/10; JPG1896 i link1940ce bez zmian. [Uzupełnienie odczytów i Q71](badania/2026-11-06-sesja-09-linia-ojca/UZUPELNIENIE_LEO_I_MELDUNKI.md).
+
+
+| ID | Źródło / sygnatura | Zakres i status | Link / kopia |
+|---|---|---|---|
+| S145 | Józef Chmielewski — zgon3339/1940, inni rodzice — 39/2736/0/-/12; PTG4852/1940cg/3338-3339.jpg;3339 | ODCZYTANO OBRAZ. Ur.21.04.1901Piotrków (Petrikau); zm.11.05.1940Łódź. OjciecLeonardChmielewski, matkaWiktoriaWitkowska. To inna para niżCzesław/Janina i Wincenty/Agnieszka. Nie badano jego potomków jako krewnych Marysi. | [Źródło](https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940cg&kt=1&plik=3338-3339.jpg); [kopia](badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/act_3339_image.jpg) |
+| S146 | Antonina Chmielewska zOrlików — zgon4683/1940 — 39/2736/0/-/14; PTG4852/1940ci/4682-4683.jpg;4683 | ODCZYTANO OBRAZ I SKORYGOWANO NR INDEKSU. Ur.05.05.1869Piaskowice, zm.30.06.1940Łódź; rodziceKazimierzOrlik/Katarzyna. Wdowa poJózefieChmielewskim, zgłasza synZygmunt. To nie dziecko Czesława/Janiny. Prawidłowy nr4683, nie4689: ten drugi akt dotyczy JózefaGoździa i jest tylko kontrolą błędu. | [Źródło](https://skanoteka.genealodzy.pl/index.php?op=pg&id=4852&sy=1940ci&kt=1&plik=4682-4683.jpg); [kopia](badania/2026-11-06-sesja-09-linia-ojca/zrodla/death1940/antonina_4683_image.jpg) |
+
+KorektaQ73: Antonina to4683, nie4689. [Odczyt wszystkich czterech zgonów](badania/2026-11-06-sesja-09-linia-ojca/CZTERY_ZGONY_1940.md).
