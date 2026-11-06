@@ -1,0 +1,18 @@
+[
+  [
+    "press/reverse_base",
+    "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+  ],
+  [
+    "press/child_two_fields",
+    "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+  ],
+  [
+    "press/father_dob",
+    "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+  ],
+  [
+    "press/mother_maiden_surname",
+    "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+  ]
+]

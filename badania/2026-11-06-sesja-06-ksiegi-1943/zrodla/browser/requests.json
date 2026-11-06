@@ -1,0 +1,725 @@
+{
+  "utc": "2026-11-06T05:54:06.224437+00:00",
+  "responses": [
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812",
+      "status": 200,
+      "type": "document"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=5074a744e2e3d891814e9a2dace20bd4,719d34d31c8e3a6e6fffd425f7e032f3",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWHANEDL=6883719541135896253,3685015322788561642,5649842263451193712,107483",
+      "status": 200,
+      "type": "xhr"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812",
+      "status": 200,
+      "type": "document"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/dynamic-data-mapping-form-renderer/css/main.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/mentions-web/css/mentions.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/main.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/frontend-css-web/main.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1543406984513",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/aui.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo?browserId=other&minifierType=&themeId=naccustomtheme_WAR_naccustomtheme&languageId=pl_PL&b=7006&com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&t=1792485184000",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/js_loader_modules?t=1793701170797",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/frontend-js-web/barebone.jsp?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&colorSchemeId=01&minifierType=js&minifierBundleId=javascript.barebone.files&languageId=pl_PL&b=7006&t=1543406984650",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/swa-web-components/styles.css?v=14",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo?browserId=other&minifierType=css&languageId=pl_PL&b=7006&t=1793701009852&/o/AdminTheme-theme-contributor/css/AdminTheme.css&/o/product-navigation-simulation-theme-contributor/css/simulation_panel.css&/o/product-navigation-product-menu-theme-contributor/product_navigation_product_menu.css&/o/product-navigation-control-menu-theme-contributor/product_navigation_control_menu.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/js_bundle_config?t=1793701160454",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo?browserId=other&minifierType=js&languageId=pl_PL&b=7006&t=1793701009852&/o/AdminTheme-theme-contributor/js/AdminTheme.js&/o/product-navigation-control-menu-theme-contributor/product_navigation_control_menu.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/ru_RU.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/swa-web-components/main.js?v=14",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/de_DE.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/main.js?browserId=other&minifierType=js&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/en_US.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/create_breadcrumb_url.js?v=202211032130",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/responsive.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/scrool.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/checkbox_check.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/breadcrumb.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/logo-text.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/slider.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/lupa-header.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/language.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/hide_long.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/hide_long_text.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/lib/tree.jquery.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/photoslider/loader.js?v=9",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/new-slider/new-slider.js?v=6",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/news-badge-handler/newsHandler.js?v=11",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/logo-text-small.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/lib/jqtree.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/liferay/language.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=998465272&t=pageview&_s=1&dl=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fzespol%2F-%2Fzespol%2F165812&ul=en-us&dt=Zesp%C3%B3%C5%82%20-%20Szukaj%20w%20Archiwach&sr=1440x1000&vp=1440x1000&_u=IEBAAEABAAAAACAAI~&jid=587764509&gjid=1764750615&cid=376193703.1793944440&tid=UA-11567241-4&_gid=1993724378.1793944440&_r=1&_slc=1&z=1409065415",
+      "status": 200,
+      "type": "xhr"
+    },
+    {
+      "url": "https://connect.facebook.net/pl_PL/sdk.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/instagram-logo2.svg",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/fb.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/pl_PL.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=942752409",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://matomo.archiwa.gov.pl/matomo.js",
+      "status": 503,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/web/aktualnosci",
+      "status": 200,
+      "type": "fetch"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/frontend-js-web/liferay/available_languages.jsp?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&colorSchemeId=01&minifierType=js&languageId=pl_PL&b=7006&t=1543406984650",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/logo-AP-PL-pion.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-metal-web/metal/src/coreNamed.js&/o/frontend-js-metal-web/metal/src/core.js&/o/frontend-js-metal-web/metal/src/array/array.js&/o/frontend-js-metal-web/metal/src/async/async.js&/o/frontend-js-metal-web/metal/src/disposable/Disposable.js&/o/frontend-js-metal-web/metal/src/object/object.js&/o/frontend-js-metal-web/metal/src/string/string.js&/o/frontend-js-metal-web/metal/src/metal.js&/o/frontend-js-metal-web/metal-dom/src/domData.js&/o/frontend-js-metal-web/metal-events/src/EventHandle.js&/o/frontend-js-metal-web/metal-events/src/EventEmitter.js&/o/frontend-js-metal-web/metal-events/src/EventEmitterProxy.js&/o/frontend-js-metal-web/metal-events/src/EventHandler.js&/o/frontend-js-metal-web/metal-events/src/events.js&/o/frontend-js-metal-web/metal-dom/src/DomDelegatedEventHandle.js&/o/frontend-js-metal-web/metal-dom/src/DomEventHandle.js&/o/frontend-js-metal-web/metal-dom/src/domNamed.js&/o/frontend-js-metal-web/metal-dom/src/dom.js&/o/frontend-js-metal-web/metal-dom/src/DomEventEmitterProxy.js&/o/frontend-js-metal-web/metal-dom/src/features.js&/o/frontend-js-metal-web/metal-dom/src/globalEval.js&/o/frontend-js-metal-web/metal-dom/src/globalEvalStyles.js&/o/frontend-js-metal-web/metal-dom/src/events.js&/o/frontend-js-metal-web/metal-dom/src/all/dom.js&/o/frontend-js-metal-web/metal-uri/src/parseFromAnchor.js&/o/frontend-js-metal-web/metal-uri/src/parse.js&/o/frontend-js-metal-web/metal-structs/src/MultiMap.js&/o/frontend-js-metal-web/metal-structs/src/TreeNode.js&/o/frontend-js-metal-web/metal-structs/src/all/structs.js&/o/frontend-js-metal-web/metal-uri/src/Uri.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/642042016308281?v=2.9.437&r=stable&domain=www.szukajwarchiwach.gov.pl&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C37%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C54%2C56%2C127%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/_Incapsula_Resource?SWKMTFSR=1&e=0.38364923757688885",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&fs",
+      "status": 400,
+      "type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-TNZ8FJ21CK&cx=c&_slc=1",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Roboto/Roboto-Bold.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/widget-base/assets/skins/sam/widget-base.css&/o/frontend-js-web/aui/autocomplete-list/assets/skins/sam/autocomplete-list.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Roboto/Roboto-Regular.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/aui/lexicon/fonts/glyphicons-halflings-regular.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Roboto/Roboto-Medium.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://connect.facebook.net/pl_PL/bundle/sdk.js/",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/aui/lexicon/fonts/alloy-font-awesome/font/fontawesome-alloy.woff",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Merriweather/Merriweather-Regular.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://connect.facebook.net/app_config/json/1976897545945509/",
+      "status": 200,
+      "type": "fetch"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/autocomplete-list/lang/autocomplete-list.js&/o/frontend-js-web/aui/base-core/base-core-min.js&/o/frontend-js-web/aui/base-observable/base-observable-min.js&/o/frontend-js-web/aui/base-build/base-build-min.js&/o/frontend-js-web/aui/escape/escape-min.js&/o/frontend-js-web/aui/event-valuechange/event-valuechange-min.js&/o/frontend-js-web/aui/autocomplete-base/autocomplete-base-min.js&/o/frontend-js-web/aui/shim-plugin/shim-plugin-min.js&/o/frontend-js-web/aui/widget-position/widget-position-min.js&/o/frontend-js-web/aui/widget-position-align/widget-position-align-min.js&/o/frontend-js-web/aui/autocomplete-list/autocomplete-list-min.js&/o/frontend-js-web/aui/querystring-stringify/querystring-stringify-min.js&/o/frontend-js-web/aui/aui-widget-cssclass/aui-widget-cssclass-min.js&/o/frontend-js-web/aui/aui-widget-toggle/aui-widget-toggle-min.js&/o/frontend-js-web/aui/aui-io-request/aui-io-request-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-TNZ8FJ21CK&gtm=45je6b41v9126074508za20gxf1&_p=1793944440286&_gaz=1&gcd=13l3l3l3l2l1&npa=0&dma=0&_eu=EhAIAGA&cid=376193703.1793944440&frm=0&ir=1&pscdl=noapi&rcb=7&sr=1440x1000&uaa=x86&uab=64&uafvl=Chromium%3B155.0.8059.79%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=Linux&uapv=&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120412528~120420416~120469145~120469153~121246026~121246034~123814183&dl=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fzespol%2F-%2Fzespol%2F165812&dt=Zesp%C3%B3%C5%82%20-%20Szukaj%20w%20Archiwach&sid=1793944441&sct=1&seg=0&en=page_view&_fv=1&_ss=1&_ee=1&tfd=3443",
+      "status": 204,
+      "type": "fetch"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/text-data-wordbreak/text-data-wordbreak-min.js&/o/frontend-js-web/aui/text-wordbreak/text-wordbreak-min.js&/o/frontend-js-web/aui/autocomplete-filters/autocomplete-filters-min.js&/o/frontend-js-web/aui/highlight-base/highlight-base-min.js&/o/frontend-js-web/aui/autocomplete-highlighters/autocomplete-highlighters-min.js&/o/frontend-js-web/aui/autocomplete-list-keys/autocomplete-list-keys-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-TNZ8FJ21CK&cid=376193703.1793944440&gtm=45je6b41v9126074508za20gxf1&rcb=7&aip=1&dma=0&gcd=13l3l3l3l2l1&npa=0&frm=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120213116~120385422~120412528~120420416~120469145~120469153~121246026~121246034~123814183",
+      "status": 204,
+      "type": "ping"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/timers/timers-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/event-touch/event-touch-min.js&/o/frontend-js-web/aui/event-move/event-move-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/widget-stack/assets/skins/sam/widget-stack.css&/o/frontend-js-web/aui/aui-tooltip-base/assets/skins/sam/aui-tooltip-base.css&/o/frontend-js-web/aui/aui-alert/assets/skins/sam/aui-alert.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/aui-aria/aui-aria-min.js&/o/frontend-js-web/aui/transition/transition-min.js&/o/frontend-js-web/aui/aui-widget-transition/aui-widget-transition-min.js&/o/frontend-js-web/aui/aui-widget-trigger/aui-widget-trigger-min.js&/o/frontend-js-web/aui/widget-stdmod/widget-stdmod-min.js&/o/frontend-js-web/aui/aui-widget-position-align-suggestion/aui-widget-position-align-suggestion-min.js&/o/frontend-js-web/aui/widget-autohide/widget-autohide-min.js&/o/frontend-js-web/aui/widget-position-constrain/widget-position-constrain-min.js&/o/frontend-js-web/aui/widget-stack/widget-stack-min.js&/o/frontend-js-web/aui/aui-tooltip-base/aui-tooltip-base-min.js&/o/frontend-js-web/aui/aui-tooltip-delegate/aui-tooltip-delegate-min.js&/o/frontend-js-web/aui/cookie/cookie-min.js&/o/frontend-js-web/aui/aui-alert/aui-alert-min.js&/o/frontend-js-web/liferay/node.js&/o/frontend-js-web/liferay/portlet_base.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/liferay/alert.js&/o/frontend-js-web/liferay/notification.js&/o/frontend-js-web/liferay/session.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/cssbutton/cssbutton-min.css&/o/frontend-js-web/aui/widget-modality/assets/skins/sam/widget-modality.css&/o/frontend-js-web/aui/aui-button-core/assets/skins/sam/aui-button-core.css&/o/frontend-js-web/aui/aui-modal/assets/skins/sam/aui-modal.css&/o/frontend-js-web/aui/resize-base/assets/skins/sam/resize-base.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/async-queue/async-queue-min.js&/o/frontend-js-web/aui/aui-parse-content/aui-parse-content-min.js&/o/frontend-js-web/liferay/portlet_url.js&/o/frontend-js-web/aui/aui-overlay-base-deprecated/aui-overlay-base-deprecated-min.js&/o/frontend-js-web/aui/aui-overlay-mask-deprecated/aui-overlay-mask-deprecated-min.js&/o/frontend-js-web/aui/aui-loading-mask-deprecated/aui-loading-mask-deprecated-min.js&/o/frontend-js-web/aui/aui-dialog-iframe-deprecated/aui-dialog-iframe-deprecated-min.js&/o/frontend-js-web/aui/button-core/button-core-min.js&/o/frontend-js-web/aui/button-plugin/button-plugin-min.js&/o/frontend-js-web/aui/widget-buttons/widget-buttons-min.js&/o/frontend-js-web/aui/widget-modality/widget-modality-min.js&/o/frontend-js-web/aui/dd-ddm-base/dd-ddm-base-min.js&/o/frontend-js-web/aui/dd-drag/dd-drag-min.js&/o/frontend-js-web/aui/dd-plugin/dd-plugin-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/dd-constrain/dd-constrain-min.js&/o/frontend-js-web/aui/button/button-min.js&/o/frontend-js-web/aui/button-group/button-group-min.js&/o/frontend-js-web/aui/aui-button-core/aui-button-core-min.js&/o/frontend-js-web/aui/aui-toolbar/aui-toolbar-min.js&/o/frontend-js-web/aui/aui-widget-toolbars/aui-widget-toolbars-min.js&/o/frontend-js-web/aui/event-flick/event-flick-min.js&/o/frontend-js-web/aui/event-tap/event-tap-min.js&/o/frontend-js-web/aui/dd-ddm/dd-ddm-min.js&/o/frontend-js-web/aui/dd-ddm-drop/dd-ddm-drop-min.js&/o/frontend-js-web/aui/dd-drop/dd-drop-min.js&/o/frontend-js-web/aui/dd-drop-plugin/dd-drop-plugin-min.js&/o/frontend-js-web/aui/dd-delegate/dd-delegate-min.js&/o/frontend-js-web/aui/resize-base/resize-base-min.js&/o/frontend-js-web/aui/resize-plugin/resize-plugin-min.js&/o/frontend-js-web/aui/aui-modal/aui-modal-min.js&/o/frontend-js-web/aui/aui-modal-resize/aui-modal-resize-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/liferay/widget_zindex.js&/o/frontend-js-web/liferay/util_window.js&/o/frontend-js-web/liferay/sign_in_modal.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/querystring-parse/querystring-parse-min.js&/o/frontend-js-web/aui/aui-url/aui-url-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=165812",
+      "status": 200,
+      "type": "document"
+    },
+    {
+      "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/mentions-web/css/mentions.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/dynamic-data-mapping-form-renderer/css/main.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/aui.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo?browserId=other&minifierType=css&languageId=pl_PL&b=7006&t=1793701009852&/o/AdminTheme-theme-contributor/css/AdminTheme.css&/o/product-navigation-simulation-theme-contributor/css/simulation_panel.css&/o/product-navigation-product-menu-theme-contributor/product_navigation_product_menu.css&/o/product-navigation-control-menu-theme-contributor/product_navigation_control_menu.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/frontend-css-web/main.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1543406984513",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/js_bundle_config?t=1793701160454",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/main.css?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&minifierType=css&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/frontend-js-web/barebone.jsp?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&colorSchemeId=01&minifierType=js&minifierBundleId=javascript.barebone.files&languageId=pl_PL&b=7006&t=1543406984650",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/swa-web-components/styles.css?v=14",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/js_loader_modules?t=1793701170797",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo?browserId=other&minifierType=&themeId=naccustomtheme_WAR_naccustomtheme&languageId=pl_PL&b=7006&com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&t=1792485184000",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.google-analytics.com/analytics.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo?browserId=other&minifierType=js&languageId=pl_PL&b=7006&t=1793701009852&/o/AdminTheme-theme-contributor/js/AdminTheme.js&/o/product-navigation-control-menu-theme-contributor/product_navigation_control_menu.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://connect.facebook.net/pl_PL/sdk.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://connect.facebook.net/en_US/fbevents.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/swa-web-components/main.js?v=14",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://connect.facebook.net/pl_PL/bundle/sdk.js/",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://connect.facebook.net/signals/config/642042016308281?v=2.9.437&r=stable&domain=www.szukajwarchiwach.gov.pl&hme=4453c87d489b6902031c012cadd2731893cd69feb64fe8a61b339727247a7703&ex_m=118%2C242%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C161%2C72%2C185%2C110%2C184%2C211%2C263%2C37%2C84%2C283%2C282%2C281%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C333%2C334%2C335%2C332%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C349%2C371%2C256%2C238%2C70%2C239%2C237%2C374%2C365%2C59%2C257%2C121%2C145%2C92%2C135%2C61%2C54%2C56%2C127%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/ru_RU.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/en_US.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/create_breadcrumb_url.js?v=202211032130",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/de_DE.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/main.js?browserId=other&minifierType=js&languageId=pl_PL&b=7006&t=1793701170797",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/scrool.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/logo-text.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/responsive.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/slider.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1252026441&t=pageview&_s=1&dl=https%3A%2F%2Fwww.szukajwarchiwach.gov.pl%2Fzespol%3Fp_p_id%3DZespol%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_Zespol_javax.portlet.action%3DzmienWidok%26_Zespol_nameofjsp%3Djednostki%26_Zespol_id_zespolu%3D165812&ul=en-us&dt=Zesp%C3%B3%C5%82%20-%20Szukaj%20w%20Archiwach&sr=1440x1000&vp=1440x1000&_u=AACAAEABAAAAACAAI~&jid=&gjid=&cid=376193703.1793944440&tid=UA-11567241-4&_gid=1993724378.1793944440&_slc=1&z=1898175707",
+      "status": 200,
+      "type": "xhr"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-TNZ8FJ21CK&cx=c&_slc=1",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/lupa-header.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/breadcrumb.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/checkbox_check.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/language.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/hide_long.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/new-slider/new-slider.js?v=6",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/hide_long_text.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/plugins/photoslider/loader.js?v=9",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/lib/jqtree.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/logo-text-small.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/news-badge-handler/newsHandler.js?v=11",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/js/lib/tree.jquery.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/liferay/language.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/frontend-js-web/liferay/available_languages.jsp?browserId=other&themeId=naccustomtheme_WAR_naccustomtheme&colorSchemeId=01&minifierType=js&languageId=pl_PL&b=7006&t=1543406984650",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-metal-web/metal/src/coreNamed.js&/o/frontend-js-metal-web/metal/src/core.js&/o/frontend-js-metal-web/metal/src/array/array.js&/o/frontend-js-metal-web/metal/src/async/async.js&/o/frontend-js-metal-web/metal/src/disposable/Disposable.js&/o/frontend-js-metal-web/metal/src/object/object.js&/o/frontend-js-metal-web/metal/src/string/string.js&/o/frontend-js-metal-web/metal/src/metal.js&/o/frontend-js-metal-web/metal-dom/src/domData.js&/o/frontend-js-metal-web/metal-events/src/EventHandle.js&/o/frontend-js-metal-web/metal-events/src/EventEmitter.js&/o/frontend-js-metal-web/metal-events/src/EventEmitterProxy.js&/o/frontend-js-metal-web/metal-events/src/EventHandler.js&/o/frontend-js-metal-web/metal-events/src/events.js&/o/frontend-js-metal-web/metal-dom/src/DomDelegatedEventHandle.js&/o/frontend-js-metal-web/metal-dom/src/DomEventHandle.js&/o/frontend-js-metal-web/metal-dom/src/domNamed.js&/o/frontend-js-metal-web/metal-dom/src/dom.js&/o/frontend-js-metal-web/metal-dom/src/DomEventEmitterProxy.js&/o/frontend-js-metal-web/metal-dom/src/features.js&/o/frontend-js-metal-web/metal-dom/src/globalEval.js&/o/frontend-js-metal-web/metal-dom/src/globalEvalStyles.js&/o/frontend-js-metal-web/metal-dom/src/events.js&/o/frontend-js-metal-web/metal-dom/src/all/dom.js&/o/frontend-js-metal-web/metal-uri/src/parseFromAnchor.js&/o/frontend-js-metal-web/metal-uri/src/parse.js&/o/frontend-js-metal-web/metal-structs/src/MultiMap.js&/o/frontend-js-metal-web/metal-structs/src/TreeNode.js&/o/frontend-js-metal-web/metal-structs/src/all/structs.js&/o/frontend-js-metal-web/metal-uri/src/Uri.js&/o/frontend-js-metal-web/metal-component/src/events/events.js&/o/frontend-js-metal-web/metal-component/src/sync/sync.js&/o/frontend-js-metal-web/metal-state/src/validators.js&/o/frontend-js-metal-web/metal-state/src/Config.js&/o/frontend-js-metal-web/metal-state/src/State.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://matomo.archiwa.gov.pl/matomo.js",
+      "status": 503,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/instagram-logo2.svg",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/fb.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-metal-web/metal-state/src/all/state.js&/o/frontend-js-metal-web/metal-component/src/ComponentDataManager.js&/o/frontend-js-metal-web/metal-component/src/ComponentRenderer.js&/o/frontend-js-metal-web/metal-component/src/Component.js&/o/frontend-js-metal-web/metal-component/src/ComponentRegistry.js&/o/frontend-js-metal-web/metal-component/src/all/component.js&/o/frontend-js-web/liferay/PortletBase.es.js&/o/frontend-js-web/liferay/DynamicInlineScroll.es.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/logo-AP-PL-pion.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/images/language/pl_PL.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/widget-base/assets/skins/sam/widget-base.css&/o/frontend-js-web/aui/autocomplete-list/assets/skins/sam/autocomplete-list.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Roboto/Roboto-Regular.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/aui/lexicon/fonts/glyphicons-halflings-regular.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Merriweather/Merriweather-Regular.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Roboto/Roboto-Medium.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/fonts/Roboto/Roboto-Bold.ttf",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/o/nac-custom-theme/css/aui/lexicon/fonts/alloy-font-awesome/font/fontawesome-alloy.woff",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/autocomplete-list/lang/autocomplete-list.js&/o/frontend-js-web/aui/base-core/base-core-min.js&/o/frontend-js-web/aui/base-observable/base-observable-min.js&/o/frontend-js-web/aui/base-build/base-build-min.js&/o/frontend-js-web/aui/escape/escape-min.js&/o/frontend-js-web/aui/event-valuechange/event-valuechange-min.js&/o/frontend-js-web/aui/autocomplete-base/autocomplete-base-min.js&/o/frontend-js-web/aui/shim-plugin/shim-plugin-min.js&/o/frontend-js-web/aui/widget-position/widget-position-min.js&/o/frontend-js-web/aui/widget-position-align/widget-position-align-min.js&/o/frontend-js-web/aui/autocomplete-list/autocomplete-list-min.js&/o/frontend-js-web/aui/querystring-stringify/querystring-stringify-min.js&/o/frontend-js-web/aui/aui-widget-cssclass/aui-widget-cssclass-min.js&/o/frontend-js-web/aui/aui-widget-toggle/aui-widget-toggle-min.js&/o/frontend-js-web/aui/aui-io-request/aui-io-request-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/text-data-wordbreak/text-data-wordbreak-min.js&/o/frontend-js-web/aui/text-wordbreak/text-wordbreak-min.js&/o/frontend-js-web/aui/autocomplete-filters/autocomplete-filters-min.js&/o/frontend-js-web/aui/highlight-base/highlight-base-min.js&/o/frontend-js-web/aui/autocomplete-highlighters/autocomplete-highlighters-min.js&/o/frontend-js-web/aui/autocomplete-list-keys/autocomplete-list-keys-min.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.szukajwarchiwach.gov.pl/combo/?browserId=other&minifierType=&languageId=pl_PL&b=7006&t=1543406984650&/o/frontend-js-web/aui/timers/timers-min.js",
+      "status": 200,
+      "type": "script"
+    }
+  ]
+}

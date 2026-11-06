@@ -1,3 +1,5 @@
+Bieżące badania06.11.2026: [konkretne tomy urodzeń1943 i stan dowodów](badania/2026-11-06-sesja-06-ksiegi-1943/STATUS.md), [plan](badania/2026-11-06-sesja-06-ksiegi-1943/PLAN_KONTYNUACJI.md). 990obejmuje01–27kwietnia,991od27kwietnia. Brak odczytu aktu Bogusława; H017otwarta.
+
 Bieżący etap05: [wyniki prasowe i granice dowodów](badania/2026-11-05-sesja-05-prasa/STATUS.md), [plan dalszej pracy](badania/2026-11-05-sesja-05-prasa/PLAN_KONTYNUACJI.md). H017 nadal otwarta.
 
 Bieżąca kontynuacja: [etap04 — wyniki, ograniczenia i plan](badania/2026-11-05-sesja-04-weryfikacja/STATUS.md). H017 pozostaje otwarta; Geneteka wskazuje jedną parę w przeszukanych indeksach.

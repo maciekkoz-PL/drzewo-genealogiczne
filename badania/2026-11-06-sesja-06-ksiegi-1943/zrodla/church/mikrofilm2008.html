@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="iso-8859-2">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="theme-color" content="#f5f4f0">
+  <title>Przerwa techniczna | Archidiecezja Łódzka</title>
+  <style>
+    :root { color-scheme: light; --bg:#f5f4f0; --ink:#303b3d; --muted:#687171; --line:#dedfd9; --accent:#7e6650; --card:#fffefa; }
+    * { box-sizing: border-box; }
+    html, body { min-height: 100%; }
+    body { margin:0; background:var(--bg); color:var(--ink); font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; -webkit-font-smoothing:antialiased; }
+    .page { min-height:100vh; min-height:100dvh; display:flex; flex-direction:column; padding:clamp(22px,5vw,64px) 20px 24px; }
+    .main { width:100%; flex:1; display:grid; place-items:center; }
+    .panel { width:min(100%,760px); padding:clamp(34px,6vw,72px) clamp(26px,7vw,78px); background:var(--card); border:1px solid var(--line); box-shadow:0 18px 60px rgba(34,45,45,.045); text-align:center; }
+    .brand { display:block; max-width:min(100%,340px); width:100%; height:auto; max-height:120px; object-fit:contain; margin:0 auto 46px; }
+    .eyebrow { margin:0 0 18px; color:var(--accent); font-size:12px; font-weight:700; letter-spacing:.19em; text-transform:uppercase; }
+    h1 { margin:0; font-family:Georgia,"Times New Roman",serif; font-size:clamp(31px,5vw,45px); font-weight:400; line-height:1.19; letter-spacing:-.025em; }
+    .rule { width:48px; height:2px; background:var(--accent); margin:30px auto; opacity:.85; }
+    .lead { max-width:560px; margin:0 auto 18px; font-size:clamp(17px,2.2vw,19px); line-height:1.75; }
+    .detail { max-width:560px; margin:0 auto; color:var(--muted); font-size:15px; line-height:1.8; }
+    .footer { padding-top:34px; text-align:center; font-size:12px; letter-spacing:.03em; color:var(--muted); }
+    @media (max-width:480px) { .page { padding:18px 14px; } .panel { padding:40px 24px; } .brand { max-width:260px; margin-bottom:36px; } .footer { padding-top:20px; } }
+    @media (prefers-reduced-motion:reduce) { *, *::before, *::after { scroll-behavior:auto !important; } }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <main class="main">
+      <section class="panel" aria-labelledby="title">
+        <img class="brand" src="https://archidiecezja.fra1.cdn.digitaloceanspaces.com/frontend/images/archidiecezja-lodzka.svg" alt="Archidiecezja Łódzka">
+        <p class="eyebrow">Komunikat techniczny</p>
+        <h1 id="title">Tymczasowa niedostępność serwisu</h1>
+        <div class="rule" aria-hidden="true"></div>
+        <p class="lead">Informujemy, że dostęp do serwisu jest czasowo wstrzymany w związku z pilnymi pracami mającymi na celu zapewnienie bezpieczeństwa infrastruktury informatycznej.</p>
+        <p class="detail">Podejmujemy niezbędne działania, aby przywrócić prawidłowe funkcjonowanie serwisu w możliwie najkrótszym czasie. Przepraszamy za utrudnienia i dziękujemy za wyrozumiałość.</p>
+      </section>
+    </main>
+    <footer class="footer">Archidiecezja Łódzka</footer>
+  </div>
+</body>
+</html>

@@ -1,3 +1,5 @@
+Bieżące badania06.11.2026: [konkretne tomy urodzeń1943 i stan dowodów](badania/2026-11-06-sesja-06-ksiegi-1943/STATUS.md), [plan](badania/2026-11-06-sesja-06-ksiegi-1943/PLAN_KONTYNUACJI.md). 990obejmuje01–27kwietnia,991od27kwietnia. Brak odczytu aktu Bogusława; H017otwarta.
+
 > **Wygląd strony — najnowsza preferencja:** proste drzewo z kartami osób po kliknięciu. Bez ozdobnych tekstów i długich opisów nad drzewem. W dzienniku pod spodem tylko przełomowe odkrycia, bez szczegółowych kwerend, liczb skanów i otwartych tropów.
 
 > **Po kolejnej istotnej zmianie ustaleń aktualizuj również publiczne drzewo i kronikę:** [witryna/README.md](witryna/README.md). Użytkownik wybrał publiczny link, a następnie dopuścił publikację znanych danych żyjących krewnych (05.11.2026). Imiona, nazwiska i daty można pokazywać ze statusem dowodu. Nie dopisuj nieznanego nazwiska Marysi ani nie utożsamiaj Piotra z osobą z prasy. Nie eksportuj całego Excela. Aktualizacja wymaga wygenerowania HTML i publikacji istniejącej witryny; sam push do GitHuba nie zmienia strony. Nie twórz kolejnej witryny.

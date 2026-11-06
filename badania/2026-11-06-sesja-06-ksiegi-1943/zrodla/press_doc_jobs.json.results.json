@@ -1,0 +1,1182 @@
+[
+  {
+    "key": "press/62408",
+    "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408",
+    "utc": "2026-11-06T05:57:40.958582+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408",
+    "size": 121412,
+    "sha256": "0b18eeba019d34d3cefdcdefc0e4f1d6208e4dce63d7e924335a74f590ce3722",
+    "path": "work/s06/press/62408.html",
+    "links": [
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408?language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408?language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408?language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcHVibGljYXRpb24vNjUyOTIvZWRpdGlvbi82MjQwOA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408?language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408?language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408?language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=62408"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=62408"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408/content"
+      },
+      {
+        "text": "Pokaż treść",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408/content"
+      },
+      {
+        "text": "Pobierz",
+        "url": "https://bc.wbp.lodz.pl/Content/62408/download/"
+      },
+      {
+        "text": "Opis",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#description"
+      },
+      {
+        "text": "Informacje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#info"
+      },
+      {
+        "text": "Struktura",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#structure"
+      },
+      {
+        "text": "1970-01-30",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Date:\"1970%5C-01%5C-30\""
+      },
+      {
+        "text": "Gazeta",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Type:\"Gazeta\""
+      },
+      {
+        "text": "Komitet Redakcyjny",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Contributor:\"Komitet+Redakcyjny\""
+      },
+      {
+        "text": "Łódź : \"Czytelnik\"",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Publisher:\"%C5%81%C3%B3d%C5%BA+%5C:+%5C%22Czytelnik%5C%22\""
+      },
+      {
+        "text": "Dziennik",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Description:\"Dziennik\""
+      },
+      {
+        "text": "Numeracja: R. 1, nr 1 (1945). R. 9, nr 207 (1953) = R. 12, nr 266 (1956) - R. 31, nr 145 (1975); R. 36, nr 283 (31 grudnia 1975/1 stycznia 1976) - 2000, nr 222 (22 września)",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Description:\"Numeracja%5C:+R.+1%2C+nr+1+%5C(1945%5C).+R.+9%2C+nr+207+%5C(1953%5C)+%3D+R.+12%2C+nr+266+%5C(1956%5C)+%5C-+R.+31%2C+nr+145+%5C(1975%5C)%5C%3B+R.+36%2C+nr+283+%5C(31+grudnia+1975%5C%2F1+stycznia+1976%5C)+%5C-+2000%2C+nr+222+%5C(22+wrze%C5%9Bnia%5C)\""
+      },
+      {
+        "text": "Od 1 lipca 1975 r. do 30 grudnia 1980 r. zmiana tytułu na \"Dziennik Popularny\"",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Description:\"Od+1+lipca+1975+r.+do+30+grudnia+1980+r.+zmiana+tytu%C5%82u+na+%5C%22Dziennik+Popularny%5C%22\""
+      },
+      {
+        "text": "W numerach na soboty, niedziele i sporadycznie na inne dni tygodnia tyt.: Dziennik Łódzki : panorama",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Description:\"W+numerach+na+soboty%2C+niedziele+i+sporadycznie+na+inne+dni+tygodnia+tyt.%5C:+Dziennik+%C5%81%C3%B3dzki+%5C:+panorama\""
+      },
+      {
+        "text": "application/pdf",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Format:\"application%5C%2Fpdf\""
+      },
+      {
+        "text": "oai:bc.wbp.lodz.pl:62408",
+        "url": "http://fbc.pionier.net.pl/id/oai:bc.wbp.lodz.pl:62408"
+      },
+      {
+        "text": "sygn. oryg.: 77-G KZ",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Source:\"sygn.+oryg.%5C:+77%5C-G+KZ\""
+      },
+      {
+        "text": "pol",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Language:\"pol\""
+      },
+      {
+        "text": "WBP im. Marszałka J. Piłsudskiego w Łodzi",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=LocationOfOriginal:\"WBP+im.+Marsza%C5%82ka+J.+Pi%C5%82sudskiego+w+%C5%81odzi\""
+      },
+      {
+        "text": "Polskapresse",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Rights:\"Polskapresse\""
+      },
+      {
+        "text": "Tekst licencji",
+        "url": "http://bc.wimbp.lodz.pl/licencja_dl.jpg"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl//dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=GroupTitle:\"Dziennik+%C5%81%C3%B3dzki+1945%5C-1953+%5C-+1956%5C-1975+%5C-+1975%5C-2000\""
+      },
+      {
+        "text": "Łódź (woj. łódzkie) - czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Subject:\"%C5%81%C3%B3d%C5%BA+%5C(woj.+%C5%82%C3%B3dzkie%5C)+%5C-+czasopisma\""
+      },
+      {
+        "text": "Czasopisma regionalne i lokalne polskie",
+        "url": "https://bc.wbp.lodz.pl/dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Subject:\"Czasopisma+regionalne+i+lokalne+polskie\""
+      },
+      {
+        "text": "Gazety polskie",
+        "url": "https://bc.wbp.lodz.pl/dlibra/metadatasearch?action=AdvancedSearchAction&type=-3&val1=Subject:\"Gazety+polskie\""
+      },
+      {
+        "text": "Regionalia Ziemi Łódzkiej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Regionalia Ziemi Łódzkiej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Regionalia Ziemi Łódzkiej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/5"
+      },
+      {
+        "text": "Regionalia Ziemi Łódzkiej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "https://bc.wbp.lodz.pl/publication/65292",
+        "url": "https://bc.wbp.lodz.pl/publication/65292"
+      },
+      {
+        "text": "RDF",
+        "url": "https://bc.wbp.lodz.pl/dlibra/rdf.xml?type=e&id=62408"
+      },
+      {
+        "text": "OAI-PMH",
+        "url": "https://bc.wbp.lodz.pl/dlibra/oai-pmh-repository.xml?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bc.wbp.lodz.pl:62408"
+      },
+      {
+        "text": "Dziennik Łódzki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53185#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1945, R. 1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/58062#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1946, R. 2",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/58090#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1947, R. 3",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/58470#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1948, R. 4",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59023#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1949, R. 5",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59394#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1950, R. 6",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59768#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1951, R. 7",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/60412#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1952, R. 8",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/62935#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1953, R. 9",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/62936#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1956, R. 12",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/62938#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1957, R. 13",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/62937#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1958, R. 14",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/61104#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1959, R. 15",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/60938#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1960, R. 16",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/61423#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1961, R. 17",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/61855#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1962, R. 17",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/61856#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1963, R. 18",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59891#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1964, R. 19",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/60554#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1965, R. 20",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/62025#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1966, R. 21",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/62630#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1967, R. 22",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64301#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968, R. 23",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64623#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1969, R. 24",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64943#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 25/26",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65264#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 25/26 Styczeń",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65265#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65268/edition/62384/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-02 R. 25 nr 1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65268/edition/62384"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65269/edition/62385/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-03 R. 25 nr 2",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65269/edition/62385"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65270/edition/62386/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-04/05 R. 26 nr 3",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65270/edition/62386"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65271/edition/62387/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-06 R. 26 nr 4",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65271/edition/62387"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65272/edition/62388/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-07 R. 26 nr 5",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65272/edition/62388"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65273/edition/62389/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-08 R. 26 nr 6",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65273/edition/62389"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65274/edition/62390/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-09 R. 26 nr 7",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65274/edition/62390"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65275/edition/62391/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-10 R. 26 nr 8",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65275/edition/62391"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65276/edition/62392/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-11/12 R. 26 nr 9",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65276/edition/62392"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65277/edition/62393/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-13 R. 26 nr 10",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65277/edition/62393"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65278/edition/62394/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-14 R. 26 nr 11",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65278/edition/62394"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65279/edition/62395/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-15 R. 26 nr 12",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65279/edition/62395"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65280/edition/62396/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-16 R. 26 nr 13",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65280/edition/62396"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65281/edition/62397/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-17 R. 26 nr 14",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65281/edition/62397"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65282/edition/62398/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-18/19 R. 26 nr 15",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65282/edition/62398"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65283/edition/62399/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-20 R. 26 nr 16",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65283/edition/62399"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65284/edition/62400/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-21 R. 26 nr 17",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65284/edition/62400"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65285/edition/62401/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-22 R. 26 nr 18",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65285/edition/62401"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65286/edition/62402/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-23 R. 26 nr 19",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65286/edition/62402"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65287/edition/62403/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-24 R. 26 nr 20",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65287/edition/62403"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65288/edition/62404/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-25/26 R. 26 nr 21",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65288/edition/62404"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65289/edition/62405/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-27 R. 26 nr 22",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65289/edition/62405"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65290/edition/62406/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-28 R. 26 nr 23",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65290/edition/62406"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65291/edition/62407/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-29 R. 26 nr 24",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65291/edition/62407"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-30 R. 26 nr 25",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65293/edition/62409/content?ref=struct"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-31 R. 26 nr 26",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65293/edition/62409"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Luty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65266#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Marzec",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65267#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Kwiecień",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65318#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Maj",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65319#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Czerwiec",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65320#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Lipiec",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65321#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Sierpień",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65425#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Wrzesień",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65426#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Październik",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65427#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Listopad",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65428#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970, R. 26 Grudzień",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65429#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1971, R. 27",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65585#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1972, R. 28",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65829#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1973, R. 29",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/66228#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1974, R. 30",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/66575#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1975, R. 31",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53186#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1976, R. 32",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53346#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1977, R. 33",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53846#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1978, R. 34",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54154#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1979, R. 35",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54460#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1980, R. 36",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54769#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1981, R. 37",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/55064#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1982, R. 38",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/55317#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1983, R. 39",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/55552#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1984, R. 40",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/55838#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1985, R. 41",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/56158#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1986, R. 42/43 [właśc. 42]",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/56477#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1987, R. 42/43 [właśc. 43]",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/56793#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1988, R. 43/44 [właśc. 44]",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/57110#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1989, R. 44 [właśc. 45]",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/57426#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1990, R. 45 [właśc. 46]",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/57747#structure"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-30 R. 26 nr 25",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64699/edition/61841#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64699/edition/61841#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64699/edition/61841"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-26 R. 23 nr 73",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64699/edition/61841"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61841"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61841"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64699/edition/61841/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64699/edition/61841"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64698/edition/61840#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64698/edition/61840#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64698/edition/61840"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-24/25 R. 23 nr 72",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64698/edition/61840"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61840"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61840"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64698/edition/61840/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64698/edition/61840"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64701/edition/61843#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64701/edition/61843#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64701/edition/61843"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-28 R. 23 nr 75",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64701/edition/61843"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61843"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61843"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64701/edition/61843/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64701/edition/61843"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64700/edition/61842#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64700/edition/61842#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64700/edition/61842"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-27 R. 23 nr 74",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64700/edition/61842"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61842"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61842"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64700/edition/61842/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64700/edition/61842"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64695/edition/61837#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64695/edition/61837#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64695/edition/61837"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-21 R. 23 nr 69",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64695/edition/61837"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61837"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61837"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64695/edition/61837/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64695/edition/61837"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64694/edition/61836#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64694/edition/61836#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64694/edition/61836"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-20 R. 23 nr 68",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64694/edition/61836"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61836"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61836"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64694/edition/61836/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64694/edition/61836"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64697/edition/61839#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64697/edition/61839#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64697/edition/61839"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-23 R. 23 nr 71",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64697/edition/61839"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61839"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61839"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64697/edition/61839/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64697/edition/61839"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64696/edition/61838#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64696/edition/61838#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64696/edition/61838"
+      },
+      {
+        "text": "Dziennik Łódzki. 1968-03-22 R. 23 nr 70",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64696/edition/61838"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=61838"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=61838"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64696/edition/61838/content?ref=L3B1YmxpY2F0aW9uLzY1MjkyL2VkaXRpb24vNjI0MDg"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/64696/edition/61838"
+      },
+      {
+        "text": "Więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/similarobjects?action=SimpleSearchAction&id=62408"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q="
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  }
+]

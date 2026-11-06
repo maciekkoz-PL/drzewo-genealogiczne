@@ -1,0 +1,42 @@
+[
+  {
+    "key": "catalogs/cyfrowe_2026_11_03",
+    "url": "https://www.lodz.ap.gov.pl/pliki/Cyfrowe-3-11-2026,40.pdf?view=1",
+    "utc": "2026-11-06T05:52:06.573620+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/pliki/Cyfrowe-3-11-2026,40.pdf?view=1",
+    "size": 1477617,
+    "sha256": "05d5b74b5fe49c029fccce45e2d7ca6800d6d31219f29333688abcefe4512d3d",
+    "path": "work/s06/catalogs/cyfrowe_2026_11_03.pdf"
+  },
+  {
+    "key": "catalogs/cyfrowe_aal",
+    "url": "https://www.lodz.ap.gov.pl/pliki/cyfroweaal,39.pdf?view=1",
+    "utc": "2026-11-06T05:52:06.574781+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/pliki/cyfroweaal,39.pdf?view=1",
+    "size": 531916,
+    "sha256": "de9c93cfe912a6a199ecc35aed2addc69ebd574de00f449d31e4219d1aaf66fe",
+    "path": "work/s06/catalogs/cyfrowe_aal.pdf"
+  },
+  {
+    "key": "catalogs/mikrofilmy_aal",
+    "url": "https://www.lodz.ap.gov.pl/pliki/mflaal,44.pdf?view=1",
+    "utc": "2026-11-06T05:52:06.577783+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/pliki/mflaal,44.pdf?view=1",
+    "size": 314918,
+    "sha256": "79a44a1f06657642dd0c07250063db03e32187741fcd432d8d0fdf2f5d38d0d2",
+    "path": "work/s06/catalogs/mikrofilmy_aal.pdf"
+  },
+  {
+    "key": "catalogs/mikrofilmy_asc",
+    "url": "https://www.lodz.ap.gov.pl/pliki/mflasc,47.pdf?view=1",
+    "utc": "2026-11-06T05:52:07.984144+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/pliki/mflasc,47.pdf?view=1",
+    "size": 738589,
+    "sha256": "ef8052af1dd9e21e0df312501241fcfb55ef13cb414c70577f85e27924942103",
+    "path": "work/s06/catalogs/mikrofilmy_asc.pdf"
+  }
+]

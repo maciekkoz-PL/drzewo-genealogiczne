@@ -1,0 +1,1314 @@
+[
+  {
+    "key": "press/reverse_child",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:52:29.630406+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 29114,
+    "sha256": "7f7e3ea08b1ea6049befc7c088e2a4ddfd052570e6e1bfac50ef9aca5c9e343a",
+    "path": "work/s06/press/reverse_child.html",
+    "links": [
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpZWdvK0JvZ3VzJUM1JTgyYXdhJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewskiego+Bogus%C5%82awa%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=%22Chmielewskiego+Bogus%C5%82awa%22"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=\"Chmielewskiego Bogusława\""
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  },
+  {
+    "key": "press/mother_maiden_declined",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:52:29.631398+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 28913,
+    "sha256": "facdfc86fa959b2b4cce73aec036cdc66be703633e28fa74a5905171b12e0102",
+    "path": "work/s06/press/mother_maiden_declined.html",
+    "links": [
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkphbmlueStQb3ByYXdraSUyMiZhY3Rpb249U2ltcGxlU2VhcmNoQWN0aW9uJnR5cGU9LTYmcD0w"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janiny+Poprawki%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=%22Janiny+Poprawki%22"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=\"Janiny Poprawki\""
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  },
+  {
+    "key": "press/mother_obituary",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:52:29.634306+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 29036,
+    "sha256": "f54d0c5ec6dc06e1e250367b8548946b392b4474bef8b9dc45f78cb719e38556",
+    "path": "work/s06/press/mother_obituary.html",
+    "links": [
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkphbmluYSt6K1BvcHJhd2slQzMlQjN3JTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Janina+z+Poprawk%C3%B3w%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=%22Janina+z+Poprawk%C3%B3w%22"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=\"Janina z Poprawków\""
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  },
+  {
+    "key": "press/child_variant",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:52:33.185273+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 29057,
+    "sha256": "c217fa544320f26dab03b76a58b20a151118673f50f058d6cfa46ee79b414361",
+    "path": "work/s06/press/child_variant.html",
+    "links": [
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkJvZ3VzJUM1JTgyYXcrQ2htaWVsb3dza2klMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Bogus%C5%82aw+Chmielowski%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=%22Bogus%C5%82aw+Chmielowski%22"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=\"Bogusław Chmielowski\""
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  }
+]

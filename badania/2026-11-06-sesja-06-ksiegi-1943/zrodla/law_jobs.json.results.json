@@ -1,0 +1,298 @@
+[
+  {
+    "key": "law/archiwa2020_164",
+    "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html",
+    "utc": "2026-11-06T06:00:44.748549+00:00",
+    "status": 200,
+    "final_url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html",
+    "size": 612880,
+    "sha256": "4063800b92ed2ad72477440e541b6c42601213903be95c0d81fbf675af58770b",
+    "path": "work/s06/law/archiwa2020_164.html",
+    "links": [
+      {
+        "text": "TreÅÄ obwieszczenia",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#part_1"
+      },
+      {
+        "text": "ZaÅÄ cznik - Tekst jednolity ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#part_2"
+      },
+      {
+        "text": "RozdziaÅ 1 - Przepisy ogÃ³lne",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_1"
+      },
+      {
+        "text": "RozdziaÅ 2 - PostÄpowanie z materiaÅami archiwalnymi i innÄ dokumentacjÄ",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_2"
+      },
+      {
+        "text": "RozdziaÅ 3 - PaÅstwowy zasÃ³b archiwalny",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_3"
+      },
+      {
+        "text": "RozdziaÅ 4 - NiepaÅstwowy zasÃ³b archiwalny",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_4"
+      },
+      {
+        "text": "RozdziaÅ 4a - DziaÅalnoÅÄ gospodarcza w zakresie przechowywania dokumentacji osobowej i pÅacowej pracodawcÃ³w o czasowym okresie przechowywania",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_4a"
+      },
+      {
+        "text": "RozdziaÅ 4b - PostÄpowanie z dokumentacjÄ osobowÄ i pÅacowÄ w przypadku likwidacji lub upadÅoÅci pracodawcy",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_4b"
+      },
+      {
+        "text": "RozdziaÅ 5 - Przepisy karne",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_5"
+      },
+      {
+        "text": "RozdziaÅ 6 - Zmiany w przepisach obowiÄ zujÄ cych",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_6"
+      },
+      {
+        "text": "RozdziaÅ 7 - Przepisy przejÅciowe i koÅcowe",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#chpt_7"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1461",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1461/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 553",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/553/text.html"
+      },
+      {
+        "text": "Dz. U. poz. 730",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html"
+      },
+      {
+        "text": "Dz. U. poz. 2020",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html"
+      },
+      {
+        "text": "Dz. U. poz. 730",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html"
+      },
+      {
+        "text": "Dz. U. poz. 2020",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 700",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/700/text.html"
+      },
+      {
+        "text": "730",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html"
+      },
+      {
+        "text": "848",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/848/text.html"
+      },
+      {
+        "text": "1590",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1590/text.html"
+      },
+      {
+        "text": "2294",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/2294/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1591",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1591/text.html"
+      },
+      {
+        "text": "1)Dodany przez art. 11 pkt 1 ustawy z dnia 21 lutego 2019 r. o zmianie niektÃ³rych ustaw w zwiÄ zku z zapewnieniem stosowania rozporzÄ dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osÃ³b fizycznych w zwiÄ zku z przetwarzaniem danych osobowych i w sprawie swobodnego przepÅywu takich danych oraz uchylenia dyrektywy 95/46/WE (ogÃ³lne rozporzÄ dzenie o ochronie danych) (Dz. U. poz. 730), ktÃ³ra weszÅa w Å¼ycie z dniem 4 maja 2019 r.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:1:"
+      },
+      {
+        "text": "Dz. U. z 2018 r. poz. 2096",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2096/text.html"
+      },
+      {
+        "text": "z 2019 r. poz. 60",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/60/text.html"
+      },
+      {
+        "text": "730",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html"
+      },
+      {
+        "text": "1133",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1133/text.html"
+      },
+      {
+        "text": "2)W brzmieniu ustalonym przez art. 11 pkt 2 lit. a tiret pierwsze ustawy, o ktÃ³rej mowa w odnoÅniku 1.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:2:"
+      },
+      {
+        "text": "3)Dodany przez art. 11 pkt 2 lit. a tiret drugie ustawy, o ktÃ³rej mowa w odnoÅniku 1.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:3:"
+      },
+      {
+        "text": "4)Ze zmianÄ wprowadzonÄ przez art. 11 pkt 2 lit. b ustawy, o ktÃ³rej mowa w odnoÅniku 1.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:4:"
+      },
+      {
+        "text": "5)W brzmieniu ustalonym przez art. 11 pkt 3 ustawy, o ktÃ³rej mowa w odnoÅniku 1.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:5:"
+      },
+      {
+        "text": "6)Dodany przez art. 11 pkt 4 ustawy, o ktÃ³rej mowa w odnoÅniku 1.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:6:"
+      },
+      {
+        "text": "Dz. Urz. UE L 119 z 04.05.2016, str. 1",
+        "url": "https://api.sejm.gov.pl/eli/acts//text.html"
+      },
+      {
+        "text": "7)Zmiana wymienionego rozporzÄ dzenia zostaÅa ogÅoszona w Dz. Urz. UE L 127 z 23.05.2018, str. 2.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:7:"
+      },
+      {
+        "text": "6)Dodany przez art. 11 pkt 4 ustawy, o ktÃ³rej mowa w odnoÅniku 1.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:6:"
+      },
+      {
+        "text": "6)Dodany przez art. 11 pkt 4 ustawy, o ktÃ³rej mowa w odnoÅniku 1.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:6:"
+      },
+      {
+        "text": "8)W tym brzmieniu obowiÄ zuje do wejÅcia w Å¼ycie zmiany, o ktÃ³rej mowa w odnoÅniku 9.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:8:"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1843",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1843/text.html"
+      },
+      {
+        "text": "9)W brzmieniu ustalonym przez art. 5 ustawy z dnia 11 wrzeÅnia 2019 r. - Przepisy wprowadzajÄ ce ustawÄ - Prawo zamÃ³wieÅ publicznych (Dz. U. poz. 2020), ktÃ³ra wejdzie w Å¼ycie z dniem 1 stycznia 2021 r.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:9:"
+      },
+      {
+        "text": "Dz. U. poz. 2019",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/2019/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1010",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1010/text.html"
+      },
+      {
+        "text": "1649",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1649/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1882",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1882/text.html"
+      },
+      {
+        "text": "Dz. U. z 2018 r. poz. 1559",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1559/text.html"
+      },
+      {
+        "text": "z 2019 r. poz. 730",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html"
+      },
+      {
+        "text": "2020",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html"
+      },
+      {
+        "text": "Dz. U. z 2018 r. poz. 1915",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1915/text.html"
+      },
+      {
+        "text": "z 2019 r. poz. 1043",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1043/text.html"
+      },
+      {
+        "text": "1820",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1820/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1350",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1350/text.html"
+      },
+      {
+        "text": "2227",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/2227/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 688",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/688/text.html"
+      },
+      {
+        "text": "1570",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1570/text.html"
+      },
+      {
+        "text": "2020",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/2020/text.html"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1292",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1292/text.html"
+      },
+      {
+        "text": "1495",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1495/text.html"
+      },
+      {
+        "text": "Dz. U. z 2018 r. poz. 1285",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1285/text.html"
+      },
+      {
+        "text": "z 2019 r. poz. 730",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/730/text.html"
+      },
+      {
+        "text": "1080",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1080/text.html"
+      },
+      {
+        "text": "1100",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1100/text.html"
+      },
+      {
+        "text": "10)W tym brzmieniu obowiÄ zuje do wejÅcia w Å¼ycie zmiany, o ktÃ³rej mowa w odnoÅniku 11.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:10:"
+      },
+      {
+        "text": "11)Wejdzie w Å¼ycie z dniem 1 grudnia 2020 r. na podstawie art. 55 pkt 5 ustawy z dnia 26 stycznia 2018 r. o zmianie ustawy o Krajowym Rejestrze SÄ dowym oraz niektÃ³rych innych ustaw (Dz. U. poz. 398 i 650 oraz z 2019 r. poz. 55, 1214 i 2355).",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:11:"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 900",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/900/text.html"
+      },
+      {
+        "text": "12)Zmiany tekstu jednolitego wymienionej ustawy zostaÅy ogÅoszone w Dz. U. z 2019 r. poz. 924, 1018, 1495, 1520, 1553, 1556, 1649, 1655, 1667, 1751, 1818, 1978, 2020 i 2200.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:12:"
+      },
+      {
+        "text": "Dz. U. z 2019 r. poz. 1438",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1438/text.html"
+      },
+      {
+        "text": "13)Zmiany tekstu jednolitego wymienionej ustawy zostaÅy ogÅoszone w Dz. U. z 2019 r. poz. 1495, 1501, 1553, 1579, 1655, 1798, 1901 i 2070.",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/164/text.html#gloss-0:13:"
+      },
+      {
+        "text": "Dz. U. poz. 149",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/1951/149/text.html"
+      },
+      {
+        "text": "z 1975 r. poz. 91",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/1975/91/text.html"
+      },
+      {
+        "text": "Dz. U. poz. 149",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/1951/149/text.html"
+      },
+      {
+        "text": "z 1975 r. poz. 91",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/1975/91/text.html"
+      }
+    ]
+  }
+]

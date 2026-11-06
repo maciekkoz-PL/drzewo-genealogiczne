@@ -1,0 +1,44 @@
+[
+  {
+    "page": 1,
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812?_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_resetCur=false&_Zespol_delta=200",
+    "utc": "2026-11-06T05:55:28.729177+00:00",
+    "status": 200,
+    "rows": 200
+  },
+  {
+    "page": 2,
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812?_Zespol_delta=200&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_resetCur=false&_Zespol_cur=2",
+    "utc": "2026-11-06T05:55:31.881929+00:00",
+    "status": 200,
+    "rows": 200
+  },
+  {
+    "page": 3,
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812?_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_delta=200&_Zespol_resetCur=false&_Zespol_cur=3",
+    "utc": "2026-11-06T05:55:34.931268+00:00",
+    "status": 200,
+    "rows": 200
+  },
+  {
+    "page": 4,
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812?_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_delta=200&_Zespol_resetCur=false&_Zespol_cur=4",
+    "utc": "2026-11-06T05:55:37.882715+00:00",
+    "status": 200,
+    "rows": 200
+  },
+  {
+    "page": 5,
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812?_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_delta=200&_Zespol_resetCur=false&_Zespol_cur=5",
+    "utc": "2026-11-06T05:55:40.646223+00:00",
+    "status": 200,
+    "rows": 200
+  },
+  {
+    "page": 6,
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/165812?_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_delta=200&_Zespol_resetCur=false&_Zespol_cur=6",
+    "utc": "2026-11-06T05:55:43.652048+00:00",
+    "status": 200,
+    "rows": 76
+  }
+]

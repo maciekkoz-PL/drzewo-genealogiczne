@@ -1,0 +1,12 @@
+[
+  {
+    "key": "press/62408_pdf",
+    "url": "https://bc.wbp.lodz.pl/Content/62408/Dziennik_Lodzki_1970_nr25a.pdf",
+    "utc": "2026-11-06T05:59:03.158808+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/Content/62408/Dziennik_Lodzki_1970_nr25a.pdf",
+    "size": 2997446,
+    "sha256": "f35f85403bdf34bb1add2728049b2e89e147ba44b31a0ab8b3e80889e9b2d916",
+    "path": "work/s06/press/62408_pdf.pdf"
+  }
+]

@@ -131,3 +131,14 @@ Etap05: [zakres, strony i ograniczenia](badania/2026-11-05-sesja-05-prasa/STATUS
 
 
 Uzupełnienie S112: Obiekty WBP113129 (Głos Robotniczy24.05.1957 nr123, sygn.76-G KZ) i101638 (Express Ilustrowany09–10.11.1957, sygn.80-G KZ) mają w zapisanym HTML jawny komunikat: dostęp do wersji cyfrowej jest możliwy z sieci lokalnej Wojewódzkiej Biblioteki Publicznej w Łodzi. Kolekcja Dostępne na miejscu. To ustalona przyczyna braku linkuPDF, nie przypadkowy błąd parsera ani potwierdzone złe przekierowanie. Treści nie odczytano. Dalszy legalny odczyt na miejscu lub innej kopii; nie obchodzić ograniczenia ani nie kontaktować biblioteki bez osobnej zgody.
+
+
+Etap06: [pełny odczyt zakresów i ograniczeń](badania/2026-11-06-sesja-06-ksiegi-1943/STATUS.md).
+
+- S115: USCŁódź — pełny katalog1076 jednostek i konkretne księgi1943 — 990:01–27.04;991:27.04–21.05.1943.0skanów, warunkowo.997 tylkoH2. Brak numeru aktu Bogusława.
+- S116: APŁ — aktualne kopie cyfrowe03.11.2026 i odtworzone linki — Dodatkowe255,338,591,702,709,747 to akta zbiorowe zgonów, nie urodzenia.0odczytanych aktów osób z tych jednostek.
+- S117: Wojenne kościoły dla Polaków i katalogi kopii chrztów — Nie udowodniono chrztu ani parafii Bogusława. Nie zlokalizowano jego księgi1943; AALprzerwa techniczna.
+- S118: Czesław i Janina Chmielewscy — grób Śrem — Czesław20.11.1944 i Janina16.04.1946 urodzeni po Bogusławie; C39/C40wykluczeni jako rodzice.
+- S119: Czesław i Janina z Witnicy — biografia — Czesław17.04.1924Łuck nie jest26-letnim mężem1936. Nie ustalono nazwiska rodowego Janiny ani związku tej rodziny z P02.
+- S120: WBP —8nowych zapytań i DziennikŁódzki30.01.1970 — WojciechChmielewski i BogusławNiedzielski to dwie osoby; fałszywy wynik frazy. Trzy szerokie listy tylko pierwsza strona, nie pełna kwerenda.
+- S121: Art.16b — podstawa warunkowego udostępniania wskazana w SwA — 100lat, wyjątek dla uprawnionych. Nie gwarantuje dostępu konkretnej osobie. Szkic niewysłany, brak wniosku lub opłat.

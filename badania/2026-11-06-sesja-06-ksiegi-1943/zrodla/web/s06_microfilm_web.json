@@ -1,0 +1,19 @@
+{
+  "params": {
+    "open": [
+      {
+        "ref_id": "https://archidiecezja.lodz.pl/archiwum/pliki/2008_t5_prace_i_materialy_historyczne.pdf"
+      }
+    ],
+    "response_length": "long"
+  },
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Przerwa techniczna | Archidiecezja Łódzka (https://archidiecezja.lodz.pl/archiwum/pliki/2008_t5_prace_i_materialy_historyczne.pdf)\n【turn946034view0】 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"https://archidiecezja.lodz.pl/archiwum/pliki/2008_t5_prace_i_materialy_historyczne.pdf\",\"lineno\":null}); Total lines: 11\nL0: 【0†Image: Archidiecezja Łódzka†archidiecezja.fra1.cdn.digitaloceanspaces.com】\nL1: \nL2: Komunikat techniczny\nL3: \nL4: # Tymczasowa niedostępność serwisu\nL5: \nL6: Informujemy, że dostęp do serwisu jest czasowo wstrzymany w związku z pilnymi pracami mającymi na celu zapewnienie bezpieczeństwa infrastruktury informatycznej.\nL7: \nL8: Podejmujemy niezbędne działania, aby przywrócić prawidłowe funkcjonowanie serwisu w możliwie najkrótszym czasie. Przepraszamy za utrudnienia i dziękujemy za wyrozumiałość.\nL9: \nL10: Archidiecezja Łódzka\n"
+      }
+    ],
+    "isError": false
+  }
+}

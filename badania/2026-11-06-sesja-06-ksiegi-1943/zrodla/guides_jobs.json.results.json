@@ -1,0 +1,1890 @@
+[
+  {
+    "key": "guides/rodzinne",
+    "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne",
+    "utc": "2026-11-06T05:49:56.701938+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne",
+    "size": 61985,
+    "sha256": "cdf81896d60c0f3b2bfd72df63bb2ab2ea63a05e6713e38260a71b1a1cea8e10",
+    "path": "work/s06/guides/rodzinne.html",
+    "links": [
+      {
+        "text": "pomiń skip linki",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne#header"
+      },
+      {
+        "text": "Przejdź do treści ALT + 1",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne#tresc"
+      },
+      {
+        "text": "Przejdź do menu głównego ALT + 2",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne#nav"
+      },
+      {
+        "text": "Przejdź do wyszukiwania ALT + 3",
+        "url": "https://www.lodz.ap.gov.pl/szukaj"
+      },
+      {
+        "text": "Przejdź do mapy Strony ALT + 4",
+        "url": "https://www.lodz.ap.gov.pl/mapa-witryny"
+      },
+      {
+        "text": "Przejdź do Deklaracji Dostępności ALT + 5",
+        "url": "https://www.lodz.ap.gov.pl/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "BIP Archiwum Państwowe w Łodzi",
+        "url": "https://aplodz.bip.gov.pl/"
+      },
+      {
+        "text": "PJM",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "",
+        "url": "https://archiwa.gov.pl/"
+      },
+      {
+        "text": "wyszukaj na stronie",
+        "url": "https://www.lodz.ap.gov.pl/main/szukaj"
+      },
+      {
+        "text": "O Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/index"
+      },
+      {
+        "text": "Nasz zespół",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/nasz-zespol"
+      },
+      {
+        "text": "Archiwum Państwowe w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/archiwum-panstwowe-w-lodzi"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-lodz"
+      },
+      {
+        "text": "Poznaj Archiwum w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-lodzi"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-sieradz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-lodz"
+      },
+      {
+        "text": "Oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/oddzial-w-sieradzu"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-sieradz"
+      },
+      {
+        "text": "Poznaj Archiwum w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-sieradzu"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-lodz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-sieradz"
+      },
+      {
+        "text": "Programy i projekty wspomagające",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/programy-i-projekty-wspomagajace"
+      },
+      {
+        "text": "Termomodernizacja",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/termomodernizacja"
+      },
+      {
+        "text": "Koncepcja architektoniczna",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/koncepcja-architektoniczna"
+      },
+      {
+        "text": "Praca w Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/praca-w-archiwum"
+      },
+      {
+        "text": "Dla mediów",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/dla-mediow"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "Co robimy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/index"
+      },
+      {
+        "text": "Zasób archiwum",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/zasob-archiwum"
+      },
+      {
+        "text": "Drukowane informacje o zasobie",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/drukowane-informacje-o-zasobie"
+      },
+      {
+        "text": "Udostępnianie zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/udostepnianie-zasobu"
+      },
+      {
+        "text": "Czytelnia",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/czytelnia"
+      },
+      {
+        "text": "Kopie cyfrowe i mikrofilmy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy"
+      },
+      {
+        "text": "Materiały wyłączone czasowo z udostępniania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/materialy-wylaczone-z-udostepnienia"
+      },
+      {
+        "text": "Biblioteka",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/biblioteka"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Warunki publikacji lub prezentacji",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/warunki-publikacji-lub-prezentacji"
+      },
+      {
+        "text": "Jak korzystać z zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/jak-korzystac-z-zasobu"
+      },
+      {
+        "text": "Informacje o archiwaliach",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/informacje-o-archiwaliach"
+      },
+      {
+        "text": "Druki do pobrania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/druki-do-pobrania"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/projekty"
+      },
+      {
+        "text": "Archiwa Rodzinne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne"
+      },
+      {
+        "text": "QR",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/qr"
+      },
+      {
+        "text": "Bitewnik Łódzki 1914",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/bitewnik-lodzki-1914"
+      },
+      {
+        "text": "Kultura+",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kultura"
+      },
+      {
+        "text": "Digitalizacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/digitalizacja"
+      },
+      {
+        "text": "Wieloletni Program Rządowy „Kwaśny Papier”",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wieloletni-program-rzadowy-kwasny-papier"
+      },
+      {
+        "text": "Straty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/straty"
+      },
+      {
+        "text": "Archiwa Rodzinne Niepodległej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne-niepodleglej"
+      },
+      {
+        "text": "1918",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/1918"
+      },
+      {
+        "text": "Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/darczyncy"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edukacja"
+      },
+      {
+        "text": "Oferta dla szkół",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-szkol"
+      },
+      {
+        "text": "Oferta dla dorosłych",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-doroslych"
+      },
+      {
+        "text": "Konkurs genealogiczny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/konkurs-genealogiczny"
+      },
+      {
+        "text": "Edycja 2026",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edycja-2026"
+      },
+      {
+        "text": "Poprzednie edycje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/poprzednie-edycje"
+      },
+      {
+        "text": "Olimpiada Historyczna Juniorów – skorzystaj z naszych materiałów",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/olimpiada-historyczna-juniorow-skorzystaj-z-naszych-materialow"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wystawy"
+      },
+      {
+        "text": "Publikacje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/publikacje"
+      },
+      {
+        "text": "Nadzór archiwalny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny"
+      },
+      {
+        "text": "Obowiązki jednostek organizacyjnych wynikające z ustawy archiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/obowiazki-jednostek-organizacyjnych-wynikajace-z-ustawy-archiwalnej"
+      },
+      {
+        "text": "Przepisy kancelaryjno-archiwalne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przepisy-kancelaryjno-archiwalne"
+      },
+      {
+        "text": "Przekazywanie materiałów archiwalnych do Archiwum Państwowego",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przekazywanie-materialow-archiwalnych-do-archiwum-panstwowego"
+      },
+      {
+        "text": "Brakowanie dokumentacji niearchiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/brakowanie-dokumentacji-niearchiwalnej"
+      },
+      {
+        "text": "Przykładowe wzory załączników (formularzy)",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/formularze-i-wzory"
+      },
+      {
+        "text": "Wyjaśnienie niektórych pojęć",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wyjasnienie-niektorych-pojec"
+      },
+      {
+        "text": "Przechowalnictwo",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przechowalnictwo"
+      },
+      {
+        "text": "Nadzór archiwalny - oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny-oddzial-w-sieradzu"
+      },
+      {
+        "text": "Załatw sprawę",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/index"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Szukaj w archiwach",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-w-archiwach"
+      },
+      {
+        "text": "Szukaj przodków",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-przodkow"
+      },
+      {
+        "text": "Szukaj dokumentacji pracowniczej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-dokumentacji-pracowniczej"
+      },
+      {
+        "text": "Bazy danych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/bazy-danych"
+      },
+      {
+        "text": "Akta w Internecie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie"
+      },
+      {
+        "text": "Gdzie jeszcze szukać",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gdzie-jeszcze-szukac"
+      },
+      {
+        "text": "Przekaż",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/przekaz"
+      },
+      {
+        "text": "Archiwum Dokumentów Elektronicznych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwum-dokumentow-elektronicznych"
+      },
+      {
+        "text": "Osoby indywidualne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/osoby-indywidualne"
+      },
+      {
+        "text": "Jednostki publiczne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-publiczne"
+      },
+      {
+        "text": "Jednostki niepaństwowe",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-niepanstwowe"
+      },
+      {
+        "text": "Nasi Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/nasi-darczyncy"
+      },
+      {
+        "text": "Zamów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zamow"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Zlecenie poszukiwań",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zlecenie-poszukiwan"
+      },
+      {
+        "text": "Formularz rewersu",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/erewers"
+      },
+      {
+        "text": "Publikacje do nabycia",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/kup-publikacje"
+      },
+      {
+        "text": "Usługi reprograficzne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/uslugi-reprograficzne"
+      },
+      {
+        "text": "Cennik i opłaty",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/oplaty"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/index"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/adresy-i-telefony"
+      },
+      {
+        "text": "Godziny pracy",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/godziny-pracy"
+      },
+      {
+        "text": "Tekst łatwy do czytania",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/tekst-latwy-do-czytania"
+      },
+      {
+        "text": "Informacja dla osób uprawnionych",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "Sygnaliści",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/sygnalisci"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.lodz.ap.gov.pl"
+      },
+      {
+        "text": "Co robimy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/index"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/projekty"
+      },
+      {
+        "text": "Akta stanu cywilnego z zasobu Archiwum Państwowego w Łodzi zamieszczone w Internecie",
+        "url": "https://metryki.genealodzy.pl/"
+      },
+      {
+        "text": "Na tropie historii własnej rodziny – poradnik „młodego” genealoga Część 1",
+        "url": "https://www.lodz.ap.gov.pl/pliki/Poradnik-mlodego-genealoga-cz1,20.pdf?view=1"
+      },
+      {
+        "text": "Na tropie historii własnej rodziny – poradnik „młodego” genealoga Część 2",
+        "url": "https://www.lodz.ap.gov.pl/pliki/Poradnik-mlodego-genealoga-cz2,19.pdf?view=1"
+      },
+      {
+        "text": "Ewidencja ludności przechowywana w Archiwum Państwowym w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/pliki/ewidencja-ludnosci,18.pdf?view=1"
+      },
+      {
+        "text": "kontakt z nami",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/index"
+      },
+      {
+        "text": "42 636 85 35",
+        "url": "tel:426326201"
+      },
+      {
+        "text": "Zasób archiwum",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/zasob-archiwum"
+      },
+      {
+        "text": "Udostępnianie zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/udostepnianie-zasobu"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/projekty"
+      },
+      {
+        "text": "Archiwa Rodzinne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne"
+      },
+      {
+        "text": "QR",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/qr"
+      },
+      {
+        "text": "Bitewnik Łódzki 1914",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/bitewnik-lodzki-1914"
+      },
+      {
+        "text": "Kultura+",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kultura"
+      },
+      {
+        "text": "Digitalizacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/digitalizacja"
+      },
+      {
+        "text": "Wieloletni Program Rządowy „Kwaśny Papier”",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wieloletni-program-rzadowy-kwasny-papier"
+      },
+      {
+        "text": "Straty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/straty"
+      },
+      {
+        "text": "Archiwa Rodzinne Niepodległej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne-niepodleglej"
+      },
+      {
+        "text": "1918",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/1918"
+      },
+      {
+        "text": "Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/darczyncy"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edukacja"
+      },
+      {
+        "text": "Konkurs genealogiczny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/konkurs-genealogiczny"
+      },
+      {
+        "text": "Olimpiada Historyczna Juniorów – skorzystaj z naszych materiałów",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/olimpiada-historyczna-juniorow-skorzystaj-z-naszych-materialow"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wystawy"
+      },
+      {
+        "text": "Publikacje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/publikacje"
+      },
+      {
+        "text": "Nadzór archiwalny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny"
+      },
+      {
+        "text": "42 632 62 01",
+        "url": "tel:426326201"
+      },
+      {
+        "text": "42 632 62 09",
+        "url": "tel:426326209"
+      },
+      {
+        "text": "43 827 16 42",
+        "url": "tel:438271642"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/aplodz/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/apl_lodz/"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCiDS4mq2PuEhwuTL3MYMpLg"
+      },
+      {
+        "text": "Deklaracja Dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "Mapa Strony",
+        "url": "https://www.lodz.ap.gov.pl/main/mapa-witryny"
+      },
+      {
+        "text": "Polityka Prywatności",
+        "url": "https://www.lodz.ap.gov.pl/main/polityka-prywatnosci"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne#top"
+      }
+    ]
+  },
+  {
+    "key": "guides/ewidencja",
+    "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast",
+    "utc": "2026-11-06T05:49:56.703004+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast",
+    "size": 66885,
+    "sha256": "0343a1d354042519e7397a926cb4a40e048977f057209a60c47f4b96c54389bc",
+    "path": "work/s06/guides/ewidencja.html",
+    "links": [
+      {
+        "text": "pomiń skip linki",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast#header"
+      },
+      {
+        "text": "Przejdź do treści ALT + 1",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast#tresc"
+      },
+      {
+        "text": "Przejdź do menu głównego ALT + 2",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast#nav"
+      },
+      {
+        "text": "Przejdź do wyszukiwania ALT + 3",
+        "url": "https://www.lodz.ap.gov.pl/szukaj"
+      },
+      {
+        "text": "Przejdź do mapy Strony ALT + 4",
+        "url": "https://www.lodz.ap.gov.pl/mapa-witryny"
+      },
+      {
+        "text": "Przejdź do Deklaracji Dostępności ALT + 5",
+        "url": "https://www.lodz.ap.gov.pl/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "BIP Archiwum Państwowe w Łodzi",
+        "url": "https://aplodz.bip.gov.pl/"
+      },
+      {
+        "text": "PJM",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "",
+        "url": "https://archiwa.gov.pl/"
+      },
+      {
+        "text": "wyszukaj na stronie",
+        "url": "https://www.lodz.ap.gov.pl/main/szukaj"
+      },
+      {
+        "text": "O Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/index"
+      },
+      {
+        "text": "Nasz zespół",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/nasz-zespol"
+      },
+      {
+        "text": "Archiwum Państwowe w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/archiwum-panstwowe-w-lodzi"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-lodz"
+      },
+      {
+        "text": "Poznaj Archiwum w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-lodzi"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-sieradz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-lodz"
+      },
+      {
+        "text": "Oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/oddzial-w-sieradzu"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-sieradz"
+      },
+      {
+        "text": "Poznaj Archiwum w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-sieradzu"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-lodz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-sieradz"
+      },
+      {
+        "text": "Programy i projekty wspomagające",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/programy-i-projekty-wspomagajace"
+      },
+      {
+        "text": "Termomodernizacja",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/termomodernizacja"
+      },
+      {
+        "text": "Koncepcja architektoniczna",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/koncepcja-architektoniczna"
+      },
+      {
+        "text": "Praca w Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/praca-w-archiwum"
+      },
+      {
+        "text": "Dla mediów",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/dla-mediow"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "Co robimy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/index"
+      },
+      {
+        "text": "Zasób archiwum",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/zasob-archiwum"
+      },
+      {
+        "text": "Drukowane informacje o zasobie",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/drukowane-informacje-o-zasobie"
+      },
+      {
+        "text": "Udostępnianie zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/udostepnianie-zasobu"
+      },
+      {
+        "text": "Czytelnia",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/czytelnia"
+      },
+      {
+        "text": "Kopie cyfrowe i mikrofilmy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy"
+      },
+      {
+        "text": "Materiały wyłączone czasowo z udostępniania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/materialy-wylaczone-z-udostepnienia"
+      },
+      {
+        "text": "Biblioteka",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/biblioteka"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Warunki publikacji lub prezentacji",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/warunki-publikacji-lub-prezentacji"
+      },
+      {
+        "text": "Jak korzystać z zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/jak-korzystac-z-zasobu"
+      },
+      {
+        "text": "Informacje o archiwaliach",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/informacje-o-archiwaliach"
+      },
+      {
+        "text": "Druki do pobrania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/druki-do-pobrania"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/projekty"
+      },
+      {
+        "text": "Archiwa Rodzinne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne"
+      },
+      {
+        "text": "QR",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/qr"
+      },
+      {
+        "text": "Bitewnik Łódzki 1914",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/bitewnik-lodzki-1914"
+      },
+      {
+        "text": "Kultura+",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kultura"
+      },
+      {
+        "text": "Digitalizacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/digitalizacja"
+      },
+      {
+        "text": "Wieloletni Program Rządowy „Kwaśny Papier”",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wieloletni-program-rzadowy-kwasny-papier"
+      },
+      {
+        "text": "Straty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/straty"
+      },
+      {
+        "text": "Archiwa Rodzinne Niepodległej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne-niepodleglej"
+      },
+      {
+        "text": "1918",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/1918"
+      },
+      {
+        "text": "Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/darczyncy"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edukacja"
+      },
+      {
+        "text": "Oferta dla szkół",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-szkol"
+      },
+      {
+        "text": "Oferta dla dorosłych",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-doroslych"
+      },
+      {
+        "text": "Konkurs genealogiczny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/konkurs-genealogiczny"
+      },
+      {
+        "text": "Edycja 2026",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edycja-2026"
+      },
+      {
+        "text": "Poprzednie edycje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/poprzednie-edycje"
+      },
+      {
+        "text": "Olimpiada Historyczna Juniorów – skorzystaj z naszych materiałów",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/olimpiada-historyczna-juniorow-skorzystaj-z-naszych-materialow"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wystawy"
+      },
+      {
+        "text": "Publikacje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/publikacje"
+      },
+      {
+        "text": "Nadzór archiwalny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny"
+      },
+      {
+        "text": "Obowiązki jednostek organizacyjnych wynikające z ustawy archiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/obowiazki-jednostek-organizacyjnych-wynikajace-z-ustawy-archiwalnej"
+      },
+      {
+        "text": "Przepisy kancelaryjno-archiwalne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przepisy-kancelaryjno-archiwalne"
+      },
+      {
+        "text": "Przekazywanie materiałów archiwalnych do Archiwum Państwowego",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przekazywanie-materialow-archiwalnych-do-archiwum-panstwowego"
+      },
+      {
+        "text": "Brakowanie dokumentacji niearchiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/brakowanie-dokumentacji-niearchiwalnej"
+      },
+      {
+        "text": "Przykładowe wzory załączników (formularzy)",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/formularze-i-wzory"
+      },
+      {
+        "text": "Wyjaśnienie niektórych pojęć",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wyjasnienie-niektorych-pojec"
+      },
+      {
+        "text": "Przechowalnictwo",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przechowalnictwo"
+      },
+      {
+        "text": "Nadzór archiwalny - oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny-oddzial-w-sieradzu"
+      },
+      {
+        "text": "Załatw sprawę",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/index"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Szukaj w archiwach",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-w-archiwach"
+      },
+      {
+        "text": "Szukaj przodków",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-przodkow"
+      },
+      {
+        "text": "Szukaj dokumentacji pracowniczej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-dokumentacji-pracowniczej"
+      },
+      {
+        "text": "Bazy danych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/bazy-danych"
+      },
+      {
+        "text": "Akta w Internecie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie"
+      },
+      {
+        "text": "Gdzie jeszcze szukać",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gdzie-jeszcze-szukac"
+      },
+      {
+        "text": "Przekaż",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/przekaz"
+      },
+      {
+        "text": "Archiwum Dokumentów Elektronicznych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwum-dokumentow-elektronicznych"
+      },
+      {
+        "text": "Osoby indywidualne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/osoby-indywidualne"
+      },
+      {
+        "text": "Jednostki publiczne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-publiczne"
+      },
+      {
+        "text": "Jednostki niepaństwowe",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-niepanstwowe"
+      },
+      {
+        "text": "Nasi Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/nasi-darczyncy"
+      },
+      {
+        "text": "Zamów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zamow"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Zlecenie poszukiwań",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zlecenie-poszukiwan"
+      },
+      {
+        "text": "Formularz rewersu",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/erewers"
+      },
+      {
+        "text": "Publikacje do nabycia",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/kup-publikacje"
+      },
+      {
+        "text": "Usługi reprograficzne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/uslugi-reprograficzne"
+      },
+      {
+        "text": "Cennik i opłaty",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/oplaty"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/index"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/adresy-i-telefony"
+      },
+      {
+        "text": "Godziny pracy",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/godziny-pracy"
+      },
+      {
+        "text": "Tekst łatwy do czytania",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/tekst-latwy-do-czytania"
+      },
+      {
+        "text": "Informacja dla osób uprawnionych",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "Sygnaliści",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/sygnalisci"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.lodz.ap.gov.pl"
+      },
+      {
+        "text": "Załatw sprawę",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/index"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Akta w Internecie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie"
+      },
+      {
+        "text": "księgi ludności stałej Łodzi z lat 1828-1902",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_delta=20&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&_Seria_id_serii=308575&_Seria_cur=61"
+      },
+      {
+        "text": "aneksami",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_delta=20&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&_Seria_id_serii=308575&_Seria_cur=63"
+      },
+      {
+        "text": "księgi ludności niestałej",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_javax.portlet.action=zmienWidok&_Seria_nameofjsp=jednostki&_Seria_id_serii=308575&_Seria_delta=20&_Seria_resetCur=false&_Seria_cur=119"
+      },
+      {
+        "text": "skorowidzami",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_delta=20&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&_Seria_id_serii=308575&_Seria_cur=63"
+      },
+      {
+        "text": "spis ludności Łodzi z lat 1916-1921",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_nameofjsp=jednostki&_Seria_id_serii=308541"
+      },
+      {
+        "text": "księgi kontroli ruchu ludności Łodzi z lat 1931-1939",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_delta=20&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&_Seria_id_serii=308541&_Seria_cur=45"
+      },
+      {
+        "text": "Aleksandrowa Łódzkiego",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_delta=20&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&_Seria_id_serii=453609&_Seria_cur=3"
+      },
+      {
+        "text": "Konstantynowa",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=74778"
+      },
+      {
+        "text": "Rudy Pabianickiej",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=72203"
+      },
+      {
+        "text": "Babice",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=74656"
+      },
+      {
+        "text": "Brójce",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=74658"
+      },
+      {
+        "text": "Brużyca Wielka",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=74659"
+      },
+      {
+        "text": "Chojny",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_nameofjsp=jednostki&_Seria_id_serii=547297&_Seria_resetCur=false&_Seria_delta=200"
+      },
+      {
+        "text": "Czarnocin",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=74660"
+      },
+      {
+        "text": "Gospodarz",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51987"
+      },
+      {
+        "text": "Górka Pabianicka",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=0&_Zespol_id_zespolu=74497&_Zespol_nameofjsp=jednostki&_Zespol_sygnatura=&_Zespol_tytul=ludno%C5%9Bci&_Zespol_data_od=&_Zespol_data_do="
+      },
+      {
+        "text": "Górki",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51988"
+      },
+      {
+        "text": "Kruszów",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51989"
+      },
+      {
+        "text": "Lućmierz",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51990"
+      },
+      {
+        "text": "Łagiewniki",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_nameofjsp=jednostki&_Seria_id_serii=550504"
+      },
+      {
+        "text": "Nowosolna",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51992"
+      },
+      {
+        "text": "Puczniew",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51994"
+      },
+      {
+        "text": "Radogoszcz",
+        "url": "https://www.szukajwarchiwach.gov.pl/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_nameofjsp=jednostki&_Seria_id_serii=550514&_Seria_resetCur=false&_Seria_delta=200"
+      },
+      {
+        "text": "Rąbień",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=74667"
+      },
+      {
+        "text": "Tążowy",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51995"
+      },
+      {
+        "text": "Tuszynek Duchowny",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/51996"
+      },
+      {
+        "text": "Widzew",
+        "url": "https://www.szukajwarchiwach.gov.pl/zespol?p_p_id=Zespol&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&_Zespol_id_zespolu=74668"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Szukaj w archiwach",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-w-archiwach"
+      },
+      {
+        "text": "Szukaj przodków",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-przodkow"
+      },
+      {
+        "text": "Szukaj dokumentacji pracowniczej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-dokumentacji-pracowniczej"
+      },
+      {
+        "text": "Bazy danych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/bazy-danych"
+      },
+      {
+        "text": "Akta w Internecie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie"
+      },
+      {
+        "text": "Akta Stanu Cywilnego",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-stanu-cywilnego"
+      },
+      {
+        "text": "Ewidencja ludności miast",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast"
+      },
+      {
+        "text": "Gmina Żydowska i Getto Łódzkie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gmina-zydowska-i-getto-lodzkie"
+      },
+      {
+        "text": "Projekty Budowlane Guberni Piotrkowskiej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/projekty-budowlane-guberni-piotrkowskiej"
+      },
+      {
+        "text": "Mapy historyczne Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/mapy-historyczne-lodzi"
+      },
+      {
+        "text": "I Wojna Światowa i Odzyskanie Niepodległości",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/i-wojna-swiatowa-i-odzyskanie-niepodleglosci"
+      },
+      {
+        "text": "Partie Polityczne 1945-1948",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/partie-polityczne-1945-1948"
+      },
+      {
+        "text": "Archiwum rodziny Bartoszewiczów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwum-rodziny-bartoszewiczow"
+      },
+      {
+        "text": "Archiwa fotograficzne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwa-fotograficzne"
+      },
+      {
+        "text": "Indeksy do podań i dowody osobiste m. Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/indeksy-do-podan-i-dowody-osobiste"
+      },
+      {
+        "text": "Indeksy do podania dowody osobiste m. Głowna, m. Zduńskiej Woli",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/indeksy-do-podania-dowody-osobiste-m-glowna-m-zdunskiej-woli"
+      },
+      {
+        "text": "Gdzie jeszcze szukać",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gdzie-jeszcze-szukac"
+      },
+      {
+        "text": "Przekaż",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/przekaz"
+      },
+      {
+        "text": "Zamów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zamow"
+      },
+      {
+        "text": "Cennik i opłaty",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/oplaty"
+      },
+      {
+        "text": "42 632 62 01",
+        "url": "tel:426326201"
+      },
+      {
+        "text": "42 632 62 09",
+        "url": "tel:426326209"
+      },
+      {
+        "text": "43 827 16 42",
+        "url": "tel:438271642"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/aplodz/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/apl_lodz/"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCiDS4mq2PuEhwuTL3MYMpLg"
+      },
+      {
+        "text": "Deklaracja Dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "Mapa Strony",
+        "url": "https://www.lodz.ap.gov.pl/main/mapa-witryny"
+      },
+      {
+        "text": "Polityka Prywatności",
+        "url": "https://www.lodz.ap.gov.pl/main/polityka-prywatnosci"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast#top"
+      }
+    ]
+  },
+  {
+    "key": "guides/akta_internet",
+    "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie",
+    "utc": "2026-11-06T05:49:56.705099+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie",
+    "size": 59989,
+    "sha256": "ce0a8b64aac7c9bd07bf6dfd722e841aff9df8fda6b947f85aec73efac83e8a4",
+    "path": "work/s06/guides/akta_internet.html",
+    "links": [
+      {
+        "text": "pomiń skip linki",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie#header"
+      },
+      {
+        "text": "Przejdź do treści ALT + 1",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie#tresc"
+      },
+      {
+        "text": "Przejdź do menu głównego ALT + 2",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie#nav"
+      },
+      {
+        "text": "Przejdź do wyszukiwania ALT + 3",
+        "url": "https://www.lodz.ap.gov.pl/szukaj"
+      },
+      {
+        "text": "Przejdź do mapy Strony ALT + 4",
+        "url": "https://www.lodz.ap.gov.pl/mapa-witryny"
+      },
+      {
+        "text": "Przejdź do Deklaracji Dostępności ALT + 5",
+        "url": "https://www.lodz.ap.gov.pl/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "BIP Archiwum Państwowe w Łodzi",
+        "url": "https://aplodz.bip.gov.pl/"
+      },
+      {
+        "text": "PJM",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "",
+        "url": "https://archiwa.gov.pl/"
+      },
+      {
+        "text": "wyszukaj na stronie",
+        "url": "https://www.lodz.ap.gov.pl/main/szukaj"
+      },
+      {
+        "text": "O Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/index"
+      },
+      {
+        "text": "Nasz zespół",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/nasz-zespol"
+      },
+      {
+        "text": "Archiwum Państwowe w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/archiwum-panstwowe-w-lodzi"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-lodz"
+      },
+      {
+        "text": "Poznaj Archiwum w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-lodzi"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-sieradz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-lodz"
+      },
+      {
+        "text": "Oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/oddzial-w-sieradzu"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-sieradz"
+      },
+      {
+        "text": "Poznaj Archiwum w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-sieradzu"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-lodz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-sieradz"
+      },
+      {
+        "text": "Programy i projekty wspomagające",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/programy-i-projekty-wspomagajace"
+      },
+      {
+        "text": "Termomodernizacja",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/termomodernizacja"
+      },
+      {
+        "text": "Koncepcja architektoniczna",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/koncepcja-architektoniczna"
+      },
+      {
+        "text": "Praca w Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/praca-w-archiwum"
+      },
+      {
+        "text": "Dla mediów",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/dla-mediow"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "Co robimy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/index"
+      },
+      {
+        "text": "Zasób archiwum",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/zasob-archiwum"
+      },
+      {
+        "text": "Drukowane informacje o zasobie",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/drukowane-informacje-o-zasobie"
+      },
+      {
+        "text": "Udostępnianie zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/udostepnianie-zasobu"
+      },
+      {
+        "text": "Czytelnia",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/czytelnia"
+      },
+      {
+        "text": "Kopie cyfrowe i mikrofilmy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy"
+      },
+      {
+        "text": "Materiały wyłączone czasowo z udostępniania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/materialy-wylaczone-z-udostepnienia"
+      },
+      {
+        "text": "Biblioteka",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/biblioteka"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Warunki publikacji lub prezentacji",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/warunki-publikacji-lub-prezentacji"
+      },
+      {
+        "text": "Jak korzystać z zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/jak-korzystac-z-zasobu"
+      },
+      {
+        "text": "Informacje o archiwaliach",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/informacje-o-archiwaliach"
+      },
+      {
+        "text": "Druki do pobrania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/druki-do-pobrania"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/projekty"
+      },
+      {
+        "text": "Archiwa Rodzinne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne"
+      },
+      {
+        "text": "QR",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/qr"
+      },
+      {
+        "text": "Bitewnik Łódzki 1914",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/bitewnik-lodzki-1914"
+      },
+      {
+        "text": "Kultura+",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kultura"
+      },
+      {
+        "text": "Digitalizacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/digitalizacja"
+      },
+      {
+        "text": "Wieloletni Program Rządowy „Kwaśny Papier”",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wieloletni-program-rzadowy-kwasny-papier"
+      },
+      {
+        "text": "Straty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/straty"
+      },
+      {
+        "text": "Archiwa Rodzinne Niepodległej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne-niepodleglej"
+      },
+      {
+        "text": "1918",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/1918"
+      },
+      {
+        "text": "Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/darczyncy"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edukacja"
+      },
+      {
+        "text": "Oferta dla szkół",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-szkol"
+      },
+      {
+        "text": "Oferta dla dorosłych",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-doroslych"
+      },
+      {
+        "text": "Konkurs genealogiczny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/konkurs-genealogiczny"
+      },
+      {
+        "text": "Edycja 2026",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edycja-2026"
+      },
+      {
+        "text": "Poprzednie edycje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/poprzednie-edycje"
+      },
+      {
+        "text": "Olimpiada Historyczna Juniorów – skorzystaj z naszych materiałów",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/olimpiada-historyczna-juniorow-skorzystaj-z-naszych-materialow"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wystawy"
+      },
+      {
+        "text": "Publikacje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/publikacje"
+      },
+      {
+        "text": "Nadzór archiwalny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny"
+      },
+      {
+        "text": "Obowiązki jednostek organizacyjnych wynikające z ustawy archiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/obowiazki-jednostek-organizacyjnych-wynikajace-z-ustawy-archiwalnej"
+      },
+      {
+        "text": "Przepisy kancelaryjno-archiwalne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przepisy-kancelaryjno-archiwalne"
+      },
+      {
+        "text": "Przekazywanie materiałów archiwalnych do Archiwum Państwowego",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przekazywanie-materialow-archiwalnych-do-archiwum-panstwowego"
+      },
+      {
+        "text": "Brakowanie dokumentacji niearchiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/brakowanie-dokumentacji-niearchiwalnej"
+      },
+      {
+        "text": "Przykładowe wzory załączników (formularzy)",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/formularze-i-wzory"
+      },
+      {
+        "text": "Wyjaśnienie niektórych pojęć",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wyjasnienie-niektorych-pojec"
+      },
+      {
+        "text": "Przechowalnictwo",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przechowalnictwo"
+      },
+      {
+        "text": "Nadzór archiwalny - oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny-oddzial-w-sieradzu"
+      },
+      {
+        "text": "Załatw sprawę",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/index"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Szukaj w archiwach",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-w-archiwach"
+      },
+      {
+        "text": "Szukaj przodków",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-przodkow"
+      },
+      {
+        "text": "Szukaj dokumentacji pracowniczej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-dokumentacji-pracowniczej"
+      },
+      {
+        "text": "Bazy danych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/bazy-danych"
+      },
+      {
+        "text": "Akta w Internecie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie"
+      },
+      {
+        "text": "Gdzie jeszcze szukać",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gdzie-jeszcze-szukac"
+      },
+      {
+        "text": "Przekaż",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/przekaz"
+      },
+      {
+        "text": "Archiwum Dokumentów Elektronicznych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwum-dokumentow-elektronicznych"
+      },
+      {
+        "text": "Osoby indywidualne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/osoby-indywidualne"
+      },
+      {
+        "text": "Jednostki publiczne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-publiczne"
+      },
+      {
+        "text": "Jednostki niepaństwowe",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-niepanstwowe"
+      },
+      {
+        "text": "Nasi Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/nasi-darczyncy"
+      },
+      {
+        "text": "Zamów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zamow"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Zlecenie poszukiwań",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zlecenie-poszukiwan"
+      },
+      {
+        "text": "Formularz rewersu",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/erewers"
+      },
+      {
+        "text": "Publikacje do nabycia",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/kup-publikacje"
+      },
+      {
+        "text": "Usługi reprograficzne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/uslugi-reprograficzne"
+      },
+      {
+        "text": "Cennik i opłaty",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/oplaty"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/index"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/adresy-i-telefony"
+      },
+      {
+        "text": "Godziny pracy",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/godziny-pracy"
+      },
+      {
+        "text": "Tekst łatwy do czytania",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/tekst-latwy-do-czytania"
+      },
+      {
+        "text": "Informacja dla osób uprawnionych",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "Sygnaliści",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/sygnalisci"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.lodz.ap.gov.pl"
+      },
+      {
+        "text": "Załatw sprawę",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/index"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Akta Stanu Cywilnego",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-stanu-cywilnego"
+      },
+      {
+        "text": "Ewidencja ludności miast",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast"
+      },
+      {
+        "text": "Gmina Żydowska i Getto Łódzkie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gmina-zydowska-i-getto-lodzkie"
+      },
+      {
+        "text": "Projekty Budowlane Guberni Piotrkowskiej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/projekty-budowlane-guberni-piotrkowskiej"
+      },
+      {
+        "text": "Mapy historyczne Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/mapy-historyczne-lodzi"
+      },
+      {
+        "text": "I Wojna Światowa i Odzyskanie Niepodległości",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/i-wojna-swiatowa-i-odzyskanie-niepodleglosci"
+      },
+      {
+        "text": "Partie Polityczne 1945-1948",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/partie-polityczne-1945-1948"
+      },
+      {
+        "text": "Archiwum rodziny Bartoszewiczów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwum-rodziny-bartoszewiczow"
+      },
+      {
+        "text": "Archiwa fotograficzne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwa-fotograficzne"
+      },
+      {
+        "text": "Indeksy do podań i dowody osobiste m. Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/indeksy-do-podan-i-dowody-osobiste"
+      },
+      {
+        "text": "Indeksy do podania dowody osobiste m. Głowna, m. Zduńskiej Woli",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/indeksy-do-podania-dowody-osobiste-m-glowna-m-zdunskiej-woli"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Szukaj w archiwach",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-w-archiwach"
+      },
+      {
+        "text": "Szukaj przodków",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-przodkow"
+      },
+      {
+        "text": "Szukaj dokumentacji pracowniczej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-dokumentacji-pracowniczej"
+      },
+      {
+        "text": "Bazy danych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/bazy-danych"
+      },
+      {
+        "text": "Akta w Internecie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie"
+      },
+      {
+        "text": "Akta Stanu Cywilnego",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-stanu-cywilnego"
+      },
+      {
+        "text": "Ewidencja ludności miast",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/ewidencja-ludnosci-miast"
+      },
+      {
+        "text": "Gmina Żydowska i Getto Łódzkie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gmina-zydowska-i-getto-lodzkie"
+      },
+      {
+        "text": "Projekty Budowlane Guberni Piotrkowskiej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/projekty-budowlane-guberni-piotrkowskiej"
+      },
+      {
+        "text": "Mapy historyczne Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/mapy-historyczne-lodzi"
+      },
+      {
+        "text": "I Wojna Światowa i Odzyskanie Niepodległości",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/i-wojna-swiatowa-i-odzyskanie-niepodleglosci"
+      },
+      {
+        "text": "Partie Polityczne 1945-1948",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/partie-polityczne-1945-1948"
+      },
+      {
+        "text": "Archiwum rodziny Bartoszewiczów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwum-rodziny-bartoszewiczow"
+      },
+      {
+        "text": "Archiwa fotograficzne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwa-fotograficzne"
+      },
+      {
+        "text": "Indeksy do podań i dowody osobiste m. Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/indeksy-do-podan-i-dowody-osobiste"
+      },
+      {
+        "text": "Indeksy do podania dowody osobiste m. Głowna, m. Zduńskiej Woli",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/indeksy-do-podania-dowody-osobiste-m-glowna-m-zdunskiej-woli"
+      },
+      {
+        "text": "Gdzie jeszcze szukać",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gdzie-jeszcze-szukac"
+      },
+      {
+        "text": "Przekaż",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/przekaz"
+      },
+      {
+        "text": "Zamów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zamow"
+      },
+      {
+        "text": "Cennik i opłaty",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/oplaty"
+      },
+      {
+        "text": "42 632 62 01",
+        "url": "tel:426326201"
+      },
+      {
+        "text": "42 632 62 09",
+        "url": "tel:426326209"
+      },
+      {
+        "text": "43 827 16 42",
+        "url": "tel:438271642"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/aplodz/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/apl_lodz/"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCiDS4mq2PuEhwuTL3MYMpLg"
+      },
+      {
+        "text": "Deklaracja Dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "Mapa Strony",
+        "url": "https://www.lodz.ap.gov.pl/main/mapa-witryny"
+      },
+      {
+        "text": "Polityka Prywatności",
+        "url": "https://www.lodz.ap.gov.pl/main/polityka-prywatnosci"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie#top"
+      }
+    ]
+  },
+  {
+    "key": "guides/old_cyfrowe",
+    "url": "https://old.lodz.ap.gov.pl/pict_/cyfrowe.pdf",
+    "utc": "2026-11-06T05:49:58.428135+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "poczekalnia_root",
+    "url": "https://poczekalnia.genealodzy.pl/pliki/",
+    "utc": "2026-11-06T05:49:58.483516+00:00",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

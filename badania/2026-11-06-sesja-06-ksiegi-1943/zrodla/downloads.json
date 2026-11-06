@@ -1,0 +1,23 @@
+[
+  {
+    "key": "usc_units",
+    "url": "https://www.szukajwarchiwach.gov.pl/zespol?_Zespol_id_zespolu=165812&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&p_p_id=Zespol&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal",
+    "utc": "2026-11-06T05:47:01.107503+00:00",
+    "status": 200,
+    "final_url": "https://www.szukajwarchiwach.gov.pl/zespol?_Zespol_id_zespolu=165812&_Zespol_javax.portlet.action=zmienWidok&_Zespol_nameofjsp=jednostki&p_p_id=Zespol&p_p_lifecycle=1&p_p_mode=view&p_p_state=normal",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "key": "ap_lodz",
+    "url": "https://www.lodz.ap.gov.pl/zasob/zasob-on-line",
+    "utc": "2026-11-06T05:47:01.108555+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "lodz_grobonet",
+    "url": "https://lodz.grobonet.com/grobonet/start.php",
+    "utc": "2026-11-06T05:47:01.109122+00:00",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

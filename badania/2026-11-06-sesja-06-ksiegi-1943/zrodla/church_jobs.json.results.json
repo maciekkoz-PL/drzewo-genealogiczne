@@ -1,0 +1,2788 @@
+[
+  {
+    "key": "guides/kopie_mikrofilmy",
+    "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy",
+    "utc": "2026-11-06T05:51:06.341470+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy",
+    "size": 66495,
+    "sha256": "243fafbe798ef342b7b60bf5984486ece21aa32cbbb8e7a26dfd911dd04924c2",
+    "path": "work/s06/guides/kopie_mikrofilmy.html",
+    "links": [
+      {
+        "text": "pomiń skip linki",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy#header"
+      },
+      {
+        "text": "Przejdź do treści ALT + 1",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy#tresc"
+      },
+      {
+        "text": "Przejdź do menu głównego ALT + 2",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy#nav"
+      },
+      {
+        "text": "Przejdź do wyszukiwania ALT + 3",
+        "url": "https://www.lodz.ap.gov.pl/szukaj"
+      },
+      {
+        "text": "Przejdź do mapy Strony ALT + 4",
+        "url": "https://www.lodz.ap.gov.pl/mapa-witryny"
+      },
+      {
+        "text": "Przejdź do Deklaracji Dostępności ALT + 5",
+        "url": "https://www.lodz.ap.gov.pl/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "BIP Archiwum Państwowe w Łodzi",
+        "url": "https://aplodz.bip.gov.pl/"
+      },
+      {
+        "text": "PJM",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "",
+        "url": "https://archiwa.gov.pl/"
+      },
+      {
+        "text": "wyszukaj na stronie",
+        "url": "https://www.lodz.ap.gov.pl/main/szukaj"
+      },
+      {
+        "text": "O Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/index"
+      },
+      {
+        "text": "Nasz zespół",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/nasz-zespol"
+      },
+      {
+        "text": "Archiwum Państwowe w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/archiwum-panstwowe-w-lodzi"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-lodz"
+      },
+      {
+        "text": "Poznaj Archiwum w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-lodzi"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-sieradz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-lodz"
+      },
+      {
+        "text": "Oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/oddzial-w-sieradzu"
+      },
+      {
+        "text": "Komunikaty",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/komunikaty-sieradz"
+      },
+      {
+        "text": "Poznaj Archiwum w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/poznaj-archiwum-w-sieradzu"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/adresy-i-telefony-oddzial-lodz"
+      },
+      {
+        "text": "Zasięg działania",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/zasieg-dzialania-sieradz"
+      },
+      {
+        "text": "Programy i projekty wspomagające",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/programy-i-projekty-wspomagajace"
+      },
+      {
+        "text": "Termomodernizacja",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/termomodernizacja"
+      },
+      {
+        "text": "Koncepcja architektoniczna",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/koncepcja-architektoniczna"
+      },
+      {
+        "text": "Praca w Archiwum",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/praca-w-archiwum"
+      },
+      {
+        "text": "Dla mediów",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/dla-mediow"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "Co robimy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/index"
+      },
+      {
+        "text": "Zasób archiwum",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/zasob-archiwum"
+      },
+      {
+        "text": "Drukowane informacje o zasobie",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/drukowane-informacje-o-zasobie"
+      },
+      {
+        "text": "Udostępnianie zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/udostepnianie-zasobu"
+      },
+      {
+        "text": "Czytelnia",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/czytelnia"
+      },
+      {
+        "text": "Kopie cyfrowe i mikrofilmy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy"
+      },
+      {
+        "text": "Materiały wyłączone czasowo z udostępniania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/materialy-wylaczone-z-udostepnienia"
+      },
+      {
+        "text": "Biblioteka",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/biblioteka"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Warunki publikacji lub prezentacji",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/warunki-publikacji-lub-prezentacji"
+      },
+      {
+        "text": "Jak korzystać z zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/jak-korzystac-z-zasobu"
+      },
+      {
+        "text": "Informacje o archiwaliach",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/informacje-o-archiwaliach"
+      },
+      {
+        "text": "Druki do pobrania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/druki-do-pobrania"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/projekty"
+      },
+      {
+        "text": "Archiwa Rodzinne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne"
+      },
+      {
+        "text": "QR",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/qr"
+      },
+      {
+        "text": "Bitewnik Łódzki 1914",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/bitewnik-lodzki-1914"
+      },
+      {
+        "text": "Kultura+",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kultura"
+      },
+      {
+        "text": "Digitalizacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/digitalizacja"
+      },
+      {
+        "text": "Wieloletni Program Rządowy „Kwaśny Papier”",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wieloletni-program-rzadowy-kwasny-papier"
+      },
+      {
+        "text": "Straty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/straty"
+      },
+      {
+        "text": "Archiwa Rodzinne Niepodległej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/archiwa-rodzinne-niepodleglej"
+      },
+      {
+        "text": "1918",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/1918"
+      },
+      {
+        "text": "Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/darczyncy"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edukacja"
+      },
+      {
+        "text": "Oferta dla szkół",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-szkol"
+      },
+      {
+        "text": "Oferta dla dorosłych",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/oferta-dla-doroslych"
+      },
+      {
+        "text": "Konkurs genealogiczny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/konkurs-genealogiczny"
+      },
+      {
+        "text": "Edycja 2026",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edycja-2026"
+      },
+      {
+        "text": "Poprzednie edycje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/poprzednie-edycje"
+      },
+      {
+        "text": "Olimpiada Historyczna Juniorów – skorzystaj z naszych materiałów",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/olimpiada-historyczna-juniorow-skorzystaj-z-naszych-materialow"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wystawy"
+      },
+      {
+        "text": "Publikacje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/publikacje"
+      },
+      {
+        "text": "Nadzór archiwalny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny"
+      },
+      {
+        "text": "Obowiązki jednostek organizacyjnych wynikające z ustawy archiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/obowiazki-jednostek-organizacyjnych-wynikajace-z-ustawy-archiwalnej"
+      },
+      {
+        "text": "Przepisy kancelaryjno-archiwalne",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przepisy-kancelaryjno-archiwalne"
+      },
+      {
+        "text": "Przekazywanie materiałów archiwalnych do Archiwum Państwowego",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przekazywanie-materialow-archiwalnych-do-archiwum-panstwowego"
+      },
+      {
+        "text": "Brakowanie dokumentacji niearchiwalnej",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/brakowanie-dokumentacji-niearchiwalnej"
+      },
+      {
+        "text": "Przykładowe wzory załączników (formularzy)",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/formularze-i-wzory"
+      },
+      {
+        "text": "Wyjaśnienie niektórych pojęć",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wyjasnienie-niektorych-pojec"
+      },
+      {
+        "text": "Przechowalnictwo",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/przechowalnictwo"
+      },
+      {
+        "text": "Nadzór archiwalny - oddział w Sieradzu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny-oddzial-w-sieradzu"
+      },
+      {
+        "text": "Załatw sprawę",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/index"
+      },
+      {
+        "text": "Szukaj",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj"
+      },
+      {
+        "text": "Szukaj w archiwach",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-w-archiwach"
+      },
+      {
+        "text": "Szukaj przodków",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-przodkow"
+      },
+      {
+        "text": "Szukaj dokumentacji pracowniczej",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/szukaj-dokumentacji-pracowniczej"
+      },
+      {
+        "text": "Bazy danych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/bazy-danych"
+      },
+      {
+        "text": "Akta w Internecie",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/akta-w-internecie"
+      },
+      {
+        "text": "Gdzie jeszcze szukać",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/gdzie-jeszcze-szukac"
+      },
+      {
+        "text": "Przekaż",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/przekaz"
+      },
+      {
+        "text": "Archiwum Dokumentów Elektronicznych",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/archiwum-dokumentow-elektronicznych"
+      },
+      {
+        "text": "Osoby indywidualne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/osoby-indywidualne"
+      },
+      {
+        "text": "Jednostki publiczne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-publiczne"
+      },
+      {
+        "text": "Jednostki niepaństwowe",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/jednostki-niepanstwowe"
+      },
+      {
+        "text": "Nasi Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/nasi-darczyncy"
+      },
+      {
+        "text": "Zamów",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zamow"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Zlecenie poszukiwań",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/zlecenie-poszukiwan"
+      },
+      {
+        "text": "Formularz rewersu",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/erewers"
+      },
+      {
+        "text": "Publikacje do nabycia",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/kup-publikacje"
+      },
+      {
+        "text": "Usługi reprograficzne",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/uslugi-reprograficzne"
+      },
+      {
+        "text": "Cennik i opłaty",
+        "url": "https://www.lodz.ap.gov.pl/zalatw-sprawe/oplaty"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/index"
+      },
+      {
+        "text": "Adresy i telefony",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/adresy-i-telefony"
+      },
+      {
+        "text": "Godziny pracy",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/godziny-pracy"
+      },
+      {
+        "text": "Tekst łatwy do czytania",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/tekst-latwy-do-czytania"
+      },
+      {
+        "text": "Informacja dla osób uprawnionych",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/informacja-dla-osob-uprawnionych"
+      },
+      {
+        "text": "Sygnaliści",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/sygnalisci"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://www.lodz.ap.gov.pl"
+      },
+      {
+        "text": "Co robimy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/index"
+      },
+      {
+        "text": "Udostępnianie zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/udostepnianie-zasobu"
+      },
+      {
+        "text": "czytelniach",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/czytelnia"
+      },
+      {
+        "text": "Kopie cyfrowe materiałów archiwalnych z zasobu Archiwum Państwowego w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/pliki/Cyfrowe-3-11-2026,40.pdf?view=1"
+      },
+      {
+        "text": "Kopie cyfrowe mikrofilmów z zasobu Archiwum Archidiecezjalnego w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/pliki/cyfroweaal,39.pdf?view=1"
+      },
+      {
+        "text": "Kopie cyfrowe czasopism ze zbiorów bibliotecznych Archiwum Państwowego w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/pliki/cyfrowecz-18,38.pdf?view=1"
+      },
+      {
+        "text": "czytelni",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/czytelnia"
+      },
+      {
+        "text": "Mikrofilmy akt metrykalnych i stanu cywilnego z zasobu Archiwum Państwowego w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/pliki/mflasc,47.pdf?view=1"
+      },
+      {
+        "text": "Mikrofilmy pozostałych akt z zasobu Archiwum Państwowego w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/pliki/mflinne,46.pdf?view=1"
+      },
+      {
+        "text": "Mikrofilmy akt z zasobu Archiwum Głównego Akt Dawnych w Warszawie",
+        "url": "https://www.lodz.ap.gov.pl/pliki/mflagad,45.pdf?view=1"
+      },
+      {
+        "text": "Mikrofilmy akt z zasobu Archiwum Archidiecezjalnego w Łodzi - księgi metrykalne parafii",
+        "url": "https://www.lodz.ap.gov.pl/pliki/mflaal,44.pdf?view=1"
+      },
+      {
+        "text": "Mikrofilmy akt Cechu Kupców w Piotrkowie z zasobu Archiwum Państwowego w Piotrkowie Trybunalskim",
+        "url": "https://www.lodz.ap.gov.pl/pliki/tabela-mikrofilmow,43.pdf?view=1"
+      },
+      {
+        "text": "Mikrofilmy akt z innych archiwów państwowych",
+        "url": "https://www.lodz.ap.gov.pl/pliki/mflap,42.pdf?view=1"
+      },
+      {
+        "text": "Mikrofilmy czasopism ze zbiorów bibliotecznych Archiwum Państwowego w Łodzi",
+        "url": "https://www.lodz.ap.gov.pl/pliki/mflcz,41.pdf?view=1"
+      },
+      {
+        "text": "Zasób archiwum",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/zasob-archiwum"
+      },
+      {
+        "text": "Udostępnianie zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/udostepnianie-zasobu"
+      },
+      {
+        "text": "Czytelnia",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/czytelnia"
+      },
+      {
+        "text": "Kopie cyfrowe i mikrofilmy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy"
+      },
+      {
+        "text": "Materiały wyłączone czasowo z udostępniania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/materialy-wylaczone-z-udostepnienia"
+      },
+      {
+        "text": "Biblioteka",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/biblioteka"
+      },
+      {
+        "text": "Dokumentacja pracownicza",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/dokumentacja-pracownicza"
+      },
+      {
+        "text": "Warunki publikacji lub prezentacji",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/warunki-publikacji-lub-prezentacji"
+      },
+      {
+        "text": "Jak korzystać z zasobu",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/jak-korzystac-z-zasobu"
+      },
+      {
+        "text": "Informacje o archiwaliach",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/informacje-o-archiwaliach"
+      },
+      {
+        "text": "Druki do pobrania",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/druki-do-pobrania"
+      },
+      {
+        "text": "Projekty",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/projekty"
+      },
+      {
+        "text": "Darczyńcy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/darczyncy"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/edukacja"
+      },
+      {
+        "text": "Konkurs genealogiczny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/konkurs-genealogiczny"
+      },
+      {
+        "text": "Olimpiada Historyczna Juniorów – skorzystaj z naszych materiałów",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/olimpiada-historyczna-juniorow-skorzystaj-z-naszych-materialow"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/wystawy"
+      },
+      {
+        "text": "Publikacje",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/publikacje"
+      },
+      {
+        "text": "Nadzór archiwalny",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/nadzor-archiwalny"
+      },
+      {
+        "text": "42 632 62 01",
+        "url": "tel:426326201"
+      },
+      {
+        "text": "42 632 62 09",
+        "url": "tel:426326209"
+      },
+      {
+        "text": "43 827 16 42",
+        "url": "tel:438271642"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/aplodz/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/apl_lodz/"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCiDS4mq2PuEhwuTL3MYMpLg"
+      },
+      {
+        "text": "Deklaracja Dostępności",
+        "url": "https://www.lodz.ap.gov.pl/kontakt/deklaracja-dostepnosci"
+      },
+      {
+        "text": "Mapa Strony",
+        "url": "https://www.lodz.ap.gov.pl/main/mapa-witryny"
+      },
+      {
+        "text": "Polityka Prywatności",
+        "url": "https://www.lodz.ap.gov.pl/main/polityka-prywatnosci"
+      },
+      {
+        "text": "Standardy Ochrony Małoletnich",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-ochrony-maloletnich"
+      },
+      {
+        "text": "Standardy Obsługi Klienta",
+        "url": "https://www.lodz.ap.gov.pl/o-archiwum/standardy-obslugi-klienta"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "IntraCOM.pl",
+        "url": "https://www.intracom.pl"
+      },
+      {
+        "text": "",
+        "url": "https://www.lodz.ap.gov.pl/co-robimy/kopie-cyfrowe-i-mikrofilmy#top"
+      }
+    ]
+  },
+  {
+    "key": "guides/ewidencja_pdf",
+    "url": "https://www.lodz.ap.gov.pl/pliki/ewidencja-ludnosci,18.pdf?view=1",
+    "utc": "2026-11-06T05:51:06.342524+00:00",
+    "status": 200,
+    "final_url": "https://www.lodz.ap.gov.pl/pliki/ewidencja-ludnosci,18.pdf?view=1",
+    "size": 131329,
+    "sha256": "a51cc276cedd603c33a254563998797e835d74c07b8d05ad2a1b116c59c25f4f",
+    "path": "work/s06/guides/ewidencja_pdf.pdf"
+  },
+  {
+    "key": "church/mikrofilm2008",
+    "url": "https://archidiecezja.lodz.pl/archiwum/pliki/2008_t5_prace_i_materialy_historyczne.pdf",
+    "utc": "2026-11-06T05:51:06.344826+00:00",
+    "status": 200,
+    "final_url": "https://archidiecezja.lodz.pl/archiwum/pliki/2008_t5_prace_i_materialy_historyczne.pdf",
+    "size": 3161,
+    "sha256": "5468609936c254b2bdf94f8bbab4d284528d0e388a6733bfc82a2cc1ca2095c0",
+    "path": "work/s06/church/mikrofilm2008.html",
+    "links": []
+  },
+  {
+    "key": "church/ipn_wojna",
+    "url": "https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html",
+    "utc": "2026-11-06T05:51:07.794756+00:00",
+    "status": 200,
+    "final_url": "https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html",
+    "size": 88411,
+    "sha256": "9f9d484abceb53d4dc4a4b6edf1cd7f60e06d4dfafcfd2dd292f205521c91df6",
+    "path": "work/s06/church/ipn_wojna.html",
+    "links": [
+      {
+        "text": "Przystanek Historia",
+        "url": "https://przystanekhistoria.pl/pa2/"
+      },
+      {
+        "text": "TEKSTY",
+        "url": "https://przystanekhistoria.pl/pa2/teksty"
+      },
+      {
+        "text": "TEMATY",
+        "url": "https://przystanekhistoria.pl/pa2/tematy"
+      },
+      {
+        "text": "Biblioteka cyfrowa",
+        "url": "https://przystanekhistoria.pl/pa2/biblioteka-cyfrowa"
+      },
+      {
+        "text": "Audio/Video",
+        "url": "https://przystanekhistoria.pl/pa2/audiovideo"
+      },
+      {
+        "text": "English content",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/english-content"
+      },
+      {
+        "text": "Księgarnia",
+        "url": "https://ipn.poczytaj.pl/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://przystanekhistoria.pl/pa2/aktualnosci"
+      },
+      {
+        "text": "Autorzy",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy"
+      },
+      {
+        "text": "O nas",
+        "url": "https://przystanekhistoria.pl/pa2/wolnytekst/21715,O-nas.html"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://przystanekhistoria.pl/pa2/wolnytekst/21718,Kontakt.html"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://edukacja.ipn.gov.pl/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://przystanekhistoria.pl/pa2/aktualnosci"
+      },
+      {
+        "text": "Autorzy",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy"
+      },
+      {
+        "text": "O nas",
+        "url": "https://przystanekhistoria.pl/pa2/wolnytekst/21715,O-nas.html"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://przystanekhistoria.pl/pa2/wolnytekst/21718,Kontakt.html"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://edukacja.ipn.gov.pl/"
+      },
+      {
+        "text": "Przystanek Historia",
+        "url": "https://przystanekhistoria.pl/pa2/"
+      },
+      {
+        "text": "TEKSTY",
+        "url": "https://przystanekhistoria.pl/pa2/teksty"
+      },
+      {
+        "text": "Przystanek historia",
+        "url": "https://przystanekhistoria.pl"
+      },
+      {
+        "text": "https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html",
+        "url": "https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.facebook.com/sharer/sharer.php?u=https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html"
+      },
+      {
+        "text": "Podziel się",
+        "url": "https://x.com/intent/tweet?hashtags=IPN,Przystanekhistoria&original_referer=https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html&ref_src=twsrc%5Etfw&text=Losy łódzkiego Kościoła katolickiego podczas II wojny światowej&url=https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html"
+      },
+      {
+        "text": "(1939-1945) II wojna światowa",
+        "url": "https://przystanekhistoria.pl/pa2/polska-xx-wieku/#1939-1945-II-wojna-światowa"
+      },
+      {
+        "text": "Ewelina Ślązak",
+        "url": "https://przystanekhistoria.pl/pa2/tags/2808,Ewelina-Slazak.html"
+      },
+      {
+        "text": "Kościół",
+        "url": "https://przystanekhistoria.pl/pa2/tags/502,Kosciol.html"
+      },
+      {
+        "text": "Okupacja niemiecka",
+        "url": "https://przystanekhistoria.pl/pa2/tags/436,Okupacja-niemiecka.html"
+      },
+      {
+        "text": "",
+        "url": "https://przystanekhistoria.pl/dokumenty/zalaczniki/166/166-130493.jpg"
+      },
+      {
+        "text": "",
+        "url": "https://przystanekhistoria.pl/dokumenty/zalaczniki/166/166-130496.jpg"
+      },
+      {
+        "text": "Generuj PDF",
+        "url": "https://przystanekhistoria.pl/pa2/teksty/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.pdf"
+      },
+      {
+        "text": "Dodaj komentarz",
+        "url": "https://przystanekhistoria.pl/pa2/comment/74606,Losy-lodzkiego-Kosciola-katolickiego-podczas-II-wojny-swiatowej.html"
+      },
+      {
+        "text": "Cofnij się",
+        "url": "javascript:history.go(-1)"
+      },
+      {
+        "text": "Diana Maksimiuk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/29314,Diana-Maksimiuk.html"
+      },
+      {
+        "text": "Łukasz Sołtysik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/31189,Lukasz-Soltysik.html"
+      },
+      {
+        "text": "Adam Chmielecki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/43123,Adam-Chmielecki.html"
+      },
+      {
+        "text": "Marcin Przegiętka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32149,Marcin-Przegietka.html"
+      },
+      {
+        "text": "Magdalena Semczyszyn",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32248,Magdalena-Semczyszyn.html"
+      },
+      {
+        "text": "Tomasz Kurpierz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32251,Tomasz-Kurpierz.html"
+      },
+      {
+        "text": "Leszek Próchniak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32254,Leszek-Prochniak.html"
+      },
+      {
+        "text": "Adam Dziuba",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32257,Adam-Dziuba.html"
+      },
+      {
+        "text": "Aleksandra Namysło",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32260,Aleksandra-Namyslo.html"
+      },
+      {
+        "text": "Marcin Urynowicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32263,Marcin-Urynowicz.html"
+      },
+      {
+        "text": "Aleksandra Pietrowicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32266,Aleksandra-Pietrowicz.html"
+      },
+      {
+        "text": "Angelika Blinda",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32269,Angelika-Blinda.html"
+      },
+      {
+        "text": "Bartosz Kapuściak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32272,Bartosz-Kapusciak.html"
+      },
+      {
+        "text": "Adam Dziurok",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32275,Adam-Dziurok.html"
+      },
+      {
+        "text": "Dariusz Dąbrowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32278,Dariusz-Dabrowski.html"
+      },
+      {
+        "text": "Elżbieta Wojcieszyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32287,Elzbieta-Wojcieszyk.html"
+      },
+      {
+        "text": "Grzegorz Bębnik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32290,Grzegorz-Bebnik.html"
+      },
+      {
+        "text": "Grzegorz Waligóra",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32293,Grzegorz-Waligora.html"
+      },
+      {
+        "text": "Jarosław Neja",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32299,Jaroslaw-Neja.html"
+      },
+      {
+        "text": "Joanna Żelazko",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32302,Joanna-Zelazko.html"
+      },
+      {
+        "text": "Konrad Białecki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32305,Konrad-Bialecki.html"
+      },
+      {
+        "text": "Krzysztof Kupeć",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32308,Krzysztof-Kupec.html"
+      },
+      {
+        "text": "Mirosław Sikora",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32311,Miroslaw-Sikora.html"
+      },
+      {
+        "text": "Piotr Kilańczyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32314,Piotr-Kilanczyk.html"
+      },
+      {
+        "text": "Przemysław Zwiernik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/32317,Przemyslaw-Zwiernik.html"
+      },
+      {
+        "text": "Rafał Sierchuła",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33022,Rafal-Sierchula.html"
+      },
+      {
+        "text": "Sebastian Pilarski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33025,Sebastian-Pilarski.html"
+      },
+      {
+        "text": "Kamil Dworaczek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33028,Kamil-Dworaczek.html"
+      },
+      {
+        "text": "Waldemar Grabowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33031,Waldemar-Grabowski.html"
+      },
+      {
+        "text": "Agnieszka Klarman",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33034,Agnieszka-Klarman.html"
+      },
+      {
+        "text": "Grzegorz Majchrzak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33037,Grzegorz-Majchrzak.html"
+      },
+      {
+        "text": "Szymon Pietrzykowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33046,Szymon-Pietrzykowski.html"
+      },
+      {
+        "text": "Michał Przeperski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33052,Michal-Przeperski.html"
+      },
+      {
+        "text": "Michał Siedziako",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33055,Michal-Siedziako.html"
+      },
+      {
+        "text": "Zbigniew Stanuch",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33058,Zbigniew-Stanuch.html"
+      },
+      {
+        "text": "Jarosław Syrnyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33061,Jaroslaw-Syrnyk.html"
+      },
+      {
+        "text": "Paweł Szulc",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33064,Pawel-Szulc.html"
+      },
+      {
+        "text": "Mirosław Szumiło",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33067,Miroslaw-Szumilo.html"
+      },
+      {
+        "text": "Jan Szumski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33070,Jan-Szumski.html"
+      },
+      {
+        "text": "Sylwia Szyc",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33073,Sylwia-Szyc.html"
+      },
+      {
+        "text": "Paweł Wąs",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33076,Pawel-Was.html"
+      },
+      {
+        "text": "Dariusz Węgrzyn",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33079,Dariusz-Wegrzyn.html"
+      },
+      {
+        "text": "Wojciech Wichert",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/33082,Wojciech-Wichert.html"
+      },
+      {
+        "text": "Piotr Wiejak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/41464,Piotr-Wiejak.html"
+      },
+      {
+        "text": "Piotr Szubarczyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/41473,Piotr-Szubarczyk.html"
+      },
+      {
+        "text": "Tomasz Łabuszewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/41503,Tomasz-Labuszewski.html"
+      },
+      {
+        "text": "Marek Gałęzowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/43789,Marek-Galezowski.html"
+      },
+      {
+        "text": "Kazimierz Krajewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47635,Kazimierz-Krajewski.html"
+      },
+      {
+        "text": "Patryk Pleskot",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47638,Patryk-Pleskot.html"
+      },
+      {
+        "text": "Magdalena Dzienis-Todorczuk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47641,Magdalena-Dzienis-Todorczuk.html"
+      },
+      {
+        "text": "Filip Gańczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47644,Filip-Ganczak.html"
+      },
+      {
+        "text": "Sławomir Kalbarczyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47647,Slawomir-Kalbarczyk.html"
+      },
+      {
+        "text": "Maciej Korkuć",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47650,Maciej-Korkuc.html"
+      },
+      {
+        "text": "Maciej Foks",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47653,Maciej-Foks.html"
+      },
+      {
+        "text": "Marek Hańderek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47656,Marek-Handerek.html"
+      },
+      {
+        "text": "Włodzimierz Suleja",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47659,Wlodzimierz-Suleja.html"
+      },
+      {
+        "text": "Arkadiusz Kutkowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47662,Arkadiusz-Kutkowski.html"
+      },
+      {
+        "text": "Radosław Poboży",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47665,Radoslaw-Pobozy.html"
+      },
+      {
+        "text": "Joanna Lubecka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47668,Joanna-Lubecka.html"
+      },
+      {
+        "text": "Anna Jagodzińska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47671,Anna-Jagodzinska.html"
+      },
+      {
+        "text": "Sebastian Piątkowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47674,Sebastian-Piatkowski.html"
+      },
+      {
+        "text": "Ewa Koj",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47677,Ewa-Koj.html"
+      },
+      {
+        "text": "Artur Brożyniak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47680,Artur-Brozyniak.html"
+      },
+      {
+        "text": "Paweł Sztama",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47683,Pawel-Sztama.html"
+      },
+      {
+        "text": "Waldemar Kowalski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47686,Waldemar-Kowalski.html"
+      },
+      {
+        "text": "Martyna Grądzka-Rejak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47689,Martyna-Gradzka-Rejak.html"
+      },
+      {
+        "text": "Przemysław Benken",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47692,Przemyslaw-Benken.html"
+      },
+      {
+        "text": "Andrzej Boboli",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47695,Andrzej-Boboli.html"
+      },
+      {
+        "text": "Bogusław Tracz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/47701,Boguslaw-Tracz.html"
+      },
+      {
+        "text": "Mateusz Szpytma",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/51874,Mateusz-Szpytma.html"
+      },
+      {
+        "text": "Filip Musiał",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/51883,Filip-Musial.html"
+      },
+      {
+        "text": "Adam Hlebowicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/51898,Adam-Hlebowicz.html"
+      },
+      {
+        "text": "Wojciech Jerzy Muszyński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/51946,Wojciech-Jerzy-Muszynski.html"
+      },
+      {
+        "text": "Anna Zechenter",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/51961,Anna-Zechenter.html"
+      },
+      {
+        "text": "Piotr Jaźwiński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52048,Piotr-Jazwinski.html"
+      },
+      {
+        "text": "Ewa Żaboklicka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52078,Ewa-Zaboklicka.html"
+      },
+      {
+        "text": "Tomasz Panfil",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52084,Tomasz-Panfil.html"
+      },
+      {
+        "text": "Rafał Łatka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52087,Rafal-Latka.html"
+      },
+      {
+        "text": "Sebastian Rosenbaum",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52090,Sebastian-Rosenbaum.html"
+      },
+      {
+        "text": "Krzysztof Kawalec",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52759,Krzysztof-Kawalec.html"
+      },
+      {
+        "text": "Katarzyna Maniewska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52762,Katarzyna-Maniewska.html"
+      },
+      {
+        "text": "Kamila Churska-Wołoszczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52765,Kamila-Churska-Woloszczak.html"
+      },
+      {
+        "text": "Piotr Niwiński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52768,Piotr-Niwinski.html"
+      },
+      {
+        "text": "Jan Olaszek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52771,Jan-Olaszek.html"
+      },
+      {
+        "text": "Krzysztof Kolasa",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52774,Krzysztof-Kolasa.html"
+      },
+      {
+        "text": "Michał Kalisz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52777,Michal-Kalisz.html"
+      },
+      {
+        "text": "Tomasz Dźwigał",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52780,Tomasz-Dzwigal.html"
+      },
+      {
+        "text": "Hanna Budzyńska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52783,Hanna-Budzynska.html"
+      },
+      {
+        "text": "Robert Spałek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52786,Robert-Spalek.html"
+      },
+      {
+        "text": "Marcin Markiewicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52789,Marcin-Markiewicz.html"
+      },
+      {
+        "text": "Michał Wenklar",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52792,Michal-Wenklar.html"
+      },
+      {
+        "text": "Jarosław Wasilewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52795,Jaroslaw-Wasilewski.html"
+      },
+      {
+        "text": "Leon Popek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52798,Leon-Popek.html"
+      },
+      {
+        "text": "Marcin Bukała",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52801,Marcin-Bukala.html"
+      },
+      {
+        "text": "Jacek Wołoszyn",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52804,Jacek-Woloszyn.html"
+      },
+      {
+        "text": "Piotr Kardela",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52807,Piotr-Kardela.html"
+      },
+      {
+        "text": "Jakub Gołębiewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52810,Jakub-Golebiewski.html"
+      },
+      {
+        "text": "Paweł Piotr Warot",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52813,Pawel-Piotr-Warot.html"
+      },
+      {
+        "text": "Jerzy Eisler",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52816,Jerzy-Eisler.html"
+      },
+      {
+        "text": "Marzena Kruk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52819,Marzena-Kruk.html"
+      },
+      {
+        "text": "Andrzej Sznajder",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52822,Andrzej-Sznajder.html"
+      },
+      {
+        "text": "Jerzy Autuchiewicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52825,Jerzy-Autuchiewicz.html"
+      },
+      {
+        "text": "Katarzyna Adamów",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52828,Katarzyna-Adamow.html"
+      },
+      {
+        "text": "Marta Marcinkiewicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52909,Marta-Marcinkiewicz.html"
+      },
+      {
+        "text": "Renata Soszyńska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/52936,Renata-Soszynska.html"
+      },
+      {
+        "text": "Mirosław Węcki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/53338,Miroslaw-Wecki.html"
+      },
+      {
+        "text": "Krzysztof Kopeć",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/53347,Krzysztof-Kopec.html"
+      },
+      {
+        "text": "Paweł Naleźniak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/53359,Pawel-Nalezniak.html"
+      },
+      {
+        "text": "Arkadiusz Kazański",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/53491,Arkadiusz-Kazanski.html"
+      },
+      {
+        "text": "Jarosław Szarek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/54469,Jaroslaw-Szarek.html"
+      },
+      {
+        "text": "Krzysztof Szwagrzyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/54472,Krzysztof-Szwagrzyk.html"
+      },
+      {
+        "text": "Kamila Sachnowska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/54768,Kamila-Sachnowska.html"
+      },
+      {
+        "text": "Justyna Błażejowska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/54834,Justyna-Blazejowska.html"
+      },
+      {
+        "text": "Rafał Leśkiewicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/56367,Rafal-Leskiewicz.html"
+      },
+      {
+        "text": "Jerzy Bednarek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/60165,Jerzy-Bednarek.html"
+      },
+      {
+        "text": "Magdalena Dźwigał",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/60402,Magdalena-Dzwigal.html"
+      },
+      {
+        "text": "Radosław Morawski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/60591,Radoslaw-Morawski.html"
+      },
+      {
+        "text": "Anna Włodarczyk-Sętorek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/60690,Anna-Wlodarczyk-Setorek.html"
+      },
+      {
+        "text": "Jarosław Tęsiorowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/60717,Jaroslaw-Tesiorowski.html"
+      },
+      {
+        "text": "Artur Ossowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/61281,Artur-Ossowski.html"
+      },
+      {
+        "text": "Władysław Bułhak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/61350,Wladyslaw-Bulhak.html"
+      },
+      {
+        "text": "Łukasz Gramza",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/61947,Lukasz-Gramza.html"
+      },
+      {
+        "text": "Ryszard Sodel",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/62001,Ryszard-Sodel.html"
+      },
+      {
+        "text": "Monika Tomkiewicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/62097,Monika-Tomkiewicz.html"
+      },
+      {
+        "text": "Witold Bagieński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/62235,Witold-Bagienski.html"
+      },
+      {
+        "text": "Wojciech Frazik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/62238,Wojciech-Frazik.html"
+      },
+      {
+        "text": "Daniel Czerwiński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/62424,Daniel-Czerwinski.html"
+      },
+      {
+        "text": "Grzegorz Wołk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/62805,Grzegorz-Wolk.html"
+      },
+      {
+        "text": "Ewa Wójcicka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/63231,Ewa-Wojcicka.html"
+      },
+      {
+        "text": "Radosław Peterman",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/63306,Radoslaw-Peterman.html"
+      },
+      {
+        "text": "Piotr Grzelczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/63495,Piotr-Grzelczak.html"
+      },
+      {
+        "text": "Marta Smolańska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/63519,Marta-Smolanska.html"
+      },
+      {
+        "text": "Krzysztof Filip",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/63546,Krzysztof-Filip.html"
+      },
+      {
+        "text": "Ryszard Śmietanka-Kruszelnicki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/63792,Ryszard-Smietanka-Kruszelnicki.html"
+      },
+      {
+        "text": "Paweł Fornal",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/63810,Pawel-Fornal.html"
+      },
+      {
+        "text": "Adam Stefan Lewandowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/64275,Adam-Stefan-Lewandowski.html"
+      },
+      {
+        "text": "Karolina Trzeskowska-Kubasik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/65403,Karolina-Trzeskowska-Kubasik.html"
+      },
+      {
+        "text": "Alicja Gontarek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/65595,Alicja-Gontarek.html"
+      },
+      {
+        "text": "Tomasz Stempowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/66180,Tomasz-Stempowski.html"
+      },
+      {
+        "text": "Tomasz Gonet",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/66282,Tomasz-Gonet.html"
+      },
+      {
+        "text": "Robert Buliński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/66960,Robert-Bulinski.html"
+      },
+      {
+        "text": "Tomasz Bereza",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/67146,Tomasz-Bereza.html"
+      },
+      {
+        "text": "Teodor Gąsiorowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/70836,Teodor-Gasiorowski.html"
+      },
+      {
+        "text": "Joanna Karbarz-Wilińska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/70944,Joanna-Karbarz-Wilinska.html"
+      },
+      {
+        "text": "Konrad Rokicki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/71199,Konrad-Rokicki.html"
+      },
+      {
+        "text": "Mateusz Kubicki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/71370,Mateusz-Kubicki.html"
+      },
+      {
+        "text": "Krzysztof A. Tochman",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/71643,Krzysztof-A-Tochman.html"
+      },
+      {
+        "text": "Marcin Kruszyński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/71886,Marcin-Kruszynski.html"
+      },
+      {
+        "text": "Artur Cieślik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/71970,Artur-Cieslik.html"
+      },
+      {
+        "text": "Paweł Libera",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/72228,Pawel-Libera.html"
+      },
+      {
+        "text": "Robert Szcześniak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/72429,Robert-Szczesniak.html"
+      },
+      {
+        "text": "Ewelina Ślązak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/74612,Ewelina-Slazak.html"
+      },
+      {
+        "text": "Monika Komaniecka-Łyp",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/75257,Monika-Komaniecka-Lyp.html"
+      },
+      {
+        "text": "Magdalena Gibiec",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/75560,Magdalena-Gibiec.html"
+      },
+      {
+        "text": "Mariusz Żuławnik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/75629,Mariusz-Zulawnik.html"
+      },
+      {
+        "text": "Soraya Kuklińska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76132,Soraya-Kuklinska.html"
+      },
+      {
+        "text": "Andrzej Majcher",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76309,Andrzej-Majcher.html"
+      },
+      {
+        "text": "Artur Kuprianis",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76595,Artur-Kuprianis.html"
+      },
+      {
+        "text": "Katarzyna Łysak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76729,Katarzyna-Lysak.html"
+      },
+      {
+        "text": "Robert Piwko",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76732,Robert-Piwko.html"
+      },
+      {
+        "text": "Adam Siwek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76735,Adam-Siwek.html"
+      },
+      {
+        "text": "Marzena Grosicka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76738,Marzena-Grosicka.html"
+      },
+      {
+        "text": "Tomasz Domański",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76741,Tomasz-Domanski.html"
+      },
+      {
+        "text": "Konrad Graczyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76742,Konrad-Graczyk.html"
+      },
+      {
+        "text": "Marek Jedynak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76744,Marek-Jedynak.html"
+      },
+      {
+        "text": "Marek Kozak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76745,Marek-Kozak.html"
+      },
+      {
+        "text": "Bożena Koszel-Pleskaczuk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76748,Bozena-Koszel-Pleskaczuk.html"
+      },
+      {
+        "text": "Mariusz Sawa",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76751,Mariusz-Sawa.html"
+      },
+      {
+        "text": "Tytus Jaskułowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76757,Tytus-Jaskulowski.html"
+      },
+      {
+        "text": "Cecylia Kuta",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76760,Cecylia-Kuta.html"
+      },
+      {
+        "text": "Jacek Romanek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76765,Jacek-Romanek.html"
+      },
+      {
+        "text": "Agnieszka Wygoda",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76879,Agnieszka-Wygoda.html"
+      },
+      {
+        "text": "Tomasz Toborek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/76912,Tomasz-Toborek.html"
+      },
+      {
+        "text": "Maria Zima-Marjańska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77162,Maria-Zima-Marjanska.html"
+      },
+      {
+        "text": "Daniel Gucewicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77204,Daniel-Gucewicz.html"
+      },
+      {
+        "text": "Krzysztof Sychowicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77525,Krzysztof-Sychowicz.html"
+      },
+      {
+        "text": "Ewa Tylus",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77536,Ewa-Tylus.html"
+      },
+      {
+        "text": "Piotr Abryszeński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77539,Piotr-Abryszenski.html"
+      },
+      {
+        "text": "Piotr Brzeziński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77542,Piotr-Brzezinski.html"
+      },
+      {
+        "text": "Michał Ostapiuk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77578,Michal-Ostapiuk.html"
+      },
+      {
+        "text": "Adam Pleskaczyński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77579,Adam-Pleskaczynski.html"
+      },
+      {
+        "text": "Łucja Marek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77582,Lucja-Marek.html"
+      },
+      {
+        "text": "Ewa Kowalska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77585,Ewa-Kowalska.html"
+      },
+      {
+        "text": "Piotr Olechowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77597,Piotr-Olechowski.html"
+      },
+      {
+        "text": "Dawid Zagził",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77600,Dawid-Zagzil.html"
+      },
+      {
+        "text": "Michał Zarychta",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/77726,Michal-Zarychta.html"
+      },
+      {
+        "text": "Paweł Chojnacki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/78154,Pawel-Chojnacki.html"
+      },
+      {
+        "text": "Justyna Staroń",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/78184,Justyna-Staron.html"
+      },
+      {
+        "text": "Bogusław Wójcik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/78463,Boguslaw-Wojcik.html"
+      },
+      {
+        "text": "Dariusz Iwaneczko",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/78476,Dariusz-Iwaneczko.html"
+      },
+      {
+        "text": "Anna Czocher",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/78493,Anna-Czocher.html"
+      },
+      {
+        "text": "Maciej Żuczkowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/78934,Maciej-Zuczkowski.html"
+      },
+      {
+        "text": "Mariusz Krzysztofiński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79051,Mariusz-Krzysztofinski.html"
+      },
+      {
+        "text": "Dawid Golik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79292,Dawid-Golik.html"
+      },
+      {
+        "text": "Mateusz Marek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79391,Mateusz-Marek.html"
+      },
+      {
+        "text": "Tomasz Sikorski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79394,Tomasz-Sikorski.html"
+      },
+      {
+        "text": "Marcin Kasprzycki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79495,Marcin-Kasprzycki.html"
+      },
+      {
+        "text": "Jan Hlebowicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79625,Jan-Hlebowicz.html"
+      },
+      {
+        "text": "Marcin Jurek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79718,Marcin-Jurek.html"
+      },
+      {
+        "text": "Przemysław Gasztold",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/79807,Przemyslaw-Gasztold.html"
+      },
+      {
+        "text": "Witold Wasilewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/80302,Witold-Wasilewski.html"
+      },
+      {
+        "text": "Kinga Czechowska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/80770,Kinga-Czechowska.html"
+      },
+      {
+        "text": "Elżbieta Kowalczyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/81797,Elzbieta-Kowalczyk.html"
+      },
+      {
+        "text": "Rafał Opulski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/81799,Rafal-Opulski.html"
+      },
+      {
+        "text": "Sławomir Formella",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/82367,Slawomir-Formella.html"
+      },
+      {
+        "text": "Bartłomiej Noszczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/86542,Bartlomiej-Noszczak.html"
+      },
+      {
+        "text": "Mateusz Lisak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/87688,Mateusz-Lisak.html"
+      },
+      {
+        "text": "Tadeusz Ruzikowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/87766,Tadeusz-Ruzikowski.html"
+      },
+      {
+        "text": "Rafał Reczek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/88675,Rafal-Reczek.html"
+      },
+      {
+        "text": "Sebastian Ligarski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/89123,Sebastian-Ligarski.html"
+      },
+      {
+        "text": "Marta Kupczewska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/89231,Marta-Kupczewska.html"
+      },
+      {
+        "text": "Bartosz Janczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/90259,Bartosz-Janczak.html"
+      },
+      {
+        "text": "Katarzyna Rembacka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/90262,Katarzyna-Rembacka.html"
+      },
+      {
+        "text": "Anna Płońska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/91064,Anna-Plonska.html"
+      },
+      {
+        "text": "Marek Wierzbicki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/92224,Marek-Wierzbicki.html"
+      },
+      {
+        "text": "Paweł Sasanka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/92431,Pawel-Sasanka.html"
+      },
+      {
+        "text": "Paweł Kornacki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/92432,Pawel-Kornacki.html"
+      },
+      {
+        "text": "Aleksandra Szafrańska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/92639,Aleksandra-Szafranska.html"
+      },
+      {
+        "text": "Karol Polejowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/92948,Karol-Polejowski.html"
+      },
+      {
+        "text": "Jacek Hryniewicki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/93211,Jacek-Hryniewicki.html"
+      },
+      {
+        "text": "Justyna Dudek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/93319,Justyna-Dudek.html"
+      },
+      {
+        "text": "Olga Nowicka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/93566,Olga-Nowicka.html"
+      },
+      {
+        "text": "Artur Piekarz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/95110,Artur-Piekarz.html"
+      },
+      {
+        "text": "Tomasz Krok",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/95489,Tomasz-Krok.html"
+      },
+      {
+        "text": "Krzysztof Brzechczyn",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/96175,Krzysztof-Brzechczyn.html"
+      },
+      {
+        "text": "Jacek Sawicki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/97099,Jacek-Sawicki.html"
+      },
+      {
+        "text": "Paweł Nowik",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/97371,Pawel-Nowik.html"
+      },
+      {
+        "text": "Patrycja Resel",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/97603,Patrycja-Resel.html"
+      },
+      {
+        "text": "Marcin Majewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/98619,Marcin-Majewski.html"
+      },
+      {
+        "text": "Wojciech Kujawa",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/98620,Wojciech-Kujawa.html"
+      },
+      {
+        "text": "Elżbieta Strzeszewska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/98623,Elzbieta-Strzeszewska.html"
+      },
+      {
+        "text": "Paweł Głuszek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/100089,Pawel-Gluszek.html"
+      },
+      {
+        "text": "Waldemar Tyszuk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/100092,Waldemar-Tyszuk.html"
+      },
+      {
+        "text": "Stefan Białek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/100515,Stefan-Bialek.html"
+      },
+      {
+        "text": "Jerzy Kirszak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/101629,Jerzy-Kirszak.html"
+      },
+      {
+        "text": "Katarzyna Gruszka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/102831,Katarzyna-Gruszka.html"
+      },
+      {
+        "text": "Adam Massalski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/105300,Adam-Massalski.html"
+      },
+      {
+        "text": "Paweł Żołądek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/105378,Pawel-Zoladek.html"
+      },
+      {
+        "text": "Marek Jończyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/105379,Marek-Jonczyk.html"
+      },
+      {
+        "text": "Izabela Bożyk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/105381,Izabela-Bozyk.html"
+      },
+      {
+        "text": "Paweł Zielony",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/106009,Pawel-Zielony.html"
+      },
+      {
+        "text": "Agnieszka Łuczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/106174,Agnieszka-Luczak.html"
+      },
+      {
+        "text": "Marcin Chorązki",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/106179,Marcin-Chorazki.html"
+      },
+      {
+        "text": "Arkadiusz Cisek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/106548,Arkadiusz-Cisek.html"
+      },
+      {
+        "text": "Agnieszka Szajewska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/107477,Agnieszka-Szajewska.html"
+      },
+      {
+        "text": "Irena Siwińska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/107856,Irena-Siwinska.html"
+      },
+      {
+        "text": "Andrzej Olejniczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/107970,Andrzej-Olejniczak.html"
+      },
+      {
+        "text": "Bożena Witowicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/108238,Bozena-Witowicz.html"
+      },
+      {
+        "text": "Krzysztof Łagojda",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/109368,Krzysztof-Lagojda.html"
+      },
+      {
+        "text": "Remigiusz Ławniczak",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/109848,Remigiusz-Lawniczak.html"
+      },
+      {
+        "text": "Waldemar Brenda",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/110304,Waldemar-Brenda.html"
+      },
+      {
+        "text": "Piotr Ruciński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/110808,Piotr-Rucinski.html"
+      },
+      {
+        "text": "Paweł Miedziński",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/110985,Pawel-Miedzinski.html"
+      },
+      {
+        "text": "Paweł Skubisz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/112467,Pawel-Skubisz.html"
+      },
+      {
+        "text": "Piotr Majewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/112584,Piotr-Majewski.html"
+      },
+      {
+        "text": "Monika Litwińska",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/113386,Monika-Litwinska.html"
+      },
+      {
+        "text": "Piotr Juchowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/114276,Piotr-Juchowski.html"
+      },
+      {
+        "text": "Bartosz Januszewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/114917,Bartosz-Januszewski.html"
+      },
+      {
+        "text": "Mateusz Szłapka",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/120613,Mateusz-Szlapka.html"
+      },
+      {
+        "text": "Radosław Kurek",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/121736,Radoslaw-Kurek.html"
+      },
+      {
+        "text": "Daniel Wicenty",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/121775,Daniel-Wicenty.html"
+      },
+      {
+        "text": "Michał Szukała",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/122407,Michal-Szukala.html"
+      },
+      {
+        "text": "Paweł Sokołowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/123602,Pawel-Sokolowski.html"
+      },
+      {
+        "text": "Marcin Makarczuk",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/123988,Marcin-Makarczuk.html"
+      },
+      {
+        "text": "Maciej Zakrzewski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/124830,Maciej-Zakrzewski.html"
+      },
+      {
+        "text": "Zdzisław Jurkowski",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/124978,Zdzislaw-Jurkowski.html"
+      },
+      {
+        "text": "Romuald Niedzielko",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/126694,Romuald-Niedzielko.html"
+      },
+      {
+        "text": "Mateusz Ułanowicz",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/126841,Mateusz-Ulanowicz.html"
+      },
+      {
+        "text": "Dawid Kiljański",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy/129411,Dawid-Kiljanski.html"
+      },
+      {
+        "text": "TEKSTY",
+        "url": "https://przystanekhistoria.pl/pa2/teksty"
+      },
+      {
+        "text": "TEMATY",
+        "url": "https://przystanekhistoria.pl/pa2/tematy"
+      },
+      {
+        "text": "Biblioteka cyfrowa",
+        "url": "https://przystanekhistoria.pl/pa2/biblioteka-cyfrowa"
+      },
+      {
+        "text": "Audio/Video",
+        "url": "https://przystanekhistoria.pl/pa2/audiovideo"
+      },
+      {
+        "text": "English content",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/english-content"
+      },
+      {
+        "text": "Księgarnia",
+        "url": "https://ipn.poczytaj.pl/"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://przystanekhistoria.pl/pa2/aktualnosci"
+      },
+      {
+        "text": "Autorzy",
+        "url": "https://przystanekhistoria.pl/pa2/autorzy"
+      },
+      {
+        "text": "O nas",
+        "url": "https://przystanekhistoria.pl/pa2/wolnytekst/21715,O-nas.html"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://przystanekhistoria.pl/pa2/wolnytekst/21718,Kontakt.html"
+      },
+      {
+        "text": "Edukacja",
+        "url": "https://edukacja.ipn.gov.pl/"
+      },
+      {
+        "text": "Dowiedz się więcej",
+        "url": "https://przystanekhistoria.pl/pa2/wolnytekst/21715,O-nas.html"
+      },
+      {
+        "text": "Polityka prywatności",
+        "url": "https://ipn.gov.pl/pl/wolnytekst/69259,Polityka-prywatnosci-IPN.html"
+      },
+      {
+        "text": "Mapa strony",
+        "url": "https://przystanekhistoria.pl/pa2/mapa"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://ipn.gov.pl/pl/wolnytekst/24141,Dostepnosc-strony.html"
+      },
+      {
+        "text": "Ochrona danych osobowych",
+        "url": "https://ipn.gov.pl/pl/o-ipn/ochrona-danych-osobowyc/"
+      },
+      {
+        "text": "English content",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/english-content"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/user/IPNtvPL"
+      },
+      {
+        "text": "X",
+        "url": "https://x.com/ipngovpl"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/ipngovpl/"
+      },
+      {
+        "text": "",
+        "url": "https://ipn.gov.pl/"
+      },
+      {
+        "text": "Adolf Hitler",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/adolf-hitler"
+      },
+      {
+        "text": "Afryka",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/afryka"
+      },
+      {
+        "text": "Akcja AB",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/akcja-ab"
+      },
+      {
+        "text": "Akcja \"Burza\"",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/akcja-burza"
+      },
+      {
+        "text": "Akcja „Wisła”",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/akcja-wisla"
+      },
+      {
+        "text": "Ameryka Łacińska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ameryka-lacinska"
+      },
+      {
+        "text": "Anna Walentynowicz",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/anna-walentynowicz"
+      },
+      {
+        "text": "Aparat bezpieczeństwa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/aparat-bezpieczenstwa"
+      },
+      {
+        "text": "Architektura",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/architektura"
+      },
+      {
+        "text": "Archiwum IPN",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/archiwum-ipn"
+      },
+      {
+        "text": "Armia Czerwona",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/armia-czerwona"
+      },
+      {
+        "text": "Armia Krajowa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/armia-krajowa"
+      },
+      {
+        "text": "August Emil Fieldorf",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/august-emil-fieldorf"
+      },
+      {
+        "text": "Atak III Rzeszy na ZSRS",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/atak-iii-rzeszy-na-zsrs"
+      },
+      {
+        "text": "August Zaleski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/august-zaleski"
+      },
+      {
+        "text": "Bałkany",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/balkany"
+      },
+      {
+        "text": "Białoruś",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/bialorus"
+      },
+      {
+        "text": "Bitwa o Monte Cassino",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/bitwa-o-monte-cassino"
+      },
+      {
+        "text": "Bliski Wschód",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/bliski-wschod"
+      },
+      {
+        "text": "Błękitna Armia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/blekitna-armia"
+      },
+      {
+        "text": "Bolesław Bierut",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/boleslaw-bierut"
+      },
+      {
+        "text": "Bułgaria",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/bulgaria"
+      },
+      {
+        "text": "Cenzura",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/cenzura"
+      },
+      {
+        "text": "Cichociemni",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/cichociemni"
+      },
+      {
+        "text": "Cmentarze",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/cmentarze"
+      },
+      {
+        "text": "Czechosłowacja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/czechoslowacja"
+      },
+      {
+        "text": "Czerwiec 1976",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/czerwiec-1976"
+      },
+      {
+        "text": "Daleki Wschód",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/daleki-wschod"
+      },
+      {
+        "text": "Dekomunizacja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/dekomunizacja"
+      },
+      {
+        "text": "Demonstracje",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/demonstracje"
+      },
+      {
+        "text": "Dzieci",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/dzieci"
+      },
+      {
+        "text": "Edward Gierek",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/edward-gierek"
+      },
+      {
+        "text": "Edward Śmigły-Rydz",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/edward-smigly-rydz"
+      },
+      {
+        "text": "Einsatz Reinhardt",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/einsatz-reinhardt"
+      },
+      {
+        "text": "Ekshumacje",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ekshumacje"
+      },
+      {
+        "text": "Emigracja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/emigracja"
+      },
+      {
+        "text": "Estonia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/estonia"
+      },
+      {
+        "text": "Film",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/film"
+      },
+      {
+        "text": "Fotografia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/fotografia"
+      },
+      {
+        "text": "Francja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/francja"
+      },
+      {
+        "text": "Gabriel Narutowicz",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/gabriel-narutowicz"
+      },
+      {
+        "text": "Gestapo",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/gestapo"
+      },
+      {
+        "text": "Gospodarka",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/gospodarka"
+      },
+      {
+        "text": "Granice",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/granice"
+      },
+      {
+        "text": "Grecja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/grecja"
+      },
+      {
+        "text": "Grudzień 1970",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/grudzien-1970"
+      },
+      {
+        "text": "Gruzja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/gruzja"
+      },
+      {
+        "text": "Harcerstwo",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/harcerstwo"
+      },
+      {
+        "text": "Holocaust",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/holocaust"
+      },
+      {
+        "text": "Ignacy Daszyński",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ignacy-daszynski"
+      },
+      {
+        "text": "Ignacy Jan Paderewski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ignacy-jan-paderewski"
+      },
+      {
+        "text": "Indie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/indie"
+      },
+      {
+        "text": "Ignacy Mościcki",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ignacy-moscicki"
+      },
+      {
+        "text": "Intelligenzaktion",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/intelligenzaktion"
+      },
+      {
+        "text": "I wojna światowa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/i-wojna-swiatowa"
+      },
+      {
+        "text": "Jan Rodowicz „Anoda”",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jan-rodowicz-anoda"
+      },
+      {
+        "text": "Jerzy Popiełuszko",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jerzy-popieluszko"
+      },
+      {
+        "text": "Janusz Kurtyka",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/janusz-kurtyka"
+      },
+      {
+        "text": "Józef Beck",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jozef-beck"
+      },
+      {
+        "text": "Józef Dowbor-Muśnicki",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jozef-dowbor-musnicki"
+      },
+      {
+        "text": "Józef Haller",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jozef-haller"
+      },
+      {
+        "text": "Józef Piłsudski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jozef-pilsudski"
+      },
+      {
+        "text": "Józef Mackiewicz",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jozef-mackiewicz"
+      },
+      {
+        "text": "Józef Stalin",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jozef-stalin"
+      },
+      {
+        "text": "Jugosławia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/jugoslawia"
+      },
+      {
+        "text": "Karol Wojtyła/Jan Paweł II",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/karol-wojtylajan-pawel"
+      },
+      {
+        "text": "Katastrofa czarnobylska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/katastrofa-czarnobylska"
+      },
+      {
+        "text": "Kazimierz Sabbat",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/kazimierz-sabbat"
+      },
+      {
+        "text": "Kazachstan",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/kazachstan"
+      },
+      {
+        "text": "Komunizm",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/komunizm"
+      },
+      {
+        "text": "Konfederacja Polski Niepodległej",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/konfederacja-polski-nie"
+      },
+      {
+        "text": "Konspiracja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/konspiracja"
+      },
+      {
+        "text": "KOR",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/kor"
+      },
+      {
+        "text": "Kościół",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/kosciol"
+      },
+      {
+        "text": "Kresy",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/kresy"
+      },
+      {
+        "text": "Kultura",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/kultura"
+      },
+      {
+        "text": "Lech Wałęsa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/lech-walesa"
+      },
+      {
+        "text": "Legiony",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/legiony"
+      },
+      {
+        "text": "Leopold Okulicki",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/leopold-okulicki"
+      },
+      {
+        "text": "Listy",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/listy"
+      },
+      {
+        "text": "Lotnictwo",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/lotnictwo"
+      },
+      {
+        "text": "Lustracja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/lustracja"
+      },
+      {
+        "text": "Litwa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/litwa"
+      },
+      {
+        "text": "LWP",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/lwp"
+      },
+      {
+        "text": "Łotwa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/lotwa"
+      },
+      {
+        "text": "Łukasz Ciepliński",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/lukasz-cieplinski"
+      },
+      {
+        "text": "Maj 1926",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/maj-1926"
+      },
+      {
+        "text": "Maj 1946",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/maj-1946"
+      },
+      {
+        "text": "Martyrologia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/martyrologia"
+      },
+      {
+        "text": "Marzec 1968",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/marzec-1968"
+      },
+      {
+        "text": "Milenium",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/milenium"
+      },
+      {
+        "text": "Milicja Obywatelska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/milicja-obywatelska"
+      },
+      {
+        "text": "Młodzież",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/mlodziez"
+      },
+      {
+        "text": "Mniejszości narodowe",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/mniejszosci-narodowe"
+      },
+      {
+        "text": "Narodowe Siły Zbrojne",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/narodowe-sily-zbrojne"
+      },
+      {
+        "text": "Nauka i technika",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/nauka-i-technika"
+      },
+      {
+        "text": "Niemcy",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/niemcy"
+      },
+      {
+        "text": "Niepodległość",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/niepodleglosc"
+      },
+      {
+        "text": "Niezależne Zrzeszenie Studentów",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/niezalezne-zrzeszenie-s"
+      },
+      {
+        "text": "NKWD",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/nkwd"
+      },
+      {
+        "text": "NRD",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/nrd"
+      },
+      {
+        "text": "Obława Augustowska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/oblawa-augustowska"
+      },
+      {
+        "text": "Obozy koncentracyjne",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/obozy-koncentracyjne"
+      },
+      {
+        "text": "Odznaczenia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/odznaczenia"
+      },
+      {
+        "text": "Okupacja niemiecka",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/okupacja-niemiecka"
+      },
+      {
+        "text": "Okupacja sowiecka",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/okupacja-sowiecka"
+      },
+      {
+        "text": "Operacja polska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/operacja-polska"
+      },
+      {
+        "text": "Opozycja w PRL",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/opozycja-w-prl"
+      },
+      {
+        "text": "Oświata",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/oswiata"
+      },
+      {
+        "text": "OUN-UPA",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/oun-upa"
+      },
+      {
+        "text": "Partia komunistyczna",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/partia-omunistyczna"
+      },
+      {
+        "text": "Październik 1956",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/pazdziernik-1956"
+      },
+      {
+        "text": "Plebiscyty terytorialne",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/plebiscyty-terytorialne"
+      },
+      {
+        "text": "Podziemie antykomunistyczne",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/podziemie-antykomunisty"
+      },
+      {
+        "text": "Polacy ratujący Żydów",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polacy-ratujacy-zydow"
+      },
+      {
+        "text": "Polityka historyczna",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polityka-historyczna"
+      },
+      {
+        "text": "Polska na uchodźstwie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polska-na-uchodzstwie"
+      },
+      {
+        "text": "Polskie Państwo Podziemne",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polskie-panstwo-podziem"
+      },
+      {
+        "text": "Polskie wigilie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polskie-wigilie"
+      },
+      {
+        "text": "Policja Państwowa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/policja-panstwowa"
+      },
+      {
+        "text": "Polskie Siły Zbrojne poza krajem",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polskie-sily-zbrojne-po"
+      },
+      {
+        "text": "Polskie formacje na wschodzie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polskie-formacje-na-wsc"
+      },
+      {
+        "text": "Polskie wojsko",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/polskie-wojsko"
+      },
+      {
+        "text": "Pomarańczowa alternatywa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/pomaranczowa-alternatyw"
+      },
+      {
+        "text": "Powstania śląskie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/powstania-slaskie"
+      },
+      {
+        "text": "Powstanie styczniowe",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/powstanie-styczniowe"
+      },
+      {
+        "text": "Powstanie w getcie warszawskim",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/powstanie-w-getcie-wars"
+      },
+      {
+        "text": "Powstanie Warszawskie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/powstanie-warszawskie"
+      },
+      {
+        "text": "Powstanie wielkopolskie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/powstanie-wielkopolskie"
+      },
+      {
+        "text": "Poznański czerwiec '56",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/poznanski-czerwiec-56"
+      },
+      {
+        "text": "Prasa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/prasa"
+      },
+      {
+        "text": "Proces szesnastu",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/proces-szesnastu"
+      },
+      {
+        "text": "Propaganda",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/propaganda"
+      },
+      {
+        "text": "Rada Regencyjna",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/rada-regencyjna"
+      },
+      {
+        "text": "Radio Wolna Europa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/radio-wolna-europa"
+      },
+      {
+        "text": "Referendum 1946",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/referendum-1946"
+      },
+      {
+        "text": "Represje",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/represje"
+      },
+      {
+        "text": "Rewolucja 1905",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/rewolucja-1905"
+      },
+      {
+        "text": "Rodzina Ulmów",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/rodzina-ulmow"
+      },
+      {
+        "text": "Roman Dmowski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/roman-dmowski"
+      },
+      {
+        "text": "ROPCiO",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ropcio"
+      },
+      {
+        "text": "Ruch ludowy",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ruch-ludowy"
+      },
+      {
+        "text": "Ruch narodowy",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ruch-narodowy"
+      },
+      {
+        "text": "Ruch socjalistyczny",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ruch-socjalistyczny"
+      },
+      {
+        "text": "Ruch Wolność i Pokój",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ruch-wolnosc-i-pokoj"
+      },
+      {
+        "text": "Rumunia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/rumunia"
+      },
+      {
+        "text": "Ryszard Kaczorowski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ryszard-kaczorowski"
+      },
+      {
+        "text": "Ryszard Kukliński",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ryszard-kuklinski"
+      },
+      {
+        "text": "Sanacja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/sanacja"
+      },
+      {
+        "text": "Sergiusz Piasecki",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/sergiusz-piasecki"
+      },
+      {
+        "text": "Sierpień 1980",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/sierpien-1980"
+      },
+      {
+        "text": "Słowacja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/slowacja"
+      },
+      {
+        "text": "Służba zdrowia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/sluzba-zdrowia"
+      },
+      {
+        "text": "Solidarność",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/solidarnosc"
+      },
+      {
+        "text": "Solidarność Walcząca",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/solidarnosc-walczaca"
+      },
+      {
+        "text": "Sport",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/sport"
+      },
+      {
+        "text": "Stan wojenny",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/stan-wojenny"
+      },
+      {
+        "text": "Stanisław Maczek",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/stanislaw-maczek"
+      },
+      {
+        "text": "Stanisław Mikołajczyk",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/stanislaw-mikolajczyk"
+      },
+      {
+        "text": "Stanisław Wojciechowski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/stanislaw-wojciechowski"
+      },
+      {
+        "text": "statki i okręty",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/statki-i-okrety"
+      },
+      {
+        "text": "Stefan Wyszyński",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/stefan-wyszynski"
+      },
+      {
+        "text": "Stosunki międzynarodowe",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/stosunki-miedzynarodowe"
+      },
+      {
+        "text": "Studencki Komitet Solidarności",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/studencki-komitet-solid"
+      },
+      {
+        "text": "Szwajcaria",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/szwajcaria"
+      },
+      {
+        "text": "Szwecja",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/szwecja"
+      },
+      {
+        "text": "Tajne służby",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/tajne-sluzby"
+      },
+      {
+        "text": "Teatr",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/teatr"
+      },
+      {
+        "text": "Tragedia Górnośląska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/tragedia-gornoslaska"
+      },
+      {
+        "text": "Traktat ryski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/traktat-ryski"
+      },
+      {
+        "text": "Traktat wersalski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/traktat-wersalski"
+      },
+      {
+        "text": "Transformacja ustrojowa",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/transformacja-ustrojowa"
+      },
+      {
+        "text": "Układ Warszawski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/uklad-warszawski"
+      },
+      {
+        "text": "Ukraina",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ukraina"
+      },
+      {
+        "text": "USA",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/usa"
+      },
+      {
+        "text": "Ustrój II RP",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ustroj-ii-rp"
+      },
+      {
+        "text": "Watykan",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/watykan"
+      },
+      {
+        "text": "Węgry",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wegry"
+      },
+      {
+        "text": "Wielka Brytania",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wielka-brytania"
+      },
+      {
+        "text": "Wincenty Witos",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wincenty-witos"
+      },
+      {
+        "text": "Witold Pilecki",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/witold-pilecki"
+      },
+      {
+        "text": "Władysław Anders",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wladyslaw-anders"
+      },
+      {
+        "text": "Władysław Gomułka",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wladyslaw-gomulka"
+      },
+      {
+        "text": "Władysław Raczkiewicz",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wladyslaw-raczkiewicz"
+      },
+      {
+        "text": "Władysław Sikorski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wladyslaw-sikorski"
+      },
+      {
+        "text": "Włochy",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wlochy"
+      },
+      {
+        "text": "Wojciech Jaruzelski",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wojciech-jaruzelski"
+      },
+      {
+        "text": "Wojciech Korfanty",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wojciech-korfanty"
+      },
+      {
+        "text": "Wojna polsko-bolszewicka",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wojna-polsko-bolszewick"
+      },
+      {
+        "text": "Wolne Miasto Gdańsk",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wolne-miasto-gdansk"
+      },
+      {
+        "text": "Wolne Związki Zawodowe",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wolne-zwiazki-zawodowe"
+      },
+      {
+        "text": "Wolność i Niezawisłość",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wolnosc-i-niezawislosc"
+      },
+      {
+        "text": "Wrzesień 1939",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wrzesien-1939"
+      },
+      {
+        "text": "Wybory czerwcowe",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wybory-czerwcowe"
+      },
+      {
+        "text": "Wybory 1947",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wybory-1947"
+      },
+      {
+        "text": "Wysiedlenia",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/wysiedlenia"
+      },
+      {
+        "text": "Zbrodnia Katyńska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zbrodnia-katynska"
+      },
+      {
+        "text": "Zbrodnia Wołyńska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zbrodnia-wolynska"
+      },
+      {
+        "text": "Zbrodnie komunistyczne",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zbrodnie-komunistyczne"
+      },
+      {
+        "text": "Zbrodnie niemieckie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zbrodnie-niemieckie"
+      },
+      {
+        "text": "Zbrodnia Pomorska",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zbrodnia-pomorska"
+      },
+      {
+        "text": "Zbrodnie sowieckie",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zbrodnie-sowieckie"
+      },
+      {
+        "text": "Ziemiaństwo",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ziemianstwo"
+      },
+      {
+        "text": "Ziemie Odzyskane",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/ziemie-odzyskane"
+      },
+      {
+        "text": "ZSRS",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zsrs"
+      },
+      {
+        "text": "Żołnierze Wyklęci",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zolnierze-wykleci"
+      },
+      {
+        "text": "Żydzi",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/zydzi"
+      },
+      {
+        "text": "English content",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/english-content"
+      },
+      {
+        "text": "Kongres Pamięci Narodowej",
+        "url": "https://przystanekhistoria.pl/pa2/tematy/kongres-pamieci-narodowej"
+      }
+    ]
+  },
+  {
+    "key": "church/historia_przemienienia",
+    "url": "https://chrobryszlak.pl/?p=1044",
+    "utc": "2026-11-06T05:51:07.955857+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "key": "church/archiwum",
+    "url": "https://archidiecezja.lodz.pl/archiwum/?id=news",
+    "utc": "2026-11-06T05:51:08.064594+00:00",
+    "status": 200,
+    "final_url": "https://archidiecezja.lodz.pl/archiwum/?id=news",
+    "size": 3161,
+    "sha256": "5468609936c254b2bdf94f8bbab4d284528d0e388a6733bfc82a2cc1ca2095c0",
+    "path": "work/s06/church/archiwum.html",
+    "links": []
+  }
+]

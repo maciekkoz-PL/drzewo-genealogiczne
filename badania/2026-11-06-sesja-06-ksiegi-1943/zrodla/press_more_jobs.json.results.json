@@ -1,0 +1,3950 @@
+[
+  {
+    "key": "press/reverse_base",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:54:23.656556+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 43233,
+    "sha256": "528643dde503dde8bf2cb2304e94fd8ec43b39c247bf21ec9ff8e0286881d9eb",
+    "path": "work/s06/press/reverse_base.html",
+    "links": [
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Publikacje grupowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ pliku",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ zasobu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Język",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpK0JvZ3VzJUM1JTgyYXclMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=%22Chmielewski+Bogus%C5%82aw%22"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Dodaj wszystkie do bibliografii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=s&id=0&idSet=62408_"
+      },
+      {
+        "text": "1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "Dziennik Łódzki. 1970-01-30 R. 26 nr 25",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=62408"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=62408"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpK0JvZ3VzJUM1JTgyYXclMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/65292/edition/62408"
+      },
+      {
+        "text": "1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Bogus%C5%82aw%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=\"Chmielewski Bogusław\""
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  },
+  {
+    "key": "press/child_two_fields",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:54:23.657430+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0",
+    "size": 275707,
+    "sha256": "e3dcd99fbbd86f9fa0b08affb7e5da80e4b341fe3ae3af8dee22c370e0dd00f3",
+    "path": "work/s06/press/child_two_fields.html",
+    "links": [
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Publikacje grupowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ pliku",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ zasobu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Język",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=Bogus%C5%82aw+AND+Chmielewski"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Dodaj wszystkie do bibliografii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=s&id=0&idSet=68871_68872_33697_68814_68026_68507_68881_65053_66532_21125_37240_70475_100386_100646_101628_70531_9336_68869_68830_85533_99978_19634_104357_81358_68804_"
+      },
+      {
+        "text": "26",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=25"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72112/edition/68871#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72112/edition/68871#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72112/edition/68871"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej Miasta Łodzi. 1982-10-30 nr 11",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72112/edition/68871"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68871"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68871"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72112/edition/68871/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72112/edition/68871"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72113/edition/68872#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72113/edition/68872#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72113/edition/68872"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej Miasta Łodzi. 1982-10-30 nr 12",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72113/edition/68872"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68872"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68872"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72113/edition/68872/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72113/edition/68872"
+      },
+      {
+        "text": "Najer Fołksbłat 1921-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/35328/edition/33697#structure"
+      },
+      {
+        "text": "Najer Fołksbłat 1921-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/35328/edition/33697#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/35328/edition/33697"
+      },
+      {
+        "text": "Najer Fołksbłat. 1929-11-29 R. 9 nr 277",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/35328/edition/33697"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=33697"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=33697"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/35328/edition/33697/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/35328/edition/33697"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72050/edition/68814#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72050/edition/68814#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72050/edition/68814"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej Miasta Łodzi. 1978-01-20 nr 1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72050/edition/68814"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68814"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68814"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72050/edition/68814/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72050/edition/68814"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71148/edition/68026#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71148/edition/68026#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71148/edition/68026"
+      },
+      {
+        "text": "Łódzki Dziennik Urzędowy. 1920-04-10 R. 2 no 110",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71148/edition/68026"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68026"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68026"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71148/edition/68026/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71148/edition/68026"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71718/edition/68507#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71718/edition/68507#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71718/edition/68507"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej m. Łodzi. 1954-12-16 nr 12",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71718/edition/68507"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68507"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68507"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71718/edition/68507/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/71718/edition/68507"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72122/edition/68881#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72122/edition/68881#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72122/edition/68881"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej Miasta Łodzi. 1983-07-20 nr 8",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72122/edition/68881"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68881"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68881"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72122/edition/68881/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72122/edition/68881"
+      },
+      {
+        "text": "Odgłosy : tygodnik łódzki 1958-1991, 1991-1992",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/68028/edition/65053#structure"
+      },
+      {
+        "text": "Odgłosy : tygodnik łódzki 1958-1991, 1991-1992",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/68028/edition/65053#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/68028/edition/65053"
+      },
+      {
+        "text": "Odgłosy. 1991-12-09 R. 1 (34) nr 29",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/68028/edition/65053"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=65053"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=65053"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/68028/edition/65053/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/68028/edition/65053"
+      },
+      {
+        "text": "Odgłosy : tygodnik łódzki 1958-1991, 1991-1992",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/69578/edition/66532#structure"
+      },
+      {
+        "text": "Odgłosy : tygodnik łódzki 1958-1991, 1991-1992",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/69578/edition/66532#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/69578/edition/66532"
+      },
+      {
+        "text": "Odgłosy : tygodnik społeczno-kulturalny. 1978-11-26 R. 21 nr 48",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/69578/edition/66532"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=66532"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=66532"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/69578/edition/66532/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/69578/edition/66532"
+      },
+      {
+        "text": "Orędownik : ilustrowane pismo narodowe i katolickie : wydanie ł[ódzkie] 1933-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/22214/edition/21125#structure"
+      },
+      {
+        "text": "Orędownik : ilustrowane pismo narodowe i katolickie : wydanie ł[ódzkie] 1933-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/22214/edition/21125#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/22214/edition/21125"
+      },
+      {
+        "text": "Orędownik : ilustrowane pismo narodowe i katolickie : wydanie ł[ódzkie]. 1936-08-18 R. 66 nr 190 bis",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/22214/edition/21125"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=21125"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=21125"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/22214/edition/21125/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/22214/edition/21125"
+      },
+      {
+        "text": "Echo 1928-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39026/edition/37240#structure"
+      },
+      {
+        "text": "Echo 1928-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39026/edition/37240#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39026/edition/37240"
+      },
+      {
+        "text": "Echo. 1934-03-05 R. 10 nr 62",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39026/edition/37240"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=37240"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=37240"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39026/edition/37240/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/39026/edition/37240"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73793/edition/70475#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73793/edition/70475#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73793/edition/70475"
+      },
+      {
+        "text": "Dziennik Urzędowy Wojewódzkiej Rady Narodowej w Łodzi. 1969-10-20 nr 8",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73793/edition/70475"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=70475"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=70475"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73793/edition/70475/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73793/edition/70475"
+      },
+      {
+        "text": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105032/edition/100386#structure"
+      },
+      {
+        "text": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105032/edition/100386#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105032/edition/100386"
+      },
+      {
+        "text": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej : TL tygodnik lokalny. 2018-05-04 R. 28 nr 18",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105032/edition/100386"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=100386"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=100386"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105032/edition/100386/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105032/edition/100386"
+      },
+      {
+        "text": "Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105299/edition/100646#structure"
+      },
+      {
+        "text": "Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105299/edition/100646#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105299/edition/100646"
+      },
+      {
+        "text": "Nowy Łowiczanin : wydanie dla Żychlina, Bedlna, Oporowa i Pacyny. 2018-05-04 R. 28 nr 18",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105299/edition/100646"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=100646"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=100646"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105299/edition/100646/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/105299/edition/100646"
+      },
+      {
+        "text": "Kronika Miasta Łodzi 1991-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/106331/edition/101628#structure"
+      },
+      {
+        "text": "Kronika Miasta Łodzi 1991-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/106331/edition/101628#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/106331/edition/101628"
+      },
+      {
+        "text": "Kronika Miasta Łodzi. 2001 nr 2",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/106331/edition/101628"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=101628"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=101628"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/106331/edition/101628/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/106331/edition/101628"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73855/edition/70531#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73855/edition/70531#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73855/edition/70531"
+      },
+      {
+        "text": "Dziennik Urzędowy Wojewódzkiej Rady Narodowej w Łodzi. 1973-12-28 nr 16",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73855/edition/70531"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=70531"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=70531"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73855/edition/70531/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/73855/edition/70531"
+      },
+      {
+        "text": "Dziennik Łódzki 1931-1933",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9982/edition/9336#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1931-1933",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9982/edition/9336#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9982/edition/9336"
+      },
+      {
+        "text": "Nowy Dziennik Łódzki. 1933-01-19 R. 3 nr 19",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9982/edition/9336"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=9336"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=9336"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9982/edition/9336/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9982/edition/9336"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72110/edition/68869#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72110/edition/68869#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72110/edition/68869"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej Miasta Łodzi. 1982-08-31 nr 9",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72110/edition/68869"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68869"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68869"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72110/edition/68869/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72110/edition/68869"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72066/edition/68830#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72066/edition/68830#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72066/edition/68830"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej Miasta Łodzi. 1979-03-31 nr 4",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72066/edition/68830"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68830"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68830"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72066/edition/68830/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72066/edition/68830"
+      },
+      {
+        "text": "Praca : pismo poświęcone sprawie robotników i inteligencji pracującej 1920-1932",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/89630/edition/85533#structure"
+      },
+      {
+        "text": "Praca : pismo poświęcone sprawie robotników i inteligencji pracującej 1920-1932",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/89630/edition/85533#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/89630/edition/85533"
+      },
+      {
+        "text": "Praca : tygodniowy organ Narodowej Partii Robotniczej Lewicy. 1932-02-07 R. 13 nr 6",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/89630/edition/85533"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=85533"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=85533"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/89630/edition/85533/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/89630/edition/85533"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104609/edition/99978#structure"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104609/edition/99978#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104609/edition/99978"
+      },
+      {
+        "text": "Express Ilustrowany. 1950-10-06 R. 5 nr 275",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104609/edition/99978"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=99978"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=99978"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104609/edition/99978/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/104609/edition/99978"
+      },
+      {
+        "text": "Życie Gromadzkie : tygodnik społeczno-gospodarczy. Kutno-Łowicz-Sochaczew 1933-1936",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/20671/edition/19634#structure"
+      },
+      {
+        "text": "Życie Gromadzkie : tygodnik społeczno-gospodarczy. Kutno-Łowicz-Sochaczew 1933-1936",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/20671/edition/19634#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/20671/edition/19634"
+      },
+      {
+        "text": "Życie Gromadzkie : tygodnik społeczno-gospodarczy. Kutno-Łowicz-Sochaczew. 1934-11-18 R. 3 no 46",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/20671/edition/19634"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=19634"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=19634"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/20671/edition/19634/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/20671/edition/19634"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109163/edition/104357#structure"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109163/edition/104357#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109163/edition/104357"
+      },
+      {
+        "text": "Express Ilustrowany. 1963-05-06 R. 8 nr 105 (1983)",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109163/edition/104357"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=104357"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=104357"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109163/edition/104357"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85258/edition/81358#structure"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85258/edition/81358#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85258/edition/81358"
+      },
+      {
+        "text": "Rozwój : dziennik polityczny, przemysłowy, ekonomiczny, społeczny i literacki, illustrowany. 1902-03-06 R. 5 no 54",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85258/edition/81358"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=81358"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=81358"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85258/edition/81358/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85258/edition/81358"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72037/edition/68804#structure"
+      },
+      {
+        "text": "Dziennik Zarządu m. Łodzi 1919-1984",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72037/edition/68804#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72037/edition/68804"
+      },
+      {
+        "text": "Dziennik Urzędowy Rady Narodowej Miasta Łodzi. 1976-11-30 nr 9",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72037/edition/68804"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68804"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68804"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72037/edition/68804/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPUJvZ3VzJUM1JTgyYXcrQU5EK0NobWllbGV3c2tpJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72037/edition/68804"
+      },
+      {
+        "text": "1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "2",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "26",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=25"
+      },
+      {
+        "text": "Następna",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=Bogus%C5%82aw+AND+Chmielewski&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=Bogusław AND Chmielewski"
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  },
+  {
+    "key": "press/father_dob",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:54:23.659631+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 293612,
+    "sha256": "1e036f75e3d897b263e88124bfc29514b3ed0198a199c0c89626ae8e8c5c0e28",
+    "path": "work/s06/press/father_dob.html",
+    "links": [
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Publikacje grupowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ pliku",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ zasobu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Język",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=%22Chmielewski%22+%221909%22"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Dodaj wszystkie do bibliografii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=s&id=0&idSet=69109_69115_68949_64169_123738_69023_64394_64378_69059_66_25500_26552_123375_52142_41508_50268_51305_25077_87775_31097_74513_26461_9247_45696_39255_"
+      },
+      {
+        "text": "19",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=18"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72363/edition/69109#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72363/edition/69109#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72363/edition/69109"
+      },
+      {
+        "text": "Łódzki Dziennik Wojewódzki. 1932-11-02 no 21",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72363/edition/69109"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=69109"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=69109"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72363/edition/69109/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72363/edition/69109"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72370/edition/69115#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72370/edition/69115#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72370/edition/69115"
+      },
+      {
+        "text": "Łódzki Dziennik Wojewódzki. 1934-02-15 no 3",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72370/edition/69115"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=69115"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=69115"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72370/edition/69115/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72370/edition/69115"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72195/edition/68949#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72195/edition/68949#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72195/edition/68949"
+      },
+      {
+        "text": "Łódzki Dziennik Wojewódzki dla obszaru województwa łódzkiego. 1950-03-16 nr 7",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72195/edition/68949"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=68949"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=68949"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72195/edition/68949/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72195/edition/68949"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67124/edition/64169#structure"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67124/edition/64169#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67124/edition/64169"
+      },
+      {
+        "text": "Neue Lodzer Zeitung. 1910-08-04 Jg 9 Nr 347 Morgen-Ausgabe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67124/edition/64169"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=64169"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=64169"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67124/edition/64169/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67124/edition/64169"
+      },
+      {
+        "text": "Freie Presse 1923-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129441/edition/123738#structure"
+      },
+      {
+        "text": "Freie Presse 1923-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129441/edition/123738#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129441/edition/123738"
+      },
+      {
+        "text": "Freie Presse. 1933-12-21 Jg. 11 Nr 352",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129441/edition/123738"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=123738"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=123738"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129441/edition/123738/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129441/edition/123738"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72274/edition/69023#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72274/edition/69023#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72274/edition/69023"
+      },
+      {
+        "text": "Łódzki Dziennik Wojewódzki. 1930-07-01 no 13",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72274/edition/69023"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=69023"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=69023"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72274/edition/69023/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72274/edition/69023"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67353/edition/64394#structure"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67353/edition/64394#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67353/edition/64394"
+      },
+      {
+        "text": "Neue Lodzer Zeitung. 1910-12-18 Jg 9 Nr 573 Morgen-Ausgabe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67353/edition/64394"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=64394"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=64394"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67353/edition/64394/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67353/edition/64394"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67337/edition/64378#structure"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67337/edition/64378#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67337/edition/64378"
+      },
+      {
+        "text": "Neue Lodzer Zeitung. 1910-12-08 Jg 9 [Nr 557] Morgen-Ausgabe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67337/edition/64378"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=64378"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=64378"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67337/edition/64378/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/67337/edition/64378"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72311/edition/69059#structure"
+      },
+      {
+        "text": "Dziennik Urzędowy Województwa Łódzkiego 1919-1975",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72311/edition/69059#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72311/edition/69059"
+      },
+      {
+        "text": "Łódzki Dziennik Wojewódzki. 1929-10-15 [R. 10] no 21",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72311/edition/69059"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=69059"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=69059"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72311/edition/69059/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/72311/edition/69059"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77/edition/66#structure"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77/edition/66#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77/edition/66"
+      },
+      {
+        "text": "Rozwój. 1909-05-11 No 58",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77/edition/66"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=66"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=66"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77/edition/66/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/77/edition/66"
+      },
+      {
+        "text": "Rocznik Towarzystwa Osad Rolnych i Przytułków Rzemieślniczych 1875-1920",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26780/edition/25500#structure"
+      },
+      {
+        "text": "Rocznik Towarzystwa Osad Rolnych i Przytułków Rzemieślniczych 1875-1920",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26780/edition/25500#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26780/edition/25500"
+      },
+      {
+        "text": "Rocznik Towarzystwa Osad Rolnych i Przytułków Rzemieślniczych za r. 1910",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26780/edition/25500"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=25500"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=25500"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26780/edition/25500/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26780/edition/25500"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27873/edition/26552#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27873/edition/26552#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27873/edition/26552"
+      },
+      {
+        "text": "Ilustrowana Republika. 1932-10-24 R. 10 nr 294",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27873/edition/26552"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=26552"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=26552"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27873/edition/26552/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27873/edition/26552"
+      },
+      {
+        "text": "Freie Presse 1923-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129069/edition/123375#structure"
+      },
+      {
+        "text": "Freie Presse 1923-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129069/edition/123375#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129069/edition/123375"
+      },
+      {
+        "text": "Freie Presse. 1933-03-19 Jg. 11 nr 78",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129069/edition/123375"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=123375"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=123375"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129069/edition/123375/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/129069/edition/123375"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54588/edition/52142"
+      },
+      {
+        "text": "25 sprawozdanie jubileuszowe Banku Ludowego w Pabianicach Spółdzielni z o.o. za okres 1902-1927",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54588/edition/52142"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=52142"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=52142"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54588/edition/52142/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54588/edition/52142"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny 1927-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43455/edition/41508#structure"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny 1927-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43455/edition/41508#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43455/edition/41508"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny. 1930-05-21 R. 4 nr 137",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43455/edition/41508"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=41508"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=41508"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43455/edition/41508/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/43455/edition/41508"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52604/edition/50268#structure"
+      },
+      {
+        "text": "Neue Lodzer Zeitung 1902-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52604/edition/50268#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52604/edition/50268"
+      },
+      {
+        "text": "Neue Lodzer Zeitung. 1912-08-16 Jg 11 Nr 370 Abend-Ausgabe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52604/edition/50268"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=50268"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=50268"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52604/edition/50268/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52604/edition/50268"
+      },
+      {
+        "text": "Kronika Piotrkowska : tygodnik poświęcony sprawom m. Piotrkowa i okolicy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53706/edition/51305#structure"
+      },
+      {
+        "text": "Kronika Piotrkowska : tygodnik poświęcony sprawom m. Piotrkowa i okolicy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53706/edition/51305#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53706/edition/51305"
+      },
+      {
+        "text": "Kronika Piotrkowska : tygodnik poświęcony sprawom m. Piotrkowa i okolicy. 1912-06-22 R. 3 no 25",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53706/edition/51305"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=51305"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=51305"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53706/edition/51305/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/53706/edition/51305"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26344/edition/25077#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26344/edition/25077#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26344/edition/25077"
+      },
+      {
+        "text": "Ilustrowana Republika. 1930-05-26 R. 8 nr 143 [właśc. 142]",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26344/edition/25077"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=25077"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=25077"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26344/edition/25077/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/26344/edition/25077"
+      },
+      {
+        "text": "Łódź Teatralna 1946/[19]47-1950",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91959/edition/87775#structure"
+      },
+      {
+        "text": "Łódź Teatralna 1946/[19]47-1950",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91959/edition/87775#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91959/edition/87775"
+      },
+      {
+        "text": "Łódź Teatralna. 1947/[19]48 R. 2 nr 3",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91959/edition/87775"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=87775"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=87775"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91959/edition/87775/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91959/edition/87775"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32612/edition/31097#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32612/edition/31097#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32612/edition/31097"
+      },
+      {
+        "text": "Ilustrowana Republika. 1937-12-09 R. 15 nr 338",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32612/edition/31097"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=31097"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=31097"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32612/edition/31097/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/32612/edition/31097"
+      },
+      {
+        "text": "Adressbuch des Deutschen Buchhandels 1912-1942, 1948-1949",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/78081/edition/74513#structure"
+      },
+      {
+        "text": "Adressbuch des Deutschen Buchhandels 1912-1942, 1948-1949",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/78081/edition/74513#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/78081/edition/74513"
+      },
+      {
+        "text": "Adressbuch des Deutschen Buchhandels. 1914, Jg 76. [Tl. 1 = Cz. 1]",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/78081/edition/74513"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=74513"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=74513"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/78081/edition/74513/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/78081/edition/74513"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27782/edition/26461#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27782/edition/26461#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27782/edition/26461"
+      },
+      {
+        "text": "Ilustrowana Republika. 1933-01-19 R. 11 nr 19",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27782/edition/26461"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=26461"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=26461"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27782/edition/26461/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/27782/edition/26461"
+      },
+      {
+        "text": "Dziennik Łódzki 1931-1933",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9889/edition/9247#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1931-1933",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9889/edition/9247#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9889/edition/9247"
+      },
+      {
+        "text": "Nowy Dziennik Łódzki. 1932-11-15 R. 2 nr 316",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9889/edition/9247"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=9247"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=9247"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9889/edition/9247/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/9889/edition/9247"
+      },
+      {
+        "text": "Express Wieczorny Ilustrowany 1923-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47823/edition/45696#structure"
+      },
+      {
+        "text": "Express Wieczorny Ilustrowany 1923-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47823/edition/45696#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47823/edition/45696"
+      },
+      {
+        "text": "Express Wieczorny Ilustrowany. 1930-06-13 R. 8 nr 163",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47823/edition/45696"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=45696"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=45696"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47823/edition/45696/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/47823/edition/45696"
+      },
+      {
+        "text": "Echo 1928-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/41139/edition/39255#structure"
+      },
+      {
+        "text": "Echo 1928-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/41139/edition/39255#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/41139/edition/39255"
+      },
+      {
+        "text": "Echo. 1932-05-02 R. 8 nr 121",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/41139/edition/39255"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=39255"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=39255"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/41139/edition/39255/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2tpJTIyKyUyMjE5MDklMjImYWN0aW9uPVNpbXBsZVNlYXJjaEFjdGlvbiZ0eXBlPS02JnA9MA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/41139/edition/39255"
+      },
+      {
+        "text": "1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "2",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "19",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=18"
+      },
+      {
+        "text": "Następna",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski%22+%221909%22&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=\"Chmielewski\" \"1909\""
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  },
+  {
+    "key": "press/mother_maiden_surname",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0",
+    "utc": "2026-11-06T05:54:26.711302+00:00",
+    "status": 200,
+    "final_url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0",
+    "size": 210258,
+    "sha256": "0617e0909273a343bfac20e2e0c4435f1e60d2ff5663bb3955cc43ebe3fe6a13",
+    "path": "work/s06/press/mother_maiden_surname.html",
+    "links": [
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Publikacje grupowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ pliku",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Typ zasobu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Język",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Przejdź do menu głównego",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0#main-menu"
+      },
+      {
+        "text": "Przejdź do wyszukiwarki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0#search-form"
+      },
+      {
+        "text": "Przejdź do treści",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0#main-content"
+      },
+      {
+        "text": "Przejdź do stopki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0#footer"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login?refUrl=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "en",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0&language=en"
+      },
+      {
+        "text": "pl",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0&language=pl"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Kontrast",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Udostępnij",
+        "url": "https://www.addtoany.com/share"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "O Bibliotece",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Kontakt",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Dostępne na miejscu",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/60"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Indeksy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Historia przeglądania",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Obiekty",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Kolekcje",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "Wyszukiwanie zaawansowane",
+        "url": "https://bc.wbp.lodz.pl/dlibra/advsearch?q=%22Chmielewska%22+%22Poprawka%22"
+      },
+      {
+        "text": "?",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=text-query-format"
+      },
+      {
+        "text": "Dodaj wszystkie do bibliografii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=s&id=0&idSet=84431_121467_95021_5987_27355_72767_1647_40957_22783_1644_80395_56608_43435_26882_56610_87152_121415_80629_81828_28711_28859_50229_107640_111027_52277_"
+      },
+      {
+        "text": "6",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=5"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "Praca : pismo poświęcone sprawie robotników i inteligencji pracującej 1920-1932",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88524/edition/84431#structure"
+      },
+      {
+        "text": "Praca : pismo poświęcone sprawie robotników i inteligencji pracującej 1920-1932",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88524/edition/84431#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88524/edition/84431"
+      },
+      {
+        "text": "Praca : pismo poświęcone sprawie robotników i inteligencji pracującej. 1920-07-02 R. 1 nr 177",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88524/edition/84431"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=84431"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=84431"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88524/edition/84431/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/88524/edition/84431"
+      },
+      {
+        "text": "Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127063/edition/121467#structure"
+      },
+      {
+        "text": "Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127063/edition/121467#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127063/edition/121467"
+      },
+      {
+        "text": "Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2022-01-05 R. 32 nr 1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127063/edition/121467"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=121467"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=121467"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127063/edition/121467/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127063/edition/121467"
+      },
+      {
+        "text": "Głos Tomaszowski : pismo Polskiej Partii Robotniczej 1947-1951",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99474/edition/95021#structure"
+      },
+      {
+        "text": "Głos Tomaszowski : pismo Polskiej Partii Robotniczej 1947-1951",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99474/edition/95021#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99474/edition/95021"
+      },
+      {
+        "text": "Głos Tomaszowski : organ WK i ŁK Polskiej Zjednoczonej Partii Robotniczej. 1949-04-30 R. 2 (5) nr 117",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99474/edition/95021"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=95021"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=95021"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99474/edition/95021/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/99474/edition/95021"
+      },
+      {
+        "text": "Tydzień 1873-1906",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/6491/edition/5987#structure"
+      },
+      {
+        "text": "Tydzień 1873-1906",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/6491/edition/5987#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/6491/edition/5987"
+      },
+      {
+        "text": "Tydzień. 1878-10-27 R. 6 Nr 17",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/6491/edition/5987"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=5987"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=5987"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/6491/edition/5987/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/6491/edition/5987"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28703/edition/27355#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28703/edition/27355#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28703/edition/27355"
+      },
+      {
+        "text": "Ilustrowana Republika. 1935-03-06 R. 13 nr 64",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28703/edition/27355"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=27355"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=27355"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28703/edition/27355/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28703/edition/27355"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/76255/edition/72767#structure"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/76255/edition/72767#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/76255/edition/72767"
+      },
+      {
+        "text": "Express Ilustrowany. 1946-11-15 R. 1 nr 299",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/76255/edition/72767"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=72767"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=72767"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/76255/edition/72767/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/76255/edition/72767"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1832/edition/1647#structure"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1832/edition/1647#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1832/edition/1647"
+      },
+      {
+        "text": "Rozwój. 1907-05-15 No 105",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1832/edition/1647"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=1647"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=1647"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1832/edition/1647/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1832/edition/1647"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny 1927-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42881/edition/40957#structure"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny 1927-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42881/edition/40957#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42881/edition/40957"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny. 1928-10-31 R. 2 nr 301",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42881/edition/40957"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=40957"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=40957"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42881/edition/40957/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/42881/edition/40957"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/23950/edition/22783#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/23950/edition/22783#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/23950/edition/22783"
+      },
+      {
+        "text": "Ilustrowana Republika. 1925-10-24 R. 1 no 87",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/23950/edition/22783"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=22783"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=22783"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/23950/edition/22783/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/23950/edition/22783"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1829/edition/1644#structure"
+      },
+      {
+        "text": "Rozwój 1897-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1829/edition/1644#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1829/edition/1644"
+      },
+      {
+        "text": "Rozwój. 1907-05-11 No 102",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1829/edition/1644"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=1644"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=1644"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1829/edition/1644/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/1829/edition/1644"
+      },
+      {
+        "text": "Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84220/edition/80395#structure"
+      },
+      {
+        "text": "Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84220/edition/80395#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84220/edition/80395"
+      },
+      {
+        "text": "Nowy Łowiczanin : wydanie dla Żychlina, Bedlna, Oporowa i Pacyny. 2014-09-04 R. 24 nr 36",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84220/edition/80395"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=80395"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=80395"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84220/edition/80395/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84220/edition/80395"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59249/edition/56608#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59249/edition/56608#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59249/edition/56608"
+      },
+      {
+        "text": "Dziennik Łódzki. 1948-08-12 R. 4 nr 221",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59249/edition/56608"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=56608"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=56608"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59249/edition/56608/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59249/edition/56608"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny 1927-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/45466/edition/43435#structure"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny 1927-1931",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/45466/edition/43435#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/45466/edition/43435"
+      },
+      {
+        "text": "Hasło Łódzkie : dziennik bezpartyjny. 1930-12-13 R. 4 nr 340",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/45466/edition/43435"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=43435"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=43435"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/45466/edition/43435/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/45466/edition/43435"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28213/edition/26882#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28213/edition/26882#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28213/edition/26882"
+      },
+      {
+        "text": "Ilustrowana Republika. 1933-11-06 R. 11 nr 309",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28213/edition/26882"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=26882"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=26882"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28213/edition/26882/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/28213/edition/26882"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59251/edition/56610#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59251/edition/56610#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59251/edition/56610"
+      },
+      {
+        "text": "Dziennik Łódzki. 1948-08-14 R. 4 nr 223",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59251/edition/56610"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=56610"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=56610"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59251/edition/56610/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59251/edition/56610"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91312/edition/87152#structure"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91312/edition/87152#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91312/edition/87152"
+      },
+      {
+        "text": "Express Ilustrowany. 1948-09-02 R. 3 nr 242",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91312/edition/87152"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=87152"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=87152"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91312/edition/87152/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/91312/edition/87152"
+      },
+      {
+        "text": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127010/edition/121415#structure"
+      },
+      {
+        "text": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127010/edition/121415#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127010/edition/121415"
+      },
+      {
+        "text": "Nowy Łowiczanin : tygodnik Ziemi Łowickiej : TL tygodnik lokalny. 2022-01-05, R. 32 nr 1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127010/edition/121415"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=121415"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=121415"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127010/edition/121415/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/127010/edition/121415"
+      },
+      {
+        "text": "Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84469/edition/80629#structure"
+      },
+      {
+        "text": "Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84469/edition/80629#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84469/edition/80629"
+      },
+      {
+        "text": "Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2014-09-04 R. 24 nr 36",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84469/edition/80629"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=80629"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=80629"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84469/edition/80629/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/84469/edition/80629"
+      },
+      {
+        "text": "Głos Robotniczy : pismo Polskiej Partii Robotniczej 1945-1990",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85753/edition/81828#structure"
+      },
+      {
+        "text": "Głos Robotniczy : pismo Polskiej Partii Robotniczej 1945-1990",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85753/edition/81828#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85753/edition/81828"
+      },
+      {
+        "text": "Głos Robotniczy : pismo Polskiej Partii Robotniczej. 1948-03-06 R. 4 nr 65",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85753/edition/81828"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=81828"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=81828"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85753/edition/81828/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/85753/edition/81828"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30123/edition/28711#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30123/edition/28711#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30123/edition/28711"
+      },
+      {
+        "text": "Ilustrowana Republika. 1937-01-16 R. 15 nr 16",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30123/edition/28711"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=28711"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=28711"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30123/edition/28711/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30123/edition/28711"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30276/edition/28859#structure"
+      },
+      {
+        "text": "Ilustrowana Republika 1925-1939",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30276/edition/28859#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30276/edition/28859"
+      },
+      {
+        "text": "Ilustrowana Republika. 1937-06-18 R. 15 nr 165",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30276/edition/28859"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=28859"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=28859"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30276/edition/28859/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/30276/edition/28859"
+      },
+      {
+        "text": "Gazeta Łódzka : organ narodowy 1912-1918",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52564/edition/50229#structure"
+      },
+      {
+        "text": "Gazeta Łódzka : organ narodowy 1912-1918",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52564/edition/50229#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52564/edition/50229"
+      },
+      {
+        "text": "Nowa Gazeta Łódzka. 1913-12-13 Nr 94",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52564/edition/50229"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=50229"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=50229"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52564/edition/50229/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/52564/edition/50229"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/112571/edition/107640#structure"
+      },
+      {
+        "text": "Express Ilustrowany 1946-1953, 1956-",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/112571/edition/107640#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/112571/edition/107640"
+      },
+      {
+        "text": "Express Ilustrowany. 1969-06-21/22 R. 25 [właśc. R. 24] nr 144 (3858)",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/112571/edition/107640"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=107640"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=107640"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/112571/edition/107640"
+      },
+      {
+        "text": "Głos Robotniczy : pismo Polskiej Partii Robotniczej 1945-1990",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/116090/edition/111027#structure"
+      },
+      {
+        "text": "Głos Robotniczy : pismo Polskiej Partii Robotniczej 1945-1990",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/116090/edition/111027#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/116090/edition/111027"
+      },
+      {
+        "text": "Głos Robotniczy : organ KW i KŁ Polskiej Zjednoczonej Partii Robotniczej. 1952-02-08 R. 8 nr 34",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/116090/edition/111027"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=111027"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=111027"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/116090/edition/111027/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/116090/edition/111027"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54728/edition/52277#structure"
+      },
+      {
+        "text": "Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54728/edition/52277#structure"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54728/edition/52277"
+      },
+      {
+        "text": "Dziennik Popularny. 1979-11-09 R. 35 nr 253",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54728/edition/52277"
+      },
+      {
+        "text": "ris",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.ris?type=e&id=52277"
+      },
+      {
+        "text": "BibTeX",
+        "url": "https://bc.wbp.lodz.pl/dlibra/dlibra.bib?type=e&id=52277"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54728/edition/52277/content?ref=aHR0cHM6Ly9iYy53YnAubG9kei5wbC9kbGlicmEvcmVzdWx0cz9xPSUyMkNobWllbGV3c2thJTIyKyUyMlBvcHJhd2thJTIyJmFjdGlvbj1TaW1wbGVTZWFyY2hBY3Rpb24mdHlwZT0tNiZwPTA"
+      },
+      {
+        "text": "",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/54728/edition/52277"
+      },
+      {
+        "text": "1",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=0"
+      },
+      {
+        "text": "2",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "6",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=5"
+      },
+      {
+        "text": "Następna",
+        "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewska%22+%22Poprawka%22&action=SimpleSearchAction&type=-6&p=1"
+      },
+      {
+        "text": "Więcej w FBC",
+        "url": "http://fbc.pionier.net.pl/search#q=\"Chmielewska\" \"Poprawka\""
+      },
+      {
+        "text": "kontakt@wbp.lodz.pl",
+        "url": "mailto:kontakt@wbp.lodz.pl"
+      },
+      {
+        "text": "https://wbp.lodz.pl/",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "",
+        "url": "http://www.facebook.com/NaszaBiblioteka"
+      },
+      {
+        "text": "Strona główna",
+        "url": "https://bc.wbp.lodz.pl"
+      },
+      {
+        "text": "Program Kultura +",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/49"
+      },
+      {
+        "text": "Materiały Regionalne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/3"
+      },
+      {
+        "text": "Książki",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/11"
+      },
+      {
+        "text": "Czasopisma",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/31"
+      },
+      {
+        "text": "Wystawy",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/2"
+      },
+      {
+        "text": "Kultura cyfrowa",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/51"
+      },
+      {
+        "text": "Muzeum w Nieborowie i Arkadii",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/52"
+      },
+      {
+        "text": "Zobacz więcej",
+        "url": "https://bc.wbp.lodz.pl/dlibra/collectiondescription/1"
+      },
+      {
+        "text": "Autor",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Creator&ipp=60&p=0"
+      },
+      {
+        "text": "Tytuł",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Title&ipp=60&p=0"
+      },
+      {
+        "text": "Współtwórca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Contributor&ipp=60&p=0"
+      },
+      {
+        "text": "Wydawca",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Publisher&ipp=60&p=0"
+      },
+      {
+        "text": "Hasło przedmiotowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=Subject&ipp=60&p=0"
+      },
+      {
+        "text": "Wykaz czasopism",
+        "url": "https://bc.wbp.lodz.pl/dlibra/indexsearch?rdfName=GroupTitle&ipp=60&p=0"
+      },
+      {
+        "text": "Aktualności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/news"
+      },
+      {
+        "text": "Informacje techniczne",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=tech-info"
+      },
+      {
+        "text": "Polityka Cookies",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=cookies"
+      },
+      {
+        "text": "Dane kontaktowe",
+        "url": "https://bc.wbp.lodz.pl/dlibra/contact"
+      },
+      {
+        "text": "Deklaracja dostępności",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=deklaracja-dostepnosci"
+      },
+      {
+        "text": "Zaloguj się",
+        "url": "https://bc.wbp.lodz.pl/dlibra/login"
+      },
+      {
+        "text": "Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi",
+        "url": "https://wbp.lodz.pl/"
+      },
+      {
+        "text": "DInGO dLibra 6.2.9",
+        "url": "http://dingo.psnc.pl"
+      },
+      {
+        "text": "Poznańskie Centrum Superkomputerowo-Sieciowe",
+        "url": "http://www.pcss.pl"
+      },
+      {
+        "text": "Więcej informacji",
+        "url": "https://bc.wbp.lodz.pl/dlibra/text?id=polityka"
+      }
+    ]
+  }
+]

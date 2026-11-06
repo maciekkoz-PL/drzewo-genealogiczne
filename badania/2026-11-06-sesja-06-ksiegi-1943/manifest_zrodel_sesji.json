@@ -1,0 +1,712 @@
+[
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/986.html",
+    "size": 989,
+    "sha256": "e5aa62a951062f95cdf010fe2250da7c34fb09c8d0ca2f6a03a055570d083454"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/986.png",
+    "size": 71853,
+    "sha256": "a5d0d7ddf5124d2c1a4196554c066a3d44eda0ca250dd6b6d3497888be3e4275"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/986.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/990.html",
+    "size": 132022,
+    "sha256": "3bb0d5fab67524405161ccd408e0a8188ed7d1a202cc76423473c3600f36c72e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/990.png",
+    "size": 91356,
+    "sha256": "f47704094f4e751813b622531b90e2e11d65c8109252271af53f7737af4be902"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/990.txt",
+    "size": 820,
+    "sha256": "de9749c2a36a3ed81f2466fadcb3d37e5c4d227d154e78be5edb29715d1a24ed"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/997.html",
+    "size": 176555,
+    "sha256": "91881ffe42c80eb7155683d27fc32df671784285cf55d8199f1c903127d868dd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/997.png",
+    "size": 167470,
+    "sha256": "3ad4cae8cb8b448a96b686c0d591f283e5226f78fecb028d09638d000e0a9cb4"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/997.txt",
+    "size": 1384,
+    "sha256": "ae7b88e5440bbee7236e2e8555cea2a34a9f48c7db67e93400dbe2e7f6b4fe68"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards/readings.json",
+    "size": 2944,
+    "sha256": "4e00ea84056a8a85d6f6895243771e67e1c11f496c86991effd5d8bb9d852836"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_cards.py",
+    "size": 1260,
+    "sha256": "fc48104f1bc0149ad4057409594e2b0c5b0ee0979eabb5742e00d4908b5be049"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/987.html",
+    "size": 185447,
+    "sha256": "50c208ca72662e148426ac18ae831d57e7c3b7afdad78c0257716b0d423b3f2a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/987.txt",
+    "size": 9466,
+    "sha256": "cd3809de22d178f2fa838e173a74f807d1165f8e5b6e6ac86b83cccd5ad58b34"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/988.html",
+    "size": 187780,
+    "sha256": "9a14d508ed35056ff14f85a7b410f79b9382916b056b072bccaec3f392182783"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/988.txt",
+    "size": 9473,
+    "sha256": "3938124bbe40f68282da37c9bfa1df8978f9d84a43716cfc1bdd6ee51f07c05b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/989.html",
+    "size": 185129,
+    "sha256": "6a6f29f68842296453d87ccc4fc58723caec8b8558c53949aeaad4c623b6b7c0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/989.txt",
+    "size": 9474,
+    "sha256": "3a407c3421398f90399503afbe36eac9036ccb659c00dc1648cda0a316fd9ce6"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/990.html",
+    "size": 185133,
+    "sha256": "c20e9ffc91820f99e8bff148b27e85b11b1fce04606580e873a093c6acaba852"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/990.txt",
+    "size": 9478,
+    "sha256": "d4b91ee556f597a9e19c3c866b630e2146e46b532d1617af598d15ac9afb47ba"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/991.html",
+    "size": 179792,
+    "sha256": "259a6f6e7bf6e580f3188612b45d8acc9c8d61c38d262748203267b01bb82ccb"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/991.txt",
+    "size": 9475,
+    "sha256": "0f525b17e727984432fbb37bda5d5edd4aad250c7b729bdcb7c80c3e8b58cd37"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges/readings.json",
+    "size": 10754,
+    "sha256": "2ebbc5f1a4ac768a3fdec74d5379e366d64a04cdeb20a4d2f5793dc8baac2dee"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_ranges.py",
+    "size": 1547,
+    "sha256": "2b8ee553c60c0693a08331dba584ba809b92c3e22ee6d448495dccff1e0aba31"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_unit_jobs.json",
+    "size": 632,
+    "sha256": "ce9bd0ef3795266b1b7608bd0aebf8a671e8595f04e514a179ecb27248694248"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_unit_jobs.json.results.json",
+    "size": 2600,
+    "sha256": "1ad404d2994f1c3a098a495976e6450d69ac0e740d8806e2a4fc2d71bf368091"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/986.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/986.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/987.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/987.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/988.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/988.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/989.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/989.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/990.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/990.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/997.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/birth_units/997.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/browser/fonds.html",
+    "size": 175511,
+    "sha256": "94387b307a1be6bf581a0dbb9c370d38ab3c5b3f5e65f77d00d7752ef41dfe96"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/browser/fonds.png",
+    "size": 325619,
+    "sha256": "83b56ee9f04fab69ca09102f7ef7674611bcc6e97b233d81c4c803a19f44c02e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/browser/fonds.txt",
+    "size": 3105,
+    "sha256": "e083d2daa1054b90822303661f5a971bd0939b4acd433fa6f3578ca131ac7e79"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/browser/requests.json",
+    "size": 41077,
+    "sha256": "97616db7330754146c40e38bd97304b714fd4b9832e8ce998bd86446930e34fe"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/browser_catalogue.py",
+    "size": 1328,
+    "sha256": "80ea8a65eca81a0ec9fc21a1bab72979b5381b2e49f7b2fbb0857a9e4bf29b74"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalog_jobs.json",
+    "size": 363,
+    "sha256": "949bd96ed74f8dc24a7c886cab43e9cd31280eb876abb8caf597327bdb19211d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalog_jobs.json.results.json",
+    "size": 1667,
+    "sha256": "a40e518bb82b487b64e2379223559b28ab8037d618104951a1a211680e34ff1f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/cyfrowe_2026_11_03.pdf",
+    "size": 1477617,
+    "sha256": "05d5b74b5fe49c029fccce45e2d7ca6800d6d31219f29333688abcefe4512d3d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/cyfrowe_2026_11_03.txt",
+    "size": 139452,
+    "sha256": "b5f556290d8393b27d2b9583ccac7a800ca1bcd03d43a091526ac3c3a5c06536"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/cyfrowe_aal.pdf",
+    "size": 531916,
+    "sha256": "de9c93cfe912a6a199ecc35aed2addc69ebd574de00f449d31e4219d1aaf66fe"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/cyfrowe_aal.txt",
+    "size": 104883,
+    "sha256": "c46608dfa34d8c9cd38dc2f9e17b2990a5d9c7b05f9feda737f3842edd0846a4"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/mikrofilmy_aal.pdf",
+    "size": 314918,
+    "sha256": "79a44a1f06657642dd0c07250063db03e32187741fcd432d8d0fdf2f5d38d0d2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/mikrofilmy_aal.txt",
+    "size": 36003,
+    "sha256": "ebaf6319a64d1d20143fd5fbddb1d042189d53419fa87647040eae61f5de6bd5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/mikrofilmy_asc.pdf",
+    "size": 738589,
+    "sha256": "ef8052af1dd9e21e0df312501241fcfb55ef13cb414c70577f85e27924942103"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogs/mikrofilmy_asc.txt",
+    "size": 118041,
+    "sha256": "997c6eb6860ccd13fc98dc0f54b8ec78620381663e2741ca02c4c368eddf12a5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogue_all.py",
+    "size": 2153,
+    "sha256": "7b8e9e886c57085b0545bdc256418f8c1cb0dbe1767300c6477d7efd9a5fe024"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/catalogue_readings.json",
+    "size": 8245,
+    "sha256": "2ae4d9225ee26ccf08cffa067f6f1ddff881c91c4e60b2bb2a736a4f8d419a84"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church/archiwum.html",
+    "size": 3161,
+    "sha256": "5468609936c254b2bdf94f8bbab4d284528d0e388a6733bfc82a2cc1ca2095c0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church/archiwum.txt",
+    "size": 472,
+    "sha256": "fbc9966cf9b4e620bf5b277bceb776b06233e7cdd85426addf707bfd33d28926"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church/ipn_wojna.html",
+    "size": 88411,
+    "sha256": "9f9d484abceb53d4dc4a4b6edf1cd7f60e06d4dfafcfd2dd292f205521c91df6"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church/ipn_wojna.txt",
+    "size": 18002,
+    "sha256": "bde68e7171db96fd91a355930aa44ff8dddee1ebbaf684e6a1fb40d420303af5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church/mikrofilm2008.html",
+    "size": 3161,
+    "sha256": "5468609936c254b2bdf94f8bbab4d284528d0e388a6733bfc82a2cc1ca2095c0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church/mikrofilm2008.txt",
+    "size": 472,
+    "sha256": "fbc9966cf9b4e620bf5b277bceb776b06233e7cdd85426addf707bfd33d28926"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church_jobs.json",
+    "size": 593,
+    "sha256": "91f0fb98a5ccf0e5923f4c046d680cb33793e8dbbd611662ba0e50f8ff93109c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/church_jobs.json.results.json",
+    "size": 92961,
+    "sha256": "41cf5c97a5d4489bf0ea38231d1bcabe031a0c0ab574d9440559d4f12afa64e8"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/downloads.json",
+    "size": 993,
+    "sha256": "c2ebce6d92da5590bd15eae11ff996e15909c49c30c423eed63f5eda02c92903"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/downloads_leads.json",
+    "size": 86715,
+    "sha256": "7fbada86b24f690bca88a7e17c84404d00b8c3096d68e50950da93755fdd79f6"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/fetch.py",
+    "size": 1294,
+    "sha256": "e6cfc9ce1a350f150e13d95bccdc12b271dcbe78930cbc618dea6c198345e08f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/akta_internet.html",
+    "size": 59989,
+    "sha256": "ce0a8b64aac7c9bd07bf6dfd722e841aff9df8fda6b947f85aec73efac83e8a4"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/akta_internet.txt",
+    "size": 4234,
+    "sha256": "1399c47bf68a100b4bc00797d0149c4e325fe9162c53f5dae141a0c0205bf83e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/ewidencja.html",
+    "size": 66885,
+    "sha256": "0343a1d354042519e7397a926cb4a40e048977f057209a60c47f4b96c54389bc"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/ewidencja.txt",
+    "size": 4613,
+    "sha256": "fe02d699ebaf35b65d33e9e94793d9a40de5611abc5cb78b3cb0f1b34911c9b9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/ewidencja_pdf.pdf",
+    "size": 131329,
+    "sha256": "a51cc276cedd603c33a254563998797e835d74c07b8d05ad2a1b116c59c25f4f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/ewidencja_pdf.txt",
+    "size": 26555,
+    "sha256": "be76bf989920d032dd9d2f5a1592690b50b4d17b58621eabb4b91487d57fda8b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/kopie_mikrofilmy.html",
+    "size": 66495,
+    "sha256": "243fafbe798ef342b7b60bf5984486ece21aa32cbbb8e7a26dfd911dd04924c2"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/kopie_mikrofilmy.txt",
+    "size": 5405,
+    "sha256": "affab41d80c00bb4ac3fd0df58ba541d46328b1eebd6c85c6f325279f0e8e96d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/rodzinne.html",
+    "size": 61985,
+    "sha256": "cdf81896d60c0f3b2bfd72df63bb2ab2ea63a05e6713e38260a71b1a1cea8e10"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides/rodzinne.txt",
+    "size": 5423,
+    "sha256": "a3e22a05e09e7277efda946b607a4869c9305b9f45400f9b43e87ce0bd0e8402"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides_jobs.json",
+    "size": 398,
+    "sha256": "146e0e2ae015bc77442807d5e02029dbdee194e20e42a597bf246a9504e8e621"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/guides_jobs.json.results.json",
+    "size": 64680,
+    "sha256": "06f3fdfeb753cd3d93cd025e96b9ef7de4f1494f4b3e9dc26a7d946e9d193f84"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/law/archiwa2020_164.html",
+    "size": 612880,
+    "sha256": "4063800b92ed2ad72477440e541b6c42601213903be95c0d81fbf675af58770b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/law/archiwa2020_164.txt",
+    "size": 184401,
+    "sha256": "3c75f6ff9671c91c0ecf5503f40c52b1a89e377b77df1183f661c3f9585a683c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/law/art16b.txt",
+    "size": 1696,
+    "sha256": "ac933e491ddfc53a9c89e8b3da2e50c942b20b2d2e31a6ccda240968d6c825e9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/law_jobs.json",
+    "size": 83,
+    "sha256": "dc5b44c877c6b9c1f773ad09ae0f0faa5fe433b457a253dcf10f88aa59760ee8"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/law_jobs.json.results.json",
+    "size": 12108,
+    "sha256": "99a696144eb2cde4111f4d2d7cad082d04b50f28218527e09aa474c72397f629"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/62408.html",
+    "size": 121412,
+    "sha256": "0b18eeba019d34d3cefdcdefc0e4f1d6208e4dce63d7e924335a74f590ce3722"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/62408.txt",
+    "size": 8186,
+    "sha256": "cb91f7e2b791d3cbcc61101815c2a91718b7bc5fe87d343b7c81101114b7dcf7"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/62408_match.png",
+    "size": 534148,
+    "sha256": "da9bbcecf9743aaba64846d1676e0d7fbe1d140b135a2972f5b85f7e8bfc17d5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/62408_pdf.pdf",
+    "size": 2997446,
+    "sha256": "f35f85403bdf34bb1add2728049b2e89e147ba44b31a0ab8b3e80889e9b2d916"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/62408_pdf.txt",
+    "size": 84902,
+    "sha256": "df4fd8a829c3eda66167ec1eab76730ef20ce6956d3c1c9711016a7434a6d9d3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/child_two_fields.html",
+    "size": 275707,
+    "sha256": "e3dcd99fbbd86f9fa0b08affb7e5da80e4b341fe3ae3af8dee22c370e0dd00f3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/child_two_fields.txt",
+    "size": 19070,
+    "sha256": "ece65d194b1885d9d2f38cb15d33aaaac4b588157c2a25c3204617e509812332"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/child_variant.html",
+    "size": 29057,
+    "sha256": "c217fa544320f26dab03b76a58b20a151118673f50f058d6cfa46ee79b414361"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/child_variant.txt",
+    "size": 1820,
+    "sha256": "cc026ea3e338b5f18a076d02d87819e7c6ca45e9f866d5927b1722ef56b947e3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/father_dob.html",
+    "size": 293612,
+    "sha256": "1e036f75e3d897b263e88124bfc29514b3ed0198a199c0c89626ae8e8c5c0e28"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/father_dob.txt",
+    "size": 18907,
+    "sha256": "e03ec3639b194bb15a105523addcc064d0a13e544cd452a51aabcc265cfb1136"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/mother_maiden_declined.html",
+    "size": 28913,
+    "sha256": "facdfc86fa959b2b4cce73aec036cdc66be703633e28fa74a5905171b12e0102"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/mother_maiden_declined.txt",
+    "size": 1814,
+    "sha256": "d6213d8ad3a1211bb4bf2bf770ed16fe1efd7522925d0d8ea9b0110cfe5f31e5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/mother_maiden_surname.html",
+    "size": 210258,
+    "sha256": "0617e0909273a343bfac20e2e0c4435f1e60d2ff5663bb3955cc43ebe3fe6a13"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/mother_maiden_surname.txt",
+    "size": 14131,
+    "sha256": "6f764dbd78b65eb81fc4985d0e1198c287b19454b661387329b788ea2de8fddd"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/mother_obituary.html",
+    "size": 29036,
+    "sha256": "f54d0c5ec6dc06e1e250367b8548946b392b4474bef8b9dc45f78cb719e38556"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/mother_obituary.txt",
+    "size": 1818,
+    "sha256": "f9b0e1a31dabf47188e8dbdceba0ee91587295f240288740efdc3dd2d7df6c7d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/reverse_base.html",
+    "size": 43233,
+    "sha256": "528643dde503dde8bf2cb2304e94fd8ec43b39c247bf21ec9ff8e0286881d9eb"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/reverse_base.txt",
+    "size": 2518,
+    "sha256": "f640a3c9ff3cee78f6ff6e3ea6c0467918dfbb9cde3337279e1685111514d446"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/reverse_child.html",
+    "size": 29114,
+    "sha256": "7f7e3ea08b1ea6049befc7c088e2a4ddfd052570e6e1bfac50ef9aca5c9e343a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press/reverse_child.txt",
+    "size": 1824,
+    "sha256": "3a2b8e2c3cc7f30b0239c264cd6c2df3bf49e3ff8badb7d4b894dda833498cb0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_doc_jobs.json",
+    "size": 82,
+    "sha256": "1c767578572c524306fe7b4df07d4ae7e4c67060d5ee11d41868bf895cd99926"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_doc_jobs.json.results.json",
+    "size": 42265,
+    "sha256": "c38f9c08ba125a6bcd63d330e82e702408e8f72c79319ea50680c1214d088ab4"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_jobs.json",
+    "size": 613,
+    "sha256": "c09eb13d142cb340f9777486d80cffb1edb84044ed30c807960b775b33cdc651"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_jobs.json.results.json",
+    "size": 45064,
+    "sha256": "0c09e52c0412849c0e097938ed4c9fe7e2b06f5720dd3a4b826e2590181d3c2f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_more_jobs.json",
+    "size": 613,
+    "sha256": "f56f67621839f5f3cb006404be0f437fb7b92a25c87e9514fe840baacdddeeb4"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_more_jobs.json.results.json",
+    "size": 149140,
+    "sha256": "bcd7cfea6e21170a234caf5afcce8281851f4edfe08bded89035ea4c4cdeca70"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_pdf_jobs.json",
+    "size": 92,
+    "sha256": "a23bcc7699cca1ecf0c6b9444c339e59394efc4c0f24d57daa500744d34f4a21"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/press_pdf_jobs.json.results.json",
+    "size": 423,
+    "sha256": "3f16872972de46c84788e0b36b0ad5047015a5530381ffd91d2b216f67ca6d92"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/srem.html",
+    "size": 170061,
+    "sha256": "453760d8eea7d531a3cc5e69f39ae6327783f4d506a038136113128825cc744a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/downloads.json",
+    "size": 1799,
+    "sha256": "ac609753af270bd16da09511521c6bc0094f3dd87cad1186cba38a7770e5cd48"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page1.html",
+    "size": 262490,
+    "sha256": "17f7b5297f1e73765197dae3ba19ea51a2a939c00a0e1f155501bcd41d16005e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page1.txt",
+    "size": 22591,
+    "sha256": "36a6b967fb22fbb1dad929a66a5daa1a779b791b74cc2f3838dc35a42211cd5e"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page2.html",
+    "size": 274285,
+    "sha256": "8764af39f17647f586a4e1becac8fbbd139c9d692d5600bdc85b935952328ff9"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page2.txt",
+    "size": 27955,
+    "sha256": "80e658e22e9821c0a9b2f43c0a21ace826bdfac90fc918f9efab951af4671c6b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page3.html",
+    "size": 269751,
+    "sha256": "cb98a0d33d2eb6d3641cfd8a7395ea2143b8363625000da25f32d3365b44047b"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page3.txt",
+    "size": 23889,
+    "sha256": "db20a61c9d100a15c9fe20398e5ee872b37c931b59018e885704846453cccbff"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page4.html",
+    "size": 272534,
+    "sha256": "f5330767e8de38e17d26a61708038fb3d5984e1e6e09e99f04a90708ea3fb557"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page4.txt",
+    "size": 26672,
+    "sha256": "2f977f1bd68d30b51c55fdc2255f0bfb847c3cd338ffed6b8c482ee9f3c48132"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page5.html",
+    "size": 264837,
+    "sha256": "086e0e42f72c9a7332cc016d6099f35f8d18b7db405463f0f6a4e14f37595e5c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page5.txt",
+    "size": 18501,
+    "sha256": "d9bad89bd1a53b908874679a4e53fae61ca16bbf488e968b5bf1f0cbaa387672"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page6.html",
+    "size": 197701,
+    "sha256": "46096b3e17c9e5bd55870e1d9507b7c97e9875341ab5b2ec9d86e602c589fd7c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/page6.txt",
+    "size": 7505,
+    "sha256": "b715696e445cb7d942402322db0425ed0d2daebe232af042f78312a38efad0b5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/units/units.json",
+    "size": 475800,
+    "sha256": "36484daa346f66105dbd2dabd1e8e1f23bb16bc7c7d4be1153b948ea69f9d19c"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/usc_units.html",
+    "size": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_archives_access.json",
+    "size": 27167,
+    "sha256": "6384fa78178c42b320c4a31fa3a482b1b00bc9cea1cf0daa4d4c3b4903a9c61a"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_birth_catalogues.json",
+    "size": 26426,
+    "sha256": "b7bc5b365c01c80625b3b6b1ddae2bf696d06dc7fb39917b50a40f8f3c85ec0f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_church.json",
+    "size": 25989,
+    "sha256": "18b6ce5b7c42f9c76b7d8edf0bb6ee8df17a6cf1405044a569d43ea589c3037d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_houses.json",
+    "size": 23555,
+    "sha256": "c9d6f1980eb740215f4b81c618f5aa33661f153796e6d9076247a18409fd3c29"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_identity.json",
+    "size": 23698,
+    "sha256": "2cd4392a6323480297b307f4f3370e7d9c9a17a451a6564f28e8ae3acc6c1af0"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_identity_files.json",
+    "size": 25502,
+    "sha256": "19323b4c0b0c85077dda4e6b80dc68a53d06538385a5eb868c7e1ad1c92193cf"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_memorials.json",
+    "size": 22836,
+    "sha256": "8ffbb5c024f5fe13d7b7fea6519d593aac6f9e3ca0c9fa9a12d710e0468859b3"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_microfilm_web.json",
+    "size": 1267,
+    "sha256": "aa62308480ec2ec0336034f7467efa97a2c065e837f9ec5348f1869d2ffe889f"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_new_units.json",
+    "size": 10571,
+    "sha256": "54468618ad72aacdd7375b7652e50e04381a57f1ae70ca86edb9aac77bf643d5"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_records_guides.json",
+    "size": 26148,
+    "sha256": "96f440ba08077e1aa780336b986caea5cb57f09b9258c52192569e9a2f6f6614"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_start.json",
+    "size": 23773,
+    "sha256": "c98b612f29e2840eb028ea31e6d0e3d667376e7eada1e048025199aecb0d03d8"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/web/s06_wartime_church.json",
+    "size": 25889,
+    "sha256": "cc356d55c6085c142c8268afcb16b8c1ec5a50de4b6782d708b1c04d4dde773d"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/witnica.pdf",
+    "size": 1278152,
+    "sha256": "f77f887caf0f176d89b8a81460813c8c858f5f97a4bfb4764c01087ed632f327"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/witnica.txt",
+    "size": 161800,
+    "sha256": "8311cb3308c4b5e338b0a53c2dff0e3c07bba5325ebf5aa92147a45db71ced59"
+  },
+  {
+    "path": "badania/2026-11-06-sesja-06-ksiegi-1943/zrodla/witnica_dob.png",
+    "size": 100298,
+    "sha256": "bce4d6128f64c7ee46edf26e94e3e668dac43089ae716e2a7c0c2016f8bdfba0"
+  }
+]
