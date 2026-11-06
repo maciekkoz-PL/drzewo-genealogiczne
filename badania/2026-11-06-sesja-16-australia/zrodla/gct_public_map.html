@@ -1,0 +1,289 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/html4/strict.dtd'>
+
+<html>
+  <head>
+    <title>Location map information</title>
+    <meta name='viewport' content='initial-scale=1.0, user-scalable=no'>
+    <meta charset='UTF-8'>
+    <!--<meta http-equiv='X-UA-Compatible' content='IE=9' />-->
+    <!--<meta http-equiv='X-UA-Compatible' content='chrome=1'>-->
+
+<link rel='stylesheet' href='css/opusximap.css' ></link>    
+<link rel='stylesheet' href='css/colorbox.css' ></link>
+<link rel='stylesheet' href='css/keyboard.css' ></link>
+<link rel='stylesheet' href='css/progressbar.css' ></link>
+<link rel='stylesheet' href='css/bootstrap.css' ></link>
+<link rel='stylesheet' href='css/map.css' ></link>
+<!-- <link rel='stylesheet' href='css/leaflet.css' integrity = 'sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==' crossorigin = '' /> -->
+<link rel='stylesheet' href='css/leaflet.css' crossorigin = '' />
+
+
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCM4QUhoYsgurQ8m7VmhoVH1vmoV9S7jFw&v=3.43&sensor=false'></script>
+<script type='text/javascript' src='script/jquery-1.9.1.min.js'></script>
+<script type='text/javascript' src='script/jquery-ui-1.10.3.min.js'></script>
+<script type='text/javascript' src='script/jquery.corner.js'></script>
+<script type='text/javascript'>
+var apikey = 'ZWU3N2NjZDctMzQ5OS00MDYzLWFjNjgtZDA1NzAwNGQzZTky';
+</script>
+<script type='text/javascript' src='script/generalIE11.js'></script>
+<script type='text/javascript' src='script/jquery.colorbox.js'></script>
+<script type='text/javascript' src='script/keyboard.js'></script>
+<script type='text/javascript' src='script/progressBarScript.js'></script>
+<script type='text/javascript' src='script/leaflet-src.js'></script>
+<script type='text/javascript' src='script/gdropdown.js'></script>
+<!--<script src='script/leaflet.js' integrity = 'sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==' crossorigin = '' />-->
+
+<!--<script type='text/javascript' src='script/Leaflet.GoogleMutant.js'></script>-->
+<!--<script src='script/Leaflet.GoogleMutant.js' />-->
+<!--<script type='text/javascript' src='script/zoomTMSLayer.js'></script>-->
+<!--<script type='text/javascript' src='script/super-zoom-map-type.js'></script>
+<script type='text/javascript' src='script/super-zoom-layer.js'></script>
+<script type='text/javascript' src='script/zoom-range-modifier-service.js'></script>-->
+
+<link rel='stylesheet' href='css/jquery-ui.css' ></link>
+
+<script type='text/vbscript'>
+        sub Print1()           
+
+            
+            OLECMDID_PRINT = 6
+
+            OLECMDEXECOPT_DONTPROMPTUSER = 2
+            OLECMDEXECOPT_PROMPTUSER = 1
+            call WB.ExecWB(OLECMDID_PRINT, OLECMDEXECOPT_DONTPROMPTUSER,1)
+
+            Msgbox "Printed Successfully"
+
+        End Sub
+
+        document.write "<object id='WB' width='0' height='0' classid='CLSID:8856F961-340A-11D0-A96B-00C04FD705A2'></object>"    
+ 
+
+    </script>
+ 
+ </head>
+  <body class='decSearch'><table align='center' id='printWholeBodyContainerTable' style='width:100%; border-spacing: 0; '><tr align='center'><td> <div align='center'
+                    style='text-align: center; position: relative; top: -1px; left: 0px; height:0px;'>                                 
+                    </div> <div id='legendCheckbox' style='height:20px;  margin-left:0px '><span id='loading'>&nbsp;&nbsp;&nbsp;&nbsp;<img alt='' style='border:0; height=15px' src='/crm/CustomPages/OrderHeader/wheel.gif'/>&nbsp;&nbsp;Loading ...&nbsp;</span>
+                </div> 
+                <!--close of lengendCheckbox div-->  
+                <div id='mapContainer' style=' text-align:left; width:850px; height:600px;  margin-left:0px ; '>
+                
+                <div id='map_element' style='float:left;width:100%;height:100%'></div>
+                <div id='legendPanel' style='float:right;width:15%;height:0%;overflow:auto'>
+                    <table>
+                    <tr><td><img src='Img/Default/currentLocation.png' /></td><td>Current Location</td></tr>
+                    <tr><td><img src='Img/Default/AvailableSale.png' /></td><td>Available for Sale</td></tr>
+                    <tr><td><img src='Img/Default/NotAvaSale.png' /></td><td>Not Available for Sale</td></tr>
+                    <tr><td><img src='Img/Default/Quoted.png' /></td><td>Quoted</td></tr>
+                    <tr><td><img src='Img/Default/Sold.png' /></td><td>Sold</td></tr>
+                    <tr><td><img src='Img/Default/ReleasePending.png' /></td><td>Release Pending</td></tr>
+                    <tr><td><img src='Img/Default/FutureRelease.png' /></td><td>Future Release</td></tr>
+                    <tr><td><img src='Img/Default/Disestablished.png' /></td><td>Disestablished</td></tr>
+                    </table>
+                </div>
+                <div id='overlayPanel' style='float:right;width:20%;height:0%;overflow:auto'>
+                    <br />
+                    <label for='opacityAmount'>&nbsp;Opacity level:</label>
+                    &nbsp;&nbsp;<input type='text' id='opacityAmount' style='border: 0; color: #1e8ad2; font-weight: bold;' />
+                    <div id='slider-opacity' style='left:5px; height: 10px; margin-right:20px'></div>
+                No overlay is found for the current cemetery</div> <!-- close of overlayPanel div--><div id='getPositionPanel' style='float:right;width:20%;height:0%;overflow:auto'>
+                    <!--<label for='opacityAmountGP'>&nbsp;Opacity level:</label>
+                    &nbsp;&nbsp;<input type='text' id='opacityAmountGP' style='border: 0; color: #1e8ad2; font-weight: bold;' />
+                    <div id='slider-opacityGP' style='left:5px; height: 10px; margin-right:20px'></div>-->
+
+                        <b>Overlay North East bound status:</b>
+                        <div id='markerStatus'><i>Click and drag any edit point of the overlay boundary.</i></div>
+                        <b>Current position:</b>
+                        <div id='info'></div>
+                        <div id='address'></div>
+                        
+                        <br />
+                        <br />
+                        <b>Overlay South West bound status:</b>
+                        <div id='markerStatus2'><i>Click and drag any edit point of the overlay boundary.</i></div>
+                        <b>Current position:</b>
+                        <div id='info2'></div>
+                        <div id='address2'></div>
+                    </div><div id='directionPanel' style='float:right;width:20%;height:0%;overflow:auto'>
+                        <b>Coming soon</b>
+                    </div><div id='poiPanel' style='background-color:white; float:right;width:25%;height:0%;overflow:auto;'>No Mapping Marker is found within the system</div></div><div class='otherDetailsTable'><table id='otherDetailsPrintMode' width='850px' style=' margin-left:0px '><tr><td style='vertical-align:top' colspan=4><table id='locationPrintEmptySpace'><tr height= 0px></tr></table>
+
+                 <table id='locationPrintContext' ><tr><td>
+
+                   <div id='locationPrintDiv'>
+                    <table id='locationPrintTable'>
+                    <tr>
+                        <td class='printInfoColumnHeader' colspan=2>
+                        <font style='font-weight:bold;'>Location Details</font>
+                        </td>
+                    </tr>
+
+                    <tr><td>
+                        <table id='splitFourcolumns'>
+                            <tr><td id='leftCol'>
+                                <table class='fulltable'><tr>
+                                    <td class='printInfoColumnName'>
+                                    Location Code: 
+                                    </td>
+                                    <td class='printInfoColumnValue'>Lawn                                                        <br>05                                                          <br>Grave 518                                                   <br>WST-LAWN-05-808-518                     </td>
+                                </tr>
+
+                                <!-- Deceased detail block  -->
+                                <tr>
+                                    <td class='printInfoColumnName'>
+                                    Deceased: 
+                                    </td>
+                                    <td class='printInfoColumnValue'>Anna Chmielewski (Ref: 172189)<br>Roman Chmielewski (Ref: 174027)<br>Ernest Chmielewski (Ref: 1045451)<br></td>
+                                </tr>
+
+                                <!-- Cemetery detail block  -->
+                                <tr>
+                                    <td class='printInfoColumnName'>
+                                    Cemetery: 
+                                    </td>
+                                    <td class='printInfoColumnValue'>Geelong Western Public Cemetery                                                                     </td>
+                                </tr><!-- Coordinates detail block  -->
+                                <tr>
+                                    <td class='printInfoColumnName'>
+                                    Co-Ordinates: 
+                                    </td>
+                                    <td class='printInfoColumnValue'><a href='javascript: window.open(&apos;http://maps.google.com/?q=-38.13490919582,144.32663979526001&apos;,&apos;_blank&apos;)'> Longitude: 144.32663979526001 Latitude: -38.13490919582</a></td>
+                                </tr></table>
+                            </td>
+                            <td id='rightCol'>
+                                <table class='fulltable'><tr>
+                                </tr></table>
+                                </td> <!-- close of rightCol -->
+                            </tr>
+                          </table> <!-- close of splitfourcol -->
+                     </td></tr></table> <!--close of locationPrintTable --> </div> <!-- //locationPrintDiv div end --></td></tr></table> <!-- //locationPrintContext table end --></td></tr>
+                    </table> <!--otherdetailsPrintMode table end--> 
+                    </div> <!--otherdetailsTable div end--><div id='availableActionformDiv'>
+<form name = 'form1' id='form1'>
+    <div id='availableActionPanel' class='availbleActionTitle' align='center'>Want to get the above details on the go?<br>
+        <div class='avaialbleActionSubTitle'>Choose a method below to receive the information.</div>
+        <table align='center' class='aTable'>
+          <tr>
+            <td align='center' valign='middle' class='availableActionBtn'>
+                <a href='javascript:showEmail()'>
+                    <img id='emailIcon'  src='../OPMapDotNet/Img/email-filled-closed-envelope_on.svg'  width='100' height='100' align='center' />
+                </a>
+            </td><td align='center' valign='middle' class='availableActionBtn'>
+                            <a href='javascript:showSMS()'>
+                                <img id='smsIcon'  src='../OPMapDotNet/Img/cellphone-sms_on.svg'  width='100' height='100' align='center' />
+                            </a>
+                            </td><td align='center' valign='middle' class='availableActionBtn'>
+                            <a href='javascript:showPrint()'>
+                                <img id='printIcon'  src='../OPMapDotNet/Img/printer-tool_on.svg'  width='100' height='100' align='center' />
+                            </a>
+                            </td> </tr>
+        </table>
+    </div>
+    <!-- close of availableActionPanel div -->
+
+
+
+
+    <div id='emailPanel'  class='sendInfoPanel'  align='center'>
+        <table align='center' class='aTable'>
+           <tr>
+                <td style=' font-weight: 200; text-align:center;' colspan='5' >Please insert your email address below
+                    <div id = 'emailInfo' class='errorMsg'>
+                    </div> 
+                </td>
+            </tr>           
+            <tr>
+                <td>
+                    <table class='aTable'><tr>
+                    <td class='sendInfoActionText'>EMAIL:</td>
+                    <td class='style1' colspan='4'>
+                        <div id ='UpdatePanel2'>
+                            <input id='txtEmail' name = 'txtEmail' type='text' class='txtStyle'></input>
+                        </div> 
+                                        
+                        <table border='0' cellpadding='0' cellspacing='0' class='emailButton' style='border-radius:3px; background-color:#6DC6DD;'>
+                          <tr>
+                            <td align='center' valign='middle' class='emailButtonContent' style=''>
+                                <a id='submitButton' href='#' class='progress-button green' data-loading='Sending Email..' data-finished='Email Sent ... Click here to send again'>Send Email</a>     
+                            </td>
+                          </tr>
+                        </table>
+                    </td>
+                    
+                    </tr>
+                    </table>
+                </td>
+            </tr> 
+        </table>
+        <table align='center' style='height:500px; width:100%'><tr></tr></table>
+    </div> <!-- close of div emailPanel -->
+
+    <div id='smsPanel' class='sendInfoPanel' align='center'>
+        <table align='center' class='aTable'>
+            <tr>
+                <td style=' font-weight: 200; text-align:center' colspan='5'>Please insert your mobile number below
+                    <div id = 'smsInfo' class='errorMsg'>
+                    </div>
+                </td>
+            </tr>           
+            <tr>
+                <td>
+                    <table class='aTable smsOffset'>
+                    <tr>
+                        <td class='sendInfoActionText'>MOBILE:</td>
+                        <td class='style1' colspan='4'>
+                            <div id ='UpdatePanel2'>
+                               <input id='txtMobile' name = 'txtMobile' type='text' class='txtStyle'></input>
+                            </div> 
+                            <table border='0' cellpadding='0' cellspacing='0' class='smsButton' style='border-radius:3px; background-color:#6DC6DD;'>
+                              <tr>
+                                <td align='center' valign='middle' class='smsButtonContent' style=''>
+                                    <a id='submitButtonSMS' href='#' class='progress-button green' data-loading='Sending SMS..' data-finished='SMS Sent'>Send SMS</a>     
+                                </td>
+                              </tr>
+                            </table>
+                         </td>
+                    </tr>
+                    <tr>
+                        <td align='center' valign='middle' style='' colspan='5'>
+                            <div id = 'smsValidation' class='errorMsg'></div>
+                        </td>
+                    </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <table align='center' style='height:500px; width:100%'><tr></tr></table> </div> <!-- close of sms Panel --></form><!--close of form --></div><!--close of form div-->
+
+    <div id='closeBtnDiv' class='closeBtn'>
+        <a id='closeBtnLink' href='javascript:Close()'><img id='btnClose' src='../OPMapDotNet/Img/left-arrow.svg'  width='50' height='50' align='center' ></img><div id='closeBtnTxt'>&nbsp;&nbsp;Back to Results</div></a>        
+    </div></body></html><script>  $('#closeBtnDiv').hide(); </script><script>  setTimeout(function(){window.onload=defaultOverlay()},500) ;</script>
+
+<!--
+Page Name: MapRender.aspx
+Author: Tommy Kwok
+Comment creation date: 2017May
+
+A page containing scripts utilising Google Map API v3 for displaying location geographical co-ordinates on a map
+Feature list
+ - display location according lat long passing from URI
+ - display overlay
+ - display Mapping Marker
+ - dispay legend
+ - allow printer friendly print mode
+ - allow full screen mode
+ - allow 'get current location' function
+ - allow marker dragging (location, POI edit mode)
+ - allow overlay bounds definition
+ - allow overlay opacity control
+ - allow POI groupping/toggle
+ 
+Including crmwizard.js so that this page can also access the CRM object for 
+- retrieving Overlay
+- retrieving Mapping Marker
+- retrieving current userId (debug mode)
+-->
+
+
+

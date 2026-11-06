@@ -1,0 +1,19 @@
+{
+  "source_commit": "3107418e9907d79245967fcd0948de825ae88fac",
+  "site_version_number": 20,
+  "html_sha256": "1700d669e56f391ca8e8e2973e4519a06b10844bb786a1f95732328cc7ba44a4",
+  "photo_sha256": "7ab4099ad10645224692010f9a0b54a3691915eb117acace644fc7e45466ae9b",
+  "photo_path": "witryna/public/assets/roman-australia-naa.jpg",
+  "imported_data_fields": {
+    "C69": [
+      "addresses",
+      "locations",
+      "photo"
+    ],
+    "C71": [
+      "addresses",
+      "locations"
+    ]
+  },
+  "note": "Zachowano zastaną aktualizację opisów pokrewieństwa, mapy i portret. Import nie potwierdza genealogicznych hipotez; źródłem zdjęcia pozostajeS183."
+}

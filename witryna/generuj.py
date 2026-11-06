@@ -5,6 +5,7 @@ from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1];HERE=Path(__file__).resolve().parent
 # Ręcznie wybrane dane publiczne i niezależne oceny relacji: wiarygodnosc.json.
 events=[
+('933932a223be34f3efc2133831922be32e3d79a1','Odnaleziono kolejne pokolenia australijskiej rodziny','Ogłoszenie Raya Chmielewskiego wymienia żonę Rose, trzy pary z kręgu dzieci i ich partnerów oraz siedmioro wnuków. Daty urodzenia Raya i jego brata Erniego są zgodne z synami emigranta; połączenie całej gałęzi z rodziną Marysi pozostaje niepotwierdzone.','ważne odkrycie'),
 ('92b5fe18e544485b56adefb222e7cf8ad6287af8','Australijski trop Romana i jego dzieci','Dokumenty migracyjne wskazują Romana Chmielewskiego (06.06.1919), żonę Annę i synów Romana (1946) oraz Ernesta (1947). Data urodzenia ojca jest zgodna z bratem Czesława, ale ich tożsamość i obecne życie potomków wymagają potwierdzenia.','ważny trop'),
 ('139877276c1abf111e9b5dae3897b4da3bb180c1','Potwierdzono przyrodnią siostrę Czesława i jej małżeństwo','Emilia Chmielewska, urodzona 26.01.1904 w Rachaniach, była córką Wincentego i jego pierwszej żony Julii z Jabłońskich. W 1932 r. poślubiła Józefa Mandziuka. Ich dzieci pozostają nieustalone.','odkrycie'),
 ('54fe3e02fad045457095647f57678653e4838b50','Potwierdzono dwie siostry Czesława','Akty urodzenia Sabiny (14.07.1917) i Julianny (09.11.1907) wskazują Wincentego Chmielewskiego i Agnieszkę z Miszczyszynów z Rogoźna — tych samych rodziców co akt Czesława. Związek sióstr z Tczewem pozostaje nieustalony.','odkrycie'),
