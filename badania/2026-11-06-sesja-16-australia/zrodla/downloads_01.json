@@ -1,0 +1,26 @@
+[
+  {
+    "key": "tuckers_past",
+    "url": "https://www.tuckers.com.au/funerals/past-funerals/",
+    "at_utc": "2026-11-06T17:15:32.011860+00:00",
+    "status": 200,
+    "bytes": 282626,
+    "sha256": "cc0f17844188774cabd4ecd4caa3872aa3499ce6dd9cae9e0e0f9e94a706b23f",
+    "path": "work/s16/tuckers_past.html"
+  },
+  {
+    "key": "ernest_notice",
+    "url": "https://www.mytributes.com.au/notice/funeral-notices/chmielewski-ernest-ernie/6259122/",
+    "at_utc": "2026-11-06T17:15:33.873586+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "company1983",
+    "url": "https://berrimadistricthistoricalsociety.org.au/data/documents/1983.pdf",
+    "at_utc": "2026-11-06T17:15:34.597450+00:00",
+    "status": 200,
+    "bytes": 40975372,
+    "sha256": "aea117b41107e0f6444308b96655b82c4a35efa4a02e2eef344a16b23e792ba4",
+    "path": "work/s16/company1983.pdf"
+  }
+]
