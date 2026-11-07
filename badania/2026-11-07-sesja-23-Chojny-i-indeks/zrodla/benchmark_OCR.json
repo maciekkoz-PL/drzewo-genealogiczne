@@ -1,0 +1,10 @@
+{
+  "at_utc": "2026-11-07T05:54:45+00:00",
+  "input": "S274,25446,obraz98; znany wpis2246/AgnieszkaChmielewska",
+  "transformation": "Wycinek(100,250,950,2400); oryginał etapu22/zrodla/III_1939_98.jpg",
+  "command": "tesseract proba_kolumny.png tesseract_psm6 --tessdata-dir /workspace/genealogy-tools/tessdata -l pol --psm 6",
+  "model_url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/65727574dfcd264acbb0c3e07860e4e9e9b22185/pol.traineddata",
+  "model_sha256": "c4476cdbc0e33d898d32345122b7be1cbf85ace15f920f06c7714756e1ef79b2",
+  "result": "NIEUDANA PRÓBA; nie odzyskano znanego imienia/nazwiska. Nie używać braku słowa jako wykluczenia strony/osoby.",
+  "external_test": "Wysyłka próbnegoPDFdoFirecrawl/GoogleStorageodrzucona przez automatycznąkontrolęzgody. Nie wysłano pliku; nie ponawiano inną drogą. Wynik zewnętrznegoHTRnie istnieje."
+}

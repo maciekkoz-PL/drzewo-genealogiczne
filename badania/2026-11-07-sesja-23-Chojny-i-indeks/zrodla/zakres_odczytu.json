@@ -1,0 +1,84 @@
+{
+  "name_columns_read": [
+    [
+      5,
+      85
+    ],
+    [
+      87,
+      196
+    ]
+  ],
+  "technical_seen": [
+    4,
+    86
+  ],
+  "full_selected": [
+    11,
+    76,
+    127,
+    130,
+    131,
+    140,
+    151,
+    170,
+    172,
+    195,
+    196
+  ],
+  "false_positive": [
+    {
+      "image": 11,
+      "entry": 159,
+      "reason": "Podejrzenie z kolumny: pełny odczyt pokazuje inne nazwisko, Kiśniewski?/Leonon? Szymon; nie Chmielewski. Nie identyfikować osoby rodzinnej."
+    }
+  ],
+  "hits": [
+    {
+      "image": 76,
+      "page": 73,
+      "entry": 1707,
+      "surname": "Poprawka",
+      "given_name": "Tadeusz",
+      "male": 2,
+      "female": 1,
+      "previous_place": "Łódź, Targowa12",
+      "notice_date": "1939-07-19",
+      "limitation": "Bez dat urodzenia i relacji; brak podstaw do połączenia zP04; nie jest to Janina."
+    },
+    {
+      "image": 172,
+      "page": 181,
+      "entry": 526,
+      "surname": "Chmielewska",
+      "given_name": "Franciszka",
+      "male": 0,
+      "female": 1,
+      "previous_place": "powiatŁask, Widawa",
+      "notice_date": "1939-07-20",
+      "limitation": "Bez wieku, nazwiska rodowego i relacji. Nie AgnieszkaC102; brak łącznika rodzinnego."
+    }
+  ],
+  "new_family_links": 0,
+  "duplicate_content_observed": [
+    [
+      38,
+      39
+    ],
+    [
+      186,
+      187
+    ]
+  ],
+  "book_order_note": "Obraz151 rozpoczyna rejestr osób przybywających do gminy czasowo; osobna numeracja od1. Obraz196/przeniesiono na stronę140. Duplikaty treści38/39 i186/187. Nie zakładać chronologiczności całego pliku.",
+  "numbering_restart_seen": [
+    151
+  ],
+  "at_utc": "2026-11-07T05:54:45+00:00",
+  "signature": "39/225/0/4/2139",
+  "unit_id": 15351999,
+  "read_method": "Wzrokowy przegląd kolumn nazwisk i wybranych pełnych wpisów; nie OCR.",
+  "limitation": "Nie pełna transkrypcja. Nazwiska5–85 i87–196; techniczne4/86. Brzegi1–3/197nieodczytane. Brak trafienia nie wyklucza osoby niewymienionej z imienia w grupie.",
+  "result": "FranciszkaChmielewska,20VII1939,zWidawy,pobytczasowy; TadeuszPoprawka,19VII1939,zTargowej12. Bez rodzinnego łącznika. AgnieszkiC102nie zidentyfikowano.",
+  "new_proven_family_relationships": 0
+}

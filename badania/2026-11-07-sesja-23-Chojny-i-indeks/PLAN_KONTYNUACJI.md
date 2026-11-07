@@ -1,0 +1,12 @@
+# Kontynuacja bez powtarzania pracy
+
+Czytać ten plan po planach etapów21/22 i kontroli gotowych indeksówS279. Aktualny priorytet: P11, brat Bogusława i ojciecPiotra. Nie wracać do Australii ani rodzeństwa dziadka bez związku ztym celem. Bez wiadomości/wniosków/opłat bez osobnego polecenia.
+
+1. **Nie powtarzać** kolumn nazwiskChojny2139:5–85i87–196. Dokładny status każdego197obrazów w`zrodla/zakres_stron.csv`.1–3/197nieodczytane;4tytuł/86puste. Wszystkie193roboczeoryginały4–196pobrano;12zachowano wGit,kolumny wZIP. Nie traktować CSV44wiersze jako pełnego indeksu.
+2. **Chojny2140**, opuszczający1939,S278: wcześniejszy zakres90–115już przejrzany bez trafienia; pełne orientacyjne60/80/90/100/115też odczytane. Manifest196obrazów w etapie22/chojny. Do nowego przeglądu pozostają5–89i116–195(orientacyjne60/80już widziane);1–4/196kontrola brzegów według pliku zakresu. Szczególnie szukaćAgnieszkiChmielewskiej i członków jej grupy przed21X1939; nie zakładać, że przybyli w1939ani że zostali osobno nazwani. Rozdzielić pobytstały/czasowy, jeśli księga ma taki podział.
+3. **Nr2246/1939**, nie1936: możliwa teczka26219,SwA36520704,S281,rok1939,grupaIII,nr1401–...;0skanów. Potrzebna kontrola górnejgranicy i faktycznego zachowania załącznika. Nie pisać, że znaleziono kartę rodzinną. S27026200/26204dotyczy530/2591/2656z1936, zachować osobno.
+4. Jeśli2140nie ustali poprzedniego adresuC102, sprawdzić katalog przybyłychChojny1937–1938i gotoweindeksy tych konkretnych jednostek. Najpierw ustalićsygnaturę/zakres, nie rozpoczynać przypadkowych roczników. Chojny2139nie ujawnił identyfikacjiAgnieszki; to nie dowód jej nieobecności.
+5. TropZarzewC10/C11: M10wysłane w odrębnej autoryzowanej sesji, czeka na odpowiedź. Nie wysyłać ponownie i nie utożsamiaćWitolda zP11bez rodziców/DOB. TropyStocka12/Grabowa20iH049–H051pozostają odrębne; wielkopolska geografia nie jest udowodnioną biografiąP03/P06.
+6. Cyfryzacja: lokalnyTesseract/psm6zpolnie zdał próby2246; nie filtruje wiarygodnie nazwisk. Zewnętrzny testFirecrawlnie wykonany — wysyłka odrzucona, pliku nie przekazano; nie ponawiać bez rozstrzygnięcia zgody. TabelaHTML/CSV/Excel działa lokalnie; nie została opublikowana zamiast rodzinnego drzewa. Nowe trafienia dopisywać zURLoryginału i zakresami.
+
+Przed następnymi zapisami sprawdzić ostatnieIDwExcelu iGit. Etap23dodajeS280–S283, pięćL279–L283, G26 i44IM001–IM044; nie dodaje osób/relacji/kandydatów/hipotez. Ostateczne liczniki wWALIDACJA.json. OryginalnyZIP i pełny wcześniejszy stan pozostają wGit.

@@ -1,0 +1,137 @@
+[
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/Chojny2139_manifest.json",
+    "bytes": 115335,
+    "sha256": "e8f445706294576e2707ad99f45a9f250f9a6189dae9727658d1ae340728fa12"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_11.jpg",
+    "bytes": 2074243,
+    "sha256": "055c6ad3f1f26aeb5ce1d7d92d844618f23281f8138ceb8a241d5bf877fba36f"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_127.jpg",
+    "bytes": 1813496,
+    "sha256": "bb6cde6cb130c25e11ed94147f8b2ffd15e4b82a6ad09511b8ec27a8cae09681"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_130.jpg",
+    "bytes": 1806008,
+    "sha256": "002cb9d89438a3b3ad1f1d9e9e5172b4a0a65ce9a36ce65351f82fd9a2de2275"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_131.jpg",
+    "bytes": 1953534,
+    "sha256": "71e9ca58b9d9a3703a7ec4a2c76f54da334d9bc4b00748928fd3f119376efe90"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_140.jpg",
+    "bytes": 2030039,
+    "sha256": "7b5eb593805d46506c02e0bf54a90bb1e52de14b30824decaef2625cd08205d9"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_151.jpg",
+    "bytes": 2069186,
+    "sha256": "64e3d3055b351b0eae9b520a4164bc65e276d5ba7cab964fefa0dff1bf5ee51a"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_170.jpg",
+    "bytes": 1929382,
+    "sha256": "d1661c7052cf069af3b09e8f0c7ac4d56980d71a3ed4000e7036727c892e4187"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_172.jpg",
+    "bytes": 2105455,
+    "sha256": "8b962dd64a4479653765321d9ea0fb698c17aa0b590d9b83d1ce5dd37586e892"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_195.jpg",
+    "bytes": 1960606,
+    "sha256": "507d714ded9e574b47ea35aefcedc48c26b052c4a0cf30c11ae969348c196c92"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_196.jpg",
+    "bytes": 2016358,
+    "sha256": "ec696b78c4e85941cdb17bf476a1f195845c2317bfa60d59bc2b61e8bdc15be3"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_4.jpg",
+    "bytes": 1633910,
+    "sha256": "94fc3b5f9db28ffdc5a3bf394f3c01a42b48c8a315d59c185519e1e3bffbac2c"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/ChojnyP1939_76.jpg",
+    "bytes": 1959961,
+    "sha256": "e7fa3d2a7b4d69dd0d08edb036cc13dfaf21a5fadd9407f1b1b10d782ce143ab"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/aneks_26219.json",
+    "bytes": 664,
+    "sha256": "bf6baa176fb99217bf3153fbaa7b0f546bbf7ec74c6bcc070ecba1964b000df1"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/benchmark_OCR.json",
+    "bytes": 879,
+    "sha256": "37df79f6c658fc259fad4eaab7b5278374a4690a847f91d8682318197a378cd1"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/indeks_wybranych_wpisow.csv",
+    "bytes": 15147,
+    "sha256": "ff4d3fcb6c5a52466c0d549b8e46d9f625f520239e890ffdb5111ace3eba9c5f"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/kolumny_Chojny2139.zip",
+    "bytes": 36664694,
+    "sha256": "b75de9c8c7b15b42eb9b0489caa94f865cf3779b0d87e251557ed38149b1bb3f"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/kolumny_manifest.json",
+    "bytes": 4737,
+    "sha256": "12e279238e9f3fcf6d6f5f63de4426c7243194db91e98cc3f0205aeabf1668d4"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/pobrane_sha256.json",
+    "bytes": 54701,
+    "sha256": "82922a35e8666ce36477f9941866f16ef9b0d7616835f56c2827bdeb1a2ba11b"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/proba_OCR_wycinek_pochodny.png",
+    "bytes": 1773093,
+    "sha256": "a79be24b12f76bdc7669aec8e432b5799b00aa08153e84988fd9de6d03fdc5ad"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/s23annex26219.json",
+    "bytes": 2012,
+    "sha256": "c8eecb66b650093b09739275009ee528df007d4abd6d43e255ec3c135b0bbe98"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/s23annexsearch2.json",
+    "bytes": 11903,
+    "sha256": "df40df3d23c133cede86f18df62ca872c65aac95951e16ad3bd2e2f7951ebb79"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/s23catalog18.json",
+    "bytes": 10074,
+    "sha256": "57a762c2802dbaa081482d621380b13ba5f91feb9919aff6c7c7e325b65b875f"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/s23catalog18tail.json",
+    "bytes": 20466,
+    "sha256": "e4b6377d36a442a0d5708bf69c69efd11ec3bc6adb1be7ccb518897387f23720"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/tesseract_psm6.txt",
+    "bytes": 129,
+    "sha256": "846be17c263407bdd52db746a829de6711f06a6a54193fd360b7c772284c508f"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/zakres_odczytu.json",
+    "bytes": 2222,
+    "sha256": "865b11ea110461d88bf425dbe715ac0a269665a362921cd4bfccf16f92055d11"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/zakres_stron.csv",
+    "bytes": 25250,
+    "sha256": "29ec094032bf9d955d5e0c7763412bad6bb5e1d0ad867ba9a195909249daf3f1"
+  }
+]
