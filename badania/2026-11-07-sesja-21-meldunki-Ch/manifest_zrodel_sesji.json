@@ -1,0 +1,292 @@
+[
+  {
+    "path": "zrodla/86615_021.jpg",
+    "bytes": 859671,
+    "sha256": "c3e5afef34b8d53d3d29cc5fe4cc8f8c9ef28947c622a0f39a11086d681bd171"
+  },
+  {
+    "path": "zrodla/86615_076.jpg",
+    "bytes": 858093,
+    "sha256": "e26ca9d00e06c8dd87226d107cc02b5227b7db0c983c43c1cab857299dc84961"
+  },
+  {
+    "path": "zrodla/86615_081.jpg",
+    "bytes": 809844,
+    "sha256": "cbdbe5c8a9fc5ac11bc8ae66ba9f7c7959cd7f991b4dc48354bf468a505e4b67"
+  },
+  {
+    "path": "zrodla/86615_134.jpg",
+    "bytes": 781248,
+    "sha256": "e7d8ec83720a74153d8d1d4c777807292e667107cfd89753ef12795b263a674a"
+  },
+  {
+    "path": "zrodla/III_1936_1937_116.jpg",
+    "bytes": 1352319,
+    "sha256": "2c044cc6340805a290fd210949a7c134d0d8d98965d429490a825d6a5d8d4646"
+  },
+  {
+    "path": "zrodla/III_1936_1937_119.jpg",
+    "bytes": 1418633,
+    "sha256": "47c6d64d35bf3ca447a406a24cbd140e48205f771758bac81b0f8f527b969b75"
+  },
+  {
+    "path": "zrodla/III_1936_1937_26.jpg",
+    "bytes": 1277493,
+    "sha256": "88e124ca7d7117f2b67abe199b3d260dd703159effb78db9ecbbb574534ab3fb"
+  },
+  {
+    "path": "zrodla/III_1936_1937_5.jpg",
+    "bytes": 1348690,
+    "sha256": "2886ac2cdb227edfe734ad9550c29ae0b26baf2ddc1e1be8ae5d0cd12c7ad991"
+  },
+  {
+    "path": "zrodla/III_1936_1937_manifest.json",
+    "bytes": 126594,
+    "sha256": "e58dcf6eaa979cd88a79511c3ca4eb9b4f9a81a42421fc133a5d052acc057147"
+  },
+  {
+    "path": "zrodla/III_1937_11.jpg",
+    "bytes": 1772214,
+    "sha256": "09415ea248073ab6177db5e7f7568774c33ba2c8792800d3edf660e759934846"
+  },
+  {
+    "path": "zrodla/III_1937_24.jpg",
+    "bytes": 1775905,
+    "sha256": "eff7c2e9d76b19fae35ec1b693244cd17766bef345b0f48fcf0a2ea17002f40d"
+  },
+  {
+    "path": "zrodla/III_1937_40.jpg",
+    "bytes": 1761177,
+    "sha256": "23d3b091d02df075764cd24170dbe1de7055125260f0c58e7c8f06b5d781809a"
+  },
+  {
+    "path": "zrodla/III_1937_43.jpg",
+    "bytes": 1757140,
+    "sha256": "2b3d36415cc68ee267c59a4ab300385e5b98a96a69b835ffbe5a50a1ee353548"
+  },
+  {
+    "path": "zrodla/III_1937_44.jpg",
+    "bytes": 1769503,
+    "sha256": "002723153d2cf5f42673a069f1e3e37f9f2c95a07313649adc3ef50da802bc35"
+  },
+  {
+    "path": "zrodla/III_1937_53.jpg",
+    "bytes": 1780230,
+    "sha256": "22ac610acefbd82d1f7f46088a37b87afe228d0ea3dfa6d23256f7bf18856701"
+  },
+  {
+    "path": "zrodla/III_1937_60.jpg",
+    "bytes": 1757926,
+    "sha256": "1b3b85112e174f87de2fc07b7ce608318f979793ee24f1c1bc9ccc0de1180858"
+  },
+  {
+    "path": "zrodla/III_1937_64.jpg",
+    "bytes": 1808102,
+    "sha256": "6a1f1f2db09b3e7a1dec9eb3c107f0b70bbd0185555ed80900f80c9ec047cd8b"
+  },
+  {
+    "path": "zrodla/III_1937_68.jpg",
+    "bytes": 1739840,
+    "sha256": "75269afca9e1d1438306a9fa349aab5f5f54bfabcff042b8d57428bb767172e8"
+  },
+  {
+    "path": "zrodla/III_1937_manifest.json",
+    "bytes": 45648,
+    "sha256": "092342a8e87f32f2b33e208c4496c8ec4efa60d67ef8e6fec6a97405fe1a1f4d"
+  },
+  {
+    "path": "zrodla/III_1938_10.jpg",
+    "bytes": 1493998,
+    "sha256": "74ab6d814ebee6983dff02003e70331028b149039730f3591b04f3342a6590ec"
+  },
+  {
+    "path": "zrodla/III_1938_105.jpg",
+    "bytes": 1415173,
+    "sha256": "fc30915a2aa88175d6f1f7a8362187fd99103a8c7f21d7b546178f4c248feac9"
+  },
+  {
+    "path": "zrodla/III_1938_110.jpg",
+    "bytes": 1515626,
+    "sha256": "a44727e1c9d7eb635c8bca0257a22c437a6ec2a3134fb65bbc8774e4aa571c49"
+  },
+  {
+    "path": "zrodla/III_1938_12.jpg",
+    "bytes": 1456624,
+    "sha256": "cade0d434883624d2fcfb784a6c69ccd2b940f1fed3fd8971bdd875ae35f5351"
+  },
+  {
+    "path": "zrodla/III_1938_123.jpg",
+    "bytes": 1431523,
+    "sha256": "4230b5f6d3df8df2b36991974b8738c238046f1f366592ec7113fa98b8d96592"
+  },
+  {
+    "path": "zrodla/III_1938_127.jpg",
+    "bytes": 1538104,
+    "sha256": "54490975a7ee82cdab145e7e822a8b547a5130563fbe6ecbe52dd0c564c44d6a"
+  },
+  {
+    "path": "zrodla/III_1938_137.jpg",
+    "bytes": 1396193,
+    "sha256": "bf0fe76120f6a072741f12aeeef84132a9f304eadbbdff9234cd9e37fe3135ce"
+  },
+  {
+    "path": "zrodla/III_1938_14.jpg",
+    "bytes": 1526472,
+    "sha256": "6bde22453bd028f17d9da495f6a832b19304fc476c304d5a371a3df5b606270d"
+  },
+  {
+    "path": "zrodla/III_1938_31.jpg",
+    "bytes": 1423406,
+    "sha256": "ff20ce33ae7c927550b693c504c0b1a61f189b853250e82dbc364f3f71f8d376"
+  },
+  {
+    "path": "zrodla/III_1938_32.jpg",
+    "bytes": 1485458,
+    "sha256": "c3dfd16eb70f93c27cd0c6da741a21fd744d3e9f9d374876f762ff8b692a3e2c"
+  },
+  {
+    "path": "zrodla/III_1938_34.jpg",
+    "bytes": 1460645,
+    "sha256": "3e06c47c4d7f98e59538d8deb5425a8a1bc78ce9c81b6e188882cf296adf5b4c"
+  },
+  {
+    "path": "zrodla/III_1938_47.jpg",
+    "bytes": 1513280,
+    "sha256": "54e6ba6cc596c1e8d8f787adbc862920c6624c4d1de371989de2c0c5afb9aa15"
+  },
+  {
+    "path": "zrodla/III_1938_60.jpg",
+    "bytes": 1515032,
+    "sha256": "bc12224cf6ece66e09a462ecc0baccdfa3a2d37fd3ee9dd2b16fefde5ede22a2"
+  },
+  {
+    "path": "zrodla/III_1938_82.jpg",
+    "bytes": 1477578,
+    "sha256": "6bb2437316a459f5c3fd89269e6050c9a11674733d8205440afc842dadcee5b9"
+  },
+  {
+    "path": "zrodla/III_1938_83.jpg",
+    "bytes": 1484525,
+    "sha256": "f04bca4cdcedc1c49687330a3e2552eab3d6b05c3c06faa97ee3142714ee6a85"
+  },
+  {
+    "path": "zrodla/III_1938_89.jpg",
+    "bytes": 1422620,
+    "sha256": "be84dab9cd5a627df218bd30929ff662bca4231368646b68b32ffbb6f4ce5224"
+  },
+  {
+    "path": "zrodla/III_1938_9.jpg",
+    "bytes": 1466195,
+    "sha256": "7f57d4e5ee8d952577bff71741158819bb9d0edbffc04dee3e1baef22f3f1ce5"
+  },
+  {
+    "path": "zrodla/III_1938_manifest.json",
+    "bytes": 85599,
+    "sha256": "5d9a0bcd2abf59eaa58cc6fb6d4434094e58702f96d6f38bbaf891525197e413"
+  },
+  {
+    "path": "zrodla/aneks_26200_26204.json",
+    "bytes": 1198,
+    "sha256": "5a276672f5bea021f331b9c4f44750088052a41ce71b2f2927c899acff183b2d"
+  },
+  {
+    "path": "zrodla/arrivals1937_manifest.json",
+    "bytes": 86586,
+    "sha256": "bb679c5da82624b25928cc30b79311873d270d4ff282d2cbac342814d59e9932"
+  },
+  {
+    "path": "zrodla/kolumny_25443.zip",
+    "bytes": 31583936,
+    "sha256": "657b9f1936c675e700f521be64dee58ee7206f2bdb2df8360a095f87b60afb39"
+  },
+  {
+    "path": "zrodla/kolumny_25444.zip",
+    "bytes": 10865400,
+    "sha256": "3d28204dff0cf9dffac8fa40a33aacbaf615b7ba6379a7100ace76b37c4ca61f"
+  },
+  {
+    "path": "zrodla/kolumny_25445.zip",
+    "bytes": 20837636,
+    "sha256": "7005a80db64ef676880f26dffe4322a14f56a3073cafb329ebe63c350974f696"
+  },
+  {
+    "path": "zrodla/kolumny_86615.zip",
+    "bytes": 34580177,
+    "sha256": "1ad66ea3b8910341d00ba14e6d65c1d101a5ad6b5a348413c5837c9c8da2f255"
+  },
+  {
+    "path": "zrodla/kolumny_86616.zip",
+    "bytes": 35253386,
+    "sha256": "7b7e2a16199841088f072265562837221ccdca85ad7478cca103ba3ae2320923"
+  },
+  {
+    "path": "zrodla/kolumny_manifest.json",
+    "bytes": 29298,
+    "sha256": "74dddae1918aff811ce29ae9cf0706350b423240307367692a2a6523ff370206"
+  },
+  {
+    "path": "zrodla/kwerendy_web_zapis.json",
+    "bytes": 813,
+    "sha256": "ed4c82556d9fdbcbb199e2a4d6b05a92d16dbe9e5a7f21f60096e59e665819b2"
+  },
+  {
+    "path": "zrodla/odczyt_roboczy.json",
+    "bytes": 762,
+    "sha256": "2229f59322f0e63694354d19366d84e7a1cdfdeea8fa2f409f8a112221e7e4b4"
+  },
+  {
+    "path": "zrodla/pobrane_SwA_sha256.json",
+    "bytes": 136997,
+    "sha256": "fba182901354f1a23e16632cd94f061979f01b99200d2ff1a8e97e9f097b26eb"
+  },
+  {
+    "path": "zrodla/ptg86615_downloads.json",
+    "bytes": 60761,
+    "sha256": "8512ca101a62a0545cb2a38f306009ecf04e74f301c3f4964a52056402c09d44"
+  },
+  {
+    "path": "zrodla/ptg86616_downloads.json",
+    "bytes": 80991,
+    "sha256": "70b6b5ad0eee36d27e3baf6af287c0531cc7079a57cefff8898df7eef1386811"
+  },
+  {
+    "path": "zrodla/tags/Chmielewska.json",
+    "bytes": 5817,
+    "sha256": "b515ee9b05041d7f9f170ea946dc7791dd4bfbc9eca54d4a964b87bf259813ac"
+  },
+  {
+    "path": "zrodla/tags/Chmielewski.json",
+    "bytes": 2382,
+    "sha256": "106a988d5c494215064a94b795f138923ee6522364f86a7111487f3747b28788"
+  },
+  {
+    "path": "zrodla/tags/Poprawka.json",
+    "bytes": 125,
+    "sha256": "e0e2b0d829abc24dff4f5d26a4c45f7bd394857c8fd057e8029b438003865c46"
+  },
+  {
+    "path": "zrodla/tags/Poprawski.json",
+    "bytes": 1223,
+    "sha256": "7eb023b5782c4bd47b5b649d3eb60c75343875b85791bcc947d242fffc491beb"
+  },
+  {
+    "path": "zrodla/trafienia_25445.csv",
+    "bytes": 1856,
+    "sha256": "628959e6c4941d63a3eb91e8f1b39ddd0236c79c7e94123bafa7f5e5a141ac9b"
+  },
+  {
+    "path": "zrodla/transkrypcja_25443.csv",
+    "bytes": 847,
+    "sha256": "275f6ef3e3a235b8bd8820bc4e15b331cae060fc39367e4d9cc6b48b1a499451"
+  },
+  {
+    "path": "zrodla/zakres_checkpoint.json",
+    "bytes": 376,
+    "sha256": "a5b23ba1ebfd421b60f0c866ab25002ce4f42ea5b988083f7065e8f690c4fde6"
+  },
+  {
+    "path": "zrodla/zakres_odczytu.json",
+    "bytes": 1396,
+    "sha256": "68a9e30fbde3b909bcc311d8a4d15cdb62c8c46969e03f58eff8d3f2c5309cc5"
+  }
+]

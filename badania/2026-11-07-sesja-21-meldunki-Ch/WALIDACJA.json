@@ -1,0 +1,83 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-07T04:21:27.020115+00:00",
+  "baseline_commit": "c5b551d",
+  "sheets": 24,
+  "counts": {
+    "RDZEN_RODZINY": 17,
+    "RODZINA_Z_RELACJI": 11,
+    "RELACJE": 59,
+    "KANDYDACI_I_HOMONIMY": 101,
+    "ZDARZENIA_I_FAKTY": 75,
+    "ZRODLA_I_SKANY": 259,
+    "KONTAKTY_URZEDOWE": 16,
+    "SZKICE_GMAIL": 9,
+    "ZADANIA_AGENTA": 57,
+    "KOREKTY_I_SPRZECZNOSCI": 99,
+    "DZIENNIK_KWEREND": 257,
+    "PLIKI_DOWODOWE": 263,
+    "START": 0,
+    "INSTRUKCJA_AGENTA": 24,
+    "POTWIERDZONE_AKTEM_1936": 6,
+    "DRZEWO_SCHEMAT": 0,
+    "RELACJE_ZRODLOWE": 18,
+    "AUDYT_PAKIETU": 0,
+    "HIPOTEZY_OTWARTE": 41,
+    "TROPY_SKOROWIDZE": 21,
+    "HIPOTEZY_ROZSTRZYGNIETE": 10,
+    "WIARYGODNOSC_OSOB": 125,
+    "WIARYGODNOSC_RELACJI": 96,
+    "DECYZJA_ROMAN_P12_C69": 0
+  },
+  "old_cells_changed": [
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "ZADANIA_AGENTA",
+      53,
+      5
+    ],
+    [
+      "ZADANIA_AGENTA",
+      53,
+      6
+    ],
+    [
+      "ZADANIA_AGENTA",
+      53,
+      8
+    ],
+    [
+      "ZADANIA_AGENTA",
+      53,
+      9
+    ],
+    [
+      "START",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      2,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      14,
+      3
+    ]
+  ],
+  "all_other_old_cells_preserved": true,
+  "original_zips_unchanged": true,
+  "public_tree_unchanged": true,
+  "parallel_tomasz_and_roman_preserved": true,
+  "new_family_relationships": 0,
+  "source_files": 58,
+  "source_bytes": 183440284,
+  "source_paths_and_new_candidate_references_valid": true,
+  "transient_credentials_excluded": true
+}

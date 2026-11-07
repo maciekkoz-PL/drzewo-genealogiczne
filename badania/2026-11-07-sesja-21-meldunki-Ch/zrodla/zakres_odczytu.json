@@ -1,0 +1,107 @@
+{
+  "at_utc": "2026-11-07T04:14:18+00:00",
+  "excel_baseline": "c5b551d",
+  "name_columns": {
+    "25436": [
+      [
+        5,
+        52
+      ]
+    ],
+    "25443": [
+      [
+        5,
+        202
+      ]
+    ],
+    "25444": [
+      [
+        5,
+        72
+      ]
+    ],
+    "25445": [
+      [
+        5,
+        137
+      ]
+    ],
+    "PTG86615": [
+      [
+        2,
+        185
+      ]
+    ],
+    "PTG86616": [
+      [
+        2,
+        247
+      ]
+    ]
+  },
+  "technical_seen": {
+    "25443": [
+      104,
+      203
+    ],
+    "25445": [
+      138
+    ],
+    "PTG86615": [
+      1,
+      186
+    ],
+    "PTG86616": [
+      135
+    ]
+  },
+  "selected_full_fields": {
+    "25436": [
+      71
+    ],
+    "25443": [
+      26,
+      116,
+      119
+    ],
+    "25444": [
+      11,
+      24,
+      40,
+      43,
+      44,
+      53,
+      60,
+      64,
+      68
+    ],
+    "25445": [
+      9,
+      10,
+      12,
+      14,
+      31,
+      32,
+      34,
+      47,
+      60,
+      82,
+      83,
+      89,
+      105,
+      110,
+      123,
+      127,
+      137
+    ],
+    "PTG86615": [
+      21,
+      76,
+      81,
+      134
+    ],
+    "PTG86616": []
+  },
+  "limitation": "Przegląd kolumn nazwisk nie jest odczytem wszystkich rubryk ani wszystkich aktów. Brak trafienia nie wyklucza rodziny. Nieodczytane obrazy poza zakresami pozostają nieodczytane.",
+  "new_proven_family_relationships": 0
+}

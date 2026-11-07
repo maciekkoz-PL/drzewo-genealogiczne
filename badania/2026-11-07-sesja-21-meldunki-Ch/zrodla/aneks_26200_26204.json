@@ -1,0 +1,37 @@
+{
+  "at_utc": "2026-11-07T04:14:18+00:00",
+  "read_level": "METADANE KATALOGU, NIE ZAWARTOŚĆ TECZEK",
+  "context": "Odczyt listy jednostek serii308541, strona45, w poprzedniej części tej samej sesji. Ponowne otwarcie bezpośrednich stron jednostek: Internal Error; nie uzyskano nowych skanów.",
+  "units": [
+    {
+      "signature": "39/221/0/4.12/26200",
+      "year": 1936,
+      "group": "H,I,J,L,Ł (III; nazwiska Ch w rejestrze)",
+      "range": [
+        501,
+        1000
+      ],
+      "entries": [
+        530
+      ],
+      "scans_in_catalog": 0,
+      "url": "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/36520475"
+    },
+    {
+      "signature": "39/221/0/4.12/26204",
+      "year": 1936,
+      "group": "H,I,J,L,Ł (III)",
+      "range": [
+        2501,
+        3100
+      ],
+      "entries": [
+        2591,
+        2656
+      ],
+      "scans_in_catalog": 0,
+      "url": "https://www.szukajwarchiwach.gov.pl/en/jednostka/-/jednostka/36520496"
+    }
+  ],
+  "limitation": "Dopasowanie rocznika, grupy i przedziału numerów wskazuje teczkę do kontroli; nie dowodzi, że konkretny załącznik się zachował lub poda rodziców. Żadnego zapytania nie wysłano."
+}
