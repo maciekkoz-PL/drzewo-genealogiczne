@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.myheritage.com/names/tomasz_chmielewski",
+        "title": "Tomasz Chmielewski Family History & Historical Records",
+        "description": "Tomasz Chmielewski, 1971 - 1992. MyHeritage Family Trees. View more. Birth. Tomasz Chmielewski was born on month day 1971. Siblings. Tomasz had 2 siblings ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.facebook.com/groups/tramsaroundtheworld/posts/1597228137771071/",
+        "title": "A scene from the Polish film \"I Don't Like Monday.\" A drunk ...",
+        "description": "I Don't Like Monday was a Polish colorful film comedy from 1971, written and directed by Tomasz Chmielewski. Może być zdjęciem ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://firmy.ai/osoba/tomasz-chmielewski-1971-10-25",
+        "title": "TOMASZ CHMIELEWSKI — zarząd i powiązania firmowe | firmy.ai",
+        "description": "firmy.ai / TOMASZ CHMIELEWSKI. TC. TOMASZ CHMIELEWSKI. osoba fizyczna Udziały WARSZAWA. 54 lata · ur. 1971 · 1 aktualne powiązanie. Zobacz pełen raport",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.filmpolski.pl/fp/index.php/1183003",
+        "title": "Tomasz Chmielewski - FilmPolski.pl",
+        "description": "1971 Jadwiga Smosarska; 2003 Henryk Machalica · więcej... PLANOWANE PREMIERY ... Tomasz Chmielewski. Filmografia. chronologicznie ↓ ↑ | wg rodzajów | wg ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/0304386X84900458",
+        "title": "The oxidation of Fe(II) in aqueous sulphuric acid under oxygen ...",
+        "description": "The oxidation of Fe(II) in aqueous sulphuric acid under oxygen pressure. Author links open overlay panel. Tomasz Chmielewski , ... (1971), pp. 93-113. (in Russian).",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://www.journalssystem.com/ppmp/Chloride-leaching-of-silver-and-lead-from-a-solid-residue-after-atmospheric-leaching-of-flotation-copper-concentrates,68626,0,2.html",
+        "title": "Chloride leaching of silver and lead from a solid residue after ...",
+        "description": "Tomasz Chmielewski 1. ,. Krzysztof Gibas 1. ,. Kamil Borowski 1. ,. Zbigniew Adamski ... NRIAGU J.O., ANDERSON G.M., 1971. Stability of the lead(II) chloride ...",
+        "position": 6,
+        "source": "web"
+      },
+      {
+        "url": "https://pl.wikipedia.org/wiki/Chmielewski",
+        "title": "Chmielewski – Wikipedia, wolna encyklopedia",
+        "description": "1971) – polityk; Jerzy Chmielewski (ur. 1948) – filolog; Jerzy Marek ... Tomasz Chmielewski (pięcioboista nowoczesny) (ur. 1983) – pięcioboista ...",
+        "position": 7,
+        "source": "web"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/283325568_Difficulties_in_separating_copper_and_lead_sulphides_by_xanthate_flotation_Negative_role_of_contact_particles_in_the_presence_of_de-pressants",
+        "title": "Difficulties in separating copper and lead sulphides by xanthate ...",
+        "description": "PDF | On Sep 24, 1996, Tomasz Chmielewski published Difficulties in separating copper and lead sulphides by xanthate flotation. Negative role of contact ...",
+        "position": 8,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "nfa-futures-org",
+        "capability": "regulatory-registry/search_individuals",
+        "description": "Find an associated person, principal or other registered individual and their NFA ID by name."
+      },
+      {
+        "provider": "themoviedb-org",
+        "capability": "films/get_person",
+        "description": "Who someone is and what they have been in or worked on."
+      },
+      {
+        "provider": "apollo",
+        "capability": "people/search",
+        "description": "Always start here. It is free and it tells you who exists before anything is spent. Never match a list of guesses: search, read the previews, then match only the people worth revealing."
+      },
+      {
+        "provider": "sos-state-co-us",
+        "capability": "entities/search",
+        "description": "Start here to find the 11-digit entity_id for `entity` and `filings`."
+      }
+    ]
+  },
+  "id": "01a1b3fc-5265-76f6-bd15-d96b706291df",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 8 web results are excerpts only (#1 \"https://www.myheritage.com/names/tomasz_chmielewski\", #2 \"https://www.facebook.com/groups/tramsaroundtheworld/posts/1597228137771071/\", #3 \"https://firmy.ai/osoba/tomasz-chmielewski-1971-10-25\" and 5 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

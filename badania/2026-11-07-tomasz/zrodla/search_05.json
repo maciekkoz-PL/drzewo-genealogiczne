@@ -1,0 +1,70 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://e-sochaczew.pl/nekrolog/andrzej-czajka-n27597",
+        "title": "Śp. Andrzej Czajka – nekrolog, pogrzeb 13 października 2025",
+        "description": "Nekrolog: śp. Andrzej Czajka, zm. 7 października 2025 r. Pogrzeb ... Tomasz Chmielewski. Godzina: 10:00 / Miejsce: Sochaczew - Matki Bożej ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.adwokatura.pl/pomoc-frankowiczom/",
+        "title": "Pomoc frankowiczom - Naczelna Rada Adwokacka - Warszawa",
+        "description": "tomasz.chmielewski@adwokat-doradca.pl. Katowice. Kościuszki 2/. 505-041-394. Chodkowski. Marcin. mchodkowski@op.pl. Kielce. Zagórska 24/32. 608-588-145.",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.facebook.com/glownobarbara/posts/cz%C4%99stochowa-14072024/907631918071096/",
+        "title": "Częstochowa 14.07.2024 - Facebook",
+        "description": "Tomasz Chmielewski and 26 others · 27. Recent posts. Głowno - Barbara. 11h · Public. ⏰ Śpimy godzinę dłużej - rano pod bramą nie dyżurujemy!",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://zyciepabianic.pl/pl/11_wiadomosci/777_pabianice-informacje/62567_kino-tomi-rozbudowuje-sie.html",
+        "title": "Kino Tomi rozbudowuje się - Wiadomości Pabianice",
+        "description": "Tomasz Chmielewski, właściciel kina, ma plany powiększenia ilości sal w najstarszym kinie pabianickim. Zamierza powiększyć gmach kina Tomi o ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://bn.org.pl/download/document/1337608054.pdf",
+        "title": "[PDF] Bibliografia zawarto±ci czasopism - Biblioteka Narodowa",
+        "description": "... Tomasz Chmielewski. - Bibliogr. // Bank i Kredyt. - Vol. 42, nr 2 (2011), dod. Stabilność Finansowa od A do Z, s. 1-20. 1. Rynek finansowy – badanie. 336. BZCz ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://e-sochaczew.pl/nekrolog/krystyna-sobczynska-n3545",
+        "title": "Śp. Krystyna Sobczyńska - Nekrolog - e-Sochaczew.pl",
+        "description": "Nekrolog: śp. Krystyna Sobczyńska, zm. 19 października 2020 r. Pogrzeb 21 ... Tomasz Chmielewski. Godzina: 10:00 / Miejsce: Sochaczew - Matki Bożej ...",
+        "position": 6,
+        "source": "web"
+      },
+      {
+        "url": "https://www.diecezja-torun.pl/glos_z_torunia/2010/510/a6f0e2cf1ffe74c98651c3a6a0d3b3c4",
+        "title": "[PDF] niedziela - Diecezja Toruńska",
+        "description": "Tomasz Chmielewski – diecezja toruńska. Jest katechetą. Od wielu lat pracuje w Szkole Nowej Ewange- lizacji Diecezji Toruńskiej. Posługuje w parafii pw. św ...",
+        "position": 7,
+        "source": "web"
+      },
+      {
+        "url": "https://powiat.poznan.pl/wp-content/uploads/2021/11/powiat_kronika_2021_www-ca%C5%82o%C5%9B%C4%87-na-www.pdf",
+        "title": "[PDF] Kronik a powia tu poznanskiego - Powiat Poznański",
+        "description": "Tomasz Chmielewski. Page 55. Kronika Powiatu Poznańskiego nr 12-2021. 54 ne powinności – wobec Boga, honoru i ojczyzny – w pojałtańskich realiach zostały ...",
+        "position": 8,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b3fc-51cf-71ed-908d-15d80325f420",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 8 web results are excerpts only (#1 \"https://e-sochaczew.pl/nekrolog/andrzej-czajka-n27597\", #2 \"https://www.adwokatura.pl/pomoc-frankowiczom/\", #3 \"https://www.facebook.com/glownobarbara/posts/cz%C4%99stochowa-14072024/907631918071096/\" and 5 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

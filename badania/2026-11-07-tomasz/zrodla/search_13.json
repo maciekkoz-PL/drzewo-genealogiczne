@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://lckm.uml.lodz.pl/procedura/KA-01121-2",
+        "title": "Udostępnianie danych osobowych z rejestru mieszkańców ...",
+        "description": "Call Center: +48 (42) 638-44-44 Ważne! ewidencji ludności (Dz. Zachodnia 47 91-066 Łódź osobiście: Wydział Spraw Obywatelskich i Komunikacji Oddział Dowodów ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.lodz.ap.gov.pl/aktualnosci/aktualnosci/Zeskanowany-spis-ludnosci-dawnej-Lodzi-jest-dostepny-w-Internecie/idn:123",
+        "title": "Zeskanowany spis ludności dawnej Łodzi jest dostępny w ...",
+        "description": "W celu zapoznania się ze zbiorami należy skorzystać z wyszukiwarki na stronie www.szukajwarchiwach.pl. Można tam zawęzić wybór do Archiwum Państwowego w Łodzi a ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zglaszanie-i-przyjmowanie-danych-niezbednych-do-zameldowania-i-16995550/roz-5",
+        "title": "Rozdział 5 - Sposób prowadzenia ewidencji ludności - ustawy",
+        "description": "Zbiór danych byłych mieszkańców w systemie kartotecznym jest prowadzony w układzie terytorialnym w formie kartoteki, w której przechowuje się indywidualne karty ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.szukajwarchiwach.gov.pl/en/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_delta=100&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&_Seria_id_serii=308541&_Seria_cur=9",
+        "title": "Wydział Ewidencji Ludności - Seria - Szukaj w Archiwach",
+        "description": "Wydział Ewidencji Ludności. Archiwum Państwowe w Łodzi Series (1) List of files (3612) Łódź, komisariat II,",
+        "position": 4,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "data-gov-ua",
+        "capability": "company-register-publications/schema",
+        "description": "To hand the downstream parser the current XSD of the legal-entity file (UO_schema.xsd: SUBJECT, RECORD, EDRPOU, NAME, FOUNDERS, BENEFICIARIES, ...) or to detect a schema change between weekly publications."
+      },
+      {
+        "provider": "data-gov-lv",
+        "capability": "company-registry/records_list",
+        "description": "Full snapshot of Latvian beneficial owners for the downstream diff; `records_get` for one company or owner."
+      },
+      {
+        "provider": "census-gov",
+        "capability": "census/popest_status",
+        "description": "Before a collection run, to learn the current vintage and whether a PEP file changed since the last run."
+      },
+      {
+        "provider": "marinecadastre-gov",
+        "capability": "vessel-traffic/records_list",
+        "description": "Collect the full current list of daily files for a year, then hand the URLs and hashes to a downloader."
+      }
+    ]
+  },
+  "id": "01a1b401-a793-72b0-b379-f60cbe21a231",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 4 web results are excerpts only (#1 \"https://lckm.uml.lodz.pl/procedura/KA-01121-2\", #2 \"https://www.lodz.ap.gov.pl/aktualnosci/aktualnosci/Zeskanowany-spis-ludnosci-dawnej-Lodzi-jest-dostepny-w-Internecie/idn:123\", #3 \"https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zglaszanie-i-przyjmowanie-danych-niezbednych-do-zameldowania-i-16995550/roz-5\" and 1 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://bc.wbp.lodz.pl/Content/7044/Dziennik%20Lodzki%201889%20czerwiec%20nr%20125a.pdf",
+        "title": "[PDF] Dziennik Lodzki 1889 czerwiec nr 125a.pdf",
+        "description": "Swing. Handel. Podpisani w Rosy na nowa pożyczaj ke konsolidowaną za gotówkę, otrzymuj. 2% podpisanej sumy. ODCINEK DZIENNIKA ŁÓDZKIEGO dzisiaj ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://bc.wbp.lodz.pl/Content/6581/Dziennik%20Lodzki%201888%20nr270a.pdf",
+        "title": "[PDF] pismo przemysłowe, \"andlowe literackie. - Regionalia Ziemi Łódzkiej",
+        "description": "Rok V. DZIENNIK ŁÓDZKI pismo przemysłowe, bandlowe i literackie. Wschód stones o gods, 7 min, 39. Zachód o godz. 2 mil. 56. Długość duia godz. min. Ubylo ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://bc.wbp.lodz.pl/dlibra/news?news=full&newsId=f0c66d59-f947-4af1-9275-c5293e83ab45",
+        "title": "Regionalia Ziemi Łódzkiej",
+        "description": "Ponadto w ramach projektu zeskanowano w firmie zewnętrznej „Dziennik Łódzki” za lata 1951-1966. Dzięki umowie licencyjnej pomiędzy wydawcą POLSKAPRESSE Sp ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://bc.wbp.lodz.pl/Content/7696/Dziennik%20Lodzki%201889%20nr%20273a.pdf",
+        "title": "[PDF] Untitled",
+        "description": "DZIENNIK ŁÓDZKI. 3 yur. Spokojnie. New-York, 2 grudais Baweins 10.25 N. Or eanie 9. TELEGRAMY GIEŁDOWE w foyer teatru wielkiego biustu 20łkow-mundur sprawalka ...",
+        "position": 4,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "wowhead-com",
+        "capability": "news/news_list",
+        "description": "Browse or page through Wowhead news beyond the RSS window, or filter by news type. Chain the returned `id` into `news_article`."
+      },
+      {
+        "provider": "wowhead-com",
+        "capability": "news/blue_tracker_news",
+        "description": "Read a Blizzard news article mirrored by Wowhead Blue Tracker. Accepts kind=news identifiers from blue_tracker. Returns full body HTML and original Blizzard source URL; source-relative posting text is preserved without inventing an absolute timestamp."
+      },
+      {
+        "provider": "wowhead-com",
+        "capability": "news/forum_topics",
+        "description": "Browse or collect community discussion on a board, then read threads with forum_topic."
+      },
+      {
+        "provider": "landefeld-de",
+        "capability": "products/search_articles",
+        "description": "Finding a concrete article from a part number or number fragment, e.g. `KH 14 B E` or `KH 14`. Also works for designation words but the full-text search (search_groups) is the better entry for those."
+      },
+      {
+        "provider": "mediaexpert-pl",
+        "capability": "products/product",
+        "description": "Price, availability and specs for a mediaexpert.pl product URL, pasted or taken from `category` items."
+      }
+    ]
+  },
+  "id": "01a1b401-a7df-762e-8b3f-783671c31c76",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 4 web results are excerpts only (#1 \"https://bc.wbp.lodz.pl/Content/7044/Dziennik%20Lodzki%201889%20czerwiec%20nr%20125a.pdf\", #2 \"https://bc.wbp.lodz.pl/Content/6581/Dziennik%20Lodzki%201888%20nr270a.pdf\", #3 \"https://bc.wbp.lodz.pl/dlibra/news?news=full&newsId=f0c66d59-f947-4af1-9275-c5293e83ab45\" and 1 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

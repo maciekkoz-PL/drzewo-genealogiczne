@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://katalog.pbp.sieradz.pl/index.php?KatID=3&typ=repl&plnk=q__*&fsubject=Ruszkowska+Irena",
+        "title": "SOWA OPAC : Powiatowa Biblioteka Publiczna w Sieradzu Szkatuła ...",
+        "description": "// Dziennik Łódzki - Wiadomości Dnia. - 2001, nr 87, s. 5. Autor. Bilska-Smuś Bożena. Temat. Ruszkowska Irena Szkoła Podstawowa Nr 4, Sieradz Sieradz Rada ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://czasopisma.uni.lodz.pl/polonica/issue/download/873/409",
+        "title": "[PDF] Untitled - Journals University of Lodz",
+        "description": "„Dziennik Łódzki” to największa gazeta regionu i jedna z najstarszych w Pol- ... 4. 40 „Wiadomości – 43 bis” 2001, nr 298/299, s. 4. 41 Wynikało to zapewne z ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.mbp.skierniewice.pl/zbiory/czasopisma",
+        "title": "Czasopisma - MBP | Skierniewice",
+        "description": "Zbiory ; Dialog. 1983 -1990, 1995 – 2001. MBP ; Dziennik. Gazeta Prawna. 2008 -. MBP ; Dziennik Łódzki. 1996 - ; Dziennik Skierniewicki. 1994 – 1996, IV-VI 1997.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://bibliotekanauki.pl/books/63514024",
+        "title": "Andrzej Jocz (1941–2019) – ocalić od zapomnienia… — Library of ...",
+        "description": "(MP), Przeprowadzić dziurawca, „Dziennik Łódzki. Wiadomości Dnia” 18.06.2001, nr 140. (PAP), Andrzej Jocz o swojej twórczości, „Życie Warszawy” 18.04.1978 ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://katalogi.uj.edu.pl/discovery/fulldisplay/alma991016824920705067/48OMNIS_UJA:uja",
+        "title": "Piotrków 7 Dni : tygodnik regionu piotrkowskiego - Uniwersytet ...",
+        "description": "... BIBLIOTEKA ... Od 2000, nr 39 ukazuje się jako dodatek do: Dziennik Łódzki - Wiadomości Dnia. ... 10 [i.e. 11], nr 1 (2001) drugi podtytuł: Piotrków, Sulejów, ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "mediaexpert-pl",
+        "capability": "products/product",
+        "description": "Price, availability and specs for a mediaexpert.pl product URL, pasted or taken from `category` items."
+      },
+      {
+        "provider": "data-gov-ua",
+        "capability": "company-register-publications/schema",
+        "description": "To hand the downstream parser the current XSD of the legal-entity file (UO_schema.xsd: SUBJECT, RECORD, EDRPOU, NAME, FOUNDERS, BENEFICIARIES, ...) or to detect a schema change between weekly publications."
+      },
+      {
+        "provider": "letterboxd-com",
+        "capability": "films/browse_films",
+        "description": "Discover films and collect many average ratings without a fixed URL list. `page` continues where the previous call stopped (`next_page`). Only the popular sort is supported."
+      },
+      {
+        "provider": "letterboxd-com",
+        "capability": "films/lists",
+        "description": "Which curated lists a film appears in: pass `film` (slug, Letterboxd URL or boxd.it link), `tmdb_id` or `imdb_id`, pick a `sort` and page through with `page`."
+      },
+      {
+        "provider": "landefeld-de",
+        "capability": "products/list_group_articles",
+        "description": "Listing or filtering the variants of a group id from search_groups, browse_catalog or get_article (e.g. `KH14BE`), e.g. all ball valves of this series with thread `Rp 1/2\"`."
+      }
+    ]
+  },
+  "id": "01a1b400-df88-7446-94ee-182effd92491",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://katalog.pbp.sieradz.pl/index.php?KatID=3&typ=repl&plnk=q__*&fsubject=Ruszkowska+Irena\", #2 \"https://czasopisma.uni.lodz.pl/polonica/issue/download/873/409\", #3 \"https://www.mbp.skierniewice.pl/zbiory/czasopisma\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

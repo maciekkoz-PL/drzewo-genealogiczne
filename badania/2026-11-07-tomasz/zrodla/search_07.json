@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.facebook.com/tomasz.chmielewski.142/",
+        "title": "Tomasz Chmielewski (@tomasz.chmielewski.142) - Facebook",
+        "description": "Tomasz Chmielewski. 4997 followers. Łódzka Kolej Aglomeracyjna · Wsinf Łódź. Personal details 10 months Work Wsinf Łódź w Żychlinie Education Photos",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.instagram.com/tomasz_chmielewski_netia/",
+        "title": "Tomasz Chmielewski (@tomasz_chmielewski_netia) - Instagram",
+        "description": "Tomasz Chmielewski. 159 followers · 2 posts. Follow. Message. Nasze MEGA dopakowane pakiety Więcej u doradcy zapraszam ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://uk.linkedin.com/in/tomasz-chmielewski-a9a83b137",
+        "title": "Tomasz Chmielewski - -- | LinkedIn",
+        "description": "Experience: Pizza Hut UK & Europe · Location: Falkirk · 61 connections on LinkedIn. View Tomasz Chmielewski's profile on LinkedIn, a professional community ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.researchgate.net/profile/Tomasz-Chmielewski-5",
+        "title": "Tomasz CHMIELEWSKI | Research profile - ResearchGate",
+        "description": "Tomasz CHMIELEWSKI. Skills and Expertise World History Cultural Studies History of Technology Publications Publications. Kowalski Łukasz Kowalski",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://soundcloud.com/tomasz-chmielewski-83665371",
+        "title": "Tomasz Chmielewski - SoundCloud",
+        "description": "Play Tomasz Chmielewski on SoundCloud and discover followers on SoundCloud | Stream tracks, albums, playlists on desktop and mobile.",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b3ff-54a8-7273-ab87-43d797577f9a",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://www.facebook.com/tomasz.chmielewski.142/\", #2 \"https://www.instagram.com/tomasz_chmielewski_netia/\", #3 \"https://uk.linkedin.com/in/tomasz-chmielewski-a9a83b137\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

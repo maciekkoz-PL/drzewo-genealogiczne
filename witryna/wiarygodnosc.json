@@ -413,13 +413,14 @@
       "id": "P09",
       "name": "Tomasz Chmielewski",
       "role": "Przyrodni brat Marysi",
-      "dates": "Zm. 26.04.2001† · 30 lat",
-      "place": "Stara Gadka · miejsce pochówku według rodziny",
-      "note": "Imię, nazwisko, dzień 26 IV i wiek odczytano z rodzinnych fotografii nagrobka. †Rok 2001 oraz relacja ojciec–syn z Bogusławem pochodzą z przekazu rodzinnego; rok na zdjęciu jest częściowo zasłonięty. Nie znamy dokładnej daty urodzenia. Według najnowszego rodzinnego wspomnienia raczej nie miał żony ani dzieci, ale nie ma co do tego pewności.",
+      "dates": "Ur. 1970–1971† · zm. 26.04.2001† · 30 lat",
+      "place": "Łódź · Stara Gadka — miejsce pochówku",
+      "note": "Przyrodni brat Marysi, syn Bogusława według przekazu rodzinnego. Mieszkał w Łodzi. Użytkownik potwierdził datę śmierci 26.04.2001 i wiek 30 lat (REL-018); imię, nazwisko, dzień 26 IV i wiek są zgodne z wcześniejszym odczytem fotografii nagrobka S027. †Rok 2001 pochodzi z przekazu, na zdjęciu jest częściowo zasłonięty. Jeśli miał ukończone 30 lat, urodził się między 27.04.1970 a 26.04.1971 — to wyliczenie, nie dokładna data z aktu. Matka, miejsce urodzenia i miejsce zgonu nieustalone. Według rodziny raczej nie miał żony ani dzieci, ale nie ma pewności (REL-015).",
       "source": [
         "S027",
         "REL",
-        "REL-015"
+        "REL-015",
+        "REL-018"
       ],
       "x": 1360,
       "y": 800,
@@ -434,7 +435,11 @@
       "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
       "locations": [
         {
-          "label": "Stara Gadka · miejsce pochówku",
+          "label": "Łódź",
+          "query": "Łódź, Polska"
+        },
+        {
+          "label": "Stara Gadka",
           "query": "51.67956,19.47182"
         }
       ],
@@ -2864,6 +2869,11 @@
       "title": "Geelong Western — Roman, Anna Theresia i Ernest, grób Lawn 05 / 518",
       "url": "https://gct.net.au/family-history-search/",
       "description": "W formularzu wyszukaj nazwisko Chmielewski. Ernest ma daty 20.11.1947–27.11.2024; Roman i Anna nie mają pełnych dat urodzenia. Wspólny grób sam nie dowodzi pokrewieństwa."
+    },
+    "REL-018": {
+      "title": "Przekaz rodzinny o Tomaszu — 07.11.2026",
+      "description": "Tomasz mieszkał w Łodzi; zmarł 26.04.2001 w wieku 30 lat. Data urodzenia wyliczona warunkowo, brak odczytanego aktu zgonu.",
+      "url": null
     }
   },
   "relations": [

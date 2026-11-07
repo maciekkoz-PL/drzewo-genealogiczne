@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.myheritage.com/names/tomasz_chmielewski",
+        "title": "Tomasz Chmielewski Family History & Historical Records",
+        "description": "Tomasz Chmielewski was born on February 24 1970. Death. Tomasz passed away on June 9 1975, at age 5 in Cmentarz Parafialny, Włoszczowa, ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://firmy.ai/osoba/krzysztof-tomasz-chmielewski-1970-12-15",
+        "title": "KRZYSZTOF TOMASZ CHMIELEWSKI — zarząd i powiązania ...",
+        "description": "KRZYSZTOF TOMASZ CHMIELEWSKI. osoba fizyczna Zarząd Udziały PNIEWO. 55 lat · ur. 1970 · 3 aktualne powiązania · 1 wcześniejsze. Zobacz pełen raport. Obserwuj",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10722512/",
+        "title": "Epitope Mapping of BmpA and BBK32 Borrelia burgdorferi ...",
+        "description": "†, Tomasz Chmielewski. Tomasz Chmielewski. §Department of Parasitology and ... Immunochemistry 1970, 7 (11), 917–932. 10.1016/0019-2791(70)90053-4. [DOI] ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/0304-386X(85)90054-4",
+        "title": "The effect of contact of copper sulphide grains on the initial rate of ...",
+        "description": "Tomasz Chmielewski , Janusz Lekki. Show more ... (1970), p. 3083. Crossref View in Scopus. 20. J.E. Dutrizac, R.J.C. MacDonald, T. Ingraham. Met. Trans., 1 (1970) ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/387179899_14C-based_absolute_chronology_of_the_Malice_culture_reassessed",
+        "title": "14C-based absolute chronology of the Malice culture reassessed",
+        "description": "... (1970), two phases were distinguished, the rst of which was ... Tomasz Chmielewski. This annex presents a reviewed ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://pl.wikipedia.org/wiki/Chmielewski",
+        "title": "Chmielewski – Wikipedia, wolna encyklopedia",
+        "description": "Tadeusz Chmielewski (aktor) (1892–1970) – polski aktor i reżyser; Tadeusz ... Tomasz Chmielewski (pięcioboista nowoczesny) (ur. 1983) – pięcioboista ...",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "particle",
+        "capability": "people/profile",
+        "description": "Use to go from a name on an episode to the person: who they are, where they work and worked, and their profile links. For their podcast appearances use people/guest."
+      },
+      {
+        "provider": "themoviedb-org",
+        "capability": "films/get_person",
+        "description": "Who someone is and what they have been in or worked on."
+      },
+      {
+        "provider": "leadocean",
+        "capability": "people/search",
+        "description": "Search people by title, seniority, location, employer, or email and phone flags. Each returned person costs 10 credits. An empty page costs nothing. limit is 1 to 10, and omitting it requests 1, so a page stays within 100 credits. count true with limit 1, or with limit omitted, quotes 0 credits and returns meta.total with an empty data array. Search rows carry has_email and has_phone, not the addresses. Use people/enrich for one full profile, or contact/work-email for the current work address."
+      }
+    ]
+  },
+  "id": "01a1b3fc-087c-71c9-95f6-7cdffdf0b363",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://www.myheritage.com/names/tomasz_chmielewski\", #2 \"https://firmy.ai/osoba/krzysztof-tomasz-chmielewski-1970-12-15\", #3 \"https://pmc.ncbi.nlm.nih.gov/articles/PMC10722512/\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

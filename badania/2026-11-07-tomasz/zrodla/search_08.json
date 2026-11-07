@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/59786/edition/57126?language=pl",
+        "title": "Regionalia Ziemi Łódzkiej",
+        "description": "Dziennik Łódzki. Biblioteka Cyfrowa Regionalia Ziemi Łódzkiej przy Wojewódzkiej Bibliotece Publicznej w Łodzi ul. +48 42 663 03 36 E-Mail kontakt@wbp.lodz.pl",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://dzienniklodzki.pl/dziennik-lodzki-z-lat-19451990-dostepny-w-internecie-wszystko-dzieki-bibliotece-pilsudskiego/ar/3878373",
+        "title": "\"Dziennik Łódzki\" z lat 1945-1990 dostępny w internecie ...",
+        "description": "Dzięki Wojewódzkiej Bibliotece Publicznej każdy użytkownik internetu może przeglądać wydania \"Dziennika Łódzkiego\" z lat 1945-1990.",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.regionkultury.pl/aktualnosci-a3/dziennik-lodzki-zdigitalizowany-r2439",
+        "title": "Dziennik Łódzki zdigitalizowany! Region Kultury",
+        "description": "Dzięki zastosowanemu oprogramowaniu możliwe jest przeszukiwanie zbiorów BIblioteki Cyfrowej po słowach i wyrażeniach zdigitalizowanych tekstów. Dziennik Łódzki ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://katalogi.bn.org.pl/discovery/fulldisplay?vid=48OMNIS_NLOP%3A48OMNIS_NLOP&docid=alma9914446997905606&context=L",
+        "title": "Dziennik Łódzki / kom. red. - Biblioteka Narodowa (Polska)",
+        "description": "Współwyd. dod. do: 1969-1974 Łódzki Informator Kulturalny; R. 1, nr 1 (6 V 1973)-nr 4 (1974) Dziennik Harcerski : miesięczny Chorągwi Łódzkiej ZHP i \"D.Ł\"; ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://pbc.gda.pl/dlibra/publication/56934/dziennik-baltycki",
+        "title": "Dziennik Bałtycki - Pomorska Biblioteka Cyfrowa",
+        "description": "Pomorska Biblioteka Cyfrowa stawia sobie za cel udostępnienie Państwu: pełnych tekstów zasobów piśmienniczych instytucji partnerskich, w tym do zbiorów ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "raws-dri-edu",
+        "capability": "weather-history/daily",
+        "description": "Daily humidity, wind, gusts, solar, fuel temperature and RAWS precipitation for a station and month (daily temperature alone is also in rcc-acis-org as GHCN `USR0000<STN>`)."
+      },
+      {
+        "provider": "raws-dri-edu",
+        "capability": "weather-history/catalog_audit",
+        "description": "On a schedule, to learn that the archive moved stations before a state listing silently misses them; when it reports drift, list affected states with `stations` and `pages: all` until the table is updated."
+      },
+      {
+        "provider": "marinecadastre-gov",
+        "capability": "vessel-traffic/records_list",
+        "description": "Collect the full current list of daily files for a year, then hand the URLs and hashes to a downloader."
+      },
+      {
+        "provider": "raws-dri-edu",
+        "capability": "weather-history/stations",
+        "description": "The full current station list of a state with codes; feed `station_code` into `station`, `daily` and `wind_rose`."
+      },
+      {
+        "provider": "msheritage-access-preservica-com",
+        "capability": "archive-records/list_folder",
+        "description": "Enumerate the archive top-down (root -> collection -> sub-folders -> items) or list what sits inside a folder found by search_records or get_record; take child ids to get_record (items) or back to list_folder (folders)."
+      }
+    ]
+  },
+  "id": "01a1b3ff-5410-720b-a033-76d150a1cff5",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://bc.wbp.lodz.pl/dlibra/publication/59786/edition/57126?language=pl\", #2 \"https://dzienniklodzki.pl/dziennik-lodzki-z-lat-19451990-dostepny-w-internecie-wszystko-dzieki-bibliotece-pilsudskiego/ar/3878373\", #3 \"https://www.regionkultury.pl/aktualnosci-a3/dziennik-lodzki-zdigitalizowany-r2439\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

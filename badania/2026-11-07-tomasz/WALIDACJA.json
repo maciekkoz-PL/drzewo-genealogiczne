@@ -1,0 +1,12 @@
+{
+  "at": "2026-11-07T03:23:26.962541+00:00",
+  "result": "PASS",
+  "checks": [
+    "Excel:24arkusze i unikalneID; aktualnebadaniaetapu20zachowane",
+    "AUDYT_OSOB/AUDYT_RELACJI zgodne zExcelem",
+    "Publiczne70osób: zmieniono tylkoP09; wszystkieinneosoby, krawędzie, relacje i9wpisówkroniki zachowane",
+    "Brak informacji o narkotykach/alkoholu wpublicznymHTML",
+    "DrukUSC to prawidłowyDOCX,26plikówźródłowych zSHA256",
+    "Chromium1440/390px: kartaP09, przedziałDOB, ojciec, linkiŁódź/StaraGadka, obielinierodzicówMarysi, brakbłędówJS"
+  ]
+}
