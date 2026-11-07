@@ -1,0 +1,43 @@
+{
+  "query": "\"Dziennik Łódzki\" \"2001\" \"sowa\"",
+  "id": "01a1b4de-c006-77b9-8a6a-42c4763aba94",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://bhp.ihpan.edu.pl/index.php?typ=repl&plnk=q__%2A&fauthor=Mikosz%20Joanna&lang=en_GB",
+      "title": "0 - SOWA OPAC : BIBLIOGRAFIA HISTORII POLSKIEJ",
+      "description": "2001-. (2). Country. Poland. (12). Language. Polish. (9). Subject. Prasa (wydawnictwa) ... \"Dziennik Łódzki\" w latach 2000-2004. W: Acta Univ. Lodziensis. Folia ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://katalog.pbp.sieradz.pl/index.php?KatID=3&typ=repl&plnk=q__%2A&fsubject=Szymonik%20Andrzej&sort=byscore&a=eJyLNtQz0FF6OGPuw4bJT-a3Pmqc8Lxz04OlnQ93tFxY86hn3ZPmnieLWh81THzc0Pe8p_nxstanGzpjSg2AAEwaKukoPZqw-OHchmcz255NbHrasfDZ4o4Hi3ZcWPVoxsIHu7qeNTY8bF3wYPeCpxMa4DpCDY3NzA2UYgEADUTR&lang=en_GB",
+      "title": "SOWA OPAC : Powiatowa Biblioteka Publiczna w Sieradzu Szkatuła ...",
+      "description": "// Dziennik Łódzki. - 2001, nr 222, s. 5. Author. Bilska-Smuś Bożena. Subject. 15 Sieradzka Brygada Radioliniowo-Kablowa, Sieradz Szymonik Andrzej Sieradz.",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://dzienniklodzki.pl/kwalifikacja-wojskowa-w-lodzi-i-wojewodztwie-w-lutym-2020-w-rozpocznie-sie-w-wojewodztwie-lodzkim-kwalifikacja-wojskowa/ar/c1-14731570",
+      "title": "Kwalifikacja wojskowa w Łodzi i województwie. W lutym 2020 ...",
+      "description": "... Sowa. 22 stycznia 2020, 14:48 ... 2001 roku, kobiet urodzonychw latach 1996-2001, posiadających kwalifikacje przydatne do czynnej służby ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://dspace.uni.lodz.pl:8443/xmlui/bitstream/handle/11089/10447/396-407.pdf?sequence=1&isAllowed=y",
+      "title": "[PDF] „DZIENNIK ŁÓDZKI” W LATACH 2000-2004",
+      "description": "Sławomir Sowa);. - regionalny - Marcin Kowalczyk (obecnie nie istnieje); ... lutego 2001 r. gazeta i Urząd Marszałkowski w Łodzi zaprosiły czytelni- ków ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://plus.dzienniklodzki.pl/tasmy-pachna-sciekiem/ar/12343903",
+      "title": "Taśmy pachną ściekiem - plus.dzienniklodzki.pl - Dziennik Łódzki Plus",
+      "description": "Poseł Szczerba (PO) pyta, jak TVP Info uzyskała dostęp do taśm z restauracji „Sowa i Przyjaciele ... Dziennik Łódzki Plus · Dziennik Łódzki ... W 2001 Michnik ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

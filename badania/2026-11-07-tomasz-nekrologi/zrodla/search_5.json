@@ -1,0 +1,43 @@
+{
+  "query": "\"Tomasz Chmielewski\" \"1970\" \"2001\" -site:myheritage.com -site:myheritage.pl",
+  "id": "01a1b4db-8da5-7020-8f5f-816d0d036f11",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.wikitree.com/genealogy/CHMIELEWSKI",
+      "title": "Chmielewski Genealogy | WikiTree FREE Family Tree",
+      "description": "06 Aug 1907 Minnesota, United States - 04 Aug 2001 Delano, Wright, Minnesota, United States • last edited 28 Mar 2019 ... 16 Sep 1909 Gelsenkirchen, Germany - Dec ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://www.researchgate.net/publication/228679628_Growing_role_of_solvent_extraction_in_copper_ores_processing",
+      "title": "Growing role of solvent extraction in copper ores processing",
+      "description": "... 2001) … Figures - uploaded by Tomasz Chmielewski. Author content. All ... Tomasz Chmielewski · Katarzyna Ochromowicz.",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11434722/",
+      "title": "New BB0108, BB0126, BB0298, BB0323, and BB0689 ... - PMC",
+      "description": "2001;39:4013–4019. doi: 10.1128/JCM.39.11.4013-4019.2001. [DOI] [PMC free ... 1970;7:917–932. doi: 10.1016/0019-2791(70)90053-4. [DOI] [PubMed] [Google ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://sortedbyname.com/letter_c/chmielewski/index_46.html",
+      "title": "Chmielewski Family History - Sorted By Name",
+      "description": "... TOMASZ CHMIELEWSKI ... 2001, while residing in Zip Code 54745-9300. ... CHMIELEWSKI, VINCENT died 17 July 1970 at age 79 years in residence code 1401 in New York, ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://www.dnb.nl/media/1wtftrgv/working-paper-377.pdf",
+      "title": "[PDF] Global liquidity as an early warning indicator of asset price booms",
+      "description": "(2001)). The method of using fixed PPP-based GDP weights has been employed ... 1970 Q1 and 2010 Q4. Real house price indices have been obtained from ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

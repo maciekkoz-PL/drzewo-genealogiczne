@@ -1,0 +1,43 @@
+{
+  "query": "\"Express Ilustrowany\" \"2001\" \"sowa\"",
+  "id": "01a1b4de-bfce-712c-803b-69e73e9a9db2",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.przeworsk-mbp.sowa.pl/index.php?KatID=0&typ=repl&plnk=q__%2A&ftitle=Express+Ilustrowany+%28czasopismo+%3B+1946-+%29&sort=byscore",
+      "title": "SOWA OPAC : Miejska Biblioteka Publiczna w Przeworsku",
+      "description": "2001-. (1). Kraj wydania. Polska. (1). Język. polski. (1) ... Express Ilustrowany (czasopismo ; 1946- ) Gazeta ... SOWA OPAC v. 6.12.0 (2026-10-05).",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://bhp.ihpan.edu.pl/index.php?KatID=0&typ=repl&plnk=q__*&fauthor=Lewaszkiewicz+Adam",
+      "title": "SOWA OPAC : BIBLIOGRAFIA HISTORII POLSKIEJ",
+      "description": "2001-. (1). Temat: miejsce. Łódź (woj. łódzkie). (1) ... Lewaszkiewicz, Adam Express Ilustrowany ... SOWA OPAC v. 6.11.11 (2026-08-30). Wygenerowano w 0,5322 s ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://expressilustrowany.pl/monopolis-lodz-wypieki-aleksandry-sowy-zawitaja-do-lodzkiego-monopolis-zdjecia/ar/c3-13524900",
+      "title": "Monopolis Łódź. Wypieki Aleksandry Sowy zawitają do ...",
+      "description": "Aleksandra Sowa, wielokrotna mistrzyni konkursów cukierniczych i autorka wielu receptur słodkości oferowanych w cukierniach „Sowa”, ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://www.przeworsk-mbp.sowa.pl/index.php?typ=repl&plnk=q__%2A&ftitle=Express%20Ilustrowany%20%28czasopismo%20%3B%201946-%20%29&sort=byscore&lang=en_GB",
+      "title": "SOWA OPAC : Miejska Biblioteka Publiczna w Przeworsku",
+      "description": "2001-. (1). Country. Poland. (1). Language. Polish. (1) ... Express Ilustrowany (czasopismo ; 1946- ) Gazeta ... SOWA OPAC v. 6.12.0 (2026-10-05). Generated ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://katalog.pbp.sieradz.pl/index.php?KatID=3&typ=repl&plnk=q__*&fsubject=Strzelecki+W%C5%82adys%C5%82aw",
+      "title": "SOWA OPAC : Powiatowa Biblioteka Publiczna w Sieradzu Szkatuła ...",
+      "description": "Siergiej Andrzej (1958-2001). (384). Śliwiński ... Dokument nadrzędny: Łódzki Express Ilustrowany. ... SOWA OPAC v. 6.12.0 (2026-10-05). Wygenerowano w 0 ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

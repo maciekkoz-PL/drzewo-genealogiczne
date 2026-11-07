@@ -1,0 +1,287 @@
+[
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/PRASA_2001_KONKRETNE_EGZEMPLARZE.json",
+    "bytes": 1363,
+    "sha256": "57ab9f0d5a3d80cc003a9e48000f33c6e0750fa952b3fbc89af45b3585bd39c5"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/blog_kontekst.json",
+    "bytes": 954,
+    "sha256": "3b914cb83baff5f930f639b6ec6c18bb5db265699e1aa5fb8257af4ed8ed8b58"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/geneteka_kontrola.json",
+    "bytes": 6354,
+    "sha256": "02230c3358f54182d8f3e563e810381175a67d61ad39f58565b3c72bee0abd33"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/geneteka_tomasz_2001.json",
+    "bytes": 121325,
+    "sha256": "edd64de204c5c47ad1e8303ffa7d9644133709f65e27d0f7a49d7a26e6ad1b8c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/mbp_skierniewice.json",
+    "bytes": 5381,
+    "sha256": "042364a6c7c6f169ce882b54c7606b09fcd5f78746ba03ccd5ba048c3228a168"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_filtr_0.json",
+    "bytes": 3036,
+    "sha256": "dd51adeca48c03258833f6e9165d0c54589ed01843b0f4f249d6c1615dc82ee4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_filtr_1.json",
+    "bytes": 3036,
+    "sha256": "ec1c9f485020b6ee7f039b79eb70b0fdfaae9ff4b77150dc0dd191dfb944789c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_filtr_2.json",
+    "bytes": 3003,
+    "sha256": "3d8c62330b474d1695b335bbfe8cc524b3232603f4f7d9146d917d086cbdbba1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_filtr_3.json",
+    "bytes": 2823,
+    "sha256": "b89e1eb521dbaa58ec1fc33888420f0f98e410ac36be086afd765ce320fe31b6"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_nazwisko_kontrola.json",
+    "bytes": 14261,
+    "sha256": "ff0e1715f248582493fd26047b5966b02077c56406be82136aea0ba080892349"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_nominatyw.json",
+    "bytes": 4399,
+    "sha256": "faccd395c4a2c514b215120735ce495786ecf288a19a1d7e461ed06e4414bdf7"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_profesor_2024.json",
+    "bytes": 3311,
+    "sha256": "21120142a64794d93b3c8ee19695a26afc6a9435d227fae55005c4b03050732b"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_przebieg_formularza.json",
+    "bytes": 568,
+    "sha256": "6a2a97827d1e77e2345109d1cbe97c7fe3823900433ff09df403c008160cb1d4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_start_0.json",
+    "bytes": 33584,
+    "sha256": "8f05061c3268e2e480b42b30160d4081cf56738487dff0031dc83a1f304c0ea1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/nekro_start_1.json",
+    "bytes": 3702,
+    "sha256": "0afd0787b2f6209f22f2dd87cec5ab49eadebfe0ba83483fecb15507c0376dfa"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_2000_2007_rekord.txt",
+    "bytes": 9275,
+    "sha256": "2b87fe7bb18b1823decd8d6021909667f4407e98f29db8b15267959ff9627ca7"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_2000_2007_rekord_url.txt",
+    "bytes": 219,
+    "sha256": "064fb78290fefb03dd6b1421252c42ce94e8c32c15f04f388a335fa38d0ee649"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_egzemplarze_koniec.txt",
+    "bytes": 6992,
+    "sha256": "0b20d77b925b17e8dbe255bee2587b3bc8bf98ca8319b28c9bdbdbfb14a66af4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_egzemplarze_paginacja.json",
+    "bytes": 9063,
+    "sha256": "af990d4cf3adac5b8e2eb1bc14a21e3de06a89d06ff895a5069fce8460f72875"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_egzemplarze_start.json",
+    "bytes": 6489,
+    "sha256": "bf588f26cf1cf20b76c3254066503c3de7d9c5c50d7d37dc5c8e799d13877058"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_egzemplarze_start.txt",
+    "bytes": 4072,
+    "sha256": "189a2e1cc1b4801022f7096f842caf5ff2f5d3d650a20df5fa9dca0f821bccfd"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_tytul.json",
+    "bytes": 4575,
+    "sha256": "9c4d7205f4bd41a48e081d6f0ad5acf72c257bcce336813272658e3d7b03f448"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_tytul.txt",
+    "bytes": 4134,
+    "sha256": "9b82394b1859d2ae75b1c5736f562b6d4818763be8f409a4468da7a9b57efb12"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_wiadomosci_wyniki.json",
+    "bytes": 8004,
+    "sha256": "d1e3b287c478e9a6d8fdc883e744f6892e5b2e7560402f45b4be5ea1c6bea0d6"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_wiadomosci_wyniki.txt",
+    "bytes": 3283,
+    "sha256": "ea3e04a9916025dc1129c9538824694e1e65f2d7ed79a12a9c8215b5305267d9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_wyniki.json",
+    "bytes": 7455,
+    "sha256": "adad1735771b77b0ce87fe54946e54e30698f38e1cd24830921ef50d84490ab9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_dziennik_wyniki.txt",
+    "bytes": 3740,
+    "sha256": "b3461d2f78a44b159ee4636c06a91201bf0279b1a2338fd6a32e05e54932febb"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_express_egzemplarze_start.json",
+    "bytes": 5454,
+    "sha256": "0aba43ace9cdfc0d994e42243f6ab03aabf560e091590964acf4f05f0b59d3ba"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_express_egzemplarze_start.txt",
+    "bytes": 3607,
+    "sha256": "afbf63c8a2fb778ec2815f9a66b780c3c228db27171b45fdd533355d91098fd5"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_express_tytul.json",
+    "bytes": 3857,
+    "sha256": "c17056182c1d84d012ba2023a5d823a1fd6ff4afbc0d62def08d79fdfb072323"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_express_tytul.txt",
+    "bytes": 3698,
+    "sha256": "74ab4bd6aa29e0e807176d71b05ecc091a2f552825e24716a994d2a4e92ce36d"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_holdings_0.json",
+    "bytes": 17219,
+    "sha256": "e07bef71c7ffd92d7ed20f64144bd46bb5033fba9cc7fecac672936db8e33843"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_holdings_1.json",
+    "bytes": 37621,
+    "sha256": "21512f7cc6eb5c953f8ff658269e92cc12818b869b6344294b29916489d8fddc"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_link_cyfrowy.json",
+    "bytes": 11708,
+    "sha256": "780db16eae89e85f069670d375a76460dafff1f3096e6712b50a6666c39f2e52"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_rekord.json",
+    "bytes": 48668,
+    "sha256": "e511fc70d5ace7424888d9a20b99f480fe475f89c1a9a3ad35822cfb9d2cb8ac"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/primo_start.json",
+    "bytes": 3471,
+    "sha256": "502e47efe37402455b1cb80960a4d4a678aedd831b3d828ff2757eb3cf9467d9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/rejestr_kwerend_web.json",
+    "bytes": 4309,
+    "sha256": "38497699a89536c0158eb0e24c741aa8c5071e16a871386131ddfcfbfb178ddd"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_0.json",
+    "bytes": 615,
+    "sha256": "cefde0c00dc1b077a7d629943be89d2cf8897d7e25c4ad09d04c36b3f0ab761c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_1.json",
+    "bytes": 202,
+    "sha256": "237452080b0a4cc608bca867b4fa4c04e25ad93ca3550d3cef8eae25850a8d5c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_2.json",
+    "bytes": 213,
+    "sha256": "c782bb1a26104ef12b75619d14ce42b49e07af4687336365db9df7bf3c125ca8"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_3.json",
+    "bytes": 2208,
+    "sha256": "e9e6338dddd014966eb0825fed492fcf5a9e690a15b337b1d5096e2177c69b0f"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_4.json",
+    "bytes": 2152,
+    "sha256": "5f38e95895b5d1a0be9bf1e5a9a64e3917e20982748db85aaf9d9f0e85743b05"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_5.json",
+    "bytes": 2201,
+    "sha256": "ad431f4680fb3a50b7567ba9bd0d7890cf4629d3deb517aa74c1fcd91d4c24dd"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_catalog_0.json",
+    "bytes": 2603,
+    "sha256": "4cea94625a2b0c66bed64ccf27453eafbf1c1f063e3cf88d6f48b0fa41ec0171"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_catalog_1.json",
+    "bytes": 2452,
+    "sha256": "faf70086525ddb21d106539df86a73b556ba3b68f788225f718311feb2cfea33"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_last_0.json",
+    "bytes": 2400,
+    "sha256": "34a7aac7f0a508f35303f67658dce6d6c089329a782ed6f71ff0ba4c8975e11c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_last_1.json",
+    "bytes": 546,
+    "sha256": "bc65918203cb01af875af723d1da2fc98a3775fc7441ea49a1804521c1677bf3"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_last_2.json",
+    "bytes": 2211,
+    "sha256": "4f11318160cfba59fff3538c01e7d06054cdf821cb489deaf51e3d3529a90ff3"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_more_0.json",
+    "bytes": 213,
+    "sha256": "8b685aaf487239f5b3154ffb32014d05ec5dba696ad97a1e302b504c3447fc86"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_more_1.json",
+    "bytes": 215,
+    "sha256": "348fe0a5ba52d598f23958219e4f313a6722ef7b0211a80f9bd7bd4060dc293b"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_more_2.json",
+    "bytes": 2263,
+    "sha256": "22abb5346bff973f26bef7202ae78452ef75ce1110620f9b89d064e1221ef93c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_more_3.json",
+    "bytes": 1097,
+    "sha256": "5e6f19532952bdc7f53e7456b25cb945a31f1d82612ad8922b8877946f40f71a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_tomek_0.json",
+    "bytes": 552,
+    "sha256": "f643563fe832c327bf9e5f4db81670704d937ce4f2797011d62e9d360ad9bb63"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_tomek_1.json",
+    "bytes": 2521,
+    "sha256": "fbaa71b43d19d80d2fc1a369f0d9d4b6e8ac01b5121f854999f608af5635069b"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_tomek_2.json",
+    "bytes": 2223,
+    "sha256": "91f2522e1bfe6461b2690126e402c41cf5240eab166914d0c0241c4f6f838dee"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_tomek_3.json",
+    "bytes": 2506,
+    "sha256": "7b0b5befd7958107dc80d48a2056249c741fcb43d80bfa5c87734bdfd3f34ca1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-nekrologi/zrodla/search_tomek_4.json",
+    "bytes": 2769,
+    "sha256": "300647e853f12535b0e40b084c1eea97f68dd9ea0c5b269579cc56705073d30b"
+  }
+]

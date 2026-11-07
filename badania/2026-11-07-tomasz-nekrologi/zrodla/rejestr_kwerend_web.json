@@ -1,0 +1,126 @@
+{
+  "queries": [
+    {
+      "file": "search_0.json",
+      "query": "\"Tomasz Chmielewski\" site:nekrologi.net",
+      "returned_results": 1,
+      "search_id": "01a1b4db-8dea-717a-8993-6d87e726c8c0"
+    },
+    {
+      "file": "search_1.json",
+      "query": "\"Tomasz Chmielewski\" site:ogrodypamieci.pl",
+      "returned_results": 0,
+      "search_id": "01a1b4db-8daa-7348-8faa-f7afc2256e6e"
+    },
+    {
+      "file": "search_2.json",
+      "query": "\"Tomasz Chmielewski\" site:nekrologi.dzienniklodzki.pl",
+      "returned_results": 0,
+      "search_id": "01a1b4db-8da8-714d-9a81-65d4067f41a8"
+    },
+    {
+      "file": "search_3.json",
+      "query": "\"Dziennik Łódzki\" \"2001\" \"kwiecień\" archiwum",
+      "returned_results": 5,
+      "search_id": "01a1b4db-8d95-739e-9de6-cc55a1d8bcc1"
+    },
+    {
+      "file": "search_4.json",
+      "query": "\"Express Ilustrowany\" \"2001\" \"kwiecień\" archiwum",
+      "returned_results": 5,
+      "search_id": "01a1b4db-8d92-74d6-b5c7-7e2e9faf3335"
+    },
+    {
+      "file": "search_5.json",
+      "query": "\"Tomasz Chmielewski\" \"1970\" \"2001\" -site:myheritage.com -site:myheritage.pl",
+      "returned_results": 5,
+      "search_id": "01a1b4db-8da5-7020-8f5f-816d0d036f11"
+    },
+    {
+      "file": "search_catalog_0.json",
+      "query": "\"Dziennik Łódzki\" \"2001\" \"sowa\"",
+      "returned_results": 5,
+      "search_id": "01a1b4de-c006-77b9-8a6a-42c4763aba94"
+    },
+    {
+      "file": "search_catalog_1.json",
+      "query": "\"Express Ilustrowany\" \"2001\" \"sowa\"",
+      "returned_results": 5,
+      "search_id": "01a1b4de-bfce-712c-803b-69e73e9a9db2"
+    },
+    {
+      "file": "search_last_0.json",
+      "query": "\"Tomasz Chmielewski\" \"Bogusława\" -site:myheritage.com -site:myheritage.pl",
+      "returned_results": 5,
+      "search_id": "01a1b4e3-aace-7686-8749-9bd77f169498"
+    },
+    {
+      "file": "search_last_1.json",
+      "query": "\"Tomasz Chmielewski\" \"1971\" \"Gadka\"",
+      "returned_results": 1,
+      "search_id": "01a1b4e3-ab96-753b-92c9-5617e70d057e"
+    },
+    {
+      "file": "search_last_2.json",
+      "query": "\"cmentarz\" \"Gadka Stara\" \"księga\"",
+      "returned_results": 5,
+      "search_id": "01a1b4e3-aac0-741d-85d6-1dbc618777b7"
+    },
+    {
+      "file": "search_more_0.json",
+      "query": "\"Dziennik Łódzki\" \"2001\" site:katalog.wbp.lodz.pl",
+      "returned_results": 0,
+      "search_id": "01a1b4dd-2408-77bd-a049-451e618984f0"
+    },
+    {
+      "file": "search_more_1.json",
+      "query": "\"Express Ilustrowany\" \"2001\" site:katalog.wbp.lodz.pl",
+      "returned_results": 0,
+      "search_id": "01a1b4dd-22f7-75ec-a238-a75736ea17a2"
+    },
+    {
+      "file": "search_more_2.json",
+      "query": "\"Dziennik Łódzki\" \"2001\" biblioteka Skierniewice",
+      "returned_results": 5,
+      "search_id": "01a1b4dd-2314-76c9-b36c-4c30daa07120"
+    },
+    {
+      "file": "search_more_3.json",
+      "query": "\"Tomasz Chmielewski\" site:genealogiawarchiwach.pl OR site:geneteka.genealodzy.pl OR site:nekrologi.ogr.pl",
+      "returned_results": 2,
+      "search_id": "01a1b4dd-232e-74d9-9058-337bbe9a3adf"
+    },
+    {
+      "file": "search_tomek_0.json",
+      "query": "\"Tomka Chmielewskiego\" \"2001\"",
+      "returned_results": 1,
+      "search_id": "01a1b4e0-4e69-7495-b355-ab7592626a8a"
+    },
+    {
+      "file": "search_tomek_1.json",
+      "query": "\"Tomek Chmielewski\" \"Łódź\" zmarł",
+      "returned_results": 5,
+      "search_id": "01a1b4e0-4d70-77ea-8a04-dbf47ca44e36"
+    },
+    {
+      "file": "search_tomek_2.json",
+      "query": "\"Chmielewski\" \"26 kwietnia 2001\" Łódź",
+      "returned_results": 5,
+      "search_id": "01a1b4e0-4d83-703a-8d62-54c1bd565be3"
+    },
+    {
+      "file": "search_tomek_3.json",
+      "query": "\"Dziennik Łódzki\" \"2001\" \"nr 98\"",
+      "returned_results": 5,
+      "search_id": "01a1b4e0-4d83-73be-a8e1-d583bd0761bb"
+    },
+    {
+      "file": "search_tomek_4.json",
+      "query": "\"Express Ilustrowany\" \"2001\" \"nr 98\"",
+      "returned_results": 5,
+      "search_id": "01a1b4e0-4d5f-717a-a8ab-26dd38e8c9d9"
+    }
+  ],
+  "count": 20,
+  "limit": "Wyniki wyszukiwarki nie są aktami ani dowodem tożsamości. Wybrane strony odczytano osobno; nie otwierano stron żyjących imienników."
+}

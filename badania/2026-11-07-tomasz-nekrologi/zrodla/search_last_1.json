@@ -1,0 +1,15 @@
+{
+  "query": "\"Tomasz Chmielewski\" \"1971\" \"Gadka\"",
+  "id": "01a1b4e3-ab96-753b-92c9-5617e70d057e",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://mbc.cyfrowemazowsze.pl/Content/1917/PDF/1917.pdf",
+      "title": "[PDF] Nr 50 (1773)",
+      "description": "ku 1971; po przeciwnej, nieparzystej stronie ... ger, napar, Atena, rzeka, gadka, Antek niebo ... ciół Tomasz Chmielewski, syn pianistki, nauczyciel ...",
+      "position": 1,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

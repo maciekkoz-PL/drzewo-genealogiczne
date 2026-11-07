@@ -1,0 +1,43 @@
+{
+  "query": "\"Dziennik Łódzki\" \"2001\" biblioteka Skierniewice",
+  "id": "01a1b4dd-2314-76c9-b36c-4c30daa07120",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.mbp.skierniewice.pl/zbiory/czasopisma",
+      "title": "Czasopisma - MBP | Skierniewice",
+      "description": "Zbiory ; Dialog. 1983 -1990, 1995 – 2001. MBP ; Dziennik. Gazeta Prawna. 2008 -. MBP ; Dziennik Łódzki. 1996 - ; Dziennik Skierniewicki. 1994 – 1996, IV-VI 1997.",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://www.mbp.skierniewice.pl/aktualnosci/303/w-miescie-kwitnacych-sadow-konkurs",
+      "title": "Aktualności - MBP | Skierniewice",
+      "description": "Dziennik Łódzki 2001 nr 221 s. 8 12. Profesorze dałeś nam jabłka zostawiłeś ...SERCE. ITS 2009 nr 28 s.15 13. Siemiatycka K.: Jabłko przez okrągły rok ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://www.psmk.org.pl/media-o-nas/7/",
+      "title": "Media o nas | Polskie Stowarzyszenie Miłośników Kolei | Strona 7",
+      "description": "2001. Stara parowozowniao eksponatach i możliwociach zwiedzania Parowozowni Skierniewice (Dziennik Łódzki, 14 maja 2001 r.) 2000. Chcieć znaczy móco ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://akademia.cekis.pl/wydarzenie/festiwal-reportazu-w-mbp/",
+      "title": "FESTIWAL REPORTAŻU W MBPAT - Akademia Twórczości",
+      "description": "... Dziennik Łódzki, ITS, Głos Skierniewic i Okolicy ... W latach 1995-2001 prowadził pierwszy w historii ... Skierniewice. Miejsce wydarzenia. Miejska Biblioteka ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://www.facebook.com/Muzeum.Historyczne.Skierniewic/posts/jak-co-roku-czcimy-pami%C4%99%C4%87-ofiar-zbrodni-wojennej-z-20-grudnia-1943-roku-kiedy-to/1292468736233541/",
+      "title": "Jak co roku, czcimy pamięć ofiar zbrodni wojennej z 20 grudnia ...",
+      "description": "... skierniewice.naszemiasto.pl • ITS Dziennik Łódzki • Tygodnik Katolicki Gość Niedzielny – redakcja Gościa Łowickiego ****** ADAM PETRYNA ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

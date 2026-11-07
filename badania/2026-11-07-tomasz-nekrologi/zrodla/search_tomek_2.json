@@ -1,0 +1,43 @@
+{
+  "query": "\"Chmielewski\" \"26 kwietnia 2001\" Łódź",
+  "id": "01a1b4e0-4d83-703a-8d62-54c1bd565be3",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.imsig.pl/numer/2001/82,Monitor_S%C4%85dowy_i_Gospodarczy_nr_82_2001_%281162%29_z_26_kwietnia_2001_r.",
+      "title": "Numer 82/2001 (1162) z 26 kwietnia 2001 r. - Internetowy Monitor ...",
+      "description": "... 26 kwietnia 2001 r ... HIT Zarząd Majątkiem Polska Łódź 1 Spółka z o.o.. Poz. 18201. HIT Zarząd Majątkiem ... Wnioskodawca Chmielewski Janusz. Poz. 18322 ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "http://bc.wbp.lodz.pl/Content/75766/Nowy_Lowiczanin_2001_nr_17a.pdf",
+      "title": "[PDF] GROZI ZATRZYMANIE - Regionalia Ziemi Łódzkiej",
+      "description": "... Chmielewski (86), 3:0- Marcin. Rosłoń (89). •WKS Wieluń - ORLEN II Płock. 1:3 ... 26 kwietnia 2001 r. 12.00. Wiadomości. 12.10. Agrobiznes-rolniczy program ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://kpbc.umk.pl/Content/202934/PDF/Ossowska_Wanda_2922_WSK.pdf",
+      "title": "[PDF] 2-c2. / UiS]<C",
+      "description": "Zmarła 26 kwietnia 2001 r w wieku 89 lat. Wszyscy, którzy na swojej drodze ... Lech Chmielewski. „Bóg zapłać za te słowa. Z całego serca Bóg zapłać ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Download?id=6782&fileId=true",
+      "title": "[PDF] Nr 149 (6548) - Monitor Sądowy i Gospodarczy",
+      "description": "... 26 kwietnia 2001 r. [BMSiG-40821/2022]. Zarząd „Centrum Edukacji ... CHMIELEWSKI DUDZIK. SPÓŁKA JAWNA. KRS 0000444783. SĄD REJO-. NOWY DLA ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://biblos.pl/doi/2025-07-TL22-JRWKS-04.pdf",
+      "title": "[PDF] IV DYSKURS RELIGIJNY W BADANIACH POLSKICH ... - Biblos",
+      "description": "Chmielewski M., Nowak-Barcińska M., Stanisz P., Szulich-Kałuża J.,. Wadowski ... znań, UAM, 26 kwietnia 2001 roku, Poznań. Walczak B., 2004, Słowo na ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}
