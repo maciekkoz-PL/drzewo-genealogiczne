@@ -1,0 +1,465 @@
+{
+  "odczyt_utc": "2026-11-07T10:52:12+00:00",
+  "lodz_wyjazdy": {
+    "sygnatura": "39/221/0/4.12/25508",
+    "jednostka_swa": 6209685,
+    "zakres_obejrzany": "obrazy1–95/184; kolumny nazwisk/liczb osób; obrazy8 i74 pełne rubryki nr80 i1602",
+    "url_jednostki": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209685",
+    "oryginaly": [
+      {
+        "obraz": 1,
+        "sha256": "9ede979097cc42b53d6899829b7b91790117164b60e718a0320bb602f2f49ee5"
+      },
+      {
+        "obraz": 2,
+        "sha256": "2fd472304a2b025cd72539dccfcf94a44ac999578051708f2d35baf128af72b4"
+      },
+      {
+        "obraz": 3,
+        "sha256": "92bf85007da6bb676392daf51b44d74cc7e49597afec376368e56121e75b10d7"
+      },
+      {
+        "obraz": 4,
+        "sha256": "58408bc00546aab6a1d8e0f74a65e373d1f0b3925de5612a8de64a28516947cf"
+      },
+      {
+        "obraz": 5,
+        "sha256": "75d1f3d7ac761fd836003640986f192bf9fa5bdf8c2d44abc64d13de2a6aad07"
+      },
+      {
+        "obraz": 6,
+        "sha256": "4f67aed82c57be8121de041899613ffaee7aa8a0ecebfbe5a19a79a29ad42e54"
+      },
+      {
+        "obraz": 7,
+        "sha256": "679589b7050199cd58fd10c2361d279ebd4cd2fcf5076e0a2458918c13ed6a60"
+      },
+      {
+        "obraz": 8,
+        "sha256": "c9c0c57b9b1cf60e306bbe61f4d611abdfc369bc28f467bd52ddefe8f41f272f"
+      },
+      {
+        "obraz": 9,
+        "sha256": "d56974a64b02d7fbafc315f18dab622e30865cf95c2ae757ea6ad402e662104d"
+      },
+      {
+        "obraz": 10,
+        "sha256": "e5b86566afb68931dae104124a5254315902047dc2cb96e03c6824ce7871bd72"
+      },
+      {
+        "obraz": 11,
+        "sha256": "99ccf3faae333742475b1a11c1f3648f46ce9bb0a43faf0c482cb1c781765357"
+      },
+      {
+        "obraz": 12,
+        "sha256": "b8399c0d14d4c7bad94c190fd2dfb42e164ba37e4ef4d027fc0a552d7aee2116"
+      },
+      {
+        "obraz": 13,
+        "sha256": "23dea43d475004de34b80350d3443741d8d49fe11fb525da10412116b7766bfd"
+      },
+      {
+        "obraz": 14,
+        "sha256": "5f8f33280bee91ef9cd9313fec0a9297660b4b55ea2c89a3f43bf58a18c920ef"
+      },
+      {
+        "obraz": 15,
+        "sha256": "1b7fbd01f2208adf78a3fa980172f953fb5e0de8d728566ce85d304d482c20a6"
+      },
+      {
+        "obraz": 16,
+        "sha256": "6905bd0f34128e94b32e7995a2696537ea95e7c073bba8a52c6f28aa2958625f"
+      },
+      {
+        "obraz": 17,
+        "sha256": "38391aae21e10f11c27ec9287697b5448481457476aa354f4dd4192b038a6146"
+      },
+      {
+        "obraz": 18,
+        "sha256": "3cd43e0d3ed3a6a2d17fff1c96f09d75ae74f4c031c4a5abf4bdd4bbc7a0a929"
+      },
+      {
+        "obraz": 19,
+        "sha256": "2cef95db2cd3299376eed968b9c87a89571aa5bbd62e7bcb8bccc0c03349c611"
+      },
+      {
+        "obraz": 20,
+        "sha256": "fb0759db63eb23a5a71eff650b85c6ede1c7c6505250df572a8e19e25b0e29f9"
+      },
+      {
+        "obraz": 21,
+        "sha256": "668daf49f2c275f1b8636c982fc7d884e91d113850b964599b37cb18e06f3f6b"
+      },
+      {
+        "obraz": 22,
+        "sha256": "1e4b753e0a9e950b50ae28df3503261dc98e55f318e4ac80f6ae9b4c9d86442f"
+      },
+      {
+        "obraz": 23,
+        "sha256": "20f57bd4628ecf18c2e4e659144b813bb5bd03a8eaab03e517576eb2c68eca0f"
+      },
+      {
+        "obraz": 24,
+        "sha256": "8978b419257f36f3656ac76ad8eb93419b6f1fd342871d18cd9c6c1476902634"
+      },
+      {
+        "obraz": 25,
+        "sha256": "820dcf1af0013e4f64a2cb34ed433d9be6b47fb1145f61f4d1160dee9c79a8c5"
+      },
+      {
+        "obraz": 26,
+        "sha256": "678fd7c3b7d9766b21b6fe9e675926e0ad8e2cd40ccf374068d4f73ff339ad82"
+      },
+      {
+        "obraz": 27,
+        "sha256": "e0e578e8b28cc95139a16b938c80e43063c8849cfc7b12362c91c8a936f7ff94"
+      },
+      {
+        "obraz": 28,
+        "sha256": "2d85c7677dc22c8a2188fdfe6d63567332d250a4d18b630bb068e330602a49c4"
+      },
+      {
+        "obraz": 29,
+        "sha256": "40cf2d58580e6a37c1b5c6c0ea1b79e73efb98dcbb5be68ff94688bff5fdcbb7"
+      },
+      {
+        "obraz": 30,
+        "sha256": "18acc4841062eb5e09b300f7117b3687c2635a7749ce3179df4692d277e40f9a"
+      },
+      {
+        "obraz": 31,
+        "sha256": "1fe7d33477b7bb2797ac6687244eb9f7c76feb6da94aa2469432237b413fccdf"
+      },
+      {
+        "obraz": 32,
+        "sha256": "b147a080f1240858d9e61e1484c92807b3a97e912224b0a7bef93277b0dda746"
+      },
+      {
+        "obraz": 33,
+        "sha256": "83f58f9ce730c025b8e50c7e6c3a2e146ce99ddcbee301951dd51aeffdd670f3"
+      },
+      {
+        "obraz": 34,
+        "sha256": "404f4028be4d413306e725f86fdbc0cdeb2825c03a3bc1812c2c5c3e03cbc83d"
+      },
+      {
+        "obraz": 35,
+        "sha256": "fdc8febd99fbba1f027c5fe7612cb9e794f5e8d472d712a5ec5c594f425585c4"
+      },
+      {
+        "obraz": 36,
+        "sha256": "09cad04d24297cf31118f9e6705d77d16f9ecf304cc97d51ea3259f9925a7b0c"
+      },
+      {
+        "obraz": 37,
+        "sha256": "b12259de06cd02a9407dccbc4b228340888e7fbde710e705c40a198920679281"
+      },
+      {
+        "obraz": 38,
+        "sha256": "71ef99dc9eb9f1970a39e7b78dbbe2c261671d984db8c2d9ec1aa3c79f82c9ad"
+      },
+      {
+        "obraz": 39,
+        "sha256": "08259bc6e5d903a31b3434f5d2df83c158b53385f9d24153748fd9192b9dc9a6"
+      },
+      {
+        "obraz": 40,
+        "sha256": "2c55345a03bb7ba271550b7dc53bf7a37475501ae02ea78242b84a7bff4d40b4"
+      },
+      {
+        "obraz": 41,
+        "sha256": "984303bb31c8b55ae5f2a02f036fd92e253392d5518b65fc524377d7f47197dc"
+      },
+      {
+        "obraz": 42,
+        "sha256": "27d52c41bf43810074bb6f069bbc587904b88e748ead6f81d593339800d7d452"
+      },
+      {
+        "obraz": 43,
+        "sha256": "abc4a0d661737eb82dc9eb0b1659cd8b28fe6483697c9b0da357d27e2e7be3b4"
+      },
+      {
+        "obraz": 44,
+        "sha256": "91b3cdf3ad4c2cf2f91f3eb2d2e7e6e3a5f0c79b4ee491614333d830ceaef90f"
+      },
+      {
+        "obraz": 45,
+        "sha256": "309bcbddf6c212e894980b71d2927bfe11f709f25d06789d34a91f20eda10631"
+      },
+      {
+        "obraz": 46,
+        "sha256": "3c9f01edf8d31fa6b6af36c5e8fb051c838fa6e37863fe1ccedef3780c4d799d"
+      },
+      {
+        "obraz": 47,
+        "sha256": "4c1951acb63b7b74c9f5a563bd3852d207bf510b2f631b578f49bf9ea52084c5"
+      },
+      {
+        "obraz": 48,
+        "sha256": "01687f7252e034a5a272524e8c5f6c491658ce97651ef57615cb5da765c73a55"
+      },
+      {
+        "obraz": 49,
+        "sha256": "74dfce59222411d570acbd9449b1b5f92fe0db83c108b690c0fddca2839e70aa"
+      },
+      {
+        "obraz": 50,
+        "sha256": "6a4a06838fc6963021b6e766724c72dd2da5371ebd2762cb43a18e8d00c4384f"
+      },
+      {
+        "obraz": 51,
+        "sha256": "13fc223c5a2ac49a9da344447b3c8bd86cc57cee383c1044ddc421884281b6f0"
+      },
+      {
+        "obraz": 52,
+        "sha256": "f8229c31dcffd6057a4d16e3ef99f0b7e229b7bcefcddf29503715e18ae1048e"
+      },
+      {
+        "obraz": 53,
+        "sha256": "d891fcc6bb4bfd9f6b463256fd184424ebc22b4080411bc29deddc7704dda804"
+      },
+      {
+        "obraz": 54,
+        "sha256": "f6e25bc53dcd51380b8a3e02d859bca6cf89f3940ca78e05cbf697dca149b8cd"
+      },
+      {
+        "obraz": 55,
+        "sha256": "722686c372796caf71f835665f0bdb97a6d692499a5d7c6de3a357a42ec7f956"
+      },
+      {
+        "obraz": 56,
+        "sha256": "785dfec89b5176a8848e82c0e67d953e1e1faed68a1f2793a98ecee9d853e6df"
+      },
+      {
+        "obraz": 57,
+        "sha256": "d4b5978b1e63c9daf1d4cd24b021043752e807e1ea78119f7391f8a296d7424b"
+      },
+      {
+        "obraz": 58,
+        "sha256": "d804d9cc494e01f49f6ac11bb783348db2d3a0768a68c59a254b023258eb0f93"
+      },
+      {
+        "obraz": 59,
+        "sha256": "6939df51f31576b16f910928106bcae101091e49dd601ce3ad8bc27809432705"
+      },
+      {
+        "obraz": 60,
+        "sha256": "14fc0a3a9af44dd9fb8b8b1bdd2eafce2493c37f203361749e1902ba0452a368"
+      },
+      {
+        "obraz": 61,
+        "sha256": "4cdbbd13e233bf9867078d392e12008223a04184dee5aec93ccc61a854dd9920"
+      },
+      {
+        "obraz": 62,
+        "sha256": "c3f65a7971690111acc86e570b9b16d9054805c2eb66044eadebf70c580e481d"
+      },
+      {
+        "obraz": 63,
+        "sha256": "03104b763d08fd2a344113e01ed043014fac62420f9d614e356848fab603316e"
+      },
+      {
+        "obraz": 64,
+        "sha256": "24a5e669bbf0cc6eb90155fdb7694fd75891820bd61672c0b2cf54d2d1dd38cf"
+      },
+      {
+        "obraz": 65,
+        "sha256": "db4450729409d73febbdd7e292bd3b74d4d87cbf502efaafae74e09c6f08e9d3"
+      },
+      {
+        "obraz": 66,
+        "sha256": "026532745ebc45457ac9c04b17e04cfa426a5897e67e2253933124c15420e51e"
+      },
+      {
+        "obraz": 67,
+        "sha256": "cab1e7516b68069cea3c7354e271919ed2057d762ffaf1ea5eb47dc004e9ceee"
+      },
+      {
+        "obraz": 68,
+        "sha256": "1f7e3dd92638edfd4371f1f1e538f25e53f498c50f27e9fe211133a099beca78"
+      },
+      {
+        "obraz": 69,
+        "sha256": "934e23d3cec00ba17a4f554306484e3d150fb5506551aa6164cdebc4edf63599"
+      },
+      {
+        "obraz": 70,
+        "sha256": "209d99db519976da996a876bc4ca3e39887e8dd9e942ce795a30636c9b6a22f7"
+      },
+      {
+        "obraz": 71,
+        "sha256": "3741381c3094ea93d2b71aa2d887c64eb09d064fa630ebde19c605e5018ae635"
+      },
+      {
+        "obraz": 72,
+        "sha256": "1a86cf7927323a0c5d0a54c2fc3e65fab35d8ba9d9405c9df2c1b432a9e4d0e4"
+      },
+      {
+        "obraz": 73,
+        "sha256": "d4b8a6a27f24b1eeda99706dc166a2c29c5bcc3d5bda80535e916511606ecc9d"
+      },
+      {
+        "obraz": 74,
+        "sha256": "64d1776551bcbd4a511246037cf0691ac0468916aea3e31808d18d2a96b7b5a2"
+      },
+      {
+        "obraz": 75,
+        "sha256": "f6e29f7306c3ab92c3e30236d81b93e8446c50fb13bd71c3853b92c95be07988"
+      },
+      {
+        "obraz": 76,
+        "sha256": "8a42f3a5babc8e11e2e046b57958f13faee850ff2420c205922e645ca43c91a6"
+      },
+      {
+        "obraz": 77,
+        "sha256": "3c79f124bc9024f31cd0cc10180e08b02da885d0a9ad788c8841f732945e8d4b"
+      },
+      {
+        "obraz": 78,
+        "sha256": "bf2d45b8f7f8092bf00b48be04536f51c1b48fd9d6249b65dff52aa4676cc631"
+      },
+      {
+        "obraz": 79,
+        "sha256": "41339045bc6afbee7313aef31451ece247d100049d4f73be31e88f59b6aeaf53"
+      },
+      {
+        "obraz": 80,
+        "sha256": "55b361ab977a84670b0d35e6aab3df8e49c2b7553a86cdf0be6207ea8d797682"
+      },
+      {
+        "obraz": 81,
+        "sha256": "992077e19d8c4361a349b10f950c7bb6e91aa38fa00d1eaf9fa417ab339ae371"
+      },
+      {
+        "obraz": 82,
+        "sha256": "f060a2ec0b473ef8f075233f7fecb84638808ca5f564cf8569dcd50e05f9df8b"
+      },
+      {
+        "obraz": 83,
+        "sha256": "83edebcac9a8ec0f46da05c6570b83dc8ccc7cb12f1ce482abe134ef5aaec03a"
+      },
+      {
+        "obraz": 84,
+        "sha256": "14d9a7f78f12eb5dcdec808dc993ec17f7c8ce77a0c9d711c3fdb6739709a52c"
+      },
+      {
+        "obraz": 85,
+        "sha256": "2449c7fbadb704561c01bb23abcc946bf3463023b6b1c304f9afc8fdc1ee4381"
+      },
+      {
+        "obraz": 86,
+        "sha256": "d9c8d10b2399bf2c82ad744d7a179b0952beae8b4e93d6b9ef03a3a899fdffa8"
+      },
+      {
+        "obraz": 87,
+        "sha256": "18545ce3a31f9774fe1d24bdbce6454933f0f0f5b402903dadbfccdbe770e3ca"
+      },
+      {
+        "obraz": 88,
+        "sha256": "43c53a3bdcce7ddd162882d473a26ac509a1bce9d38de165d96caceca2c9d587"
+      },
+      {
+        "obraz": 89,
+        "sha256": "d496ba3cf0c4fc2c80f7dae6426ea8ada2603e45245b1d96e7b122def74fa802"
+      },
+      {
+        "obraz": 90,
+        "sha256": "9adbfa615857da977059854aac111ef7301f41a2bfe3ecc81bebc4cd8a45ef7f"
+      },
+      {
+        "obraz": 91,
+        "sha256": "6b0e121c967ae9fb6055bd134937cdc8a842c2f22bf9d7a6a6eab9b16a23df84"
+      },
+      {
+        "obraz": 92,
+        "sha256": "2ec077e17e4f10b8bfd3dbc709e3a0d5ab1cddb25d6eb9c1dab310bd3af81663"
+      },
+      {
+        "obraz": 93,
+        "sha256": "6fc17451525bcca599927431a21210772369c558dc89f77217422baa6db4545a"
+      },
+      {
+        "obraz": 94,
+        "sha256": "727df7ed709972ad8a69d2ead642984010198adbac97957d9b14ad61459ecd99"
+      },
+      {
+        "obraz": 95,
+        "sha256": "353bef1f1e004a170c31c835ee5e166632e8c33361c0e319359ed01714f0d686"
+      }
+    ],
+    "uwaga": "Oryginały obrazów8 i74 archiwizowane w repozytorium. Pozostałe93 pobrano i zahaszowano; przegląd kolumn nie jest pełną transkrypcją.",
+    "dodatkowy_wpis": {
+      "obraz": 74,
+      "karta": 71,
+      "nr": 1602,
+      "osoba": "Czesław Chmielewski",
+      "osoby": "2m+1k",
+      "kierunek": "powiat Łask, gmina Buczek",
+      "adres_poczatkowy": "Limanowskiego42 [odczyt do kontroli]",
+      "wniosek": "Bez DOB, rodziców i imion grupy; nie utożsamiono zP03 ani C103/C104."
+    }
+  },
+  "chelmonskiego_inwentarz": {
+    "sygnatura": "39/221/0/4.4/15575",
+    "jednostka_swa": 17669762,
+    "zakres_obejrzany": "obrazy 1–12/172; nieruchomości nr 1 i początek nr 3; nie osiągnięto nr 9a",
+    "oryginaly": [
+      {
+        "obraz": 1,
+        "sha256": "f70d23612bb502e8a7970856bc2b08a722f40db5bb4dcbef06303392a6e263c1"
+      },
+      {
+        "obraz": 2,
+        "sha256": "192db3dc8414e4c3a8ae20ef4d552e33fcf9dc335c5cc7c4b2dc23a8e39ca2ff"
+      },
+      {
+        "obraz": 3,
+        "sha256": "ad521190fa03b11e98512efd99552542c73ab74bec7c0ba866a34ad48e68f41c"
+      },
+      {
+        "obraz": 4,
+        "sha256": "83723898795705ad10111c7f4ca4bfd25a4000122d8f6d0def8b86fc6421676c"
+      },
+      {
+        "obraz": 5,
+        "sha256": "af2221aa0debeaede57bf4ef70b70e43f1948affb7fa9f965986d237ef8ac1ca"
+      },
+      {
+        "obraz": 6,
+        "sha256": "7a38016b4ee8b36769f7efc798c0e7c7445b105b141d424b9aa2a0057b1207a3"
+      },
+      {
+        "obraz": 7,
+        "sha256": "9a729e58a3a256997eb4bd73f7106bb21841fb310f26b534a88e7adad791b092"
+      },
+      {
+        "obraz": 8,
+        "sha256": "3d307e220de29c29ed659f75902ed6f10988f270b81a04524816bd095c02bd12"
+      },
+      {
+        "obraz": 9,
+        "sha256": "15663d7ec7bef21b258801009920173dbe01007b6ceaf5c4e785bc66d6e7500c"
+      },
+      {
+        "obraz": 10,
+        "sha256": "953c560602fa8431bd78dab56c85cf3f97f4ab952ea141c487edd51bf005450b"
+      },
+      {
+        "obraz": 11,
+        "sha256": "6dc3af50c90903e821b9d897f541acf2da6df5dc3342cea2218f382783d89ce0"
+      },
+      {
+        "obraz": 12,
+        "sha256": "46f3df35327303e119014253f0eb923947597d2ed166f4bd2b532fcf59de0c2c"
+      }
+    ],
+    "uwaga": "Księga własności, nie automatycznie lista mieszkańców; zbadany zakres nie daje wyniku dla 9a."
+  },
+  "chojny_przyjazdy_kontrola": {
+    "sygnatura": "39/225/0/4/2137",
+    "zakres": "wtórna celowana kontrola kolumn nazwisk na obrazach 5–22 z archiwum etapu25",
+    "wynik": "Nie odczytano osobnego wpisu Władysława; nr 398 Agnieszki jest na obrazie22. To nie wyklucza niewymienionego członka grupy ani wpisu w innym zakresie."
+  },
+  "interpretacja": "Władysław nr80 i Agnieszka nr398 mają Chełmońskiego9a, kierunek Chojny i 2m+3k. Możliwe jedno gospodarstwo; różne daty i brak imion grupy nie pozwalają stwierdzić relacji, utożsamić z P06 ani znaleźć P11.",
+  "dopelnienie_utc": "2026-11-07T10:58:12+00:00"
+}
