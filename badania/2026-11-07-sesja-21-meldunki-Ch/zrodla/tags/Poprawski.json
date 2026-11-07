@@ -1,0 +1,30 @@
+{
+  "url": "https://skanoteka.genealodzy.pl/?op=tg&id=4119&nazwisko=Poprawski&imie=&miejsce=&rok_od=&rok_do=",
+  "rows": [
+    {
+      "text": "1 Jan Poprawski 221 Akta miasta Łodzi 86619 Ewidencja dowodów osobistych wydanych przez Zarząd Miejski w Łodzi, zespół nr 5 [- nazwiska na litery] M, P 1936-1937 005",
+      "links": [
+        {
+          "text": "Jan Poprawski",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86619&plik=005.jpg&tag=1&zoom=2"
+        },
+        {
+          "text": "221\n\t\t\t\t\tAkta miasta Łodzi",
+          "url": "https://skanoteka.genealodzy.pl/id4119"
+        },
+        {
+          "text": "86619 Ewidencja dowodów osobistych wydanych przez Zarząd Miejski w Łodzi, zespół nr 5 [- nazwiska na litery] M, P",
+          "url": "https://skanoteka.genealodzy.pl/id4119-sy86619"
+        },
+        {
+          "text": "1936-1937",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86619&plik=005.jpg&tag=1&zoom=2"
+        },
+        {
+          "text": "005",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86619&plik=005.jpg&tag=1&zoom=2"
+        }
+      ]
+    }
+  ]
+}
