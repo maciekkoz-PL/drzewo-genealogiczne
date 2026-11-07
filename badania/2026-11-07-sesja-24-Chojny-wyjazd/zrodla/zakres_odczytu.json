@@ -1,0 +1,60 @@
+{
+  "at_utc": "2026-11-07T06:15:52+00:00",
+  "signature": "39/225/0/4/2140",
+  "unit_id": 15352000,
+  "total_images": 196,
+  "name_columns_read": [
+    [
+      5,
+      195
+    ]
+  ],
+  "previous_stage22_name_columns": [
+    [
+      90,
+      115
+    ]
+  ],
+  "new_stage24_name_columns": [
+    [
+      5,
+      89
+    ],
+    [
+      116,
+      195
+    ]
+  ],
+  "technical_seen": [
+    1,
+    2,
+    3,
+    4,
+    196
+  ],
+  "full_selected_this_stage": [
+    70,
+    89,
+    118,
+    144,
+    145,
+    180,
+    195
+  ],
+  "selected_name_details_only": [
+    126,
+    173
+  ],
+  "previous_full_selected": [
+    60,
+    80,
+    90,
+    100,
+    115
+  ],
+  "method": "Wzrokowo; wszystkie kolumny nazwisk 5–195, wybrane pełne rubryki. Nie OCR i nie pełna transkrypcja.",
+  "structure": "Stałe wpisy5–117. Czasowe145–195, następnie118–144: obraz195 odsyła do strony166 naobrazie118. Obraz145 zaczyna numerację1. Dokument digitalizacji1: strony115–165i193–199niezapisane,245–250pogniecione.",
+  "result": "Nr1947,AgnieszkaChmielewska,1kobieta,ŁódźNapiórkowskiego112,zgłoszenie29IX1939(znakpowtórzenia daty1941). Zbieżność zS274nr2246/21X1939. Nadal bez wieku,rodowego,rodziców i wcześniejszego adresu wChojnach.",
+  "limit": "Nie wyklucza osób niewymienionych imiennie w grupach; obejrzano dostępne skany, nie wszystkie fizyczne karty. Brak dowodu P11/H017/H018/P06.",
+  "new_proven_family_relationships": 0
+}

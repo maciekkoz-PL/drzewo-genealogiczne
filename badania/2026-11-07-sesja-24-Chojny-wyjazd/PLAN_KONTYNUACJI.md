@@ -1,0 +1,12 @@
+# Kontynuacja po odczycie Chojen2140
+
+Priorytet pozostaje P11: nieznany brat Bogusława i ojciecPiotra. Powiązanie C102 zP06/C99 jest jedynie drogą do identyfikacji rodziny. Nie rozszerzać przypadkowo wszystkich Marianów.
+
+1. **Nie powtarzać przeglądu nazwisk księgi2140/1939**: obrazy5–195 odczytane, techniczne1–4/196 obejrzane. Pełne rubryki etapu24:70/89/118/144/145/180/195; starsze etapu22:60/80/90/100/115. Dokładna tabela w `zrodla/zakres_stron.csv`. Osoby towarzyszące mogły pozostać nienazwane. Numer1947 jest wpisem wyjazdowym,2246 łódzkim przyjazdowym; nie zamieniać ich.
+2. **Odnaleziono szukany odpowiednik wyjazdowy C102**, S284/1947/29IX1939 → Napiórkowskiego112. S274/2246/21X1939 jest drugim końcem przeprowadzki. Nadal potrzebne wiek, rodowe lub imiona krewnych. Nie pisać, że zidentyfikowano prababcię ani brata Bogusława.
+3. Kolejny uzasadniony kierunek: **katalog ksiąg przyjazdów do Chojen1937–1938 i ich ewentualne indeksy**, następnie wiek/pochodzenie Agnieszki lub rodzinna karta ludności. Najpierw ustalić sygnatury i pokrycie gotowych indeksów. BASIA miejsce1677 było oglądane dla2139/2140; nowe starsze roczniki wymagają odrębnej kontroli. Rejestr2139/1939 już przejrzany: nazwiska5–85/87–196, techniczne4/86; nie powtarzać (S282). Nie zakładać przyjazdu Agnieszki dopiero w1939.
+4. Załącznik **2246/1939** może należeć do26219 (S281,0skanów; dolna granica1401,górna niepodana). Nadal nie ustalono faktycznego zachowania dokumentu; nie kontaktować archiwum ani zamawiać bez odrębnego polecenia. Ewidencja domowa Chojen może być skuteczniejsza, jeśli katalog poda indeks nazwisk.
+5. Marian1496 i1497 (S285) pozostają oddzielnymi odczytami bez genealogicznego przypisania. Nie robić zgrupy4m+1k listy dzieci; nie uznawać go za ojcaPiotra. Drugi adres jest niepewny, nie normalizować bez dodatkowego źródła. Stocka12/Grabowa20 zachować jakoH049–H051, nie utożsamiać na podstawie tej samej ulicy lub nazwiska.
+6. Uzupełnić istniejącą kartę C42 i krótki wpis o Agnieszce oS284, zachować70osób/10wpisów i dotychczasowe linie. Sprawdzić `PUBLIKACJA.json` i rzeczywistą stronę; brak tego pliku oznacza, że publikacja nie została jeszcze potwierdzona. Nie publikować całego indeksu i nie eksportować Excela do witryny.
+
+Etap24 dodajeS284–S286 (S286to pochodne zestawienie47wierszy), L284–L286 iG27; bez nowej osoby, relacji i hipotezy. Uzupełnia C102/H052 iT58. Przed kolejnym zapisem sprawdzić ostatnieIDwExcelu, raport walidacji iGit. Oryginalne pakietyZIP i komórki wcześniejszych osób zachować. Wyniki starszych instrukcji są historyczne.

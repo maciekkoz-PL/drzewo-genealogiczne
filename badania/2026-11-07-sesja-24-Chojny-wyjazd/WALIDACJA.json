@@ -1,0 +1,91 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-07T06:19:07.446928+00:00",
+  "baseline": "0fe719edf7baf23c5ce8eaef9337256849713797",
+  "counts": {
+    "RDZEN_RODZINY": 17,
+    "RODZINA_Z_RELACJI": 11,
+    "RELACJE": 59,
+    "KANDYDACI_I_HOMONIMY": 102,
+    "ZDARZENIA_I_FAKTY": 75,
+    "ZRODLA_I_SKANY": 286,
+    "KONTAKTY_URZEDOWE": 16,
+    "SZKICE_GMAIL": 10,
+    "ZADANIA_AGENTA": 58,
+    "KOREKTY_I_SPRZECZNOSCI": 100,
+    "DZIENNIK_KWEREND": 286,
+    "PLIKI_DOWODOWE": 378,
+    "START": 0,
+    "INSTRUKCJA_AGENTA": 27,
+    "POTWIERDZONE_AKTEM_1936": 6,
+    "DRZEWO_SCHEMAT": 0,
+    "RELACJE_ZRODLOWE": 18,
+    "AUDYT_PAKIETU": 0,
+    "HIPOTEZY_OTWARTE": 42,
+    "TROPY_SKOROWIDZE": 21,
+    "HIPOTEZY_ROZSTRZYGNIETE": 10,
+    "WIARYGODNOSC_OSOB": 125,
+    "WIARYGODNOSC_RELACJI": 96,
+    "DECYZJA_ROMAN_P12_C69": 0,
+    "INDEKS_MELDUNKOW": 47
+  },
+  "old_cells_changed": [
+    [
+      "KANDYDACI_I_HOMONIMY",
+      105,
+      3
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      105,
+      7
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      105,
+      8
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "ZADANIA_AGENTA",
+      61,
+      6
+    ],
+    [
+      "ZADANIA_AGENTA",
+      61,
+      9
+    ],
+    [
+      "START",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      43,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      43,
+      4
+    ],
+    [
+      "INDEKS_MELDUNKOW",
+      2,
+      1
+    ]
+  ],
+  "all_other_old_cells_preserved": true,
+  "all_person_relationship_sheets_preserved": true,
+  "original_packages_preserved": true,
+  "source_files": 23,
+  "hashes_valid": true,
+  "index_rows": 47,
+  "new_proven_family_relationships": 0
+}
