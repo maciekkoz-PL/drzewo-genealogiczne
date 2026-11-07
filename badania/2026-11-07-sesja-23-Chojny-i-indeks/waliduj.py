@@ -34,13 +34,13 @@ s=json.loads((HERE/'zrodla/zakres_odczytu.json').read_text());assert s['name_col
 with sync_playwright() as p:
     browser=p.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox'])
     page=browser.new_page();page.set_content((HERE/'INDEKS.html').read_text());assert page.locator('tbody tr').count()==44
-    page.locator('#q').fill('Agnieszka');assert page.locator('tbody tr:visible').count()==2
+    page.locator('#q').fill('Agnieszka');assert page.locator('tbody tr:visible').count()==3
     page.locator('#q').fill('Widawa');assert page.locator('tbody tr:visible').count()==1
     page.locator('#q').fill('Łódź');upper=page.locator('tbody tr:visible').count()
     page.locator('#q').fill('lodz');assert page.locator('tbody tr:visible').count()==upper and upper>0
     browser.close()
 report=dict(result='PASS',at_utc=datetime.datetime.now(datetime.timezone.utc).isoformat(),baseline=BASE,sheets=25,counts=counts,old_cells_changed=changed,
     all_other_old_cells_preserved=True,all_person_and_relationship_sheets_preserved=True,original_zips_preserved=True,
-    source_files=27,source_hashes_valid=True,index_rows=44,index_browser_filter='PASS; Agnieszka2,Widawa1,Łódź=lodz',
+    source_files=27,source_hashes_valid=True,index_rows=44,index_browser_filter='PASS; Agnieszka3(incl.negation),Widawa1,Łódź=lodz',
     new_family_relationships=0,public_tree_unchanged=True,external_HTR_performed=False)
 (HERE/'WALIDACJA.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print(json.dumps(report,ensure_ascii=False))

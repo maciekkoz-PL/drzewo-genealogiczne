@@ -44,7 +44,7 @@ with zipfile.ZipFile(Z/'kolumny_Chojny2139.zip','w',compression=zipfile.ZIP_STOR
 m=json.loads((W/'Chojny_przybyli1939_manifest.json').read_text())
 download=[]; urls={e['pozycja']:e['src'] for e in m['elementy']}
 with (Z/'zakres_stron.csv').open('w',newline='') as f:
-    c=csv.writer(f);c.writerow(['obraz','kolumna_nazwisk','wybrane_pelne_pola','uwagi','oryginal'])
+    c=csv.writer(f,lineterminator="\n");c.writerow(['obraz','kolumna_nazwisk','wybrane_pelne_pola','uwagi','oryginal'])
     for n in range(1,198):
         read=any(a<=n<=b for a,b in s['name_columns_read'])
         c.writerow([n,'ODCZYTANO' if read else 'TECHNICZNY' if n in s['technical_seen'] else 'NIE ODCZYTANO',
@@ -77,7 +77,7 @@ for r in s['hits']:
     desc=f"{r['given_name']} {r['surname']}; {r['notice_date']}; poprzednio {r['previous_place']}; {r['male']}m+{r['female']}k. {r['limitation']}"
     add('S282',s['signature'],r['image'],r['entry'],desc,urls[r['image']],'Etap23,wybrane pełne wpisy')
 with (Z/'indeks_wybranych_wpisow.csv').open('w',newline='') as f:
-    c=csv.DictWriter(f,fieldnames=list(rows[0]));c.writeheader();c.writerows(rows)
+    c=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator="\n");c.writeheader();c.writerows(rows)
 cells=''.join('<tr>'+''.join('<td>'+html.escape(str(r[k]))+'</td>' for k in ['zrodlo','sygnatura','obraz','nr_wpisu','odczyt_i_granice'])+'<td><a href="'+html.escape(r['oryginal'],quote=True)+'">Skan</a></td></tr>' for r in rows)
 page='''<!doctype html><html lang="pl"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Wybrane wpisy meldunkowe</title><style>body{font:16px system-ui;margin:24px;max-width:1400px}input{font:inherit;padding:10px;width:min(90%,650px)}table{border-collapse:collapse;margin-top:20px}td,th{padding:10px;border:1px solid #ccc;text-align:left;vertical-align:top}tr[hidden]{display:none}</style><h1>Wybrane wpisy meldunkowe</h1><p>Roboczy indeks trafień z etapów21–23. Zawiera odczyty niepewne, imienników oraz kilka osób w niektórych wierszach. Nie jest pełnym indeksem ksiąg ani listą krewnych. Brak wyniku nie wyklucza osoby.</p><label>Szukaj nazwiska, adresu lub numeru: <input id="q" type="search"></label><p id="count"></p><table><thead><tr><th>Źródło</th><th>Sygnatura</th><th>Obraz</th><th>Nr</th><th>Odczyt i ograniczenia</th><th>Oryginał</th></tr></thead><tbody>'''+cells+'''</tbody></table><script>const q=document.querySelector('#q'),rr=[...document.querySelectorAll('tbody tr')];function norm(s){return s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/ł/g,'l').toLowerCase()}function run(){let n=0;for(const r of rr){r.hidden=!norm(r.textContent).includes(norm(q.value));if(!r.hidden)n++}document.querySelector('#count').textContent=n+' z '+rr.length+' wierszy'}q.addEventListener('input',run);run()</script></html>'''
 (HERE/'INDEKS.html').write_text(page)

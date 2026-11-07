@@ -76,8 +76,8 @@
   },
   {
     "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/indeks_wybranych_wpisow.csv",
-    "bytes": 15147,
-    "sha256": "ff4d3fcb6c5a52466c0d549b8e46d9f625f520239e890ffdb5111ace3eba9c5f"
+    "bytes": 15102,
+    "sha256": "b006e2d43e03a79625fe7d979aa61a9e7806dd66f8f3fd3fbaf695cf167ec302"
   },
   {
     "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/kolumny_Chojny2139.zip",
@@ -131,7 +131,7 @@
   },
   {
     "path": "badania/2026-11-07-sesja-23-Chojny-i-indeks/zrodla/zakres_stron.csv",
-    "bytes": 25250,
-    "sha256": "29ec094032bf9d955d5e0c7763412bad6bb5e1d0ad867ba9a195909249daf3f1"
+    "bytes": 25052,
+    "sha256": "f8a284e7524e2f5bbde2da93d1cd46bbd67a6c4b1e9721bdc7dd4d381e14c6ec"
   }
 ]
