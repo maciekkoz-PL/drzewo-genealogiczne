@@ -1,0 +1,3215 @@
+
+	
+		
+
+		
+
+
+
+
+
+
+
+Regionalia Ziemi Łódzkiej
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+	    
+
+							
+		
+		
+		
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-7SZ5CVFGP1');
+		
+
+			
+							
+
+	
+
+				
+
+
+	
+		
+		Filtry
+		
+			
+							
+					
+											Kolekcje
+										
+					
+						
+																									
+		
+		
+									Czasopisma
+			(20)
+			
+				
+				
+			
+		
+		
+			
+																					
+					
+				
+							
+					
+											Publikacje grupowe
+										
+					
+						
+																									
+		
+		
+									Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin
+			(9)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Dziennik Łódzki
+			(4)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Nowy Łowiczanin : tygodnik Ziemi Łowickiej
+			(3)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny
+			(2)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Odgłosy : tygodnik łódzki
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Głos Tomaszowski : pismo Polskiej Partii Robotniczej
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																					
+					
+				
+							
+					
+											Typ pliku
+										
+					
+						
+																									
+		
+		
+									application/pdf
+			(20)
+			
+				
+				
+			
+		
+		
+			
+																					
+					
+				
+							
+					
+											Współtwórca
+										
+					
+						
+																									
+		
+		
+									Waligórski, Wojciech. Red. nacz.
+			(14)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Komitet Redakcyjny
+			(4)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Polska Partia Robotnicza. Komitet Wojewódzki (Łódź)
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Polska Zjednoczona Partia Robotnicza. Komitet Wojewódzki (Łódź)
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Polska Zjednoczona Partia Robotnicza. Komitet Łódzki
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																					
+					
+				
+							
+					
+											Hasło przedmiotowe
+										
+					
+						
+																									
+		
+		
+									Czasopisma regionalne i lokalne polskie - od 1989 r.
+			(14)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Łowicz (woj. łódzkie ; okręg) - czasopisma
+			(14)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Głowno (woj. łódzkie ; okręg) - czasopisma
+			(9)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Głowno (woj. łódzkie) - czasopisma
+			(9)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Stryków (woj. łódzkie ; okręg) - czasopisma
+			(9)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Stryków (woj. łódzkie) - czasopisma
+			(9)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Czasopisma regionalne i lokalne polskie
+			(5)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Gazety polskie
+			(4)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Łódź (woj. łódzkie) - czasopisma
+			(4)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Łowicz (woj. łódzkie) - czasopisma
+			(3)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Bedlno (woj. łódzkie ; okręg) - czasopisma
+			(2)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Oporów (woj. łódzkie ; okręg) - czasopisma
+			(2)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Pacyna (woj. mazowieckie ; okręg) - czasopisma
+			(2)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Żychlin (woj. łódzkie ; okręg) - czasopisma
+			(2)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Czasopisma polityczne polskie - 1944-1956 r.
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Czasopisma regionalne i lokalne polskie - 1944-1956 r.
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Czasopisma społeczno-kulturalne polskie
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Gazety polskie - 1944-1956 r.
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Polska Partia Robotnicza (1942-1948) - czasopisma
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Polska Zjednoczona Partia Robotnicza. Komitet Wojewódzki (Łódź) - czasopisma
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Polska Zjednoczona Partia Robotnicza. Komitet Łódzki - czasopisma
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Tomaszów Mazowiecki (woj. łódzkie ; okręg) - polityka - organizacje - 1944-1956 r. - czasopisma
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Łódź (woj. łódzkie ; okręg) - 1944-1956 r. - czasopisma
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Łódź (woj. łódzkie) - kultura - czasopisma
+			(1)
+			
+				
+				
+			
+		
+		
+			
+																					
+					
+				
+							
+					
+											Typ zasobu
+										
+					
+						
+																									
+		
+		
+									Czasopismo
+			(15)
+			
+				
+				
+			
+		
+		
+			
+																		
+		
+		
+									Gazeta
+			(5)
+			
+				
+				
+			
+		
+		
+			
+																					
+					
+				
+							
+					
+											Język
+										
+					
+						
+																									
+		
+		
+									pol
+			(20)
+			
+				
+				
+			
+		
+		
+			
+																					
+					
+				
+						
+		
+		
+			
+		
+	
+
+
+
+		
+		
+
+			
+
+  
+    Przejdź do menu głównego
+        Przejdź do wyszukiwarki
+        Przejdź do treści
+    Przejdź do stopki
+  
+
+
+	
+        
+  
+    
+      
+        
+      
+      
+									      
+      
+          pl
+      
+                        en
+                                
+      
+              en
+              pl
+          
+  
+				        
+          
+            
+            Kontrast
+          
+        
+
+        
+          
+            
+              Udostępnij
+            
+            
+               var a2a_config = a2a_config || {};
+               a2a_config.onclick = 1;
+               a2a_config.locale = "pl";
+               a2a_config.color_main = "D7E5ED";
+               a2a_config.color_border = "9D9D9D";
+               a2a_config.color_link_text = "333333";
+               a2a_config.color_link_text_hover = "333333";
+               a2a_config.color_bg = "d9d9d9";
+               a2a_config.icon_color = "#767676";
+							 a2a_config.num_services = 6;
+							 a2a_config.prioritize = ["facebook", "wykop", "twitter", "pinterest", "email", "gmail"];
+            
+            
+          
+        
+        
+                      
+              Zaloguj się
+            
+                  
+      
+    
+  
+  
+    
+      
+        
+          
+        
+      
+      
+					
+					
+          
+          
+                                
+      
+          pl
+      
+                        en
+                                
+      
+              en
+              pl
+          
+  
+                      
+          
+                          
+                Zaloguj się
+              
+							
+								
+								Kontrast
+							
+              
+		            
+		              Udostępnij
+		            
+		            
+		               var a2a_config = a2a_config || {};
+		               a2a_config.onclick = 1;
+		               a2a_config.locale = "pl";
+									 a2a_config.num_services = 6;
+									 a2a_config.prioritize = ["facebook", "wykop", "twitter", "pinterest", "email", "gmail"];
+		            
+		            
+		          
+                      
+          
+            
+            Powrót
+          
+          
+            
+              
+                
+              
+            
+                           	
+						
+				
+					O Bibliotece
+				
+				
+					O Bibliotece
+				
+				
+					
+
+		
+			
+		
+									
+															
+							Aktualności
+														
+				
+												
+															
+							Informacje techniczne
+														
+				
+												
+															
+							Polityka Cookies
+														
+				
+												
+																					
+							Kontakt
+														
+				
+												
+															
+							Deklaracja dostępności
+														
+				
+						
+				
+			
+
+
+
+                           
+  
+    
+      Kolekcje
+    
+    
+      Kolekcje
+    
+    
+    
+      
+        
+      
+            	
+            	
+				
+			Program Kultura +
+		
+	
+            	
+				
+			Materiały Regionalne
+		
+	
+            	
+				
+			Książki
+		
+	
+            	
+				
+			Czasopisma
+		
+	
+            	
+				
+			Wystawy
+		
+	
+            	
+				
+			Kultura cyfrowa
+		
+	
+            	
+				
+			Muzeum w Nieborowie i Arkadii
+		
+	
+            	
+				
+			Dostępne na miejscu
+		
+	
+          
+  
+
+
+                           
+
+
+
+	
+		Indeksy
+	
+	
+		Indeksy
+	
+	
+	
+		
+			
+		
+					
+				
+			Autor
+		
+	
+					
+				
+			Tytuł
+		
+	
+					
+				
+			Współtwórca
+		
+	
+					
+				
+			Wydawca
+		
+	
+					
+				
+			Hasło przedmiotowe
+		
+	
+					
+				
+			Wykaz czasopism
+		
+	
+			
+
+
+
+                           
+  
+  
+    Historia przeglądania
+  
+  
+    Historia przeglądania
+  
+	
+    
+      
+    
+    
+      
+        Obiekty
+      
+      
+      
+        
+          
+        
+		          
+    
+    
+      
+        Kolekcje
+      
+      
+      
+  			
+  				
+  			
+		          
+    
+  
+
+
+
+                      
+          
+            
+          
+      
+    
+  
+
+
+							
+
+	
+	  
+			
+								
+					Pole wyszukiwania
+					
+					
+					
+					
+					
+					
+						 
+					
+				
+
+				
+					
+							Wyszukiwanie zaawansowane					
+
+					
+						?
+					
+				
+				
+	    
+				  
+	
+
+
+			
+			
+
+			
+												
+
+	
+
+
+	
+					Szukana fraza: "Tomasz Chmielewski"
+			Wyników: 20
+		
+	
+
+        	
+		
+			Filtruj wyniki
+		
+
+		
+			
+	
+		
+
+				
+				
+					32
+					64
+					96
+					obiektów na stronie
+				
+		
+		
+				
+		
+							Sortuj według trafności
+										
+					Sortuj po tytułach A-Z
+				
+				
+					Sortuj po tytułach Z-A
+				
+							
+					Sortuj po twórcach A-Z
+				
+				
+					Sortuj po twórcach Z-A
+				
+							
+					Sortuj od najstarszych
+				
+				
+					Sortuj od najnowszych
+				
+					
+		
+		
+		
+			
+				
+				Dodaj wszystkie do bibliografii
+			
+		
+
+
+		
+			
+				
+			
+
+			
+				
+			
+
+			
+				
+			
+		
+
+				
+			
+
+
+	
+	
+				
+		z
+		1
+	
+
+	
+		
+		
+	
+	
+
+
+	
+				
+										
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2021-06-17 R. 31 nr 24					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2021-06-17
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2021-07-08 R. 31 nr 27					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2021-07-08
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+				
+			
+		
+		
+							
+					
+					
+						Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Dziennik Popularny. 1977-04-06 R. 33 nr 77					
+				
+			
+
+			
+				
+																Komitet Redakcyjny
+									
+			
+			
+				
+											1977-04-06
+									
+			
+			
+				
+																		Gazeta															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+				
+			
+		
+		
+							
+					
+					
+						Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Dziennik Łódzki. 1975-04-09 R. 31 nr 81					
+				
+			
+
+			
+				
+																Komitet Redakcyjny
+									
+			
+			
+				
+											1975-04-09
+									
+			
+			
+				
+																		Gazeta															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+				
+			
+		
+		
+							
+					
+					
+						Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Dziennik Popularny. 1980-01-08 R. 36 nr 6					
+				
+			
+
+			
+				
+																Komitet Redakcyjny
+									
+			
+			
+				
+											1980-01-08
+									
+			
+			
+				
+																		Gazeta															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Głos Tomaszowski : pismo Polskiej Partii Robotniczej 1947-1951
+				
+			
+		
+		
+							
+					
+					
+						Głos Tomaszowski : pismo Polskiej Partii Robotniczej 1947-1951
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Głos Tomaszowski : organ WK i ŁK Polskiej Zjednoczonej Partii Robotniczej. 1951-02-09 R. 4 (7) nr 39					
+				
+			
+
+			
+				
+																Polska Partia Robotnicza. Komitet Wojewódzki (Łódź)
+											Polska Zjednoczona Partia Robotnicza. Komitet Łódzki
+											Polska Zjednoczona Partia Robotnicza. Komitet Wojewódzki (Łódź)
+									
+			
+			
+				
+											1951-02-09
+									
+			
+			
+				
+																		Gazeta															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+				
+			
+		
+		
+							
+					
+					
+						Dziennik Łódzki 1945-1953 - 1956-1975 - 1975-2000
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Dziennik Łódzki. 1981-01-12 R. 37 nr 8					
+				
+			
+
+			
+				
+																Komitet Redakcyjny
+									
+			
+			
+				
+											1981-01-12
+									
+			
+			
+				
+																		Gazeta															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2021-04-01 R. 31 nr 13					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2021-04-01
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2022-08-04 R. 32 nr 31					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2022-08-04
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2022-08-18 R. 32 nr 33					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2022-08-18
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Odgłosy : tygodnik łódzki 1958-1991, 1991-1992
+				
+			
+		
+		
+							
+					
+					
+						Odgłosy : tygodnik łódzki 1958-1991, 1991-1992
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Odgłosy : tygodnik społeczno-kulturalny. 1986-01-11 R. 29 nr 2					
+				
+			
+
+			
+				
+														
+			
+			
+				
+											1986-01-11
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2018-01-04 R. 28 nr 1					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2018-01-04
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2021-06-10 R. 31 nr 23					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2021-06-10
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2021-05-06 R. 31 nr 18					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2021-
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-
+				
+			
+		
+		
+							
+					
+					
+						Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Nowy Łowiczanin : tygodnik Ziemi Łowickiej. 2002-03-21 R. 12 nr 12					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2002-03-21
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+				
+			
+		
+		
+							
+					
+					
+						Wieści z Głowna i Strykowa : edycja wspólna z tygodnikiem Nowy Łowiczanin 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Wieści z Głowna i Strykowa : TL tygodnik lokalny : [edycja wspólna z tygodnikiem Nowy Łowiczanin]. 2018-09-20 R. 28 nr 38					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2018-09-20
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-
+				
+			
+		
+		
+							
+					
+					
+						Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny. 2013-06-27 R. 23 nr 26					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2013-06-27
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-
+				
+			
+		
+		
+							
+					
+					
+						Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny 2012-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Nowy Łowiczanin : dla Żychlina, Bedlna, Oporowa i Pacyny. 2019-05-02 R. 29 nr 18					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2019-05-02
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-
+				
+			
+		
+		
+							
+					
+					
+						Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Nowy Łowiczanin : tygodnik Ziemi Łowickiej : TL tygodnik lokalny. 2019-05-02 R. 29 nr 18					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2019-05-02
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+							
+	
+			
+			
+	
+	
+			
+	
+		
+	
+
+					
+				
+				
+					Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-
+				
+			
+		
+		
+							
+					
+					
+						Nowy Łowiczanin : tygodnik Ziemi Łowickiej 1999-
+					
+				
+						
+									
+													
+											
+							
+		
+		
+			
+				
+					
+						Nowy Łowiczanin : tygodnik Ziemi Łowickiej. 2001-08-30 R. 11 nr 35					
+				
+			
+
+			
+				
+																Waligórski, Wojciech. Red. nacz.
+									
+			
+			
+				
+											2001-08-30
+									
+			
+			
+				
+																		Czasopismo															
+			
+		
+		
+				
+		
+			
+		
+	
+
+	
+				
+			
+				
+			
+			
+				
+					
+						ris
+					
+				
+				
+					
+						BibTeX
+					
+				
+			
+		
+	
+
+	
+			
+			
+		
+		
+
+	
+		
+			
+		
+	
+
+		
+	
+					
+			
+
+		
+		
+	
+	
+						
+				1
+
+		
+		z
+				1
+	
+
+	
+	
+	
+
+
+
+
+
+	
+
+				Podobne w FBC
+		
+			 
+		
+
+		
+			
+				Więcej w FBC
+				
+			
+		
+	
+
+
+
+							
+		
+					
+    
+      
+        Dane kontaktowe
+        
+            
+                
+                    Adres
+                    
+Biblioteka Cyfrowa
+Regionalia Ziemi Łódzkiej
+przy Wojewódzkiej Bibliotece Publicznej w Łodzi
+ul. Gdańska 100/102
+90-508 Łódź
+
+                
+                
+                    Telefon
+                    
+						
+	tel. +48 42 663 03 36
+
+					
+                
+                
+                    E-Mail
+					
+						kontakt@wbp.lodz.pl
+					
+                
+				                
+                    Odwiedź nas!
+										
+						
+              https://wbp.lodz.pl/
+              
+            
+					
+															
+						
+					
+					                
+				            
+        
+      
+    
+
+				
+    
+      
+        Mapa strony
+        
+          
+            Strona główna
+          
+        
+        
+        
+							
+
+
+    Kolekcje
+    
+    	    	
+		    	    			        Program Kultura +
+	            	    			        Materiały Regionalne
+	            	    			        Książki
+	            	    			        Czasopisma
+	            	    			        Wystawy
+	            	    			        Kultura cyfrowa
+	            	    			        Muzeum w Nieborowie i Arkadii
+	            	    		    	        ...
+        Zobacz więcej
+    
+
+
+							
+
+
+
+
+    Indeksy
+    
+
+    					        	Autor
+	        						        	Tytuł
+	        						        	Współtwórca
+	        						        	Wydawca
+	        						        	Hasło przedmiotowe
+	        						        	Wykaz czasopism
+	        		    
+
+
+							
+
+	
+	    O Bibliotece
+	    
+
+	    							
+																
+								Aktualności
+														
+				
+												
+																
+								Informacje techniczne
+														
+				
+												
+																
+								Polityka Cookies
+														
+				
+												
+																					
+							Dane kontaktowe
+														
+				
+												
+																
+								Deklaracja dostępności
+														
+				
+						    
+	
+
+			        
+     						
+
+	
+    
+      Konto użytkownika
+    
+          Zaloguj się
+    		Historia przeglądania
+		
+					
+	
+
+
+        	
+        
+      
+    
+
+    	
+		
+			
+
+Biblioteka Cyfrowa Regionalna Ziemi Łódzkiej tworzona jest przez 
+Wojewódzką Bibliotekę Publiczną im. Marszałka Józefa Piłsudskiego w Łodzi
+
+		
+		
+      
+		
+	
+
+
+
+
+  
+    
+
+Ten serwis działa dzięki oprogramowaniu DInGO dLibra 6.2.9 opracowanemu przez Poznańskie Centrum Superkomputerowo-Sieciowe
+
+  
+
+
+
+	Ta strona wykorzystuje pliki 'cookies'.
+		Więcej informacji
+		Rozumiem
+	
+
+		
+		  
+		    
+		      
+		        
+		      
+		      
+		        Ok
+		      
+					
+		    
+		  
+		
+
+		
+			
+				
+					
+						
+					
+					
+						Ok
+					
+					
+				
+			
+		
+
+		
+		
+		
+	

@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-07T04:10:39+00:00",
+  "cards": [
+    {
+      "id": 270863680,
+      "name": "Witold Chmielewski",
+      "death": "2003-08-22",
+      "url": "https://www.findagrave.com/memorial/270863680/witold-chmielewski"
+    },
+    {
+      "id": 270863681,
+      "name": "Czesław Chmielewski",
+      "death": "1981-01-16",
+      "url": "https://www.findagrave.com/memorial/270863681/czes%C5%82aw-chmielewski"
+    }
+  ],
+  "shared_fields": {
+    "birth": "unknown",
+    "photos": 0,
+    "plot": "Kwatera: XXXVI, Rząd: 15, Grób: 36",
+    "visible_linked_relatives": [],
+    "added": "2024-05-31",
+    "creator": "woowoo"
+  },
+  "search_scope": {
+    "witold": "Pierwsza strona 20 z 26, potem dokładna karta; nie komplet wszystkich kart.",
+    "czeslaw": "Wszystkie 3 wyniki zgonu 1981, jedna strona; potem dokładna karta."
+  },
+  "limit": "Nie ustalono niezależności od miejskiego wykazu. Ukryte szablony komunikatów edycji i wysyłki w HTML nie oznaczają wykonania działań. Wyłącznie odczyty GET; bez konta i kontaktu."
+}

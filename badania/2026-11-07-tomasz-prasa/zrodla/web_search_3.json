@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.skateguardblog.com/2022/07/historical-results-from-polish-figure.html",
+        "title": "Historical Results From The Polish Figure Skating ...",
+        "description": "Dorota Pełka and Tomasz Chmielewski. 1981. Iwona Bielas and Jacek ... Dorota Pela and Jacek Jasleczek. Monika Kowalska and Krysztof ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/2006_Polish_Figure_Skating_Championships",
+        "title": "Polish Figure Skating Championships - Wikipedia",
+        "description": "Dorota Peła; Tomasz Chmielewski. 1981. Iwona Bielas · Jacek Jasiaczek · Jolanta Wesołowska; Andrzej Alberczak. Bożena Wierzchowska; Robert Kazanowski.",
+        "position": 2,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b41f-de3f-7145-876e-dbf018be392a",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 2 web results are excerpts only (#1 \"https://www.skateguardblog.com/2022/07/historical-results-from-polish-figure.html\", #2 \"https://en.wikipedia.org/wiki/2006_Polish_Figure_Skating_Championships\"). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

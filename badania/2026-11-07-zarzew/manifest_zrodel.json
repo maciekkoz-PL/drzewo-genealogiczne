@@ -1,0 +1,77 @@
+[
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/ecmentarze.html",
+    "bytes": 169896,
+    "sha256": "2fd36bd66591b21d22556e6c5aeeed4081c1474bc06b94f2fa520ee2dc544e08"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/ecmentarze.txt",
+    "bytes": 24542,
+    "sha256": "9467cce0c38f62b12f4506044f11c3b9ef90d384d7a4233fc886bf052bcc96dd"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/ecmentarze_scrape.json",
+    "bytes": 9605,
+    "sha256": "84a00dd625d9a53e62c8f30b808628eecf625ee0dbc157e367ea3a3cbd3df3a7"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/findagrave_czeslaw.json",
+    "bytes": 70042,
+    "sha256": "d4c49516240caef18413b54ff65c22fa2e23c3de8146c4f5b17dc622a0ea1b3a"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/findagrave_odczyt.json",
+    "bytes": 1046,
+    "sha256": "623b017952ac470bc17b327db24db53ecc1b517497f90ad7b15f0e0c1ee2efa6"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/findagrave_search_0.json",
+    "bytes": 247822,
+    "sha256": "6dd20e852d803c12c10cb0710e3b49719584d5ae3d9711b365114f5cd9655134"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/findagrave_search_1.json",
+    "bytes": 196028,
+    "sha256": "e031f087c267ef65f4797d019958a39a1895bb9b052fe6267b24d07f34a71598"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/findagrave_witold.json",
+    "bytes": 70052,
+    "sha256": "d9073c5398c81e3462665529bdae67e16946ac8b180bf8bfef4a401b667b77fa"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/msig_czeslaw_miejscownik.json",
+    "bytes": 653,
+    "sha256": "2e4b4b86a0c08faf9629fe6c73bd55a47f183f8ef99c59d116d231e7ff9c3cb7"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/msig_kontrola.json",
+    "bytes": 722,
+    "sha256": "9e7f26a60fe40d89ef5218e423cbabcb0995440c358745c0933b6e52083c4458"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/msig_witold.json",
+    "bytes": 639,
+    "sha256": "543e340813a73a3870837bbecff107cbabbf51bd5bf02e88fc4ff71436918bf5"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/msig_witold_miejscownik.json",
+    "bytes": 647,
+    "sha256": "6684714ccc675e172310c345b352f27e70d4ca05871821598b193c6e79c01751"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/municipal.html",
+    "bytes": 11583,
+    "sha256": "69da348cab4e11be5a95a932e5e9824f84db311e97a777b2e7e473446ff2a127"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/municipal.txt",
+    "bytes": 1955,
+    "sha256": "97b1abddc6d8a135be97c14116644ca6f28f3ed96451d88f2865d9cebfba5399"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew/zrodla/rejestr_grobu.json",
+    "bytes": 743,
+    "sha256": "cfb38a012a2d52821b5adda49051a650225ca6f6c9521f201dc1839ed7a78a74"
+  }
+]

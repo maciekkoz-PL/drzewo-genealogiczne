@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://katalogi.bn.org.pl/discovery/fulldisplay/alma9914532584805606/48OMNIS_NLOP:48OMNIS_NLOP",
+        "title": "\"Express Ilustrowany\" / Monika Worsowicz.",
+        "description": "... Express Ilustrowany\" / Monika Worsowicz ... łódzkie) -- czasopisma -- od 2001 r. Łódź (woj. łódzkie) -- czasopisma -- od ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/109172/edition/104366?language=pl",
+        "title": "Obiekt - Regionalia Ziemi Łódzkiej",
+        "description": "Łódzki Express Ilustrowany 1953 - 1956 · Łódzki Express Ilustrowany 1953 - 1956 ... Biblioteka Cyfrowa Regionalna Ziemi Łódzkiej tworzona jest przez",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.przeworsk-mbp.sowa.pl/index.php?KatID=0&typ=repl&plnk=q__%2A&ftitle=Express+Ilustrowany+%28czasopismo+%3B+1946-+%29&sort=byscore",
+        "title": "SOWA OPAC : Miejska Biblioteka Publiczna w Przeworsku",
+        "description": "Miejska Biblioteka Publiczna w Przeworsku ... 2001-. (1). Kraj wydania. Polska. (1). Język. polski. (1) ... Express Ilustrowany (czasopismo ; 1946- ) Gazeta ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://expressilustrowany.pl/brzeziny-miedzynarodowy-dzien-ksiazki-dla-dzieci-bez-dzieci/ar/c1-14894407",
+        "title": "Brzeziny. Międzynarodowy Dzień Książki dla Dzieci... bez dzieci ...",
+        "description": "Miejska Biblioteka Publiczna w Brzezinach przypomina, że 2 kwietnia obchodzimy Międzynarodowy Dzień Książki dla Dzieci ... W Polsce od 2001 ... Express Ilustrowany ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.ozorkow.net/2007/01/04/miejska-biblioteka-publiczna-im-krzysztofa-kamila-baczynskiego/",
+        "title": "Miejska Biblioteka Publiczna im. Krzysztofa Kamila Baczyńskiego",
+        "description": "Czasopisma bieżące: 17 tytułów – Biblioteka w Szkole, Cztery Kąty, Dziennik Łódzki, Express Ilustrowany, Gminniak, Kalejdoskop, Kumpel, Mój ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://bibliotekanauki.pl/articles/88311",
+        "title": "Łódzka przestrzeń pamięci do turystycznego zagospodarowania",
+        "description": "Dąbrowska-Budziło K., 2001 ... [w:] Gazeta Wyborcza Łódź, 20 kwietnia. Izj, 2008: Rozbierają zabytkowy browar Ludwika Anstadta. [w:] Express Ilustrowany, 17 ...",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "letterboxd-com",
+        "capability": "films/lists",
+        "description": "Which curated lists a film appears in: pass `film` (slug, Letterboxd URL or boxd.it link), `tmdb_id` or `imdb_id`, pick a `sort` and page through with `page`."
+      },
+      {
+        "provider": "letterboxd-com",
+        "capability": "films/browse_films",
+        "description": "Discover films and collect many average ratings without a fixed URL list. `page` continues where the previous call stopped (`next_page`). Only the popular sort is supported."
+      }
+    ]
+  },
+  "id": "01a1b41d-1056-7692-bbd7-a04220fb2dfe",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://katalogi.bn.org.pl/discovery/fulldisplay/alma9914532584805606/48OMNIS_NLOP:48OMNIS_NLOP\", #2 \"https://bc.wbp.lodz.pl/dlibra/publication/109172/edition/104366?language=pl\", #3 \"https://www.przeworsk-mbp.sowa.pl/index.php?KatID=0&typ=repl&plnk=q__%2A&ftitle=Express+Ilustrowany+%28czasopismo+%3B+1946-+%29&sort=byscore\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

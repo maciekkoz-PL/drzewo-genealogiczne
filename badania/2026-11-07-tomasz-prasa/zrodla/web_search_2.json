@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://nekrologi.wyborcza.pl/0,10,,1,0,100,,,,,Warszawa,,,,,,,false.html",
+        "title": "Wyróżnione ogłoszenia - Nekrologi - wyszukiwarka",
+        "description": "W dniu 25 września 2026 roku zmarł w wieku 60 lat Nasz kochany Mąż, Tata, Dziadek, Brat i Wujek Michał Chmielewski Msza żałobna odprawiona zostanie w ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://nekrologi.wyborcza.pl/0,0.html",
+        "title": "Nekrologi Kondolencje Pożegnania - największy polski serwis ...",
+        "description": "Tomasz Knapik Tomasz. Tomasz Knapik Krzysztof rzysztof Kowalewski Henryk Jerzy Chmielewski Piotr Machalica Ewa Demarczyk. Chmielewski P.",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://nekrologi.wyborcza.pl/0,10,,1,0,100.html",
+        "title": "Wyróżnione ogłoszenia - Nekrologi - wyszukiwarka",
+        "description": "Tomasz Jurewicz 04.11.2026. Henryk Jerzy Chmielewski Henryk Jerzy Chmielewski Urodzony: 07.06.1923,Warszawa. Tomasz Grochowski Tomasz",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://nekrologi.wyborcza.pl/0,10,,2746,0,100,,,,,,,,,,,,false.html",
+        "title": "Wyróżnione ogłoszenia - Nekrologi - wyszukiwarka",
+        "description": "Nekrologi, kondolencje, pożegnania - największy polski serwis nekrologów.",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://nekrologi.wyborcza.pl/0,10,,1484,0,100,,,,,,,,,,,,false.html",
+        "title": "Wyróżnione ogłoszenia - Nekrologi - wyszukiwarka",
+        "description": "Z żalem zawiadamiamy, że 31 stycznia 2016 roku odszedł nasz Mąż, Ojciec i Dziadek Bohdan Chmielewski Uroczystości pogrzebowe odbęda sie 5 lutego 2016 roku o ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://nekrologi.wyborcza.pl/0,18,,,,OBITUARY,AC%5BRP%5DID%5B2026-10-26+TO+2026-10-26%5D.html",
+        "title": "Inne nekrologi",
+        "description": "Michał Chmielewski cała Polska · W dniu 25 września 2026 roku zmarł w wieku 60 lat Nasz kochany Mąż, Tata, Dziadek, Brat i Wujek... Tadeusz ...",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "mediaexpert-pl",
+        "capability": "products/product",
+        "description": "Price, availability and specs for a mediaexpert.pl product URL, pasted or taken from `category` items."
+      }
+    ]
+  },
+  "id": "01a1b41d-1093-73d0-8081-aa3a6796cc4e",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://nekrologi.wyborcza.pl/0,10,,1,0,100,,,,,Warszawa,,,,,,,false.html\", #2 \"https://nekrologi.wyborcza.pl/0,0.html\", #3 \"https://nekrologi.wyborcza.pl/0,10,,1,0,100.html\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

@@ -1,0 +1,87 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "http://bc.wbp.lodz.pl/Content/76156/Nowy_Lowiczanin_2002_nr_12a.pdf",
+        "title": "[PDF] Uczniowie kradli na 1amow1en1e - Regionalia Ziemi Łódzkiej",
+        "description": "... Tomasz Chmielewski nie dał się nabrać i kazał grać dalej. W 26. minucie nie popisał się Pińkowski . „Pinio\" miał dobrą okazję, ale w lepszej ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "http://bc.wbp.lodz.pl/Content/64048/Dziennik_Lodzki_1975_nr81a.pdf",
+        "title": "[PDF] DZIENNIK - Regionalia Ziemi Łódzkiej",
+        "description": "- Tomasz Chmielewski i I\"\"°\"'P B'\"- las - Jacek Jaslaczek,. W parach sportowych Grażyna Ko- strzew i ńska t Adam Brodecki wystą pili w jetdzie pokazowej .ze ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://bc.wbp.lodz.pl/Content/109815/NowyLowiczanin-dla-Zychlina-i-okolic_nr_18_2019-05-02.pdf",
+        "title": "[PDF] Spłonęła stodoła ze słomą – to mogło być podpalenie",
+        "description": "Tomasz Chmielewski, który wy- grał młodszą kategorię był dopie- ro 47. z czasem 1:03,39 h. – Jestem zadowolony ze swo- jego pierwszego ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "http://bc.wbp.lodz.pl/Content/80333/Z_26_27-06-2013a.pdf",
+        "title": "[PDF] Dyrektor upomniał nauczycielkę, sąd uchylił karę upomnienia",
+        "description": "Na jubileusz przyjechali też byli wi- kariusze Oporowa: Witold Gło- wacz, Bronisław Kraszewski,. Tomasz Chmielewski, Adam Ku- rzyk i Robert ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "http://bc.wbp.lodz.pl/Content/75962/Nowy_Lowiczanin_2001_nr_35a.pdf",
+        "title": "[PDF] KONIECZNY",
+        "description": "... Tomasz Chmielewski oraz Sylwester Choiński i Waldemar. Szymęlfejnik (Giżycko). Żółte kartki: Tomasz Styszko (1) i Arkadiusz Gon- cizia ( 1) - Pelikan oraz ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://bc.wbp.lodz.pl/Content/52606/Dziennik_Lodzki1981nr008.pdf",
+        "title": "[PDF] DZIENNIK - Regionalia Ziemi Łódzkiej",
+        "description": "było Dorota Pel3 - Tomasz Chmielewski. wyróżnić. - zdaniem obscrwator-'>w. W konkurencji Dar sportoW'Ych wo- dwlę zawodniczki: :i Chwilę rcen- bee w.vst ...",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "mediaexpert-pl",
+        "capability": "products/product",
+        "description": "Price, availability and specs for a mediaexpert.pl product URL, pasted or taken from `category` items."
+      },
+      {
+        "provider": "www-60-tools",
+        "capability": "video-game-gear/bis",
+        "description": "Answer what gear, enchants, consumables and talents a WoW Forever character should use, e.g. a level 20 warrior: pass class, list slug (from `lists`) and level. Chain item ids into `item`."
+      },
+      {
+        "provider": "apps-fcc-gov",
+        "capability": "equipment-authorizations/list_tcbs",
+        "description": "To list or look up the certification bodies (TCBs) that issue grants, e.g. to resolve a tcb_code filter for search_authorizations."
+      },
+      {
+        "provider": "www-60-tools",
+        "capability": "video-game-gear/talents",
+        "description": "Explain a WoW Forever class's talents or what changed from Classic; pair with the builds from `bis`."
+      },
+      {
+        "provider": "talentsforever-com",
+        "capability": "video-game-talents/builds",
+        "description": "Answer which talent build a WoW Forever class or spec should take at 60 or at the level 30 cap. Pass a row's `calculator_url` to `talents` as `build` for every rank."
+      },
+      {
+        "provider": "forever-codex-com",
+        "capability": "video-game-gear/talents",
+        "description": "Answer which talents a WoW Forever character can take or should consider at its level (one point per level from 10; row N needs 5*(N-1) points in its tree) and what is new or changed for a class. Pair with `spec` for the stats the spec values."
+      }
+    ]
+  },
+  "id": "01a1b41d-1091-75b1-857c-f6a6b2fc1fa7",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"http://bc.wbp.lodz.pl/Content/76156/Nowy_Lowiczanin_2002_nr_12a.pdf\", #2 \"http://bc.wbp.lodz.pl/Content/64048/Dziennik_Lodzki_1975_nr81a.pdf\", #3 \"https://bc.wbp.lodz.pl/Content/109815/NowyLowiczanin-dla-Zychlina-i-okolic_nr_18_2019-05-02.pdf\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

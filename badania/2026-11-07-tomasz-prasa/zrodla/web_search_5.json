@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://finux.pl/pl/osoby/chmielewski/prokurenci",
+        "title": "Prokurenci o nazwisku Chmielewski — katalog KRS (53) | Finux",
+        "description": "ŁÓDŹ. Funkcje: Prokurent. Spółki: 2. Wybrane spółki ... Dariusz Bogusław Chmielewski. Miasto: Włocławek ... Krzysztof Tomasz Chmielewski. Miasto: Pniewo.",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://simp.pl/stowarzyszenie/czlonkowie-honorowi-simp/",
+        "title": "Prezes Honorowy i Członkowie Honorowi SIMP",
+        "description": "Bogusław Szarama, Stalowa Wola. 201, Józef Szatkowski, Szczecin. 202, Czesław ... e-mail prezes: tomasz.chmielewski@simp.pl. KSIĘGOWOŚĆ: tel. +48 690 250 118",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.adwokatura.pl/pomoc-frankowiczom/",
+        "title": "Pomoc frankowiczom - Naczelna Rada Adwokacka - Warszawa",
+        "description": "Bogusław. boguslaw.owsianik@adwokatura.pl. Bydgoszcz. Gdańska 10/. 663-754-274 ... tomasz.chmielewski@adwokat-doradca.pl. Katowice. Kościuszki 2/. 505-041-394.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.znanylekarz.pl/internista/medicover?page=9",
+        "title": "Polecani interniści z Medicover - Internista - ZnanyLekarz.pl",
+        "description": "Tomasz Chmielewski. Lekarz rodzinny. (Choroby wewnętrzne, Medycyna rodzinna ... Bogusław Paliszek-Saładyga. Internista, Gastrolog. 2 opinie. Legnicka 56 ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.myheritage.pl/names/marianna_skolimowska?srsltid=AYCX9vK2ck_5F08M-BtYH1W_7kQN-1ZgbiHG1mW78PSHppi64rcgkZZY",
+        "title": "Marianna Skolimowska Historia rodziny i zapisy historyczne",
+        "description": "Marianna poślubiła Tomasz Chmielewski w roku 1767, w wieku 16 w miejsce ślubu ... Bogusław urodził się dnia dzień miesięcznie 1915, w miejsce urodzenia",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b41f-dd91-763e-b6f7-214d9abfbc34",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://finux.pl/pl/osoby/chmielewski/prokurenci\", #2 \"https://simp.pl/stowarzyszenie/czlonkowie-honorowi-simp/\", #3 \"https://www.adwokatura.pl/pomoc-frankowiczom/\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}
