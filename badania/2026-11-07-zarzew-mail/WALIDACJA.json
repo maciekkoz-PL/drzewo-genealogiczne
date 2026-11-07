@@ -1,0 +1,86 @@
+{
+  "at": "2026-11-07T04:19:46+00:00",
+  "sheets": 24,
+  "sent_message_id": "1a1b439e5f868475",
+  "recipient_verified": true,
+  "sent_label_verified": true,
+  "modified_old_cells": [
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "KONTAKTY_URZEDOWE",
+      6,
+      7
+    ],
+    [
+      "KONTAKTY_URZEDOWE",
+      6,
+      8
+    ],
+    [
+      "SZKICE_GMAIL",
+      6,
+      5
+    ],
+    [
+      "SZKICE_GMAIL",
+      6,
+      7
+    ],
+    [
+      "SZKICE_GMAIL",
+      10,
+      5
+    ],
+    [
+      "SZKICE_GMAIL",
+      10,
+      7
+    ],
+    [
+      "ZADANIA_AGENTA",
+      17,
+      6
+    ],
+    [
+      "ZADANIA_AGENTA",
+      17,
+      9
+    ],
+    [
+      "ZADANIA_AGENTA",
+      54,
+      6
+    ],
+    [
+      "ZADANIA_AGENTA",
+      54,
+      8
+    ],
+    [
+      "ZADANIA_AGENTA",
+      54,
+      9
+    ],
+    [
+      "START",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      4,
+      3
+    ]
+  ],
+  "family_sheets_unchanged": true,
+  "new_sources": "S265–S266",
+  "new_logs": "L255–L256",
+  "new_files": "F218–F220",
+  "new_mail": "M10",
+  "correction": "Q98",
+  "source_files": 5
+}
