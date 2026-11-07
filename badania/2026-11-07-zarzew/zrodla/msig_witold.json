@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-07T04:07:29.231753+00:00",
+  "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Search?entityName=&krs=&nip=&textInPosition=&textInBody=Witold+Chmielewski&signatureType=A&signatureOfCase=&signatureKRS=&court=&from=2003-08-22&to=2026-11-07&page=1",
+  "params": {
+    "entityName": "",
+    "krs": "",
+    "nip": "",
+    "textInPosition": "",
+    "textInBody": "Witold Chmielewski",
+    "signatureType": "A",
+    "signatureOfCase": "",
+    "signatureKRS": "",
+    "court": "",
+    "from": "2003-08-22",
+    "to": "2026-11-07",
+    "page": "1"
+  },
+  "data": {
+    "countPages": 100,
+    "page": 1,
+    "list": []
+  }
+}

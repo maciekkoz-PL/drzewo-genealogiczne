@@ -1,0 +1,15 @@
+{
+  "params": {
+    "query": "Tomasz Chmielewski",
+    "textSearch": "true",
+    "_textSearch": "on",
+    "page": "1",
+    "pageStep": "0",
+    "pageSize": "10",
+    "AnnouncementSearch.LEFT-01.search": "szukaj »"
+  },
+  "url": "https://nekrologi.wyborcza.pl/0,10,,1,0,10,,,Tomasz+Chmielewski,,,,,,,,,true.html",
+  "lines": [
+    "Nie znaleziono osób spełniających podane kryteria. Sprawdź, czy nazwisko szukanej osoby zostało wpisane poprawnie. Spróbuj także poszukać w innym regionie."
+  ]
+}

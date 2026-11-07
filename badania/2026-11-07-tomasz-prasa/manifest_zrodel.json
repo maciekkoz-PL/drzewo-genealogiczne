@@ -1,0 +1,257 @@
+[
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/51509.pdf",
+    "bytes": 3731034,
+    "sha256": "8e6ed297c269a25dfadd38f266498a0c50dc31ffc99bb1e03cbca4185b14360f"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/51509.txt",
+    "bytes": 88231,
+    "sha256": "643148bd9465c531f9e3ac9045b12435554d61392c67d1d2b36ebeef0302895d"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/52322.pdf",
+    "bytes": 3736127,
+    "sha256": "7760e989052642a715fa47c0090bdd3049d9026a13803ef5ea5bba717f9208db"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/52322.txt",
+    "bytes": 86808,
+    "sha256": "a7a7a18d4cfdc3ec32b2c07f852ce63038d514b953c2930df2076e5d5ace8296"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/52606.pdf",
+    "bytes": 7615760,
+    "sha256": "939728d4b59cd20bad7e1d6a3071f1aaaedc95e1df8378a4a44b09dd4fc06219"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/52606.txt",
+    "bytes": 214788,
+    "sha256": "44cb3d4d04992b3dff3b5223b525a7f3d6dd0efd4f1f6ac5a62ad0c3be202a2a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/64048.pdf",
+    "bytes": 3391545,
+    "sha256": "d317b603f3172fa44ee390322062b6d67f5ec490ba5eb58110149d4d1bf5b7e4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/64048.txt",
+    "bytes": 88145,
+    "sha256": "5b6c2b921bc57527343eb3f2983fe8225ccf176d058fdcc50243b25186b9ecfa"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/64736.pdf",
+    "bytes": 13483558,
+    "sha256": "094854bd568b9458cdf54155dbef0f4f2df95a7344f5fae0a237ee15393988d9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/64736.txt",
+    "bytes": 324047,
+    "sha256": "0b34216ec59f0efa7deff823bdb0ac234ac98a4bdf8c3d66d1cd97670117e8ba"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/75962.pdf",
+    "bytes": 20552922,
+    "sha256": "7e5c874a3677e433a69f737bad188f3e3c401ae5036f4e7e47de056375504cea"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/75962.txt",
+    "bytes": 442304,
+    "sha256": "ede5dfd911a45a9f42a4670e16bc89c1cca45492b54e7a5934023716e918d202"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/edition_51509.html",
+    "bytes": 119868,
+    "sha256": "3dc113c2c0d17cb292a2cb93c857bdda46d6c56645642898c6a33119f43804b8"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/edition_52322.html",
+    "bytes": 119847,
+    "sha256": "ac9b269cd9c9aa7beeae62fc8638e61a507317c6e06325857286ccc4f9b59843"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/edition_52606.html",
+    "bytes": 118809,
+    "sha256": "902335f884f684a75c68af59462a26b81fa2fc93b985e3acab9ddeadbedca5dd"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/edition_64048.html",
+    "bytes": 120769,
+    "sha256": "ab7fcb61c484c0f8c9c500dcca23e289a83402410484de004b3243269653ff5a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/edition_64736.html",
+    "bytes": 130378,
+    "sha256": "1588affa7da7e6b8892dfe7d6b924a70ae96311d4ef0a342da1ea1d23b108cdb"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/edition_75962.html",
+    "bytes": 131506,
+    "sha256": "cd83aafdb211928a3c79935501aa30bfdeab03b913a94de9e3f22c991e917cf0"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/readings.json",
+    "bytes": 11572,
+    "sha256": "a99dcc3982ce8c50b991630228765c22e7fd283838d9b0f0648e26faa529d1c4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wbp_genitive.html",
+    "bytes": 29014,
+    "sha256": "060c89205ff563975d821d54d884f088a90d3acbce783dbe4090c0acc2c1922f"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wbp_queries.json",
+    "bytes": 6413,
+    "sha256": "cc6cab5b1fea84541e40daad2867c5c1f5a463bc1a7dc1b5f5b046e6dec3fbae"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wbp_reverse.html",
+    "bytes": 58465,
+    "sha256": "e7e9dca13434fbc052c70ef5b33a05ec1333a8fab75853365636de3fbd70dd0c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wbp_tomasz.html",
+    "bytes": 137131,
+    "sha256": "61304f6a4919df97e4339a543daf49854ddb1f64ef8e08f09bc175a163a3321b"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wbp_tomasz.txt",
+    "bytes": 28491,
+    "sha256": "0bb1a176c6edff83e97ba95cf5e43f89e1071f6773e32559db4103e140b81215"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wbp_variants.json",
+    "bytes": 1015,
+    "sha256": "25462e4ee3ec878bc31fbb2bdcbaf5da0598a7878daff090ec8edd327d4bb89b"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/web_search_0.json",
+    "bytes": 4929,
+    "sha256": "d5bda100613af5e6df3fee3d2e170e4dc2edec2511b70cf867b572715bd5bc42"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/web_search_1.json",
+    "bytes": 4026,
+    "sha256": "8515313928d80e8cf5aa63793d729a2b83b389fbfebd2ecb1951b333876688f6"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/web_search_2.json",
+    "bytes": 3194,
+    "sha256": "1e582bb9f2c693edde855d618a128b79d1f8d88a376b96ce18622e997fe35137"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/web_search_3.json",
+    "bytes": 1461,
+    "sha256": "d12b006c93dfc73887103c41717633c5b743c33193643ba16f744dccb684d740"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/web_search_4.json",
+    "bytes": 2810,
+    "sha256": "8f04e4d9297ca2a776a85ef3610601229c61059e9578bd3ad5af39ba011508d1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/web_search_5.json",
+    "bytes": 2736,
+    "sha256": "bdfa94aedf79c0ee08972bc55053b664b1e6e8debc643d0ba7e6c07cda3fd706"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_advanced.html",
+    "bytes": 40154,
+    "sha256": "e446401a986e4d713607c1406564ea8dd5d7c3fae3600310fd9d34de39261ff8"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_advanced.txt",
+    "bytes": 14195,
+    "sha256": "f0312fd15fd5cc741126970a0dbbca5bee8898b12f598b9a3ba074fb482c0d44"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_advanced_url.txt",
+    "bytes": 39,
+    "sha256": "1a438259d229932424f20ad2d1ddd98c6bde4a171d8cdb8c4c4f59801d37bd0a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_kontrola.html",
+    "bytes": 22545,
+    "sha256": "f30fec5ef46f97a05691fd33749f74550e163c340efd89996a5fd6aefc756ae3"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_kontrola.json",
+    "bytes": 350,
+    "sha256": "f27af977d05085e9cdf9196ff962485bdc0f1d0656325bb2e9465c37ddb39cad"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_kontrola.txt",
+    "bytes": 4836,
+    "sha256": "9bdc61eee2740e26f91ebce36b5938dbf8c66ec42fc28d75bf11f1322aef2518"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_nazwisko_2001.html",
+    "bytes": 20484,
+    "sha256": "6059be5a44eb2917b0cf560070e63f152e11ebde256a07f945fdda29de86eb30"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_nazwisko_2001.txt",
+    "bytes": 3670,
+    "sha256": "e408554939fd7157fa955fcf0004770065c03735be155e0d797545ff8c1d0520"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_queries.json",
+    "bytes": 2655,
+    "sha256": "77094234bd56f97a2332caae8f6a369ea79b99b15462a58486a7d0da1ab43be5"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_query.html",
+    "bytes": 38259,
+    "sha256": "912ec1ed98831bb0a0406804c1ee0541ccace1130a4fff10c7c588ca1ee6e500"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_query.txt",
+    "bytes": 6502,
+    "sha256": "1fcaf5ef4b9fffb5020b40f40554984a3a337057f64e00758029ed80c24800c1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_results.html",
+    "bytes": 20392,
+    "sha256": "fa531ef92da0e0123219ec7bde45a704c08844d9a931edac8f4d624a6383575a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_results.txt",
+    "bytes": 3670,
+    "sha256": "e408554939fd7157fa955fcf0004770065c03735be155e0d797545ff8c1d0520"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_results_url.txt",
+    "bytes": 64,
+    "sha256": "1863fc88dc1ddad419d1dc35fc508fd0729e70b6f6231a2e5898b9b0f92ac111"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_tomasz_tresc.html",
+    "bytes": 20426,
+    "sha256": "b95342e047e33aff9bc82699033be8fd28228cd1c58b6cf7e47dcc87a405dd2f"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_tomasz_tresc.json",
+    "bytes": 502,
+    "sha256": "8f8c64ba4d5c4b14f4512c758d411fe72154ce717f0aaa1bff97745714b9cdf0"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_tomasz_tresc.txt",
+    "bytes": 3670,
+    "sha256": "e408554939fd7157fa955fcf0004770065c03735be155e0d797545ff8c1d0520"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_tomasza_tresc.html",
+    "bytes": 20439,
+    "sha256": "ca0c93cda65680bac6224f49ef8f59a1cb982c3e0f3db6b9200e028cc69c35f7"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_tomasza_tresc.txt",
+    "bytes": 3670,
+    "sha256": "e408554939fd7157fa955fcf0004770065c03735be155e0d797545ff8c1d0520"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-prasa/zrodla/wyborcza_url.txt",
+    "bytes": 39,
+    "sha256": "d10985c7cc027fde03eae967438cf013a34f791456a6d13bc949aef15f013561"
+  }
+]

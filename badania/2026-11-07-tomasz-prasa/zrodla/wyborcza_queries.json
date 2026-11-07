@@ -1,0 +1,72 @@
+{
+  "queries": [
+    {
+      "file": "wyborcza_results.html",
+      "parameters": {
+        "query": "Tomasz Chmielewski",
+        "AnnouncementSimpleSearch.RIGHT-01.search": "szukaj »"
+      },
+      "url": "https://nekrologi.wyborcza.pl/0,10,,,,,,,Tomasz+Chmielewski.html",
+      "result_messages": [
+        "Nie znaleziono osób spełniających podane kryteria. Sprawdź, czy nazwisko szukanej osoby zostało wpisane poprawnie. Spróbuj także poszukać w innym regionie."
+      ]
+    },
+    {
+      "file": "wyborcza_tomasz_tresc.html",
+      "parameters": {
+        "query": "Tomasz Chmielewski",
+        "textSearch": "true"
+      },
+      "url": "https://nekrologi.wyborcza.pl/0,10,,1,0,10,,,Tomasz+Chmielewski,,,,,,,,,true.html",
+      "result_messages": [
+        "Nie znaleziono osób spełniających podane kryteria. Sprawdź, czy nazwisko szukanej osoby zostało wpisane poprawnie. Spróbuj także poszukać w innym regionie."
+      ]
+    },
+    {
+      "file": "wyborcza_tomasza_tresc.html",
+      "parameters": {
+        "query": "Tomasza Chmielewskiego",
+        "textSearch": "true"
+      },
+      "url": "https://nekrologi.wyborcza.pl/0,10,,1,0,100,,,Tomasza+Chmielewskiego,,,,,,,,,true.html",
+      "result_messages": [
+        "Nie znaleziono osób spełniających podane kryteria. Sprawdź, czy nazwisko szukanej osoby zostało wpisane poprawnie. Spróbuj także poszukać w innym regionie."
+      ]
+    },
+    {
+      "file": "wyborcza_nazwisko_2001.html",
+      "parameters": {
+        "query": "Chmielewski",
+        "startDay": "26",
+        "startMonth": "3",
+        "startYear": "2001",
+        "endDay": "31",
+        "endMonth": "11",
+        "endYear": "2001"
+      },
+      "url": "https://nekrologi.wyborcza.pl/0,10,,1,0,100,,,Chmielewski,,,26,3,2001,31,11,2001.html",
+      "result_messages": [
+        "Nie znaleziono osób spełniających podane kryteria. Sprawdź, czy nazwisko szukanej osoby zostało wpisane poprawnie. Spróbuj także poszukać w innym regionie."
+      ]
+    },
+    {
+      "file": "wyborcza_kontrola.html",
+      "parameters": {
+        "query": "Ryszard Damski"
+      },
+      "url": "https://nekrologi.wyborcza.pl/0,10,,,,,,,Ryszard+Damski.html",
+      "result_messages": [
+        "Liczba znalezionych nekrologów: 2"
+      ]
+    },
+    {
+      "query": "Chmielewski, bez dat",
+      "status": "TIMEOUT przy pageSize=100; nie wynik zerowy"
+    },
+    {
+      "file": "wyborcza_query.html",
+      "status": "Początkowy POST bez nazwy przycisku; ogólna strona, nie wynik kwerendy"
+    }
+  ],
+  "limit": "Nie ustalono kompletności archiwum w 2001 r.; boczne promowane ogłoszenia pominięto."
+}

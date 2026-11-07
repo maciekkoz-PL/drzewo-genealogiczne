@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-11-07T04:10:39+00:00",
+  "municipal_url": "https://www.cmentarzekomunalne.lodz.systkom.pl/mapa.html?gv=4427&cm=ZARZW",
+  "ecmentarze_url": "https://www.ecmentarze.pl/cmentarz/zarzew-lodz/grave/detail/4760181",
+  "plot": "XXXVI/15/36",
+  "persons": [
+    {
+      "name": "Czesław Chmielewski",
+      "death": "1981-01-16",
+      "birth": null
+    },
+    {
+      "name": "Witold Chmielewski",
+      "death": "2003-08-22",
+      "birth": null
+    }
+  ],
+  "photos_found": false,
+  "ecmentarze_data_origin": "Zarząd Zieleni Miejskiej w Łodzi, 04.03.2026",
+  "limit": "Kontrola znanego grobu. Publikacja danych partnerskich nie jest niezależnym dowodem pokrewieństwa. Mapa eCmentarzy pokazuje orientacyjnie cmentarz."
+}

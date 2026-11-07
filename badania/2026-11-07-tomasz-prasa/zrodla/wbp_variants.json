@@ -1,0 +1,27 @@
+[
+  {
+    "query": "\"Tomasza Chmielewskiego\"",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Tomasza+Chmielewskiego%22&action=SimpleSearchAction&type=-6&p=0",
+    "at": "2026-11-07T03:48:08.093734+00:00",
+    "results": []
+  },
+  {
+    "query": "\"Chmielewski Tomasz\"",
+    "url": "https://bc.wbp.lodz.pl/dlibra/results?q=%22Chmielewski+Tomasz%22&action=SimpleSearchAction&type=-6&p=0",
+    "at": "2026-11-07T03:48:10.296744+00:00",
+    "results": [
+      {
+        "title": "Express Ilustrowany. 1947-02-27 R. 2 nr 57",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/83063/edition/79278"
+      },
+      {
+        "title": "Wieści z Głowna i Strykowa. 2020-06-18 R. 30 nr 25",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/121024/edition/115743"
+      },
+      {
+        "title": "Nowy Łowiczanin : NŁ : tygodnik Ziemi Łowickiej : TL tygodnik lokalny. 2010-02-18 R. 20 nr 7",
+        "url": "https://bc.wbp.lodz.pl/dlibra/publication/86850/edition/82873"
+      }
+    ]
+  }
+]

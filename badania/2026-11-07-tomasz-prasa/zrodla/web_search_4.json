@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Polish_Figure_Skating_Championships",
+        "title": "Polish Figure Skating Championships - Wikipedia",
+        "description": "Tomasz Chmielewski. 1981. Iwona Bielas · Jacek Jasiaczek · Jolanta Wesołowska ... Jump up to: 1 2 3 4 \"Łyżwiarstwo figurowe\" [Figure skating]. Życie ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://chopin.edu.pl/uploaded_files/1733547208_edukacja-w-sztuce-tanca-red-beata-ksiazkiewicz.pdf",
+        "title": "[PDF] Edukacja w sztuce tańca - UMFC",
+        "description": "tetycznych (takich jak łyżwiarstwo figurowe, gimnastyka, taniec), spor- ... TOMASZ CHMIELEWSKI. 390. Taniec jest dziedziną sztuki opierającą się na ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://cms-v2-files.idcom-jst.pl/sites/416/cms/szablony/18186/pliki/biuletyn_271.pdf",
+        "title": "[PDF] biuletyn pobiedziski - IDcom Group Sp. z o.o.",
+        "description": "Tomasz Chmielewski. Robert Domżał. SKŁAD I DRUK: Studio Reklamy i ... Łyżwiarstwo szybkie. Akademia Sportowego Rozwoju Natalii Czerwonki ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://dziennik.com/wp-content/uploads/2022/12/Nowy-Dziennik-50-2022-0745.pdf",
+        "title": "[PDF] POLISH WEEKLY - Nowy Dziennik",
+        "description": "Do tańca będzie grał DJ Tomasz Chmielewski. Bile- ty w cenie $185 do ... ŁYŻWIARSTWO SZYBKIE. ▸ Polska drużyna sprinterska, star ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "http://bc.wbp.lodz.pl/Content/76156/Nowy_Lowiczanin_2002_nr_12a.pdf",
+        "title": "[PDF] Uczniowie kradli na 1amow1en1e - Regionalia Ziemi Łódzkiej",
+        "description": "... Tomasz Chmielewski nie dał się nabrać i kazał grać dalej. W 26 ... Łyżwiarstwo figurowe. : Mistrzostwa. Świata w Na- gano. 14.15 Biathlon.",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b41f-dd92-706a-9e5e-7c3d38ef6e9e",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://en.wikipedia.org/wiki/Polish_Figure_Skating_Championships\", #2 \"https://chopin.edu.pl/uploaded_files/1733547208_edukacja-w-sztuce-tanca-red-beata-ksiazkiewicz.pdf\", #3 \"https://cms-v2-files.idcom-jst.pl/sites/416/cms/szablony/18186/pliki/biuletyn_271.pdf\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

@@ -1,3 +1,5 @@
+**Aktualnie, 07.11.2026:** S253–S261 — [prasa i nekrologi Tomasza](badania/2026-11-07-tomasz-prasa/STATUS.md), sześć numerów bez identyfikacji P09. S262–S264 — [dokładny grób Czesława i Witolda na Zarzewie](badania/2026-11-07-zarzew/STATUS.md), nowe właściwe karty Find a Grave bez dat urodzenia i zdjęć, kontrola pochodzenia danych partnerskich oraz trzy kwerendy MSiG. H005 pozostaje otwarta. 24 arkusze, 264 źródła, 254 zapisy kwerend. Dalsze komunikaty opisują etapy historyczne.
+
 **Aktualny stan — etap 20, 07.11.2026: brat Bogusława, ojciec Piotra (P11).** Imię wuja nadal nieustalone; Witold z Zarzewa pozostaje wyłącznie tropem. Nowe wykazy MP wymieniają imiona ojców imienników Piotra, ale brak połączenia z rodziną. 23 arkusze, 239 źródeł, 97 kandydatów, 232 kwerendy, 17 przekazów. [Wyniki](badania/2026-11-07-sesja-20-brat-boguslawa/STATUS.md), [teczka wuja](badania/2026-11-07-sesja-20-brat-boguslawa/TECZKA_BRATA_BOGUSLAWA.md), [plan](badania/2026-11-07-sesja-20-brat-boguslawa/PLAN_KONTYNUACJI.md). Rodzeństwo dziadka i Australia wstrzymane. REL-017: użytkownik zapyta Marysię jutro; poszukiwania nie zależą od odpowiedzi. Bez korespondencji. Drzewo bez nowego przełomu. Poniższe komunikaty i zakresy są historyczne.
 
 ## Etap 17 — polskie gałęzie rodzeństwa Czesława, 06.11.2026
@@ -364,3 +366,7 @@ Nie dodano imienników do drzewa. Stan Excela232źródła/97kandydatów/220kwere
 ## Tomasz — kontynuacja07.11.2026
 
 S245–S252: globalneBG,30FindAGrave,Grobonet25lokalneBG,oficjalneMSiG,kontaktadministracjiStarejGadki ioryginalnytekstrozporządzenia. [Pełny zakres i ograniczenia](badania/2026-11-07-tomasz-kontynuacja/STATUS.md). Nie znaleziono nowego aktu Tomasza, DOB ani matki. Szczegółowe URL i źródła są wExcelu oraz rejestrach tej sesji.
+
+## Etap21 — meldunkiCh i wątek brataBogusława
+
+S265:39/221/0/4.12/25443, kolumny5–202, nowe wpisyStocka12/Grabowa20; S266:25444/1937, kolumny5–72; S267:PTG86615/1936–1937, kolumny002–185 i4pełne wpisy; S268:aneks26200/nr530 i26204/nr2591/2656, tylko katalog/0skanów; S269:dwie zapisane kontrolegeograficzne; S270:PTG86616/1938–1939, kolumny002–247; S271:25445/1938, kolumny5–137 i17wybranychstron. [Dokładne granice](badania/2026-11-07-sesja-21-meldunki-Ch/ZAKRES_ODCZYTU.md), [skany i manifesty](badania/2026-11-07-sesja-21-meldunki-Ch/manifest_zrodel_sesji.json). Q98korygujeCh=grupaIII; brak nowego pewnego pokrewieństwa i imieniaP11. Nazwy źródeł iURL wExcelu; C98–C101nie scalono z rodziną.

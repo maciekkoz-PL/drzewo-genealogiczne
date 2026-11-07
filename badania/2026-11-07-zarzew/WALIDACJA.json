@@ -1,0 +1,33 @@
+{
+  "at": "2026-11-07T04:10:39+00:00",
+  "sheets": 24,
+  "new_sources": "S262–S264",
+  "new_logs": "L252–L254",
+  "new_files": "F215–F217",
+  "modified_old_cells": [
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "START",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      4,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      4,
+      4
+    ]
+  ],
+  "family_sheets_unchanged": true,
+  "source_files": 15,
+  "source_bytes": 805975,
+  "site_unchanged": true
+}

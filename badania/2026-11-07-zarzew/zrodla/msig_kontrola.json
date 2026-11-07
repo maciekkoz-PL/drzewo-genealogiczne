@@ -1,0 +1,22 @@
+{
+  "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Search?entityName=&krs=&nip=&textInPosition=&textInBody=spadku&signatureType=A&signatureOfCase=&signatureKRS=&court=&from=2003-08-22&to=2026-11-07&page=1",
+  "params": {
+    "entityName": "",
+    "krs": "",
+    "nip": "",
+    "textInPosition": "",
+    "textInBody": "spadku",
+    "signatureType": "A",
+    "signatureOfCase": "",
+    "signatureKRS": "",
+    "court": "",
+    "from": "2003-08-22",
+    "to": "2026-11-07",
+    "page": "1"
+  },
+  "status": 200,
+  "count_received_rows": 50,
+  "page": 1,
+  "countPages": 100,
+  "note": "Dodatnia kontrola działania formularza. Nie kopiowano treści niepowiązanych spraw. countPages=100 nie jest liczbą trafień."
+}

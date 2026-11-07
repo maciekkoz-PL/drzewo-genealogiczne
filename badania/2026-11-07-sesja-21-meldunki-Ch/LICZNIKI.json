@@ -1,12 +1,12 @@
 {
-  "at_utc": "2026-11-07T04:19:21+00:00",
+  "at_utc": "2026-11-07T04:22:18+00:00",
   "sheets": 24,
   "counts": {
-    "ZRODLA_I_SKANY": 259,
+    "ZRODLA_I_SKANY": 271,
     "KANDYDACI_I_HOMONIMY": 101,
     "HIPOTEZY_OTWARTE": 41,
-    "DZIENNIK_KWEREND": 257,
-    "PLIKI_DOWODOWE": 263,
+    "DZIENNIK_KWEREND": 266,
+    "PLIKI_DOWODOWE": 275,
     "KOREKTY_I_SPRZECZNOSCI": 99,
     "ZADANIA_AGENTA": 57
   }

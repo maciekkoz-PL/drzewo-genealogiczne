@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-07T04:05:04+00:00",
+  "sheets": 24,
+  "new_sources": "S253–S261",
+  "new_logs": "L246–L251",
+  "new_files": "F206–F214",
+  "modified_old_cells": [
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      39,
+      3
+    ]
+  ],
+  "family_sheets_unchanged": true,
+  "manifest_files": 51,
+  "manifest_bytes": 55014264,
+  "site_unchanged": true
+}

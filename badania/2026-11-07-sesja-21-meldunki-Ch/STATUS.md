@@ -16,7 +16,7 @@ Ważna korekta Q98: w tych łódzkich rejestrach **Ch należy do grupyIII**, obo
 
 Przejrzano także kolumny nazwisk dalszych meldunków1937/1938 i dwóch ksiąg dowodów1936–1939. Nie uzyskano nowego łącznika rodzinnego. Dokładne obrazy, granice odczytu i imiennicy są w [ZAKRES_ODCZYTU.md](ZAKRES_ODCZYTU.md); pobranie nie oznacza odczytu.
 
-Excel zawiera nowe źródłaS253–S259, kandydatówC98–C101, hipotezyH049–H051, korektyQ98/Q99 i zadaniaT55–T57. Pełne liczniki w [LICZNIKI.json](LICZNIKI.json), kontrola historii w [WALIDACJA.json](WALIDACJA.json). Zachowano 24arkusze, relacjęREL-018 i równoległe ustalenia dotyczące Tomasza oraz roboczą decyzję o Romanie P12=C69. Nie zmieniono dotychczasowych pewnych relacji.
+Excel zawiera nowe źródłaS253–S271, kandydatówC98–C101, hipotezyH049–H051, korektyQ98/Q99 i zadaniaT55–T57. Pełne liczniki w [LICZNIKI.json](LICZNIKI.json), kontrola historii w [WALIDACJA.json](WALIDACJA.json). Zachowano 24arkusze, relacjęREL-018 i równoległe ustalenia dotyczące Tomasza oraz roboczą decyzję o Romanie P12=C69. Nie zmieniono dotychczasowych pewnych relacji.
 
 Publiczne drzewo i krótka kronika bez nowego wpisu z tego kierunku: wynik adresowy nie jest przełomem w pokrewieństwie. S086 już wskazuje Czesława Chmielewskiego i Janinę Poprawkę jako rodziców Bogusława; nowe meldunki nie zastępują brakującego dodatkowego identyfikatora1909/1910. Nie powtarzać rodzinie pytań o ślub1982 ani nie przedstawiać nazwisk rodziców jako nieznanych.
 
