@@ -1,5 +1,7 @@
 # S068 — właściwa droga do dokumentów meldunkowych
 
+**Uściślenie z 7 listopada 2026 (etap 30):** przypis 56 artykułu Janik nazywa zakres 25326–25388 „księgami domów”, ale aktualny katalog tytułuje go księgami kontroli ruchu ludności, a okładka i formularz 25326 potwierdzają tę nazwę. Nie przekreśla to adresowej kwerendy: S074, 25380 obrazy 108–111, rzeczywiście zawiera spis wyjściowy z 1931 r. uporządkowany według domów. Poniższy trzyetapowy opis pochodzi z artykułu i trzeba sprawdzać jego zastosowanie do każdego konkretnego tomu oraz okresu. Stocka 12 z 1931 została już skontrolowana; nie jest to spis mieszkańców z 1936 lub 1943 r. [Dowody i granice etapu 30](../2026-11-07-sesja-30-spis-1945/STATUS.md).
+
 **Aktualizacja po odczycie:** S069 wskazuje Stocką, całą, komisariat XI (obraz 40); S073 potwierdza XI pieczęcią posesji 12. S074 odnalazł nr 12 w księdze XI ks.III 25380, pozycje 9005–9006, obrazy 110–111, bez identyfikacji Chmielewskich w spisie wyjściowym 1931. W tym fragmencie adres bieżący wpisano w kolumnie adnotacji 12; kolumna 5 to poprzednie miejsce. Pierwotne poniższe uwagi „nie odczytano” opisują etap rozpoznania, a nie końcowy stan sesji. Szczegóły: S073/S074 i PLAN_KONTYNUACJI.md.
 
 Agnieszka Janik (Archiwum Państwowe w Łodzi), *System ewidencji ludności Łodzi i okolicznych gmin w latach 1932–1939 — przepisy, praktyka, stan zachowania archiwaliów*, „Archeion” CXVIII, 2017, s. 130–149. Odczytano przede wszystkim s. 137–148, w tym część o zachowanym zasobie na s. 144–146. Pobranie: 5 listopada 2026.
