@@ -1,0 +1,978 @@
+[
+  {
+    "image": 4,
+    "url": "https://photos.szukajwarchiwach.gov.pl/54959abb2a81d768763451263169d1960a5d4aa20f08588df99a4b29f9476115_max",
+    "bytes": 1363760,
+    "sha256": "7eadffe67cd01fca9cbfea7cac24935fd9bee81c88ba44ad74543bd9be1893ef",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_4.jpg"
+  },
+  {
+    "image": 5,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d2ed3832cfbae5cf75c72819317999bfbefe94ad02f6734137fa6bbc5d04b0ff_max",
+    "bytes": 959916,
+    "sha256": "daf78ddc796b165c3f617cf4435e1d370a3e396d7adb1039ffef5d52cde4101e",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_5.jpg"
+  },
+  {
+    "image": 6,
+    "url": "https://photos.szukajwarchiwach.gov.pl/c1ffcff63c0459b80f03457b8bd96549ee8749ef4ea1524a4580abcb3636a08a_max",
+    "bytes": 1634787,
+    "sha256": "fea3029cdca0a6c8fe00eb05b677375c924cf98eed3dec747682d621b7a20252",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_6.jpg"
+  },
+  {
+    "image": 7,
+    "url": "https://photos.szukajwarchiwach.gov.pl/96133081d96221f9e1d14487ba23514951cbcdcac17c36507102e93baeca5328_max",
+    "bytes": 1626652,
+    "sha256": "08477cb8f7d7753bf611aa8ccf166ade33a3435b1e4f6fd6352fa96e2c377058",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_7.jpg"
+  },
+  {
+    "image": 8,
+    "url": "https://photos.szukajwarchiwach.gov.pl/981c45071a0bf9c2e85e1505284aea3c9f90e197e91e62631c7f9d8a651c446f_max",
+    "bytes": 1645058,
+    "sha256": "3ff179de74d63b662bf15f1801767b9076a9b8b07180355f02a3a44841f55003",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_8.jpg"
+  },
+  {
+    "image": 9,
+    "url": "https://photos.szukajwarchiwach.gov.pl/e37767453f3e90994e80786efd86621bd3333fb7a9e20df381630747db765665_max",
+    "bytes": 1584904,
+    "sha256": "c48b357ad7a1f8decf72ef6d630af511f6e8c675c22f01db186f6a911b5e5780",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_9.jpg"
+  },
+  {
+    "image": 10,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7b434ef569eb04e4c4fb5c1e43b703e0885cb3c6485cd18fdc375007dadb3777_max",
+    "bytes": 1621366,
+    "sha256": "2a867dc21cdd2fcc2ecded02ea89142c33fe8f7b779e494e7e3ee1b7563c99e7",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_10.jpg"
+  },
+  {
+    "image": 11,
+    "url": "https://photos.szukajwarchiwach.gov.pl/60214b6a042b527ee38ab60be572cf79436bb1b8dd978699f4aabdbd9c9d6c79_max",
+    "bytes": 1595076,
+    "sha256": "2a788dbba7daee6cb0c116cd3f8765a2c3659f2b2785176dafa65d9d313852b0",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_11.jpg"
+  },
+  {
+    "image": 12,
+    "url": "https://photos.szukajwarchiwach.gov.pl/b9790e2dfc1908e70b67afe78fcecfe717879cd7e2d1bb07f621b0297a83c3c8_max",
+    "bytes": 1621241,
+    "sha256": "eda8eaf41289a2494290ebc6c3c9617bd7fc6f59b8f2d67a3636ecdfa435a045",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_12.jpg"
+  },
+  {
+    "image": 13,
+    "url": "https://photos.szukajwarchiwach.gov.pl/df297654f24c93ef2c37bb2a67f2cb1bc81d78b383fdc5802d0d4649ef8caee0_max",
+    "bytes": 1626509,
+    "sha256": "1d0b53b9ca3e5213f45d2de716f65b5eb1b8f9b0dfb232682795bfff37acb5c4",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_13.jpg"
+  },
+  {
+    "image": 14,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d16c01b6ac1d9b7308a09e64947568d646bd131dc811f960f56ce082de157187_max",
+    "bytes": 1608140,
+    "sha256": "fee31bcebbf125c4bf60ac1baa2232237f283f3d6697aaff29e895cb916b84f9",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_14.jpg"
+  },
+  {
+    "image": 15,
+    "url": "https://photos.szukajwarchiwach.gov.pl/34f2e400c6f9a1664c28be02dd3019b48142a087bb595163bdd9b866389603aa_max",
+    "bytes": 1609292,
+    "sha256": "3fd50ba12b46a25f811ee73d36b758cc4191a5e4ce558f872356ac5c477014cf",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_15.jpg"
+  },
+  {
+    "image": 16,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f32ffc1e098a88f135c3850b201e57991da1bff9dcf6df8bfbe8a51b0a93d313_max",
+    "bytes": 1642471,
+    "sha256": "f2be2708d219a63bea1e0e646000e8a76afae58d660668f07d1b3723321d92ce",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_16.jpg"
+  },
+  {
+    "image": 17,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f2d447676eba599dffa5de54916902a6ed2109ce4ab0636a4e54720e19fa5cd5_max",
+    "bytes": 1628989,
+    "sha256": "7334ed724077c0a8829210347ec6fa694386a91386f2e79f251a0133384d47ee",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_17.jpg"
+  },
+  {
+    "image": 18,
+    "url": "https://photos.szukajwarchiwach.gov.pl/ff31eac6ea5f4308a36db577bbf4c13da772524c3e6ade8d1d3f20072f897027_max",
+    "bytes": 1626802,
+    "sha256": "baa4ee760b391c884769935bdfdfa78905245df8c0cb8c92bee224173318b593",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_18.jpg"
+  },
+  {
+    "image": 19,
+    "url": "https://photos.szukajwarchiwach.gov.pl/ac8d4d933c5720d0709e41cacbc86bb8bfaaba6c14dee400cbcdebd06c7a9c60_max",
+    "bytes": 1589298,
+    "sha256": "b8d9c03b75158802680d4354771a1cace02feee424274e76a02349b79b00b1ee",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_19.jpg"
+  },
+  {
+    "image": 20,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d24b013d3a4f256abf16da93fb0ed41cf1d0eb3f181bbe738a18941fe15445c5_max",
+    "bytes": 1605194,
+    "sha256": "33cc8c908376f14cbade253d0331cc7eccbaf6219d298f6687a2b8d37ff50a3b",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_20.jpg"
+  },
+  {
+    "image": 21,
+    "url": "https://photos.szukajwarchiwach.gov.pl/e7dd0ae45387899d76fdc39fad57f2e335f7c5f0c68319f4cd8c4b263698630c_max",
+    "bytes": 1604708,
+    "sha256": "338f0f1fab015bbac91707df3969528ee1de4cee397da1608194d3de9a4cd48b",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_21.jpg"
+  },
+  {
+    "image": 22,
+    "url": "https://photos.szukajwarchiwach.gov.pl/8a786009567b31d9747433bb609ea08d07b37645edaa702d629023c45b41ac36_max",
+    "bytes": 1616265,
+    "sha256": "35425090779358ed76318ce949fc4133f5413aa31a06d3987cf049c070b81b4e",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_22.jpg"
+  },
+  {
+    "image": 23,
+    "url": "https://photos.szukajwarchiwach.gov.pl/a5e459088252bbd72238012a36a95d50f14e9f63d38a8a1d33520d033fda15aa_max",
+    "bytes": 1590405,
+    "sha256": "5338374b155680ba82c13e5b82e3136961cd47d1284b23a552202ba19955f4ac",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_23.jpg"
+  },
+  {
+    "image": 24,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d790adf8eaf57b17657de54f25028175bce00c5d91db46a3926c335a68ccce69_max",
+    "bytes": 1584998,
+    "sha256": "8dfff7ce9fa0cf19a06fdbe392000149259b4c6393e84e0fa406a7ae938e6ec1",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_24.jpg"
+  },
+  {
+    "image": 25,
+    "url": "https://photos.szukajwarchiwach.gov.pl/0a0db91c55381fecd1f8c7e6053342d9241e25f913937601c20f4501ad813c48_max",
+    "bytes": 1642371,
+    "sha256": "82c1c43ebe9eb2ab3a9ca035c2ed711454b16f3f30249643fb609f4e3769adf4",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_25.jpg"
+  },
+  {
+    "image": 26,
+    "url": "https://photos.szukajwarchiwach.gov.pl/a98b06f3aead1eacc7d06ed80eea6ddf25b7aca5da51f76ee17aea960e2eb654_max",
+    "bytes": 1603069,
+    "sha256": "39ad04fd19faee4fbd09efaf5d6718f505b39bdb2f1dbc1ab1df3ed036710399",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_26.jpg"
+  },
+  {
+    "image": 27,
+    "url": "https://photos.szukajwarchiwach.gov.pl/e27cae191cb5a37a7aed2544a5d09e4aac43719e44377eb82b869a21121e1290_max",
+    "bytes": 1593672,
+    "sha256": "bb83ee8ed5a5361241bfac8446be28968ac43e2a6955f7d6b42a8401a4d4ae04",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_27.jpg"
+  },
+  {
+    "image": 28,
+    "url": "https://photos.szukajwarchiwach.gov.pl/79306e0a2ba6ab902074edc7e225f3a792fa3605fdf74f7dc2863a212b17bf35_max",
+    "bytes": 1613524,
+    "sha256": "edc13c90c54a4cdab03aeed1f40b86c4839a689efb05996d7689f2b19170d83b",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_28.jpg"
+  },
+  {
+    "image": 29,
+    "url": "https://photos.szukajwarchiwach.gov.pl/60d84f272cf76195f158b8bb979ebab0e7664c136ca11cb7524f98946c5c992c_max",
+    "bytes": 1606231,
+    "sha256": "0b8269b419564dd0ac8c23d113d963e4af6b5bb972eceb538d1dd3b7ae32a48a",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_29.jpg"
+  },
+  {
+    "image": 30,
+    "url": "https://photos.szukajwarchiwach.gov.pl/742a33844b71ac122e64170b1f00f98d98077924108e3b53f096f29c640485cc_max",
+    "bytes": 1598190,
+    "sha256": "70698fd89b2f2786bbfdd8aad4f5621d06453740c859461d61e51f67514c271d",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_30.jpg"
+  },
+  {
+    "image": 31,
+    "url": "https://photos.szukajwarchiwach.gov.pl/ff3f4b97da115d0bc55177ea439a4e2bdcb0125c42be863c01b4e587be79fd35_max",
+    "bytes": 1610594,
+    "sha256": "60799d96b4be3e07dc06d99980fc213cf8018b6338ae04580f2fc3583359fcae",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_31.jpg"
+  },
+  {
+    "image": 32,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f5ee7dd6b8751c49e7733f8924745a2184e7096bed6127ade70898f6879b5dd1_max",
+    "bytes": 1595579,
+    "sha256": "14f955c416f9c3f28c99aa3f9872eab78ebfc70c26dd8dcd3dad21c932e95bcf",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_32.jpg"
+  },
+  {
+    "image": 33,
+    "url": "https://photos.szukajwarchiwach.gov.pl/c7be2b49132f55cb6a10296324daab4f4ee792d68f67c41a7205ecc889dbee9d_max",
+    "bytes": 1599064,
+    "sha256": "765ff7ce305007e2506d417216bd935b58094104e1f75afda29d582bd78f3d43",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_33.jpg"
+  },
+  {
+    "image": 34,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7d4d688a4c3fa78cc31d81820ca1c8814eeadc80a6eb2b5e534faa2aad21f373_max",
+    "bytes": 1587269,
+    "sha256": "abe6d43c6c190bb3d490fe07b5f5d1b75f35a8673d40a2ec84f0b37fe5cedfa8",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_34.jpg"
+  },
+  {
+    "image": 35,
+    "url": "https://photos.szukajwarchiwach.gov.pl/1f821daba99a805f658f04a05a250d96d96ca1e78b22f3b5052493f05c4145b8_max",
+    "bytes": 1574667,
+    "sha256": "8bd172cba2c3ada1f3793caf07ccd4da3a9dc0f60b0c60df8d43f9be933f3b21",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_35.jpg"
+  },
+  {
+    "image": 36,
+    "url": "https://photos.szukajwarchiwach.gov.pl/ea7adf992a40892ecb000a34a8cc1aea201d9d85fdaff667b685ece9f4ed1730_max",
+    "bytes": 1566544,
+    "sha256": "211b0202157d0ae9dfaeefcf2b6a7ee6dd8670810fcdc266b361e319db6f6808",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_36.jpg"
+  },
+  {
+    "image": 37,
+    "url": "https://photos.szukajwarchiwach.gov.pl/11c30b1aebee94032e58b66074d30258ae7abc5c57cfda47e4314e223685a030_max",
+    "bytes": 1571435,
+    "sha256": "a141dcecff8f1e636c6dc5379bb2a7d728f62de1ad562f8401146e22c56923d9",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_37.jpg"
+  },
+  {
+    "image": 38,
+    "url": "https://photos.szukajwarchiwach.gov.pl/6570a0b1855121739b21b962bf6c93639d37403e804a98df2d362c0890af3bc8_max",
+    "bytes": 1577222,
+    "sha256": "915b47735669753ed87699e65244916e061e790ee95876964d355a9b5a0bd856",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_38.jpg"
+  },
+  {
+    "image": 39,
+    "url": "https://photos.szukajwarchiwach.gov.pl/b634feaa0f9801409133dd386d226093ca6dcf66ca423907dd5c1b7b2c90bd55_max",
+    "bytes": 1575391,
+    "sha256": "54aa9b5c5677ecc0e40e5b933bf56fda6965d32691ac49d1f4c90119ef411e44",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_39.jpg"
+  },
+  {
+    "image": 40,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7846765f4441577d719656164c2679650cdc66ac6e45e151d42c83906fd3972a_max",
+    "bytes": 1575333,
+    "sha256": "1ae766f6b0e2dee392bd632a1e4bbeadab6ff018b029cfaa597d040cfbca4f82",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_40.jpg"
+  },
+  {
+    "image": 41,
+    "url": "https://photos.szukajwarchiwach.gov.pl/670255faa0e843d74158f8c6b8e17b8b21b298b4d37b24dcf485b21366f7043c_max",
+    "bytes": 1590516,
+    "sha256": "4eb188a1019e9bf247815a8bc152275c4d36c1fc1a9e81a110ba35772cf7b67e",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_41.jpg"
+  },
+  {
+    "image": 42,
+    "url": "https://photos.szukajwarchiwach.gov.pl/a9aefe6b89152357231227aadc218e77d77c7b5c20dca3d43b66f7339d8c11d9_max",
+    "bytes": 1606545,
+    "sha256": "10b853e15525b98a6392176249608b6c22f93a89428d0163041185743af0cf10",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_42.jpg"
+  },
+  {
+    "image": 43,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7a04978c5209d98f74ec166a215b17fa6c5a17425d66dcd26d85c1cd33201f3a_max",
+    "bytes": 1589085,
+    "sha256": "6a5fea5e5ca408618fcb5434287dfadcba1ba499e0b9239c9f5f721d3c685e34",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_43.jpg"
+  },
+  {
+    "image": 44,
+    "url": "https://photos.szukajwarchiwach.gov.pl/cce3b4607342cdf97dc0147a632b01311c9bd0f3a3e8d9f2add69c55168ccc52_max",
+    "bytes": 1513366,
+    "sha256": "6ac20505963eff8a541adacceb68bd7fee9220b5eddf8211e51c8c79d6d0202d",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_44.jpg"
+  },
+  {
+    "image": 45,
+    "url": "https://photos.szukajwarchiwach.gov.pl/86f293b7641f853e8980b2c13e699d6f369c7acc93862f6cc4cadd86f627c895_max",
+    "bytes": 1584162,
+    "sha256": "886f9bdb6e604751c47e0a17e63affe38969704e1f1373d4cab6c638d24e1fb8",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_45.jpg"
+  },
+  {
+    "image": 46,
+    "url": "https://photos.szukajwarchiwach.gov.pl/69e9063a090481df982a820f0d014ce7574e33b0e941299b3a78b88cc33af5fa_max",
+    "bytes": 1597150,
+    "sha256": "d1d43a77a42399d237ddd022c985cadd65e5b02fb9b2b096fb4447e8161bff74",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_46.jpg"
+  },
+  {
+    "image": 47,
+    "url": "https://photos.szukajwarchiwach.gov.pl/a7a85c3feb946fcee3aa35841bd93eaf3904d2c721da81fa44a581d6fd0f5726_max",
+    "bytes": 1568819,
+    "sha256": "0d75992ef21f8e5336238bd623ce691554b89e4ce7bdf618f2d80d5440678303",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_47.jpg"
+  },
+  {
+    "image": 48,
+    "url": "https://photos.szukajwarchiwach.gov.pl/449f85baadff2cad2480496fb3a4e64db8fb6c68cc0864488abbed8ccc762adc_max",
+    "bytes": 1546906,
+    "sha256": "fa1c1876dffaede50740516b759d8a34eff8460ed58eff1de9a65deae8c3587d",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_48.jpg"
+  },
+  {
+    "image": 49,
+    "url": "https://photos.szukajwarchiwach.gov.pl/9a0542dca2725aed25292f18cdf18f9f175fbabc731860ee104d866729f456cb_max",
+    "bytes": 1567450,
+    "sha256": "2c7e3ee354f74507227f0cfce37dbc8adeec9cc981c604f88457f29e354ae5b1",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_49.jpg"
+  },
+  {
+    "image": 50,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d6d6a07d5bc497efcf7bcf4ab073c0e2e8aa2fea8c16b74cc1519ac275715597_max",
+    "bytes": 1560491,
+    "sha256": "c3708e51bd15eca5dba4d4c43fc0310590eca238e01a3b7ef3cd7e9fee45dca7",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_50.jpg"
+  },
+  {
+    "image": 51,
+    "url": "https://photos.szukajwarchiwach.gov.pl/ed5ac112df46b8d30980bde46cf0aa0f2e35521f9713fc2a33e4e5621574d17b_max",
+    "bytes": 1595306,
+    "sha256": "01861e476cb4c1b90d560a1176862f3c4d3c45ad7e658824967f54a1356a7c35",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_51.jpg"
+  },
+  {
+    "image": 52,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f321d8dbf25c88a9a620673cb7b696f3f18e2d559c6b34aab8c87a6cc96febbb_max",
+    "bytes": 1592201,
+    "sha256": "3e66b435b65c097e7e540becc57cb904f4cce3f8f422c8486d88db630bf4bcc2",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_52.jpg"
+  },
+  {
+    "image": 53,
+    "url": "https://photos.szukajwarchiwach.gov.pl/457fcc4b8bfeea5a39b083bb441f25f7d7d2da7b677e651245fba53d5a876fb0_max",
+    "bytes": 1588988,
+    "sha256": "6dbbc308a91910ff99549ad64d2e0f00d72f053c926d02258f0dab3c3fe12776",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_53.jpg"
+  },
+  {
+    "image": 54,
+    "url": "https://photos.szukajwarchiwach.gov.pl/62ed346d9c33ad61329d71a7a3bbf2933fcb4a34c2677c0a5a0f96fa2c57d5bc_max",
+    "bytes": 1576545,
+    "sha256": "b31d01c9dad9f787e22dfb87da80aea1e141634dfe75c1a344f8fb5e136d2e65",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_54.jpg"
+  },
+  {
+    "image": 55,
+    "url": "https://photos.szukajwarchiwach.gov.pl/9dc8208e6f715c5ddc5ca86745a02cfcf95b9ee22a79813895bbf9e76d31f1f3_max",
+    "bytes": 1599582,
+    "sha256": "0c62028c9518a30a974c5379b9a1d1f428416794ff4c32e19afb9f1b9a2d1c20",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_55.jpg"
+  },
+  {
+    "image": 56,
+    "url": "https://photos.szukajwarchiwach.gov.pl/cd821f501685b2b1c4641cf740bcea83407caeddb2751e36efa2aa9827153d20_max",
+    "bytes": 1589520,
+    "sha256": "6db8ec8d946354fd3b2bd830960eebef1b2dae1624405b1c40c15fb289d71f7b",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_56.jpg"
+  },
+  {
+    "image": 57,
+    "url": "https://photos.szukajwarchiwach.gov.pl/6ce0aa8c90316314eb0fbb9757029f713f6c6e30cf963b9cff00f0c50b0622ab_max",
+    "bytes": 1576952,
+    "sha256": "b7ee93569a7a9f2ed9c62d371f652dedcf2e5c532c5cf6a40979dfca907eef12",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_57.jpg"
+  },
+  {
+    "image": 58,
+    "url": "https://photos.szukajwarchiwach.gov.pl/e47085eb8bc47826bb168e67dc9109059d379f159babdf69156724029b77fedb_max",
+    "bytes": 1600621,
+    "sha256": "08f8ba038be786449906f62ba599818e3be32e5e1c7d90c0497cbe89f24c5c9a",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_58.jpg"
+  },
+  {
+    "image": 59,
+    "url": "https://photos.szukajwarchiwach.gov.pl/26c088af1d9e73596a221199995e379453b2b294dedd0b224b37d2ef7576e1d3_max",
+    "bytes": 1586649,
+    "sha256": "52df17420fe1b0c423be3c61c0f155f6da5746737610793c0e0ec5c85be01dee",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_59.jpg"
+  },
+  {
+    "image": 60,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7cf75ff8993b9a5a35da6955d44f6fa620b96d60968c2eb95e61be9e5a5c9539_max",
+    "bytes": 1639215,
+    "sha256": "a185e984e2e623fa3d4933cdbad9c7327ef465eed6a11ae56ba5b1c34e8d7136",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_60.jpg"
+  },
+  {
+    "image": 61,
+    "url": "https://photos.szukajwarchiwach.gov.pl/1470144f010cbbedeb031274f687ab8d71bc5a41e9fe9204f12bd7cdda70aba5_max",
+    "bytes": 1656638,
+    "sha256": "fc6f47d641720b50ae6043252426d6b53bb18fbc27c3cf74bfd49ca611db0fab",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_61.jpg"
+  },
+  {
+    "image": 62,
+    "url": "https://photos.szukajwarchiwach.gov.pl/cb4f2b9f907158ffe54dd94c40fb1c32d7f638288170ca85c6d2a290478e1d1e_max",
+    "bytes": 1652410,
+    "sha256": "d5187b2c8b7909c57cc8e9d418b5f82094c29646a78d4f2262eb9d8544d4eced",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_62.jpg"
+  },
+  {
+    "image": 63,
+    "url": "https://photos.szukajwarchiwach.gov.pl/229653db6e9661d8be39937588e9449f378fc5130783ca9f53737e860f22bfc7_max",
+    "bytes": 1652017,
+    "sha256": "50b39aec1077c590904aa241036314bbd6a3ea9712e21625e3b462e1097f57b1",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_63.jpg"
+  },
+  {
+    "image": 64,
+    "url": "https://photos.szukajwarchiwach.gov.pl/ef091e0a303a4ba986cebbd745c82a20ecd75daf552bcae19bfaa4cd8d7c85be_max",
+    "bytes": 1643074,
+    "sha256": "de4bf9471b66bc5571b5bcecff9064bccb284cd70fd70c2a68c40af9ab5bd7cc",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_64.jpg"
+  },
+  {
+    "image": 65,
+    "url": "https://photos.szukajwarchiwach.gov.pl/13859130edc887d8ecd538b172f7452d71465a036c546acd98373ff936696dcb_max",
+    "bytes": 1663471,
+    "sha256": "26effa924065a75945cbfce5ff55a32f6246ce306212fb50e79cb8b9082483d3",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_65.jpg"
+  },
+  {
+    "image": 66,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f05e1228e511e2529800354cc38252e47a0846a8bde4b1f275ba1bdf4eace5ad_max",
+    "bytes": 1674476,
+    "sha256": "7a885d122ff8bb063e1a7a77b3a46434aefce4cd67199f8329ab1bd89fcbd63e",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_66.jpg"
+  },
+  {
+    "image": 67,
+    "url": "https://photos.szukajwarchiwach.gov.pl/8c593f5cb7732bfc13ec0af7a0e595a8191726e4da2616f2a1fc77585afde2ac_max",
+    "bytes": 1683632,
+    "sha256": "75e60e818bd5a777fb00cf4197f56f19c82ce5f4a5f7e4ff006f69e8259e64f7",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_67.jpg"
+  },
+  {
+    "image": 68,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f9dc660f5bdf40174f91cda6cc7f5c7681eb2d4bdf8a6937f9ed3fa140eabade_max",
+    "bytes": 1695289,
+    "sha256": "4fe0b03e8bf50d9483facb5753703ba3a5c948c897225cc7faee2cd036dcdb18",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_68.jpg"
+  },
+  {
+    "image": 69,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f15b8ed29762d3da9c629d6fac726b0dc50e413e5a33a2ff18426622af502ba1_max",
+    "bytes": 1657455,
+    "sha256": "22512a8d669db6741993fda6b85db42d93188f622eb1419569e0ec6e2f5d5a44",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_69.jpg"
+  },
+  {
+    "image": 70,
+    "url": "https://photos.szukajwarchiwach.gov.pl/8a5d6168c4830c50b5053f0fd5f58e4e0948cf901db6dbdb59d6332a18e46e30_max",
+    "bytes": 1663663,
+    "sha256": "9520bb11c451eabe5043c0bf799b2151445bd48fd4e900d2c4907ea30762a85e",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_70.jpg"
+  },
+  {
+    "image": 71,
+    "url": "https://photos.szukajwarchiwach.gov.pl/6095bd5502970800095886548bd4fd1aa4e504f41617beb1fc687ff8beb02f57_max",
+    "bytes": 1678962,
+    "sha256": "d71ad804380aa9e5f7dc416ed08a26dbcee10efade2ac0db279eee59b6257097",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_71.jpg"
+  },
+  {
+    "image": 72,
+    "url": "https://photos.szukajwarchiwach.gov.pl/0dd198c233cda01f9f697d04cf6850d932e5423ff30e7b3563549edbc9877312_max",
+    "bytes": 1609680,
+    "sha256": "f6e6d88d76219e9bc031efc77b1ca1009789bcd2789aa145e7c04b04571d8bce",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_72.jpg"
+  },
+  {
+    "image": 73,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f79f81fc0687422c4e1d0d2338659b9c1fecd77df6f5706b037884ecf23fe657_max",
+    "bytes": 1662433,
+    "sha256": "956c59986e5a93e810a7c44c5b7a86453bd7c5f29ee8215837521b6de5997a46",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_73.jpg"
+  },
+  {
+    "image": 74,
+    "url": "https://photos.szukajwarchiwach.gov.pl/fddf5deb24900a8f3d4b495526857621e9b3065a03bc59816de6b03c4478c3ec_max",
+    "bytes": 1576634,
+    "sha256": "10a676c8ad3e9755d20ab7115056d14ce2c565f3ad771086bddf7bcfe361e14d",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_74.jpg"
+  },
+  {
+    "image": 75,
+    "url": "https://photos.szukajwarchiwach.gov.pl/644a4b7283831da01d77ed951e03d034f1d628a77d937523f0c460d6a8f721f9_max",
+    "bytes": 1584652,
+    "sha256": "7e4edca4ef22d675e60759d893618402b51f4a4743b98c4f56d2d4d258ec0c60",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_75.jpg"
+  },
+  {
+    "image": 76,
+    "url": "https://photos.szukajwarchiwach.gov.pl/9f7b73f5acc74b800f35726b070f2cff358f21000b66096a5f08d18d64d723d9_max",
+    "bytes": 1593920,
+    "sha256": "cb881631ec30bc4f4d10cc12b8950146aaf59a457c97097a2cdfc97334251da1",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_76.jpg"
+  },
+  {
+    "image": 77,
+    "url": "https://photos.szukajwarchiwach.gov.pl/56d53384603b70790d30c63ed3a81e9654a54eddf3c893e106fc390a3133cd7c_max",
+    "bytes": 1577678,
+    "sha256": "65dffd3f0d205967cf1bac492b754efc7e9a3ba8ca7c562f62cd32e95d32ed90",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_77.jpg"
+  },
+  {
+    "image": 78,
+    "url": "https://photos.szukajwarchiwach.gov.pl/87c7fe4160c36b4daf4c66a5139d121b6b393f33c4b74f97a9bbb2560a4da410_max",
+    "bytes": 1589575,
+    "sha256": "3968b054f372386da748d54845b7b4609b87275d313b6bbd53b3010b2cfcfa1f",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_78.jpg"
+  },
+  {
+    "image": 79,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d374b97ae61ade996fdda29e028d598942e705976fbb3d420cbc4218661a5233_max",
+    "bytes": 1583350,
+    "sha256": "82c102db65a73151ca29eecf89d19e82e363767bb0eb2893a275bf4e10dcda7c",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_79.jpg"
+  },
+  {
+    "image": 80,
+    "url": "https://photos.szukajwarchiwach.gov.pl/6c4f786ccd79101a0349aa88534576f57006985e24b17047ac2a7c7acb32c0bf_max",
+    "bytes": 1625249,
+    "sha256": "11ee0b79cead2b59ae15f6a786f647769b558ef2313c072770a062fbede50825",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_80.jpg"
+  },
+  {
+    "image": 81,
+    "url": "https://photos.szukajwarchiwach.gov.pl/45a84a01085b200dd9f6e9bbaee9da0727f545f0d203d7903ac4662339392921_max",
+    "bytes": 1599656,
+    "sha256": "2c82051f579378cf6084a37b38dc44b08635c54432da61f55fad7b0b4f696f19",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_81.jpg"
+  },
+  {
+    "image": 82,
+    "url": "https://photos.szukajwarchiwach.gov.pl/409a0360fb78040ffd34a3ac942914e42207a1f274cf81f4a56da9e08847372f_max",
+    "bytes": 1576011,
+    "sha256": "4ca4da1b7f99a26c1e912c0ecf787f68969e041048d200cb80dc47c728db0568",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_82.jpg"
+  },
+  {
+    "image": 83,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7568c2bc1846fc8c9b9dcdb88777a8b2cc45886f66a74ad22306078664bc71d6_max",
+    "bytes": 1584846,
+    "sha256": "3685862f75dcb5964bcb96b9098f754dce3b4f989c0903eb7b7ca5785bee5a23",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_83.jpg"
+  },
+  {
+    "image": 84,
+    "url": "https://photos.szukajwarchiwach.gov.pl/83eb30b666b417896b368c919482a9e510b0ad84f06481c145c145ae0869e20b_max",
+    "bytes": 1565991,
+    "sha256": "0a618d8dc54ff8b8e51f093315db11eb027447d1382acf1e1aec89c5f325f92b",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_84.jpg"
+  },
+  {
+    "image": 85,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d0ca86d7b04c186a5485a8cc2c07659b2e861199a4a6c223f4e1386f595139b5_max",
+    "bytes": 1545674,
+    "sha256": "8e338064b21db65e61aa5ff4c05074ccd161dd9c5ad1d769480da35b6541b46a",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_85.jpg"
+  },
+  {
+    "image": 86,
+    "url": "https://photos.szukajwarchiwach.gov.pl/c24c2985dc3f5cc731de5878d4032508fc421191bb08323fd9d776e5a4d90892_max",
+    "bytes": 1495176,
+    "sha256": "51cdbfdfcd5e59217ca5fa3478a29dc654205ca1841354545b56be65c2c93f88",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_86.jpg"
+  },
+  {
+    "image": 87,
+    "url": "https://photos.szukajwarchiwach.gov.pl/0ca532ddc0e3f7794ab37151e123a9b15fd0bff4d46dd8d5178f0b098ed66dc3_max",
+    "bytes": 1555179,
+    "sha256": "68b3b8dad74ae3bd205849c3fc8c8a9bc577cd5e5060b024843cd1c6d1d65fa3",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_87.jpg"
+  },
+  {
+    "image": 88,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7d8b8dff68cd21a7a65b7bbae4dba3dc8745769580ef2384734b1374dbfce097_max",
+    "bytes": 1568182,
+    "sha256": "f9ff6209aa9f539c6a31fbe10790396ee8557b87883609486fcdfa28d6fcbc63",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_88.jpg"
+  },
+  {
+    "image": 89,
+    "url": "https://photos.szukajwarchiwach.gov.pl/b5a5a1713e39282acd3076bb410a8ce32c23fb1cb65b27573cb11f0f76db03d7_max",
+    "bytes": 1583649,
+    "sha256": "366a573a3529b83a1f9c608bb3a8fdabb9aaa7c807b4d6f8aea36cd9b0c25625",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_89.jpg"
+  },
+  {
+    "image": 90,
+    "url": "https://photos.szukajwarchiwach.gov.pl/cefd1afe252350dc6597f6b66077affe8a4ef2a360429b8fcd442df3c5cf1fb3_max",
+    "bytes": 1551078,
+    "sha256": "c2aa016a42a916f272a009aeae74fb5be6e6b77ba0f8db5ef461ab4ca92d9c3d",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_90.jpg"
+  },
+  {
+    "image": 91,
+    "url": "https://photos.szukajwarchiwach.gov.pl/5c5b12b896da07def245b14458cb5a3e1a6068376bb6691271706a1b4f6d57d3_max",
+    "bytes": 1544426,
+    "sha256": "6723a995f55fc06f3179b896720a00545779c705c259474c25f3f03dd8381668",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_91.jpg"
+  },
+  {
+    "image": 92,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f19c2cd6ccd7728982ffbaf31011e0791e7f85e3da062360743c7ab5ac38c3b1_max",
+    "bytes": 1510973,
+    "sha256": "d004cfecbf3d0163a6166cc29798394e8b0f906019c27f58dea5d9d78a720431",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_92.jpg"
+  },
+  {
+    "image": 93,
+    "url": "https://photos.szukajwarchiwach.gov.pl/1cf03fb6cf9fb10de213f37e44206afa113d8703944a0da8c99647e22e2d55fa_max",
+    "bytes": 1569739,
+    "sha256": "04a9fb944b9f6fffc4f980b06e47d0f896116fa5c8e240d5ec676c9e64e9063e",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_93.jpg"
+  },
+  {
+    "image": 94,
+    "url": "https://photos.szukajwarchiwach.gov.pl/31919af9db3d14982e0321aceffe1606bf865c987dfa627a7f92a623cc47d496_max",
+    "bytes": 1554816,
+    "sha256": "69552ee43939b26a22bcd97aa2a0648e4043d2f1233b5827af8ffb515da8fb7a",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_94.jpg"
+  },
+  {
+    "image": 95,
+    "url": "https://photos.szukajwarchiwach.gov.pl/2cf6dfa2cffbe919fb0480cec3a4303086d78f254fe1b467528aa6902b5c5f17_max",
+    "bytes": 1579408,
+    "sha256": "44a2ada8fe0e69fd33860c1daeb7dfb3895cd59e3a22e8cbd9dc9f1a41624fdb",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_95.jpg"
+  },
+  {
+    "image": 96,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7ccc701be0b493f6aa912b155de61d5039b457138b38d755a3c313d726a65aa7_max",
+    "bytes": 1553597,
+    "sha256": "11f7795e415050b3af09c31842ab9f36c28f766f1faea6542d1608ee0eabc837",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_96.jpg"
+  },
+  {
+    "image": 97,
+    "url": "https://photos.szukajwarchiwach.gov.pl/87fa95ce68c3abe97d34762d83180ac58ecb6d50ad35ee11190032925db08470_max",
+    "bytes": 1537537,
+    "sha256": "2dc24e0eb331beb31d6749428a7c3f75df97ddd1cbc11f0d8feddb31da176d93",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_97.jpg"
+  },
+  {
+    "image": 98,
+    "url": "https://photos.szukajwarchiwach.gov.pl/784be85b051b02233b3aa205df713f9d78610bce69986f65c599bc6a2ec49c90_max",
+    "bytes": 1520389,
+    "sha256": "0e561a6be29229f5483f93168e7976de812fe5c9164c70dd742b3b44693e3a6d",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_98.jpg"
+  },
+  {
+    "image": 99,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f5b265d291a5735543c239dfa3bb1ae185ae3223a145137ddf4f6b3e0c14b7e8_max",
+    "bytes": 1578694,
+    "sha256": "41cb8f6cd3add8627266b987c5c80a500ef760a6466b4d311ca26b6d5f7c6263",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_99.jpg"
+  },
+  {
+    "image": 100,
+    "url": "https://photos.szukajwarchiwach.gov.pl/c443023d551d74b55aa7b797db32ca916b4eaf21262d9cc0451520af2d5b5272_max",
+    "bytes": 1596519,
+    "sha256": "d83df68da866e8d4b2a2297d9faee56b2048980e7926ae6ae9b5f7daaf7e8a6a",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_100.jpg"
+  },
+  {
+    "image": 101,
+    "url": "https://photos.szukajwarchiwach.gov.pl/b0f655bbea131db6607e57412649f0a4b4a863ed17facdcf775e13d6ec032d4f_max",
+    "bytes": 1552104,
+    "sha256": "611eadc4a3c8557f967428b7fbb1aac66daa8af571fc7cccacd57348ac87cd72",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_101.jpg"
+  },
+  {
+    "image": 102,
+    "url": "https://photos.szukajwarchiwach.gov.pl/015441b5b4a0803af53819be1e6704fa0f26c080f7c0714128a1c03dc11100cc_max",
+    "bytes": 1555728,
+    "sha256": "de55451e98510ad7e38796e4d0b78d1a2b92826da97818471dfaa3eb24ed68c0",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_102.jpg"
+  },
+  {
+    "image": 103,
+    "url": "https://photos.szukajwarchiwach.gov.pl/bf15c57e81db42142db6eb98b67cc71a723221c27527319e06c2a75ffa1f180b_max",
+    "bytes": 1548265,
+    "sha256": "7129677ddb5483c9d54f659878deffab9c4dfb131b4f9cde98a37414f3da8e79",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_103.jpg"
+  },
+  {
+    "image": 104,
+    "url": "https://photos.szukajwarchiwach.gov.pl/70cd7935068cfd76a888769f66289793026ceaba4d1339ec70ebabd331278aea_max",
+    "bytes": 1550272,
+    "sha256": "4b557711768174fdfe12cf0c687735de4777517d11b1818c0a2f796a770bde7b",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_104.jpg"
+  },
+  {
+    "image": 105,
+    "url": "https://photos.szukajwarchiwach.gov.pl/22dd14344b5eef2e0da21602f23d0c6b3976f8b4fc2bce749f24ffe041642c5a_max",
+    "bytes": 1551860,
+    "sha256": "9473b764728a75419a9a7e0349a67ca70d8725e59ccbe1117c0b899ab7359e00",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_105.jpg"
+  },
+  {
+    "image": 106,
+    "url": "https://photos.szukajwarchiwach.gov.pl/59afb13952901f7a5b66cf755708dd4db4ba78d3c9dc3dd12f66ef0e16c931f7_max",
+    "bytes": 1543677,
+    "sha256": "64256dd749ae302b6ab87592d7ee65c2b8b7adb136168d0d31a0a409edc59863",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_106.jpg"
+  },
+  {
+    "image": 107,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d09995258fb961c4bd851cde77b30e9ab8471dc9114121e3359dc3940e96db1c_max",
+    "bytes": 1555632,
+    "sha256": "63458ae9037fbb9a17163dfaf8886d172df87adb1a3257e7a03048f49f5a43e1",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_107.jpg"
+  },
+  {
+    "image": 108,
+    "url": "https://photos.szukajwarchiwach.gov.pl/babe63bf9e9225fb01ed4b70852ffddd1e9bfa68e2772cd6b0014c7724559db4_max",
+    "bytes": 1555758,
+    "sha256": "107154a8a7dba0822c6b1e05c608fb814e606d6d1206af548eedbd51ff02fa30",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_108.jpg"
+  },
+  {
+    "image": 109,
+    "url": "https://photos.szukajwarchiwach.gov.pl/dbe4e381b98b58fba112b8c5788a35f13a2f843a81e0767dd8f85d9ae979e730_max",
+    "bytes": 1559651,
+    "sha256": "e536479f3690b0a0085ac57cf78ddcdea41db7bfbb2bbdd68d149b5306220469",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_109.jpg"
+  },
+  {
+    "image": 110,
+    "url": "https://photos.szukajwarchiwach.gov.pl/f5f29b271a12ec585faef0d960e066b0a2dfa3df9dda32ae1da77bdff7a12ef8_max",
+    "bytes": 1553824,
+    "sha256": "1f7f971cc1c538063ab6aa3a3b0af2114ad2c54c90425aacf83da29f8a60bf54",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_110.jpg"
+  },
+  {
+    "image": 111,
+    "url": "https://photos.szukajwarchiwach.gov.pl/a020e0b7484d019c9604b045065821a405a6fa4a397d05d3c71ad5e89f7ffb83_max",
+    "bytes": 1547665,
+    "sha256": "30f701f2483ce8bfb40790746009c4e0ec5e931821fab4c0b7ab1aef7b9d50d6",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_111.jpg"
+  },
+  {
+    "image": 112,
+    "url": "https://photos.szukajwarchiwach.gov.pl/67620f06482f8f2f5bb3001a6d4cd1bda90edc64447be5daf894dcaf6fec2e0d_max",
+    "bytes": 1560959,
+    "sha256": "812cb12ec45c6a3dc02fa9aee54c4b00ead8b5a39bac7823c0a5b7701ae876d0",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_112.jpg"
+  },
+  {
+    "image": 113,
+    "url": "https://photos.szukajwarchiwach.gov.pl/2c60083a383129234bc51310e570b6aef73c99536618f0e646712f8e59e7f331_max",
+    "bytes": 1550515,
+    "sha256": "ad7add4b323035ed81ade9b47a2ada42c734c3e75805c2c9bfbd1cef9db01bd5",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_113.jpg"
+  },
+  {
+    "image": 114,
+    "url": "https://photos.szukajwarchiwach.gov.pl/cdb0fe703ae642770ee984b3058fc3279ea7e2e02a58aed763bee3095546664e_max",
+    "bytes": 1552145,
+    "sha256": "a9c3b3ad92995dedb4441532c1847e1f7fd7f1bdc5cb7b52fafe75261522c738",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_114.jpg"
+  },
+  {
+    "image": 115,
+    "url": "https://photos.szukajwarchiwach.gov.pl/fc080ece10abc949a87e60f4c19d4ca3ed0a96c6a21086bcaa6548f4b49b04a8_max",
+    "bytes": 1551089,
+    "sha256": "f11055cef8f80c991e900b7c021f2196362bfaccd4e22eb0d24aea58e927fd1f",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_115.jpg"
+  },
+  {
+    "image": 116,
+    "url": "https://photos.szukajwarchiwach.gov.pl/7045d42035565428af496b52eebc9b428b2b343715e8f84317abecaea413bfe9_max",
+    "bytes": 1525443,
+    "sha256": "8d5c1b684d7b47d3362965d2a03830fcc1f4a61e41c386a9dba3c072d71f06d3",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_116.jpg"
+  },
+  {
+    "image": 117,
+    "url": "https://photos.szukajwarchiwach.gov.pl/2209b5c51d93f9dca879ce6e8d2ca9076775290ea53534f171e315eb6d4702a0_max",
+    "bytes": 1538306,
+    "sha256": "df77d1519bbf1fbcea908bc6947fd0d7ccef4b5e03feaebcd5c22ad3e956049b",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_117.jpg"
+  },
+  {
+    "image": 118,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d622413978ce954ee754097d0e78200950005d3232fcc1f965892a5c62581031_max",
+    "bytes": 1552322,
+    "sha256": "9b02b445fba1f5e21f8c33234c145325fbe0dad8e173cc797de78dbf3965bbe6",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_118.jpg"
+  },
+  {
+    "image": 119,
+    "url": "https://photos.szukajwarchiwach.gov.pl/681f5465e203294f7d70ffc42177eb14efc51fc3aaac19b9878437a056f85d0c_max",
+    "bytes": 1555126,
+    "sha256": "9245baf4e891bc55b4a946651b2c9f92f587165d8c71235afd9b421224fd0303",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_119.jpg"
+  },
+  {
+    "image": 120,
+    "url": "https://photos.szukajwarchiwach.gov.pl/41449b5ef28bbbb177cc300dba6f1f9e104cf9cf345bae18c6cbf0849d5b5fc0_max",
+    "bytes": 1559718,
+    "sha256": "3620c334aaa33064d6618f629c3f1d6db3efcee7d3699d1e8f87d5d270f5a6b0",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_120.jpg"
+  },
+  {
+    "image": 121,
+    "url": "https://photos.szukajwarchiwach.gov.pl/ebd0ec346d304486d0e7f4b266fa7fb397f147afa1986d134cf9b84b0b81f170_max",
+    "bytes": 1539591,
+    "sha256": "3653e01e5d23ed15e61ae7c27d94fecd18cf9c0ecf6df1de19a967489742af79",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_121.jpg"
+  },
+  {
+    "image": 122,
+    "url": "https://photos.szukajwarchiwach.gov.pl/d4b0d2824c90fe31b166a4c83b2aff48d465332cef05aa5f2f97631ff3861ef1_max",
+    "bytes": 1556721,
+    "sha256": "6c716b355073b09c317e62d5093e4e517e4af4e7c354f69e9c0b91f0b502e71a",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_122.jpg"
+  },
+  {
+    "image": 123,
+    "url": "https://photos.szukajwarchiwach.gov.pl/1dd93cb3038daab1444f9de50a1df6faba4caeea2b880ab0619c5060ae9b22f8_max",
+    "bytes": 1554511,
+    "sha256": "02626d4fcc6dde1c2d7a5d3cde985f502558becd777a3b36c0deac26e66bfaf1",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_123.jpg"
+  },
+  {
+    "image": 124,
+    "url": "https://photos.szukajwarchiwach.gov.pl/1791aa2ed645f5aafd29e1eae40857573867e0514143eb12a97c81f86616f8ab_max",
+    "bytes": 1537137,
+    "sha256": "763f8c217db153b80f3fde3505d3f6858eec38eaa53cea28a92235d0057a4c52",
+    "archived_original": true,
+    "working_file": "work/s21/III_1939_124.jpg"
+  },
+  {
+    "image": 125,
+    "url": "https://photos.szukajwarchiwach.gov.pl/faedabbc4eaf9055c271463421090610cbc31b488b709da2a5e3bc10cc8ba610_max",
+    "bytes": 1349100,
+    "sha256": "9fdcbf0a39f346f1bcd9a8d6be77aece0d359324bac14676e8a2e8b6fc1d72f0",
+    "archived_original": false,
+    "working_file": "work/s21/III_1939_125.jpg"
+  }
+]
