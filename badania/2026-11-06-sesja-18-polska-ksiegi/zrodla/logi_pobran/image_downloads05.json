@@ -1,0 +1,24 @@
+[
+  {
+    "at_utc": "2026-11-06T19:05:10.636436+00:00",
+    "note": "Pierwsza pr\u00f3ba urllib bez User-Agent: HTTP403, bez pobrania pliku. Ponowienie zwyk\u0142ym User-Agent przegl\u0105darki."
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1939/023.jpg",
+    "path": "1939_023.jpg",
+    "bytes": 1981143,
+    "sha256": "dcc8d00687d7c4244e25e333cdc4e38a5d723a578a44399a07fa6dff8f7351ea"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1940/026.jpg",
+    "path": "1940_026.jpg",
+    "bytes": 2833298,
+    "sha256": "71f004bce029eba4e8e87b29bfe8b7991c8b2cc4ae78d4070597cf920ae66e46"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1941/014.jpg",
+    "path": "1941_014.jpg",
+    "bytes": 2564143,
+    "sha256": "94605c7b027b469cd78215876d29cb7ca75be4ce60306984f08cce70423287ac"
+  }
+]

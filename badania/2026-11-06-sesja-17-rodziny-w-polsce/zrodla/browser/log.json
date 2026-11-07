@@ -1,0 +1,32 @@
+[
+  {
+    "key": "grobonet",
+    "url": "https://grobonet.com/",
+    "at_utc": "2026-11-06T18:14:21.573257+00:00",
+    "status": 200,
+    "title": "Największa wyszukiwarka osób pochowanych w Polsce",
+    "text_excerpt": "Przejdź do treści\n\nW BAZIE GROBONETU SPOCZYWA\n7 622 279\nosób\n\nPL\nEN\nUA\nDE\nMotyw\nStrona główna\nWyszukiwarka\nPochowani\nNekrologi\nZnane osoby\nCmentarze\nInwentaryzacje cmentarzy\nREKLAMA\n\nZNAJDŹ POCHOWANEGO\n\nNajwiększa wyszukiwarka osób pochowanych w Polsce\n\nWpisz imię i nazwisko, a Grobonet.com wskaże grób, cmentarz i miejsce spoczynku. Dane pochodzą z lokalnych systemów cmentarnych.\n\nDokładna lokalizacja\nDane z lokalnych Grobonetów\n\nWyszukiwarka osób pochowanych\n\nNazwisko: co najmniej 2 litery, a bez imienia co najmniej 3. Imię: co najmniej 3 litery. Bez imienia wybierz województwo albo miasto.\n\n",
+    "html_bytes": 41861,
+    "sha256": "1cdb9287ed129cddf842fd1a88ec8172d0536acc7b0463fc8833781ff6984d74"
+  },
+  {
+    "key": "swa_scan110",
+    "url": "https://photos.szukajwarchiwach.gov.pl/c943c60cd5a6dfc0302060534818bba984b03fa27ac1927ce0f7aafb6d4bea70_max",
+    "at_utc": "2026-11-06T18:14:23.975973+00:00",
+    "status": 200,
+    "title": "",
+    "text_excerpt": "",
+    "html_bytes": 993,
+    "sha256": "fe569c41dbfe8fb0b54d734a4c093d03e416898b70916f830c36f8277a81cd85"
+  },
+  {
+    "key": "fotolubgens",
+    "url": "https://fotolubgens.lubgens.eu/index.php?/categories",
+    "at_utc": "2026-11-06T18:14:27.438967+00:00",
+    "status": 403,
+    "title": "Error 403",
+    "text_excerpt": "Error\n403\nForbidden\n\nYou don't have permission to access this document.",
+    "html_bytes": 559,
+    "sha256": "0da5b068244eb715181940b46c05caecbbcbf2ab8a39a026c3aff9b00828963e"
+  }
+]

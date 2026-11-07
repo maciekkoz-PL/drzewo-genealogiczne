@@ -1,0 +1,190 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "1c44dd9e0fcc450f9970",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski 1919",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T17:22:32.034638+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s16/arolsen/surname1919_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "1c44dd9e0fcc450f9970",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T17:22:33.455660+00:00",
+    "status": 200,
+    "bytes": 11,
+    "sha256": "eaaeed13bc0ff7247f19b0bf7abc0766b5685fce97a9871f326b9ac722472bc1",
+    "path": "work/s16/arolsen/surname1919_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "1c44dd9e0fcc450f9970",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T17:22:41.062767+00:00",
+    "status": 200,
+    "bytes": 94060,
+    "sha256": "2ed3d948031d15f1c1c499b349551b3cb9daec40f075d24a4f0ee451a1f17222",
+    "path": "work/s16/arolsen/surname1919_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "d5943b6656ea409aa784",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Anna Chmielewski 1929",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T17:22:43.968367+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s16/arolsen/anna1929_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "d5943b6656ea409aa784",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T17:22:44.846443+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "fb74d2b65a8a1a3c8e33d270599f1ab7ad2b47dea78613a30fc23177dd142030",
+    "path": "work/s16/arolsen/anna1929_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "d5943b6656ea409aa784",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T17:22:49.874168+00:00",
+    "status": 200,
+    "bytes": 674,
+    "sha256": "75d949a8a7a858abd49d81469c0297441aaa11be68f8a41d42a1331294507a73",
+    "path": "work/s16/arolsen/anna1929_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "65c7880fd93d491181ac",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Roman Chmielewski 1946",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T17:22:50.524338+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s16/arolsen/roman1946_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "65c7880fd93d491181ac",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T17:22:51.061266+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "0d3a4aef361037a138eca7f613ea382680de64e089a716c5f28f6f2605835166",
+    "path": "work/s16/arolsen/roman1946_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "65c7880fd93d491181ac",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T17:22:53.432802+00:00",
+    "status": 200,
+    "bytes": 1980,
+    "sha256": "4fda580df59b82d6dd4ee9cafd23e26ad4f7c43edb2dfb31298641e628647e52",
+    "path": "work/s16/arolsen/roman1946_GetPersonList.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "ab2198fda26c4521a041",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Ernest Chmielewski 1947",
+      "synSearch": true
+    },
+    "utc": "2026-11-06T17:22:54.167361+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796",
+    "path": "work/s16/arolsen/ernest1947_BuildQueryGlobalForAngular.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "ab2198fda26c4521a041",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-06T17:22:54.400296+00:00",
+    "status": 200,
+    "bytes": 9,
+    "sha256": "fb74d2b65a8a1a3c8e33d270599f1ab7ad2b47dea78613a30fc23177dd142030",
+    "path": "work/s16/arolsen/ernest1947_GetCount.json"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "method": "POST public index",
+    "params": {
+      "uniqueId": "ab2198fda26c4521a041",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-06T17:22:55.708296+00:00",
+    "status": 200,
+    "bytes": 676,
+    "sha256": "57732c851928b5239ebfa29b239981ffe7ada058f52d80fb200d2bbbc3389d73",
+    "path": "work/s16/arolsen/ernest1947_GetPersonList.json"
+  }
+]

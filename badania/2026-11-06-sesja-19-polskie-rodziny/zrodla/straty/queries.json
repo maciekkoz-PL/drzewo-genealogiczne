@@ -1,0 +1,58 @@
+[
+  {
+    "key": "jozef1897",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "Mandziuk",
+      "imie": "Józef",
+      "ur_rok": "1897",
+      "szukaj": "Szukaj"
+    },
+    "at_utc": "2026-11-06T19:34:44.088187+00:00",
+    "status": 200,
+    "bytes": 6789,
+    "sha256": "be7c4fe1aeff4fc09c36ecc5b219e1ca6b1ba5e4c3288642a6a8c397bcc632f2"
+  },
+  {
+    "key": "emilia1904",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "Mandziuk",
+      "imie": "Emilia",
+      "ur_rok": "1904",
+      "szukaj": "Szukaj"
+    },
+    "at_utc": "2026-11-06T19:34:45.581443+00:00",
+    "status": 200,
+    "bytes": 6789,
+    "sha256": "84cd0c6f1270c45054cc88f2766144d198e62f30b66112a906a7c6291a07e8d9"
+  },
+  {
+    "key": "sabina1917",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "Chmielewska",
+      "imie": "Sabina",
+      "ur_rok": "1917",
+      "szukaj": "Szukaj"
+    },
+    "at_utc": "2026-11-06T19:34:47.705123+00:00",
+    "status": 200,
+    "bytes": 6792,
+    "sha256": "89bac4f8b77fc3231cba73c77e42a0709bce42d9a7a33c859ee1a8ec64618b39"
+  },
+  {
+    "key": "julianna1907",
+    "url": "https://www.straty.pl/szukaj-osoby.php",
+    "params": {
+      "nazwisko": "Chmielewska",
+      "imie": "Julianna",
+      "ur_rok": "1907",
+      "szukaj": "Szukaj"
+    },
+    "at_utc": "2026-11-06T19:34:49.158723+00:00",
+    "status": 200,
+    "bytes": 6794,
+    "sha256": "846767344adff880b3ade8f3badc286a5495e2752f429c60d130485f04fb3c3f"
+  }
+]

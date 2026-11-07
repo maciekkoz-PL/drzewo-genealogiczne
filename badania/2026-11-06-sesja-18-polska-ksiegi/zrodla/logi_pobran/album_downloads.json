@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4780&per_page=500&page=0",
+    "category": 4780,
+    "at_utc": "2026-11-06T18:49:55.121368+00:00",
+    "status": 200,
+    "sha256": "36815c8967624de4b004ce0b303ae46786099e42e0bad83f06cbe34632d307e3",
+    "bytes": 212977,
+    "result": "ok",
+    "count": 115
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/ws.php?format=json&method=pwg.categories.getImages&cat_id=4328&per_page=500&page=0",
+    "category": 4328,
+    "at_utc": "2026-11-06T18:49:56.430966+00:00",
+    "status": 200,
+    "sha256": "e2d470a3ccc573bf95af245d588f710f2a1780830c64f07d382fc6d4643e9f61",
+    "bytes": 109457,
+    "result": "ok",
+    "count": 56
+  }
+]

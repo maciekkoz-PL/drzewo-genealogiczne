@@ -1,0 +1,442 @@
+[
+  {
+    "path": "zrodla/bg_karty/36868942.jpg",
+    "bytes": 7677,
+    "sha256": "dc95c49bca763c9fe08b91d964d91c73c6f3c8f764421c7d47e8ba3419e93691"
+  },
+  {
+    "path": "zrodla/bg_karty/40621458.jpg",
+    "bytes": 5322,
+    "sha256": "6c4684cbe3947b077fd084232a1ad0550e9130ffe5b89b4b7bfe8f35c47f30ea"
+  },
+  {
+    "path": "zrodla/bg_karty/downloads.json",
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "path": "zrodla/bg_karty/jozef1939.txt",
+    "bytes": 4053,
+    "sha256": "b5e93339a15bc4a4c64a6a4808e95612ae81762b408c4d367648e751bb630d4d"
+  },
+  {
+    "path": "zrodla/bg_karty/jozef1939_related.txt",
+    "bytes": 4083,
+    "sha256": "3f91d2349b4ad5c04e1139b444f777fb1f3f6c5cc2c97f4892de82fe4a0dfb50"
+  },
+  {
+    "path": "zrodla/bg_karty/jozef1966.txt",
+    "bytes": 4609,
+    "sha256": "67381953aeb39a9d3b2e5b8ee7d7bd2300a9317bc3028eacdbda42df596e63b3"
+  },
+  {
+    "path": "zrodla/bg_karty/julianna.txt",
+    "bytes": 4927,
+    "sha256": "b66c9616c2efc896122e44a9a594ba99be12c76f3bd4d663fa4c3927ca344c48"
+  },
+  {
+    "path": "zrodla/bg_karty/julianna_related.txt",
+    "bytes": 4967,
+    "sha256": "360e6d948a3f37cc0c16a9399fe44e0063e396d4c0e9889904500d3647f83a2f"
+  },
+  {
+    "path": "zrodla/bg_karty/thumbnail_downloads.json",
+    "bytes": 1653,
+    "sha256": "de68d3906582e11a01e41082089651d8dbd71e71943c1a956db1ac1eaa29daef"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Chmielewska_1.txt",
+    "bytes": 3012,
+    "sha256": "460ecd6f4cdab7306a7a08b5592a3ec2af45303982006d99bbf71ed49c9c3d71"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Chmielewska_5.txt",
+    "bytes": 2971,
+    "sha256": "546d34091bc8cd10d83ddab0fd87a72a9c8b7d32979f74f25996df56c034baac"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Chmielewski_1.txt",
+    "bytes": 3012,
+    "sha256": "ab893faef59a40ec695aa7b3a3cc8a4b6cf825bac4858e89a8a9b97f817ff019"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Chmielewski_5.txt",
+    "bytes": 2971,
+    "sha256": "546d34091bc8cd10d83ddab0fd87a72a9c8b7d32979f74f25996df56c034baac"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Julianna_1.txt",
+    "bytes": 13403,
+    "sha256": "5a7d21ce2051b7225767a4741159ce4a71b462fa038aef3f7d3a2c8265f3c171"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Julianna_5.txt",
+    "bytes": 13171,
+    "sha256": "a78d7d7be8d6e15a072d96311c0b365e87c11b31f469c22c2aff535d69d340b4"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Mandziuk_1.txt",
+    "bytes": 3485,
+    "sha256": "0b4c30f4f69eba26b6ad79f47c16121f799bc35e39417d6d0fb81a0c1dc775cb"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Mandziuk_5.txt",
+    "bytes": 3365,
+    "sha256": "df616151ac2754242a077793113dddd658747c7b61a810a5a64d6cc913998e3a"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Sabina_1.txt",
+    "bytes": 13396,
+    "sha256": "9376c86fcb4d9660c90cd48e735cd07063c5ec848697cfb6799e7d29022ef32d"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/Sabina_5.txt",
+    "bytes": 13175,
+    "sha256": "acbe46c8a1c8a8f83169c029334a62008d1bac4f4a122eb3526bc2dbd2873eb3"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/all_records.json",
+    "bytes": 880789,
+    "sha256": "6352dff6ec5e5aaca5fb23b4a9b05d2825e4330689797409140dbb914917b4e1"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/belzec528978_blad500.txt",
+    "bytes": 572,
+    "sha256": "853852a1049cae4e351cbbd915684a83d39409e4a48e34a20d3127d3cf2ab9c2"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/belzec_pusty_metadata.json",
+    "bytes": 210,
+    "sha256": "f3da1bc306a1e0f2d0f48d62880643024dc77f1e674349a42b942a69ad98717e"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/log.json",
+    "bytes": 3019,
+    "sha256": "2ccd9d3a18a249e5f926dde0cbd7458543060f5b14c33be36a03d63cae401052"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/queries_form.json",
+    "bytes": 2947,
+    "sha256": "e719b4aeac73851a581ff9c076040aceccce107eb158fc2b7ce24958e46000d9"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_0.json",
+    "bytes": 80430,
+    "sha256": "7fec859316eb5478299f1ef9cff86a6e01fa9dfd02df1edae76d96614ac31356"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_1.json",
+    "bytes": 79519,
+    "sha256": "0a6803837f73bc1f480d6f6f6e9b5dea853ebb87cb786429240a7eecf6af0e8c"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_2.json",
+    "bytes": 79664,
+    "sha256": "dc2bd5b9b6ba5d17beb4e7abf22d9e586b2c56547e8155480ac5c855d1234c47"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_3.json",
+    "bytes": 78608,
+    "sha256": "4200159dcd86915d483a7dbe8fcacb3646d24c07d8c33a763f24cca91769fb79"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_4.json",
+    "bytes": 79121,
+    "sha256": "83b31402e5a7687e6f038779f490c4c6d231677db2b856e714ac930e9ea1d6a8"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_5.json",
+    "bytes": 72543,
+    "sha256": "e98bc8453f6db8f080b8dceb3d20d90e3b448419b8e0ac67853f33eb0c404895"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_6.json",
+    "bytes": 81139,
+    "sha256": "f30a72f5e39310ecc73958d07cf22207446823802d4a8b15f6b77fa526437867"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_7.json",
+    "bytes": 78714,
+    "sha256": "d399f845009efc37136862fb87136d4c738e127f02558b0b35ce94693581ea2d"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_8.json",
+    "bytes": 79917,
+    "sha256": "52e2ea6161b7da47e39c8aa88fa63483a859bcccd74412708cfa0b0ec08c2171"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/response_9.json",
+    "bytes": 9143,
+    "sha256": "0bc4cf9163c4eb833542d77526e4557ad537364db0049737020541a8c80163bf"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/tomaszow_metadata.json",
+    "bytes": 272,
+    "sha256": "42d90d03ee55420dfa55aaf3fd41b5519fef04188bdcdf2616e93aa29f07e6dc"
+  },
+  {
+    "path": "zrodla/bg_tomaszow/wyniki_filtrow.json",
+    "bytes": 23975,
+    "sha256": "32315c859db44229d15c5c965700058780a1af83374421fa27d30fbf8f688843"
+  },
+  {
+    "path": "zrodla/billiongraves/metadata_public.json",
+    "bytes": 229,
+    "sha256": "dfe9fe7ba40c1bf93e6c17c395a49a17033048a1fe7f5799a6073ab40a40fc9b"
+  },
+  {
+    "path": "zrodla/billiongraves/search_long.txt",
+    "bytes": 6212,
+    "sha256": "1baf0d79f51d0ab9f3ebc5b5608450d76779668afd6a841064d3651c49a5f914"
+  },
+  {
+    "path": "zrodla/billiongraves/ui_response_4.json",
+    "bytes": 37638,
+    "sha256": "d991c276b5361a4dba49ae4967d349ca8b3940d0c495f2f39a3e9b3f5c258be1"
+  },
+  {
+    "path": "zrodla/billiongraves/ui_response_8.json",
+    "bytes": 19203,
+    "sha256": "0a3432a75a88dbb22239c86f3abd08f4710ee23290e872222884c03ad5eea4af"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_116164376.jpg",
+    "bytes": 936453,
+    "sha256": "3dd8aef2c97877fd48d58895e9608611abdc28c236103ac6f3e79448be96480d"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_116164394.jpg",
+    "bytes": 1078026,
+    "sha256": "65b1e61eb4113e97281f726d3d0739c9c4e8ec39c378d1d647b0b40466d20ea5"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_116164397.jpg",
+    "bytes": 1099738,
+    "sha256": "4dbb949c9dbe710cecd9b9913b5a928747d06db7c7269f28d6eb166c9f88174f"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_116164399.jpg",
+    "bytes": 1449453,
+    "sha256": "e37231555c4b19e0557391678d7e747608fb8379d4d9186f8d610f64eea48c82"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_116164408.jpg",
+    "bytes": 1077975,
+    "sha256": "9d0d7565f3f1882703564b4b9318158d477e11f4fa8b8d010d92f20f619ee0c8"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_116164424.jpg",
+    "bytes": 1250619,
+    "sha256": "a5f6c87f3b35abc973c755f3ef5eb71a1cac902018ffe3755b61d16d082ecb50"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_116164444.jpg",
+    "bytes": 1292485,
+    "sha256": "5c1e06474d2d2819e591a5f5935b28052182c0034d8d76f88ab9185a2d275e37"
+  },
+  {
+    "path": "zrodla/billiongraves/untranscribed_downloads.json",
+    "bytes": 2233,
+    "sha256": "07e63c651f41abc7f8e8cdae22d153bbba81976a518604b89b1af823e8eb0f2f"
+  },
+  {
+    "path": "zrodla/ksiegi/1939_023.jpg",
+    "bytes": 1981143,
+    "sha256": "dcc8d00687d7c4244e25e333cdc4e38a5d723a578a44399a07fa6dff8f7351ea"
+  },
+  {
+    "path": "zrodla/ksiegi/1939_024.jpg",
+    "bytes": 2018226,
+    "sha256": "2b3a72d1319c39718e04c7aa1fa1150496b22053448af23f0b9cb183ec749ff6"
+  },
+  {
+    "path": "zrodla/ksiegi/1940_026.jpg",
+    "bytes": 2833298,
+    "sha256": "71f004bce029eba4e8e87b29bfe8b7991c8b2cc4ae78d4070597cf920ae66e46"
+  },
+  {
+    "path": "zrodla/ksiegi/1940_029.jpg",
+    "bytes": 2349450,
+    "sha256": "1133e3fb52553d5de4bcbed5a8424fa05e759f6f43eb4b97adf3e9978656f93f"
+  },
+  {
+    "path": "zrodla/ksiegi/1940_031.jpg",
+    "bytes": 1776795,
+    "sha256": "21bf08e5a05cc51bcec62b471278821ead365c01bd50057adbafc7d3c26c38be"
+  },
+  {
+    "path": "zrodla/ksiegi/1940_96_crop.jpg",
+    "bytes": 948581,
+    "sha256": "e41351f076437963394edb0dbd313964562fe87573ec5311d0d928edc282c833"
+  },
+  {
+    "path": "zrodla/ksiegi/1941_014.jpg",
+    "bytes": 2564143,
+    "sha256": "94605c7b027b469cd78215876d29cb7ca75be4ce60306984f08cce70423287ac"
+  },
+  {
+    "path": "zrodla/ksiegi/1941_018.jpg",
+    "bytes": 2508349,
+    "sha256": "554f9bddea8968d9c6e87b8807c6bbfc9b2bf1911dee18e759f0dbfd1cb2ac3a"
+  },
+  {
+    "path": "zrodla/ksiegi/1941_019.jpg",
+    "bytes": 2014788,
+    "sha256": "0f89d87a05255add58ad74bb7ed3a386238d458e3124524d6eed37e7df26b781"
+  },
+  {
+    "path": "zrodla/ksiegi/1941_52_crop.jpg",
+    "bytes": 824590,
+    "sha256": "829a519d91c6b5e5476b534c3ee152cedd1440b399700a9939c46b37f1c46b5d"
+  },
+  {
+    "path": "zrodla/ksiegi/1942_021.jpg",
+    "bytes": 1618144,
+    "sha256": "f52e9edc12bfe61be6a8000779b396f61ddc2a2f4a73b22df561dd753b745aa2"
+  },
+  {
+    "path": "zrodla/ksiegi/1942_022.jpg",
+    "bytes": 1358090,
+    "sha256": "f96719c8e08a2aeac39ccb01171abb174bd684537aa854056c558328835e3ae8"
+  },
+  {
+    "path": "zrodla/ksiegi/4328_021.jpg",
+    "bytes": 1417164,
+    "sha256": "d6c13ca45a4b53277b3ec78dff0efe9dea3ae2af2d7bb4c8841c53e3f7a96b31"
+  },
+  {
+    "path": "zrodla/ksiegi/4328_022.jpg",
+    "bytes": 1312349,
+    "sha256": "a53692ec5ab82bb3a9655e9af8f710845a1f00a8404ff2a7987ba18c68671654"
+  },
+  {
+    "path": "zrodla/ksiegi/4328_047.jpg",
+    "bytes": 1279283,
+    "sha256": "f818a62e74a8240eae082587480a64f6151b393ace544d47f0b280e614c256fd"
+  },
+  {
+    "path": "zrodla/ksiegi/4328_048.jpg",
+    "bytes": 1264012,
+    "sha256": "c66ac8cba2937814c06a0ca6b1ca98370289716670e592ea3ef536934ca82c9c"
+  },
+  {
+    "path": "zrodla/ksiegi/4328_049.jpg",
+    "bytes": 1235044,
+    "sha256": "3ff9d881b0ffe2bf90eee3d58c43e6576cc88896f6a4de2e39caa4352322b3da"
+  },
+  {
+    "path": "zrodla/ksiegi/4328_050.jpg",
+    "bytes": 1246429,
+    "sha256": "1ef2063040e927f22a4e4386583bddd42175bf9ba380b94bfbf91ca0f037cf3f"
+  },
+  {
+    "path": "zrodla/ksiegi/4328_051.jpg",
+    "bytes": 986321,
+    "sha256": "d2312b9542ef6016cca5e2b06e7b531ae23d6cbb4d25d340cf51255f8634e086"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_001.jpg",
+    "bytes": 1670422,
+    "sha256": "b26faff6940478cc44c408e1f9bd9ef5ebf18efe53b4f6df4abce91e38fd84ab"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_064.jpg",
+    "bytes": 2508003,
+    "sha256": "cfd45f42ad3979315b53f949966ba52022d79c5e9a5262d612b462d82653c7a1"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_065.jpg",
+    "bytes": 2509724,
+    "sha256": "7cecc3ae871a709efb7f9746ffea0f5f4c3acd006638bd57f0a404ec208a5252"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_066.jpg",
+    "bytes": 2326139,
+    "sha256": "386860b520d56cebfa00186bcf2ae970be103daa27c6d3d5d125380fb76bac1d"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_067.jpg",
+    "bytes": 2284741,
+    "sha256": "d3011a6cd06c65bd30a23e4bfd0d573184fe6a13504ed9990a80e7c7fd115fbf"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_088.jpg",
+    "bytes": 2401877,
+    "sha256": "610b7cc42b572736cc575fe3b4df6119ec52226745a60ce88a650b937841155a"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_089.jpg",
+    "bytes": 2455664,
+    "sha256": "0b94be68118c8c0a01065dbece77d5a6aaf0609dff7a5414c5bd004acc3bdffa"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_109.jpg",
+    "bytes": 2496583,
+    "sha256": "9d0151037b017e2291f1faa91b1837d1e48013c5da39422dbe39700efa4e568a"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_110.jpg",
+    "bytes": 2515932,
+    "sha256": "0b39ea54716923aa5525ac1c4ee6e0a2958d6e1fbf1e804cbdec8f556892b6b7"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_111.jpg",
+    "bytes": 2505138,
+    "sha256": "d779e3608a7537dbefc83c2859f8aa941c914311fd8d49bf448d246f78e03702"
+  },
+  {
+    "path": "zrodla/ksiegi/4780_112.jpg",
+    "bytes": 2497966,
+    "sha256": "378a2fcdb3ebb4bb15b9ce838af10531d18eddb4abde7aed2630de0a31f05a3a"
+  },
+  {
+    "path": "zrodla/kwerendy_web.json",
+    "bytes": 9267,
+    "sha256": "9c37786699248f5c5dcf5bfae0ca51d8c8e8679e7fc0fe75bd8688decf54d195"
+  },
+  {
+    "path": "zrodla/logi_pobran/album_4328.json",
+    "bytes": 109457,
+    "sha256": "e2d470a3ccc573bf95af245d588f710f2a1780830c64f07d382fc6d4643e9f61"
+  },
+  {
+    "path": "zrodla/logi_pobran/album_4352.json",
+    "bytes": 105335,
+    "sha256": "04388d234c711789a2e8342cb0dc9ccbcfd701ca88f2ea51921fa7869250636a"
+  },
+  {
+    "path": "zrodla/logi_pobran/album_4780.json",
+    "bytes": 212977,
+    "sha256": "36815c8967624de4b004ce0b303ae46786099e42e0bad83f06cbe34632d307e3"
+  },
+  {
+    "path": "zrodla/logi_pobran/album_downloads.json",
+    "bytes": 738,
+    "sha256": "db70aa566bcd14de95ee553ca620a4b0eb056a8d17cdbc17b3fac6c19573ded8"
+  },
+  {
+    "path": "zrodla/logi_pobran/image_downloads.json",
+    "bytes": 2069,
+    "sha256": "82f0173a7af74a4fafccc1172324cc384c40abbbadd110e7c7fefd32b771f77b"
+  },
+  {
+    "path": "zrodla/logi_pobran/image_downloads02.json",
+    "bytes": 4367,
+    "sha256": "2db5f67240bd7dbf0243a1a552bd6bcb877fe7fb1f26c4592c393fc553e71822"
+  },
+  {
+    "path": "zrodla/logi_pobran/image_downloads03.json",
+    "bytes": 5690,
+    "sha256": "37d63cae425a6674f14fd13dc168287a13a930e3cbf5288d85425690e8a9b962"
+  },
+  {
+    "path": "zrodla/logi_pobran/image_downloads04.json",
+    "bytes": 4377,
+    "sha256": "1198ce7394762be0084d3e2672bce5b91a7b75c3e234a24e7dbd0f3a664f136c"
+  },
+  {
+    "path": "zrodla/logi_pobran/image_downloads05.json",
+    "bytes": 916,
+    "sha256": "e1992035a69dcf340d04a2bfbd7dc7aae8d45c321c32bae2cb996650c5179c70"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/060.jpg",
+    "path": "4780_060.jpg",
+    "at_utc": "2026-11-06T18:52:57.348917+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2433483,
+    "sha256": "905dfa68cfc9f3e88bc8f131f1c224282efa68b30da53e32d9d3a8efdcbe7206"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/080.jpg",
+    "path": "4780_080.jpg",
+    "at_utc": "2026-11-06T18:52:57.349924+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2474352,
+    "sha256": "5faa388a583b26ad9ce2aedf466c12f471001d849c9c7eb09db8e03e2ac201c0"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/110.jpg",
+    "path": "4780_110.jpg",
+    "at_utc": "2026-11-06T18:53:01.552679+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2515932,
+    "sha256": "0b39ea54716923aa5525ac1c4ee6e0a2958d6e1fbf1e804cbdec8f556892b6b7"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/111.jpg",
+    "path": "4780_111.jpg",
+    "at_utc": "2026-11-06T18:53:01.585446+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2505138,
+    "sha256": "d779e3608a7537dbefc83c2859f8aa941c914311fd8d49bf448d246f78e03702"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/112.jpg",
+    "path": "4780_112.jpg",
+    "at_utc": "2026-11-06T18:53:05.233106+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2497966,
+    "sha256": "378a2fcdb3ebb4bb15b9ce838af10531d18eddb4abde7aed2630de0a31f05a3a"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/AP_Zamosc/Tomaszow/1924/113.jpg",
+    "path": "4780_113.jpg",
+    "at_utc": "2026-11-06T18:53:05.254959+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 2213294,
+    "sha256": "e560bea43fa512008cfb17f80e06402582b45869bbd29577ffa52c1804e89edc"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/001.jpg",
+    "path": "4328_001.jpg",
+    "at_utc": "2026-11-06T18:53:06.946307+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1129276,
+    "sha256": "66212f5e55c7d3de2f34f50a618fe0dacb4654b0a40dc3ebd37dc643d9fb84fe"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/025.jpg",
+    "path": "4328_025.jpg",
+    "at_utc": "2026-11-06T18:53:06.974184+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1357624,
+    "sha256": "9136abbb2ee122363ccf944ac4d0bf9a158007c57c4dc88f60bfb51734bee7f2"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/040.jpg",
+    "path": "4328_040.jpg",
+    "at_utc": "2026-11-06T18:53:07.905779+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1392474,
+    "sha256": "81a0826ed03801f3cc1ff61038a32b99332aa3b295561349e4ae48bdd7b01c46"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/050.jpg",
+    "path": "4328_050.jpg",
+    "at_utc": "2026-11-06T18:53:08.118470+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 1246429,
+    "sha256": "1ef2063040e927f22a4e4386583bddd42175bf9ba380b94bfbf91ca0f037cf3f"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/051.jpg",
+    "path": "4328_051.jpg",
+    "at_utc": "2026-11-06T18:53:08.755794+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 986321,
+    "sha256": "d2312b9542ef6016cca5e2b06e7b531ae23d6cbb4d25d340cf51255f8634e086"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/052.jpg",
+    "path": "4328_052.jpg",
+    "at_utc": "2026-11-06T18:53:09.858984+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 989311,
+    "sha256": "0901080784110f14222f97614f6032f8c6b74f7fb454ecb919aceec4dcf4d0d2"
+  },
+  {
+    "url": "https://fotolubgens.lubgens.eu/galleries/USC_Tomaszow_Lub/Tomaszow_UMZ_1925/053.jpg",
+    "path": "4328_053.jpg",
+    "at_utc": "2026-11-06T18:53:10.008757+00:00",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 841452,
+    "sha256": "53bacccb69cfdd01a81d27d2d0dc788b916fdc64b85c95e36e3e37397353036d"
+  }
+]

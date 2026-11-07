@@ -1,0 +1,160 @@
+{
+  "web_queries": [
+    [
+      "q1",
+      "\"Ernest\" \"Chmielewski\" \"2024\" Geelong"
+    ],
+    [
+      "q1",
+      "\"Chmielewski\" \"Ernie\" funeral"
+    ],
+    [
+      "q1",
+      "\"Roman\" \"Chmielewski\" \"Rezegno\""
+    ],
+    [
+      "q1",
+      "\"Roman\" \"Anna\" \"Chmielewski\" Australia family"
+    ],
+    [
+      "q2",
+      "\"chmielewski-ernest-ernie\" \"6259122\""
+    ],
+    [
+      "q2",
+      "\"CHMIELEWSKI\" \"Ernest\" \"1947\" \"2024\""
+    ],
+    [
+      "q2",
+      "\"Ernie Chmielewski\" \"1983\""
+    ],
+    [
+      "q2",
+      "\"Chmielewski\" \"Hanna\" \"Roman\" Melbourne"
+    ],
+    [
+      "q3",
+      "\"Ernest Chmielewski\" \"20\" \"November\""
+    ],
+    [
+      "q3",
+      "\"Chmielewski\" \"Ernest\" \"Tuckers\""
+    ],
+    [
+      "q3",
+      "\"Chmielewski\" \"1947\" \"27\" \"November\""
+    ],
+    [
+      "q4",
+      "\"Roman Chmielewski\" Australia death parents"
+    ],
+    [
+      "q4",
+      "\"Chmielewski\" \"Roman\" \"Agnes\""
+    ],
+    [
+      "q4",
+      "\"Chmielewski\" \"Roman\" \"Vincent\""
+    ],
+    [
+      "q4",
+      "Victoria historical death index family history search official"
+    ],
+    [
+      "q5",
+      "\"Ernie Chmielewski\" wife"
+    ],
+    [
+      "q5",
+      "\"Ernest Chmielewski\" Geelong family"
+    ],
+    [
+      "q5",
+      "\"Ernie Chmielewski\" site:berrimadistricthistoricalsociety.org.au"
+    ],
+    [
+      "q5",
+      "\"Roman Chmielewski\" \"1919\" -site:sejm-wielki.pl -site:ancestry.com"
+    ],
+    [
+      "q6",
+      "\"Chmielewski\" \"Roman\" \"6 June 1919\""
+    ],
+    [
+      "q6",
+      "\"Chmielewski\" \"Ray\" \"Rene\""
+    ],
+    [
+      "q6",
+      "\"Chmielewski\" \"Hanna\" \"27.12.2003\""
+    ],
+    [
+      "q6",
+      "\"Chmielewski\" \"Anna\" \"19.02.1929\""
+    ],
+    [
+      "q7",
+      "\"Chmielewski\" \"Rose\" \"Nerang\""
+    ],
+    [
+      "q7",
+      "\"Chmielewski\" \"Ray\" \"Michelle\" \"Nicole\""
+    ],
+    [
+      "q7",
+      "\"Chmielewski\" \"Ernie\" \"Rene\" Geelong"
+    ],
+    [
+      "q7",
+      "\"Chmielewski\" \"Roman\" \"1919\" Australia cemetery"
+    ],
+    [
+      "q8",
+      "Geelong Cemeteries Trust deceased search official"
+    ],
+    [
+      "q8",
+      "\"Allambe\" \"Chmielewski\""
+    ],
+    [
+      "q8",
+      "\"Chmielewski\" \"Roman\" \"1919\" \"Australia\" \"grave\""
+    ],
+    [
+      "q9",
+      "\"Chmielewski\" \"21 January 1997\""
+    ],
+    [
+      "q9",
+      "\"Chmielewski\" \"Anna Theresia\""
+    ],
+    [
+      "q9",
+      "\"Chmielewski\" \"Roman\" \"21/01/1997\""
+    ]
+  ],
+  "firecrawl_searches": [
+    "\"CHMIELEWSKI\" \"Ernest\" \"Geelong\"",
+    "\"CHMIELEWSKI\" \"Ernest\" \"27/11/2024\"",
+    "\"chmielewski-ernest-ernie\" -inurl:funeral-notices",
+    "\"CHMIELEWSKI\" \"Roman\" \"Australia\" \"death\"",
+    "\"CHMIELEWSKI\" \"Hanna\" \"2003\"",
+    "\"Chmielewski\" \"Geelong\" -site:fsis.usda.gov -site:cdc.gov",
+    "\"CHMIELEWSKI\" \"Ray\" \"6.10.1946\"",
+    "\"CHMIELEWSKI, Ray\" Geelong",
+    "site:mytributes.com.au/notice/ \"CHMIELEWSKI\" \"Ray\"",
+    "\"Roman Chmielewski\" Australia parents death -site:ebay.com",
+    "\"Chmielewski\" \"Rose\" \"Ray\" Nerang",
+    "\"Chmielewski\" \"Roman William\" naturalization",
+    "\"Roman\" \"Chmielewski\" \"Geelong\" parents",
+    "\"Chmielewski\" \"Roman\" \"Melk\"",
+    "\"Chmielewski\" \"Roman\" \"1997\" Geelong",
+    "\"Anna Theresia\" \"Chmielewski\""
+  ],
+  "firecrawl_scrapes_basic": [
+    "https://www.dailytelegraph.com.au/tributes/notice/death-notices/chmielewski-ray/5589602/",
+    "https://www.dailytelegraph.com.au/tributes/notice/death-notices/chmielewski-ray/5588385/",
+    "https://www.mytributes.com.au/notice/funeral-notices/raymond-chima-chmielewski/5589271/"
+  ],
+  "note": "Początkowe próby wyszukiwarki częściowo nakładają się na etap15; dopiero inny indeks Firecrawl wskazał konkretne ogłoszenia. Nie liczyć powtórzonego brzmienia jako nowego niezależnego źródła."
+}

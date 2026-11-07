@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Meldunkowe - Skanoteka - Baza skanów spisów ludności</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:image" content="https://skanoteka.genealodzy.pl/images/PTG_Logo_Skanoteka_pl_PL_200.png" />
+<meta name="author" content="Genealodzy.PL Genealogia">
+<meta name="copyright" content="Copyright (c) 2006-2026 Polskie Towarzystwo Genealogiczne">
+<meta name="description" content="Baza skanów dokumentów o wartości genealogicznej.">
+<meta name="revisit-after" content="1 days">
+<link rel="canonical" href="https://meldunkowe.genealodzy.pl">
+<link rel="stylesheet" href="style/style.css?=v6" type="text/css">
+<link rel="stylesheet" href="style/ajaxcss.css?=v2" type="text/css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png?=v2">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png?=v2">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png?=v2">
+<link rel="manifest" href="/images/site.webmanifest">
+<link rel="shortcut icon" href="/images/favicon.ico?=v2">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/images/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="js/snap.svg-min.js"></script>
+<style>
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+	background: #f3e2e7;
+	border: 1px solid #c5c5c5;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+	background: #f3d0e7;
+	border: 1px solid #c5c5c5;
+	color: black;
+}
+
+.ui-accordion .ui-accordion-content {
+	padding: 0px 0px;
+	background: none;
+}
+
+.ui-state-active .ui-icon,
+.ui-button:active .ui-icon {
+	background-image: url("https://code.jquery.com/ui/1.13.2/themes/base/images/ui-icons_444444_256x240.png");
+}
+
+:root
+{
+	--background-image-url: url('/images/back-pink.gif');
+}</style><link rel="shortcut icon" href="images/favicon.ico">
+
+		<script async src="https://platform.twitter.com/widgets.js"></script>
+		<script src="ajax/ajaxcore.js"></script>
+		<script src="ajax/ajax.js"></script>
+		<script src="style/centeredpop.js"></script>
+		<script>
+			var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-22184319-1']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
+ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+		</script>
+			</head>
+
+	<body id="body">
+		<script src="/cookies_komunikat.js"></script>
+		<div>
+			<br>
+			<table style="border-collapse: collapse; width: 1000px; margin: 0 auto; border: 1px solid rgb(100,100,100)">
+				<tr>
+					<td class="head">
+													<a href="/" target="_self" title="https://metryki.genealodzy.pl/">
+								<img style="display: block;max-width: 1000px" src=/images/PTG_Banner_Meldunkowe_pl_PL.png?v2 alt="metryki.genealodzy.pl" title="metryki.genealodzy.pl"></a>
+											</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+													<div class="center">
+
+								<table border="0" cellpadding="0" cellspacing="0" width="98%">
+									<tr>
+										<td width="100%">
+											<table border="0" cellpadding="0" cellspacing="0" width="100%">
+												<tr>
+													<td width="230" class="left valign-middle">
+																													&nbsp;<a href="https://skanoteka.genealodzy.pl">Powrót do Skanoteki</a>
+																											</td>
+													<td width="220" class="valign-middle">
+														<div id="fb-root"></div>
+														<script>
+															(function (d, s, id) {
+var js,
+fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) 
+return;
+
+
+js = d.createElement(s);
+js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+														</script>
+														<div class="fb-share-button" data-href="https://meldunkowe.genealodzy.pl" data-layout="button"></div>
+														<a href="https://twitter.com/intent/tweet?button_hashtag=Skanoteka&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-text="Projekt digitalizacji i indeksacji metryk" data-url="https://meldunkowe.genealodzy.pl" data-show-count="false"></a>
+
+													</td>
+													<td width="400" class="valign-middle">
+														<a href="https://genealodzy.pl"><img class="valign-sub" src="images/navhome.gif" width="20" height="20" alt="Genealodzy.PL" title="Genealodzy.PL"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="/"><img class="valign-sub" src="images/navmapa.gif" width="20" height="20" alt="Strona główna" title="Strona główna"></a>
+<a href="https://geneteka.genealodzy.pl/plany.php"><img src="images/navplany.gif" class="valign-sub" width="20" height="20" alt="Zasoby w trakcie indeksacji" title="Zasoby w trakcie indeksacji"></a>
+<a href="https://geneteka.genealodzy.pl/jak-indeksowac-U-Z.php"><img src="images/navhelp.gif" class="valign-sub" width="20" height="20" alt="Jak indeksować" title="Jak indeksować"></a>
+<a href="opjk"><img src="images/navjak.gif" class="valign-sub" width="20" height="20" alt="Jak wyszukiwać" title="Jak wyszukiwać"></a>
+<a href="https://genealodzy.pl/donate-pol"><img src="images/navdonate.gif" class="valign-sub" width="20" height="20" alt="Jak wspomóc" title="Jak wspomóc"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/?op=lang&amp;lang=pl_PL"><img src="images/flag-pol.png" class="valign-middle" alt="flag-pol.png" width="30" height="16" title="polski"></a>
+<a href="/?op=lang&amp;lang=en_EN"><img src="images/flag-eng.png" class="valign-middle" alt="flag-eng.png" width="30" height="16" title="english"></a>
+													</td>
+													<td></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+											</td>
+				</tr>
+
+				<tr>
+					<td>
+							<span style="float:right; margin-top:5px;margin-right:10px">Ilość zdjęć w serwisie: 272,541</span>
+	<br><br>
+		<div style="text-align: center">Szukaj:
+		<input type="text" id="nazwa" onkeyup="var nazwa=encodeURIComponent(document.getElementById(&#039;nazwa&#039;).value);callBoczek(&#039;index.php?op=sz&amp;nazwa=&#039;+nazwa+&#039;&amp;search_jednostki=&#039;+document.getElementById(&#039;search_jednostki&#039;).checked,&#039;ostatnie&#039;,&#039;&#039;)">
+		<input type="checkbox" id="search_jednostki" onclick="var nazwa=encodeURIComponent(document.getElementById(&#039;nazwa&#039;).value);callBoczek(&#039;index.php?op=sz&amp;nazwa=&#039;+nazwa+&#039;&amp;search_jednostki=&#039;+document.getElementById(&#039;search_jednostki&#039;).checked,&#039;ostatnie&#039;,&#039;&#039;)"/>
+		<label for="search_jednostki">wyszukaj również w jednostkach</label>
+		<br><br>
+		lub<br><br>
+		<a href="opar">przeglądaj archiwa</a> 
+				/ <a href="?op=tg">wyszukaj w tagach</a>
+								/ wyszukaj na mapie (<a href="opwo">Polska</a>)
+			</div><br>
+	<div id="ostatnie">
+		<h2 style="text-align:center">Ostatnio zaktualizowane</h2>
+<table style="margin: 0 auto; width: 90%; border-collapse: separate" border="0">
+	<tr>
+		<td class="top">Info</td>
+		<td class="top center">Data</td>
+		<td class="top center">Archiwum</td>
+		<td class="top right">Zespół</td>
+		<td class="top">Nazwa zespołu</td>
+	</tr>
+
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4462><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">06.11.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4462>
+					4431m
+				</a>
+			</td>
+			<td>
+				<a href=id4462>
+					Akta gminy Kleszczewo (pow. średzki) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5851><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5851>
+					4408m
+				</a>
+			</td>
+			<td>
+				<a href=id5851>
+					Akta gminy Lwówek (pow. nowotomyski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3236><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">15.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id3236>
+					475
+				</a>
+			</td>
+			<td>
+				<a href=id3236>
+					Akta gmin przyłączonych do miasta Poznania [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3241><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id3241>
+					4419m
+				</a>
+			</td>
+			<td>
+				<a href=id3241>
+					Akta gminy Rokietnica [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5847><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.09.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5847>
+					4417m
+				</a>
+			</td>
+			<td>
+				<a href=id5847>
+					Akta gminy Poznań - Wschód [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4329><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.07.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4329>
+					4415m
+				</a>
+			</td>
+			<td>
+				<a href=id4329>
+					Akta gminy Piątkowo [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5563><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.07.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5563>
+					4428m
+				</a>
+			</td>
+			<td>
+				<a href=id5563>
+					Akta gminy Mosina (pow. śremski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4349><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.07.2026</td>
+			<td class="center">
+				AP Gniezno
+			</td>
+						<td class="right">
+				<a href=id4349>
+					67m
+				</a>
+			</td>
+			<td>
+				<a href=id4349>
+					Akta gminy Oborniki Południe (pow. obornicki) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4666><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.07.2026</td>
+			<td class="center">
+				AP Gniezno
+			</td>
+						<td class="right">
+				<a href=id4666>
+					68m
+				</a>
+			</td>
+			<td>
+				<a href=id4666>
+					Akta gminy Oborniki Północ (pow. obornicki) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5748><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.07.2026</td>
+			<td class="center">
+				AP Bielsko-Biała
+			</td>
+						<td class="right">
+				<a href=id5748>
+					1315
+				</a>
+			</td>
+			<td>
+				<a href=id5748>
+					Powiatowa Komenda Uzupełnień Bielsko-Biała
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5740><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.07.2026</td>
+			<td class="center">
+				AP Bielsko-Biała
+			</td>
+						<td class="right">
+				<a href=id5740>
+					910
+				</a>
+			</td>
+			<td>
+				<a href=id5740>
+					Akta miasta Makowa Podhalańskiego [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5735><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.07.2026</td>
+			<td class="center">
+				AP Bielsko-Biała
+			</td>
+						<td class="right">
+				<a href=id5735>
+					10m
+				</a>
+			</td>
+			<td>
+				<a href=id5735>
+					Akta miasta Białej [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5739><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.07.2026</td>
+			<td class="center">
+				AP Bielsko-Biała
+			</td>
+						<td class="right">
+				<a href=id5739>
+					898
+				</a>
+			</td>
+			<td>
+				<a href=id5739>
+					Akta gminy Stary Żywiec
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5737><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.07.2026</td>
+			<td class="center">
+				AP Bielsko-Biała
+			</td>
+						<td class="right">
+				<a href=id5737>
+					362m
+				</a>
+			</td>
+			<td>
+				<a href=id5737>
+					Akta miasta Oświęcimia [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5730><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.07.2026</td>
+			<td class="center">
+				AP Bielsko-Biała
+			</td>
+						<td class="right">
+				<a href=id5730>
+					887
+				</a>
+			</td>
+			<td>
+				<a href=id5730>
+					Akta gminy Gilowice [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5729><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.07.2026</td>
+			<td class="center">
+				AP Bielsko-Biała
+			</td>
+						<td class="right">
+				<a href=id5729>
+					3
+				</a>
+			</td>
+			<td>
+				<a href=id5729>
+					Starostwo w Bielsku [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5681><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.07.2026</td>
+			<td class="center">
+				AP Bydgoszcz
+			</td>
+						<td class="right">
+				<a href=id5681>
+					198
+				</a>
+			</td>
+			<td>
+				<a href=id5681>
+					Akta miasta Szubina
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4467><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">26.05.2026</td>
+			<td class="center">
+				AP Piła
+			</td>
+						<td class="right">
+				<a href=id4467>
+					24m
+				</a>
+			</td>
+			<td>
+				<a href=id4467>
+					Akta gminy Czarnków [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3760><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.05.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id3760>
+					4426
+				</a>
+			</td>
+			<td>
+				<a href=id3760>
+					Akta gminy Kórnik [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4588><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.05.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4588>
+					474m
+				</a>
+			</td>
+			<td>
+				<a href=id4588>
+					Akta miasta Poznania [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5492><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.05.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5492>
+					4633m
+				</a>
+			</td>
+			<td>
+				<a href=id5492>
+					Akta miasta Oborniki [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5491><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.05.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5491>
+					4427m
+				</a>
+			</td>
+			<td>
+				<a href=id5491>
+					Akta gminy Książ (pow. śremski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5163><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">07.05.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5163>
+					4423
+				</a>
+			</td>
+			<td>
+				<a href=id5163>
+					Akta gminy Żabikowo (pow. poznański) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5431><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">23.04.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5431>
+					4404
+				</a>
+			</td>
+			<td>
+				<a href=id5431>
+					Akta gminy Buk (pow. nowotomyski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4144><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.03.2026</td>
+			<td class="center">
+				AP Kalisz
+			</td>
+						<td class="right">
+				<a href=id4144>
+					53
+				</a>
+			</td>
+			<td>
+				<a href=id4144>
+					Księgi ludności stałej, rejestry mieszkańców i księgi kontroli ruchu ludności powiatu kaliskiego
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4145><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.03.2026</td>
+			<td class="center">
+				AP Kalisz
+			</td>
+						<td class="right">
+				<a href=id4145>
+					23
+				</a>
+			</td>
+			<td>
+				<a href=id4145>
+					Akta miasta Krotoszyn
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4809><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">13.03.2026</td>
+			<td class="center">
+				AP Kalisz
+			</td>
+						<td class="right">
+				<a href=id4809>
+					61
+				</a>
+			</td>
+			<td>
+				<a href=id4809>
+					Akta gminy Dobrzyca
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5162><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">22.02.2026</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id5162>
+					4432
+				</a>
+			</td>
+			<td>
+				<a href=id5162>
+					Akta gminy Kostrzyn Wlkp. (pow. średzki) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2351><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.12.2025</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id2351>
+					4405
+				</a>
+			</td>
+			<td>
+				<a href=id2351>
+					Akta gminy Granowo [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id2856><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2025</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id2856>
+					4433
+				</a>
+			</td>
+			<td>
+				<a href=id2856>
+					Akta gminy Krzykosy
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4113><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">31.10.2025</td>
+			<td class="center">
+				AP Kalisz
+			</td>
+						<td class="right">
+				<a href=id4113>
+					64
+				</a>
+			</td>
+			<td>
+				<a href=id4113>
+					Akta gminy Krotoszyn
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4566><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.10.2025</td>
+			<td class="center">
+				AP Kalisz
+			</td>
+						<td class="right">
+				<a href=id4566>
+					75
+				</a>
+			</td>
+			<td>
+				<a href=id4566>
+					Akta gminy Skalmierzyce
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5022><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2025</td>
+			<td class="center">
+				AP Konin
+			</td>
+						<td class="right">
+				<a href=id5022>
+					80
+				</a>
+			</td>
+			<td>
+				<a href=id5022>
+					Akta gminy Władysławów (powiat Turek)
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id5021><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">27.10.2025</td>
+			<td class="center">
+				AP Konin
+			</td>
+						<td class="right">
+				<a href=id5021>
+					20
+				</a>
+			</td>
+			<td>
+				<a href=id5021>
+					Akta miasta Konina
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id855><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">20.10.2025</td>
+			<td class="center">
+				AP Grodzisk Maz.
+			</td>
+						<td class="right">
+				<a href=id855>
+					3
+				</a>
+			</td>
+			<td>
+				<a href=id855>
+					Akta gminy Żyrardów - Wiskitki
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id851><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">20.10.2025</td>
+			<td class="center">
+				AP Grodzisk Maz.
+			</td>
+						<td class="right">
+				<a href=id851>
+					2
+				</a>
+			</td>
+			<td>
+				<a href=id851>
+					Akta miasta Żyrardowa
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4925><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.10.2025</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4925>
+					4411m
+				</a>
+			</td>
+			<td>
+				<a href=id4925>
+					Akta gminy Opalenica (pow. nowotomyski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4594><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">28.09.2025</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4594>
+					4434
+				</a>
+			</td>
+			<td>
+				<a href=id4594>
+					Akta gminy Nekla (pow. średzki) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4833><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.09.2025</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4833>
+					4418
+				</a>
+			</td>
+			<td>
+				<a href=id4833>
+					Akta gminy Puszczykowo (pow. poznański) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4665><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">09.08.2025</td>
+			<td class="center">
+				AP Gniezno
+			</td>
+						<td class="right">
+				<a href=id4665>
+					66m
+				</a>
+			</td>
+			<td>
+				<a href=id4665>
+					Akta gminy Murowana Goślina (pow. obornicki) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4330><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">14.07.2025</td>
+			<td class="center">
+				AP Poznań
+			</td>
+						<td class="right">
+				<a href=id4330>
+					4650
+				</a>
+			</td>
+			<td>
+				<a href=id4330>
+					Akta gminy Rogoźno
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4620><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.06.2025</td>
+			<td class="center">
+				AP Gniezno
+			</td>
+						<td class="right">
+				<a href=id4620>
+					73m
+				</a>
+			</td>
+			<td>
+				<a href=id4620>
+					Akta gminy Obrzycko (pow. szamotulski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4621><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">24.06.2025</td>
+			<td class="center">
+				AP Gniezno
+			</td>
+						<td class="right">
+				<a href=id4621>
+					76m
+				</a>
+			</td>
+			<td>
+				<a href=id4621>
+					Akta gminy Pniewy (pow. szamotulski) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4559><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">04.06.2025</td>
+			<td class="center">
+				AP Międzyzdroje
+			</td>
+						<td class="right">
+				<a href=id4559>
+					1
+				</a>
+			</td>
+			<td>
+				<a href=id4559>
+					Starostwo Powiatowe Gryfickie
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id3598><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">02.06.2025</td>
+			<td class="center">
+				AP Leszno
+			</td>
+						<td class="right">
+				<a href=id3598>
+					47
+				</a>
+			</td>
+			<td>
+				<a href=id3598>
+					Akta gminy Śmigiel
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4440><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">20.05.2025</td>
+			<td class="center">
+				AP Katowice
+			</td>
+						<td class="right">
+				<a href=id4440>
+					1155
+				</a>
+			</td>
+			<td>
+				<a href=id4440>
+					Akta miasta Jaworzno
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4514><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">11.05.2025</td>
+			<td class="center">
+				AP Gniezno
+			</td>
+						<td class="right">
+				<a href=id4514>
+					41m
+				</a>
+			</td>
+			<td>
+				<a href=id4514>
+					Akta gminy Czerniejewo (pow. gnieźnieński) [meldunkowe]
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4517><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.05.2025</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id4517>
+					1432
+				</a>
+			</td>
+			<td>
+				<a href=id4517>
+					Akta gminy Dąbrowa Zielona
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4516><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.05.2025</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id4516>
+					68
+				</a>
+			</td>
+			<td>
+				<a href=id4516>
+					Akta gminy Kamienica Polska
+				</a>
+			</td>
+		</tr>
+			<tr onmouseover="this.bgColor='#D0E0C0'" onmouseout="this.bgColor=''">
+						<td class="center"><a href=opnw-id4515><img src="/images/zoom.png" alt="zoom" width=16 height=16></a></td>
+			<td class="center date">10.05.2025</td>
+			<td class="center">
+				AP Częstochowa
+			</td>
+						<td class="right">
+				<a href=id4515>
+					72
+				</a>
+			</td>
+			<td>
+				<a href=id4515>
+					Akta gminy Poczesna
+				</a>
+			</td>
+		</tr>
+	</table>
+<br>
+	</div>
+					</td>
+				</tr>
+				<tr>
+					<td class="pasek2">
+
+													<div class="center">
+								<a href="https://genealodzy.pl/donate-pol"><img src="images/donate.jpg" alt="donate"></a><br>
+								<span class="darkslateblue">&copy; 2010-2026
+									<a href="http://genealodzy.pl">Polskie Towarzystwo Genealogiczne</a>
+								::
+								<script>
+									user = 'skanoteka';
+									site = "genealodzy.pl";
+									document.write('<a href=\"mailto:' + user + '@' + site + '\">');
+									document.write('Administrator<\/a> ');
+								</script>
+								::
+								</span>
+							</div>
+											</td>
+				</tr>
+
+			</table>
+		</div>
+
+	</body>
+</html>

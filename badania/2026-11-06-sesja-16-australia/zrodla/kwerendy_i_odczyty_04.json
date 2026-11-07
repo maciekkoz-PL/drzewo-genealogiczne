@@ -1,0 +1,150 @@
+{
+  "at_utc": "2026-11-06T17:32:27.558Z",
+  "calls": {
+    "s16_fc_grave": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"conversationId\":\"05561864-a2f6-87b0-8d80-a6cfc07aaf6e\",\"success\":true,\"data\":{\"web\":[{\"url\":\"https://stfpbsprodapp01.blob.core.windows.net/amendmentfiles/3f015148-6c70-e811-a857-000d3ad11148_15645602-9f18-4cc3-be1d-b3c1ee8acc7e_Greater%20Geelong%20C214%20Panel%20Report.pdf\",\"title\":\"[PDF] GREATER GEELONG PLANNING SCHEME AMENDMENT ...\",\"description\":\"Ms Chmielewski estimated a requirement for 20-24 kindergarten rooms. She was ... What levy, if any, should apply to proposed Roman Catholic schools? 3 ...\",\"position\":1,\"source\":\"web\"},{\"url\":\"https://www.jons-online.com/authors\",\"title\":\"Authors - Journal of Oncology Navigation & Survivorship\",\"description\":\"She has held several leadership positions there over the years including serving as the Administrator Director of the Johns Hopkins Breast Center from 1997 ...\",\"position\":2,\"source\":\"web\"},{\"url\":\"https://pmc.ncbi.nlm.nih.gov/articles/PMC9823109/\",\"title\":\"Vortex Motions in the Solar Atmosphere - PMC - NIH\",\"description\":\"... Roman jewelry, as dominating facial and body tattooing symbols in ... Chmielewski et al. (2014) and Murawski et al. (2018). The magnetic field at the ...\",\"position\":3,\"source\":\"web\"},{\"url\":\"https://aonnonline.org/authors\",\"title\":\"Authors\",\"description\":\"She has held several leadership positions there over the years including serving as the Administrator Director of the Johns Hopkins Breast Center from 1997 ...\",\"position\":4,\"source\":\"web\"},{\"url\":\"https://trove.nla.gov.au/newspaper/article/240888642\",\"title\":\"18 May 1961 - CERTIFICATES OF NATURALIZATION. - Trove\",\"description\":\"Page 1997 view this page; Page 1998 view this page; Page 1999 view this page ... Chmielewski, Jan. Chong, Patrick Pohwah .. Chraftot, Mordka ChroUst ...\",\"position\":5,\"source\":\"web\"},{\"url\":\"https://e-enm.org/articles/category.php?topic=01\",\"title\":\"Endocrinol Metab : Endocrinology and Metabolism\",\"description\":\"... Roman Guggenberger, Philipp A. Gerber Clinical Nutrition.2025; 53: 212 ... 1997–2021. Søren Vinther Larsen, Anders Pretzmann Mikkelsen, Kathrine Bang ...\",\"position\":6,\"source\":\"web\"}],\"tools\":[{\"provider\":\"letterboxd-com\",\"capability\":\"films/search_films\",\"description\":\"Find the Letterboxd slug or URL for a title before calling film, film_ratings or ratings_bulk. Pass `cursor` from the previous page to continue.\"}]},\"creditsUsed\":2,\"id\":\"01a1b1e7-3dd5-7595-88aa-bc2a51d55c1a\",\"agent_hints\":[\"All 6 web results are excerpts only (#1 \\\"https://stfpbsprodapp01.blob.core.windows.net/amendmentfiles/3f015148-6c70-e811-a857-000d3ad11148_15645602-9f18-4cc3-be1d-b3c1ee8acc7e_Greater%20Geelong%20C214%20Panel%20Report.pdf\\\", #2 \\\"https://www.jons-online.com/authors\\\", #3 \\\"https://pmc.ncbi.nlm.nih.gov/articles/PMC9823109/\\\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\\\"url\\\":\\\"<one of these URLs>\\\",\\\"formats\\\":[\\\"markdown\\\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content.\"]}"
+        }
+      ],
+      "structuredContent": {
+        "success": true,
+        "data": {
+          "web": [
+            {
+              "url": "https://stfpbsprodapp01.blob.core.windows.net/amendmentfiles/3f015148-6c70-e811-a857-000d3ad11148_15645602-9f18-4cc3-be1d-b3c1ee8acc7e_Greater%20Geelong%20C214%20Panel%20Report.pdf",
+              "title": "[PDF] GREATER GEELONG PLANNING SCHEME AMENDMENT ...",
+              "description": "Ms Chmielewski estimated a requirement for 20-24 kindergarten rooms. She was ... What levy, if any, should apply to proposed Roman Catholic schools? 3 ...",
+              "position": 1,
+              "source": "web"
+            },
+            {
+              "url": "https://www.jons-online.com/authors",
+              "title": "Authors - Journal of Oncology Navigation & Survivorship",
+              "description": "She has held several leadership positions there over the years including serving as the Administrator Director of the Johns Hopkins Breast Center from 1997 ...",
+              "position": 2,
+              "source": "web"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9823109/",
+              "title": "Vortex Motions in the Solar Atmosphere - PMC - NIH",
+              "description": "... Roman jewelry, as dominating facial and body tattooing symbols in ... Chmielewski et al. (2014) and Murawski et al. (2018). The magnetic field at the ...",
+              "position": 3,
+              "source": "web"
+            },
+            {
+              "url": "https://aonnonline.org/authors",
+              "title": "Authors",
+              "description": "She has held several leadership positions there over the years including serving as the Administrator Director of the Johns Hopkins Breast Center from 1997 ...",
+              "position": 4,
+              "source": "web"
+            },
+            {
+              "url": "https://trove.nla.gov.au/newspaper/article/240888642",
+              "title": "18 May 1961 - CERTIFICATES OF NATURALIZATION. - Trove",
+              "description": "Page 1997 view this page; Page 1998 view this page; Page 1999 view this page ... Chmielewski, Jan. Chong, Patrick Pohwah .. Chraftot, Mordka ChroUst ...",
+              "position": 5,
+              "source": "web"
+            },
+            {
+              "url": "https://e-enm.org/articles/category.php?topic=01",
+              "title": "Endocrinol Metab : Endocrinology and Metabolism",
+              "description": "... Roman Guggenberger, Philipp A. Gerber Clinical Nutrition.2025; 53: 212 ... 1997–2021. Søren Vinther Larsen, Anders Pretzmann Mikkelsen, Kathrine Bang ...",
+              "position": 6,
+              "source": "web"
+            }
+          ],
+          "tools": [
+            {
+              "provider": "letterboxd-com",
+              "capability": "films/search_films",
+              "description": "Find the Letterboxd slug or URL for a title before calling film, film_ratings or ratings_bulk. Pass `cursor` from the previous page to continue."
+            }
+          ]
+        },
+        "id": "01a1b1e7-3dd5-7595-88aa-bc2a51d55c1a",
+        "creditsUsed": 2,
+        "agent_hints": [
+          "All 6 web results are excerpts only (#1 \"https://stfpbsprodapp01.blob.core.windows.net/amendmentfiles/3f015148-6c70-e811-a857-000d3ad11148_15645602-9f18-4cc3-be1d-b3c1ee8acc7e_Greater%20Geelong%20C214%20Panel%20Report.pdf\", #2 \"https://www.jons-online.com/authors\", #3 \"https://pmc.ncbi.nlm.nih.gov/articles/PMC9823109/\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+        ],
+        "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+      },
+      "isError": false
+    },
+    "s16_fc_anna": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"conversationId\":\"05561864-a2f6-87b0-8d80-a6cfc07aaf6e\",\"success\":true,\"data\":{\"web\":[{\"url\":\"https://www.myheritage.se/names/anna_riedlberger?srsltid=AYCX9vJMk0QPn0IIjoXgAXcuqrRG0KfLpLYkFpRqYwtn8FE66k1sdenm\",\"title\":\"Anna Riedlberger Släkthistoria och historiska poster - MyHeritage\",\"description\":\"Anna Theresa Chmielewski (född Riedlberger), 1926 - 2020. MyHeritage ... Record image of Anna Theresia. Anna Theresia. Romersk-katolska register i ...\",\"position\":1,\"source\":\"web\"},{\"url\":\"https://www.ancestry.com.au/search/categories/42?name=Annick+Th%C3%A9r%C3%A8se_+PR%C3%89VOT-WEISWEILLER+&srsltid=AYCX9vJfD1GHPgupso2Gggw6NcaROYJTwrgGF3LfP8K2BXU_Xhnk-d-x\",\"title\":\"Annick Thérèse PRÉVOT-WEISWEILLER - Ancestry.com\",\"description\":\"Maria Anna Theresia ... 4 trees. View all. Maria Anna Theresia Wolfganga Freifrau Von Uslar-Gleichen from tree Chmielewski Family Tree ...\",\"position\":2,\"source\":\"web\"},{\"url\":\"https://www.semanticscholar.org/paper/Factores-personales-del-alumnado-que-predicen-el-en-Ortega-Rodr%C3%ADguez/9b30df42a366a9ab8d088b4f39aaf34e544e2753\",\"title\":\"[PDF] Factores personales del alumnado que predicen el ...\",\"description\":\"Franziska BaierAnna-Theresia DeckerThamar VossThilo KleickmannU. KlusmannM ... Chmielewski. Sociology. American Sociological Review. 2019. The ...\",\"position\":3,\"source\":\"web\"},{\"url\":\"https://ofb.genealogy.net/namelist.php?ofb=blumenthal_kath&ort=R%C3%B6nnebeck&e=geburt&sort_by=name&lang=de\",\"title\":\"Familiennamenliste Ortsfamilienbuch Bremen-Blumenthal (kath.)\",\"description\":\"CHMIELEWSKI, Leon ✶ 05.04.1896 in Rönnebeck (update) CHMIELEWSKI, Wanda ✶ 31.05 ... HELLMANN, Anna Theresia ✶ 30.05.1901 in Rönnebeck, † 1933 in Breslau\",\"position\":4,\"source\":\"web\"},{\"url\":\"https://www.facebook.com/EarlyMusicSweden/posts/congratulations-to-trio-tenorizans-from-the-netherlands-the-winners-of-ear-ly-20/1769637768501305/\",\"title\":\"EARLY MUSIC Sweden's post - Facebook\",\"description\":\"... Anna Theresia Chlada (Soome/Finland) Samuel Lubi (Eesti/Estonia) ... Special thanks to Bartek Staniak Staniak Records, Wojciech Chmielewski & Minh ...\",\"position\":5,\"source\":\"web\"},{\"url\":\"https://trove.nla.gov.au/newspaper/article/241066608\",\"title\":\"18 Jan 1971 - CERTIFICATES OF AUSTRALIAN CITIZENSHIP\",\"description\":\"29.7.70; Fraggoulis, Lambros, 180 Albert Street, Brunswick 3056, 29.7.70; Frank, Anna Theresia, 23 Springs Road, Clayton 3168,.\",\"position\":6,\"source\":\"web\"}],\"tools\":[]},\"creditsUsed\":2,\"id\":\"01a1b1e7-c66c-7505-8a1d-241f79170750\",\"agent_hints\":[\"All 6 web results are excerpts only (#1 \\\"https://www.myheritage.se/names/anna_riedlberger?srsltid=AYCX9vJMk0QPn0IIjoXgAXcuqrRG0KfLpLYkFpRqYwtn8FE66k1sdenm\\\", #2 \\\"https://www.ancestry.com.au/search/categories/42?name=Annick+Th%C3%A9r%C3%A8se_+PR%C3%89VOT-WEISWEILLER+&srsltid=AYCX9vJfD1GHPgupso2Gggw6NcaROYJTwrgGF3LfP8K2BXU_Xhnk-d-x\\\", #3 \\\"https://www.semanticscholar.org/paper/Factores-personales-del-alumnado-que-predicen-el-en-Ortega-Rodr%C3%ADguez/9b30df42a366a9ab8d088b4f39aaf34e544e2753\\\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\\\"url\\\":\\\"<one of these URLs>\\\",\\\"formats\\\":[\\\"markdown\\\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content.\"]}"
+        }
+      ],
+      "structuredContent": {
+        "success": true,
+        "data": {
+          "web": [
+            {
+              "url": "https://www.myheritage.se/names/anna_riedlberger?srsltid=AYCX9vJMk0QPn0IIjoXgAXcuqrRG0KfLpLYkFpRqYwtn8FE66k1sdenm",
+              "title": "Anna Riedlberger Släkthistoria och historiska poster - MyHeritage",
+              "description": "Anna Theresa Chmielewski (född Riedlberger), 1926 - 2020. MyHeritage ... Record image of Anna Theresia. Anna Theresia. Romersk-katolska register i ...",
+              "position": 1,
+              "source": "web"
+            },
+            {
+              "url": "https://www.ancestry.com.au/search/categories/42?name=Annick+Th%C3%A9r%C3%A8se_+PR%C3%89VOT-WEISWEILLER+&srsltid=AYCX9vJfD1GHPgupso2Gggw6NcaROYJTwrgGF3LfP8K2BXU_Xhnk-d-x",
+              "title": "Annick Thérèse PRÉVOT-WEISWEILLER - Ancestry.com",
+              "description": "Maria Anna Theresia ... 4 trees. View all. Maria Anna Theresia Wolfganga Freifrau Von Uslar-Gleichen from tree Chmielewski Family Tree ...",
+              "position": 2,
+              "source": "web"
+            },
+            {
+              "url": "https://www.semanticscholar.org/paper/Factores-personales-del-alumnado-que-predicen-el-en-Ortega-Rodr%C3%ADguez/9b30df42a366a9ab8d088b4f39aaf34e544e2753",
+              "title": "[PDF] Factores personales del alumnado que predicen el ...",
+              "description": "Franziska BaierAnna-Theresia DeckerThamar VossThilo KleickmannU. KlusmannM ... Chmielewski. Sociology. American Sociological Review. 2019. The ...",
+              "position": 3,
+              "source": "web"
+            },
+            {
+              "url": "https://ofb.genealogy.net/namelist.php?ofb=blumenthal_kath&ort=R%C3%B6nnebeck&e=geburt&sort_by=name&lang=de",
+              "title": "Familiennamenliste Ortsfamilienbuch Bremen-Blumenthal (kath.)",
+              "description": "CHMIELEWSKI, Leon ✶ 05.04.1896 in Rönnebeck (update) CHMIELEWSKI, Wanda ✶ 31.05 ... HELLMANN, Anna Theresia ✶ 30.05.1901 in Rönnebeck, † 1933 in Breslau",
+              "position": 4,
+              "source": "web"
+            },
+            {
+              "url": "https://www.facebook.com/EarlyMusicSweden/posts/congratulations-to-trio-tenorizans-from-the-netherlands-the-winners-of-ear-ly-20/1769637768501305/",
+              "title": "EARLY MUSIC Sweden's post - Facebook",
+              "description": "... Anna Theresia Chlada (Soome/Finland) Samuel Lubi (Eesti/Estonia) ... Special thanks to Bartek Staniak Staniak Records, Wojciech Chmielewski & Minh ...",
+              "position": 5,
+              "source": "web"
+            },
+            {
+              "url": "https://trove.nla.gov.au/newspaper/article/241066608",
+              "title": "18 Jan 1971 - CERTIFICATES OF AUSTRALIAN CITIZENSHIP",
+              "description": "29.7.70; Fraggoulis, Lambros, 180 Albert Street, Brunswick 3056, 29.7.70; Frank, Anna Theresia, 23 Springs Road, Clayton 3168,.",
+              "position": 6,
+              "source": "web"
+            }
+          ],
+          "tools": []
+        },
+        "id": "01a1b1e7-c66c-7505-8a1d-241f79170750",
+        "creditsUsed": 2,
+        "agent_hints": [
+          "All 6 web results are excerpts only (#1 \"https://www.myheritage.se/names/anna_riedlberger?srsltid=AYCX9vJMk0QPn0IIjoXgAXcuqrRG0KfLpLYkFpRqYwtn8FE66k1sdenm\", #2 \"https://www.ancestry.com.au/search/categories/42?name=Annick+Th%C3%A9r%C3%A8se_+PR%C3%89VOT-WEISWEILLER+&srsltid=AYCX9vJfD1GHPgupso2Gggw6NcaROYJTwrgGF3LfP8K2BXU_Xhnk-d-x\", #3 \"https://www.semanticscholar.org/paper/Factores-personales-del-alumnado-que-predicen-el-en-Ortega-Rodr%C3%ADguez/9b30df42a366a9ab8d088b4f39aaf34e544e2753\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+        ],
+        "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+      },
+      "isError": false
+    },
+    "s16_q9": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Anna Miller Genealogy: 253 obituaries, marriages, births, burials (1813-2016) (https://www.mesaieux.com/genealogy/anna_miller)\n【turn878595search0】 [wordlim: 200] Crawled: 7 months ago; ## Obituary of Anna-Theresa-Chmielewski Miller (1915 - 2004)\n\nAnna-Theresa-Chmielewski Miller, born in 1915, spouse of Frank Miller, daughter of John and Mary-Ligoska, mother of Frank, Christine, Barbara and Anna, died on November 11, 2004 at 89 years old.\n\n--------------------------------------------------------------------------------\nHannah Miller - Genealogie: 253 nécrologies, mariages, naissances, sépultures (1813-2016) (https://www.mesaieux.com/genealogie/hannah_miller)\n【turn878595search1】 [wordlim: 200] Crawled: 7 months ago; ## Nécrologie de Anna-Theresa-Chmielewski Miller (1915 - 2004)\n\n--------------------------------------------------------------------------------\n<table id=\"e1\"> (https://www.archive.nrw/sites/default/files/media/files/A_%C3%9Cckendorf%201877-1899.pdf)\n【turn878595search36】 [wordlim: 200] Published: 6.0 years ago; <tr><td>542</td><td>1890</td><td>Busse</td><td>Anna Theresia</td><td>28.10.1890</td><td>18901028</td></tr> ... <tr><td>618</td><td>1890</td><td>Chmielewski</td><td>Wilhelm Paul</td><td>12.12.1890</td><td>18901212</td></tr>\n\n--------------------------------------------------------------------------------\nRegisterNr. (https://archive.nrw.de/sites/default/files/media/files/A_%C3%9Cckendorf%201877-1899.pdf)\n【turn878595search37】 [wordlim: 200] Published: 1.4 years ago; Anna Theresia ... Chmielewski\n\n--------------------------------------------------------------------------------\nBirth Corrections & Affidavits (https://www.usgenwebsites.org/OHCuyahoga/Vital%20Records/Birth%20Corrections/bac-cf.html)\n【turn878595search2】 [wordlim: 200] Crawled: 2.3 years ago; Chmielewski, Lucy Ann  | Chmielewski, Frank  | Wasikowska, Anna  | 18 Oct 1897  |    | 091-07  |    | 122  | Corrected Births 1896-1898; 1899, A-V\n\n--------------------------------------------------------------------------------\nLocation Surname Room · Benton County Historical Society (https://bchs.azurearchives.com/location/Surname%20Room)\n【turn878595search3】 [wordlim: 200] Crawled: today; Chmielewski  | Lucille  | Obituary  |  | Family Page →\n\n--------------------------------------------------------------------------------\nAugustdorf(Sniatyn)1838-1900 Familybook Index (https://www.galiziengermandescendants.org/Data/Daum_Surnames/Augustdorf%28Sniatyn%291838-1900.htm)\n【turn878595search4】 [wordlim: 200] Published: 2.9 years ago; Crawled: 2.9 years ago; BUSCH (= Pusch, ∞ Mann), Anna (* 27.7.1839, � 21.12.1890, 51J) [80]\n\nBUSCH (∞ Dietrich), Anna Maria (* 24.2.1837) [132] ... CHMIELEWSKI (∞ de Sas), Klothilde (Wohnort...10.1835r in Holoszynce (Zbaraz)/Gal.\n\n--------------------------------------------------------------------------------\nLocation 27-A-1 · Benton County Historical Society (https://bchs.azurearchives.com/location/27-A-1)\n【turn878595search5】 [wordlim: 200] Crawled: today; Chmielewski  | Barbara  | Pg.\n\n--------------------------------------------------------------------------------\nLocation 20-A-3 · Benton County Historical Society (https://bchs.azurearchives.com/location/20-A-3)\n【turn878595search6】 [wordlim: 200] Crawled: today; Chmielewski  | Victoria Rose  | Marriage Record  |  | Family Page →\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://junosza.pl/public/indeksy/imj.html)\n【turn878595search7】 [wordlim: 200] Crawled: 4.6 years ago; 2663 Jan Chmielewski  *około 1833 Przechody  †od 30-01-1899 do 26-04-1920 ... 2667 Jan Chmielewski  *około 1818  †24-05-1879 Mścichy /Radziłów/\n\n--------------------------------------------------------------------------------\nSniatyn1767-1923 Familybook Index (https://www.galiziengermandescendants.org/Data/Daum_Surnames/Sniatyn1767-1923.htm)\n【turn878595search8】 [wordlim: 200] Published: 2.9 years ago; Crawled: 2.9 years ago; CERONOWICZ (= Cyranowicz, ∞ Butz), Viktoria (Wohnort...3.1853r in Touste (Skalat)/Gal. ... CHMIELEWSKI (= Chmilewska, ∞ Haselmayer), Julia (* 1803r, � 17.11.1854, 51J) [272] ... CHROMICKI (= Chromnicka, ∞ Patkowski, Botulinski), Anna (* 15.6.1867) [62]\n\n--------------------------------------------------------------------------------\nLocation 28-F-3.1 · Benton County Historical Society (https://bchs.azurearchives.com/location/28-F-3.1)\n【turn878595search9】 [wordlim: 200] Crawled: today; Chmielewski  | Michael John  | Death  |  | Family Page → ... Chromadka  | Lilia Francisca  | Death  |  | Family Page →\n\n--------------------------------------------------------------------------------\nGeneteka baza Polskiego Towarzystwa Genealogicznego (https://geneteka.genealodzy.pl/index.php?op=gt&rid=15606&w=02kp)\n【turn878595search10】 [wordlim: 200] Crawled: yesterday; 1721 5 Petrus Nachlai Anna Baninne Sadki Image: Miejscowość: Sadki Data ślubu: 27.11.1721 r. ... 1722 3 Valentinus Chmielewski Agnieszka Sadki Image: Miejscowość: Samostrzel Data ślubu: 15.05.1722 r.\n\n--------------------------------------------------------------------------------\nLocation 28-F-3.10 · Benton County Historical Society (https://bchs.azurearchives.com/location/28-F-3.10)\n【turn878595search11】 [wordlim: 200] Crawled: today; Chmielewski  | Irene B  | Death  |  | Family Page → ... Chromadka  | Lilia Francisca  | Death  |  | Family Page →\n\n--------------------------------------------------------------------------------\n[indextopassenger0022ciar] - Baltimore (Maryland, Vereinigten Staaten von Amerika) - Index der Passagierlisten von der Baltimore | 1820 - 1897 - Geneanet (https://de.geneanet.org/auswertungen/view/41586/446?individu_filter=16839166)\n【turn878595search12】 [wordlim: 200] Crawled: yesterday; CHMIELEWSKI Anton ... CHMIELEWSKA Maryanna ... CHMELKA Theresia\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://junosza.pl/public/indeksy/ima.html)\n【turn878595search13】 [wordlim: 200] Crawled: 4.6 years ago; 2629 Aleksander Bzura  *03-01-1927 Niedźwiedzkie  †05-02-1997 /Wąsosz/ ... 2637 Aleksander Chmielewski    †po 31-03-1874\n\n--------------------------------------------------------------------------------\nParafia Fałków – Strona 16 – Strona internetowa Parafii św. Trójcy w Fałkowie w Diecezji Radomskiej (https://parafiafalkow.pl/page/16/)\n【turn878595search14】 [wordlim: 200] Crawled: today; Jan  | Zenka  |  | 10/07/1990  | BM  | 1  | 7  | ... Jan  | Chmielewski  |  | 01/08/1984  | BM  | 1  | 18  | ... Adam  | Sztandera  |  | 21/03/1996  | BM  | 1  | 20  |\n\n--------------------------------------------------------------------------------\nKarrakatta Cemetery (https://ozburials.com/CemsWA/Karrakatta/charlie.htm)\n【turn878595search15】 [wordlim: 200] Crawled: last month; 17 December 1930 - 16 January 1997 ... 26 January 1921 - 21 September 2002 ... CHMIELEWSKI , Bogumil .\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://junosza.pl/public/indeksy/ic1925.html)\n【turn878595search16】 [wordlim: 200] Crawled: 4.6 years ago; 558 Chmielewski Wacław Mieczysław  *1925  †1987 ... 3480 Milewski Stanisław  *21-01-1938 Niedźwiedzkie  †18-07-1990 Szczuczyn /Wąsosz/\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://junosza.pl/public/indeksy/imt.html)\n【turn878595search17】 [wordlim: 200] Crawled: 4.6 years ago; 34 Tadeusz Chmielewski    †   \n35 Tadeusz Chojnowski  *05-01-1937 Klimaszewnica  †22-11-2008 Białystok /Białaszewo/\n\n--------------------------------------------------------------------------------\nOlympedia – Warszawa (Warsaw), Mazowieckie (POL) (https://www.olympedia.org/place_names/691)\n【turn878595search18】 [wordlim: 200] Crawled: last week; Stanisław Aniołkowski  | POL  | CRD  | Olympics  | 2024  | 20 January 1997  | ... Krzysztof Chmielewski  | POL  | SWM  | Olympics  | 2020—2024  | 8 June 2004  | \nMichał Chmielewski  | POL  | SWM  | Olympics  | 2024  | 8 June 2004  |\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://www.junosza.pl/public/indeksy/imj.html)\n【turn878595search19】 [wordlim: 200] Crawled: 4.6 years ago; 1236 Jakub Chrostowski  *około 1798 Biodry  †21-01-1881 Biodry /Burzyn/ ... 2671 Jan Chmielewski    †przed 26-01-1897\n\n--------------------------------------------------------------------------------\n<table id=\"e1\"> (https://www.landesarchiv.nrw/sites/default/files/media/files/A_%C3%9Cckendorf%201877-1899.pdf)\n【turn878595search38】 [wordlim: 200] Published: 6.0 years ago; <tr><td>467</td><td>1890</td><td>Ckviersiewski</td><td>Hedwig Augusta</td><td>21.09.1890</td><td>18900921</td></tr> ... <tr><td>29</td><td>1890</td><td>Daneck</td><td>Anna Theresia</td><td>20.01.1890</td><td>18900120</td></tr>\n\n--------------------------------------------------------------------------------\nBoletín Oficial 2 de Septiembre de 2022 - Segunda Sección | PDF | Buenos Aires (https://es.scribd.com/document/969398142/Boletin-Oficial-2-de-septiembre-de-2022-Segunda-Seccion)\n【turn878595search20】 [wordlim: 200] Published: 4.2 years ago; Crawled: 10 months ago; Socios: Matías CHMIELEWSKI SIERRA DNI 39557193 CUIT 20-39557193-2 nacido 14/2/1996 soltero domicilio real\ny constituido en Baigorria 5011 CABA, Pablo CHMIELEWSKI DNI 20410075 CUIT 20-20410075-7 nacido 2/8/1968\n\n--------------------------------------------------------------------------------\nDrzewo rodziny Senderskich (https://drzewo.online/)\n【turn878595search21】 [wordlim: 200] Crawled: today; Użyj zakładki \"Archiwa\" w celu dotarcia do konkretnych dokumentów.\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://www.junosza.pl/public/indeksy/imc.html)\n【turn878595search22】 [wordlim: 200] Crawled: 4.6 years ago; 288 Czesław Borzymowski  *02-01-1910 Łękowo  † ... 297 Czesław Chełmiński  *21-09-1907 Niećkowo  † ... 300 Czesław Chmielewski  *20-09-1910 Kubra  † ... 338 Czesław Długozima  *27-04-1930 Żebry  †23-02-1994 Żebry /Wąsosz/\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://junosza.pl/public/indeksy/ic1900.html)\n【turn878595search23】 [wordlim: 200] Crawled: 4.6 years ago; Ćmielewska  *26-06-1917 Radziłów  †21-05-2004 Grajewo /Wąsosz/ ... 880 Chludziński Bolesław  *07-06-1915 Kurpiki  †1999 Maliszewo /Chlebiotki/ ... 910 Chmielewski Bolesław  *05-01-1907 Wąsosz  †12-10-1973 Szczuczyn\n\n--------------------------------------------------------------------------------\nNEKROPOLIA KOLSKA (https://www.nekropolia.kolo.pl/index.php?dzial=spis)\n【turn878595search24】 [wordlim: 200] Crawled: today; 6367 CHMIELEWSKI STEFANJÓZEF 17 25.01.1952 ... 8093 Choborowska Natalia 21 02.07.1998\n\n--------------------------------------------------------------------------------\nOlympedia – Place names for Mazowieckie, Poland (https://olympedia-pro.t5tyuwenpa.eu-west-1.elasticbeanstalk.com/place_names/division/3221)\n【turn878595search25】 [wordlim: 200] Crawled: 2 days ago; Włodzimierz Chmielewski  | POL  | ROW  | Olympics  | 1976  | 7 August 1945  | Przasnysz, Mazowieckie (POL) ... Lidia Chojecka  | POL  | ATH  | Olympics  | 2000—2008  | 25 January 1977  | Siedlce, Mazowieckie (POL) ... Marcin Cieślak  | POL  | SWM  | Olympics/YOG  | 2010—2012  | 7 April 1992  | Warszawa (Warsaw), Mazowieckie (POL)\n\n--------------------------------------------------------------------------------\nGenealogia rodziny Łempickich i rodzin z nią spokrewnionych (https://www.junosza.pl/public/indeksy/imw.html)\n【turn878595search26】 [wordlim: 200] Crawled: 4.6 years ago; 1997 Wiktor Borowski  *19-02-1870 Dołęgi  † ... 3275 Wincenty Chmielewski  *1863 Mścichy  †przed 28-01-1930 ... 3282 Wincenty Chrzanowski  *21-07-1860 Kieljany  †\n"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

@@ -1,8 +1,29 @@
+**Aktualny stan — etap 20, 07.11.2026: brat Bogusława, ojciec Piotra (P11).** Imię wuja nadal nieustalone; Witold z Zarzewa pozostaje wyłącznie tropem. Nowe wykazy MP wymieniają imiona ojców imienników Piotra, ale brak połączenia z rodziną. 23 arkusze, 239 źródeł, 97 kandydatów, 232 kwerendy, 17 przekazów. [Wyniki](badania/2026-11-07-sesja-20-brat-boguslawa/STATUS.md), [teczka wuja](badania/2026-11-07-sesja-20-brat-boguslawa/TECZKA_BRATA_BOGUSLAWA.md), [plan](badania/2026-11-07-sesja-20-brat-boguslawa/PLAN_KONTYNUACJI.md). Rodzeństwo dziadka i Australia wstrzymane. REL-017: użytkownik zapyta Marysię jutro; poszukiwania nie zależą od odpowiedzi. Bez korespondencji. Drzewo bez nowego przełomu. Poniższe komunikaty i zakresy są historyczne.
+
+## Etap 17 — polskie gałęzie rodzeństwa Czesława, 06.11.2026
+
+Najnowszy zakres: Polska, dzieci/wnuki, bez wiadomości do osób lub instytucji. **Nie odnaleziono jeszcze nowego potwierdzonego żyjącego krewnego wPolsce.** Raport: [STATUS.md](badania/2026-11-06-sesja-17-rodziny-w-polsce/STATUS.md), szczegółowy [plan](badania/2026-11-06-sesja-17-rodziny-w-polsce/PLAN_KONTYNUACJI.md).
+
+- S205: MyHeritage, zgodne roczniki pary i ślub1932 w indeksie, ale brak pełnego rekordu/autora/dzieci; agregat imienników i blokada zwykłego odczytu.
+- S206: Bełżec2021/2022, indeksowana paraEmilia/Józef bezdat; strona zawieszona, pełne stare wpisy nieodczytane. H045.
+- S207: Geneteka,27żądań zkontrolą74/1932;21regionów oraz66/66lubelskichmałżeństw, bezdzieckaP28/P29. BMandziuk0, Chmielewski31surowychwierszy bezrodziny. Brak windeksie nie dowodzi bezdzietności.
+- S208: LubgensTomaszów1281indeksówurodzeń, faktycznie1920–1923, bezChmiel… iWincenty/Agnieszka. Nie cała dekada.
+- S209: MonitorPolski581/1997,str1170,493/494: Sabina c.Franciszka wykluczona jakoP26c.Wincentego. C97. To inny dokument niżS043.
+- S210: GłosNauczycielski1950nr4,str3: EmiliaMandziuk/Gończyce bezDOB/rodziny; nie zidentyfikowana jakoP28.
+- S211: PełnePDFDziejeTomaszów/Susiec, odczyttrafień, niecałychksiążek. JózefŁosiniec1941 bezDOB/żony; współcześniMandziukowie nieuznani za krewnych.
+- S212: Przysucha/Mandziuk53/1908: unit10505176,88/639/0/-/33,manifest162obrazów. TrzyodpowiedziHTMLIncapsula nie są skanami. Aktnieodczytany.
+- S213: GrobonetPolska,5właściwychkwerend znegatywnymwynikiem oraz kontrolaDylkiewicz1907pozytywna. Jan/Siedlnica — odrzuconeparametry, nie wynik0.
+- S214: Dwa cmentarzeTczewa, imionaJulianna/Sabina/Julia,12stronwyników zpełnąpaginacją.4kartybezDOB i8/8zdjęć obejrzano; brakidentyfikacjiP27. BrakzgodnegoDOBSabiny; Łuczak1916/Dylkiewicz20.01.1907niepasują.
+- S215: Ponownyodczyt istniejącegoS153: świadekMarcinPrzysucha61,nieMarian; Q81. Beznowegopokrewieństwa.
+- S216: Wyszukiwarki iFirecrawlbasic, parametry/wyniki/logi wsesji17. Dodatkowo metadane skorowidza mieszkańcówTomaszowa1926,88/24/0/-/245,unit10446043,34obrazy; nazwisk nieodczytano. Brakadresata do kontaktu; żadnych wiadomości. Bełżec eCmentarze bezinwentaryzacji to nie wykonana kwerenda osób.
+
+Oryginały, logi, ograniczenia odczytu i SHA256: `badania/2026-11-06-sesja-17-rodziny-w-polsce/`. Starsze zakresy poniżej pozostają historyczne. Publicznego drzewa71/96/9 nie zmieniono, gdyż nie potwierdzono nowego rodzinnego przełomu.
+
 # Rejestr zbadanych źródeł i prób dostępu
 
-Najnowszy etap: [potomkowie rodzeństwa Czesława](badania/2026-11-06-sesja-15-rodzenstwo-i-potomkowie/STATUS.md), S181–S194. Udokumentowano australijską rodzinę C69–C72, ale P12=C69 pozostaje hipotezą H035. Nie potwierdzono nowego żyjącego krewnego. Tabela początkowa jest historycznym zapisem; późniejsze odczyty i korekty (m.in. S147/S148 oraz P30) mają pierwszeństwo przed dawnym statusem indeksów.
+Najnowszy etap: [australijscy bracia i potomkowie Raya](badania/2026-11-06-sesja-16-australia/STATUS.md), S195–S204. Dokładne daty dwóch braci i rodzina z2020; identyfikacja gałęzi zMarysią nadalH035, aktualnego życia nowej osoby nie potwierdzono. Starsze opisy są historyczne.
 
-Aktualny wykaz 194 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
+Aktualny wykaz 204 źródeł; tabela S001–S105 zachowuje etap03, kolejne etapy i suplement S127–S134 są opisane poniżej. Status rozróżnia odczyt dokumentu, indeks, katalog, procedurę i próbę nieudaną. Liczba źródeł nie oznacza liczby aktów rodziny. Fotografia S086 nie jest plikiem lokalnym; zachowano jej odczyt i JSON.
 
 [Najnowsza ocena dowodu i luka H017](badania/2026-11-05-sesja-03-polaczenie/H017_DOWODY_I_LUKA.md); [dokładny zakres nowych odczytów](badania/2026-11-05-sesja-03-polaczenie/AROLSEN_ODCZYTY.md).
 
@@ -288,3 +309,54 @@ KorektaQ73: Antonina to4683, nie4689. [Odczyt wszystkich czterech zgonów](badan
 | S192 | [Dostęp do ślubówGarbów1932 iSiennicaRóżana1928](https://www.familysearch.org/ark:/61903/3:1:TH-1-11880-96620-31) — Garbów26/1932Pochroń/Julianna;SiennicaRóżana2/1928Kułaga/Julia | NowyformatARK:403 również wzwykłej przeglądarce. Oryginału26/1932nieodczytano. SkanotekaSiennica:5zespołów innejSiennicy(mazowieckiej), bezRóżanej;Garbów0. Nie wykluczono Julianny znieodczytanychaktów. Nie powtarzano starychalegatów. | [garbow_fs_browser.json](badania/2026-11-06-sesja-15-rodzenstwo-i-potomkowie/zrodla/garbow_fs_browser.json) |
 | S193 | [Internet i próby dalszej identyfikacji australijskiej rodziny](https://www.mytributes.com.au/notices/?searchtext=chmielewski) — 76zapytańweb w19zestawach;1Firecrawl;próbyTuckers/Kings/MyTributes/Trove | Nie znaleziono aktualnego potwierdzenia życia synów ani pełnego nekrologuC75. MyTributes/HeraldSun403blokadaruchuautomatycznego; nie obchodzono. TroveHTTP200zAccessDenied, nie artykuł. KingsAPIpusto,TuckersAPI404/stronawyszukiwania beztrafienia. ForumNAA2943dotyczyKolubaj, nieChmielewskich. Bez kontaktu zautorami, osobami iinstytucjami. | [kwerendy.json](badania/2026-11-06-sesja-15-rodzenstwo-i-potomkowie/zrodla/web/kwerendy.json) |
 | S194 | [Matricula — Scheibbs iMelk, granice katalogu](https://data.matricula-online.eu/de/oesterreich/st-poelten/scheibbs/) — Scheibbs28ksiąg do1938;Melk41ksiąg do1938 | Publiczny katalog obu parafii kończy się na1938, więc nie potwierdza ślubu1940s lub urodzeń1946/1947. Nie próbowano uzyskać ukrytych kart ani skanów spoza udostępnionego zakresu. Scheibbe zlisty może odpowiadaćScheibbs, nie uznano tego za odczyt polskiego miejsca ojcaRezegno. | [ostatnie_proby.json](badania/2026-11-06-sesja-15-rodzenstwo-i-potomkowie/zrodla/web/ostatnie_proby.json) |
+
+## Etap 16 — nekrologi i kolejne pokolenia (06.11.2026)
+
+| ID | Źródło | Zakres / ograniczenie | Kopia |
+| --- | --- | --- | --- |
+| S195 | [Ernest (Ernie) Chmielewski — pełne ogłoszenie pogrzebowe](https://www.mytributes.com.au/notice/funeral-notices/chmielewski-ernest-ernie/6259122/) — 6259122; data zamieszczenia29.11.2024; pogrzeb06.12.2024 | 20.11.1947–27.11.2024. Dokładna data urodzenia zgodna z C72. Tuckers Highton, pogrzeb06.12.2024 przed prywatną kremacją. Brak rodziców lub potomków w tym ogłoszeniu. RyersonS187 wskazywał publikację30.11.2024; nie utożsamiać jej z datą zamieszczenia online29.11. Własny urllib nadal403, pełny odczyt przez narzędzie web; nie obchodzono logowania/paywalla. | [ernest_6259122.txt](badania/2026-11-06-sesja-16-australia/zrodla/ernest_6259122.txt) |
+| S196 | [Ray Chmielewski — nekrolog podpisany przez brata Erniego i Rene](https://www.dailytelegraph.com.au/tributes/notice/death-notices/chmielewski-ray/5589602/) — 5589602;25.11.2020 | 06.10.1946–19.11.2020. Ernie nazywa Raya bratem; wspólny podpis Ernie i Rene. Nie podano rodziców, nazwiska Rene lub rodzaju jej relacji z Erniem. Dwie zgodne daty braci silnie wzmacniają C71/C79 i C72/C75, ale rekordy pozostają osobno. | [ray_5589602.md](badania/2026-11-06-sesja-16-australia/zrodla/ray_5589602.md) |
+| S197 | [Raymond (Chima) Chmielewski — żona i dalsza rodzina](https://www.mytributes.com.au/notice/funeral-notices/raymond-chima-chmielewski/5589271/) — 5589271;25.11.2020; pogrzeb27.11.2020 | Ray, dawniej Geelong, zgon19.11.2020; żona Rose. Father and Father-in-Law: Michelle/Chris, Simone/Nikki, Nicole/Dean. Nie rozstrzygnięto, kto w parze jest dzieckiem, a kto jego partnerem. Wnuki Rebecca,Robert,Max,Ebony,Tori,Marcus,Stella bez przypisania rodziców. Prawnuki bez imion. Pogrzeb Allambe,Nerang. Nie potwierdza życia wszystkich wymienionych w2026; nazwiska niepodane. | [ray_5589271.md](badania/2026-11-06-sesja-16-australia/zrodla/ray_5589271.md) |
+| S198 | [Ray — ogłoszenie znajomych](https://www.dailytelegraph.com.au/tributes/notice/death-notices/chmielewski-ray/5588385/) — 5588385;21.11.2020 | Zgon19.11.2020. Duncan i Nancy, Buck, Arthur, Mac, Nick to znajomi. Nie dodano ich do rodziny. Zbieżne nazwisko i data nie dowodzą samodzielnie tożsamości z Romanem1946. | [ray_5588385.md](badania/2026-11-06-sesja-16-australia/zrodla/ray_5588385.md) |
+| S199 | [Geelong Western — Roman, Ernest i Anna Theresia w jednej lokalizacji](https://gct.net.au/family-history-search/) — PersonId38035/940272/36197;LocationId75607;WST-LAWN-05-808-518 | Roman: zgon21.01.1997,77lat,pogrzeb24.01.1997,bezDOB. Anna Theresia:07.02.1987,57lat,pogrzeb11.02.1987,bezDOB. Ernest:20.11.1947–27.11.2024,usługa06.12.2024,kremacja. Wszyscy Lawn05,Grave518. Sam wspólny grób nie dowodzi relacji. Brak zdjęcia/nazwisk rodziców. Mapa publiczna podaje referencje172189/174027/1045451. Nie używano funkcji email/SMS. | [gct_response_58.bin](badania/2026-11-06-sesja-16-australia/zrodla/gct_response_58.bin) |
+| S200 | [Arolsen — rozszerzenie o rok bez imienia i członków rodziny](https://collections.arolsen-archives.org/en/search/) — Chmielewski1919;Anna1929;Roman1946;Ernest1947 | 137wierszy roku1919 zsynonimami, jedyny06.06.1919 i jedynyRoman to znany81766762; brak nowego dokumentu rodziców. Anna1,Ernest1:ta sama lista. Roman1946:3wiersze, dwa ze znanej listy i znany imiennik81673879. Wyszukiwanie może trafić cały dokument, nie tylko osobę spełniającą rok. Nie odczytano137oryginałów. | [downloads.json](badania/2026-11-06-sesja-16-australia/zrodla/arolsen/downloads.json) |
+| S201 | [Tuckers — poprawny publiczny formularz usług i próba archiwum](https://www.tuckers.com.au/funerals/past-funerals/) — publiczny ucfsearch.json;Search=Chmielewski,funeralType=Past,brandCode162 | Odczytano konfigurację i kod formularza, prawidłowe zapytanie zwróciłoResults[]/Total0. Nie jest to dowód braku pogrzebu2024, ogłoszenieS195 go podaje. WaybackCDX timeout; brak odczytu archiwalnej karty. Nie kontaktowano zakładu. | [tuckers_name_query.html](badania/2026-11-06-sesja-16-australia/zrodla/tuckers_name_query.html) |
+| S202 | [BDM Victoria/Queensland oraz pozostałe próby dostępu do indeksów](https://www.bdm.vic.gov.au/search-your-family-history) — Victoria:30lat od rejestracji zgonu; formularz efamily-history | Victoria: oficjalna instrukcja odczytana; aplikacja HTTP200 bez formularza, żądanie efam/me401, nie obchodzono. QLD403, Allambe503/timeout, AncestryAnna1987 i FindAGraveRoman403. Nie znaleziono aktu rodziców. Roman1997 może wejść do indeksu dopiero po30latach od rejestracji, nie automatycznie od daty śmierci. Brak płatności, konta i zamówień. | [bdm_network.json](badania/2026-11-06-sesja-16-australia/zrodla/bdm_network.json) |
+| S203 | [Blue Circle1983 — wzmianki pracownicze i sportowe](https://berrimadistricthistoricalsociety.org.au/data/documents/1983.pdf) — 390stron; odczyt trafień81,162,362 | E.Chmielewski w golfie Waurn Ponds; Ernie Chmie-lowski/Chmei-lowski na zdjęciu zmianyA. Nie potwierdzono tożsamości z C75. 42to punkty,26handicap, nie wiek! BrakDOB/krewnych; nie przypisano zawodu. Nie deklarować lektury wszystkich390stron. PełnyPDF40975372bajty, SHA wmanifest. | [company1983.pdf](badania/2026-11-06-sesja-16-australia/zrodla/company1983.pdf) |
+| S204 | [Kwerendy celowane i Australian Cemeteries Index](https://austcemindex.com/?family_name=Chmielewski&search=Search) — Parametry i odpowiedzi w4JSON oraz parametry_kwerend.json | Austcem:9inskrypcji, bezRomana/Anny/Ernesta; ograniczona baza nie wyklucza grobu potwierdzonegoS199. Pierwszy parametrsurname nie wypełniał formularza; za wynik uznano dopiero family_name. Wyniki profili Geelong bez łącznika rodzinnego odrzucono jako nieutożsamione. AnnaTheresaRiedlberger1926–2020 nie została żonąC69 na podstawie podobnego imienia. Początkowe zapytania częściowo nakładają się na etap15; nie są niezależnym rozszerzeniem dowodu. | [parametry_kwerend.json](badania/2026-11-06-sesja-16-australia/zrodla/parametry_kwerend.json) |
+
+
+## Etap 18 — polskie rodziny rodzeństwa, 6 listopada 2026
+
+Pełne adresy, oryginały i granice: [raport](badania/2026-11-06-sesja-18-polska-ksiegi/STATUS.md), [zakres odczytu](badania/2026-11-06-sesja-18-polska-ksiegi/ZAKRES_ODCZYTU.md), [manifest](badania/2026-11-06-sesja-18-polska-ksiegi/manifest_zrodel_sesji.json).
+
+| ID | Źródło i zakres | Wynik i ograniczenia |
+|---|---|---|
+| S217 | [Bełżec, BillionGraves336870](https://billiongraves.com/cemetery/Be%C5%82%C5%BCec-Cmentarz-parafialny/336870), 73 wpisy + 7 zdjęć bez transkrypcji | Bez Mandziuków; fragmentaryczny zbiór45zdjęć, H045 nie wykluczono. API total0 nie oznacza0wyników. |
+| S218 | [Tomaszów1924, album4780](https://fotolubgens.lubgens.eu/index.php?/category/4780), 88/639/0/-/49 | Pełne indeksy U369/M81/Z146, bez rodzinnego łącznika; nie596pełnychaktów. |
+| S219 | [Tomaszów1925, album4328](https://fotolubgens.lubgens.eu/index.php?/category/4328) | M77, Z180+2dopiski. U318wprotokole, lecz skanów Ubrak, ich nieodczytano. |
+| S220 | TomaszówM1939–1942, indeksy obojga małżonków | 341 numerowanych pozycji +2dopiski; 343wiersze, bez sióstr. Użyto starego030/1940zsesji11. |
+| S221 | Pełne96/1940 i52/1941,026.jpg/014.jpg | JaninaMiszczyszyn iWandaChlebowska, nie Chmielewskie; błędne rozpoznanie poprawiono. Bez nowych relacji. |
+| S222 | [Tomaszów, BillionGraves226235](https://billiongraves.com/cemetery/Tomasz%C3%B3w-Lubelski-Cmentarz-Parafialny/226235/search), komplet10stron,1176+620rekordów | Lokalne filtrowanie1796rekordów i odczyt trafień, nie pełnych1796kart. BrakEmiliiMandziuk/zgodnegoDOBsióstr. Poprawiono ignorowany filtr imienia; drugi Bełżec528978pusty katalog/błąd500. |
+| S223 | Karty46553169,44887491,176848766; sekcje współpochówku i2miniatury | Józef1966wiek24, inny niżP29. JuliannaBucior1995wiek86, różnica1rok; nieutożsamiona. Józef1939bezDOB, współpochowanaKatarzynaTryndoch, brak dowodu małżeństwa. |
+
+Nie potwierdzono nowego żyjącego krewnego. Excel, hipotezy i plan zaktualizowane; drzewo pozostawiono bez publikowania negatywnych kwerend jako przełomów. Kopie nie zawierają cookies ani tymczasowych podpisów URL.
+
+
+## Etap19 — polskie rodziny, 6 listopada 2026
+
+[Raport i granice](badania/2026-11-06-sesja-19-polskie-rodziny/STATUS.md), [dokładne URL i zakres odczytu](badania/2026-11-06-sesja-19-polskie-rodziny/ZAKRES_ODCZYTU.md).
+
+| ID | Nowy zakres | Wynik |
+|---|---|---|
+| S224 | Pięć publicznych kart Julii:Pasula,Typek,Wróblewska,Matej,Raczkiewicz | Bezrodzinnegołącznika; wiek/rodoweodmienne lubniewystarczające. Bez odczytu pełnych fotografii. |
+| S225 | Arolsen:3nowe kwerendy,25+4wiersze | Brak datP28/P29; nie29nowychobrazów.25zawiera różnero­czniki całejlisty. |
+| S226 | Geneteka,lubelskieD1932–1979Mandziuk | 1wierszMroczkowskiego, matkaMandziuk; ograniczonepokrycie. |
+| S227 | Tomaszów1926,album4345,M67/Z176 | Pełneindeksy bezrodziny; U339tylko wprotokole, skanówurodzeńbrak. |
+| S228 | APZ88/48/0MajdanGórny,159metadanych | 0skanów. Księgi156–159innychwsi; wykazyMajdanu94/95/136nieodczytane. |
+| S229 | LucynaWyszyńska,RocznikTomaszowski3/2014,str156druk/157PDF | WskazaniePasieki1551908–1934, nieustalony zakresRogóźna; nieodczytana księga. |
+| S230 | Straty:8nowychkwerend +kontrola | Brakidentyfikacji; Jan16.12.1897nieP29. KontrolaCzesław1909:2znaneID. |
+| S231 | Próby żywego kataloguPasiek | Portletniedostępny;82720Poturzyn,82719MajdanSopocki, nieprzypisanePasiekom. |
+| S232 | 39kwerendweb | Braknowychpotomków/rodzinnegołącznika; szkicAPZprzygotowanylokalnie,niewysłany. |
+
+Nie dodano imienników do drzewa. Stan Excela232źródła/97kandydatów/220kwerend; historia iZIPy zachowane. Każda przyszła publikacja przełomu ma zaktualizować istniejącą witrynę.

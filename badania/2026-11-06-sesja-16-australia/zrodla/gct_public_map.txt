@@ -1,0 +1,254 @@
+
+  
+    Location map information
+    
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var apikey = 'ZWU3N2NjZDctMzQ5OS00MDYzLWFjNjgtZDA1NzAwNGQzZTky';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        sub Print1()           
+
+            
+            OLECMDID_PRINT = 6
+
+            OLECMDEXECOPT_DONTPROMPTUSER = 2
+            OLECMDEXECOPT_PROMPTUSER = 1
+            call WB.ExecWB(OLECMDID_PRINT, OLECMDEXECOPT_DONTPROMPTUSER,1)
+
+            Msgbox "Printed Successfully"
+
+        End Sub
+
+        document.write "<object id='WB' width='0' height='0' classid='CLSID:8856F961-340A-11D0-A96B-00C04FD705A2'></object>"    
+ 
+
+    
+ 
+ 
+                                    
+                           Loading ... 
+                 
+                  
+                
+                
+                
+                
+                    
+                    Current Location
+                    Available for Sale
+                    Not Available for Sale
+                    Quoted
+                    Sold
+                    Release Pending
+                    Future Release
+                    Disestablished
+                    
+                
+                
+                    
+                     Opacity level:
+                      
+                    
+                No overlay is found for the current cemetery 
+                    
+
+                        Overlay North East bound status:
+                        Click and drag any edit point of the overlay boundary.
+                        Current position:
+                        
+                        
+                        
+                        
+                        
+                        Overlay South West bound status:
+                        Click and drag any edit point of the overlay boundary.
+                        Current position:
+                        
+                        
+                    
+                        Coming soon
+                    No Mapping Marker is found within the system
+
+                 
+
+                   
+                    
+                    
+                        
+                        Location Details
+                        
+                    
+
+                    
+                        
+                            
+                                
+                                    
+                                    Location Code: 
+                                    
+                                    Lawn                                                        05                                                          Grave 518                                                   WST-LAWN-05-808-518                     
+                                
+
+                                
+                                
+                                    
+                                    Deceased: 
+                                    
+                                    Anna Chmielewski (Ref: 172189)Roman Chmielewski (Ref: 174027)Ernest Chmielewski (Ref: 1045451)
+                                
+
+                                
+                                
+                                    
+                                    Cemetery: 
+                                    
+                                    Geelong Western Public Cemetery                                                                     
+                                
+                                
+                                    
+                                    Co-Ordinates: 
+                                    
+                                     Longitude: 144.32663979526001 Latitude: -38.13490919582
+                                
+                            
+                            
+                                
+                                
+                                 
+                            
+                           
+                         
+                      
+                     
+
+    Want to get the above details on the go?
+        Choose a method below to receive the information.
+        
+          
+            
+                
+                    
+                
+            
+                            
+                                
+                            
+                            
+                            
+                                
+                            
+                             
+        
+    
+    
+
+
+
+
+    
+        
+           
+                Please insert your email address below
+                    
+                     
+                
+                       
+            
+                
+                    
+                    EMAIL:
+                    
+                        
+                            
+                         
+                                        
+                        
+                          
+                            
+                                Send Email     
+                            
+                          
+                        
+                    
+                    
+                    
+                    
+                
+             
+        
+        
+     
+
+    
+        
+            
+                Please insert your mobile number below
+                    
+                    
+                
+                       
+            
+                
+                    
+                    
+                        MOBILE:
+                        
+                            
+                               
+                             
+                            
+                              
+                                
+                                    Send SMS     
+                                
+                              
+                            
+                         
+                    
+                    
+                        
+                            
+                        
+                    
+                    
+                
+            
+        
+          
+
+    
+          Back to Results        
+    

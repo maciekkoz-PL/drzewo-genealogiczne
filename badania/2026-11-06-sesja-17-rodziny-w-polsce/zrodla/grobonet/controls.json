@@ -1,0 +1,30 @@
+[
+  {
+    "key": "control_dylkiewicz",
+    "url": "https://grobonet.com/wyszukiwanie?imie=Julianna&nazw=Dylkiewicz&rok_ur=1907",
+    "parameters": {
+      "imie": "Julianna",
+      "nazw": "Dylkiewicz",
+      "rok_ur": "1907"
+    },
+    "at_utc": "2026-11-06T18:16:26.588381+00:00",
+    "status": 200,
+    "title": "Wybierz województwo — Grobonet.com",
+    "sha256": "5171b37aee9eeb8e4bc19fde1403031110a26265b1c0dfafed46d7064cb15610",
+    "text_bytes": 1363
+  },
+  {
+    "key": "control_mandziuk",
+    "url": "https://grobonet.com/wyszukiwanie?imie=Jan&nazw=Mandziuk&miasto=Siedlnica",
+    "parameters": {
+      "imie": "Jan",
+      "nazw": "Mandziuk",
+      "miasto": "Siedlnica"
+    },
+    "at_utc": "2026-11-06T18:16:28.383965+00:00",
+    "status": 200,
+    "title": "Wybierz cmentarz — Grobonet.com",
+    "sha256": "a16141ec60dbc1983a398cbe6d793cfe79c57a3f1105e9a29f0b86edb38d0e51",
+    "text_bytes": 1414
+  }
+]

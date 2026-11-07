@@ -1,0 +1,7 @@
+# Priorytet — krewni mieszkający w Polsce
+
+06.11.2026 użytkownik wyraźnie skierował badania na rodzeństwo dziadka i ich dzieci w Polsce, z myślą o późniejszym kontakcie. W tej sesji przerwano rozwijanie tropu australijskiego. Cele: P26Sabina1917, P27Julianna1907, P28Emilia1904 i jej mążP29JózefMandziuk1897; uwzględnić ciocięCzesię zŁodzi, jeśli nowe źródło pozwoli ją zidentyfikować. Nie przypisywać losowych współczesnych imienników i nie utożsamiać braku nekrologu z życiem. Nie wysłano i nie wolno wysyłać wiadomości do osób/instytucji bez osobnej zgody. Celem jest wskazanie krewnego i uzasadnionej drogi kontaktu, bez zbierania prywatnych adresów/telefonów.
+
+Nowe tropy robocze: indeks publicznego drzewaMyHeritage wymienia Józefa1897 i małżeństwo zEmilią1904 w1932; brak pełnego odczytu strony (Incapsula/odczyt narzędzia nieudany), nieznany autor drzewa. Osobne skróty KatarzynyMandziuk/MarcinaPrzysuchy1908 nie zostały automatycznie przypisane do tej samej osobyJózefa; strona agreguje imienników. OgłoszeniaBełżca2021/2022wymieniają paręEmilia/Józef, ale bezdat/krewnych; obecna strona jest zawieszona, nie odczytano pełnych dawnych wpisów. WzmiankaEmiliaMandziuk wGłosieNauczycielskim1950dotyczyGończyc,pow.Garwolin,bezDOB; nie jest potwierdzonąP28. SabinaChmielewska zMonitorPolski581/1997 jest córkąFranciszka — wykluczona jakoP26, córkaWincentego.
+
+Aktualny raport końcowy i plan będą wSTATUS.md/PLAN_KONTYNUACJI.md. Nie traktować tej notatki roboczej jako potwierdzenia dzieci lub kontaktów.

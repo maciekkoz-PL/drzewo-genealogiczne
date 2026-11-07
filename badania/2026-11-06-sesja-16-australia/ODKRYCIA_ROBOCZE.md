@@ -1,0 +1,13 @@
+> Zapis historyczny pierwszego utrwalenia odkryć. Baza, drzewo i publikacja zostały następnie uzupełnione; aktualny stan: [STATUS.md](STATUS.md), dalsza praca: [PLAN_KONTYNUACJI.md](PLAN_KONTYNUACJI.md).
+
+# Odczytane nowe źródła — etap 16
+
+06.11.2026. Zapis przed uzupełnieniem bazy i strony; aktualny raport końcowy będzie w STATUS.md.
+
+- Ernest (Ernie) Chmielewski, **20.11.1947–27.11.2024**, Geelong Advertiser, ogłoszenie internetowe29.11.2024, pogrzeb06.12.2024. Pełny odczyt publiczny przez narzędzie web; zwykły urllib nadal403. Źródło: https://www.mytributes.com.au/notice/funeral-notices/chmielewski-ernest-ernie/6259122/ . Nowa dokładna data urodzenia wzmacnia H036 względem samego indeksu Ryerson. Nie zmieniać historii S187.
+- Ray Chmielewski **06.10.1946–19.11.2020**, nekrolog podpisany przez **brata Erniego i Rene**, Geelong Advertiser25.11.2020: https://www.dailytelegraph.com.au/tributes/notice/death-notices/chmielewski-ray/5589602/ . Firecrawl basic HTTP200, bez obchodzenia blokad i bez logowania. Para zgodnych dat braci1946/1947 silnie przemawia za rodziną C71/C72; prawna zmiana imienia Roman→Raymond nieodczytana, brak bezpośrednio wymienionych rodziców. P12=C69 nadal osobna nierozstrzygnięta hipoteza.
+- Raymond (Chima) Chmielewski, były mieszkaniec Geelong, zgon19.11.2020, pogrzeb27.11.2020 Allambe Memorial Park, NerangQLD: https://www.mytributes.com.au/notice/funeral-notices/raymond-chima-chmielewski/5589271/ . Pełny odczyt Firecrawl basic HTTP200. **Żona Rose**. Dzieci i ich partnerzy wymienieni wspólnie parami: **Michelle/Chris, Simone/Nikki, Nicole/Dean**. Tekst Father and Father-in-Law nie rozstrzyga samodzielnie, kto w każdej parze jest biologicznym dzieckiem. **Wnuki Rebecca,Robert,Max,Ebony,Tori,Marcus,Stella**, bez przypisania do konkretnych rodziców. Wzmianka o prawnukach bez imion. Nie dopisywać nazwisk ani dat urodzenia. Źródło świadczy o rodzinie w2020, nie jest automatycznym potwierdzeniem życia każdej osoby w2026.
+- Dodatkowe ogłoszenie znajomych Raya21.11.2020,5588385: Duncan/Nancy,Buck,Arthur,Mac,Nick. **To znajomi, nie nowo odkryte dzieci lub rodzeństwo.**
+- Nazwiska z przypadkowych profili w Geelong nie zostały utożsamione z rodziną; nie zbierano prywatnych kontaktów. Ciocia Czesia i jej syn w Niemczech pozostają odrębni.
+
+Potwierdzone odczyty i całe odpowiedzi narzędzi zachowano w zrodla/kwerendy_i_odczyty_01–03.json. Odczyt ogłoszenia rodzinnego także w zrodla/ray_5589271.md. Nie składać wniosków, nie zamawiać kopii, nie wysyłać wiadomości. Kolejne kwerendy: publiczne rejestry pochówków Geelong/Allambe, nowe zapytania Arolsen według roku bez imienia, ewentualny dokument rodziców emigranta. Sprawdzenie marginesu S061 nie znalazło późniejszego łącznika; skanu nie powielano.

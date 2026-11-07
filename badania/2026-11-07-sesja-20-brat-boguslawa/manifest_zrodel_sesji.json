@@ -1,0 +1,167 @@
+[
+  {
+    "path": "zrodla/bg_global/boguslaw_exact1943.txt",
+    "bytes": 1799,
+    "sha256": "ea4fe8143f16fe50790f5527493f58196b5993f1cd20a2574474887081dd3790"
+  },
+  {
+    "path": "zrodla/bg_global/boguslaw_exact1943_links.json",
+    "bytes": 763,
+    "sha256": "cf24335bcc4bf72206f9b6b41cf3cad541be1a05a7483d92c6428c91d62fe64d"
+  },
+  {
+    "path": "zrodla/bg_global/czeslaw_exact1909.txt",
+    "bytes": 3338,
+    "sha256": "cbc561c230d403e4a9644fd56ce17ef69c7b30fdfffe962432807735207efaf7"
+  },
+  {
+    "path": "zrodla/bg_global/czeslaw_exact1909_links.json",
+    "bytes": 2023,
+    "sha256": "a2dbf2ccd7cc4a87bafa9eb753a9d9ed8881e2e2b43ac5bf7f616dd85dafe89d"
+  },
+  {
+    "path": "zrodla/bg_global/exact_queries.json",
+    "bytes": 1773,
+    "sha256": "d4f18d36f7dda93828e620da0578fb9b5584df4674c654079a14af88cb9a3d5f"
+  },
+  {
+    "path": "zrodla/bg_global/exact_url.txt",
+    "bytes": 383,
+    "sha256": "50ed17a2df60e3d576ca2937447b24a175af0ea32a6032802dff4f82a1ac7c60"
+  },
+  {
+    "path": "zrodla/bg_global/janina_exact1910.txt",
+    "bytes": 3954,
+    "sha256": "24b187994860ebfbd50f3ac17af91b63fcea5478cd141f56bda06a8cf2850b5a"
+  },
+  {
+    "path": "zrodla/bg_global/janina_exact1910_links.json",
+    "bytes": 2407,
+    "sha256": "ea3247093c21cbb0dff1bd62566fed64252a6e7e96452688b913ad5b30276ab1"
+  },
+  {
+    "path": "zrodla/bg_global/janina_exact1910_page2.txt",
+    "bytes": 3647,
+    "sha256": "b5599cbfd532c2f63d5937c1ce34fb8eb2e3092ec330a70acf794a7e297c04c8"
+  },
+  {
+    "path": "zrodla/bg_global/janina_exact1910_page2_links.json",
+    "bytes": 2305,
+    "sha256": "7f098f31b921f9f6491aec3e46dfc49c4498b4ea50e1f944bad7294e91aab6e5"
+  },
+  {
+    "path": "zrodla/bg_global/janina_page2_url.txt",
+    "bytes": 387,
+    "sha256": "e03b11f5a2f090a58937aad5f9512934078c4ad571d30fb35a465a84738bebc2"
+  },
+  {
+    "path": "zrodla/bg_global/queries.json",
+    "bytes": 1671,
+    "sha256": "ad8cf049bb8a454e7ca36ae1b404540003882fcf18774c54e3c84f77a4e02915"
+  },
+  {
+    "path": "zrodla/bg_global/witold_exact.txt",
+    "bytes": 2219,
+    "sha256": "ae1c05cb666e806d9e69f9695fd58b4f5f272896677cfd7afc733df467f3e3e5"
+  },
+  {
+    "path": "zrodla/bg_global/witold_exact_links.json",
+    "bytes": 1192,
+    "sha256": "e7f0983398a35499f71214659e80ac625f0b30f06f9b4926561b088b31ef25f7"
+  },
+  {
+    "path": "zrodla/bg_zarzew/chmielewski_1.txt",
+    "bytes": 3146,
+    "sha256": "7360c8efaead67c9abf28b3ca6e915821c6d058384aa84c56a4db04fe1c4ed9d"
+  },
+  {
+    "path": "zrodla/bg_zarzew/chmielewski_5.txt",
+    "bytes": 3146,
+    "sha256": "7360c8efaead67c9abf28b3ca6e915821c6d058384aa84c56a4db04fe1c4ed9d"
+  },
+  {
+    "path": "zrodla/bg_zarzew/pagination_downloads.json",
+    "bytes": 287,
+    "sha256": "125de21aaa2d3d1495d9f60a6fb368a56dbf72793b3db386082e477060308932"
+  },
+  {
+    "path": "zrodla/bg_zarzew/pagination_summary.json",
+    "bytes": 175,
+    "sha256": "0638bda4f170e00e4ce6b9c5d897b26223c74053f08ae7d353a08ca4300338d2"
+  },
+  {
+    "path": "zrodla/bg_zarzew/zakres.json",
+    "bytes": 875,
+    "sha256": "bbdd04e87ba758177adfb7225e029d36328541856ccdccc59f62757b33dbe01e"
+  },
+  {
+    "path": "zrodla/kwerendy_web.json",
+    "bytes": 14559,
+    "sha256": "25a617b8b46b5675d03a29d5b38d9f2044ac832fb4b16365b3e3d224bbe467d9"
+  },
+  {
+    "path": "zrodla/meldunki/1936_70_odpowiedz_html.txt",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "zrodla/meldunki/download70.json",
+    "bytes": 368,
+    "sha256": "381bcc8144a6caff70250ea325a871f0a9f36ba0fd82285771b276f58c8ca792"
+  },
+  {
+    "path": "zrodla/msw_dostep.json",
+    "bytes": 530,
+    "sha256": "a153ce7d7c9e23739717c250aa1e12b05c3bc1a5cceb957b365fb5eebb7170d9"
+  },
+  {
+    "path": "zrodla/odznaczenia/download1999.json",
+    "bytes": 267,
+    "sha256": "8847f8bed981517c8db5ed75db8d0017a741f689063c5f2fa2429928e1881c16"
+  },
+  {
+    "path": "zrodla/odznaczenia/downloads.json",
+    "bytes": 484,
+    "sha256": "0ccfa99922d47435c6467363a7f3f193cb19ec240e7c162551b6434bca485039"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1995_725.pdf",
+    "bytes": 541753,
+    "sha256": "5af9ccd73c857c18ec7b9754522a3be4c99c2bb4b0c943ffeacda65261c3b46e"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1995_725.txt",
+    "bytes": 10645,
+    "sha256": "c5fa6fca989241797582d85411f9db5d1d60760f7a3155eddacacaff57a56524"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1995_725_page2.png",
+    "bytes": 937246,
+    "sha256": "14d4cac3e6d4ac79c0edfd36804640dbeb87cf1274491f4e39938215c87048a7"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1995_726.pdf",
+    "bytes": 612358,
+    "sha256": "9d74ec241dc7bbfb82082f342c1dd16c5d037d02b58264ec9946367c01ffc079"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1995_726.txt",
+    "bytes": 11284,
+    "sha256": "42e5d28b5a7d545f3014d769537f6fedbabf4c359cda063c29eee9b684737fed"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1999_99.pdf",
+    "bytes": 1053642,
+    "sha256": "e13ec66fe80480bcb4ecd4db849acadea7eabfae1f9ea6b32ae9d2dcd7c5eab0"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1999_99.txt",
+    "bytes": 15730,
+    "sha256": "c4a757b0f8c8fb4e6894824976cf75c42d954ff34997a2eae5e32b6c3b1cd7bf"
+  },
+  {
+    "path": "zrodla/odznaczenia/mp1999_99_page1.png",
+    "bytes": 1514584,
+    "sha256": "717c66b1d5e96853c301363ad3262e0a3c933a9b564e54103218ffeabf0b81bc"
+  }
+]

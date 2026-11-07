@@ -1,0 +1,732 @@
+[
+  {
+    "path": "zrodla/MP1997_581.pdf",
+    "bytes": 1958593,
+    "sha256": "ba837784d3c344a4e71663fda2055f7c7662d5e4e3eda608302d177cf9bf9c69"
+  },
+  {
+    "path": "zrodla/MP1997_581.txt",
+    "bytes": 25515,
+    "sha256": "75ed52d5dee5fa29526b0fc013772574e3d519e824e8a11e28c0924043198e26"
+  },
+  {
+    "path": "zrodla/belzec_2022.html",
+    "bytes": 2152,
+    "sha256": "da92e6f2c568a8da0a60dc77ef233103a35fe5941988c7f1dd8fdf8ad0724771"
+  },
+  {
+    "path": "zrodla/belzec_2022.txt",
+    "bytes": 322,
+    "sha256": "19e2af11c1be1978818f65ddc6e0136f1888fb4773a28d467ca3de1d072a3be2"
+  },
+  {
+    "path": "zrodla/browser/fotolubgens.html",
+    "bytes": 559,
+    "sha256": "0da5b068244eb715181940b46c05caecbbcbf2ab8a39a026c3aff9b00828963e"
+  },
+  {
+    "path": "zrodla/browser/fotolubgens.txt",
+    "bytes": 71,
+    "sha256": "8eb960f049d1840adb0994b9cec042974dde1bc28e879dcaad0dbbfa198423c4"
+  },
+  {
+    "path": "zrodla/browser/grobonet.html",
+    "bytes": 42134,
+    "sha256": "1cdb9287ed129cddf842fd1a88ec8172d0536acc7b0463fc8833781ff6984d74"
+  },
+  {
+    "path": "zrodla/browser/grobonet.txt",
+    "bytes": 3767,
+    "sha256": "bbd6205628086a0c7d1dee6ecb1653ffbb4c8e32735b3564ca6ae7b9bc097068"
+  },
+  {
+    "path": "zrodla/browser/log.json",
+    "bytes": 1760,
+    "sha256": "18a95419289a62ee48c71833ae509252ee59395e82a1aa775ac08174fd8e79d2"
+  },
+  {
+    "path": "zrodla/browser/swa_scan110.html",
+    "bytes": 993,
+    "sha256": "fe569c41dbfe8fb0b54d734a4c093d03e416898b70916f830c36f8277a81cd85"
+  },
+  {
+    "path": "zrodla/browser/swa_scan110.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "zrodla/downloads_01.json",
+    "bytes": 712,
+    "sha256": "ae4a47a34dd0869a749fb9c01d5a75d7b87aae77af27fea4bf15cad4ae3237f4"
+  },
+  {
+    "path": "zrodla/downloads_02.json",
+    "bytes": 581,
+    "sha256": "9845690b51ff3c5defeb26c4ab1a3de16343082a8b3f73286f34fbb7639b5829"
+  },
+  {
+    "path": "zrodla/downloads_03.json",
+    "bytes": 248,
+    "sha256": "5165034454f9394e94301fba09ecb31d2baddc5ef3dd13f2bf7bba22edaac1ff"
+  },
+  {
+    "path": "zrodla/downloads_04.json",
+    "bytes": 228,
+    "sha256": "4f2d594f8b6243491962e99be349705b7d549e01654e7c3dd9e2bf206549c1d6"
+  },
+  {
+    "path": "zrodla/dzieje_susiec.pdf",
+    "bytes": 22776764,
+    "sha256": "ff00f19d5c1aee1d789c43179dc33b9bdf4a34e566dd551fdc96c57fe7807c51"
+  },
+  {
+    "path": "zrodla/dzieje_susiec.txt",
+    "bytes": 1044915,
+    "sha256": "8d2f27ed6765363dfa58b745fca81258533c4e4a9e9be4ab7202702348ae22f9"
+  },
+  {
+    "path": "zrodla/dzieje_tomaszow.pdf",
+    "bytes": 12495205,
+    "sha256": "a79bade8ff2b962b5b647749a14958d6a0210f92e63397cb5722522077a793cd"
+  },
+  {
+    "path": "zrodla/dzieje_tomaszow.txt",
+    "bytes": 808610,
+    "sha256": "a33c969a2eb9f6e78e74783e3ce1e6bd74284f8578691657e8e62181a323eacf"
+  },
+  {
+    "path": "zrodla/geneteka/01ds_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/02kp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/03lb_mandziuk_emilia.json",
+    "bytes": 928,
+    "sha256": "c5ab77dd3830f327c1a51cec8d9436feeeb6dc77bcf7079d73289a1f98cc1a1e"
+  },
+  {
+    "path": "zrodla/geneteka/04ls_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/05ld_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/06mp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/07mz_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/08op_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/09pk_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/10pl_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/11pm_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/12sl_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/13sk_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/14wm_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/15wp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/16zp_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/21uk_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/22br_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/23lt_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/25po_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/71wa_mandziuk_emilia.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/additional_queries.json",
+    "bytes": 11140,
+    "sha256": "1c30c828fe73382376456b4c94a9ac18dcb5996cd14a3624ca3ef0db3213cadd"
+  },
+  {
+    "path": "zrodla/geneteka/control1932.json",
+    "bytes": 928,
+    "sha256": "c5ab77dd3830f327c1a51cec8d9436feeeb6dc77bcf7079d73289a1f98cc1a1e"
+  },
+  {
+    "path": "zrodla/geneteka/emilja_control.json",
+    "bytes": 928,
+    "sha256": "c5ab77dd3830f327c1a51cec8d9436feeeb6dc77bcf7079d73289a1f98cc1a1e"
+  },
+  {
+    "path": "zrodla/geneteka/lublin_chmielewski_1920_1926.json",
+    "bytes": 27163,
+    "sha256": "69438f46b9bbe559f89577f8aa59272320d015c909cfc122e8f7b066f66b0309"
+  },
+  {
+    "path": "zrodla/geneteka/lublin_mandziuk_all.json",
+    "bytes": 43881,
+    "sha256": "09e6ee2c86dd5d63f536f192579c6ec3218142506032d03efde26ceb052a8c9a"
+  },
+  {
+    "path": "zrodla/geneteka/lublin_mandziuk_all_page2.json",
+    "bytes": 14042,
+    "sha256": "bd130b58add5684deb02baa2d6c8e0f0b83331278bc7a270b81d80f56ed0db9b"
+  },
+  {
+    "path": "zrodla/geneteka/lublin_mandziuk_births.json",
+    "bytes": 71,
+    "sha256": "0ea550e57444df16a85c369cf014d0e4e2423942ff765bdb35ea008421760382"
+  },
+  {
+    "path": "zrodla/geneteka/page2_query.json",
+    "bytes": 5385,
+    "sha256": "47ca64b056fddf1cfe544a349cc87c8665a3603020acf86991177ab1dd0e177f"
+  },
+  {
+    "path": "zrodla/geneteka/queries.json",
+    "bytes": 133876,
+    "sha256": "b818e254874093daf5df890847d0048edb69cb9adb5506a739be31a154ba4495"
+  },
+  {
+    "path": "zrodla/geneteka/rows.json",
+    "bytes": 30526,
+    "sha256": "f518aeeed662c740954e6aa6fc0be1b99a846a722d28da1dd426ffff48748b77"
+  },
+  {
+    "path": "zrodla/glos1950_4.pdf",
+    "bytes": 7025500,
+    "sha256": "e04dfb7997d40d8089c7b4642527f47c93214dbe9cbd1eddbf3d666ce8b830f3"
+  },
+  {
+    "path": "zrodla/glos1950_4.txt",
+    "bytes": 183078,
+    "sha256": "fb293fdcabfb0235a8fb32230514d3bbc12fe950fd0d8e50651e714a4afcdcc1"
+  },
+  {
+    "path": "zrodla/grobonet/control_dylkiewicz.html",
+    "bytes": 46094,
+    "sha256": "5171b37aee9eeb8e4bc19fde1403031110a26265b1c0dfafed46d7064cb15610"
+  },
+  {
+    "path": "zrodla/grobonet/control_dylkiewicz.txt",
+    "bytes": 1405,
+    "sha256": "b6b36bf218bea042f9ab48a3715f9bbdb709563f6f03515f40e2f8ad1c26c60d"
+  },
+  {
+    "path": "zrodla/grobonet/control_mandziuk.html",
+    "bytes": 30151,
+    "sha256": "a16141ec60dbc1983a398cbe6d793cfe79c57a3f1105e9a29f0b86edb38d0e51"
+  },
+  {
+    "path": "zrodla/grobonet/control_mandziuk.txt",
+    "bytes": 1465,
+    "sha256": "72f498703bb043fc2b39fd2b779cf3990289a798e603c303eb42303a0caf9907"
+  },
+  {
+    "path": "zrodla/grobonet/controls.json",
+    "bytes": 921,
+    "sha256": "e66a9381afe1f9c893ee53d34260c728c5310149f06751e4640286e4cacc199c"
+  },
+  {
+    "path": "zrodla/grobonet/czeslawa_lodz.html",
+    "bytes": 30447,
+    "sha256": "90c14c7ef9dafb065eb461c82b43f3aeb779148f34d8fc97bbbdf72fec035d5b"
+  },
+  {
+    "path": "zrodla/grobonet/czeslawa_lodz.txt",
+    "bytes": 1382,
+    "sha256": "28daadc411bc8f9b3f92fb6960114445981c497d0a5561449489fe696149a461"
+  },
+  {
+    "path": "zrodla/grobonet/emilia.html",
+    "bytes": 25654,
+    "sha256": "7407f12fcc85843313837eaa073dd2f6820f7c52b55111042de0f2aacebec54f"
+  },
+  {
+    "path": "zrodla/grobonet/emilia.txt",
+    "bytes": 1391,
+    "sha256": "e7e2b0ca1b639819dee64322a8c3b277e9b9e04de5032c7d28bdc2a971380a02"
+  },
+  {
+    "path": "zrodla/grobonet/jozef1897.html",
+    "bytes": 25781,
+    "sha256": "79ea0910cabcd2313a47058739782daab98997371572d6946a56fc629b00f47b"
+  },
+  {
+    "path": "zrodla/grobonet/jozef1897.txt",
+    "bytes": 1459,
+    "sha256": "67ad30995d5f5769d19ad4ceb1d668632c87a2bd39455ab6996ed1b808bf7127"
+  },
+  {
+    "path": "zrodla/grobonet/julianna1907.html",
+    "bytes": 29945,
+    "sha256": "90b760219dcdd124b0e740f23f1ce252081699170a9153741be8988e7486f406"
+  },
+  {
+    "path": "zrodla/grobonet/julianna1907.txt",
+    "bytes": 1459,
+    "sha256": "a4d9167088328ea81e24234c8c5cdcc8cbaad3ce591ab2f4a4239054edee4d0f"
+  },
+  {
+    "path": "zrodla/grobonet/queries.json",
+    "bytes": 2257,
+    "sha256": "2e17a5623e28d02782015bec33a56008edfb456ef903c772262fa1f094a849bd"
+  },
+  {
+    "path": "zrodla/grobonet/sabina1917.html",
+    "bytes": 29972,
+    "sha256": "78466352ceb57b5a1462b68d10749f1eef5941404097e0690643efb7e16f22b0"
+  },
+  {
+    "path": "zrodla/grobonet/sabina1917.txt",
+    "bytes": 1459,
+    "sha256": "1457f65f5c3b52d11634330ba160decbc1c35338fcd727cb1ff6230d13d84fe2"
+  },
+  {
+    "path": "zrodla/household/Tomaszow_mieszkancy.html",
+    "bytes": 134221,
+    "sha256": "deacfdbdb4894d3ebb55373dfd8930c7199318bd60fa8183f8273f1c8342298f"
+  },
+  {
+    "path": "zrodla/household/Tomaszow_mieszkancy_api.json",
+    "bytes": 15169,
+    "sha256": "3103dab7eb0b5834d5f55cfc33f3a00b9fd6681927ce0f5c1a2d0ea58e7bb274"
+  },
+  {
+    "path": "zrodla/household/log.json",
+    "bytes": 338,
+    "sha256": "a5971eae2c0105ee8a4951dfb6bc6d0d07b7e770097d28c55bbfd63a0f509801"
+  },
+  {
+    "path": "zrodla/kwerendy_01.json",
+    "bytes": 154929,
+    "sha256": "f7844526fded0e151fd2160b22e28b0f44ad4c4ca7f977368caa7829ce10b879"
+  },
+  {
+    "path": "zrodla/kwerendy_02.json",
+    "bytes": 78287,
+    "sha256": "eddf40536338837550d98e2963d2343ab0588412da4c9aa20d270ad846804637"
+  },
+  {
+    "path": "zrodla/kwerendy_03.json",
+    "bytes": 20595,
+    "sha256": "2fac62e1a76c9162a1fe256cbb7d7539b4fef9d05ae6fc2e27e505d4ad78e81f"
+  },
+  {
+    "path": "zrodla/kwerendy_04.json",
+    "bytes": 685,
+    "sha256": "7e7d56a8c327f971ca21d119820c07ac45d3987887f17c2d03736b6de7a7e7f6"
+  },
+  {
+    "path": "zrodla/kwerendy_05.json",
+    "bytes": 17120,
+    "sha256": "165c2592ffb999a00e88c02f3fb4da4feb559a70ff09562fb4b150b8b65583a2"
+  },
+  {
+    "path": "zrodla/meldunkowe.html",
+    "bytes": 31003,
+    "sha256": "458fb90816ad6034905d31b16fc4b3ec5d4bba7dae6f2108a5ec9a12249f6d9e"
+  },
+  {
+    "path": "zrodla/meldunkowe_opis.json",
+    "bytes": 226,
+    "sha256": "c05ccfa225d173b372fe869f1b4f42b75dbfde46befd3172204a9ca68c0ea56a"
+  },
+  {
+    "path": "zrodla/myheritage_browser.html",
+    "bytes": 880,
+    "sha256": "6c2a3cd7b2056920aacf340af112fa8c01e622f4261cd72a72b7693670081c4a"
+  },
+  {
+    "path": "zrodla/myheritage_browser.json",
+    "bytes": 148,
+    "sha256": "f23c95977993a6227a797b31581f720e3ca0d59fe2434112d3a6b7fd57844b47"
+  },
+  {
+    "path": "zrodla/myheritage_browser.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "zrodla/myheritage_emilia.html",
+    "bytes": 847,
+    "sha256": "081e89414a8737c53cb392074ea67eb0352d61fc9e84662f87ce27c5e6e59fa7"
+  },
+  {
+    "path": "zrodla/myheritage_emilia.txt",
+    "bytes": 81,
+    "sha256": "a1e874f71128551d0523e4d37abf33c7d0ef6079998684b558e39967911de6ab"
+  },
+  {
+    "path": "zrodla/myheritage_pl.html",
+    "bytes": 848,
+    "sha256": "7f86660b819bb985df65b4d66fa30de6befbd3e751e02db7b4f5d9f9d28e21a4"
+  },
+  {
+    "path": "zrodla/myheritage_pl.txt",
+    "bytes": 82,
+    "sha256": "855a9479fbbcab1fed5984f17680e7c97cbdb3d31c82504887867b11ecf2af4b"
+  },
+  {
+    "path": "zrodla/odczyt_S153_Q81.md",
+    "bytes": 558,
+    "sha256": "490f024f0f18b4843bd15ade4c42fcf8919e03e5835c5615b895296b93bf7faa"
+  },
+  {
+    "path": "zrodla/swa1908/Tomaszow1908.html",
+    "bytes": 135313,
+    "sha256": "0abfe0a9151d5d9afdc35762bfda81c270cf52af0ceb556207eac21e37b47a86"
+  },
+  {
+    "path": "zrodla/swa1908/Tomaszow1908_api.json",
+    "bytes": 73240,
+    "sha256": "2cb364f2bf3010dc4954e2dceda5add546781a9d0f37467fc468b9f4e99f026a"
+  },
+  {
+    "path": "zrodla/swa1908/image_downloads.json",
+    "bytes": 755,
+    "sha256": "0da9a32c742b930181dc6da210c2b99cea601b226e14074e301931a62176972b"
+  },
+  {
+    "path": "zrodla/swa1908/log.json",
+    "bytes": 332,
+    "sha256": "6b7823e51fef3061c88d60ca0975fe6dd5a2a3428d5cd6292b85765b07aaa942"
+  },
+  {
+    "path": "zrodla/swa1908/scan110_odpowiedz_html.txt",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "zrodla/swa1908/scan130_odpowiedz_html.txt",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "zrodla/swa1908/scan90_odpowiedz_html.txt",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d"
+  },
+  {
+    "path": "zrodla/tczew/card_40032.html",
+    "bytes": 36466,
+    "sha256": "b768b1d5e19cdb5ab664cde15a885df378b2d0e3b4b56e57d6ccc5b643950a8f"
+  },
+  {
+    "path": "zrodla/tczew/card_40032.txt",
+    "bytes": 969,
+    "sha256": "820d476ce7da75e6525a1c753a26fed298158b8ba26e21b0ece7b5c00b35c6fd"
+  },
+  {
+    "path": "zrodla/tczew/card_40032_photo1.jpg",
+    "bytes": 249702,
+    "sha256": "cd84c7fed20aa9b0b8e556f2524de9d792871ccfcad85f3c0bb3718a7deab141"
+  },
+  {
+    "path": "zrodla/tczew/card_40032_photo2.jpg",
+    "bytes": 239948,
+    "sha256": "50e9b572f64f69f46ac278945f8c2824c97e2bd0af00d502e32f3ce252f233ed"
+  },
+  {
+    "path": "zrodla/tczew/card_40862.html",
+    "bytes": 36464,
+    "sha256": "3738005ee3176af664b716cfcb06e076d0011d1610fd65e8050751f4b338d78b"
+  },
+  {
+    "path": "zrodla/tczew/card_40862.txt",
+    "bytes": 946,
+    "sha256": "0a5850276abf5feeaddc5f812b76fdf8e03f55864b1c346d088ce1e6fa0754f1"
+  },
+  {
+    "path": "zrodla/tczew/card_40862_photo1.jpg",
+    "bytes": 78590,
+    "sha256": "acb20486c4308b241d3c7bf291c2d768575c28692790cabb474c80c50f27702e"
+  },
+  {
+    "path": "zrodla/tczew/card_40862_photo2.jpg",
+    "bytes": 95958,
+    "sha256": "2989a7bda704b2d1c04dc7f1fd0df439240217d2016b2ac986afe14088ed78d0"
+  },
+  {
+    "path": "zrodla/tczew/card_41542.html",
+    "bytes": 36413,
+    "sha256": "4702de9635859e028cf0df7007fad81f792d114dd0fbfe9f3bd1ecf8c805673d"
+  },
+  {
+    "path": "zrodla/tczew/card_41542.txt",
+    "bytes": 951,
+    "sha256": "84902950d1ae8e1f949f1913730e4789a6a476a7e6bdbfeed8c0a5939eee8131"
+  },
+  {
+    "path": "zrodla/tczew/card_41542_photo1.jpg",
+    "bytes": 85408,
+    "sha256": "4ef92f9019662950cde82f5c46ae386eef524de4b07de8ddb80d70e99032176b"
+  },
+  {
+    "path": "zrodla/tczew/card_41542_photo2.jpg",
+    "bytes": 88509,
+    "sha256": "7ff0b72a608b1c1ed1a67cd049008826267c8cbfd1fc61c0627e6ccf3a69569e"
+  },
+  {
+    "path": "zrodla/tczew/card_42017.html",
+    "bytes": 36440,
+    "sha256": "2d95ab27dd14ae25fa3dea76f73a767640fcaa7e3f0e9386e9fec5af519b8239"
+  },
+  {
+    "path": "zrodla/tczew/card_42017.txt",
+    "bytes": 946,
+    "sha256": "bd1aa02d9be77f92aac60bc4d4922d00408372bd045ccacf338341791dbda7ec"
+  },
+  {
+    "path": "zrodla/tczew/card_42017_photo1.jpg",
+    "bytes": 266054,
+    "sha256": "4ff61d121033a00ef5557558c93dafa367179e24373199db37897c7a570bca33"
+  },
+  {
+    "path": "zrodla/tczew/card_42017_photo2.jpg",
+    "bytes": 259552,
+    "sha256": "8b2389eb0d956894b19f0a7794f17f23dc2ba5e901ab45927493a6d9749775e9"
+  },
+  {
+    "path": "zrodla/tczew/cards_log.json",
+    "bytes": 1130,
+    "sha256": "b575a26895ccc40f1dd2ef3885797f98300c7df6e93ce7e72d3203daf00267ab"
+  },
+  {
+    "path": "zrodla/tczew/forms_log.json",
+    "bytes": 488,
+    "sha256": "fb33470060c6be7ae9c58de4b241b41844bc16d6e07c8a889361be4336dd16e9"
+  },
+  {
+    "path": "zrodla/tczew/komunalny.html",
+    "bytes": 36138,
+    "sha256": "ab20ee9757b3f1741a5ae5e70d03d76791f8fd13b0f9bba6776c34e4e688a239"
+  },
+  {
+    "path": "zrodla/tczew/komunalny.txt",
+    "bytes": 907,
+    "sha256": "e3519862bb7db74c7c8d777db11273a1e6d9c7865e3502f32802c0d77de85576"
+  },
+  {
+    "path": "zrodla/tczew/luczak.html",
+    "bytes": 40438,
+    "sha256": "ae4628c10159e4338fba8597dc9acba7b573daaa0b3b4e95256fa54f6f7cb179"
+  },
+  {
+    "path": "zrodla/tczew/luczak.txt",
+    "bytes": 1313,
+    "sha256": "5ffb99166be1cc6e554a25bbd973909b4a8eba354e391d7150603a4113d2829c"
+  },
+  {
+    "path": "zrodla/tczew/name_queries.json",
+    "bytes": 1797,
+    "sha256": "33747b69f70c4c47857315f846734be226f9b46bd9fbf20b6444fdb46083bfe1"
+  },
+  {
+    "path": "zrodla/tczew/pagination_queries.json",
+    "bytes": 1771,
+    "sha256": "0d5f2618f4c851d93f8bec89833ed5a8fa471830a3ca0d4e78b10a48a82bbca3"
+  },
+  {
+    "path": "zrodla/tczew/parafia.html",
+    "bytes": 37952,
+    "sha256": "6dc5d438df7d768c4a2f56edbe0386a148112cc14bc7f7d73616aa12da45bee6"
+  },
+  {
+    "path": "zrodla/tczew/parafia.txt",
+    "bytes": 1395,
+    "sha256": "d9d334a7598e13b4c44112cd2a5e7e5ae25a8391531e1815901548234e6e7a9c"
+  },
+  {
+    "path": "zrodla/tczew/photo_downloads.json",
+    "bytes": 2662,
+    "sha256": "7a7d2b62907b2121bd236c44abf8673e5885be1ed790534015977618ee33e211"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia.html",
+    "bytes": 43081,
+    "sha256": "f716f30fd36d0edd5280e1bc3e3f36e4afeaca34fd5299468cff607e6f41e40e"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia.txt",
+    "bytes": 2312,
+    "sha256": "3758fc627e45626dfce858705b0bbb919d2523504650d444d8beb00de2d42ba0"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia_page2.html",
+    "bytes": 43146,
+    "sha256": "619c12f6c8352e1cebef16ded4afaac6a83e21e830b582a158ccb2f80019b654"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia_page2.txt",
+    "bytes": 2291,
+    "sha256": "c85d37b8c82c214be1fac0f6e576448ae4011df85300a383e7fbc4790f6e0e81"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia_page3.html",
+    "bytes": 43045,
+    "sha256": "876b8bcfed17df65b432edf9395dc47a3a46cbe3ca5575d826d8aee46bf4f56c"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia_page3.txt",
+    "bytes": 2273,
+    "sha256": "5aeac5f2b535d9a4cdcac16aa322e9f48b4e1996400b940c28d51b850f9d0b4d"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia_page4.html",
+    "bytes": 32204,
+    "sha256": "5b03d865e61e05707b82b738d75a98da63ab1159defde7d2fb231739f0ed59f8"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julia_page4.txt",
+    "bytes": 862,
+    "sha256": "1a30b43ff1e37e46dfa83b0334bebd8b02c547467d454d0776790e81358a94da"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julianna.html",
+    "bytes": 42712,
+    "sha256": "367bc7c05e36ff8c7ee9238ae0115433f451e42071e731dbf42143d2f343c6fe"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julianna.txt",
+    "bytes": 2269,
+    "sha256": "b95b91d8e005f5b5ff81567dcf0947bd9972ae6d97c04d4eb7b5e725894cf2d1"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julianna_page2.html",
+    "bytes": 36825,
+    "sha256": "4d21c8bfed2e5f2713ce0b4ec529cbaad02ded62cdac2f4f05e30b90d4c8eb3d"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Julianna_page2.txt",
+    "bytes": 1495,
+    "sha256": "7b506d888f955000eeb9907ba7086b72e343f5b3150564d439ad2d525f116492"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Sabina.html",
+    "bytes": 37437,
+    "sha256": "474ca00dd0bca4bd12ee96ceee8bb67f38146c3b7a2cf43ea9e8be9acb7ed599"
+  },
+  {
+    "path": "zrodla/tczew/swjozeftczew_Sabina.txt",
+    "bytes": 1629,
+    "sha256": "57a690c7d1bc36ebe0c8bb10fa478b62fa5cc711653a29be525b1b3535a35e1f"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Julia.html",
+    "bytes": 48429,
+    "sha256": "8496a7f6864bc24c609f19ffc02abe6ad43e9e4ab07f8e0881bfb25fa6ece3a1"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Julia.txt",
+    "bytes": 2087,
+    "sha256": "587b43d47485728e92d2304bdcd17bd3dc40bd4f86609901b4721fcc9311da8e"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Julia_page2.html",
+    "bytes": 44556,
+    "sha256": "4f500f66485fad03a73922bb96ab8a86e76a65bfce4ed4385d1a3447a250a3ef"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Julia_page2.txt",
+    "bytes": 1617,
+    "sha256": "c1ad2400cb7239b07d3e1abc7079f365623e3754af54e250c231ae5bfce41714"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Julianna.html",
+    "bytes": 44158,
+    "sha256": "24ccd39872adb1dc885b30ba82ee67293360b1e6f01444a7614c4f5b091024e8"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Julianna.txt",
+    "bytes": 1627,
+    "sha256": "c6b872a44e5094ac9bcc90dd71f1866accd645fbed01dee0d10e6681fc7e3076"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Sabina.html",
+    "bytes": 48551,
+    "sha256": "a03851c644c259e287e0cf319f42775c7278d929466175ea7f83c978ab574eca"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Sabina.txt",
+    "bytes": 2127,
+    "sha256": "df20e7ec526954ca85f438d546f83b8fdea6bfee59c90c7a5adbf19cf16e64ce"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Sabina_page2.html",
+    "bytes": 38801,
+    "sha256": "cca05f2c678df269f5715a11f9a7b8d38b602682bb6cc9ac876abce36319e68e"
+  },
+  {
+    "path": "zrodla/tczew/tczew_Sabina_page2.txt",
+    "bytes": 975,
+    "sha256": "e54f1f16c1a9e92728aa7fc7a03414f129cadcae92a1304101b4f5538f9724d3"
+  },
+  {
+    "path": "zrodla/tomaszow_birth192.html",
+    "bytes": 445202,
+    "sha256": "416291c56c96ae3b56f0a13fd4f9ed8bb862cd91c70741c205298c63f814bf68"
+  },
+  {
+    "path": "zrodla/tomaszow_birth192_query.json",
+    "bytes": 266,
+    "sha256": "93fa0bb30cc0d87ec4ed523041fdc435120d58b8430f60269c192021cf04106a"
+  }
+]

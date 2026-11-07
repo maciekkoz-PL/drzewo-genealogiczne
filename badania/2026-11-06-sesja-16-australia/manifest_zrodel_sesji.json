@@ -1,0 +1,332 @@
+[
+  {
+    "path": "zrodla/arolsen/anna1929_BuildQueryGlobalForAngular.json",
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "zrodla/arolsen/anna1929_GetCount.json",
+    "bytes": 9,
+    "sha256": "fb74d2b65a8a1a3c8e33d270599f1ab7ad2b47dea78613a30fc23177dd142030"
+  },
+  {
+    "path": "zrodla/arolsen/anna1929_GetPersonList.json",
+    "bytes": 674,
+    "sha256": "75d949a8a7a858abd49d81469c0297441aaa11be68f8a41d42a1331294507a73"
+  },
+  {
+    "path": "zrodla/arolsen/downloads.json",
+    "bytes": 6259,
+    "sha256": "58930144b5eaae9770650e56bb9094564b29f8df66da162c1c8b7c8a4e953b3e"
+  },
+  {
+    "path": "zrodla/arolsen/ernest1947_BuildQueryGlobalForAngular.json",
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "zrodla/arolsen/ernest1947_GetCount.json",
+    "bytes": 9,
+    "sha256": "fb74d2b65a8a1a3c8e33d270599f1ab7ad2b47dea78613a30fc23177dd142030"
+  },
+  {
+    "path": "zrodla/arolsen/ernest1947_GetPersonList.json",
+    "bytes": 676,
+    "sha256": "57732c851928b5239ebfa29b239981ffe7ada058f52d80fb200d2bbbc3389d73"
+  },
+  {
+    "path": "zrodla/arolsen/roman1946_BuildQueryGlobalForAngular.json",
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "zrodla/arolsen/roman1946_GetCount.json",
+    "bytes": 9,
+    "sha256": "0d3a4aef361037a138eca7f613ea382680de64e089a716c5f28f6f2605835166"
+  },
+  {
+    "path": "zrodla/arolsen/roman1946_GetPersonList.json",
+    "bytes": 1980,
+    "sha256": "4fda580df59b82d6dd4ee9cafd23e26ad4f7c43edb2dfb31298641e628647e52"
+  },
+  {
+    "path": "zrodla/arolsen/surname1919_BuildQueryGlobalForAngular.json",
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "zrodla/arolsen/surname1919_GetCount.json",
+    "bytes": 11,
+    "sha256": "eaaeed13bc0ff7247f19b0bf7abc0766b5685fce97a9871f326b9ac722472bc1"
+  },
+  {
+    "path": "zrodla/arolsen/surname1919_GetPersonList.json",
+    "bytes": 94060,
+    "sha256": "2ed3d948031d15f1c1c499b349551b3cb9daec40f075d24a4f0ee451a1f17222"
+  },
+  {
+    "path": "zrodla/arolsen.py",
+    "bytes": 2080,
+    "sha256": "ce25d950f580a8894cdffa4fb59c1f0cbdb20e276163b8782c769e813b6feae9"
+  },
+  {
+    "path": "zrodla/austcem.html",
+    "bytes": 10077,
+    "sha256": "2fd630c843504ed590d3fc12585341f246d918dd56bfdd28c4da095998326779"
+  },
+  {
+    "path": "zrodla/austcem.txt",
+    "bytes": 2533,
+    "sha256": "af651d4043dcd445e111b045944f7acb14af3209e01ffd4c8e47ff0d325cfa6a"
+  },
+  {
+    "path": "zrodla/austcem_query.json",
+    "bytes": 242,
+    "sha256": "4873652915a992564df33bc69ad08cf4369f45c9610ef0644b9a0c0abfaf990f"
+  },
+  {
+    "path": "zrodla/austcem_results.html",
+    "bytes": 14604,
+    "sha256": "3e4857d4b91e1eb716868ef06130b780aae178a6daca25a4dfeac2becdb1b360"
+  },
+  {
+    "path": "zrodla/austcem_results.txt",
+    "bytes": 3191,
+    "sha256": "9f091f5db0fc0a9381b23754d095114ce7d63ae70d5b41b3879a54cf52c83acc"
+  },
+  {
+    "path": "zrodla/bdm_browser.html",
+    "bytes": 181018,
+    "sha256": "d75532e90b296af4e0c182ca80da26646bd506b74c9d039209ba56929c22a555"
+  },
+  {
+    "path": "zrodla/bdm_browser.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "zrodla/bdm_network.json",
+    "bytes": 4666,
+    "sha256": "140cbb9241326dbf9fc52ca783eee349d887ce9fb4d54e93adc27039e70f677e"
+  },
+  {
+    "path": "zrodla/browser.py",
+    "bytes": 1697,
+    "sha256": "a7ce069ec506d09dcf8e853265697cfc11d395c57a32e1daaf6ea9c317be8bec"
+  },
+  {
+    "path": "zrodla/company1983.pdf",
+    "bytes": 40975372,
+    "sha256": "aea117b41107e0f6444308b96655b82c4a35efa4a02e2eef344a16b23e792ba4"
+  },
+  {
+    "path": "zrodla/company1983.txt",
+    "bytes": 882513,
+    "sha256": "52c3306360c3b6828a6453d2fdf6790d63ebc77e4c658808ee9bce0e4810b7d2"
+  },
+  {
+    "path": "zrodla/company1983_ernie.png",
+    "bytes": 587739,
+    "sha256": "38599ecf86f89407b54ed433a6dc9d319a1831f5117fcf46eefa445b19b030c3"
+  },
+  {
+    "path": "zrodla/downloads_01.json",
+    "bytes": 880,
+    "sha256": "0a1c08695867e6f4224c91f0e680ac22eb199b5b08c11786372b061105788b07"
+  },
+  {
+    "path": "zrodla/downloads_02.json",
+    "bytes": 816,
+    "sha256": "1f31036b89131a365c62e65656ca870434e3a05c25c405957e85f936a6fa9e61"
+  },
+  {
+    "path": "zrodla/downloads_03.json",
+    "bytes": 732,
+    "sha256": "f005c79ef75152ea3631a43f6db95d44841b791b9320ec766b54a9d187475ec9"
+  },
+  {
+    "path": "zrodla/ernest_6259122.txt",
+    "bytes": 27703,
+    "sha256": "174df5498c7ca8f846856247bcd4370e048e3ab337e705996303f26ff8ff5bed"
+  },
+  {
+    "path": "zrodla/gct.html",
+    "bytes": 231914,
+    "sha256": "91ce7108b0ce0c5fc975345ec232c5acb051434c4d4f98d3e617ad774a8cccad"
+  },
+  {
+    "path": "zrodla/gct_browser.py",
+    "bytes": 1327,
+    "sha256": "06f95cbfeecea6c3ebbba5137136b264afdba9d533f14edff17a067bd80d3d2a"
+  },
+  {
+    "path": "zrodla/gct_details.html",
+    "bytes": 262734,
+    "sha256": "02b642989174c2e3bb135635808bdc380a7c10addf0c81ca4756a256daa39c6d"
+  },
+  {
+    "path": "zrodla/gct_details.py",
+    "bytes": 1548,
+    "sha256": "61d91b538e694e26433ba4ccefe30ed297a6f7972740ee6f6614c7ee021ee8b1"
+  },
+  {
+    "path": "zrodla/gct_details_network.json",
+    "bytes": 10653,
+    "sha256": "b5412e581d69ccabac58b7c2640c6ac092baf79f4f01ca9af256386eb761bdb4"
+  },
+  {
+    "path": "zrodla/gct_network.json",
+    "bytes": 10653,
+    "sha256": "811535cf8b223410aac3b4462a0d4c05615c8591d968003a97dee6abb76b9617"
+  },
+  {
+    "path": "zrodla/gct_public_map.html",
+    "bytes": 16862,
+    "sha256": "4243a9b12ff97ef52e307c3ea960b94dea9d45bab93f72fc62a36a2c03cd7416"
+  },
+  {
+    "path": "zrodla/gct_public_map.json",
+    "bytes": 383,
+    "sha256": "72a8b6800e7be1455942f8c4bac90b78dce3816317d301cf381be42703babe52"
+  },
+  {
+    "path": "zrodla/gct_public_map.txt",
+    "bytes": 6088,
+    "sha256": "c7921dc7754d35ec27aeb7c6cbd11a7535025c3a1c8a281b3c746ae29e67ab15"
+  },
+  {
+    "path": "zrodla/gct_response_54.bin",
+    "bytes": 127,
+    "sha256": "bde9c2949e64d059c18d8f93566a64dafc6d2e8e259a70322fb804831dfd0b5b"
+  },
+  {
+    "path": "zrodla/gct_response_58.bin",
+    "bytes": 2366,
+    "sha256": "060b4a401d8ca0257c28ee4e74cb843c7729ba9f11259a7da66371dd46185352"
+  },
+  {
+    "path": "zrodla/gct_results.html",
+    "bytes": 261462,
+    "sha256": "49f67857170975dd7fa7e11ffef3c694df04af15fc83743350d049d00c802d86"
+  },
+  {
+    "path": "zrodla/gct_results.txt",
+    "bytes": 2664,
+    "sha256": "7ad230ec1961e8406a8bac61bafd1fa576d509b2ba7ca048135757f4025534e0"
+  },
+  {
+    "path": "zrodla/hosting12fe365.html",
+    "bytes": 138046,
+    "sha256": "533c386fd9701be022f603fcf379c6dac7c470338e0ec3c6b04db27201c94400"
+  },
+  {
+    "path": "zrodla/hosting20.html",
+    "bytes": 137456,
+    "sha256": "1700d669e56f391ca8e8e2973e4519a06b10844bb786a1f95732328cc7ba44a4"
+  },
+  {
+    "path": "zrodla/hosting20_import.json",
+    "bytes": 660,
+    "sha256": "2e12a6882ffce650bc782675c48e530d9ee92ae300aaaa49da141723b3abd9b7"
+  },
+  {
+    "path": "zrodla/hosting_son_import.json",
+    "bytes": 439,
+    "sha256": "a1c85e5ce32da67862e6edf628ac299df60a0596751ddf2b7d8208536ed3ee51"
+  },
+  {
+    "path": "zrodla/kwerendy_i_odczyty_01.json",
+    "bytes": 172369,
+    "sha256": "d23d590ba2b3a4ea6fac4c4dd65a8788371c8f27505a7fd9a6a667d27ca632fa"
+  },
+  {
+    "path": "zrodla/kwerendy_i_odczyty_02.json",
+    "bytes": 261004,
+    "sha256": "cf94bbd138328309cef53522b7de5afeb7bc7c637a6f0c12c26dcbe56cf3f6ca"
+  },
+  {
+    "path": "zrodla/kwerendy_i_odczyty_03.json",
+    "bytes": 158247,
+    "sha256": "b2a4c8d18c962915c25a6a3a325e12b9d62a9226bcf637aa62d0ec1027fe49a3"
+  },
+  {
+    "path": "zrodla/kwerendy_i_odczyty_04.json",
+    "bytes": 27491,
+    "sha256": "69cd4c02c9f387e8a152a0395b5b315bd29200c7606920cc2a8690a82f0c37f2"
+  },
+  {
+    "path": "zrodla/parametry_kwerend.json",
+    "bytes": 3938,
+    "sha256": "ad079b6b39eca2c8392146b42193ef5323c1a0fde19fd060728e2a197d95452c"
+  },
+  {
+    "path": "zrodla/ray_5588385.md",
+    "bytes": 21621,
+    "sha256": "fd49a87dcce6dd726d7b9aa5d6fa4a854c716789d2e9e259087d9e205e843ff7"
+  },
+  {
+    "path": "zrodla/ray_5589271.md",
+    "bytes": 22730,
+    "sha256": "8588b94c6c4323ea905555dd0d745747597db01920df9f2a50154d3cea1d36b7"
+  },
+  {
+    "path": "zrodla/ray_5589602.md",
+    "bytes": 21817,
+    "sha256": "d9c7496cb002450822ae2fef5071f491a96d3a597d87be556a9191851354bf16"
+  },
+  {
+    "path": "zrodla/tuckers_browser.html",
+    "bytes": 336509,
+    "sha256": "7aa76f0c499fae03b1b317870a4c58385d7a13017b2e25824c8a8ad6e017343e"
+  },
+  {
+    "path": "zrodla/tuckers_browser.txt",
+    "bytes": 1577,
+    "sha256": "453dab742e1b7ca3de35418c8bc3baec3ce70284b143abbed23d955a45d41b05"
+  },
+  {
+    "path": "zrodla/tuckers_cdx.json",
+    "bytes": 223,
+    "sha256": "bc812701783525429757b4862c8b9d14c605fee96edf21d99984baa02b5d9b5a"
+  },
+  {
+    "path": "zrodla/tuckers_name_query.html",
+    "bytes": 128,
+    "sha256": "6a9ca467a8fdd83c188d32fc6ae3f1ad5b9a2e185922f791e6a8a8a4241fb16f"
+  },
+  {
+    "path": "zrodla/tuckers_network.json",
+    "bytes": 14692,
+    "sha256": "2119ba0c69924a22ade95da823788c58516261602ae1e44efefe27230b0460fe"
+  },
+  {
+    "path": "zrodla/tuckers_past.html",
+    "bytes": 282626,
+    "sha256": "cc0f17844188774cabd4ecd4caa3872aa3499ce6dd9cae9e0e0f9e94a706b23f"
+  },
+  {
+    "path": "zrodla/tuckers_results.html",
+    "bytes": 398022,
+    "sha256": "1931b9aa2c7f57d5c3d5b0dc1f98ee584d94cfdf1d34f2118dea6df78b7122e6"
+  },
+  {
+    "path": "zrodla/tuckers_results.txt",
+    "bytes": 2762,
+    "sha256": "e32349c8b6284228fe8f118f586c6b214dd852939c29e9c2a893ce361e06f6c4"
+  },
+  {
+    "path": "zrodla/tuckers_search_js.json",
+    "bytes": 247,
+    "sha256": "487f1e00013094515ae3fc080c384e9e30e1a439a5e4b2297296abba29541a0d"
+  },
+  {
+    "path": "zrodla/tuckers_search_js.txt",
+    "bytes": 491,
+    "sha256": "b4173c06d84d6557ab602d784354ceb3c0731240c9472180dbefcbbd2a66873a"
+  },
+  {
+    "path": "zrodla/tuckers_tributes.js",
+    "bytes": 157150,
+    "sha256": "47f8003abc8659a880eeed65af6c63a9764018da7ea69a5b817d26495f00f3ff"
+  }
+]

@@ -1,0 +1,262 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-06T17:48:47.756521+00:00",
+  "baseline_commit": "4b4141e5ee76d2c8488b32cba581c6913ded5524",
+  "sheets": 23,
+  "counts": {
+    "ZRODLA_I_SKANY": 204,
+    "KANDYDACI_I_HOMONIMY": 96,
+    "DZIENNIK_KWEREND": 176,
+    "PLIKI_DOWODOWE": 150,
+    "RELACJE_ZRODLOWE": 16
+  },
+  "people": 71,
+  "edges": 96,
+  "news": 9,
+  "old_rows_preserved_except_listed_cells": [
+    [
+      "RDZEN_RODZINY",
+      12,
+      10
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      72,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      72,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      73,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      73,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      74,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      74,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      75,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      75,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      78,
+      2
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      78,
+      3
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      78,
+      6
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      78,
+      7
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      78,
+      8
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      78,
+      9
+    ],
+    [
+      "KANDYDACI_I_HOMONIMY",
+      78,
+      10
+    ],
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      26,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      26,
+      4
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      27,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      27,
+      4
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      27,
+      5
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      30,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      30,
+      4
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      30,
+      5
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      10,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      10,
+      9
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      98,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      98,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      98,
+      9
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      99,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      99,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      99,
+      9
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      100,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      100,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      100,
+      9
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      101,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      101,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      101,
+      9
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      104,
+      2
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      104,
+      3
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      104,
+      5
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      104,
+      6
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      104,
+      7
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      104,
+      8
+    ],
+    [
+      "WIARYGODNOSC_OSOB",
+      104,
+      9
+    ]
+  ],
+  "original_zips_unchanged": true,
+  "audits_match": true,
+  "maternal_branch_unchanged": true,
+  "old_public_edges_and_relations_preserved": true,
+  "remote_version20_maps_photo_and_relationship_descriptions_preserved": true,
+  "unconfirmed_identifications_not_merged": true,
+  "no_invented_biological_roles": true,
+  "no_invented_surnames": true,
+  "current_life_not_claimed": true,
+  "source_files": 66,
+  "source_bytes": 45768616,
+  "web_queries": 33,
+  "firecrawl_searches": 16,
+  "firecrawl_scrapes_basic": 3
+}
