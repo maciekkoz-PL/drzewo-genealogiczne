@@ -1,3 +1,5 @@
+**Aktualny stan — etap 20, 07.11.2026: brat Bogusława, ojciec Piotra (P11).** Imię wuja nadal nieustalone; Witold z Zarzewa pozostaje wyłącznie tropem. Nowe wykazy MP wymieniają imiona ojców imienników Piotra, ale brak połączenia z rodziną. 23 arkusze, 239 źródeł, 97 kandydatów, 232 kwerendy, 17 przekazów. [Wyniki](badania/2026-11-07-sesja-20-brat-boguslawa/STATUS.md), [teczka wuja](badania/2026-11-07-sesja-20-brat-boguslawa/TECZKA_BRATA_BOGUSLAWA.md), [plan](badania/2026-11-07-sesja-20-brat-boguslawa/PLAN_KONTYNUACJI.md). Rodzeństwo dziadka i Australia wstrzymane. REL-017: użytkownik zapyta Marysię jutro; poszukiwania nie zależą od odpowiedzi. Bez korespondencji. Drzewo bez nowego przełomu. Poniższe komunikaty i zakresy są historyczne.
+
 ## Etap 17 — polskie gałęzie rodzeństwa Czesława, 06.11.2026
 
 Najnowszy zakres: Polska, dzieci/wnuki, bez wiadomości do osób lub instytucji. **Nie odnaleziono jeszcze nowego potwierdzonego żyjącego krewnego wPolsce.** Raport: [STATUS.md](badania/2026-11-06-sesja-17-rodziny-w-polsce/STATUS.md), szczegółowy [plan](badania/2026-11-06-sesja-17-rodziny-w-polsce/PLAN_KONTYNUACJI.md).

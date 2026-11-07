@@ -1,0 +1,100 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-07T03:07:38.425052+00:00",
+  "baseline_commit": "e8cce5c",
+  "sheets": 23,
+  "counts": {
+    "ZRODLA_I_SKANY": 239,
+    "KANDYDACI_I_HOMONIMY": 97,
+    "DZIENNIK_KWEREND": 232,
+    "PLIKI_DOWODOWE": 192,
+    "RELACJE_ZRODLOWE": 17,
+    "ZADANIA_AGENTA": 51,
+    "KOREKTY_I_SPRZECZNOSCI": 97
+  },
+  "old_cells_changed": [
+    [
+      "ZRODLA_I_SKANY",
+      2,
+      1
+    ],
+    [
+      "ZADANIA_AGENTA",
+      9,
+      6
+    ],
+    [
+      "ZADANIA_AGENTA",
+      17,
+      6
+    ],
+    [
+      "ZADANIA_AGENTA",
+      50,
+      6
+    ],
+    [
+      "ZADANIA_AGENTA",
+      51,
+      6
+    ],
+    [
+      "START",
+      2,
+      1
+    ],
+    [
+      "INSTRUKCJA_AGENTA",
+      2,
+      1
+    ],
+    [
+      "INSTRUKCJA_AGENTA",
+      3,
+      3
+    ],
+    [
+      "INSTRUKCJA_AGENTA",
+      25,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      2,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      2,
+      4
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      2,
+      5
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      3,
+      3
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      4,
+      3
+    ]
+  ],
+  "other_old_cells_preserved": true,
+  "source_paths_present": true,
+  "original_zips_unchanged": true,
+  "public_files_unchanged": true,
+  "audits_match": true,
+  "no_new_family_relationships": true,
+  "no_new_living_relative_claimed": true,
+  "bg_cemetery_search_incomplete": true,
+  "bg_year_filter_not_reliable": true,
+  "unrelated_award_recipients_not_merged": true,
+  "transient_url_credentials_excluded": true,
+  "source_files": 33,
+  "source_bytes": 4749152
+}
