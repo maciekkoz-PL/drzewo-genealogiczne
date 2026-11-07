@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/akt.pdf",
+    "path": "msw_2015_14.pdf",
+    "at_utc": "2026-11-07T02:53:31.306890+00:00",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "url": "https://monitorpolski.gov.pl/M1995065072601.pdf",
+    "path": "mp1995_726.pdf",
+    "at_utc": "2026-11-07T02:53:32.591384+00:00",
+    "status": 200,
+    "bytes": 612358,
+    "sha256": "9d74ec241dc7bbfb82082f342c1dd16c5d037d02b58264ec9946367c01ffc079"
+  }
+]

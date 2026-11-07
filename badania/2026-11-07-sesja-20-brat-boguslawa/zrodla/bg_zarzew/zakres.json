@@ -1,0 +1,27 @@
+{
+  "url": "https://billiongraves.com/cemetery/%C5%81%C3%B3d%C5%BA-Zarzew-cmentarz-komunalny/208655/search",
+  "at_utc": "2026-11-07T03:01:27.440330+00:00",
+  "collection_totals": {
+    "1": 829,
+    "5": 7
+  },
+  "images": 545,
+  "queries": [
+    {
+      "family_name": "Chmielewski",
+      "collection_id": 1,
+      "ui_result": "no matching records"
+    },
+    {
+      "family_name": "Chmielewski",
+      "collection_id": 5,
+      "ui_result": "no matching records"
+    }
+  ],
+  "initial_loaded_items": {
+    "1": 200,
+    "5": 7
+  },
+  "limitations": "Formularz nie zgłosił wyników, ale pobrał początkowo tylko 200 z 829 rekordów kolekcji1. Nie udowodniono przeszukania pozostałych629. Bezpośrednie API próby paginacji403. Nie jest to pełna kwerenda nekropolii. Pominieto surowe metadane z tokenami i niepowiązane rekordy.",
+  "auth_metadata_excluded": true
+}
