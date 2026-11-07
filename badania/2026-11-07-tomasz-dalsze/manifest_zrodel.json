@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T09:42:43.140329+00:00",
+  "at": "2026-11-07T10:44:19.078433+00:00",
   "files": [
     {
       "path": "zrodla/academica_bul.json",
@@ -195,6 +195,11 @@
       "path": "zrodla/wbp_szkic_gmail.json",
       "bytes": 580,
       "sha256": "097745709a8569f40bfbe837dcc4acfe2f0b6ba010b06a4aa14c351d23b68242"
+    },
+    {
+      "path": "zrodla/wbp_wyslane.json",
+      "bytes": 498,
+      "sha256": "cfe07974210c48f98273df45283940201e149f102798cec9a8d44c4dcc65b2e0"
     },
     {
       "path": "zrodla/wirtualny_api_0.json",

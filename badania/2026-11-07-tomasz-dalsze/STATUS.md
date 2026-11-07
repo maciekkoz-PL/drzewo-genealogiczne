@@ -53,15 +53,15 @@ Próbowano odczytać `https://academica.edu.pl/` i `/search` przez scraper, zwyk
 
 Odczytano natomiast [oficjalne zasady BUŁ](https://www.lib.uni.lodz.pl/academica): materiały publiczne można czytać zdalnie, a objęte ochroną wyłącznie na dedykowanych terminalach, z aktywnym kontem bibliotecznym; na terminalach nie można pobierać ani drukować przeglądanych materiałów. Nie potwierdzono w ten sposób obecności konkretnych numerów Dziennika z 2001. Nie tworzono kont i nie obchodzono ograniczeń.
 
-## TOM-D05 — gotowe zapytanie do WBP, niewysłane
+## TOM-D05 — zapytanie do WBP
 
 Poprzedni pakiet TOM-N01 ustalił konkretne woluminy **„Dziennik Łódzki – Wiadomości Dnia”, wydanie A, sygnatura 77-G**: kwiecień 2001, nr 78–101; maj 2001, nr 102–126. Ich status to „na półce, tylko na miejscu”, nie znaleziony skan. Odsyłacz cyfrowy nie udostępnił rocznika 2001. [Dokładne dane egzemplarzy](../2026-11-07-tomasz-nekrologi/zrodla/PRASA_2001_KONKRETNE_EGZEMPLARZE.json).
 
 Na [oficjalnej stronie katalogu WBP, w sekcji pomocy](https://omnis-wbpl.primo.exlibrisgroup.com/discovery/search?vid=48OMNIS_WBPL:48OMNIS_WBPL) zweryfikowano adres Działu Informacji Naukowej, Regionaliów i Bibliografii: **informacja@wbp.lodz.pl**. Sprawdzono, że w Gmail nie ma wcześniejszego zapytania o ten nekrolog do sprawdzanych adresów biblioteki. Utworzono **jeden szkic w Gmail** i odczytano go ponownie, sprawdzając odbiorcę, treść i etykietę `DRAFT`.
 
-[Szkic w Gmail](https://mail.google.com/mail/u/?authuser=maciekkoz%40gmail.com#all/1a1b556ed7fa7fe2) prosi o poszukiwanie nekrologu, zawiadomienia o pogrzebie albo podziękowania w wydaniach **27.04–07.05.2001** oraz informację o możliwości otrzymania kopii z datą i numerem gazety. W razie odpłatności prosi najpierw o warunki i wycenę, przed rozpoczęciem płatnej pracy. Pełna kopia: [ZAPYTANIE_WBP_NIEWYSLANE.txt](ZAPYTANIE_WBP_NIEWYSLANE.txt).
+Przygotowany szkic prosi o poszukiwanie nekrologu, zawiadomienia o pogrzebie albo podziękowania w wydaniach **27.04–07.05.2001** oraz informację o możliwości otrzymania kopii z datą i numerem gazety. W razie odpłatności prosi najpierw o warunki i wycenę, przed rozpoczęciem płatnej pracy. Pełna kopia: [ZAPYTANIE_WBP_WYSLANE.txt](ZAPYTANIE_WBP_WYSLANE.txt).
 
-**Nie wysłano tego zapytania.** Użytkownik otrzymał osobne pytanie o wysłanie do nowego odbiorcy, z linkiem do konkretnego szkicu. Dotychczasowa zgoda obejmowała wiadomość do cmentarza Zarzew, nie tę bibliotekę. Do czasu odpowiedzi szkic pozostaje niewysłany; nie zlecono płatnej usługi ani nie wysłano wniosków USC.
+Przed uzyskaniem zgody szkic pozostał niewysłany. Użytkownik otrzymał osobne pytanie o nowego odbiorcę, ponieważ wcześniejsza zgoda obejmowała cmentarz Zarzew. Ostateczny status wysyłki podano w aktualizacji poniżej.
 
 ## TOM-D06 — pomocnicze wyszukiwania web i zakres zmian
 
@@ -70,3 +70,7 @@ Wykonano 12 nowych zapytań web: dostępność roczników w Academica, indeks sp
 Pakiet ma wyłącznie **lokalne oznaczenia TOM-D01–TOM-D06**. Nie zmienia głównego Excela, numeracji S/L/F, osób ani witryny, aby nie kolidować z równoległym wątkiem. Nie opublikowano nowej wersji drzewa, bo nie znaleziono nowego faktu biograficznego. Nie dopisano mieszkania po ojcu jako własności Tomasza ani sprawy spadkowej jako ustalonego faktu.
 
 Najbardziej konkretny materiał do następnego odczytu pozostaje papierowy nekrolog w potwierdzonych woluminach gazety; wiadomość do biblioteki jest przygotowana do oceny. Dokładną datę urodzenia i matkę mogą wskazać także akt zgonu lub księga pochowanych znanego cmentarza. Ich wcześniejsze szkice już istnieją — nie powielono ich w tej kwerendzie.
+
+## Aktualizacja — zapytanie wysłane
+
+Po wyraźnej zgodzie użytkownika poprawiono podpis na „Maciej Kozłowski” i wysłano jeden mail do WBP. [Wysłana wiadomość](https://mail.google.com/mail/u/?authuser=maciekkoz%40gmail.com#all/1a1b59b75a2a09f2) ma etykietę `SENT`, co odczytano ponownie po wysłaniu. ID wiadomości: `1a1b59b75a2a09f2`, wątek: `1a1b556ed7fa7fe2`. Zapis potwierdzenia: `zrodla/wbp_wyslane.json`. Nie zlecono płatnej pracy; mail prosi najpierw o wycenę. Wcześniejsze zdania w sekcji TOM-D05 opisują stan szkicu przed uzyskaniem zgody i są zachowane jako historia działań.
