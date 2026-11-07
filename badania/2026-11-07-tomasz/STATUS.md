@@ -27,3 +27,5 @@ Dodano REL-018, S240–S244, E072–E075, H047/H048, L233–L237, F193–F197 i 
 Najlepszy następny dokument to odpis zupełny aktu zgonu Tomasza: szansa na dokładną datę i miejsce urodzenia, matkę i stan cywilny. Nie należy utożsamiać odpisu zgonu z kartą zgonu lub dokumentacją medyczną; nie obiecywać w nim przyczyny śmierci ani pełnego adresu. Po ustaleniu danych można szukać aktu urodzenia i zweryfikować hipotezę mieszkaniową.
 
 [Plan kontynuacji](PLAN_KONTYNUACJI.md) · [niewysłany szkic wniosku](SZKIC_WNIOSKU_ZGON.md) · [oryginalny druk USC](zrodla/USC_Lodz_wniosek_odpis_zgonu.docx).
+
+**Publikacja zakończona:** wersja24, status`succeeded`, dotychczasowy publicznyURL. Zaktualizowano kartęP09; braknowego wpisukroniki. Walidacja danych iChromium1440/390px PASS. Zachowano równolegle zapisane źródła etapu21; nie nadpisano ich.

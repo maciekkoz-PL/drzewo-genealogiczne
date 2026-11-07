@@ -1,0 +1,34 @@
+{
+  "version": {
+    "id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_62a990aa38cc81918260040c74184081",
+    "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
+    "version_number": 24,
+    "source": {
+      "commit_sha": "e34f47f382e4e8f7d848df4db64231db118224eb"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_0000000011c0820a81c2d6b17e7ba647",
+      "content_hash": "sha256:5c2e4f6056ea5be1682a038cd1cd997fb87e0f2fef1d20df35466515678050c1",
+      "size_bytes": 1116160,
+      "file_count": 4
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6aee99ff996c8191a4bcdea56f6c2f55",
+    "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
+    "title": "Korzenie Marysi",
+    "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_62a990aa38cc81918260040c74184081",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6aeccd5dcec48191950b70bad04d3017",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-07T03:24:58.445156+00:00"
+  }
+}
