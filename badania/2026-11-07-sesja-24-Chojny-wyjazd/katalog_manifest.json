@@ -1,0 +1,22 @@
+[
+  {
+    "path": "badania/2026-11-07-sesja-24-Chojny-wyjazd/katalog/katalog_BASIA.json",
+    "bytes": 12587,
+    "sha256": "00786a75a2c7cab4bf3fbedca43a32b58da40bd68f16815c61c54e249ed6b55e"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-24-Chojny-wyjazd/katalog/katalog_starsze.json",
+    "bytes": 4011,
+    "sha256": "6c6a836b4b70957b6c96d180d47cb01871b55a4834282831ab1b4a0aaa823ef9"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-24-Chojny-wyjazd/katalog/manifest_15351995.json",
+    "bytes": 120015,
+    "sha256": "d0521563bb5ae810e381c73223378865bf23cebea5d913f41a2ed6d39b093a02"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-24-Chojny-wyjazd/katalog/manifest_15351997.json",
+    "bytes": 115335,
+    "sha256": "76fedd0fc660c4c1eb5e2bafbfade43723ce609e803946284c8925a0c6550cae"
+  }
+]

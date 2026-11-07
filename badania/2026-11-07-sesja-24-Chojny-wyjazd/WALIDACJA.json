@@ -1,6 +1,6 @@
 {
   "result": "PASS",
-  "at_utc": "2026-11-07T06:19:07.446928+00:00",
+  "at_utc": "2026-11-07T06:27:47.120564+00:00",
   "baseline": "0fe719edf7baf23c5ce8eaef9337256849713797",
   "counts": {
     "RDZEN_RODZINY": 17,
@@ -8,13 +8,13 @@
     "RELACJE": 59,
     "KANDYDACI_I_HOMONIMY": 102,
     "ZDARZENIA_I_FAKTY": 75,
-    "ZRODLA_I_SKANY": 286,
+    "ZRODLA_I_SKANY": 287,
     "KONTAKTY_URZEDOWE": 16,
     "SZKICE_GMAIL": 10,
     "ZADANIA_AGENTA": 58,
     "KOREKTY_I_SPRZECZNOSCI": 100,
-    "DZIENNIK_KWEREND": 286,
-    "PLIKI_DOWODOWE": 378,
+    "DZIENNIK_KWEREND": 287,
+    "PLIKI_DOWODOWE": 382,
     "START": 0,
     "INSTRUKCJA_AGENTA": 27,
     "POTWIERDZONE_AKTEM_1936": 6,
@@ -84,8 +84,13 @@
   "all_other_old_cells_preserved": true,
   "all_person_relationship_sheets_preserved": true,
   "original_packages_preserved": true,
-  "source_files": 23,
+  "source_files": 27,
   "hashes_valid": true,
   "index_rows": 47,
+  "older_arrival_manifests": [
+    205,
+    197
+  ],
+  "older_arrival_scans_read": 0,
   "new_proven_family_relationships": 0
 }

@@ -20,21 +20,23 @@ for sn in a.sheetnames:
  assert len(ids)==len(set(ids)),sn;counts[sn]=len(ids)
 for sn in ['RDZEN_RODZINY','RODZINA_Z_RELACJI','RELACJE','ZDARZENIA_I_FAKTY','RELACJE_ZRODLOWE','WIARYGODNOSC_OSOB','WIARYGODNOSC_RELACJI','SZKICE_GMAIL','DECYZJA_ROMAN_P12_C69']:
  assert list(a[sn].values)==list(b[sn].values),sn
-for sn,n in [('ZRODLA_I_SKANY',286),('DZIENNIK_KWEREND',286),('PLIKI_DOWODOWE',378),('KANDYDACI_I_HOMONIMY',102),('INSTRUKCJA_AGENTA',27),('INDEKS_MELDUNKOW',47)]:assert counts[sn]==n,(sn,counts[sn])
+for sn,n in [('ZRODLA_I_SKANY',287),('DZIENNIK_KWEREND',287),('PLIKI_DOWODOWE',382),('KANDYDACI_I_HOMONIMY',102),('INSTRUKCJA_AGENTA',27),('INDEKS_MELDUNKOW',47)]:assert counts[sn]==n,(sn,counts[sn])
 for f in ['Marysia_PAKIET_ZRODEL_2026-11-05.zip','Marysia_LINIA_MATKI_repo_ready_2026-11-06.zip']:
  if (ROOT/f).exists():assert (ROOT/f).read_bytes()==prior(f)
-manifest=json.loads((HERE/'manifest.json').read_text());assert len(manifest)==23
+manifest=json.loads((HERE/'manifest.json').read_text())+json.loads((HERE/'katalog_manifest.json').read_text());assert len(manifest)==27
 for rec in manifest:
  raw=(ROOT/rec['path']).read_bytes();assert hashlib.sha256(raw).hexdigest()==rec['sha256']
  if rec['path'].endswith('.jpg'):Image.open(io.BytesIO(raw)).verify()
 with zipfile.ZipFile(HERE/'zrodla/kolumny_Chojny2140.zip') as z:assert len(z.namelist())==29 and z.testzip() is None
 scope=json.loads((HERE/'zrodla/zakres_odczytu.json').read_text());assert scope['name_columns_read']==[[5,195]] and len(scope['full_selected_this_stage'])==7
 assert len(json.loads((HERE/'zrodla/pobrane_sha256.json').read_text()))==196
+for uid,count in [(15351995,205),(15351997,197)]:
+ m=json.loads((HERE/f'katalog/manifest_{uid}.json').read_text());assert m['liczbaWszystkichSkanow']==count and len(m['elementy'])==count
 with sync_playwright() as p:
  browser=p.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox']);page=browser.new_page()
  page.set_content((HERE/'INDEKS.html').read_text());assert page.locator('tbody tr').count()==47
  page.locator('#q').fill('1947');assert page.locator('tbody tr:visible').count()==1
  page.locator('#q').fill('1496');assert page.locator('tbody tr:visible').count()==2
  browser.close()
-report=dict(result='PASS',at_utc=datetime.datetime.now(datetime.timezone.utc).isoformat(),baseline=BASE,counts=counts,old_cells_changed=changed,all_other_old_cells_preserved=True,all_person_relationship_sheets_preserved=True,original_packages_preserved=True,source_files=23,hashes_valid=True,index_rows=47,new_proven_family_relationships=0)
+report=dict(result='PASS',at_utc=datetime.datetime.now(datetime.timezone.utc).isoformat(),baseline=BASE,counts=counts,old_cells_changed=changed,all_other_old_cells_preserved=True,all_person_relationship_sheets_preserved=True,original_packages_preserved=True,source_files=27,hashes_valid=True,index_rows=47,older_arrival_manifests=[205,197],older_arrival_scans_read=0,new_proven_family_relationships=0)
 (HERE/'WALIDACJA.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');print(json.dumps(report,ensure_ascii=False))

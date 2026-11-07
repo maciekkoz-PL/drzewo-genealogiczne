@@ -23,3 +23,5 @@ Zachowano12wybranych oryginałów, 29 plansz pochodnych wZIP, manifest196URL i h
 Publiczna karta C42 i istniejący krótki wpis o Agnieszce zostały uzupełnione o drugi dokument. **Wersja26 opublikowana**, zachowano70osób,10wpisów i dotychczasowe linie. Test1440/390px PASS; rzeczywista stronaHTTP200 i identycznyHTML. Metadane w `PUBLIKACJA.json`. Nie dodano potwierdzonej relacji.
 
 Nie wysłano żadnych nowych wiadomości, wniosków ani zamówień. Wcześniejszy, osobno zatwierdzony M10 pozostaje wysłany; nie ponawiać. Nie ponawiano zablokowanej próby zewnętrznego HTR. Żaden wynik OCR nie był użyty jako dowód nieobecności nazwiska.
+
+**Dalsza kwerenda S287:** potwierdzono dokładne jednostki przybyłych doChojen1937(2135/SwA15351995/205obrazów) i1938(2137/SwA15351997/197obrazów). BASIA oba oznacza „wolna”. Zapisanopełnepublicznemanifesty;nieodczytanojeszczeichobrazów. Niejestto wyniknegatywnyposzukiwańAgnieszki. Końcowobaza287źródeł/287kwerend/382pliki;47wierszyindeksu.
