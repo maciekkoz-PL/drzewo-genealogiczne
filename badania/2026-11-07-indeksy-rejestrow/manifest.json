@@ -1,0 +1,22 @@
+[
+  {
+    "path": "badania/2026-11-07-indeksy-rejestrow/Chojny_BaSIA.html",
+    "bytes": 28004,
+    "sha256": "ce3dcbf9b9b847ebf0ebc50af723f1aabbe88d6bc6c3d335503a346aeffa730f"
+  },
+  {
+    "path": "badania/2026-11-07-indeksy-rejestrow/STATUS.md",
+    "bytes": 2305,
+    "sha256": "ec008242cf808380cea2825e27b72ef8519841d3ae819a1162161a2aa32d56bc"
+  },
+  {
+    "path": "badania/2026-11-07-indeksy-rejestrow/kontrola_web.json",
+    "bytes": 115462,
+    "sha256": "3e09088b6928308c71fae077a9dcda7675fe7a1a4d3ce116bc2c7bdc4c5b687f"
+  },
+  {
+    "path": "badania/2026-11-07-indeksy-rejestrow/zawartosc_BaSIA.html",
+    "bytes": 556730,
+    "sha256": "e88551ae0038499ecaeed82fbf4fb18b45bf38ec0e59d62c7e10143a4b5c0c86"
+  }
+]
