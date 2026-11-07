@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://lodz.naszemiasto.pl/tag/tomasz-c",
+        "title": "Tomasz c - artykuły | Łódź Nasze Miasto",
+        "description": "... 2001, 2:32. tomasz c · Coraz większa presja na szpitale. Ministerstwo wskazuje kierunek ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.crarg.org/holocaust-records/szwarcman-opoczno-czestochowa",
+        "title": "Szwarcman / Szwartzman Holocaust-Era Records - CRARG",
+        "description": "575, Szwarcmanowa Zlota z Zoltowskich, Szwarcmanowa Zlota nee Zoltowska, SZWARCMANOWA, ZOLTOWSKA, 16 Apr 1890 r. w Tomasz. C. Izraela i Hindy z Berkowiczow, 16 ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/395727945_Moisture_governs_diesel_biodegradation_in_sand_soil_-polystyrene_microplastic_have_a_negligible_impact",
+        "title": "(PDF) Moisture governs diesel biodegradation in sand soil",
+        "description": "Roman Marecik: Writing – review & editing, Writing – original draft. Tomasz C ... 2001. Effects of soil water content on. biodegradation of ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://cybra.lodz.pl/Content/6177",
+        "title": "[PDF] Dr Ryszard Żmuda Łódź - UM „LEKSYKON BIOGRAFICZNY ...",
+        "description": "2001-2007. Mgr Magdalena ZIELONKA. 2001-2006. Mgr Agnieszka CZARNECKA ... Mgr Piotr Tomasz C i c h o c k i - Uniwersytet Medyczny w Łodzi. Mgr Danuta D ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://rcin.org.pl/Content/45647/PDF/WA058_55571_P257-T37_Acta-Ornith-Nr-1-sp.pdf",
+        "title": "[PDF] Strony tytulowe, spis tresci",
+        "description": "Jerzy Ba ń b u r a — University of Łódź, POLAND ... Birds' drawings by Tomasz C o fta. INSTRUCTIONS TO ... Prices (in 2001) include surface m ail postage ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b40d-f1ed-775c-a850-d973aba18399",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://lodz.naszemiasto.pl/tag/tomasz-c\", #2 \"https://www.crarg.org/holocaust-records/szwarcman-opoczno-czestochowa\", #3 \"https://www.researchgate.net/publication/395727945_Moisture_governs_diesel_biodegradation_in_sand_soil_-polystyrene_microplastic_have_a_negligible_impact\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

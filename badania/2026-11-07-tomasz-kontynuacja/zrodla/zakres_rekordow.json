@@ -1,0 +1,152 @@
+{
+  "findagrave_13": {
+    "ids": [
+      "170136403",
+      "264380920",
+      "267819481",
+      "293674411",
+      "272420632",
+      "292406326",
+      "155721072",
+      "264412508",
+      "268494756",
+      "267859160",
+      "268644282",
+      "273147685",
+      "267194071",
+      "162027775",
+      "264211684",
+      "264174195",
+      "264659400",
+      "272813601",
+      "265041801",
+      "270868871"
+    ],
+    "count": 20
+  },
+  "findagrave_15": {
+    "ids": [
+      "263900639",
+      "263915662",
+      "264159036",
+      "264410103",
+      "268132888",
+      "267726217",
+      "266902390",
+      "294053957",
+      "264208240",
+      "263900641"
+    ],
+    "count": 10
+  },
+  "bg_cemetery_19": {
+    "count": 23,
+    "records": [
+      [
+        "Andrzej Boryna",
+        "https://billiongraves.com/grave/Andrzej-Boryna/19797268"
+      ],
+      [
+        "Marianna Cieplucha",
+        "https://billiongraves.com/grave/Marianna-Cieplucha/21926132"
+      ],
+      [
+        "Wacław Cieplucha",
+        "https://billiongraves.com/grave/Wac%C5%82aw-Cieplucha/21926133"
+      ],
+      [
+        "Feliks Ender",
+        "https://billiongraves.com/grave/Feliks-Ender/23884515"
+      ],
+      [
+        "Janina Krystyna Ender",
+        "https://billiongraves.com/grave/Janina-Krystyna-Ender/23884514"
+      ],
+      [
+        "Edward Esyta",
+        "https://billiongraves.com/grave/Edward-Esyta/19797110"
+      ],
+      [
+        "Filip Jarmuż",
+        "https://billiongraves.com/grave/Filip-Jarmu%C5%BC/19768833"
+      ],
+      [
+        "Włodzimierz Jarmuż",
+        "https://billiongraves.com/grave/W%C5%82odzimierz-Jarmu%C5%BC/19768832"
+      ],
+      [
+        "Stefan Kiełbasa",
+        "https://billiongraves.com/grave/Stefan-Kie%C5%82basa/21926057"
+      ],
+      [
+        "Irena Kolanek",
+        "https://billiongraves.com/grave/Irena-Kolanek/19797285"
+      ],
+      [
+        "Elli Kutzner",
+        "https://billiongraves.com/grave/Elli-Kutzner/19784184"
+      ],
+      [
+        "Bogumił Lajs",
+        "https://billiongraves.com/grave/Bogumi%C5%82-Lajs/19797257"
+      ],
+      [
+        "Stanisława Madej",
+        "https://billiongraves.com/grave/Stanis%C5%82awa-Madej/19797299"
+      ],
+      [
+        "Helena Ostojska",
+        "https://billiongraves.com/grave/Helena-Ostojska/117859724"
+      ],
+      [
+        "Karol Ostojski",
+        "https://billiongraves.com/grave/Karol-Ostojski/117859890"
+      ],
+      [
+        "Władysław Rutkowski",
+        "https://billiongraves.com/grave/W%C5%82adys%C5%82aw-Rutkowski/19797210"
+      ],
+      [
+        "Halina Sadowska",
+        "https://billiongraves.com/grave/Halina-Sadowska/19797284"
+      ],
+      [
+        "Zofia Stanisławska (Białecka)",
+        "https://billiongraves.com/grave/Zofia-Stanis%C5%82awska-Bia%C5%82ecka/19477271"
+      ],
+      [
+        "Władysław Tadeusz Stanisławski",
+        "https://billiongraves.com/grave/W%C5%82adys%C5%82aw-Tadeusz-Stanis%C5%82awski/19477270"
+      ],
+      [
+        "Wiesław Unton",
+        "https://billiongraves.com/grave/Wies%C5%82aw-Unton/19792741"
+      ],
+      [
+        "Zenaida Unton",
+        "https://billiongraves.com/grave/Zenaida-Unton/19792742"
+      ],
+      [
+        "Jan Łęgocki",
+        "https://billiongraves.com/grave/Jan-%C5%81%C4%99gocki/21926121"
+      ],
+      [
+        "Zbigniew Łęgocki",
+        "https://billiongraves.com/grave/Zbigniew-%C5%81%C4%99gocki/21926120"
+      ]
+    ]
+  },
+  "bg_cemetery_20": {
+    "count": 2,
+    "records": [
+      [
+        "Henryk Rybak",
+        "https://billiongraves.com/headstone/Henryk-Rybak/99925723"
+      ],
+      [
+        "Krystyna Rybak (Zagozda)",
+        "https://billiongraves.com/headstone/Krystyna-Rybak-Zagozda/99925722"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Search?entityName=&krs=&nip=&textInPosition=&textInBody=%22Tomasz+Chmielewski%22&signatureType=A&signatureOfCase=&signatureKRS=&court=&from=2001-04-26&to=2026-11-07&page=1",
+  "parameters": {
+    "entityName": "",
+    "krs": "",
+    "nip": "",
+    "textInPosition": "",
+    "textInBody": "\"Tomasz Chmielewski\"",
+    "signatureType": "A",
+    "signatureOfCase": "",
+    "signatureKRS": "",
+    "court": "",
+    "from": "2001-04-26",
+    "to": "2026-11-07",
+    "page": "1"
+  },
+  "at": "2026-11-07T03:36:58.435589+00:00",
+  "status": 200,
+  "data": {
+    "countPages": 100,
+    "page": 1,
+    "list": []
+  }
+}

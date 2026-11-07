@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://orzeczenia.lodz.so.gov.pl/content/$N/152510000001503_III_Ca_001352_2014_Uz_2015-02-02_001",
+        "title": "Treść orzeczenia III Ca 1352/14 - Portal Orzeczeń Sądu ...",
+        "description": "Na gruncie niniejszej sprawy 30-letni termin ... Ponadto znamienne jest zawarcie przez wnioskodawcę w dniu 27 kwietnia 2001 r. ... Trzeba podnieść, że najpierw ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://wiadomosci.onet.pl/kraj/co-sie-stalo-z-politykami-ligi-polskich-rodzin/ng5931",
+        "title": "Co się stało z politykami Ligi Polskich Rodzin? - Wiadomości",
+        "description": "Nie żyje 30-letni Jesus de Miguel. Rywal wbił mu się kolanem w klatkę ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://sbc.org.pl/Content/355323/23A.pdf",
+        "title": "[PDF] Śmiertelne wymuszenie - Śląska Biblioteka Cyfrowa",
+        "description": "- Do połowy kwietnia 2001 r. (do czasu wejścia w życie ustawy) niewymagana ... 30-letni Andrzej, kiedy tylko zamieszkał na osiedlu Podzamcze, od razu ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://bc.wbp.lodz.pl/Content/79091/Nowy_Lowiczanin_tygodnik_Ziemi_Lowickiej_2005_nr_42a.pdf",
+        "title": "[PDF] MATURĄ - Regionalia Ziemi Łódzkiej",
+        "description": "najniższych pensji - mówi 30-letni Krzysz- tof, który będzie głosował ... 1 z dnia 27 kwietnia 2001 r. prawo ochrony środowisk.a (Dz.U. nr 62 poz. 627).",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://issuu.com/alma-mater/docs/alma_mater_200",
+        "title": "Alma Mater 200 - Issuu",
+        "description": "... kwietnia 2001 – KERM przyjmuje i rekomenduje Radzie Ministrów ... 30-letni artysta, podbił jej wiedzy i nawet wbrew woli rodziców. Na ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b40d-f2e7-76b9-901d-03f3ffe36846",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://orzeczenia.lodz.so.gov.pl/content/$N/152510000001503_III_Ca_001352_2014_Uz_2015-02-02_001\", #2 \"https://wiadomosci.onet.pl/kraj/co-sie-stalo-z-politykami-ligi-polskich-rodzin/ng5931\", #3 \"https://sbc.org.pl/Content/355323/23A.pdf\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

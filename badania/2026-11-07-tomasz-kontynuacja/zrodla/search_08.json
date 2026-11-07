@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://orzeczenia.lodz.so.gov.pl/content/$N/152510000001503_III_Ca_001662_2019_Uz_2020-08-04_001",
+        "title": "III Ca 1662/19 - Portal Orzeczeń Sądu Okręgowego w Łodzi",
+        "description": "Sądu Najwyższego z 26 kwietnia 2001 r., II CZ 13/01, OSNC Nr 12/2001 ... od daty postanowienia o stwierdzeniu nabycia spadku po swoim ojcu (tj.",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.nik.gov.pl/kontrole/wyniki-kontroli-nik/pobierz,px_2002006.pdf,typ,k.pdf",
+        "title": "[PDF] biorstw przemysłu spirytusowego - Najwyższa Izba Kontroli",
+        "description": "przyczyn spadku dochodów z akcyzy na wyroby spirytusowe uznał, że prze- ... uchyliła z dniem 26 kwietnia 2001 r. przepisy ustawy z 1959 r. o zwalczaniu.",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Download?id=3262313",
+        "title": "[PDF] Nr 17 (5656) - Monitor Sądowy i Gospodarczy",
+        "description": "... spadku po Sylwii Annie Puszczałow- skiej, zmarłej 26 marca 2015 roku w ... 26 kwietnia 2001 r., sygn. akt XIV GRp 2/17. [BMSiG-3515/2019]. Sygn. akt XIV ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "http://bc.wbp.lodz.pl/Content/75766/Nowy_Lowiczanin_2001_nr_17a.pdf",
+        "title": "[PDF] GROZI ZATRZYMANIE - Regionalia Ziemi Łódzkiej",
+        "description": "... spadku sprzedaży udział Fia- ta na rynku obejmującym teren byłego ... 26 kwietnia 2001 r. 12.00. Wiadomości. 12.10. Agrobiznes-rolniczy program ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.problemypolitykispolecznej.pl/pdf-123278-51458?filename=51458.pdf",
+        "title": "[PDF] Budżet a mieszkalnictwo i budownictwo społeczne w Polsce ...",
+        "description": "dużego spadku. W 2009 roku na mieszkalnictwo przeznaczono z budżetu 915 mln ... Ustawa z dnia 26 kwietnia 2001 r. o dopłatach do oprocentowania ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b410-9c7a-705b-9a3e-d4059c0524be",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://orzeczenia.lodz.so.gov.pl/content/$N/152510000001503_III_Ca_001662_2019_Uz_2020-08-04_001\", #2 \"https://www.nik.gov.pl/kontrole/wyniki-kontroli-nik/pobierz,px_2002006.pdf,typ,k.pdf\", #3 \"https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Download?id=3262313\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

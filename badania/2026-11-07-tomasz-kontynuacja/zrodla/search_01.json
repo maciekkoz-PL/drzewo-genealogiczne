@@ -1,0 +1,87 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Lodzkie/Powiat-m.-Lodz/Gmina-M.-Lodz/Lodz/Cmentarz-rzymsko-katolicki-sw.-Maksymiliana-Kolbe-Gadka-Stara",
+        "title": "Cmentarz rzymsko-katolicki św. Maksymiliana Kolbe (Gadka ...",
+        "description": "Serwis zawiera cenne informacje i ciekawostki o cmentarzach, osobach wybitnych na nich pochowanych oraz interesujących miejscach pamięci.",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://archidiecezjalodz.grobonet.com/",
+        "title": "Cmentarze Archidiecezji Łódzkiej",
+        "description": "Wyszukiwarka osób pochowanych. Odnajdź groby lub mogiły osób pochowanych na terenie cmentarza ; Ostatnio pochowani. Sprawdź wykaz osób pochowanych w ostatnim ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://ecmentarze.pl/cmentarze/cmentarz-rzymskokatolicki-sw-maksymiliana-kolbe",
+        "title": "Cmentarz rzymskokatolicki św. Maksymiliana Kolbe - eCmentarze",
+        "description": "w Stara Gadka, Osoby pochowane. Lokalizacja: 93-443 Stara Gadka, ul. współrzędne 51.6791864, 19.4710051. W poszukiwaniach rodzinnych pomocne są pełne dane ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "http://cmentarzekomunalne.lodz.systkom.pl/szukaj.html",
+        "title": "Cmentarz - strona główna",
+        "description": "Wprowadź dane poszukiwanej osoby a następnie kliknij przycisk szukaj. Pola oznaczone * są obowiązkowe. Dane zmarłego: * Zaznacz jeśli wprowadziłeś całe nazwisko ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.facebook.com/groups/283563625155580/posts/2641194946059091/",
+        "title": "Cmentarz wojenny Gadka Stara, województwo łódzkie, powiat ...",
+        "description": "Log in · Cmentarz wojenny Gadka Stara, województwo łódzkie, powiat łódzki wschodni, gmina Rzgów. Cmentarze I wojny światowej.",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://pl.wikipedia.org/wiki/Cmentarz_wojenny_w_Gadce_Starej",
+        "title": "Cmentarz wojenny w Gadce Starej - Wikipedia",
+        "description": "Cmentarz wojenny w Gadce Starej – nekropolia znajdująca się w Gadce Starej, na południowo-wschodnim krańcu miejscowości, wzdłuż ulicy Czartoryskiego.",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "github-com",
+        "capability": "repositories/search_repos",
+        "description": "Search public GitHub repositories with GitHub's search syntax (free text plus qualifiers such as language:rust, stars:>1000, topic:llm, org:firecrawl, created:>2025-01-01), sorted by best match, stars, forks, help-wanted issues or last update. Returns one page of repository records with stars, forks and dates; total_count is GitHub's overall match count, capped at 1000 reachable results (page * per_page <= 1000). Keyless search is limited to 10 requests per minute per IP. A user:, org: or repo: qualifier naming an account or repository that does not exist or is not visible fails with not_found; any other query GitHub rejects (bad qualifier value, page beyond 1000 results) fails with invalid_input and GitHub's message."
+      },
+      {
+        "provider": "msheritage-access-preservica-com",
+        "capability": "archive-records/list_folder",
+        "description": "Enumerate the archive top-down (root -> collection -> sub-folders -> items) or list what sits inside a folder found by search_records or get_record; take child ids to get_record (items) or back to list_folder (folders)."
+      },
+      {
+        "provider": "wowhead-com",
+        "capability": "news/guides_search",
+        "description": "Discover public WoW guides by branch, category, title query, class and specialization. Filters and offset pagination apply to the embedded guide index, sorted by id. Use branch forever for WoW Forever. Search is title substring matching, not full-text search."
+      },
+      {
+        "provider": "ironplanet-com",
+        "capability": "equipment-auctions/list_upcoming_auctions",
+        "description": "Find the sale group ids of upcoming online auctions before listing their lots."
+      },
+      {
+        "provider": "bid-cars",
+        "capability": "vehicles/similar_sold_lots",
+        "description": "Price a lot against recent sales after `search_lots` or `get_lot`."
+      },
+      {
+        "provider": "spothero-com",
+        "capability": "parking/search_airport_parking",
+        "description": "Compare off-airport and on-airport parking prices for a trip; airports and their codes come from `airports`."
+      }
+    ]
+  },
+  "id": "01a1b40c-f18e-706a-a25c-a00a3811a0ac",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Lodzkie/Powiat-m.-Lodz/Gmina-M.-Lodz/Lodz/Cmentarz-rzymsko-katolicki-sw.-Maksymiliana-Kolbe-Gadka-Stara\", #2 \"https://archidiecezjalodz.grobonet.com/\", #3 \"https://ecmentarze.pl/cmentarze/cmentarz-rzymskokatolicki-sw-maksymiliana-kolbe\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

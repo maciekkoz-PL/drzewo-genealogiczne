@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="description" content="Wyszukiwarka ogłoszeń i wpisów do Krajowego Rejestru Sądowego (KRS) opublikowanych w Monitorze Sądowym i Gospodarczym (MSiG)." />
+        <meta name="keywords" content="imsig, imsig.pl, msig, msg, monitor sądowy i gospodarczy, ogłoszenia, ksh, kodeks spółek handlowych, ogłoszenia spółek, kc, kodeks cywilny, upadłości, prawo upadłościowe, postępowanie upadłościowe, krajowy rejestr sądowy, krs, wpisy do krs" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+        <title>Wyszukiwarka KRS - Internetowy Monitor Sądowy i Gospodarczy</title>
+        <script type="text/javascript" src="/layout/main.js"></script>
+        <script type="text/javascript" src="/layout/ajax.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js?hl=pl" async defer></script>
+        <script type="text/javascript" src="/layout/jquery/jquery.min.js"></script>
+        <script type="text/javascript" src="/layout/jqueryUi/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/layout/moment.min.js"></script>
+        <script type="text/javascript" src="/layout/treemultiselect/jquery.tree-multiselect.min.js"></script>
+        <script type="text/javascript" src="/layout/hierarchicalTreeMenu/mgaccordion.js"></script>
+        <script type="text/javascript" src="/layout/sweetalert/sweetalert2.all.min.js"></script>
+                <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap" rel="stylesheet"> 
+        <link rel="stylesheet" href="/layout/main.css" />
+        <link rel="stylesheet" href="/layout/app_mobile.css" />
+        <link rel="stylesheet" href="/layout/print.css" media="print" />
+        <link rel="stylesheet" href="/layout/jqueryUi/jquery-ui.min.css" />
+        <link rel="stylesheet" href="/layout/treemultiselect/jquery.tree-multiselect.min.css" />
+        <link link rel="stylesheet" type="text/css"  href="/layout/hierarchicalTreeMenu/mgaccordion.css" />
+        <link link rel="stylesheet" type="text/css"  href="/layout/sweetalert/sweetalert2.min.css" />
+        <link rel="icon" href="/layout/favicon.png">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+              integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+        <link rel="stylesheet" href="/layout/mgbi_theme.css" />
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NSBBCCK');</script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-18746572-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-18746572-1');
+        </script>
+    </head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSBBCCK"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <div class="page">
+            <div class="page-header js-header">
+                <div class="header-logo">
+                    <div class="left-box">
+                        <a href="/" class="logo"><img src="/layout/monitor_sadowy_i_gospodarczy.png" alt="Monitor Sądowy i Gospodarczy" /></a>
+                    </div>
+
+                    <div class="right-box right no-print">
+                        <p class="no-margin">
+                            <a href="/konto/utworz" class="btn btn-xs btn-light">Utwórz konto</a>
+                            <a href="/konto?redir=/szukaj" onclick="return shlb()" class="btn btn-xs btn-light">Zaloguj się</a>
+                        </p>
+                    </div>
+
+                    <div class="clear"></div>
+                </div>
+
+                <div class="header-bar">
+                    <div class="menu-item"><a href="/inne/oferta" class="menu-item">Nasza oferta</a></div>
+                    <div class="menu-item menu-item-selected"><a href="/szukaj" class="menu-item">Wyszukiwarka</a></div>
+                    <div class="menu-item"><a href="/indeks" class="menu-item">Indeks numerów</a></div>
+                    <div class="menu-item"><a href="/subskrypcje" class="menu-item">Subskrypcje</a></div>
+                    <div class="menu-item"><a href="/sprawozdania-finansowe" class="menu-item">Sprawozdania finansowe</a></div>
+                    <div class="menu-item"><a href="/lista-przetargow" class="menu-item">Lista przetargów</a></div>
+                    <div class="menu-item"><a href="/lista-upadlosci" class="menu-item">Lista upadłości</a></div>
+                    <div class="menu-item"><a href="/inne/dokumentacja-api" class="menu-item">API</a></div>
+                    <div class="clear"></div>
+                </div>
+                
+                <div class="nav-mobile js-nav-mobile no-print">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                </div>
+            </div>
+
+
+            <div class="page-body">
+
+                <div class="page-body-content">
+                    <div id="lgbx">
+                        <div class="popup-background"></div>
+                        <div class="login-box">
+                            <iframe src="/konto/popup?redir=/szukaj" id="lgbxif" frameBorder="0"></iframe>
+                        </div>
+                    </div>
+                    <h1 class="no-margin">Wyszukiwarka KRS</h1>
+
+                    <div class="message-box warning-box">
+                        <ul>
+                            <li>Wyszukiwarka <strong>nie obejmuje ogłoszeń dotyczących postępowań upadłościowych i restrukturyzacyjnych</strong> publikowanych w Monitorze Sądowym i Gospodarczym lub Krajowym Rejestrze Zadłużonych. Jeśli potrzebujesz do nich dostępu, skorzystaj z <a href="/lista-upadlosci">Listy upadłości</a>.</li>
+                            <li>Wyszukiwanie na podstawie imienia i nazwiska i/lub numeru PESEL jest możliwe tylko we <strong>wpisach do KRS</strong>.</li>
+                        </ul>
+                    </div>
+                    <form action="/szukaj" onsubmit="return SzukajWidok.validate(this)">
+                        <div class="grey-box-left">
+                            <table class="ck-form-fields">
+                                <tr class="middle">
+                                    <th class="left">Numer KRS:</th>
+                                    <td><input type="text" name="krs"  title="Numer podmiotu w Krajowym Rejestrze Sądowym (KRS)" onkeypress="" /></td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Numer REGON:</th>
+                                    <td><input type="text" name="regon"  title="Numer podmiotu w rejestrze REGON" onkeypress="" /></td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Numer NIP:</th>
+                                    <td><input type="text" name="nip"  title="Numer podmiotu w rejestrze NIP" onkeypress="" /></td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Numer RHB:</th>
+                                    <td><input type="text" name="rhb"  title="Numer podmiotu w Rejestrze Handlowym B (RHB)" /></td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Numer EwP:</th>
+                                    <td><input type="text" name="ewp"  title="Numer partii politycznej w Ewidencji Partii Politycznych (EwP)" /></td>
+                                </tr>
+                            </table>
+                        </div>
+
+                        <div class="grey-box-right">
+                            <table class="ck-form-fields">
+                                <tr class="middle">
+                                    <th class="left">Imię / Imiona:</th>
+                                    <td><input type="text" name="imiona"  title="Imię lub imiona osoby występującej w Krajowym Rejestrze Sądowym (KRS)" /></td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Nazwisko:</th>
+                                    <td><input type="text" name="nazwisko"  title="Nazwisko osoby występującej w Krajowym Rejestrze Sądowym (KRS)" /></td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Numer PESEL:</th>
+                                    <td><input type="text" name="pesel"  title="Numer PESEL osoby występującej w Krajowym Rejestrze Sądowym (KRS)" /></td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Rok urodzenia:</th>
+                                    <td>
+                                        <select name="rok" title="Rok urodzenia osoby występującej w Krajowym Rejestrze Sądowym (KRS)">
+                                            <option  selected="selected"></option>
+                                            <option value="26">2026</option>
+                                            <option value="25">2025</option>
+                                            <option value="24">2024</option>
+                                            <option value="23">2023</option>
+                                            <option value="22">2022</option>
+                                            <option value="21">2021</option>
+                                            <option value="20">2020</option>
+                                            <option value="19">2019</option>
+                                            <option value="18">2018</option>
+                                            <option value="17">2017</option>
+                                            <option value="16">2016</option>
+                                            <option value="15">2015</option>
+                                            <option value="14">2014</option>
+                                            <option value="13">2013</option>
+                                            <option value="12">2012</option>
+                                            <option value="11">2011</option>
+                                            <option value="10">2010</option>
+                                            <option value="09">2009</option>
+                                            <option value="08">2008</option>
+                                            <option value="07">2007</option>
+                                            <option value="06">2006</option>
+                                            <option value="05">2005</option>
+                                            <option value="04">2004</option>
+                                            <option value="03">2003</option>
+                                            <option value="02">2002</option>
+                                            <option value="01">2001</option>
+                                            <option value="00">2000</option>
+                                            <option value="99">1999</option>
+                                            <option value="98">1998</option>
+                                            <option value="97">1997</option>
+                                            <option value="96">1996</option>
+                                            <option value="95">1995</option>
+                                            <option value="94">1994</option>
+                                            <option value="93">1993</option>
+                                            <option value="92">1992</option>
+                                            <option value="91">1991</option>
+                                            <option value="90">1990</option>
+                                            <option value="89">1989</option>
+                                            <option value="88">1988</option>
+                                            <option value="87">1987</option>
+                                            <option value="86">1986</option>
+                                            <option value="85">1985</option>
+                                            <option value="84">1984</option>
+                                            <option value="83">1983</option>
+                                            <option value="82">1982</option>
+                                            <option value="81">1981</option>
+                                            <option value="80">1980</option>
+                                            <option value="79">1979</option>
+                                            <option value="78">1978</option>
+                                            <option value="77">1977</option>
+                                            <option value="76">1976</option>
+                                            <option value="75">1975</option>
+                                            <option value="74">1974</option>
+                                            <option value="73">1973</option>
+                                            <option value="72">1972</option>
+                                            <option value="71">1971</option>
+                                            <option value="70">1970</option>
+                                            <option value="69">1969</option>
+                                            <option value="68">1968</option>
+                                            <option value="67">1967</option>
+                                            <option value="66">1966</option>
+                                            <option value="65">1965</option>
+                                            <option value="64">1964</option>
+                                            <option value="63">1963</option>
+                                            <option value="62">1962</option>
+                                            <option value="61">1961</option>
+                                            <option value="60">1960</option>
+                                            <option value="59">1959</option>
+                                            <option value="58">1958</option>
+                                            <option value="57">1957</option>
+                                            <option value="56">1956</option>
+                                            <option value="55">1955</option>
+                                            <option value="54">1954</option>
+                                            <option value="53">1953</option>
+                                            <option value="52">1952</option>
+                                            <option value="51">1951</option>
+                                            <option value="50">1950</option>
+                                            <option value="49">1949</option>
+                                            <option value="48">1948</option>
+                                            <option value="47">1947</option>
+                                            <option value="46">1946</option>
+                                            <option value="45">1945</option>
+                                            <option value="44">1944</option>
+                                            <option value="43">1943</option>
+                                            <option value="42">1942</option>
+                                            <option value="41">1941</option>
+                                            <option value="40">1940</option>
+                                            <option value="39">1939</option>
+                                            <option value="38">1938</option>
+                                            <option value="37">1937</option>
+                                            <option value="36">1936</option>
+                                            <option value="35">1935</option>
+                                            <option value="34">1934</option>
+                                            <option value="33">1933</option>
+                                            <option value="32">1932</option>
+                                            <option value="31">1931</option>
+                                            <option value="30">1930</option>
+                                            <option value="29">1929</option>
+                                            <option value="28">1928</option>
+                                            <option value="27">1927</option>
+                                            <option value="26">1926</option>
+                                        </select>
+                                    </td>
+                                </tr>
+                                <tr class="middle">
+                                    <th class="left">Sygnatura:</th>
+                                    <td><input type="text" name="sygnatura"  title="Sygnatura akt lub sygnatury sprawy o wpis do Krajowego Rejestru Sądowego (KRS)" /></td>
+                                </tr>
+                            </table>
+                        </div>
+
+                        <div class="clear"></div>
+
+                        <div class="grey-box">
+                            <div class="left-box">
+                                <p class="no-margin"><strong>Podaj słowa kluczowe lub wpisz szukaną frazę (w cudzysłowach):</strong></p>
+                                <input type="text" name="tekst" />
+                            </div>
+
+                            <div class="right-button">
+                                <button type="submit" class="btn btn-md btn-primary">Szukaj ogłoszeń</button>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="grey-box-bottom" id="advsbox">
+                            <p class="no-margin">
+                                <strong>Ogłoszenia opublikowane od</strong>
+                                <select name="data_od_dzien"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                <select name="data_od_miesiac"><option value="1">stycznia</option><option value="2">lutego</option><option value="3">marca</option><option value="4">kwietnia</option><option value="5">maja</option><option value="6">czerwca</option><option value="7">lipca</option><option value="8">sierpnia</option><option value="9">września</option><option value="10">października</option><option value="11">listopada</option><option value="12">grudnia</option></select>
+                                <select name="data_od_rok"><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026">2026</option></select>
+                                <strong>do</strong>
+                                <select name="data_do_dzien"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7" selected="selected">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                                <select name="data_do_miesiac"><option value="1">stycznia</option><option value="2">lutego</option><option value="3">marca</option><option value="4">kwietnia</option><option value="5">maja</option><option value="6">czerwca</option><option value="7">lipca</option><option value="8">sierpnia</option><option value="9">września</option><option value="10">października</option><option value="11" selected="selected">listopada</option><option value="12">grudnia</option></select>
+                                <select name="data_do_rok"><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option><option value="2026" selected="selected">2026</option></select>
+                                <strong>w sekcjach:</strong>
+                            </p>
+                            <select name="sekcje[]" multiple="multiple" size="15">
+                                <option value="" selected="selected">Wszystkie sekcje</option>
+
+                                <option value="r_145">INNE</option>
+                                <option value="r_1">OGŁOSZENIA BANKÓW HIPOTECZNYCH</option>
+                                <option value="r_2">OGŁOSZENIA O ZAREJESTROWANIU I WYKREŚLENIU PODATKOWYCH GRUP KAPITAŁOWYCH</option>
+                                <option value="r_182">OGŁOSZENIA O ZAWIĄZANIU GRUP BANKOWYCH</option>
+                                <option value="r_3">OGŁOSZENIA ORGANU NADZORUJĄCEGO</option>
+                                <option value="r_4">OGŁOSZENIA WYMAGANE PRZEZ KODEKS POSTĘPOWANIA CYWILNEGO</option>
+                                <option value="s_11">&nbsp;&nbsp;&nbsp;&nbsp;Inne</option>
+                                <option value="s_200">&nbsp;&nbsp;&nbsp;&nbsp;Ogłoszenia o wszczęciu postępowania o stwierdzenie zgonu</option>
+                                <option value="s_5">&nbsp;&nbsp;&nbsp;&nbsp;Ogłoszenie o wszczęciu postępowania o stwierdzenie zgonu</option>
+                                <option value="s_6">&nbsp;&nbsp;&nbsp;&nbsp;Ogłoszenie o wszczęciu postępowania o uznanie za zmarłego</option>
+                                <option value="s_7">&nbsp;&nbsp;&nbsp;&nbsp;Ogłoszenie o złożeniu oświadczenia o wszczęciu postępowania naprawczego</option>
+                                <option value="s_8">&nbsp;&nbsp;&nbsp;&nbsp;Stwierdzenie zasiedzenia - wezwanie zainteresowanych przez ogłoszenie</option>
+                                <option value="s_9">&nbsp;&nbsp;&nbsp;&nbsp;Ustanowienie kuratora</option>
+                                <option value="s_10">&nbsp;&nbsp;&nbsp;&nbsp;Wezwanie spadkobierców</option>
+                                <option value="r_12">OGŁOSZENIA WYMAGANE PRZEZ KODEKS SPÓŁEK HANDLOWYCH</option>
+                                <option value="s_17">&nbsp;&nbsp;&nbsp;&nbsp;Inne</option>
+                                <option value="s_202">&nbsp;&nbsp;&nbsp;&nbsp;Proste spółki akcyjne</option>
+                                <option value="s_13">&nbsp;&nbsp;&nbsp;&nbsp;Spółki akcyjne</option>
+                                <option value="s_14">&nbsp;&nbsp;&nbsp;&nbsp;Spółki komandytowo-akcyjne</option>
+                                <option value="s_15">&nbsp;&nbsp;&nbsp;&nbsp;Spółki z ograniczoną odpowiedzialnością</option>
+                                <option value="s_16">&nbsp;&nbsp;&nbsp;&nbsp;Towarzystwa ubezpieczeń wzajemnych</option>
+                                <option value="r_18">OGŁOSZENIA WYMAGANE PRZEZ PRAWO BANKOWE</option>
+                                <option value="r_19">OGŁOSZENIA WYMAGANE PRZEZ PRAWO DZIAŁALNOŚCI GOSPODARCZEJ</option>
+                                <option value="r_181">OGŁOSZENIA WYMAGANE PRZEZ USTAWĘ O KRAJOWYM REJESTRZE SĄDOWYM</option>
+                                <option value="r_171">OGŁOSZENIA WYMAGANE PRZEZ USTAWĘ O RACHUNKOWOŚCI</option>
+                                <option value="r_191">WPISY DO EWIDENCJI PARTII POLITYCZNYCH</option>
+                                <option value="s_189">&nbsp;&nbsp;&nbsp;&nbsp;Pierwsze</option>
+                                <option value="s_190">&nbsp;&nbsp;&nbsp;&nbsp;Zmiany</option>
+                                <option value="r_37">WPISY DO KRAJOWEGO REJESTRU SĄDOWEGO</option>
+                                <option value="s_38">&nbsp;&nbsp;&nbsp;&nbsp;Kolejne</option>
+                                <option value="p_39">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cechy rzemieślnicze</option>
+                                <option value="p_40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Europejskie zgrupowania interesów gospodarczych</option>
+                                <option value="p_41">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federacje lub konfederacje związków pracodawców</option>
+                                <option value="p_42">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fundacje</option>
+                                <option value="p_43">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Główne oddziały zagranicznych zakładów ubezpieczeń</option>
+                                <option value="p_44">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gminne związki rolników, kółek i organizacji rolniczych</option>
+                                <option value="p_45">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne organizacje podmiotów gospodarczych</option>
+                                <option value="p_199">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne organizacje podmiotów gospodarczych</option>
+                                <option value="p_201">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne organizacje przedsiębiorców</option>
+                                <option value="p_46">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne organizacje społeczne/zawodowe</option>
+                                <option value="p_47">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne osoby prawne będące organizacjami pożytku publicznego</option>
+                                <option value="p_167">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instytucje badawcze / instytucje działające w ramach sieci badawczej Łukasiewicz</option>
+                                <option value="p_48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instytucje filmowe</option>
+                                <option value="p_165">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instytucje gospodarki budżetowej</option>
+                                <option value="p_49">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Izby gospodarcze</option>
+                                <option value="p_50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Izby rzemieślnicze</option>
+                                <option value="p_188">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jednostka terenowa stowarzyszenia posiadająca osobowość prawną</option>
+                                <option value="p_51">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jednostki badawczo-rozwojowe</option>
+                                <option value="p_52">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kolumny transportu sanitarnego</option>
+                                <option value="p_53">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kościelne osoby prawne będące organizacjami pożytku publicznego</option>
+                                <option value="p_54">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kółka rolnicze</option>
+                                <option value="p_166">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nie określona</option>
+                                <option value="p_55">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nie posiadające osobowości prawnej instytucje kościelne będące organizacjami pożytku publicznego</option>
+                                <option value="p_56">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nie posiadające osobowości prawnej organizacje pożytku publicznego</option>
+                                <option value="p_57">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oddziały zagranicznych przedsiębiorców</option>
+                                <option value="p_192">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ogólnokrajowe reprezentacje zrzeszeń handlu i usług</option>
+                                <option value="p_58">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ogólnokrajowe reprezentacje zrzeszeń transportu</option>
+                                <option value="p_59">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ogólnokrajowe zrzeszenia międzybranżowe</option>
+                                <option value="p_60">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ogólnokrajowe związki międzybranżowe</option>
+                                <option value="p_153">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polskie związki sportowe</option>
+                                <option value="p_196">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prosta spółka akcyjna</option>
+                                <option value="p_61">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Przedsiębiorcy zagraniczni</option>
+                                <option value="p_62">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Przedsiębiorstwa państwowe</option>
+                                <option value="p_63">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rolnicze zrzeszenia branżowe</option>
+                                <option value="p_64">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samodzielne publiczne zakłady opieki zdrowotnej</option>
+                                <option value="p_180">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spółdzielcza kasa oszczędnościowo-kredytowa</option>
+                                <option value="p_197">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spółdzielnia europejska</option>
+                                <option value="p_65">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółdzielnie</option>
+                                <option value="p_66">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółdzielnie europejskie</option>
+                                <option value="p_67">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki akcyjne</option>
+                                <option value="p_68">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki europejskie</option>
+                                <option value="p_69">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki jawne</option>
+                                <option value="p_70">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki komandytowe</option>
+                                <option value="p_71">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki komandytowo-akcyjne</option>
+                                <option value="p_72">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki partnerskie</option>
+                                <option value="p_73">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki z ograniczoną odpowiedzialnością</option>
+                                <option value="p_74">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stowarzyszenia</option>
+                                <option value="p_75">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stowarzyszenia kultury fizycznej</option>
+                                <option value="p_150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stowarzyszenia kultury fizycznej o zasięgu ogólnokrajowym</option>
+                                <option value="p_187">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stowarzyszenie ogrodowe</option>
+                                <option value="p_76">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Towarzystwa ubezpieczeń wzajemnych</option>
+                                <option value="p_77">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zrzeszenia handlu i usług</option>
+                                <option value="p_78">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zrzeszenia transportu</option>
+                                <option value="p_79">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki pracodawców</option>
+                                <option value="p_80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki rolniczych zrzeszeń branżowych</option>
+                                <option value="p_81">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki rzemiosła polskiego</option>
+                                <option value="p_82">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki sportowe</option>
+                                <option value="p_83">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki stowarzyszeń</option>
+                                <option value="p_84">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki zawodowe</option>
+                                <option value="p_160">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki zawodowe rolników indywidualnych</option>
+                                <option value="s_85">&nbsp;&nbsp;&nbsp;&nbsp;Pierwsze</option>
+                                <option value="p_86">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cechy rzemieślnicze</option>
+                                <option value="p_87">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Europejskie zgrupowania interesów gospodarczych</option>
+                                <option value="p_88">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federacje lub konfederacje związków pracodawców</option>
+                                <option value="p_89">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fundacje</option>
+                                <option value="p_90">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Główne oddziały zagranicznych zakładów ubezpieczeń</option>
+                                <option value="p_91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gminne związki rolników, kółek i organizacji rolniczych</option>
+                                <option value="p_92">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne organizacje podmiotów gospodarczych</option>
+                                <option value="p_203">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne organizacje przedsiębiorców</option>
+                                <option value="p_93">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne organizacje społeczne/zawodowe</option>
+                                <option value="p_94">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne osoby prawne będące organizacjami pożytku publicznego</option>
+                                <option value="p_184">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instytucje badawcze / instytucje działające w ramach sieci badawczej Łukasiewicz</option>
+                                <option value="p_95">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instytucje filmowe</option>
+                                <option value="p_163">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instytucje gospodarki budżetowej</option>
+                                <option value="p_96">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Izby gospodarcze</option>
+                                <option value="p_97">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Izby rzemieślnicze</option>
+                                <option value="p_185">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jednostka terenowa stowarzyszenia posiadająca osobowość prawną</option>
+                                <option value="p_98">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jednostki badawczo-rozwojowe</option>
+                                <option value="p_99">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kolumny transportu sanitarnego</option>
+                                <option value="p_100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kościelne osoby prawne będące organizacjami pożytku publicznego</option>
+                                <option value="p_101">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kółka rolnicze</option>
+                                <option value="p_102">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nie posiadające osobowości prawnej instytucje kościelne będące organizacjami pożytku publicznego</option>
+                                <option value="p_103">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nie posiadające osobowości prawnej organizacje pożytku publicznego</option>
+                                <option value="p_104">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oddziały zagranicznych przedsiębiorców</option>
+                                <option value="p_105">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ogólnokrajowe reprezentacje zrzeszeń transportu</option>
+                                <option value="p_106">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ogólnokrajowe zrzeszenia międzybranżowe</option>
+                                <option value="p_107">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ogólnokrajowe związki międzybranżowe</option>
+                                <option value="p_168">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polskie związki sportowe</option>
+                                <option value="p_194">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prosta spółka akcyjna</option>
+                                <option value="p_108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Przedsiębiorcy zagraniczni</option>
+                                <option value="p_109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Przedsiębiorstwa państwowe</option>
+                                <option value="p_110">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rolnicze zrzeszenia branżowe</option>
+                                <option value="p_111">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samodzielne publiczne zakłady opieki zdrowotnej</option>
+                                <option value="p_112">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółdzielnie</option>
+                                <option value="p_113">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółdzielnie europejskie</option>
+                                <option value="p_114">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki akcyjne</option>
+                                <option value="p_115">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki europejskie</option>
+                                <option value="p_116">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki jawne</option>
+                                <option value="p_117">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki komandytowe</option>
+                                <option value="p_118">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki komandytowo-akcyjne</option>
+                                <option value="p_119">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki partnerskie</option>
+                                <option value="p_120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki z ograniczoną odpowiedzialnością</option>
+                                <option value="p_121">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stowarzyszenia</option>
+                                <option value="p_122">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stowarzyszenia kultury fizycznej</option>
+                                <option value="p_146">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stowarzyszenia kultury fizycznej o zasięgu ogólnokrajowym</option>
+                                <option value="p_186">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stowarzyszenie ogrodowe</option>
+                                <option value="p_123">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Towarzystwa ubezpieczeń wzajemnych</option>
+                                <option value="p_124">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zrzeszenia handlu i usług</option>
+                                <option value="p_125">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zrzeszenia transportu</option>
+                                <option value="p_126">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki pracodawców</option>
+                                <option value="p_169">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki rolniczych zrzeszeń branżowych</option>
+                                <option value="p_127">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki rzemiosła polskiego</option>
+                                <option value="p_128">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki sportowe</option>
+                                <option value="p_161">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki stowarzyszeń</option>
+                                <option value="p_129">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki zawodowe</option>
+                                <option value="p_162">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Związki zawodowe rolników indywidualnych</option>
+                                <option value="r_144">WPISY DO REJESTRU SĄDOWEGO</option>
+                                <option value="s_130">&nbsp;&nbsp;&nbsp;&nbsp;Pierwsze</option>
+                                <option value="p_136">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne</option>
+                                <option value="p_131">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Partie polityczne</option>
+                                <option value="p_132">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki akcyjne</option>
+                                <option value="p_133">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki jawne</option>
+                                <option value="p_134">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki komandytowe</option>
+                                <option value="p_135">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki z o.o.</option>
+                                <option value="s_137">&nbsp;&nbsp;&nbsp;&nbsp;Zmiany</option>
+                                <option value="p_143">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inne</option>
+                                <option value="p_138">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Partie polityczne</option>
+                                <option value="p_139">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki akcyjne</option>
+                                <option value="p_140">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki jawne</option>
+                                <option value="p_141">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki komandytowe</option>
+                                <option value="p_142">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spółki z o.o.</option>
+
+                            </select>
+                            <p><strong>Modyfikowane działy KRS:</strong></p>
+                            <select name="dzialy_krs[]" multiple="multiple" size="7">
+                                <option value="" selected="selected">Wszystkie działy</option>
+                                <option value="1">Dział 1. Informacje ogólne</option>
+<option value="2">Dział 2. Organy reprezentacji i nadzoru</option>
+<option value="3">Dział 3. Przedmiot działalności, złożone dokumenty</option>
+<option value="4">Dział 4. Zaległości, wierzytelności</option>
+<option value="5">Dział 5. Kurator</option>
+<option value="6">Dział 6: Likwidacja, upadłość, przekształcenie podmiotu</option>
+                            </select>
+                        </div>
+                    </form>
+
+                </div>
+
+                <div class="clear"></div>
+
+            </div>
+
+            <div class="page-footer">
+                <div class="footer-notice">
+                    <p>W naszym serwisie przetwarzamy dane osobowe dotyczące działalności gospodarczej i zawodowej prowadzonej przez osoby fizyczne, a także wykorzystujemy pliki cookies w celu zapewnienia prawidłowego działania oraz dalszego rozwoju oferowanych przez nas usług. Szczegółowe informacje na ten temat dostępne są na stronach:<br> <a href="/inne/ochrona-danych-osobowych">Ochrona danych osobowych</a> oraz <a href="/inne/polityka-prywatnosci">Polityka prywatności</a>.</p>
+                </div>
+                <div class="footer-bar">
+                    <a href="/inne/oferta">Nasza oferta</a>
+                    <span class="g">|</span>
+                    <a href="/inne/dokumentacja-api">Dokumentacja API</a>
+                    <span class="g">|</span>
+                    <a href="/inne/regulamin">Regulamin</a>
+                    <span class="g">|</span>
+                    <a href="https://www.mgbi.pl/poradniki/produkt/lista-upadlosci/" target="_blank">Poradniki</a>
+                    <span class="g">|</span>
+                    <a href="/inne/kontakt">Kontakt</a>
+                    <br /><br />
+                    &copy; 2026 <a href="https://www.mgbi.pl/" target="_blank">MGBI sp. z o.o.</a>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="/layout/main_mobile.js"></script>
+
+    </body>
+</html>
+

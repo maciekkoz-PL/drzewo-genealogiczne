@@ -1,3 +1,5 @@
+**Nowsza kontynuacja jest zakończona:** [wyniki baz iMSiG](../2026-11-07-tomasz-kontynuacja/STATUS.md), [aktualny plan](../2026-11-07-tomasz-kontynuacja/PLAN_KONTYNUACJI.md). Nie ponawiać odczytanych list.
+
 # Kontynuacja — Tomasz P09
 
 1. Priorytetem jest Tomasz, przyrodni brat Marysi. Nie zastępować go badaniami wuja Piotra ani Australii bez nowej decyzji użytkownika.

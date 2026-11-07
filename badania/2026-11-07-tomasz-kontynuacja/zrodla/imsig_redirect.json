@@ -1,0 +1,5 @@
+{
+  "requested": "https://www.imsig.pl/szukaj?tekst=%22Tomasz+Chmielewski%22",
+  "observed": "Przekierowanie do wyszukiwarki Google; nie wykonano natywnej pełnotekstowej kwerendy iMSiG. Formularz osób opisany jako dotyczący KRS; niezależna pełnotekstowa kwerenda została wykonana w oficjalnym API Ministerstwa Sprawiedliwości.",
+  "at": "2026-11-07T03:41:31+00:00"
+}

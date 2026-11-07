@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/SearchCount?entityName=&krs=&nip=&textInPosition=&textInBody=spadku&signatureType=A&signatureOfCase=&signatureKRS=&court=&from=2001-04-26&to=2026-11-07&page=1",
+    "query": {
+      "entityName": "",
+      "krs": "",
+      "nip": "",
+      "textInPosition": "",
+      "textInBody": "spadku",
+      "signatureType": "A",
+      "signatureOfCase": "",
+      "signatureKRS": "",
+      "court": "",
+      "from": "2001-04-26",
+      "to": "2026-11-07",
+      "page": "1"
+    },
+    "at": "2026-11-07T03:38:03.571385+00:00",
+    "status": 200,
+    "response": 1265
+  },
+  {
+    "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/SearchCount?entityName=&krs=&nip=&textInPosition=&textInBody=%22Tomasz+Chmielewski%22&signatureType=A&signatureOfCase=&signatureKRS=&court=&from=2001-04-26&to=2026-11-07&page=1",
+    "query": {
+      "entityName": "",
+      "krs": "",
+      "nip": "",
+      "textInPosition": "",
+      "textInBody": "\"Tomasz Chmielewski\"",
+      "signatureType": "A",
+      "signatureOfCase": "",
+      "signatureKRS": "",
+      "court": "",
+      "from": "2001-04-26",
+      "to": "2026-11-07",
+      "page": "1"
+    },
+    "at": "2026-11-07T03:38:08.647386+00:00",
+    "status": 200,
+    "response": 1
+  },
+  {
+    "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/SearchCount?entityName=&krs=&nip=&textInPosition=&textInBody=%22Tomaszu+Chmielewskim%22&signatureType=A&signatureOfCase=&signatureKRS=&court=&from=2001-04-26&to=2026-11-07&page=1",
+    "query": {
+      "entityName": "",
+      "krs": "",
+      "nip": "",
+      "textInPosition": "",
+      "textInBody": "\"Tomaszu Chmielewskim\"",
+      "signatureType": "A",
+      "signatureOfCase": "",
+      "signatureKRS": "",
+      "court": "",
+      "from": "2001-04-26",
+      "to": "2026-11-07",
+      "page": "1"
+    },
+    "at": "2026-11-07T03:38:09.243292+00:00",
+    "status": 200,
+    "response": 1
+  }
+]
