@@ -1,0 +1,15 @@
+# Etap 27 — zamknięcie przeglądu księgi wyjazdów Łodzi 1938
+
+Przejrzano kolumny nazwisk na obrazach **96–182** [księgi wyjazdów Łodzi 1938](https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/6209685), sygn. **39/221/0/4.12/25508**; obrazy 183–184 to zakończenie księgi i okładka. Łącznie z etapem 26 obejrzano kolumny nazwisk całej jednostki 1–184. Zakres oznacza przegląd nazwisk, nie pełną transkrypcję rubryk wszystkich wpisów. [Manifest URL i SHA256 dla obrazów 96–184](zrodla/zakres_odczytu_96-184.json) pozwala dokładnie odtworzyć kontrolę; wcześniejsze obrazy 1–95 opisuje [etap 26](../2026-11-07-sesja-26-Wladyslaw-1938/zrodla/zakres_odczytu.json).
+
+Na [obrazie 126, karta 123, nr 2800](https://photos.szukajwarchiwach.gov.pl/6ef8a29466992647ecaabd571f9de1a996a14ac936a55d39e9faa2b7a1b91069_max) widnieje **Edward Stanisław Chmielewski**, grupa **2 mężczyzn i 1 kobiety**, adres docelowy odczytywany jako Piaseczna 23 (wymaga kontroli). [Oryginał strony](zrodla/LodzW1938_126.jpg). Pozostałych dwóch osób księga nie nazywa. Nie ma daty urodzenia ani rodziców; wpis otrzymał osobny identyfikator C106. Nie połączono go z P03, P11 ani z Bogusławem.
+
+W przeglądanym zakresie występują także inne wpisy nazwiska: obraz 105 Stefan, 113 Kazimierz, 114 Jan, 123 wpis z nieczytelnym imieniem, 129 Jan Kazimierz, 138 Władysław, 147 Leokadia, 159 Józef, 172 Józef Edward, 175 Stanisław. Są to **same trafienia nazwiskowe**, bez ustalonego pokrewieństwa; ich numery obrazów i oryginalne URL są w manifeście. Nie nadano im identyfikatorów osób rodzinnych. W szczególności samodzielny wpis Władysława z obrazu 138 nie jest automatycznie C104 z obrazu 8.
+
+Weryfikacja wcześniejszego [wpisu Stanisławy](KOREKTA_GRABOWA.md) ujawniła pomyłkę: **Grabowa 4**, a nie 7. W bieżącym Excelu poprawiono IM025 i dodano Q101. Zbieżność gminy Buczek między przyjazdem Stanisławy w 1939 a wyjazdem Czesława w 1938 zapisana jest jako **H054, hipoteza bez potwierdzonego pokrewieństwa**.
+
+W Excelu dopisano S297, L298–L299, C106, H054, IM058, F432–F434 i Q101. **Nie znaleziono imienia P11, jego aktu ani dokumentu wymieniającego jego relację z Bogusławem i Piotrem.** Publiczne drzewo i dziennik przełomowych odkryć pozostają bez zmian, ponieważ nie nastąpiło potwierdzenie nowej relacji. Nie kontaktowano się z nikim. [Plan następnych kroków](PLAN_KONTYNUACJI.md).
+
+W dalszej kwerendzie [odnaleziono inwentarz](INWENTARZ_BUCZEK.md) zachowanych rejestrów mieszkańców gminy Buczek z lat 1932–1939: **41/571/0/-/60** (skorowidz) oraz **/-/61–/67** (rejestry wsi, w tym /63 dla wsi Buczek). Katalog podaje **0 skanów** dla tych jednostek. Jest to konkretny kierunek sprawdzenia H054, bez potwierdzenia, że poszukiwane osoby w ogóle występują w księgach. Dodano S298–S299, L300 i F435.
+
+Z uwagi na pojemność roboczą oryginały obrazów 8, 74 i 126 są zachowane w repozytorium, a pozostałe przeglądane obrazy są możliwe do ponownego pobrania według manifestów. [Lista usuniętych kopii 1–95](usuniete_kopie_robocze.json) zapisuje wcześniej zweryfikowane skróty. Historyczny status etapu 26 opisuje stan dysku w tamtej chwili; w tej sesji kopie robocze usunięto po weryfikacji SHA256.

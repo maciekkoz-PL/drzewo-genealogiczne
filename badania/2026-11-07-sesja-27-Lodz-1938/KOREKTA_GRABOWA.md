@@ -1,0 +1,5 @@
+# S274 / IM025 — sprostowanie numeru domu
+
+Ponowny odczyt [oryginału obrazu 31, karta 27, nr 708](https://photos.szukajwarchiwach.gov.pl/ff3f4b97da115d0bc55177ea439a4e2bdcb0125c42be863c01b4e587be79fd35_max) księgi przyjazdów Łodzi 1939, sygn. **39/221/0/4.12/25446**, wskazuje adres docelowy **Grabowa 4**. Poprzedni odczyt „Grabowa 7” w IM025 i [CSV etapu 22](../2026-11-07-sesja-22-Napiorkowskiego/zrodla/trafienia_25446.csv) był błędny. Bieżący indeks w Excelu poprawiono, a dawny CSV zachowano jako ślad historii kwerendy. Wpis dotyczy Stanisławy Chmielewskiej, grupy 1 mężczyzny i 1 kobiety, przyjazd z powiatu Łask, gminy Buczek w marcu 1939 r.; nie podaje tożsamości drugiej osoby ani pokrewieństwa.
+
+[Wpis Czesława](../2026-11-07-sesja-26-Wladyslaw-1938/STATUS.md) nr 1602 w księdze wyjazdów 1938 prowadzi do gminy Buczek. Oba wpisy łączy kierunek geograficzny i nazwisko, lecz różnią się czasem oraz wielkością grup. Brak dowodu, że osoby należały do jednej rodziny lub że Czesław jest P03. Hipoteza H054 pozostaje otwarta.
