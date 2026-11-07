@@ -1,0 +1,43 @@
+{
+  "query": "\"Tomek Chmielewski\" \"Łódź\" zmarł",
+  "id": "01a1b4e0-4d70-77ea-8a04-dbf47ca44e36",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.myheritage.pl/names/tomasz_chmielewski?srsltid=AYCX9vL009EsoAF3zIEXZ_z-fQcf6lorSqL8cU4MNYsGojZW6V6LFguM",
+      "title": "Tomasz Chmielewski Historia rodziny i zapisy historyczne",
+      "description": "... Tomek ChmielewskiTony ChmielewskiTracy ChmielewskiTyler ChmielewskiUrsula ... Łódź Voivodeship, Poland. Został pochowany w Cmentarz Parafialny, Rawa ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://www.skawina-mbp.sowa.pl/index.php?KatID=0&typ=repl&plnk=__wydawca_+Pr%C3%B3szy%C5%84ski+Media&sort=byscore&a=eJyLNjTRszQyMzDRUXq0ZfHDSRNvNzyZ0PK4a-KzJTueTmh62ND4bOeC53OaHjU0xJQaGBgYKgEVrpn-YFfXs8bupw0bHrVuet7c8XzjlCcdjQ8WNDxf0PwMSWWoiYWxqaFSLADpHjRS",
+      "title": "SOWA OPAC : Miejska Biblioteka Publiczna w SkawinieKatalog",
+      "description": "Łódź (woj. łódzkie). (6). Karolina Północna (Stany Zjednoczone ; stan). (5) ... Tomek / Chmielewski, H.J. - Warszawa : Prószyński Media sp. z o.o., 2009 ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://allegrolokalnie.pl/oferty/ksiazki-i-komiksy/komiksy-79413/q/9%20komiks%C3%B3w?page=2&zrodlo=lokalnie&zrodlo=allegro",
+      "title": "9 komiksów w Komiksy - Kultura i rozrywka - Strona 2 - Allegro ...",
+      "description": "Tytus Romek I A'Tomek Chmielewski Ksiega IX w I wydaniu 1974r BDB-. Obserwuj. -25% 399,00 ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://www.facebook.com/61575723187678/posts/%C5%82%C3%B3d%C5%BA-wyremontowa%C5%82a-6-w%C5%82asnych-ulic%C5%82%C3%B3d%C5%BA-lipiec-2025-w%C5%82adze-chwal%C4%85-si%C4%99-kolejnymi-r/122124062756857439/",
+      "title": "ŁÓDŹ WYREMONTOWAŁA 6% WŁASNYCH ULIC. Łódź, lipiec ...",
+      "description": "ŁÓDŹ WYREMONTOWAŁA 6% WŁASNYCH ULIC. Łódź, lipiec ... Tutaj tych lat było by zdecydowanie mniej... 1y. Tomek Chmielewski ... Zmarł siedmioletni chłopiec.",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://krzzp.pl/aktualnosci/",
+      "title": "Aktualności - Związek Zawodowy Poligrafów",
+      "description": "Obecni byli wiceprzewodniczący ZZP Tomek Chmielewski i członek Krajowej Rady Ewa Peter. ... Spotkanie z Zakładowymi Radami Amcor Łódź ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

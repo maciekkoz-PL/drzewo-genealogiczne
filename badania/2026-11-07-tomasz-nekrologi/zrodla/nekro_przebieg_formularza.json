@@ -1,0 +1,9 @@
+{
+  "publication_url": "https://www.nekrologi.net/znajdz-nekrologi?query=Chmielewski&type=anytime&publication=14",
+  "date_url": "https://www.nekrologi.net/znajdz-nekrologi?query=Chmielewski&type=range&publication=14&publish_date_from=2001-04-26&publish_date_to=2001-05-07",
+  "method": "Zwykłe rozwinięcie Filtruj i wybór pól w przeglądarce. Kliknięcie nieistniejącego nagłówka po nawigacji timeout; wyniki odczytano następnie przez osobne GET dokładnego URL.",
+  "publication_values": {
+    "14": "Dziennik Łódzki",
+    "17": "Express Ilustrowany"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "query": "\"Tomasz Chmielewski\" \"Bogusława\" -site:myheritage.com -site:myheritage.pl",
+  "id": "01a1b4e3-aace-7686-8749-9bd77f169498",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.facebook.com/tomasz.chmielewski.142/posts/24790917910537788/",
+      "title": "Tomasz Chmielewski - Facebook",
+      "description": "Tomasz Chmielewski. 5009 followers · 12 talking about this. Digital creator. ... Bogusława Siepa and 9 others · 10 · 2. Marek Ołubek ... Tomasz Chmielewski is ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://www.facebook.com/tch.zary/videos/1035850389225236/",
+      "title": "Tomasz Chmielewski on Reels - Facebook",
+      "description": "Tomasz Chmielewski ... Bogusława Monika Sopniewska jakieś propozycje zagospodarowania tego terenu? ... Tomasz Chmielewski. 󱙿. Videos. 󱙿. Tomasz Chmielewski.",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://repo.pw.edu.pl/info/author/WUTc19d901353d64abca16776188fb03871?affil=CPCT&r=publication&tab=cooperation&title=Profil%2Bosoby%2B%25E2%2580%2593%2BKarolina%2BBudniak%2B%25E2%2580%2593%2BPolitechnika%2BWarszawska&lang=pl&pn=1",
+      "title": "Współpraca – Profil osoby – Karolina Budniak – Politechnika ...",
+      "description": "... Bogusława Adamczyk-Cieślak Ewelina A. Miśta-Jakubowska Tomasz Chmielewski Witold Chromiński Dorota Moszczyńska Agnieszka Brojanowska Wersja tekstowa ... Bogusława ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://rejestr.io/krs/215680/katolickie-stowarzyszenie-apostolskie-w-sluzbie-nowej-ewangelizacji-wspolnota-piesn-nowa",
+      "title": "KATOLICKIE STOWARZYSZENIE APOSTOLSKIE W SŁUŻBIE ...",
+      "description": "Od 19 czerwca 2024 r. CZŁONEK. Bogusława Jaworska. Od 19 czerwca 2024 r ... Tomasz Chmielewski. Od 14 czerwca 2021 r. Od 24 sierpnia 2004 r. Jacek Józef ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://ujk.edu.pl/~ptmp/pages/czlonkowie.html",
+      "title": "Członkowie PTMP - Kielce - UJK",
+      "description": "mgr Tomasz Chmielewski ... Polska Akademia Nauk więcej... Krzysztof Czokańczuk. Specjalista ds. marketingu więcej... prof. zw. dr hab. Bogusława Dobek-Ostrowska.",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

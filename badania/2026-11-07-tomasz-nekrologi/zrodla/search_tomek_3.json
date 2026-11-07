@@ -1,0 +1,43 @@
+{
+  "query": "\"Dziennik Łódzki\" \"2001\" \"nr 98\"",
+  "id": "01a1b4e0-4d83-73be-a8e1-d583bd0761bb",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://dzienniklodzki.pl/fryderyk-chopin-patronem-szkoly-podstawowej-nr-94-w-lodzi/ar/c5-18551181",
+      "title": "Fryderyk Chopin patronem Szkoły Podstawowej nr ... - Dziennik Łódzki",
+      "description": "1978 -1980 - decyzją władz oświatowych następuje likwidacja kolejno SP nr 132 i SP nr 98, przechodzą one do SP nr 94. ... 2001 - likwidacja SP nr 94, w budynku ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://dzienniklodzki.pl/grzegorz-nita-szef-zarzadu-drog-i-transportu-zaleca-lodzianom-przesiadki/ar/9063102",
+      "title": "Grzegorz Nita, szef Zarządu Dróg i Transportu ... - Dziennik Łódzki",
+      "description": "... nr 98, który teraz kursuje między Nowym Józefowem a Dworcem Kaliskim. ... 2001 roku. - Dlaczego przy okazji otwarcia trasy ... Dziennik Łódzki podlegają ochronie.",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://www.facebook.com/RadioLodz/posts/98linia-autobusowa-numer-98-by%C5%82a-jedn%C4%85-z-najwa%C5%BCniejszych-w-%C5%82odzi-%C5%82%C4%85czy%C5%82a-dwa-kra/1660429062759451/",
+      "title": "98 Linia autobusowa numer 98 była jedną z najważniejszych w ...",
+      "description": "... 2001 roku w związku z uruchomieniem nowej ... nr 98 stanowiła bezpośrednie połączenie jednego ... Dziennik Łódzki · Follow. Telewizja TOYA · Follow · TVP3 Łódź.",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://bip.zloczew.pl/wiadomosci/671/wiadomosc/65768/2007_uchwala_nr_xiii7507_rady_miejskiej_w_zloczewie_z_dnia_30_pa",
+      "title": "Biuletyn Informacji Publicznej - Urząd Miejski w Złoczewie - Wybory ...",
+      "description": "Dziennik Łódzki · Strona główna · Wybory · Ławników · 2007 UCHWAŁA NR ... 160 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://plus.dzienniklodzki.pl/tag/dzieci/2",
+      "title": "Dzieci - Artykuły | Dziennik Łódzki Plus",
+      "description": "Dziennik Łódzki Plus · Dziennik Łódzki · Nasza ... Klockarnia w przedszkolu nr 98 · Katarzyna Rogala ... W 2001 r. Etan został oficjalnie uznany za ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

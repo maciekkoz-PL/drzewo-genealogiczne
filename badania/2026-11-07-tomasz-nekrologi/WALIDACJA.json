@@ -1,0 +1,23 @@
+{
+  "at": "2026-11-07T07:31:11+00:00",
+  "base_head": "2c4712670064fc2df94089e63e74494686e96f76",
+  "tracked_files_unchanged": true,
+  "global_workbook_and_tree_unchanged": true,
+  "json_valid": true,
+  "local_links_valid": true,
+  "public_geneteka_queries": 21,
+  "web_queries": 20,
+  "new_verified_family_facts": 0,
+  "source_files": 57,
+  "source_bytes": 446175,
+  "local_source_ids": [
+    "TOM-N01",
+    "TOM-N02",
+    "TOM-N03",
+    "TOM-N04",
+    "TOM-N05"
+  ],
+  "publication_holding_items": 86,
+  "months_2001_found": 12,
+  "outbound_messages_sent_this_step": 0
+}

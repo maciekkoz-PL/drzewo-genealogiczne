@@ -1,0 +1,15 @@
+{
+  "query": "\"Tomasz Chmielewski\" site:ogloszeniasadowe.pl OR site:komunikaty.pl OR site:ogloszenia.sadowe.pl",
+  "id": "01a1b54d-8f1d-7784-8990-7b642f54e0fc",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.komunikaty.pl/ogloszenie/113729/syndyk-masy-upadlosci-syndyk-masy-upadlosci-udzialow-w-prawach-wlasnosci-nieruchomosci-gruntowych",
+      "title": "Syndycy i Komornicy: Syndyk masy upadłości ... - Komunikaty.pl",
+      "description": "Zygmunta Chmielewskiego 24B/9, po wcześniejszym umówieniu spotkania pod numerem telefonu +48 604 080805, bądź mailowo kierując zapytanie na ...",
+      "position": 1,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

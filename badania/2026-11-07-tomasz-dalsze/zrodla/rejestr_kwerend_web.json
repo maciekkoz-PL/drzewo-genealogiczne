@@ -1,0 +1,210 @@
+[
+  {
+    "file": "search_0.json",
+    "query": "\"Dziennik Łódzki\" \"2001\" site:academica.edu.pl",
+    "id": "01a1b54d-8ef6-76b5-aed5-f017a1d7a9f9",
+    "result_count": 0,
+    "results": []
+  },
+  {
+    "file": "search_1.json",
+    "query": "\"Express Ilustrowany\" \"2001\" site:academica.edu.pl",
+    "id": "01a1b54d-8f2a-77a5-b1e2-4158a8ef5fb4",
+    "result_count": 0,
+    "results": []
+  },
+  {
+    "file": "search_2.json",
+    "query": "Rejestr Spadkowy wyszukiwarka imię nazwisko data zgonu",
+    "id": "01a1b54d-8ee9-7780-a6b9-61c68d83ce5c",
+    "result_count": 5,
+    "results": [
+      {
+        "title": "WYSZUKIWARKI: Rejestr Spadkowy PL (krajowy)",
+        "url": "https://rejestry-notarialne.pl/37"
+      },
+      {
+        "title": "Rejestr Spadkowy - Krajowa Rada Notarialna",
+        "url": "https://www.krn.org.pl/rejestry-notarialne/rejestr-spadkowy"
+      },
+      {
+        "title": "Rejestr Spadkowy - czym jest i jakie informacje zawiera?",
+        "url": "https://wroclaw-adwokat.pl/rejestr-spadkowy-czym-jest-i-jakie-informacje-zawiera/"
+      },
+      {
+        "title": "Rejestry Notarialne",
+        "url": "https://rejestry-notarialne.pl/"
+      },
+      {
+        "title": "Rejestr spadkowy – co to jest i jakie pełni funkcje?✍️",
+        "url": "https://slupinska.eu/blog/rejestr-spadkowy/"
+      }
+    ]
+  },
+  {
+    "file": "search_3.json",
+    "query": "\"Tomasz Chmielewski\" site:ogloszeniasadowe.pl OR site:komunikaty.pl OR site:ogloszenia.sadowe.pl",
+    "id": "01a1b54d-8f1d-7784-8990-7b642f54e0fc",
+    "result_count": 1,
+    "results": [
+      {
+        "title": "Syndycy i Komornicy: Syndyk masy upadłości ... - Komunikaty.pl",
+        "url": "https://www.komunikaty.pl/ogloszenie/113729/syndyk-masy-upadlosci-syndyk-masy-upadlosci-udzialow-w-prawach-wlasnosci-nieruchomosci-gruntowych"
+      }
+    ]
+  },
+  {
+    "file": "search_memorial_0.json",
+    "query": "\"Tomasz Chmielewski\" site:wirtualnycmentarz.pl OR site:wiecznapamiec.pl OR site:ogrodypamieci.pl OR site:memoria.pl",
+    "id": "01a1b553-8644-74da-a0ed-038bad1f343b",
+    "result_count": 0,
+    "results": []
+  },
+  {
+    "file": "search_memorial_1.json",
+    "query": "\"Tomasz\" \"Chmielewski\" \"26-04-2001\"",
+    "id": "01a1b553-870a-760d-9363-dd933492e245",
+    "result_count": 5,
+    "results": [
+      {
+        "title": "Interpelacja w sprawie budowy autostrady A-3, przebudowy ...",
+        "url": "https://orka2.sejm.gov.pl/IZ3.nsf/d280e243ad0fdc68c1257364004369bc/915995de61432598c12574d00037a3f3?OpenDocument"
+      },
+      {
+        "title": "Ogłoszenie listy agentów celnych. - OpenLEX - ustawy",
+        "url": "https://sip.lex.pl/akty-prawne/dzienniki-resortowe/ogloszenie-listy-agentow-celnych-34940800"
+      },
+      {
+        "title": "[PDF] Zestawienie-zawodnikow-2021.pdf - PZJ",
+        "url": "https://pzj.pl/wp-content/uploads/2022/02/Zestawienie-zawodnikow-2021.pdf"
+      },
+      {
+        "title": "[PDF] Baza cmentarza_2019",
+        "url": "https://parafiaswjerzego.pl/wp-content/uploads/2019/09/Baza-Cmentarza_03.09.2019.pdf"
+      },
+      {
+        "title": "Wyszukiwarka orzeczeń - System Analizy Orzeczeń Sądowych - SAOS",
+        "url": "https://www.saos.org.pl/search?lawJournalEntryCode=1997/553&page=5267"
+      }
+    ]
+  },
+  {
+    "file": "search_memorial_2.json",
+    "query": "\"Tomasz\" \"Chmielewski\" \"26.IV.2001\"",
+    "id": "01a1b553-86cb-722e-a146-cf4056bea963",
+    "result_count": 5,
+    "results": [
+      {
+        "title": "Bibliografia - Jadwiżanki Wawelskie -",
+        "url": "https://www.jadwizanki.pl/bp-waclaw-swierzawski/bibliografia/"
+      },
+      {
+        "title": "[PDF] Tadeusz Białecki STUDIA I mATerIAły z historii Pomorza ...",
+        "url": "https://wnus.usz.edu.pl/historiografia/file/issue/download/1312.pdf"
+      },
+      {
+        "title": "[PDF] płockie i brzeskie sympozja i konferencje nt. zarządzania ...",
+        "url": "http://www.tnp.org.pl/s.plockie.2.pdf"
+      },
+      {
+        "title": "[PDF] z kart kroniki Szkoły Podstawowej nr 3 im. doktora Janusza ...",
+        "url": "https://cms-v1-files.superszkolna.pl/sites/1516/wiadomosci/404693/files/szkola_trojka_50_lat_tomaszowskiej_trojki_1.pdf"
+      },
+      {
+        "title": "[PDF] RUCH FILOZOFICZNY - UMK",
+        "url": "https://kpbc.umk.pl/Content/233794/PDF/EOD_OPEN_004_02_1.pdf"
+      }
+    ]
+  },
+  {
+    "file": "search_memorial_3.json",
+    "query": "\"Chmielewskim\" site:lodz.sr.gov.pl OR site:lodz-widzew.sr.gov.pl \"2001\"",
+    "id": "01a1b553-8773-771c-a0c9-d0f6318dc626",
+    "result_count": 0,
+    "results": []
+  },
+  {
+    "file": "search_next_0.json",
+    "query": "Academica katalog Dziennik Łódzki Wiadomości Dnia 2001",
+    "id": "01a1b550-5806-71c9-9b1e-778d8c477afb",
+    "result_count": 5,
+    "results": [
+      {
+        "title": "Katalog - Academica",
+        "url": "https://academica.edu.pl/search"
+      },
+      {
+        "title": "Academica - Biblioteka UŁ",
+        "url": "https://www.lib.uni.lodz.pl/academica"
+      },
+      {
+        "title": "Dziennik Łódzki / kom. red. - Biblioteka Narodowa (Polska)",
+        "url": "https://katalogi.bn.org.pl/discovery/fulldisplay?vid=48OMNIS_NLOP%3A48OMNIS_NLOP&docid=alma9914446997905606&context=L"
+      },
+      {
+        "title": "https://libguides.umn.edu/14826",
+        "url": "https://libguides.umn.edu/14826"
+      },
+      {
+        "title": "[PDF] Podręcznik Czytelnika CWPN ACADEMICA | AHNS",
+        "url": "https://ahns.pl/wp-content/uploads/2025/01/Podrecznik-czytelnika-CWPN-Academica_.pdf"
+      }
+    ]
+  },
+  {
+    "file": "search_next_1.json",
+    "query": "\"Tomaszu Chmielewskim\" spadku",
+    "id": "01a1b550-5806-740e-bab2-5b9da30f1fbb",
+    "result_count": 2,
+    "results": [
+      {
+        "title": "Olędzki 10/1819: Spadek oddają · Dają Zapewnienie · — notarial deed",
+        "url": "https://jasinscy.org.pl/en/akty/oledz-10-1819.html"
+      },
+      {
+        "title": "[PDF] OBWIESZCZENIA PUBLICZNE",
+        "url": "https://jbc.bj.uj.edu.pl/Content/430212/PDF/NDIGCZAS019313_67775840.pdf"
+      }
+    ]
+  },
+  {
+    "file": "search_next_2.json",
+    "query": "\"Tomasza Chmielewskiego\" \"2001\" Łódź spadku",
+    "id": "01a1b550-5817-7548-874c-3f68c5be600b",
+    "result_count": 5,
+    "results": [
+      {
+        "title": "[PDF] Nr 70 (7475) - Monitor Sądowy i Gospodarczy",
+        "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Download?id=8865&fileId=true"
+      },
+      {
+        "title": "[PDF] Dariusz Urban - Wydawnictwo UŁ",
+        "url": "https://ksiegarnia.uni.lodz.pl/pobieranie/Urban_Panstwowe-fundusze-oa.pdf"
+      },
+      {
+        "title": "[PDF] Wiadomości SIMP Nr 4-6/2024 - SIMP Gorzów Wielkopolski",
+        "url": "https://gorzow.simp.pl/wp-content/uploads/2024/07/Wiadomosci-SIMP-4-6-2024-1.pdf"
+      },
+      {
+        "title": "[PDF] STUDIA I PRACE KOLEGIUM ZARZĄDZANIA I FINANSÓW",
+        "url": "https://econjournals.sgh.waw.pl/public/journals/5/archiwum_2018_2014/2006/ZN_71.pdf"
+      },
+      {
+        "title": "Katalog rękopisów Biblioteki Uniwersyteckiej w Warszawie. T. 8 ...",
+        "url": "https://crispa.uw.edu.pl/object/files/220374/display/JPEG"
+      }
+    ]
+  },
+  {
+    "file": "search_next_3.json",
+    "query": "\"Tomasz Chmielewski\" site:lodz.sr.gov.pl OR site:lodz-widzew.sr.gov.pl",
+    "id": "01a1b550-5782-73df-80d7-fbf8fd11111b",
+    "result_count": 1,
+    "results": [
+      {
+        "title": "Lista referendarzy sądowych - Sąd Rejonowy dla Łodzi ...",
+        "url": "https://lodz.sr.gov.pl/lista-referendarzy-sadowych,sd,mg,19,266.html,212"
+      }
+    ]
+  }
+]

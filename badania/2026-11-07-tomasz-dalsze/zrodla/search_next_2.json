@@ -1,0 +1,43 @@
+{
+  "query": "\"Tomasza Chmielewskiego\" \"2001\" Łódź spadku",
+  "id": "01a1b550-5817-7548-874c-3f68c5be600b",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Download?id=8865&fileId=true",
+      "title": "[PDF] Nr 70 (7475) - Monitor Sądowy i Gospodarczy",
+      "description": "upadłościowym Tomasza Chmielewskiego - osoby fizycznej ... i Joanny, zmarły w dniu 11 marca 2001 r. w Poznaniu (nie- ruchomość ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://ksiegarnia.uni.lodz.pl/pobieranie/Urban_Panstwowe-fundusze-oa.pdf",
+      "title": "[PDF] Dariusz Urban - Wydawnictwo UŁ",
+      "description": "w opracowaniach Pawła Smagi (2014), Tomasza Chmielewskiego (2014) i Pawła ... (2001), Public vs. Private Ownership: the Current State of the Debate ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://gorzow.simp.pl/wp-content/uploads/2024/07/Wiadomosci-SIMP-4-6-2024-1.pdf",
+      "title": "[PDF] Wiadomości SIMP Nr 4-6/2024 - SIMP Gorzów Wielkopolski",
+      "description": "o znacznej sile niszczenia, jak te z lat 2001 czy 2010. Przepływa ... Tomasza Chmielewskiego, prezesa SIMP dyplom z podziękowaniami za ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://econjournals.sgh.waw.pl/public/journals/5/archiwum_2018_2014/2006/ZN_71.pdf",
+      "title": "[PDF] STUDIA I PRACE KOLEGIUM ZARZĄDZANIA I FINANSÓW",
+      "description": "• artykuł Tomasza Chmielewskiego Wybrane wyniki badań empirycznych ... 2001, s. 110. 5. Ibidem. Page 47. Pośrednia dyscyplina rynkowa w bankowości 47.",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://crispa.uw.edu.pl/object/files/220374/display/JPEG",
+      "title": "Katalog rękopisów Biblioteki Uniwersyteckiej w Warszawie. T. 8 ...",
+      "description": "1999, 2001, 2004, 2005, 2008, 2015, 2018. ... 1-18. 1. Odpowiedzi prezydującego w Zwierzchności Akademii Duchownej bpa sufraga- na Tomasza Chmielewskiego, 23 VIII ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

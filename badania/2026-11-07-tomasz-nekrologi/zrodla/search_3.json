@@ -1,0 +1,43 @@
+{
+  "query": "\"Dziennik Łódzki\" \"2001\" \"kwiecień\" archiwum",
+  "id": "01a1b4db-8d95-739e-9de6-cc55a1d8bcc1",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://journals.ispan.edu.pl/index.php/slh/pl/article/view/slh.2417",
+      "title": "Brama triumfalna polskiej opowieści. Symboliczna ...",
+      "description": "(2001, kwiecień 5). Pianista na planie. Kulisy. (Wycinek w archiwum ... Dziennik Łódzki, s. 20. Passenstein, M. (1958). Szmugiel w getcie warszawskim ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://czasopisma.uni.lodz.pl/polonica/issue/download/873/409",
+      "title": "[PDF] Untitled - Journals University of Lodz",
+      "description": "Walicki Jacek, „Dziennik Łódzki” – nasze 115-lecie, Oddział Prasa Łódzka Sp. ... 4. 40 „Wiadomości – 43 bis” 2001, nr 298/299, s. 4. 41 Wynikało to zapewne ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://plus.dzienniklodzki.pl/tag/historia/3",
+      "title": "Historia - Artykuły | Dziennik Łódzki Plus",
+      "description": "Dziennik Łódzki Plus · Dziennik Łódzki ... KWIECIEŃ 1954. W „Sztandarze Młodych” zaczyna się ... Pod jej redakcją w 2001 roku ukazała się w Opolu książka „Władysław ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://pl.wikipedia.org/wiki/Portal:%C5%81%C3%B3d%C5%BA/Wybrany_artyku%C5%82_-_archiwum",
+      "title": "Portal:Łódź/Wybrany artykuł - archiwum – Wikipedia, wolna ...",
+      "description": "Kwiecień 2008. edytuj. Mapa parku. zabytek Park ... Dziennik Łódzki (pełny tytuł Polska Dziennik Łódzki) ... W październiku 2001 został ponownie powołany na ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "http://roczniklodzki.pl/rocznik_72/Rocznik_Lodzki_72.pdf",
+      "title": "[PDF] Rocznik Łódzki",
+      "description": "Kwiecień, Problemy oświaty, szkoły i wychowania na łamach wileńskiej ... lotnicze; „Dziennik Łódzki” (dalej: DzŁ), 10 czerwca 1967, nr 135, s. 3; Jutro ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

@@ -1,0 +1,55 @@
+REJESTRY NOTARIALNE
+O SYSTEMIE
+PODSTAWA PRAWNA
+DOKUMENTY
+WNIOSKI
+KOMUNIKATY
+KONTAKT
+LOGOWANIE
+WYSZUKIWARKI
+Rejestr Spadkowy PL
+Rejestr Spadkowy EPS
+Rejestr notariuszy
+Rejestr Testamentów
+REJESTRY
+WYSZUKIWARKI: Rejestr Spadkowy PL (krajowy)
+
+Rejestr Spadkowy prowadzony zgodnie z art. 95i ustawy Prawo o notariacie składa się z 2-ch części:
+
+części krajowej PL, która zawiera informacje o:
+notarialnych aktach poświadczenia dziedziczenia sporządzonych po 01.03.2009 r.
+sądowych stwierdzeniach nabycia spadku wydanych po 08.09.2016 r.
+części europejskiej EPS, która zawiera informacje o:
+europejskich poświadczeniach spadkowych wydanych w Polsce po 08.09.2016 r.
+Rejestr nie zawiera treści dokumentów potwierdzających dziedziczenie, tylko informacje gdzie (w jakich instytucjach) takie dokumenty można odnaleźć.
+
+Każdy obywatel może uzyskać bezpłatnie podstawowe informacje zawarte w Rejestrze Spadkowym. W tym celu należy wypełnić elektroniczny formularz podając numer PESEL spadkodawcy, lub jeżeli ten numer nie jest znany, podstawowe dane identyfikujące spadkodawcę.
+
+W odpowiedzi System wygeneruje informacje, gdzie należy poszukiwać dokumentów poświadczających dziedziczenie.
+
+Aby wyszukać wpis należy podać:
+
+numer PESEL spadkodawcy (jeżeli jest znany i został uwzględniony podczas rejestracji w Rejestrze Spadkowym), lub
+podstawowe dane identyfikujące spadkodawcę
+
+Dalej
+Rejestr Spadkowy PL
+WYSZUKIWANIE
+Kryterium
+NR PESEL SPADKODAWCY
+PODSTAWOWE DANE IDENTYFIKUJĄCE SPADKODAWCĘ
+Oświadczam, że zapoznałem się z REGULAMINEM
+KRYTERIUM
+Pola oznaczone kolorem żółtym są opcjonalne i mogą być pozostawione puste.
+Nazwisko
+Imię (imiona)
+Imię ojca
+Imię matki
+Data urodzenia
+Data zgonu / znalezienia zwłok
+Dalej
+Copyright Krajowa Rada Notarialna
+Używamy plików cookies.
+X
+Witryna internetowa używa plików cookies i podobnych technologii w celu świadczenia usług. Jeżeli ustawienia przeglądarki nie zostaną zmienione, pliki cookies będą zapisywane w pamięci Twojego urządzenia.
+Opracowanie RejNET.

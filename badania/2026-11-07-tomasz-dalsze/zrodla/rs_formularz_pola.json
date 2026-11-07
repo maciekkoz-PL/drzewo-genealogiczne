@@ -1,0 +1,136 @@
+[
+  {
+    "tag": "INPUT",
+    "id": "idMenuZwinRozwinCheckbox-1",
+    "name": "",
+    "type": "checkbox",
+    "required": false,
+    "color": "rgba(0, 0, 0, 0)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "idMenuZwinRozwinCheckbox-2",
+    "name": "",
+    "type": "checkbox",
+    "required": false,
+    "color": "rgba(0, 0, 0, 0)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "SELECT",
+    "id": "",
+    "name": "",
+    "type": "select-one",
+    "required": false,
+    "color": "rgba(0, 0, 0, 0)",
+    "classes": "",
+    "title": "",
+    "options": [
+      {
+        "value": "---",
+        "text": ""
+      },
+      {
+        "value": "1",
+        "text": "NR PESEL SPADKODAWCY"
+      },
+      {
+        "value": "2",
+        "text": "PODSTAWOWE DANE IDENTYFIKUJĄCE SPADKODAWCĘ"
+      }
+    ]
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "checkbox",
+    "required": false,
+    "color": "rgba(0, 0, 0, 0)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "text",
+    "required": false,
+    "color": "rgb(255, 255, 255)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "text",
+    "required": false,
+    "color": "rgb(255, 255, 255)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "text",
+    "required": false,
+    "color": "rgb(255, 255, 255)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "text",
+    "required": false,
+    "color": "rgb(249, 246, 232)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "text",
+    "required": false,
+    "color": "rgb(249, 246, 232)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "text",
+    "required": false,
+    "color": "rgb(255, 255, 255)",
+    "classes": "",
+    "title": "",
+    "options": null
+  },
+  {
+    "tag": "INPUT",
+    "id": "",
+    "name": "",
+    "type": "text",
+    "required": false,
+    "color": "rgb(255, 255, 255)",
+    "classes": "",
+    "title": "",
+    "options": null
+  }
+]

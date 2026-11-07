@@ -1,0 +1,38 @@
+{
+  "at": "2026-11-07T09:42:43.140329+00:00",
+  "base_head": "c67fc4bdeb89ab7df8ad27fa5be7beee0856fc41",
+  "tracked_files_unchanged": true,
+  "global_workbook_and_tree_unchanged": true,
+  "json_valid": true,
+  "local_links_valid": true,
+  "local_links_checked": 4,
+  "web_queries": 12,
+  "msig_new_queries": 6,
+  "msig_genitive_rows": 9,
+  "msig_genitive_page2_rows": 0,
+  "msig_new_notices_read": 6,
+  "rs_person_query_submitted": false,
+  "wirtualny_filtered": [
+    0,
+    0,
+    6
+  ],
+  "academica_catalog_read": false,
+  "new_verified_family_facts": 0,
+  "local_source_ids": [
+    "TOM-D01",
+    "TOM-D02",
+    "TOM-D03",
+    "TOM-D04",
+    "TOM-D05",
+    "TOM-D06"
+  ],
+  "source_files": 43,
+  "source_bytes": 435314,
+  "outbound_messages_sent_this_step": 0,
+  "library_draft_status": "DRAFT — NIE WYSŁANO",
+  "sensitive_eleven_digit_identifiers_present": false,
+  "source_counts_asserted": true,
+  "python_syntax_valid": true,
+  "library_draft_readback_at": "2026-11-07T09:42:43.140329+00:00"
+}

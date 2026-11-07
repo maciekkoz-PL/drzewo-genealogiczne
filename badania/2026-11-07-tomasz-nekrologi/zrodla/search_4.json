@@ -1,0 +1,43 @@
+{
+  "query": "\"Express Ilustrowany\" \"2001\" \"kwiecień\" archiwum",
+  "id": "01a1b4db-8d92-74d6-b5c7-7e2e9faf3335",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://mmponline.pl/szukaj/tagi/Lubelski/?currPage=5",
+      "title": "Lubelski: Wiadomości i artykuły | MMP24 - Media Marketing Polska",
+      "description": "... Express Ilustrowany” i „Dziennik Zachodni”. więcej ››. von Magdalena Soroczyńska. poniedziałek, 22 kwiecień 2024. Artykuły na temat. + Archiwum. Hallmark, ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://www.spatium.uni.lodz.pl/projekty/archiwum-projektow",
+      "title": "Archiwum projektów - SKN Spatium",
+      "description": "kwiecień 2013. Koordynator: Milena Ulatowska. Zaangażowani kołowicze ... Rok akademicki 2001/2002. Konferencja „Rozwój miast i regionów w procesie ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://archiwum.rp.pl/artykul/318494-Pietruszka-antidotum-na-zapach-alkoholu.html",
+      "title": "Pietruszka antidotum na zapach alkoholu",
+      "description": "Producent reklamuje go jako preparat usuwający przykry zapach z ust - donosi \"Express Ilustrowany\". TOR. POPRZEDNI ARTYKUŁ Z WYDANIA NASTĘPNY ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://koziej.pl/archiwum/",
+      "title": "Archiwum | Stanisław Koziej",
+      "description": "... kwiecień, s. 5 – 17 38. W Iraku został popełniony błąd strategiczny ... Express Ilustrowany, 8 października 2001 r., nr 235 31. Naloty to pierwsza ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://www.jhi.pl/storage/file/core_files/2025/12/29/232cd84f165d29489d85499acd898bb8/G%C5%BB%20w%20Krakowie.pdf",
+      "title": "[PDF] Archiwum Żydowskiego Instytutu Historycznego im. Emanuela",
+      "description": "„Express Ilustrowany” 1933, nr 348; „Gazeta Poranna. Ilustrowany ... (kwiecień-grudzień 1930 r.) 1930, rkps, j. pol., l., s./ sygn ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

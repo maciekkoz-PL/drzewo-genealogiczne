@@ -1,0 +1,16 @@
+{
+  "url": "https://api.wirtualnycmentarz.pl/api/funerals/datatables/graveyard?start=0&length=25&place=&selected_cemetery[]=main&selected_cemetery[]=catacombs&search[value]=Tomasz+Chmielewski&columns[0][data]=name&columns[0][name]=name&columns[0][searchable]=true&columns[0][orderable]=true&columns[1][data]=surname&columns[1][name]=surname&columns[1][searchable]=true&columns[1][orderable]=true&columns[2][data]=date_of_birth&columns[2][name]=date_of_birth&columns[2][searchable]=false&columns[2][orderable]=true&columns[3][data]=date_of_death&columns[3][name]=date_of_death&columns[3][searchable]=false&columns[3][orderable]=true&columns[4][data]=funeral_id&columns[4][name]=funeral_id&columns[4][searchable]=true&columns[4][orderable]=true&columns[5][data]=show_action&columns[5][name]=show_action&columns[5][searchable]=false&columns[5][orderable]=false&lang=pl",
+  "at": "2026-11-07T09:39:45.166968+00:00",
+  "query": "Tomasz Chmielewski",
+  "status": 200,
+  "response_keys": [
+    "success",
+    "data"
+  ],
+  "counts": {
+    "draw": 0,
+    "recordsTotal": 1329,
+    "recordsFiltered": 0
+  },
+  "records": []
+}

@@ -1,0 +1,22 @@
+{
+  "query": "\"Tomasz Chmielewski\" site:genealogiawarchiwach.pl OR site:geneteka.genealodzy.pl OR site:nekrologi.ogr.pl",
+  "id": "01a1b4dd-232e-74d9-9058-337bbe9a3adf",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://geneteka.genealodzy.pl/fix.php?gid=12961479&bdm=B&w=10pl&rid=6354&lang=eng",
+      "title": "Geneteka baza Polskiego Towarzystwa Genealogicznego",
+      "description": "Original surname. Surname. Surname alias. Father's name. Mother's name. Mother's surname. Remarks. chrz: Tomasz Chmielewski i Agata Guldyńska. Bug data. Your ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://geneteka.genealodzy.pl/fix.php?op=fix&gid=13792831&bdm=B&w=10pl&rid=6354&lang=pol",
+      "title": "Geneteka baza Polskiego Towarzystwa Genealogicznego",
+      "description": "lab., chrz: Tomasz Chmielewski i Katarzyna Jaświłowska. Dane zgłoszenia. Twoje uwagi do poprawki: *Bezpośredni link do skanu aktu: Pole wymaga uzupełnienia.",
+      "position": 2,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

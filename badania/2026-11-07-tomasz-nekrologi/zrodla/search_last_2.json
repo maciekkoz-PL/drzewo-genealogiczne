@@ -1,0 +1,43 @@
+{
+  "query": "\"cmentarz\" \"Gadka Stara\" \"księga\"",
+  "id": "01a1b4e3-aac0-741d-85d6-1dbc618777b7",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://bibliotekanauki.pl/books/55790469.pdf",
+      "title": "[PDF] Nazewnictwo miejskie Łodzi. Wyd. II poprawione i uzupełnione",
+      "description": "nazywanej Cmentarz na (przy) Ogrodowej bądź też Stary Cmentarz // Cmentarz ... Księga pamiątkowa dziesięciolecia Samorządu m. Łodzi 1919–1929, Łódź 1930 ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://rzgow.pl/content/files/konsultacje-1627621269.pdf",
+      "title": "[PDF] konsultacje-1627621269.pdf - rzgow.pl",
+      "description": "Gadka Stara cm. - ul. Tuszyńska ul. Tuszyńska - Gadka Stara cm ... cmentarz wojenny w Starej Gadce), parki (np. Park im. Adama.",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://bibliotekacyfrowa.ujk.edu.pl/Content/12159/01_21_Czlowiek_a_historia_B_Cecota_AS.pdf",
+      "title": "[PDF] 01 Spis-treści-i wstęp Człowiek-a-historia - UJK",
+      "description": "20 J.L. Decjusz, Księga o czasach króla Zygmunta, oprac. T Bieńkowski ... Cmentarz wojenny w Gadce Starej widok z lat 20.–30. XX w. ZXródło: http ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://rowery.lodzkie.pl/wp-content/uploads/2026/04/Polityka_Rozwoju_Mobilnosci_Rowerowej_Lodzkie_2026.pdf",
+      "title": "[PDF] Polityka rozwoju mobilności rowerowej w województwie łódzkim",
+      "description": "Lepiej połączona Europa. Biała Księga – Plan utworzenia jednolitego europejskiego obszaru transportu - dążenie do osiągnięcia ... cmentarz żydowski z XVII/XVIII w ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://historia-nieznana.blogspot.com/2026/11/?m=0",
+      "title": "listopada 2026 - Historia nieznana",
+      "description": "3 days ago · ... cmentarz jest powiązany też z jedną osobą, która do tej pory żyje i ... Gadka Stara (2); Galkau (1); Gałków (20); Gałkówek (75); Gałkówek ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

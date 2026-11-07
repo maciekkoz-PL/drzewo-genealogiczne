@@ -1,0 +1,33 @@
+{
+  "institution": "Wojewódzka Biblioteka Publiczna w Łodzi",
+  "title": "Dziennik Łódzki – Wiadomości Dnia, wydanie A",
+  "record": "991001051609708836",
+  "url": "https://omnis-wbpl.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991001051609708836&context=L&vid=48OMNIS_WBPL:48OMNIS_WBPL&lang=pl&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog",
+  "location": "Dział Udostępniania Zbiorów i Magazynów – Magazyn Główny",
+  "signature": "77-G",
+  "holdings_range": "2000–2007",
+  "pages_of_loading": 9,
+  "items_loaded": 86,
+  "unique_items": 86,
+  "items_2001": [
+    "2001 - mies. 01,nr 1-26",
+    "2001 - mies. 02,nr 27-50",
+    "2001 - mies. 03,nr 51-77",
+    "2001 - mies. 04,nr 78-101",
+    "2001 - mies. 05,nr 102-126",
+    "2001 - mies. 06,nr 127-151",
+    "2001 - mies. 07,nr 152-177",
+    "2001 - mies. 08,nr 178-203",
+    "2001 - mies. 09,nr 204-228",
+    "2001 - mies. 10,nr 229-255",
+    "2001 - mies. 12,nr 281-304",
+    "2001 - mies. 11,nr 256-280"
+  ],
+  "target_items": [
+    "2001 - mies. 04,nr 78-101",
+    "2001 - mies. 05,nr 102-126"
+  ],
+  "status": "Egzemplarz na półce; tylko na miejscu",
+  "target_dates_for_future_reading": "27.04–07.05.2001",
+  "limit": "Odczytano wykaz i stan woluminów. Nie odczytano gazet, nie znaleziono jeszcze nekrologu. Brak zamówień i logowania."
+}
