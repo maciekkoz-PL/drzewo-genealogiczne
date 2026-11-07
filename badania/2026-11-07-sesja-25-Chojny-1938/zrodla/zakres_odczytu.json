@@ -1,0 +1,105 @@
+{
+  "at_utc": "2026-11-07T07:32:24+00:00",
+  "books": {
+    "1938": {
+      "uid": 15351997,
+      "sig": "39/225/0/4/2137",
+      "total": 197,
+      "names": [
+        [
+          5,
+          155
+        ],
+        [
+          157,
+          195
+        ]
+      ],
+      "technical": [
+        1,
+        2,
+        3,
+        4,
+        156,
+        196,
+        197
+      ],
+      "full": [
+        5,
+        22,
+        49,
+        50,
+        155,
+        157,
+        177,
+        182,
+        195
+      ],
+      "archive": [
+        1,
+        4,
+        5,
+        22,
+        49,
+        50,
+        155,
+        156,
+        157,
+        177,
+        182,
+        195,
+        196,
+        197
+      ]
+    },
+    "1937": {
+      "uid": 15351995,
+      "sig": "39/225/0/4/2135",
+      "total": 205,
+      "names": [
+        [
+          5,
+          167
+        ],
+        [
+          169,
+          202
+        ]
+      ],
+      "technical": [
+        1,
+        2,
+        3,
+        4,
+        168,
+        203,
+        204,
+        205
+      ],
+      "full": [
+        5,
+        34,
+        134,
+        179
+      ],
+      "archive": [
+        1,
+        4,
+        5,
+        34,
+        134,
+        167,
+        168,
+        169,
+        179,
+        202,
+        203
+      ]
+    }
+  },
+  "method": "Wzrokowy przegląd kolumn nazwisk i wybranych pełnych rubryk. Nie pełna transkrypcja. Pochodne w ZIP; pełne oryginały wybranych obrazów osobno.",
+  "structure1938": "Stałe5–155;czasowe157–195;156pieczęć199kart i tytuł czasowych. Metryka1:199+51kart,196skanów;manifest197obrazów. Fizyczne152–199i40–51drugiejczęści niezapisane.",
+  "structure1937": "Stałe5–167;czasowe169–202;168pieczęć404kart i tytuł czasowych;203pieczęć84kart. Metryka1:404+84kart,204skany;manifest205obrazów. Fizyczne165–404i36–84drugiejczęści niezapisane. Ubytki40i162wgmetryki.",
+  "limits": "Grupy nie wymieniają wszystkich domowników. Nie wyklucza to nienazwanych osób, pomyłek ani innych ksiąg. Nie ustalono pokrewieństwa, wieku ani rodowego Agnieszki. Nie znaleziono imieniaP11.",
+  "new_proven_relationships": 0
+}

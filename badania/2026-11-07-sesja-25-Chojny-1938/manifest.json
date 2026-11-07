@@ -1,0 +1,222 @@
+[
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/katalog/BASIA221_from5500.html",
+    "bytes": 174481,
+    "sha256": "ccf6488344d5cd106a8e98e285c5cef9982a39d6fccf44be6495382e24a00fd7"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/katalog/BASIA221_from6000.html",
+    "bytes": 211040,
+    "sha256": "34f7f365d8be1dd7210cc940f05b60c0d3310d80de495fbf2329c06e34856645"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/katalog/BASIA221_relevant.json",
+    "bytes": 66163,
+    "sha256": "2f464519c82d0196a995f2eba59b34f4f494948ac3c2e7ad326aad94393b798f"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/katalog/dziennik_zapytan.json",
+    "bytes": 1872,
+    "sha256": "8d2fb1846ad4110feda2c90fd06452f3b9e3c5e85cada3a065fa06d31b9a3f20"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/katalog/manifest_17669762.json",
+    "bytes": 97933,
+    "sha256": "3332d6380ba8c75029966e9c2c67a72fb075cb930df0362f918fbe6ed8288681"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/katalog/manifest_6209685.json",
+    "bytes": 113089,
+    "sha256": "f425335f625d641603efb90d8cf552d3ff2d27f737df10fd9cd39a0e288cbbc3"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/Agnieszka398_full.jpg",
+    "bytes": 842079,
+    "sha256": "76ac04118d0f0a21e65ea0c204ed5d7a9c459d8f4c2597a4b16f704bbebefee0"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/Boleslaw234.jpg",
+    "bytes": 252402,
+    "sha256": "caf36255f693f43d10ff8a6ff4f2b8c400b9e06ea3e269f8f448879c2eb04503"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_1.jpg",
+    "bytes": 329635,
+    "sha256": "ff0074f33b4dc9999204242e48465145959cfa210dc3c27a565f0ed1b6bfc4bb"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_134.jpg",
+    "bytes": 2133106,
+    "sha256": "df6a583bc823c4e231f52b5db7ffaa524663bc80ad59c79f6104ea5130498395"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_167.jpg",
+    "bytes": 2063502,
+    "sha256": "136cb9e43d0133ff92b832f74d51bc3c188f59abcbbb3c3eb6ed2f43dc9d9ebf"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_168.jpg",
+    "bytes": 1372029,
+    "sha256": "e883e0b93f5e97a50092bc94394e088a6b94e38dae6fbfff6ecc047c6786062e"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_169.jpg",
+    "bytes": 1923588,
+    "sha256": "7fe72b908c357b8b27164d21228f1d6982491b8d3951c0abb5aad498b9890cee"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_179.jpg",
+    "bytes": 1900444,
+    "sha256": "a2dcefcb2b78dc89bae59b364db8e3f57d38a52695b30b0ab9bc8e50165c2189"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_202.jpg",
+    "bytes": 1742069,
+    "sha256": "2cd783ef922355a6a11af2cdd4b0f077c544723b7409699b42dfcd413fa64245"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_203.jpg",
+    "bytes": 2040621,
+    "sha256": "a4df547954f691390e20a6d198725b721aa9a850b26bce48c697136bbc0270ac"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_34.jpg",
+    "bytes": 2012735,
+    "sha256": "9f7dd09b9cd91f29e5fc4effeb5cd147a63a543e51ee8b369f330875a693c6cb"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_4.jpg",
+    "bytes": 1494534,
+    "sha256": "f903aa128f224ec508dad243269fddf61b8f47916b679a3e3899b605d9e4df67"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1937_5.jpg",
+    "bytes": 2220381,
+    "sha256": "20ec8bf5d94a9af4ff20f441b38e582746848eeeb440476140e12ea14eea8f84"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_1.jpg",
+    "bytes": 340821,
+    "sha256": "70b01f05e867fe159d2ebc1654ed58d3613c2e1c663e5966c05aae792d933542"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_155.jpg",
+    "bytes": 1879265,
+    "sha256": "a28f4a55b1d4aeeef96e9985777722220f040d8449f00398e75f3a3637ab3af8"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_156.jpg",
+    "bytes": 1435163,
+    "sha256": "bf25c792bdb5e77a82493f855a38d3faa8ba9bfae132efe4cda412b590e2c940"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_157.jpg",
+    "bytes": 2010009,
+    "sha256": "25c14df085e08c85116265e5064897b8a8f61d67f529c0284694071965f693eb"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_177.jpg",
+    "bytes": 2034322,
+    "sha256": "09cfbc38aa8d41e1c24e8e92878088255809f0e1dc8c5eb8100fe14f8c93760d"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_182.jpg",
+    "bytes": 1940036,
+    "sha256": "019624e764dd9232f504711d289ec0e755352569b335d5aded56b78a7ee6b04c"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_195.jpg",
+    "bytes": 2047601,
+    "sha256": "597e29405ee086dd518dd31d99fa3725cb25dd2af57f39f5944ffbeee0ce0b8d"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_196.jpg",
+    "bytes": 1774834,
+    "sha256": "bcb8585572cc1bf6a64295f017de717b075e9a2adc6db5730462b51b3537f946"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_197.jpg",
+    "bytes": 1579058,
+    "sha256": "cbf8d44fb1bfbc6552e908a446d6d4cfcae6d714ae65d5f11a9697ab651a2e3d"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_22.jpg",
+    "bytes": 2145647,
+    "sha256": "78941eb1404603f580be3d1e2accd6bd97421a27c9cb3cba46c3b22bf97339af"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_4.jpg",
+    "bytes": 1387198,
+    "sha256": "3d4912de3029ed737f269cfeab6f6f65967cc0cdb217950c37b67671818cbb43"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_49.jpg",
+    "bytes": 2127517,
+    "sha256": "dd3d0d34fcba1da279750c82e7268af2aa548df2cbd3eb8cdcb32342bd65068c"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_5.jpg",
+    "bytes": 2181827,
+    "sha256": "dff6e11c9020651df97a6588b46cbd40cf491c5d83a3b738d30f416ec25f76ff"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/ChojnyP1938_50.jpg",
+    "bytes": 2099705,
+    "sha256": "57a502993c11114e8a226fc84f3da38bf0e35c4d11f063bc19ec244b97269818"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/indeks_wybranych_wpisow.csv",
+    "bytes": 19530,
+    "sha256": "7d24fd8ca1670d82e1bee98bde7ea112b39daa479c1a5762d29634612eb9ca48"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/kolumny_1937.zip",
+    "bytes": 35392001,
+    "sha256": "f837b5424466d47af9fb4e32304e18cbf5572d5c7bb66009dc7d9fadc8432902"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/kolumny_1938.zip",
+    "bytes": 35681917,
+    "sha256": "0d5fe2ec1184032957616221ccf84d3916844b28229827f98fe30ebe6cd30852"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/kolumny_manifest.json",
+    "bytes": 10829,
+    "sha256": "ca79d25fce9cbf99678de3f58680e214f8ee38ad2a376ab6ddb56cfdfbb3e3cc"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/manifest_15351995.json",
+    "bytes": 120015,
+    "sha256": "d0521563bb5ae810e381c73223378865bf23cebea5d913f41a2ed6d39b093a02"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/manifest_15351997.json",
+    "bytes": 115335,
+    "sha256": "76fedd0fc660c4c1eb5e2bafbfade43723ce609e803946284c8925a0c6550cae"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/nazwisko477.jpg",
+    "bytes": 75112,
+    "sha256": "22dfdb0afbc9ea966970e7b4b016fae5afd60a1cc61d0802f1693439366710ad"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/odczyty_wybrane.json",
+    "bytes": 4242,
+    "sha256": "3403597a5b6712e972b64f3097d15c2956e8cc237caa874d16150fe5b346631d"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/pobrane_sha256.json",
+    "bytes": 121164,
+    "sha256": "ddc22dcc25b08b86bd8e2474970f0a0b43b7311b0c7a17d43c0d1b9ca17e68a5"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/zakres_odczytu.json",
+    "bytes": 2152,
+    "sha256": "a99de431db47d4abc9c37fb319804affbc60d734072e3e6f830baefa495fc646"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-25-Chojny-1938/zrodla/zakres_stron.csv",
+    "bytes": 52661,
+    "sha256": "ab6e3ef55cf2583c7ad239daed30d49d07374f9b27e0448f75d3c0c75653fba8"
+  }
+]

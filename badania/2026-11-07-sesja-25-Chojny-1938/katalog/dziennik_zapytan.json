@@ -1,0 +1,50 @@
+{
+  "at_utc": "2026-11-07T07:37:15.726336+00:00",
+  "queries": [
+    {
+      "q": "site.basia.famula.pl Łódź 1938 \"wyjazdów\" \"III\"",
+      "wynik": "Brak dokładnej jednostki wwynikach."
+    },
+    {
+      "q": "site.szukajwarchiwach.gov.pl \"1938\" \"wyjazdów\" \"Łódź\"",
+      "wynik": "Brak dokładnej jednostki wwynikach."
+    },
+    {
+      "q": "\"Łódź\" \"wyjazdów\" \"254\"",
+      "wynik": "Brak dokładnej jednostki."
+    },
+    {
+      "q": "\"Łódź\" \"ubywających\" \"1938\"",
+      "wynik": "Brak dokładnej jednostki."
+    },
+    {
+      "q": "\"Łódź\" \"Chełmońskiego\" \"Chmielewska\"",
+      "wynik": "Brak dopasowania Agnieszki."
+    },
+    {
+      "q": "\"Łódź\" \"rejestr osób opuszczających\"",
+      "wynik": "Właściwe tytuły ksiągopuszczających;seria308541."
+    },
+    {
+      "q": "\"Łódź\" \"rejestr osób wybywających\"",
+      "wynik": "Brak trafienia odpowiadającego osobie."
+    },
+    {
+      "q": "\"Łódź\" \"1938\" \"Księga kontroli ruchu ludności\" \"opuszczających\"",
+      "wynik": "Potwierdza kategorię katalogową; osoby nieodczytane."
+    },
+    {
+      "url": "https://www.basia.famula.pl/skany.php?placeid=967&arch=39&zespol=221&from=5500",
+      "wynik": "25506–25509,1938=25508SwA6209685,wolna;203tytułyKRLpopełnejpaginacji katalogu."
+    },
+    {
+      "url": "https://www.basia.famula.pl/skany.php?placeid=967&arch=39&zespol=221&from=6000",
+      "wynik": "Chełmońskiego15575SwA17669762,wolna."
+    },
+    {
+      "url": "https://www.basia.famula.pl/skany.php?placeid=967",
+      "wynik": "Tylkolistazespołów;niepełnykatalogjednostek. archiwum=39lubteam=221nieotwierałyjednostek;prawidłowearch=39&zespol=221&from=500...9000."
+    }
+  ],
+  "limits": "Bez kontaktów; kataloginieustalajątożsamości;zindeksowaniewBASIAtoniepełnaocenadostępnościinnychindeksów."
+}
