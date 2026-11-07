@@ -12,11 +12,11 @@ Poprzednią miejscowość meldunku Stocka12 odczytano niepewnie; możliwa interp
 
 Wskazano dokładne teczki załączników: **26200 (1936, nr501–1000)** dla nr530 oraz **26204 (1936, nr2501–3100)** dla nr2591/2656. Katalog podawał **0skanów**. Ich zawartości nie odczytano; nie wiadomo, czy konkretny załącznik zachował się i co podaje. Ponowne bezpośrednie otwarcie stron jednostek zakończyło się błędem narzędzia. Nie wysłano żadnego zapytania.
 
-Ważna korekta Q98: w tych łódzkich rejestrach **Ch należy do grupyIII**, obok H,I,J,L,Ł. Starsza kwerenda grupyI(C) nie jest dowodem braku Chmielewskich. ZadanieT50 poprawiono, zapis wcześniejszej pracy zachowano.
+Ważna korekta Q99: w tych łódzkich rejestrach **Ch należy do grupyIII**, obok H,I,J,L,Ł. Starsza kwerenda grupyI(C) nie jest dowodem braku Chmielewskich. ZadanieT50 poprawiono, zapis wcześniejszej pracy zachowano.
 
 Przejrzano także kolumny nazwisk dalszych meldunków1937/1938 i dwóch ksiąg dowodów1936–1939. Nie uzyskano nowego łącznika rodzinnego. Dokładne obrazy, granice odczytu i imiennicy są w [ZAKRES_ODCZYTU.md](ZAKRES_ODCZYTU.md); pobranie nie oznacza odczytu.
 
-Excel zawiera nowe źródłaS253–S271, kandydatówC98–C101, hipotezyH049–H051, korektyQ98/Q99 i zadaniaT55–T57. Pełne liczniki w [LICZNIKI.json](LICZNIKI.json), kontrola historii w [WALIDACJA.json](WALIDACJA.json). Zachowano 24arkusze, relacjęREL-018 i równoległe ustalenia dotyczące Tomasza oraz roboczą decyzję o Romanie P12=C69. Nie zmieniono dotychczasowych pewnych relacji.
+Excel zawiera nowe źródłaS253–S273, kandydatówC98–C101, hipotezyH049–H051, korektyQ98/Q100 i zadaniaT55–T57. Pełne liczniki w [LICZNIKI.json](LICZNIKI.json), kontrola historii w [WALIDACJA.json](WALIDACJA.json). Zachowano 24arkusze, relacjęREL-018 i równoległe ustalenia dotyczące Tomasza oraz roboczą decyzję o Romanie P12=C69. Nie zmieniono dotychczasowych pewnych relacji.
 
 Publiczne drzewo i krótka kronika bez nowego wpisu z tego kierunku: wynik adresowy nie jest przełomem w pokrewieństwie. S086 już wskazuje Czesława Chmielewskiego i Janinę Poprawkę jako rodziców Bogusława; nowe meldunki nie zastępują brakującego dodatkowego identyfikatora1909/1910. Nie powtarzać rodzinie pytań o ślub1982 ani nie przedstawiać nazwisk rodziców jako nieznanych.
 

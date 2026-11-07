@@ -63,7 +63,7 @@ for key, sig, manifest in [('III_1936_1937','25443','III_1936_1937_manifest.json
             downloads.append(dict(book=sig,image=n,url=item['src'],local_work=str(f.relative_to(ROOT)),
                                   bytes=len(raw),sha256=hashlib.sha256(raw).hexdigest(),jpeg=raw.startswith(b'\xff\xd8')))
 dump('pobrane_SwA_sha256.json',downloads)
-dump('zakres_odczytu.json',dict(at_utc=now,excel_baseline='69e1d37',
+dump('zakres_odczytu.json',dict(at_utc=now,excel_baseline='8bea235',
     name_columns={'25436':[[5,52]],'25443':[[5,202]],'25444':[[5,72]],'25445':[[5,137]],
                   'PTG86615':[[2,185]],'PTG86616':[[2,247]]},
     technical_seen={'25443':[104,203],'25445':[138],'PTG86615':[1,186],'PTG86616':[135]},

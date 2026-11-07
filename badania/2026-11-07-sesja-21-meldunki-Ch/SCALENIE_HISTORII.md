@@ -7,3 +7,5 @@ Na69e1d37 numeryS253–S264, L246–L254, F206–F217 były już zajęte przez i
 Aktualna migracja opiera się naExcelu69e1d37 i dopisuje nasze wpisy, zachowując wszystkie pozostałe wcześniejsze komórki. Walidator porównuje każdą starą komórkę i dopuszcza wyłącznie opisane zmiany H002/H017/T50 oraz nagłówki. Ustalenia prasyTomasza, grobuZarzewa, REL-018 i decyzjiRomana zachowano. Publiczne drzewo bez zmian tego etapu.
 
 Historyczne numery w commicie df0c873 są właściwe dla jego własnego stanu; przy bieżącej kontynuacji używać numeracji z aktualnego Excelu i niniejszych raportów.
+
+Następnie scalono8bea235 (stan korespondencjiZarzewa z równoległej sesji). Zachowano jej wysłane wiadomości i korektęQ98, bez wykonywania nowej wysyłki w tym wątku. Bieżąca numeracja etapu21: **S267–S273, L257–L268, F221–F278, Q99/Q100**. Migracja i walidacja opierają się teraz na8bea235.

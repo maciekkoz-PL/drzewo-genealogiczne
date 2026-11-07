@@ -4,7 +4,7 @@ import csv, datetime, hashlib, io, json, re, subprocess, zipfile
 import openpyxl
 from PIL import Image
 
-ROOT=Path(__file__).resolve().parents[2];HERE=Path(__file__).resolve().parent;BASE='69e1d37'
+ROOT=Path(__file__).resolve().parents[2];HERE=Path(__file__).resolve().parent;BASE='8bea235'
 def old(path):return subprocess.check_output(['git','show',f'{BASE}:{path}'],cwd=ROOT)
 book='Marysia_KOMPLET_BAZA_2026-11-05.xlsx'
 a=openpyxl.load_workbook(io.BytesIO(old(book))); b=openpyxl.load_workbook(ROOT/book)
@@ -23,8 +23,8 @@ for sn in a.sheetnames:
     ids=[r[0] for r in bv if isinstance(r[0],str) and re.fullmatch(r'[A-Z]+-?\d+',r[0])]
     assert len(ids)==len(set(ids)),sn
     counts[sn]=len(ids)
-for sn,n in [('ZRODLA_I_SKANY',271),('KANDYDACI_I_HOMONIMY',101),('DZIENNIK_KWEREND',266),
-             ('KOREKTY_I_SPRZECZNOSCI',99),('ZADANIA_AGENTA',57),('RELACJE_ZRODLOWE',18)]:
+for sn,n in [('ZRODLA_I_SKANY',273),('KANDYDACI_I_HOMONIMY',101),('DZIENNIK_KWEREND',268),
+             ('KOREKTY_I_SPRZECZNOSCI',100),('ZADANIA_AGENTA',57),('RELACJE_ZRODLOWE',18)]:
     assert counts[sn]==n,(sn,counts[sn],n)
 for sn in ['RDZEN_RODZINY','RODZINA_Z_RELACJI','RELACJE','ZDARZENIA_I_FAKTY','WIARYGODNOSC_OSOB',
            'WIARYGODNOSC_RELACJI','DECYZJA_ROMAN_P12_C69','RELACJE_ZRODLOWE']:
@@ -36,7 +36,7 @@ for path in subprocess.check_output(['git','ls-tree','-r','--name-only',BASE,'wi
     assert (ROOT/path).read_bytes()==old(path),path
 for path in ['Marysia_PAKIET_ZRODEL_2026-11-05.zip','Marysia_LINIA_MATKI_repo_ready_2026-11-06.zip']:
     assert (ROOT/path).read_bytes()==old(path),path
-for sn,prefix,start,col in [('ZRODLA_I_SKANY','S',265,9),('PLIKI_DOWODOWE','F',218,1)]:
+for sn,prefix,start,col in [('ZRODLA_I_SKANY','S',267,9),('PLIKI_DOWODOWE','F',221,1)]:
     for r in b[sn].values:
         if isinstance(r[0],str) and re.fullmatch(prefix+r'\d+',r[0]) and int(r[0][1:])>=start:
             assert (ROOT/r[col]).is_file(),r[col]

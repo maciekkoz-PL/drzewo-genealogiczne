@@ -1,0 +1,27 @@
+[
+  {
+    "path": "badania/2026-11-07-zarzew-mail/zrodla/gmail_potwierdzenie_wysylki.json",
+    "bytes": 97,
+    "sha256": "8b3969ac601515a50363300f7e26d9ca2966770f4ab8daee2ae3a8207ed8b27c"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew-mail/zrodla/kontakt.html",
+    "bytes": 6454,
+    "sha256": "ed5e17dc88a82969e513f48ee8a6b878459a3f4bd660f28f5673dae4296ffc7c"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew-mail/zrodla/kontakt.txt",
+    "bytes": 2411,
+    "sha256": "10c2e2894fd34fbe670a8acdc87245a500fc9211bcdcdc0246e62ac155bad5e7"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew-mail/zrodla/mail_2026-11-04_wyslany.json",
+    "bytes": 1520,
+    "sha256": "c24aa8573c118b57648ff85ea912fbd3f19e726ba3afa5bbde45326f02b7e032"
+  },
+  {
+    "path": "badania/2026-11-07-zarzew-mail/zrodla/mail_2026-11-07_wyslany.json",
+    "bytes": 3143,
+    "sha256": "f0d4c09cfe93973d5ffc39da734a81367365a48505c95d95966970ba195e4b82"
+  }
+]
