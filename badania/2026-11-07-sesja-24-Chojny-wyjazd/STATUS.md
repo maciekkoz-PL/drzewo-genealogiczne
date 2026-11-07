@@ -20,6 +20,6 @@ W części czasowej kolejność odczytu chronologicznego jest **145–195, nast�
 
 Zachowano12wybranych oryginałów, 29 plansz pochodnych wZIP, manifest196URL i hashe wszystkich196pobrań, wybrane odczyty oraz CSV zakresu każdej strony. Robocze pozostałe oryginały są w ignorowanym `work/s21`. Rozszerzono przeszukiwalne zestawienie do **47wierszy** wExcelu, CSV i[HTML](INDEKS.html); starsza wersja44wierszy pozostaje w etapie23. Excel ma25arkuszy; brak nowego potwierdzonego pokrewieństwa. Raport walidacji podaje końcowe liczniki i kontrolę zachowania wcześniejszych danych.
 
-Publiczna karta C42 i istniejący krótki wpis o Agnieszce wymagają uzupełnienia o drugi dokument; nie tworzyć osobnego rutynowego wpisu ani nowej osoby. Wynik publikacji będzie zapisany oddzielnie w `PUBLIKACJA.json` — sam ten raport nie potwierdza wdrożenia.
+Publiczna karta C42 i istniejący krótki wpis o Agnieszce zostały uzupełnione o drugi dokument. **Wersja26 opublikowana**, zachowano70osób,10wpisów i dotychczasowe linie. Test1440/390px PASS; rzeczywista stronaHTTP200 i identycznyHTML. Metadane w `PUBLIKACJA.json`. Nie dodano potwierdzonej relacji.
 
 Nie wysłano żadnych nowych wiadomości, wniosków ani zamówień. Wcześniejszy, osobno zatwierdzony M10 pozostaje wysłany; nie ponawiać. Nie ponawiano zablokowanej próby zewnętrznego HTR. Żaden wynik OCR nie był użyty jako dowód nieobecności nazwiska.

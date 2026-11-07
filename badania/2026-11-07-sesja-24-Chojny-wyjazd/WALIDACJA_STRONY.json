@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "at_utc": "2026-11-07T06:21:16.121657+00:00",
+  "widths": [
+    1440,
+    390
+  ],
+  "old_people_and_relations_preserved": true,
+  "C42_uncertainty_preserved": true,
+  "existing_news_updated": true,
+  "new_persons_or_edges": false,
+  "javascript_errors": []
+}
