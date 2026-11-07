@@ -1,0 +1,43 @@
+{
+  "query": "Academica katalog Dziennik Łódzki Wiadomości Dnia 2001",
+  "id": "01a1b550-5806-71c9-9b1e-778d8c477afb",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://academica.edu.pl/search",
+      "title": "Katalog - Academica",
+      "description": "",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://www.lib.uni.lodz.pl/academica",
+      "title": "Academica - Biblioteka UŁ",
+      "description": "Cyfrowa wypożyczalnia międzybiblioteczna książek i czasopism naukowych. Darmowa wypożyczalnia Academica zastępuje tradycyjną wypożyczalnię ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://katalogi.bn.org.pl/discovery/fulldisplay?vid=48OMNIS_NLOP%3A48OMNIS_NLOP&docid=alma9914446997905606&context=L",
+      "title": "Dziennik Łódzki / kom. red. - Biblioteka Narodowa (Polska)",
+      "description": "Dziennik Łódzki - Wiadomości Dnia (Wyd. zasadnicze). Późniejszy tytuł : Dziennik Łódzki - Wiadomości Dnia (Wyd. zasadnicze). Późniejszy tytuł : Dziennik ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://libguides.umn.edu/14826",
+      "title": "https://libguides.umn.edu/14826",
+      "description": "# Sign In\n## Get Help\n|  |  |\n|-|-|\n|  |  |",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://ahns.pl/wp-content/uploads/2025/01/Podrecznik-czytelnika-CWPN-Academica_.pdf",
+      "title": "[PDF] Podręcznik Czytelnika CWPN ACADEMICA | AHNS",
+      "description": "Dziękujemy za zainteresowanie Academiką! W niniejszym podręczniku staraliśmy się opisać korzystanie z Academiki z perspektywy czytelnika.",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

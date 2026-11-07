@@ -1,0 +1,220 @@
+{
+  "at": "2026-11-07T09:42:43.140329+00:00",
+  "files": [
+    {
+      "path": "zrodla/academica_bul.json",
+      "bytes": 16093,
+      "sha256": "5c9466f189ba3cb5e908a1429aad98f095bab88888da5da194158908ecb5a5ec"
+    },
+    {
+      "path": "zrodla/academica_catalog.json",
+      "bytes": 611,
+      "sha256": "5d9932deeeaa759e4017ced93392eca0e614d2d4f31577f432b622eef4e2ec91"
+    },
+    {
+      "path": "zrodla/academica_home.json",
+      "bytes": 677,
+      "sha256": "0a3d60d813956a5f614452cdb85599c91a440f7fad562fac945104b25481af9e"
+    },
+    {
+      "path": "zrodla/academica_proba_browser.txt",
+      "bytes": 91,
+      "sha256": "2f85832e31ca57711e6107af6b142363351ae516adb71c69afc643fac26be7f6"
+    },
+    {
+      "path": "zrodla/msig_0.json",
+      "bytes": 3260,
+      "sha256": "923fcc6f716fc4f83664a207e051107f98c286db8fead731d6aabb7f53ff0635"
+    },
+    {
+      "path": "zrodla/msig_1.json",
+      "bytes": 686,
+      "sha256": "1a02762d09eeda2412c1abff8f954c4a8333fb80499fce0015d2c974016a5ac3"
+    },
+    {
+      "path": "zrodla/msig_2.json",
+      "bytes": 701,
+      "sha256": "e7e2315cd29a3286d702604c30b9cfb236ae895f67099e03a1a40428630500c0"
+    },
+    {
+      "path": "zrodla/msig_3.json",
+      "bytes": 719,
+      "sha256": "c148a63b3a7877e6e4c34a3ff10f7504dd117582062bf5354c9aa2bfd0b03dd5"
+    },
+    {
+      "path": "zrodla/msig_4.json",
+      "bytes": 683,
+      "sha256": "3f6eacd1de706e4df89fde9670da0fbb125484ab5e20b6b84d4ec32bc8ae1821"
+    },
+    {
+      "path": "zrodla/msig_5.json",
+      "bytes": 683,
+      "sha256": "48a7687c04b403e38fdd7a2160dfefd96b2cb9f97423dd516c40b133a4cafb40"
+    },
+    {
+      "path": "zrodla/msig_detail_1137092.json",
+      "bytes": 800,
+      "sha256": "e8c63fcfc6bdb5731f2d1e7ff7d1eb97fc93932479ff194dde46f0b1bd8bd912"
+    },
+    {
+      "path": "zrodla/msig_detail_12435507.json",
+      "bytes": 863,
+      "sha256": "8b45ae0bed08bf8b915c7e930dcc4a06d800209b5e85f4cf9ed94e3f46794d14"
+    },
+    {
+      "path": "zrodla/msig_detail_19372515.json",
+      "bytes": 821,
+      "sha256": "ab145a9018ec31dfc7c52aadfa53f86908636b4bcd9d313c71b36291a8be894a"
+    },
+    {
+      "path": "zrodla/msig_detail_19396597.json",
+      "bytes": 818,
+      "sha256": "0edc9a33b504240f1d81c64ddb441abfd914fab298335132955690edbd926886"
+    },
+    {
+      "path": "zrodla/msig_detail_319713.json",
+      "bytes": 766,
+      "sha256": "906da6ac32815d4b200e4459db3d8731230e66d2ae9f984ff24e4934a86a6c4a"
+    },
+    {
+      "path": "zrodla/msig_detail_8783968.json",
+      "bytes": 994,
+      "sha256": "0adff8ae23d204f549ec6c24bf1c1c0eb56af4429fb7b0e98bcdebb954d8c563"
+    },
+    {
+      "path": "zrodla/msig_genitive_page2.json",
+      "bytes": 607,
+      "sha256": "96f1781fcebf30b1241afa4e7072652af293136899a5cbea831ccb37aa8626d5"
+    },
+    {
+      "path": "zrodla/ogrody_proba.json",
+      "bytes": 349,
+      "sha256": "e5db8d4057fafec2985d9b2023d6eb131932425eeb365c8c2a72c7063f3a1410"
+    },
+    {
+      "path": "zrodla/rejestr_kwerend_web.json",
+      "bytes": 7657,
+      "sha256": "62788904fbd3a1de7b882ca52aa53407bb733acf94071a2e3b79a92dfe72474c"
+    },
+    {
+      "path": "zrodla/rejestr_spadkowy.json",
+      "bytes": 3861,
+      "sha256": "343d9e6a809009ca6676ea83d666285a74406f6fac7628e97355433eb92a4a0b"
+    },
+    {
+      "path": "zrodla/rejestr_spadkowy_pola.png",
+      "bytes": 357098,
+      "sha256": "f334869b21552d3a55686c67208f49e4e5152fe075d0c467dfe25fb27073f6fb"
+    },
+    {
+      "path": "zrodla/rs_formularz_dane_pola.json",
+      "bytes": 2430,
+      "sha256": "06197833a6c1737f545c983f231a0492eb08f5f365763bd62b6ef479a76774e7"
+    },
+    {
+      "path": "zrodla/rs_formularz_dane_tekst.txt",
+      "bytes": 2066,
+      "sha256": "5d13902450be7ec135ea340b81e8204ba7ea87a5d69d94c700513518d877101a"
+    },
+    {
+      "path": "zrodla/rs_formularz_pola.json",
+      "bytes": 2430,
+      "sha256": "06197833a6c1737f545c983f231a0492eb08f5f365763bd62b6ef479a76774e7"
+    },
+    {
+      "path": "zrodla/rs_formularz_tekst.txt",
+      "bytes": 1983,
+      "sha256": "10c75381e79c2ece15b10e52a1beb7f1613fedbb45dc325e8885460565be1b1d"
+    },
+    {
+      "path": "zrodla/search_0.json",
+      "bytes": 210,
+      "sha256": "5b5656e061a1ccee1bb1bed51a52f1402e912f81d65a977daf3ff9d337c43491"
+    },
+    {
+      "path": "zrodla/search_1.json",
+      "bytes": 212,
+      "sha256": "6c0995626f582cd7e92bb50386f57219be6d649b3ee08118dad2c4012a19c155"
+    },
+    {
+      "path": "zrodla/search_2.json",
+      "bytes": 7015,
+      "sha256": "b4c9c720587165a8db42441789881e8ee8a1c2eea0523e8eddffaf0fe7e1059a"
+    },
+    {
+      "path": "zrodla/search_3.json",
+      "bytes": 728,
+      "sha256": "b110b7eca5d97c376a7656408373274f27321090c649360045552008914aeb8a"
+    },
+    {
+      "path": "zrodla/search_memorial_0.json",
+      "bytes": 275,
+      "sha256": "a3018d4ccc9bf7cfc9a948d7d5fd44e5b25f0600d81a3144e1b920a0a0bad02f"
+    },
+    {
+      "path": "zrodla/search_memorial_1.json",
+      "bytes": 2243,
+      "sha256": "f421188c56c16f818155992e366a162408f3f05ce611bdc15e1aa4e02a76bcec"
+    },
+    {
+      "path": "zrodla/search_memorial_2.json",
+      "bytes": 2200,
+      "sha256": "dcc5412fbf7551fbf6bcab9de59add791650fc9de29670e32f3aea12a1880e5b"
+    },
+    {
+      "path": "zrodla/search_memorial_3.json",
+      "bytes": 233,
+      "sha256": "cf3d17e0215835113572a0e0ab100d8044377afa2895a912a7c09baf00e39f26"
+    },
+    {
+      "path": "zrodla/search_next_0.json",
+      "bytes": 1797,
+      "sha256": "c5192859bf041bef0ead17fc2f5bd6f723a761d4193d9f2c896d4325f9e367ee"
+    },
+    {
+      "path": "zrodla/search_next_1.json",
+      "bytes": 975,
+      "sha256": "103127fa3b432a15b9c9d5624c3df7ae3b6e4aa3c1cc658d5021b562e9d95c19"
+    },
+    {
+      "path": "zrodla/search_next_2.json",
+      "bytes": 2187,
+      "sha256": "241bf15ac302881924374e90bc74941b4c74609e47797658d91765e26968bc67"
+    },
+    {
+      "path": "zrodla/search_next_3.json",
+      "bytes": 644,
+      "sha256": "1a699e2bb47d57056a0a9d1251f28dc7a2744e64ce2f94386c4d27da2981e387"
+    },
+    {
+      "path": "zrodla/wbp_kontakt.json",
+      "bytes": 3415,
+      "sha256": "556131ae27a4a82a42911e12fe59cb392c770e136f55f5afdc76afd23f71baa8"
+    },
+    {
+      "path": "zrodla/wbp_szkic_gmail.json",
+      "bytes": 580,
+      "sha256": "097745709a8569f40bfbe837dcc4acfe2f0b6ba010b06a4aa14c351d23b68242"
+    },
+    {
+      "path": "zrodla/wirtualny_api_0.json",
+      "bytes": 1102,
+      "sha256": "fa77e605389cb60e154a9eacc3171ec588f0477232c8bc64b72de4042385548e"
+    },
+    {
+      "path": "zrodla/wirtualny_api_1.json",
+      "bytes": 1116,
+      "sha256": "ae824902855dc76fd6f022fabf0c05e4c8dd8723c8b44350fa8a4728f21e34bc"
+    },
+    {
+      "path": "zrodla/wirtualny_api_2.json",
+      "bytes": 1296,
+      "sha256": "f63bcd4f52bdc4f6dacc6d0ee1f1bfbf1a6d3abb56880a561e7ef1b5da1d20ee"
+    },
+    {
+      "path": "zrodla/wirtualny_start.json",
+      "bytes": 1339,
+      "sha256": "ceab05d41af970bb3a83285e598d4c3d26e4d3be22618b341c6cb927641bed99"
+    }
+  ]
+}

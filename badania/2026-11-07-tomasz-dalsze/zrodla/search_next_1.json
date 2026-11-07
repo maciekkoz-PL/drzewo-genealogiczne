@@ -1,0 +1,22 @@
+{
+  "query": "\"Tomaszu Chmielewskim\" spadku",
+  "id": "01a1b550-5806-740e-bab2-5b9da30f1fbb",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://jasinscy.org.pl/en/akty/oledz-10-1819.html",
+      "title": "Olędzki 10/1819: Spadek oddają · Dają Zapewnienie · — notarial deed",
+      "description": "... Spadku, po tymże dopiero wyrażonym swym Bracie Tomaszu Chmielewskim, na swą Głowę należącego a tym sposobem zaspokojonego, niniejszym Tytułem[?] swych Braci ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://jbc.bj.uj.edu.pl/Content/430212/PDF/NDIGCZAS019313_67775840.pdf",
+      "title": "[PDF] OBWIESZCZENIA PUBLICZNE",
+      "description": "0 dział spadku po iS T z 'u K irfL ł Nrrac \" S 2/ S dkl>bierCy W ... tymże Tomaszu Chmielewskim, składnia redo ,2. Pozastałego po. Nr. 2Wt z e t ...",
+      "position": 2,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

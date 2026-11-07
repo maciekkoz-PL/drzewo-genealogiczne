@@ -1,0 +1,15 @@
+{
+  "query": "\"Tomasz Chmielewski\" site:lodz.sr.gov.pl OR site:lodz-widzew.sr.gov.pl",
+  "id": "01a1b550-5782-73df-80d7-fbf8fd11111b",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://lodz.sr.gov.pl/lista-referendarzy-sadowych,sd,mg,19,266.html,212",
+      "title": "Lista referendarzy sądowych - Sąd Rejonowy dla Łodzi ...",
+      "description": "Chmielewski Sebastian,; Studzińska Marta,; Piotr Parol - od 1 czerwca 2026 roku delegowany z II Wydziału Cywilnego. Drukuj informację otwiera się w nowym oknie.",
+      "position": 1,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

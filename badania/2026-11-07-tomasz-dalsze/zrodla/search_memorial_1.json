@@ -1,0 +1,43 @@
+{
+  "query": "\"Tomasz\" \"Chmielewski\" \"26-04-2001\"",
+  "id": "01a1b553-870a-760d-9363-dd933492e245",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://orka2.sejm.gov.pl/IZ3.nsf/d280e243ad0fdc68c1257364004369bc/915995de61432598c12574d00037a3f3?OpenDocument",
+      "title": "Interpelacja w sprawie budowy autostrady A-3, przebudowy ...",
+      "description": "Jan Chmielewski Edward Daszkiewicz Roman Giedrojć Marian Tomasz Goliński ... 26-04-2001 - posiedzenie nr 107. Odpowiedź. Odpowiadający. Jerzy Jacek Widzyk ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://sip.lex.pl/akty-prawne/dzienniki-resortowe/ogloszenie-listy-agentow-celnych-34940800",
+      "title": "Ogłoszenie listy agentów celnych. - OpenLEX - ustawy",
+      "description": "Tomasz, Jagusztyn. 479, 17-03-1999, Justyna, Zielińska. 480, 19-03-1999, Maria ... 26-04-2001, Marzena, Gabzdyl. 7662, 26-04-2001, Mariusz, Dudek. 7663, 26-04- ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "https://pzj.pl/wp-content/uploads/2022/02/Zestawienie-zawodnikow-2021.pdf",
+      "title": "[PDF] Zestawienie-zawodnikow-2021.pdf - PZJ",
+      "description": "... Tomasz. O002465. 18-12-1979. S. Klub Jeździecki Welt. MAZ. PZJ: B(I) LZPZJ ... Chmielewski. Maciej. O051822. 06-01-2005. J. Stowarzyszenie ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://parafiaswjerzego.pl/wp-content/uploads/2019/09/Baza-Cmentarza_03.09.2019.pdf",
+      "title": "[PDF] Baza cmentarza_2019",
+      "description": "... TOMASZ [26-. 11-1965]. 1-1-2000. 2020. F. 6/7. LUTEŃKO. ROMAN. 1-9-2001. 2021 ... CHMIELEWSKI ANDRZEJ [urna] ,. CHMIELEWSKI WITOLD [18-11-2015].",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://www.saos.org.pl/search?lawJournalEntryCode=1997/553&page=5267",
+      "title": "Wyszukiwarka orzeczeń - System Analizy Orzeczeń Sądowych - SAOS",
+      "description": "Chmielewski ( sprawozdawca ) Prokurator Naczelnej Prokuratury Woj ... Tomasz Grzegorczyk. Forma orzeczenia ... Data orzeczenia: 26-04-2001. Izba Wojskowa ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}

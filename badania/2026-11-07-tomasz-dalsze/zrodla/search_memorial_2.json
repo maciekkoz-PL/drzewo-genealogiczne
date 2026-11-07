@@ -1,0 +1,43 @@
+{
+  "query": "\"Tomasz\" \"Chmielewski\" \"26.IV.2001\"",
+  "id": "01a1b553-86cb-722e-a146-cf4056bea963",
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa",
+  "web": [
+    {
+      "url": "https://www.jadwizanki.pl/bp-waclaw-swierzawski/bibliografia/",
+      "title": "Bibliografia - Jadwiżanki Wawelskie -",
+      "description": "Święty Tomasz z Akwinu mistrzem teologicznych syntez, ACr 25 (1993) 497-506. Dominujące wątki teologiczne w pismach Księdza Bronisława Markiewicza, w ...",
+      "position": 1,
+      "source": "web"
+    },
+    {
+      "url": "https://wnus.usz.edu.pl/historiografia/file/issue/download/1312.pdf",
+      "title": "[PDF] Tadeusz Białecki STUDIA I mATerIAły z historii Pomorza ...",
+      "description": "... 26 IV 2001. Praca zb. pod red. K. Kozłowskiego, Szczecin. 2001, s. 21–33. 2003 ... Chmielewski, Procesy repolonizacji Pomorza Zachodniego w latach 1945 ...",
+      "position": 2,
+      "source": "web"
+    },
+    {
+      "url": "http://www.tnp.org.pl/s.plockie.2.pdf",
+      "title": "[PDF] płockie i brzeskie sympozja i konferencje nt. zarządzania ...",
+      "description": "Tomasz Ambroziak i mgr inż. Włodzimierz Serafimowicz uchwaliła następujące ... 26 IV 2001 r.),. Płock 2001. W. Serafimowicz, B. Trębala, Zarządzanie ...",
+      "position": 3,
+      "source": "web"
+    },
+    {
+      "url": "https://cms-v1-files.superszkolna.pl/sites/1516/wiadomosci/404693/files/szkola_trojka_50_lat_tomaszowskiej_trojki_1.pdf",
+      "title": "[PDF] z kart kroniki Szkoły Podstawowej nr 3 im. doktora Janusza ...",
+      "description": "Finał VI edycji odbył się 26 IV 2001 r. Zwycięzcy finału powiatowego otrzy ... Portuś, Leon Soluch, Tomasz Sioma, T. Tarczyński;. Dozorca: Władysław ...",
+      "position": 4,
+      "source": "web"
+    },
+    {
+      "url": "https://kpbc.umk.pl/Content/233794/PDF/EOD_OPEN_004_02_1.pdf",
+      "title": "[PDF] RUCH FILOZOFICZNY - UMK",
+      "description": "Drewniak Tomasz — magister, 48-303 Nysa, ul. Komisji Edukacji Narodowej 9/2 ... 26 IV 2001 - mgr Aleksandra Derra-Włochowicz (IF UMK), Późny Wittgen ...",
+      "position": 5,
+      "source": "web"
+    }
+  ],
+  "success": true
+}
