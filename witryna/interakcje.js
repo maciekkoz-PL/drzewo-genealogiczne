@@ -135,6 +135,7 @@ function relativeStatus(personId,relative){
 const portrait=p=>p.photo?`<div class="portrait">${p.photo.viewBox?`<svg viewBox="${esc(p.photo.viewBox)}" role="img" aria-label="Portret: ${esc(p.name)}"><image href="${esc(p.photo.src)}" width="${p.photo.width}" height="${p.photo.height}" /></svg>`:`<img src="${esc(p.photo.src)}" alt="Portret: ${esc(p.name)}" loading="lazy">`}</div>`:'';
 femaleIds.add('C81'); // Rose jest wymieniona jako żona Raya.
 function openPerson(id){
+ if(id==='C69')id='P12';
  const p=byId[id];if(!p)return;
  if(!currentPeople.some(x=>x.id===id)){
   selectedLevel=Math.max(selectedLevel,p.level);syncLevels();
@@ -171,4 +172,4 @@ function renderNews(){
  $('news').innerHTML=news.length?news.map(n=>`<article class="entry"><time datetime="${esc(n.at)}">${dt(n.at)}</time><div><h3>${esc(n.title)}</h3><p>${esc(n.body)}</p></div></article>`).join(''):'<p class="empty">Brak nowych zapisów w ostatnich 7 dniach. Wybierz „Wszystkie”, aby zobaczyć wcześniejsze odkrycia.</p>';
 }
 $('period').onchange=renderNews;renderNews();renderTree();
-const match=location.hash.match(/^#osoba-([PC]\d+)$/);if(match&&byId[match[1]])openPerson(match[1]);
+const match=location.hash.match(/^#osoba-([PC]\d+)$/);if(match&&(byId[match[1]]||match[1]==='C69'))openPerson(match[1]);

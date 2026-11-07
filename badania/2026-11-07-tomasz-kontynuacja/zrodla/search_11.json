@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.archidiecezja.lodz.pl/strona/cmentarze",
+        "title": "Cmentarze - Archidiecezja Łódzka",
+        "description": "Cmentarz pw. św. Maksymiliana Kolbego. Gadka Stara, ul. Czartoryskiego 62, tel. 605 631 485. Kierownik: Małgorzata Lik. Cmentarz pw. MB Nieustającej Pomocy. 91 ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.archidiecezja.lodz.pl/aktualnosci/2020/02/informacja-w-sprawie-oplat-na-cmentarzach-bedacych-pod-zarzadem-kurii-archidiecezji-lodzkiej",
+        "title": "Informacja w sprawie opłat na cmentarzach będących pod ...",
+        "description": "Cmentarz pw. św. Maksymiliana Kolbego- Gadka Stara, ul. Czartoryskiego 62, tel. 42 227-95-15; Cmentarz pw. MB Nieustającej Pomocy - 91-222 ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.archidiecezja.lodz.pl/aktualnosci/2009/10/msze-na-cmentarzach",
+        "title": "Msze na cmentarzach - Archidiecezja Łódzka",
+        "description": "12.00. Cmentarz św. Maksymiliana Kolbe, ul. Czartoryskiego 62. Msze św.: Procesja żałobna z wypominkami: Cmentarz MB Nieustającej Pomocy, ul.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.archidiecezja.lodz.pl/aktualnosci/2026/10/czy-1-listopada-trzeba-isc-do-kosciola-sprawdz-gdzie-mozesz-uczestniczyc-we-mszy-sw",
+        "title": "Czy 1 listopada trzeba iść do kościoła? - Archidiecezja Łódzka",
+        "description": "7 days ago · 9:00, 10:00, 11:00; 12:00. 2.XI. – Msza św.: godz. 10:00. + Cmentarz pw. św. Maksymiliana Kolbego, Gadka Stara, ul. Czartoryskiego 62. 1.XI ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.archidiecezja.lodz.pl/aktualnosci/2022/10/liturgia-mszy-swietych-na-lodzkich-nekropoliach-w-uroczystosc-wszystkich-swietych-2",
+        "title": "Liturgia Mszy Świętych na łódzkich nekropoliach w uroczystość ...",
+        "description": "1.XI.- Msza św.: 12.00, 15.00. Procesja: 14.00. + Cmentarz pw. św. Maksymiliana Kolbego, Gadka Stara, ul. Czartoryskiego 62. 1.XI ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "msheritage-access-preservica-com",
+        "capability": "archive-records/list_folder",
+        "description": "Enumerate the archive top-down (root -> collection -> sub-folders -> items) or list what sits inside a folder found by search_records or get_record; take child ids to get_record (items) or back to list_folder (folders)."
+      },
+      {
+        "provider": "ccel-org",
+        "capability": "bible/list_commentaries",
+        "description": "Find which classic commentaries exist on a book or by an author (query \"romans\", author \"barnes\") before reading one with get_section or get_author."
+      }
+    ]
+  },
+  "id": "01a1b413-683b-7281-b16b-7772d1c6f798",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://www.archidiecezja.lodz.pl/strona/cmentarze\", #2 \"https://www.archidiecezja.lodz.pl/aktualnosci/2020/02/informacja-w-sprawie-oplat-na-cmentarzach-bedacych-pod-zarzadem-kurii-archidiecezji-lodzkiej\", #3 \"https://www.archidiecezja.lodz.pl/aktualnosci/2009/10/msze-na-cmentarzach\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

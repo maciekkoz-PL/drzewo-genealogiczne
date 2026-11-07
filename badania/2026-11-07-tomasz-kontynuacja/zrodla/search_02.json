@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://orka.sejm.gov.pl/SQL.nsf/poselg3?OpenAgent&48",
+        "title": "Jan Chmielewski - głosowania na pos. Sejmu",
+        "description": "Jan Chmielewski, Strona główna Sejmu. III kadencja. Głosowania na ... 26-04-2001, 73. 27-04-2001, 161. 106, 10-04-2001, 73. 11-04-2001, 298. 105, 27-03-2001 ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "http://eilat2018.microplustiming.com/export/Hoorn2016/OW/pdf/Entry%20List.pdf",
+        "title": "[PDF] Entry List 5 Km Girls 14-15 yrs",
+        "description": "POL. CHMIELEWSKI Krzysztof M. 08/06/2004. RSA. BUCK Connor Robert. 02/01 ... 26/04/2001. USA. DEGEORGE Leah. 22/10/2001. USA. TRAVIS Chase. 18/07 ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.esporte.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-04/listageralgo2020_fase2.pdf",
+        "title": "[PDF] governo do estado do paraná",
+        "description": "701 MANISH CHMIELEWSKI FURLAN. 14/08/2004 NATAÇÃO. CURITIBA. 702 MANUELA TAQUES ... 26/04/2001 CANOAGEM. TIBAGI. 261 JOÃO MIGUEL NETO. 24/11/1995 TAEKWONDO.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.interment.net/data/canada/mb/winnipeg/brookside/surnames-c.htm",
+        "title": "Brookside Cemetery Winnipeg, Manitoba, Canada - Interment.net",
+        "description": "CHMIELEWSKI, Marion, d. 26/12/1974, bur. 31/12/1974, BO #69004, Plot: 29 ... 26/04/2001, BO #96801, Plot: Niche-Mlty-35D COTTERILL, Charlotte Sophia, d ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.pappers.fr/entreprise/fiona-437606619",
+        "title": "Société FIONA (437606619) : Chiffre d'affaires, statuts, extrait d ...",
+        "description": "CHMIELEWSKI Stanislas. Suivre cette entreprise ... INSCRIT (au greffe de CANNES , le 26/04/2001 ) ... CHMIELEWSKI Stanislas. Gérant. 06/1940 - 08/2025 ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://pzj.pl/wp-content/uploads/2022/02/Zestawienie-zawodnikow-2021.pdf",
+        "title": "[PDF] Zestawienie-zawodnikow-2021.pdf - PZJ",
+        "description": "... Chmielewski. Michał. O062875. 13-07-1990. S. Jeździecki Klub Sportowy ... 26-04-2001. MJ. Jeździecki Klub Sportowy Equi Verso Jastrzębie Zdrój.",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "ebi-ac-uk",
+        "capability": "molecules/search_molecules",
+        "description": "Start here to turn a drug or compound name into a ChEMBL ID for get_molecule, drug_indications or list_activities. Salts are separate molecules (imatinib CHEMBL941, imatinib mesylate CHEMBL1642) sharing parent_chembl_id."
+      },
+      {
+        "provider": "ebi-ac-uk",
+        "capability": "molecules/drug_indications",
+        "description": "What a drug is approved or in trials for. Pass any form (parent or salt); the result covers the parent family."
+      },
+      {
+        "provider": "ebi-ac-uk",
+        "capability": "molecules/get_molecule",
+        "description": "Read a compound or drug once you have its ChEMBL ID (from search_molecules) or an InChIKey from another database. Mechanism target_chembl_id values feed get_target and list_activities."
+      },
+      {
+        "provider": "find-and-update-company-information-service-gov-uk",
+        "capability": "companies/advanced_search",
+        "description": "Search companies by name, free-text registered-office address, dates, status, type and one SIC code. Returns one page; source limits access to 10,000 results and dissolved coverage to 2010 onward."
+      },
+      {
+        "provider": "data-gov-lv",
+        "capability": "company-registry/records_list",
+        "description": "Full snapshot of Latvian beneficial owners for the downstream diff; `records_get` for one company or owner."
+      }
+    ]
+  },
+  "id": "01a1b40c-f304-772d-8ef7-b5ff640719a8",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://orka.sejm.gov.pl/SQL.nsf/poselg3?OpenAgent&48\", #2 \"http://eilat2018.microplustiming.com/export/Hoorn2016/OW/pdf/Entry%20List.pdf\", #3 \"https://www.esporte.pr.gov.br/sites/default/arquivos_restritos/files/documento/2020-04/listageralgo2020_fase2.pdf\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

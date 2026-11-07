@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://bip.uml.lodz.pl/urzad-miasta/zalatw-sprawe-urzedowa/wyszukiwarka-spraw/sprawy-obywatelskie/akty-stanu-cywilnego/KA-01137/",
+        "title": "Wydawanie odpisów aktów stanu cywilnego - BIP ŁÓDŹ",
+        "description": "W Urzędzie Stanu Cywilnego w Łodzi przy al. Piłsudskiego 100 można uzyskać odpis aktu urodzenia, małżeństwa lub zgonu. Odpis może być zupełny albo skrócony. O ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.gov.pl/web/gov/uzyskaj-odpis-aktu-stanu-cywilnego-urodzenia-malzenstwa-zgonu",
+        "title": "Uzyskaj odpis aktu stanu cywilnego (urodzenia, małżeństwa ...",
+        "description": "Kto może uzyskać · jej małżonek, · zstępni, wstępni, rodzeństwo, · przedstawiciel ustawowy (na przykład rodzic) lub opiekun, · osoba, która wykaże interes prawny w ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://e-druki.pl/druk/wowaz-l-podanie-o-wydanie-odpisu-aktu-zgonu-skroconyzupelnywielojezyczny-lodz-0",
+        "title": "WoWaZ-Ł Podanie o wydanie odpisu aktu zgonu skrócony ...",
+        "description": "wniosek o wydanie odpisu aktu zgonu; dowód osobisty,; udokumentowane pokrewieństwo lub powinowactwo, lub przedstawienie interesu prawnego do pobrania odpisu.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://hades-lodz.pl/akty-zgonow/",
+        "title": "Akty zgonów Łódź - Dom Pogrzebowy Hades",
+        "description": "Wyjaśniamy, jak uzyskać akty zgonów w Łodzi i innych miastach, gdzie należy się udać, aby zgłosić zgon oraz jakie dokumenty należy mieć ze sobą.",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://bip.uml.lodz.pl/urzad-miasta/zalatw-sprawe-urzedowa/wyszukiwarka-spraw/sprawy-obywatelskie/akty-stanu-cywilnego/KA-01106/",
+        "title": "Sporządzanie aktów stanu cywilnego w Rejestrze ... - BIP ŁÓDŹ",
+        "description": "możliwość złożenia wniosku online, · możliwość przesłania wniosku pocztą, · wizyta w urzędzie wymaga umówienia się, · sprawa możliwa do załatwienia przez ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "msi-nga-mil",
+        "capability": "maritime-safety/records_list",
+        "description": "Collecting a whole family. For warnings, call once per nav area (4, 12, A, P, C); in-force lists must come from scope inforce because the year segment omits in-force warnings created in earlier years."
+      }
+    ]
+  },
+  "id": "01a1b3ff-54ab-71cb-b62d-78fc0f13a50c",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://bip.uml.lodz.pl/urzad-miasta/zalatw-sprawe-urzedowa/wyszukiwarka-spraw/sprawy-obywatelskie/akty-stanu-cywilnego/KA-01137/\", #2 \"https://www.gov.pl/web/gov/uzyskaj-odpis-aktu-stanu-cywilnego-urodzenia-malzenstwa-zgonu\", #3 \"https://e-druki.pl/druk/wowaz-l-podanie-o-wydanie-odpisu-aktu-zgonu-skroconyzupelnywielojezyczny-lodz-0\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

@@ -360,3 +360,7 @@ Nie potwierdzono nowego żyjącego krewnego. Excel, hipotezy i plan zaktualizowa
 | S232 | 39kwerendweb | Braknowychpotomków/rodzinnegołącznika; szkicAPZprzygotowanylokalnie,niewysłany. |
 
 Nie dodano imienników do drzewa. Stan Excela232źródła/97kandydatów/220kwerend; historia iZIPy zachowane. Każda przyszła publikacja przełomu ma zaktualizować istniejącą witrynę.
+
+## Tomasz — kontynuacja07.11.2026
+
+S245–S252: globalneBG,30FindAGrave,Grobonet25lokalneBG,oficjalneMSiG,kontaktadministracjiStarejGadki ioryginalnytekstrozporządzenia. [Pełny zakres i ograniczenia](badania/2026-11-07-tomasz-kontynuacja/STATUS.md). Nie znaleziono nowego aktu Tomasza, DOB ani matki. Szczegółowe URL i źródła są wExcelu oraz rejestrach tej sesji.

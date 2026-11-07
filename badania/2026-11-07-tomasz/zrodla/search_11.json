@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://arch-bip.ms.gov.pl/pl/szukaj/index,69.html?Query=Cheap%20fc%2026%20coins%20Buyfc26coins.com%20is%20EA%20Sports%20official%20for%20FC%2026%20coins%20They%20offer%20excellent%20pricing%20and%20delivery..yiTH",
+        "title": "Szukaj / Biuletyn Informacji Publicznej",
+        "description": "... Chmielewski gościł dzisiaj na finale zawodów na... ... ustawa z dnia 26 kwietnia 2001 r. o rentach ... o spółdzielniach mieszkaniowych, ustawa z dnia 26 kwietnia ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://kpbc.umk.pl/Content/202934/PDF/Ossowska_Wanda_2922_WSK.pdf",
+        "title": "[PDF] 2-c2. / UiS]<C",
+        "description": "Zmarła 26 kwietnia 2001 r w wieku 89 lat. Wszyscy, którzy na swojej drodze ... Lech Chmielewski. „Bóg zapłać za te słowa. Z całego serca Bóg zapłać ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.imsig.pl/numer/2001/82,Monitor_S%C4%85dowy_i_Gospodarczy_nr_82_2001_%281162%29_z_26_kwietnia_2001_r.",
+        "title": "Numer 82/2001 (1162) z 26 kwietnia 2001 r. - Internetowy Monitor ...",
+        "description": "... 26 kwietnia 2001 r ... Indeks numerów → Rocznik 2001 → Numer 82/2001 (1162) z 26 kwietnia 2001 r. ... Wnioskodawca Chmielewski Janusz. Poz. 18322 ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://orka.sejm.gov.pl/Biuletyn.nsf/5c32eb69bb3ed38ec12570b500432e69/3773c0302f8db8aac125730900385012?OpenDocument&Click=",
+        "title": "Biuletyn z posiedzenia komisji - Sejm",
+        "description": "Poseł Stanisław Chmielewski /PO/ Podsekretarz ... „W ustawie z dnia 26 kwietnia 2001 r. o zasadach ... Poseł Stanisław Chmielewski (PO): Wymóg 18 lat ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://delibra.bg.polsl.pl/Content/66099/P-4492_ZZyciaPS_2000-2001_09_108.pdf",
+        "title": "[PDF] Rok akademicki - Politechnika Śląska",
+        "description": "Michał Śmigielski,. Wiceprezydent Miasta Katowice mgr Jerzy. Chmielewski. ... 26 kwietnia 2001 roku odbyło się posiedzenie. Komitetu Badań Naukowych. Obradom ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b400-df31-7537-a6f2-7f8ebebc18cc",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1, #2 \"https://kpbc.umk.pl/Content/202934/PDF/Ossowska_Wanda_2922_WSK.pdf\", #3 \"https://www.imsig.pl/numer/2001/82,Monitor_S%C4%85dowy_i_Gospodarczy_nr_82_2001_%281162%29_z_26_kwietnia_2001_r.\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

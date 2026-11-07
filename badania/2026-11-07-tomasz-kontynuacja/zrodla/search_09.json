@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://ecmentarze.pl/cmentarze/cmentarz-rzymskokatolicki-sw-maksymiliana-kolbe",
+        "title": "Cmentarz rzymskokatolicki św. Maksymiliana Kolbe - eCmentarze",
+        "description": "# Cmentarz rzymskokatolicki św. Maksymiliana Kolbe\nStara Gadka · Adama Czartoryskiego · Województwo łódzkie\n\n## O cmentarzu\nCmentarz rzymskokatolicki św. Maksymiliana Kolbe. Lokalizacja: 93-443 Stara Gadka, ul.\n\n## Kontakt i dojazd\n### Godziny pracy kancelarii\nAdama Czartoryskiego, Stara Gadka",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Lodzkie/Powiat-m.-Lodz/Gmina-M.-Lodz/Lodz/Cmentarz-rzymsko-katolicki-sw.-Maksymiliana-Kolbe-Gadka-Stara",
+        "title": "Cmentarz rzymsko-katolicki św. Maksymiliana Kolbe (Gadka ...",
+        "description": "Maksymiliana Kolbe (Gadka Stara). Ulica: Czartoryskiego 62. 91-371 Łódź. Telefon: 42 227 95 15. Zarządca: Archidiecezja Łódzka, Kierownik: Jerzy Królik. Telefon ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://mapy.com/en/?source=osm&id=95754381",
+        "title": "Cmentarz rzymskokatolicki św. Maksymiliana Kolbe - Mapy.com",
+        "description": "Cmentarz rzymskokatolicki św. Maksymiliana Kolbe (Cemetery) Map – detailed map of the area (base, outdoor, aerial, panorama, etc.)",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://mapa.targeo.pl/cmentarz-katolicki-sw-maksymiliana-kolbe-ksiecia-adama-czartoryskiego-62-95-030-gadka-stara~4466419/cmentarz/adres",
+        "title": "Cmentarz katolicki św. Maksymiliana Kolbe, Gadka Stara 95-030",
+        "description": "Ulica: Księcia Adama Czartoryskiego 62. Numer budynku: 62. Kod pocztowy: 95-030. Miejscowość: Gadka Stara. Gmina: Rzgów. Powiat: łódzki wschodni.",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://billiongraves.com/cemetery/%C5%81%C3%B3d%C5%BA-Cm-par-%C5%9Bw-Maksymiliana-Kolbego-Gadka-Stara/292271",
+        "title": "Łódź, Cm. par. św. Maksymiliana Kolbego (Gadka Stara)",
+        "description": "Explore headstone photos and burial records at Łódź, Cm. par. św. Maksymiliana Kolbego (Gadka Stara) in Stara Gadka, Łódź Voivodeship, Poland. Search family",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b412-ef4a-716b-8669-16d0c399d9d8",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://ecmentarze.pl/cmentarze/cmentarz-rzymskokatolicki-sw-maksymiliana-kolbe\", #2 \"https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Lodzkie/Powiat-m.-Lodz/Gmina-M.-Lodz/Lodz/Cmentarz-rzymsko-katolicki-sw.-Maksymiliana-Kolbe-Gadka-Stara\", #3 \"https://mapy.com/en/?source=osm&id=95754381\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

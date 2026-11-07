@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://grobonet.com/p/brzeg/7304/tomasz-chmielewski-1907-brzeg",
+        "title": "Tomasz Chmielewski 1907 - Grobonet.com",
+        "description": "śp. Tomasz Chmielewski, ur. 1907-08-11, zm. 1989-10-20. Cmentarz komunalny przy ul. Starobrzeskiej, sektor / rząd / numer: D2 / 3 / 17.",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://zawidow.grobonet.com/grobonet/start.php?id=detale&idg=3817&inni=0",
+        "title": "śp. Tomasz Chmielewski - Cmentarz Komunalny w Zawidowie",
+        "description": "śp. Tomasz Chmielewski. ur. 1965-11-10 zm. 2020-01-22. Sektor / Rząd / Numer. B5 / 8 / 4. Zdjęcie grobu. Previous Next. Mapa szczegółowa.",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.lubaczowkomunalny.grobonet.com/p/stargard/117345/tomasz-chmielewski-1945-stargard",
+        "title": "Tomasz Chmielewski 1945 Stargard - Grobonet - Wyszukiwarka ...",
+        "description": "śp. Tomasz Chmielewski. ur. 1945-08-20 zm. 2020-03-04. Cmentarz Komunalny przy ulicy Kościuszki. Sektor / Rząd / Numer. A01 / 09 / 04.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://krasnystaw.grobonet.com/osoba/18226/znicz",
+        "title": "Zapal znicz | Cmentarz parafialny w Krasnymstawie",
+        "description": "Pochowany: Tomasz Chmielewski * 00.00.1954 † 00.00.1997. Zapal wirtualny znicz przy grobie. Podpis będzie widoczny przy płonącym zniczu. Kilka wskazówek. Podpis ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://zawidow.grobonet.com/osoba/3817/oplata",
+        "title": "Opłać miejsce - Cmentarz Komunalny w Zawidowie - Grobonet",
+        "description": "Wszyscy pochowani w tym grobie: Ludwika Chmielewska * 22.08.1940 † 09.01.1994; Tomasz Chmielewski * 10.11.1965 † 22.01.2020. Imię*. Nazwisko.",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://zawidow.grobonet.com/osoba/3817/zyciorys",
+        "title": "Napisz życiorys - Cmentarz Komunalny w Zawidowie - Grobonet",
+        "description": "Pochowany: Tomasz Chmielewski * 10.11.1965 † 22.01.2020. Treść życiorysu*. Ilość znaków do wpisania: 512.",
+        "position": 6,
+        "source": "web"
+      },
+      {
+        "url": "https://brzeg.grobonet.com/osoba/7304",
+        "title": "Szczegóły | Cmentarz - Grobonet",
+        "description": "Pauza. śp. Tomasz Chmielewski. ur. 1907-08-11. zm. 1989-10-20. Stary adres: 15/3/2. Zapal znicz · Inne osoby w grobie · Opłać miejsce · Napisz życiorys.",
+        "position": 7,
+        "source": "web"
+      },
+      {
+        "url": "https://krasnystaw.grobonet.com/osoba/18226/oplata",
+        "title": "Opłać miejsce - Cmentarz parafialny w Krasnymstawie - Grobonet",
+        "description": "Wszyscy pochowani w tym grobie: Tomasz Chmielewski * 00.00.1954 † 00.00.1997. Imię*. Nazwisko.",
+        "position": 8,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "mediaexpert-pl",
+        "capability": "products/product",
+        "description": "Price, availability and specs for a mediaexpert.pl product URL, pasted or taken from `category` items."
+      },
+      {
+        "provider": "www-60-tools",
+        "capability": "video-game-gear/bis",
+        "description": "Answer what gear, enchants, consumables and talents a WoW Forever character should use, e.g. a level 20 warrior: pass class, list slug (from `lists`) and level. Chain item ids into `item`."
+      },
+      {
+        "provider": "www-60-tools",
+        "capability": "video-game-gear/talents",
+        "description": "Explain a WoW Forever class's talents or what changed from Classic; pair with the builds from `bis`."
+      },
+      {
+        "provider": "forever-codex-com",
+        "capability": "video-game-gear/talents",
+        "description": "Answer which talents a WoW Forever character can take or should consider at its level (one point per level from 10; row N needs 5*(N-1) points in its tree) and what is new or changed for a class. Pair with `spec` for the stats the spec values."
+      },
+      {
+        "provider": "gob-mx",
+        "capability": "government-content/list_archive",
+        "description": "Discover content of one agency: galleries of road projects (agency sict, section galerias), press releases mentioning a keyword in a date range (section prensa with q/from/to). Follow with get_gallery, get_press_release or get_content using the returned slug."
+      },
+      {
+        "provider": "www-60-tools",
+        "capability": "video-game-gear/lists",
+        "description": "Find the right list slug for `bis`, e.g. which warrior list is Arms or Fury at a level."
+      },
+      {
+        "provider": "zockify-com",
+        "capability": "video-game-gear/talents",
+        "description": "Answer what talents a WoW Forever class has, what a talent does at each rank, or plan a build (one point per level from 10, every 5 points in a tree open the next row). Talent trees were reworked for Forever, so Classic talent guides do not apply."
+      },
+      {
+        "provider": "marcos-com",
+        "capability": "restaurants/stores",
+        "description": "Start here to find a store_key; menu, item, deals, store and wait_times need one. The source publishes the whole location list in one page, so filtering, sorting by distance and paging happen in this program."
+      }
+    ]
+  },
+  "id": "01a1b40e-f460-77e3-8951-f7b492b86d3c",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 8 web results are excerpts only (#1 \"https://grobonet.com/p/brzeg/7304/tomasz-chmielewski-1907-brzeg\", #2 \"https://zawidow.grobonet.com/grobonet/start.php?id=detale&idg=3817&inni=0\", #3 \"https://www.lubaczowkomunalny.grobonet.com/p/stargard/117345/tomasz-chmielewski-1945-stargard\" and 5 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

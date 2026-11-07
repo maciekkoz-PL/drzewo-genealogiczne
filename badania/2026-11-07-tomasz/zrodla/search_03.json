@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://orka2.sejm.gov.pl/Debata3.nsf/4fb829a81a8d007ac125746d0030d0fb/a2ac2f791b0d9321c125749d00408eec?OpenDocument",
+        "title": "3 kadencja, 107 posiedzenie, 3 dzień - Poseł Jan Chmielewski - Sejm",
+        "description": "... Chmielewski. 3 kadencja, 107 posiedzenie, 3 dzień (26.04.2001). 25 punkt porządku dziennego: Informacja rządu o stanie przygotowań i zabezpieczeniu finansowym ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.osti.gov/etdeweb/servlets/purl/20308672",
+        "title": "[PDF] APPLICATION OF THE MULTIVARIATE STANDARDIZATION",
+        "description": "Chmielewski A.G., Dembinski W., Zakrzewska-Trznadel G. Izotopy trwale - Nowe ... Institute of Nuclear Chemistry and Technology, 26.04.2001. 3. Beata ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.pozkosz.com/liga/284/sezon/10/d/5591/uks-7-trefl-ii-sopot/",
+        "title": "UKS 7 Trefl II Sopot - Zawodnicy - Pomorski Związek Koszykówki",
+        "description": "Chmielewski. Urodzony: 21.03.2001. Wzrost: --- Pozycja: · 8. Nikodem Czoska ... Gussmann. Urodzony: 26.04.2001. Wzrost: --- Pozycja: · 10. Piotr Gutowski.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.nekrologi-baza.pl/?page_id=1149&paged=3119",
+        "title": "Nazwiska na literę W karta nr: 3119 - Nekrologi Warszawskie",
+        "description": "19.12.1950. Wielowieyski Stefan, 26.04.2001. Wielowieyski Władysław, xx.xx ... Wieniawa-Chmielewski Krzysztof, xx.xx.2002. Wieniawa-Chmielewski Stefan, xx.xx ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://wyszukiwarka-msig.ms.gov.pl/api/Monitor/Download?id=9221527",
+        "title": "[PDF] Nr 62 (1394) - Monitor Sądowy i Gospodarczy",
+        "description": "... CHMIELEWSKI 2. DARIUSZ BOGDAN. 3. 54100905035 4. WICEPREZES ZARZĄDU 5. NIE. Dz ... 26.04.2001. KANCELARIA NOTARIALNA KRYSTYNY ZOFII DĄ-. BROWY W GŁOGOWIE ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://umfcd.ro/wp-content/uploads/2016/10/concurs_posturi_sem_2_2015-2016/cv_fv_med_dent/CVGIURGIU_MARINA-CRISTINASL3.pdf",
+        "title": "[PDF] curriculum vitae giurgiu marina-cristina - București - UMFCD",
+        "description": "... 26.04.2001). - 1999-2001 medic rezident Stomatologie Generală prin concurs ... Speaker: Krzysztof Chmielewski, Botiss DT Study Club – ADA CERP, Tribune CME,.",
+        "position": 6,
+        "source": "web"
+      },
+      {
+        "url": "https://www.szukajwarchiwach.gov.pl/en/seria?p_p_id=Seria&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Seria_delta=60&_Seria_nameofjsp=jednostki&_Seria_resetCur=false&_Seria_id_serii=743203&_Seria_cur=3",
+        "title": "Seria - Szukaj w Archiwach",
+        "description": "... 26.04.2001 · 1999-2001 · 0 · 2/2521/0/12/22429 · Roman Sobiecki \"Podstawy ... Michał Chmielewski, Andrzej Sierota, Krzysztof Symela, Janusz Wojtkiewicz-Lazman ...",
+        "position": 7,
+        "source": "web"
+      },
+      {
+        "url": "https://kpbc.umk.pl/Content/202934/PDF/Ossowska_Wanda_2922_WSK.pdf",
+        "title": "[PDF] 2-c2. / UiS]<C",
+        "description": "28.04.1912 -26.04.2001 R. Wanda Józefa Ossowska. Córka Stanisława i Henryki z ... Lech Chmielewski. „Bóg zapłać za te słowa. Z całego serca Bóg zapłać ...",
+        "position": 8,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "ebi-ac-uk",
+        "capability": "molecules/search_molecules",
+        "description": "Start here to turn a drug or compound name into a ChEMBL ID for get_molecule, drug_indications or list_activities. Salts are separate molecules (imatinib CHEMBL941, imatinib mesylate CHEMBL1642) sharing parent_chembl_id."
+      },
+      {
+        "provider": "ebi-ac-uk",
+        "capability": "molecules/drug_indications",
+        "description": "What a drug is approved or in trials for. Pass any form (parent or salt); the result covers the parent family."
+      }
+    ]
+  },
+  "id": "01a1b3fc-525f-70eb-8a5f-efea7aeea6fe",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 8 web results are excerpts only (#1 \"https://orka2.sejm.gov.pl/Debata3.nsf/4fb829a81a8d007ac125746d0030d0fb/a2ac2f791b0d9321c125749d00408eec?OpenDocument\", #2 \"https://www.osti.gov/etdeweb/servlets/purl/20308672\", #3 \"https://www.pozkosz.com/liga/284/sezon/10/d/5591/uks-7-trefl-ii-sopot/\" and 5 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

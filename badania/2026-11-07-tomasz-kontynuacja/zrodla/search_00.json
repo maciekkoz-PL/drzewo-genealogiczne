@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.gowork.pl/taxi-tomasz-chmielewski,25908781/dane-kontaktowe-firmy",
+        "title": "Kontakt - TAXI Tomasz Chmielewski Łódź - telefon, adres, NIP",
+        "description": "Zobacz dane kontaktowe, korespondencyjne i adresowe firmy TAXI Tomasz Chmielewski Łódź: adresy, NIP, numery telefonów, infolinie, email ... Stara Gadka · Łukaszew.",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.gowork.pl/orbisnet-tomasz-chmielewski,25778430/dane-kontaktowe-firmy",
+        "title": "Kontakt - Orbisnet Tomasz Chmielewski Łódź - telefon, adres, NIP ...",
+        "description": "Zobacz dane kontaktowe, korespondencyjne i adresowe firmy Orbisnet Tomasz Chmielewski Łódź: adresy, NIP, numery telefonów, infolinie, email.",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://rcpslodz.pl/content/artykuly/files/Aktualny%20Wykaz%20Podmiot%C3%B3w%2029.06.2022.pdf",
+        "title": "[PDF] WOJEWÓDZKA KARTA RODZIN WIELODZIETNYCH",
+        "description": "6) F.K.R. „TOMI” Tomasz Chmielewski ul. Gdańska 4, 95-200 Pabianice www.kino ... Prawda, Czyżeminek, Stara Gadka, Starowa Góra, Huta Wiskicka – Tadzin,.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.gowork.pl/opinie_czytaj,25908781",
+        "title": "Opinie TAXI Tomasz Chmielewski Łódź - GoWork.pl",
+        "description": "Sprawdź opinie o TAXI Tomasz Chmielewski Łódź. Informacje o zarobkach, kadrze zarządzającej, atmosferze ... TAXI Tomasz Chmielewski ... Stara Gadka · Łukaszew.",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.gowork.pl/opinie_czytaj,25778430",
+        "title": "Opinie Orbisnet Tomasz Chmielewski Łódź - GoWork.pl",
+        "description": "Sprawdź opinie o Orbisnet Tomasz Chmielewski Łódź. Informacje o zarobkach, kadrze zarządzającej, atmosferze ... Stara Gadka · Bronisin Dworski · Nowa Gadka.",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://www.gowork.pl/mzuri-cfi-4-sp.-z-o.o.,21650352/dane-kontaktowe-firmy",
+        "title": "Kontakt - Mzuri Cfi 4 Łódź - adres, telefon, przychody, NIP, KRS ...",
+        "description": "Władze firmy i powiązania. Zarząd. Sławek Mukiria Muturi. Prezes Zarządu. Rada nadzorcza. Jarosław Mila; Adam Tomasz Chmielewski; Agnieszka Magdalena ...",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b40c-f241-72a9-bc21-7b62f39dab60",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://www.gowork.pl/taxi-tomasz-chmielewski,25908781/dane-kontaktowe-firmy\", #2 \"https://www.gowork.pl/orbisnet-tomasz-chmielewski,25778430/dane-kontaktowe-firmy\", #3 \"https://rcpslodz.pl/content/artykuly/files/Aktualny%20Wykaz%20Podmiot%C3%B3w%2029.06.2022.pdf\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

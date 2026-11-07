@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://wobroniewiaryitradycji.wordpress.com/rekolekcje/rekolekcje-zerwania-ze-zlem-ks-dominik-chmielewski/",
+        "title": "Rekolekcje ks. Dominik Chmielewski",
+        "description": "Ania's awatar Ania o 26 kwietnia 2014 o 11:14. Dziękuję za odpowiedź i ... Chmielewskim, sprawdzałam Jego kalendarz i wiem, że od 15 października ma ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://piotrajana.pl/2021/04/ogloszenia-25-kwietnia-2021-r/",
+        "title": "Ogłoszenia 25 kwietnia 2021 r. - Sanktuarium św. Jana Pawła II ...",
+        "description": "Dominikiem Chmielewskim SDB. W niedzielę na wszystkich mszach będzie nauka rekolekcyjna. W poniedziałek 26 kwietnia na mszy św. o 17.30 i ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://iaisp.uj.edu.pl/en-GB/aktualnosci?strona=79",
+        "title": "Institute of American Studies and Polish Diaspora",
+        "description": "26 kwietnia dr hab. Łukasz Kamieński wziął udział w programie „Thinking ... Zapraszamy na spotkanie z Piotrem Chmielewskim (CEO Social Media Now) ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.facebook.com/SloneczneRadio/posts/-26-kwietnia-dzie%C5%84-pami%C4%99ci-o-katastrofie-w-czarnobylu-chernobyl-disaster-remembr/1397586472413942/",
+        "title": "26 kwietnia – Dzień Pamięci o Katastrofie w Czarnobylu / Chernobyl ...",
+        "description": "26 kwietnia – Dzień Pamięci o Katastrofie w ... 26 kwietnia – Dzień Pamięci o Katastrofie w ... Z Prezesem Bogdanem Chmielewskim, który jest ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://sport.tvp.pl/53497410/ocelarzi-trzyniec-z-aronem-chmielewskim-mistrzem-czech-w-hokeju",
+        "title": "Ocelarzi Trzyniec z Aronem Chmielewskim mistrzem Czech w ...",
+        "description": "26 kwietnia 2021. Bili Tygri Liberec. 26 kwi 2021 | Hokej. Ocelarzi Trzyniec z Aronem Chmielewskim mistrzem Czech w hokeju. Ocelarzi Trzyniec z ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "mediaexpert-pl",
+        "capability": "products/product",
+        "description": "Price, availability and specs for a mediaexpert.pl product URL, pasted or taken from `category` items."
+      },
+      {
+        "provider": "raws-dri-edu",
+        "capability": "weather-history/wind_rose",
+        "description": "Wind direction and speed frequency (wind rose) statistics for a fire-weather or CWPP chapter."
+      }
+    ]
+  },
+  "id": "01a1b40d-f1e1-75f2-a96a-ff8d761a3f56",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://wobroniewiaryitradycji.wordpress.com/rekolekcje/rekolekcje-zerwania-ze-zlem-ks-dominik-chmielewski/\", #2 \"https://piotrajana.pl/2021/04/ogloszenia-25-kwietnia-2021-r/\", #3 \"https://iaisp.uj.edu.pl/en-GB/aktualnosci?strona=79\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

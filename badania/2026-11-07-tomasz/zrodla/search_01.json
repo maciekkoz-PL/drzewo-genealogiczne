@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.filmpolski.pl/fp/index.php/1183003",
+        "title": "Tomasz Chmielewski - FilmPolski.pl",
+        "description": "90-323 Łódź Tel.: 42 6345875 e-mail: filmpolski@filmschool.lodz.pl. WSPIERAJĄ NAS. WSPIERAMY. Tomasz Chmielewski. Filmografia. chronologicznie ↓ ↑ | wg ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://kinotomi.pl/",
+        "title": "KinoTomi",
+        "description": "piątek - 2027-01-01. André Rieu. Pada śnieg - Napisy · 12:30 · Seanse przyjazne ... All Rights Reserved By F.K.R. TOMI Tomasz Chmielewski. BORTOS Production.",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.myheritage.pl/names/zdzis%C5%82aw_chmielewski?srsltid=AYCX9vLo5K3gE7_DfMBRSGx93WbUcdkQtESZTpE07wwxjyCcvCTMr1Or",
+        "title": "Zdzisław Chmielewski Historia rodziny i zapisy historyczne",
+        "description": "Zdzisław Chmielewski, zmarł 2001. Polska ... Krystyna urodził się w roku 1944. Mieli 3 dzieci: Adam Tomasz Chmielewski i 2 innych dzieci . Zgon. Zdzisław ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.adwokatura.pl/pomoc-frankowiczom/",
+        "title": "Pomoc frankowiczom - Naczelna Rada Adwokacka - Warszawa",
+        "description": "tomasz.chmielewski@adwokat-doradca.pl. Katowice. Kościuszki 2/. 505-041-394. Chodkowski. Marcin. mchodkowski@op.pl. Kielce. Zagórska 24/32. 608-588-145.",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://jbc.bj.uj.edu.pl/Content/933990/NDIGCZAS102360_2023_1_3.pdf",
+        "title": "[PDF] Czasopismo dostępne w wersji cyfrowej pod adresem www ...",
+        "description": "Tomasz Chmielewski odczytał list od prof. Jana Pilarczyka, przewod- niczącego Rady SIMP w kadencji 2018-2022, w którym profesor złożył podziękowanie za do ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "http://am-online.org/web/archiwum/vol5712018.pdf",
+        "title": "[PDF] Advances in Microbiology",
+        "description": "Tomasz Chmielewski, prof. nadzw. NIZP-PZH, Samodzielna Pracownia Riketsji, Chlamydii i Krętków Odzwierzęcych, Narodowy Instytut Zdrowia Publicznego ...",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b3fc-08ec-73d8-a959-b105a7bb65b9",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://www.filmpolski.pl/fp/index.php/1183003\", #2 \"https://kinotomi.pl/\", #3 \"https://www.myheritage.pl/names/zdzis%C5%82aw_chmielewski?srsltid=AYCX9vLo5K3gE7_DfMBRSGx93WbUcdkQtESZTpE07wwxjyCcvCTMr1Or\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

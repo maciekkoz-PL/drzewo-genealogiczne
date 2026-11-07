@@ -1,0 +1,132 @@
+[
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/04_Tomasz_grob_1.jpeg",
+    "size": 384866,
+    "sha256": "3180eaca05b21bfb33b55717135740096ccfaaca4d6da7d6d06de4cd3239b514"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/05_Tomasz_grob_2.jpeg",
+    "size": 390355,
+    "sha256": "75d67423ac531a6fcf962ee65d57b25ad4cf69dafcf8f8f7242284a771adacf3"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/06_Tomasz_grob_3.jpeg",
+    "size": 335401,
+    "sha256": "9a91b32311876041b2063c4f7a5ef96a6842e60419368ecc1a39db18ee8aeebd"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/USC_Lodz_wniosek_odpis_zgonu.docx",
+    "size": 26262,
+    "sha256": "ac158777a42304f222a39dd3027d319565db2718aaf371b5064ff26b5fede8a5"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/USC_Lodz_wniosek_odpis_zgonu.docx.txt",
+    "size": 3906,
+    "sha256": "d6ce2c387b14d32cd9503039dfab3c7bcd4d4da4191e67940de30e64e317621a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/alternate_search.json",
+    "size": 22961,
+    "sha256": "ab6152c7d68f32db93315ae1f2cdbe4f16845110503de4cb2909bd970f51a3d3"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/scrape_0.json",
+    "size": 17233,
+    "sha256": "3834787b5566a867114c5cbe646eb9de0aa4fdade1eefabce923ed3253544ae7"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/scrape_1.json",
+    "size": 30546,
+    "sha256": "2121767ef56c0f5bd9df66659c555e0584c3a72d73921b33299767f621720863"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/scrape_2.json",
+    "size": 50590,
+    "sha256": "d6a9932253e851d48a58c3132a787efb3f6e590d3e1a927dc2ede850a0f9adb0"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/scrape_3.json",
+    "size": 715,
+    "sha256": "07ba3ce2d776fad2933f2a8edf9f339f4d384cc3ce9b1ff28b63ddd7b33955f1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/scrape_4.json",
+    "size": 17510,
+    "sha256": "bab36c2be98892b90fd9d8d2c2f1d193fc660b8f16b491a26d97849414f58755"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_00.json",
+    "size": 4761,
+    "sha256": "1efc8055b70daed02cb3168592682404723b97b27b22fdf0cb4e4b5cf946923e"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_01.json",
+    "size": 3058,
+    "sha256": "55ba78c92f870432da2157e900070dbbbedde34f0ff27be1a5aec543b33da755"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_02.json",
+    "size": 4204,
+    "sha256": "6abf06b923a024275f106bf30e2151b937e4ded215b8ec85ea0a64e600cf834f"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_03.json",
+    "size": 4870,
+    "sha256": "f890155a61bba439d39bbf13a4d52e104325b3e0c80df2671efa0d318434e00a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_04.json",
+    "size": 5061,
+    "sha256": "1d20dc67ec4e56b94df227436b57e575c3155f5e62a0f6fe35491dbfac9d6b19"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_05.json",
+    "size": 4015,
+    "sha256": "8520aeb0d42defb200682afef6b301898a325aad44191383cb6f67ae39c2a3ab"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_06.json",
+    "size": 2731,
+    "sha256": "94f3d9577a2e8029cf82802ca382ebd8462c640c17d1b9c37190debfd64815b9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_07.json",
+    "size": 2547,
+    "sha256": "9e2362f0ef41fc117e19a80c85aa2ed63e54106ee4752cdfb63215a9018c77e2"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_08.json",
+    "size": 4477,
+    "sha256": "aacf710dffed32d0b7b19dcd8a6c13e02f967ed732394579770eb308b863bffa"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_09.json",
+    "size": 3451,
+    "sha256": "4684bb1875084fd433dee2289a018a6d9799a782e16452bbc62b044054cf5962"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_10.json",
+    "size": 4309,
+    "sha256": "a8086947b88599d2c03a2a1e72741f3ef53c8d861aab535a23f003a81703f660"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_11.json",
+    "size": 2975,
+    "sha256": "0c2fafd0d7840ecb4370253da7c1e7b323e9bf3a92eb96ac2e391d547324457c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_12.json",
+    "size": 4315,
+    "sha256": "15c8b22fe3caf1652697ca0dcf7bf36e392641fbb0128eda43254e5687c621f2"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_13.json",
+    "size": 3772,
+    "sha256": "6bb4eb3e39d72932f7f83786e8f14788fd626d0686162f5016dba9bc503ef8be"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz/zrodla/search_14.json",
+    "size": 3825,
+    "sha256": "df2acd55ddd9dbbf9720f5185060eda24180937b54d01db9315b8332029d5df3"
+  }
+]

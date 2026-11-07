@@ -19,6 +19,7 @@ for commit,title,body,kind in events:
  stamp=subprocess.check_output(['git','show','-s','--format=%cI',commit],cwd=ROOT,text=True).strip()
  news.append(dict(at=stamp,title=title,body=body,kind=kind))
 curated=json.loads((HERE/'wiarygodnosc.json').read_text())
+news=curated.get('news',news)
 people,edges,sources=curated['people'],curated['edges'],curated['sources']
 data=dict(people=people,edges=edges,sources=sources,relations=curated['relations'],news=news,updated=max(x['at'] for x in news),generated=datetime.datetime.now(datetime.timezone.utc).isoformat())
 (HERE/'public').mkdir(exist_ok=True)

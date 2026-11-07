@@ -1,0 +1,30 @@
+{
+  "at": "2026-11-07T03:43:58.106537+00:00",
+  "result": "PASS",
+  "sheets": 24,
+  "sources": 252,
+  "old_cells_changed": [
+    [
+      "ZRODLA_I_SKANY",
+      "A2"
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      "C39"
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      "D39"
+    ]
+  ],
+  "source_files": 58,
+  "source_bytes": 1108242,
+  "checks": [
+    "Wszystkie wcześniejsze komórki zachowane poza jawnymi opisamiA2,H048C/D",
+    "ID unikalne; nowe ścieżkiF198–F205 istnieją",
+    "Oba audyty i wszystkie dane publicznego drzewa identyczne z początkiem sesji",
+    "JSON prawidłowe; urzędowy PDF prawidłowy; manifestSHA256",
+    "Zakres30FindAGrave i25lokalnychBG potwierdzony liczbąlinków",
+    "Pominięto pełnytekst szczegółów niepowiązanych ogłoszeńMSiG"
+  ]
+}

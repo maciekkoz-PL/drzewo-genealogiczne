@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.imsig.pl/numer/2019/71,Monitor_S%C4%85dowy_i_Gospodarczy_nr_71_2019_%285710%29_z_10_kwietnia_2019_r.",
+        "title": "Numer 71/2019 (5710) z 10 kwietnia 2019 r. - iMSiG.pl",
+        "description": "DORAL SPÓŁKA JAWNA PIOTR CHMIELEWSKI, ROBERT KALINOWSKI, JERZY SIERAKOWSKI ... KLAR TOMASZ BUJAK, TOMASZ LEWANDOWSKI SPÓŁKA JAWNA. Poz. 191639 ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.imsig.pl/numer/2023/156,Monitor_S%C4%85dowy_i_Gospodarczy_nr_156_2023_%286807%29_z_14_sierpnia_2023_r.",
+        "title": "Monitor Sądowy i Gospodarczy nr 156/2023 (6807) z ... - iMSiG.pl",
+        "description": "Wnioskodawca Chmielewski Damian. Poz. 39824. Wnioskodawca Ćwiklińska ... ERGO TOMASZ LESZCZYŃSKI SPÓŁKA KOMANDYTOWO-AKCYJNA. Poz. 845701 ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.imsig.pl/numer/2025/101,Monitor_S%C4%85dowy_i_Gospodarczy_nr_101_2025_%287255%29_z_27_maja_2025_r.",
+        "title": "Numer 101/2025 (7255) z 27 maja 2025 r. - iMSiG.pl",
+        "description": "420612. KLAR TOMASZ BUJAK, TOMASZ LEWANDOWSKI SPÓŁKA JAWNA. Poz ... VISION ROBERT CHMIELEWSKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.imsig.pl/numer/2025/222,Monitor_S%C4%85dowy_i_Gospodarczy_nr_222_2025_%287376%29_z_17_listopada_2025_r.",
+        "title": "Numer 222/2025 (7376) z 17 listopada 2025 r. - iMSiG.pl",
+        "description": "TOMASZ I DANUTA MRUKOWIE PRZEDSIĘBIORSTWO PRODUKCYJNO USŁUGOWO HANDLOWE \"PLANDEX\" SPÓŁKA JAWNA ... CBSS-CHMIELEWSKI BARTEK SERVIS ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.imsig.pl/numer/2024/141,Monitor_S%C4%85dowy_i_Gospodarczy_nr_141_2024_%287043%29_z_22_lipca_2024_r.",
+        "title": "Numer 141/2024 (7043) z 22 lipca 2024 r. - Internetowy Monitor ...",
+        "description": "788238. \"PATIO\" CHMIELEWSKI DUDZIK SPÓŁKA JAWNA. Poz. 788239 ... SOMEX TOMASZ KOSTER SPÓŁKA KOMANDYTOWO-AKCYJNA. Poz. 789196. SOMEX ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "msc-com",
+        "capability": "shipment-tracking/list_vessels",
+        "description": "Find the IMO number for vessel_schedule from a vessel name, or check that a vessel is in MSC's schedule system."
+      },
+      {
+        "provider": "cgmix-uscg-mil",
+        "capability": "maritime-safety/search",
+        "description": "Finding a vessel's psix: id from its name, call sign or IMO number."
+      },
+      {
+        "provider": "msc-com",
+        "capability": "shipment-tracking/vessel_schedule",
+        "description": "Where a vessel is and where it calls next; IMO numbers come from list_vessels, tracking events or sailing schedules."
+      },
+      {
+        "provider": "msc-com",
+        "capability": "shipment-tracking/eu_first_port_arrivals",
+        "description": "EU customs pre-arrival work: which MSC vessel/voyage enters the EU where and when, and the customs office code."
+      },
+      {
+        "provider": "msc-com",
+        "capability": "shipment-tracking/track_shipment",
+        "description": "Any 'where is my container / B/L' question. A container lookup returns its bill of lading number; look that up to get every sibling container on the same B/L."
+      }
+    ]
+  },
+  "id": "01a1b400-df00-778e-8b3e-381bd0248b76",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://www.imsig.pl/numer/2019/71,Monitor_S%C4%85dowy_i_Gospodarczy_nr_71_2019_%285710%29_z_10_kwietnia_2019_r.\", #2 \"https://www.imsig.pl/numer/2023/156,Monitor_S%C4%85dowy_i_Gospodarczy_nr_156_2023_%286807%29_z_14_sierpnia_2023_r.\", #3 \"https://www.imsig.pl/numer/2025/101,Monitor_S%C4%85dowy_i_Gospodarczy_nr_101_2025_%287255%29_z_27_maja_2025_r.\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.journalssystem.com/ppmp/pdf-197259-117541?filename=Professor%20Tomasz.pdf",
+        "title": "[PDF] Professor Tomasz Chmielewski, Ph.D., D.Sc. (1950–2024)",
+        "description": "26. Lekki J., Chmielewski T., Mechanism of sorption of ethyl xanthate on ... (2001) 55-66. Page 6. 6. Physicochem. Probl. Miner. Process. 60(6), 2024 ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://pl.linkedin.com/in/tomasz-chmielewski1",
+        "title": "Tomasz Chmielewski – Equistamp - LinkedIn",
+        "description": "Tomasz Chmielewski. Equistamp Uniwersytet Wrocławski. Wrocław i okolice. 1 ... 1996 – 2001. Kursy. Academy of Leadership (EY Academy of Business). -. Change ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://www.researchgate.net/profile/Tomasz-Chmielewski-3",
+        "title": "Tomasz CHMIELEWSKI | Associate Professor - ResearchGate",
+        "description": "H 26 Development concepts for processing ... Jan 2001. Wieslaw Apostoluk · Zhu CHAOYIN · Tomasz Chmielewski.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://ideas.repec.org/a/fau/fauart/v70y2020i1p2-25.html",
+        "title": "Risk-Taking Channel and Its Non-Linearities: The Case of an",
+        "description": "Tomasz Chmielewski. (Narodowy Bank Polski, Warszawa, Poland). Tomasz Lyziak. (Narodowy Bank Polski, Warszawa, Poland). Ewa Stanislawska. (Narodowy Bank Polski ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://www.filmpolski.pl/fp/index.php/1183003",
+        "title": "Tomasz Chmielewski - FilmPolski.pl",
+        "description": "26. KLARNET. Marzec 2027. 5. BASIA. HUMOR W PASKI MAM (film animowany). 5 ... 2001 nr 128 poz. 1402). Kopiowanie treści zawartych w serwisie bez zgody ...",
+        "position": 5,
+        "source": "web"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S1452398123050642",
+        "title": "Potential-Controlled Electrolysis as an Effective Method of ...",
+        "description": "Tomasz Chmielewski 2 , Barbara Wozniak 2. Show more. Add to Mendeley ... 26. M. Schwartz. R.F. Bunshah (Ed.), Handbook of Deposition Technologies for ...",
+        "position": 6,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "fullenrich",
+        "capability": "people/lookup",
+        "description": "Resolve a person from a LinkedIn URL or ID, or a full name combined with a company domain, LinkedIn URL, or ID. Returns a profile, not verified email addresses or phone numbers."
+      },
+      {
+        "provider": "blitzapi",
+        "capability": "people/search",
+        "description": "Search people across companies by title, level, location, and company filters. 10 credits per returned person. An empty page costs nothing. max_results is capped at 10. Use people/employees to list one company, and people/enrich for a full career history."
+      },
+      {
+        "provider": "quickenrich",
+        "capability": "people/contact-finder",
+        "description": "Search contacts by title, company, location, industry, size, or service. The search is free and does not return email or phone values. has_email and has_phone say whether those exist. Use people/reveal, people/email-find, or people/phone-find with employee_linkedin to unlock a row. An empty page is also free."
+      },
+      {
+        "provider": "nfa-futures-org",
+        "capability": "regulatory-registry/search_individuals",
+        "description": "Find an associated person, principal or other registered individual and their NFA ID by name."
+      },
+      {
+        "provider": "fullenrich",
+        "capability": "people/search",
+        "description": "Find people by role, employer, location, skills, or work history. Combine filters and page through the results. Use people/lookup when you already know a person's identifiers; contact enrichment retrieves emails and phones separately."
+      }
+    ]
+  },
+  "id": "01a1b3fc-0926-74de-9f18-794789b3672b",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 6 web results are excerpts only (#1 \"https://www.journalssystem.com/ppmp/pdf-197259-117541?filename=Professor%20Tomasz.pdf\", #2 \"https://pl.linkedin.com/in/tomasz-chmielewski1\", #3 \"https://www.researchgate.net/profile/Tomasz-Chmielewski-3\" and 3 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

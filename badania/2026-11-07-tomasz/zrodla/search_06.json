@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2716528_code1209585.pdf?abstractid=2716528&mirid=1",
+        "title": "STUDIA I PRACE KOLEGIUM ZARZĄDZANIA I FINANSÓW",
+        "description": "dr Tomasz Chmielewski dr Monika Czerwonka dr hab. Marek Garbicz, prof ... od 1995 roku, choć widać pewien spadek dynamiki w latach 2000–2001. Z kolei.",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://www.dbc.wroc.pl/Content/10110/46_2011.pdf",
+        "title": "Physicochemical Problems of Mineral Processing",
+        "description": "Wroclaw, Poland, tomasz.chmielewski@pwr.wroc.pl. ** KGHM Polska Miedź ... 2001). The reaction product layer can dissolve chemically, which indicates ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://bip.uke.gov.pl/download/gfx/bip/pl/defaultstronaopisowa/35/5/68/rejestr_pt.csv",
+        "title": "https://bip.uke.gov.pl/download/gfx/bip/pl/default...",
+        "description": "... 2001 EDG 796/11807/2001;Rzeczpospolita Polska;opolskie;kędzierzyńsko ... Tomasz Chmielewski;osoba fizyczna, prowadząca działalność gospodarczą ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.pzh.gov.pl/zaklady/",
+        "title": "Zakłady – NIZP PZH - PIB",
+        "description": "... 2001. NAJWIĘKSZE OSIĄGNIĘCIA NAUKOWE I BADAWCZE, PUBLIKACJE. 1. Sytuacja ... Tomasz Chmielewski prof. NIZP PZH – PIB. Skład zespołu mgr Beata Fiecek dr n ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://gorzow.simp.pl/wp-content/uploads/2024/07/Wiadomosci-SIMP-4-6-2024-1.pdf",
+        "title": "Wiadomości SIMP Nr 4-6/2024",
+        "description": "o znacznej sile niszczenia, jak te z lat 2001 czy 2010. Przepływa ... Tomasz Chmielewski, prezes SIMP. Szerszą informację na temat ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": []
+  },
+  "id": "01a1b3ff-5415-713b-987f-d38d8bce8d28",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2716528_code1209585.pdf?abstractid=2716528&mirid=1\", #2 \"https://www.dbc.wroc.pl/Content/10110/46_2011.pdf\", #3 \"https://bip.uke.gov.pl/download/gfx/bip/pl/defaultstronaopisowa/35/5/68/rejestr_pt.csv\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

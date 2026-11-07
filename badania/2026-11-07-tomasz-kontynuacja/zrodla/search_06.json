@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://www.jadwizanki.pl/bp-waclaw-swierzawski/bibliografia/",
+        "title": "Bibliografia - Jadwiżanki Wawelskie -",
+        "description": "Słowo do kapłanów w ramach spotkania „formatio permanens”, Instytut Teologiczny w Sandomierzu 26 IV 2001, KDS 2001, nr 3-4, s. ... Marek Chmielewski), Biblioteka ...",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://pbl.ibl.poznan.pl/dostep/index.php?s=d_biezacy&f=zapisy&p_dzial=124",
+        "title": "dostęp on-line do pbl - Polska Bibliografia Literacka (PBL)",
+        "description": "wywiad: Chmielewski Jerzy: O pisaniu, Krynkach, Wielkim Księstwie, Rzeczypospolitej i Białorusi. ... o spotkaniu autorskim 26 IV 2001, w ramach \"Białorusich ...",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://wnus.usz.edu.pl/historiografia/file/issue/download/1312.pdf",
+        "title": "[PDF] Tadeusz Białecki STUDIA I mATerIAły z historii Pomorza ...",
+        "description": "... 26 IV 2001. Praca zb. pod red. K. Kozłowskiego, Szczecin. 2001, s. 21–33. 2003 ... Chmielewski, Procesy repolonizacji Pomorza Zachodniego w latach 1945 ...",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://kpbc.umk.pl/Content/233794/PDF/EOD_OPEN_004_02_1.pdf",
+        "title": "[PDF] RUCH FILOZOFICZNY - UMK",
+        "description": "26 IV 2001 - mgr Aleksandra Derra-Włochowicz (IF UMK), Późny Wittgen- stein ... Chmielewski. Wyd. 2 popr. i uzup. Wrocław: Wydaw. Uniw. Wroc., 2001 ...",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "http://www.tnp.org.pl/s.plockie.2.pdf",
+        "title": "[PDF] płockie i brzeskie sympozja i konferencje nt. zarządzania ...",
+        "description": "Chmielewski. Komitet Naukowy i Organizacyjny: - przewodniczący ... 26 IV 2001 r.),. Płock 2001. W. Serafimowicz, B. Trębala, Zarządzanie płockim ...",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "ebi-ac-uk",
+        "capability": "molecules/search_molecules",
+        "description": "Start here to turn a drug or compound name into a ChEMBL ID for get_molecule, drug_indications or list_activities. Salts are separate molecules (imatinib CHEMBL941, imatinib mesylate CHEMBL1642) sharing parent_chembl_id."
+      },
+      {
+        "provider": "rpvs-gov-sk",
+        "capability": "beneficial-owners/records_changes",
+        "description": "Owners whose validity started or ended since a date, or partners deregistered since a date. Rows edited in place without a date change are not detectable; diff records_list snapshots for those."
+      },
+      {
+        "provider": "data-gov-lv",
+        "capability": "company-registry/records_list",
+        "description": "Full snapshot of Latvian beneficial owners for the downstream diff; `records_get` for one company or owner."
+      }
+    ]
+  },
+  "id": "01a1b40d-f253-755d-85b8-4d7d5e4dba33",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://www.jadwizanki.pl/bp-waclaw-swierzawski/bibliografia/\", #2 \"https://pbl.ibl.poznan.pl/dostep/index.php?s=d_biezacy&f=zapisy&p_dzial=124\", #3 \"https://wnus.usz.edu.pl/historiografia/file/issue/download/1312.pdf\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

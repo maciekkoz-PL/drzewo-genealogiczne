@@ -1,0 +1,75 @@
+{
+  "success": true,
+  "data": {
+    "web": [
+      {
+        "url": "https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/sposob-prowadzenia-ewidencji-grobow-16908686",
+        "title": "Sposób prowadzenia ewidencji grobów. - Dz.U.2001.90.1013",
+        "description": "Księga, o której mowa w § 1 pkt 2, zawiera: 1). numer ewidencyjny,. 2) 16. nazwisko i imię (imiona) osoby lub osób pochowanych w grobie,. 3). datę pochowania,.",
+        "position": 1,
+        "source": "web"
+      },
+      {
+        "url": "https://ekspertcmentarny.pl/dokumentacja-cmentarna/",
+        "title": "Dokumentacja cmentarna. Księgi cmentarne - część 1.",
+        "description": "Spis zawiera dane osoby zmarłej: imiona, nazwisko, nazwisko rodowe, imiona i nazwiska rodziców, data i miejsce urodzenia oraz zgonu,",
+        "position": 2,
+        "source": "web"
+      },
+      {
+        "url": "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20150002257/O/D20152257.pdf",
+        "title": "[PDF] DZIENNIK USTAW - ISAP",
+        "description": "W rozporządzeniu Ministra Spraw Wewnętrznych i Administracji z dnia 1 sierpnia 2001 r. w sprawie sposobu prowadzenia ewidencji grobów (Dz.",
+        "position": 3,
+        "source": "web"
+      },
+      {
+        "url": "https://www.inforlex.pl/wersje-fragmentu/tresc,DZU.2001.090.0001013,-1,ROZPORZADZENIE-MINISTRA-SPRAW-WEWNETRZNYCH-I-ADMINISTRACJI-z-dnia-1-sierpnia-2001-r-w-sprawie-sposobu-prowadzenia-ewidencji-grobow.html?dok=4019078&rodzaj=18&nr=4",
+        "title": "Untitled",
+        "description": "Księga, o której mowa w § 1 pkt 2, zawiera: 1) numer ewidencyjny,. 2) [11] nazwisko i imię (imiona) osoby lub osób pochowanych w grobie,. 3) datę pochowania,.",
+        "position": 4,
+        "source": "web"
+      },
+      {
+        "url": "https://eli.gov.pl/api/acts/DU/2001/1013/text/O/D20011013.pdf",
+        "title": "[PDF] Na podstawie art. 20 ust. 2 ustawy z dnia 31 stycz- nia 1959 r. o ...",
+        "description": "1) numer ewidencyjny, 2)nazwisko i imi ́ osoby lub osób pochowanych w grobie, 3) dat ́ pochowania, 4) rodzaj grobu (ziemny lub murowany), 5) miejsce pochowania,",
+        "position": 5,
+        "source": "web"
+      }
+    ],
+    "tools": [
+      {
+        "provider": "data-gov-lv",
+        "capability": "company-registry/records_list",
+        "description": "Full snapshot of Latvian beneficial owners for the downstream diff; `records_get` for one company or owner."
+      },
+      {
+        "provider": "servicodados-ibge-gov-br",
+        "capability": "official-statistics/nomes_ranking",
+        "description": "Most common names in Brazil or a state, by decade or sex."
+      },
+      {
+        "provider": "servicodados-ibge-gov-br",
+        "capability": "official-statistics/nomes",
+        "description": "How common a Brazilian first name is, how its popularity changed by decade, or where in Brazil it concentrates."
+      },
+      {
+        "provider": "data-gov-ua",
+        "capability": "company-register-publications/schema",
+        "description": "To hand the downstream parser the current XSD of the legal-entity file (UO_schema.xsd: SUBJECT, RECORD, EDRPOU, NAME, FOUNDERS, BENEFICIARIES, ...) or to detect a schema change between weekly publications."
+      },
+      {
+        "provider": "data-cityofnewyork-us",
+        "capability": "property-records/dob_permits",
+        "description": "Construction, alteration, plumbing or demolition permit history for a building once you have its BIN (from `resolve_address`)."
+      }
+    ]
+  },
+  "id": "01a1b412-ef2e-719e-b411-e11c96de2f83",
+  "creditsUsed": 2,
+  "agent_hints": [
+    "All 5 web results are excerpts only (#1 \"https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/sposob-prowadzenia-ewidencji-grobow-16908686\", #2 \"https://ekspertcmentarny.pl/dokumentacja-cmentarna/\", #3 \"https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20150002257/O/D20152257.pdf\" and 2 more). If you need more than an excerpt, use firecrawl_scrape with {\"url\":\"<one of these URLs>\",\"formats\":[\"markdown\"]}. Retrieve only needed pages; do not re-scrape results that already contain the required content."
+  ],
+  "conversationId": "77df4b79-8661-8a69-afa3-6a0e0f0cacaa"
+}

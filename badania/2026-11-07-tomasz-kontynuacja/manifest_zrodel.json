@@ -1,0 +1,292 @@
+[
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/bg_browser.txt",
+    "bytes": 498,
+    "sha256": "291adf5bbc7a739398d8a9a4cced548e7230ae71d1814253ec26c623c49288b9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/bg_tomasz.txt",
+    "bytes": 1686,
+    "sha256": "19b7da6c32714cec20e4c1570017ab714214ed016230bcc22269d27c61babe6e"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/bg_tomasz_links.json",
+    "bytes": 7782,
+    "sha256": "cd13a90a35ea3b2cb6b770f760c97f0bb311295df1ff1c7f43e9836aaa79d1d1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/bg_tomasz_relaxed.txt",
+    "bytes": 3814,
+    "sha256": "e5dc40428ce16c51c65acf694fa9372840d5f141bc000d04b0c0a3e3c5e2a048"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/bg_tomasz_relaxed_links.json",
+    "bytes": 13549,
+    "sha256": "e46f51c72719d5578c33f2b4e57938668e26c5a61110a52271d1c2d7e4d457d9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/bg_tomasz_relaxed_url.txt",
+    "bytes": 383,
+    "sha256": "c4a12b57f04e26d5e49ba2d976f62c7553d6756a20752947942f53b556ce484e"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/bg_tomasz_url.txt",
+    "bytes": 382,
+    "sha256": "367f1a06297fefbf3013439605568487562b8d10b25b5f70fc9f79b546ca8a1e"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/imsig.html",
+    "bytes": 49306,
+    "sha256": "bed637c13ab42c1fb5a663bffb753547040b481ad125ba744ae5ac39797929c4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/imsig_redirect.json",
+    "bytes": 374,
+    "sha256": "d395f82bb080286deb19fd0b79fb781b17d7a8efc5970aa5eae620414ea541d4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_control_page_0.json",
+    "bytes": 582,
+    "sha256": "b9197c33849d6c9fcf74dd753edd1f1f078ce1c176d97969eda021d1ba91242e"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_control_page_1.json",
+    "bytes": 586,
+    "sha256": "96c9902ae49b8f2f5a2a15347c0185a2968ff3fb442d5df24464e32abd174be7"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_control_page_2.json",
+    "bytes": 664,
+    "sha256": "15224fe05006b724a697e7de340a71377a4f0caa0065d8438500a601d8ce1c90"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_counts_control.json",
+    "bytes": 1953,
+    "sha256": "0744da4f06f912d8e824b3cce9587a896e222de3b157407d28149bb27cf2bb89"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_detail_12435506.json",
+    "bytes": 931,
+    "sha256": "c77836e7a0b439d1e352ad084e6c3ff680b6c6eb602fb05b9f5433c74e7d7f63"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_detail_1490347.json",
+    "bytes": 984,
+    "sha256": "be65d8ed6ac102e57d3fc1d3dd1400d9858097aa78696db1b3ea58e560c23a3e"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_detail_3405607.json",
+    "bytes": 958,
+    "sha256": "5d82085d479bc0c930659dfa13c12553d3be451c2c612f29ad63765603a047e8"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_detail_8984889.json",
+    "bytes": 1088,
+    "sha256": "eb682d5bccb62fd359bab7b29e14065e67e645207f7ddfdfe6a1f3b02e9287e5"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_home.html",
+    "bytes": 981,
+    "sha256": "48d724b79e889533b740105f868ba89cd6ea79b61a5804fa45139cb99ca74d85"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_main.js",
+    "bytes": 231451,
+    "sha256": "87202c72554487fee12c1ea1ad1ab0d28387475a04881d3e0f7096390ce38e5b"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_query_0.json",
+    "bytes": 671,
+    "sha256": "116a594cc33883754bdbe386b8c19a21728724e2ec08be9a00f57b6257ae7399"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_query_1.json",
+    "bytes": 675,
+    "sha256": "fa4d904b1f2e95a89a15d02ed9f58ec95e704e316da4f8693f9c8eada3479224"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_query_unquoted_0.json",
+    "bytes": 1861,
+    "sha256": "aa83d6902332bb1327eea150c544962517cf50d98fcf0d05ab79232e970809a9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/msig_query_unquoted_1.json",
+    "bytes": 621,
+    "sha256": "6cb9ef0e52b72e13ff57f0797c57472ad9724ea4bd1ac5165f5dd3fe106962d9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/rozporzadzenie_2001_ewidencja_grobow.pdf",
+    "bytes": 27918,
+    "sha256": "de994a030790e399f7bdf650218628332ad74ab1eed40fe182a31c0531f01456"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_00.json",
+    "bytes": 23796,
+    "sha256": "63c8f6d83e957a36c743e25d36248c5aeae30d56a0770d6ebf4ee4ae620375af"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_01.json",
+    "bytes": 45462,
+    "sha256": "d7cf2a84a76a662f9b3fd3db6631f9b9523ce91b7b79847c0544f85744a826b4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_02.json",
+    "bytes": 62485,
+    "sha256": "868dea828e6a3a4e192052b6c5f2582d4aeb529948bc73f2227897217fbd6c25"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_03.json",
+    "bytes": 14413,
+    "sha256": "413b0abc250ba92ab9d7f61b4da3d2868f721aa162e8ba36f0b9aca01e1fe3e9"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_04.json",
+    "bytes": 183217,
+    "sha256": "f68a41372ff32b123f4665d72e1dac8aabe7cb99095996f4f2a26d48ace7d968"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_05.json",
+    "bytes": 28179,
+    "sha256": "09d4602e8660d71eb23bc694c39e5de9122fd284f55c2c4c7c0cf677a9e4e404"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_06.json",
+    "bytes": 20359,
+    "sha256": "4a9b57629dfacd55203c7055fa7e9dbf663424daffd78a503e08037fa65dd354"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_07.json",
+    "bytes": 41223,
+    "sha256": "719e0825e886e71ce8010a8b61741e6548207f497e24deb09011bdeb9f4e6677"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_08.json",
+    "bytes": 4754,
+    "sha256": "355f8d4d4408935b70c0264a78b6d4eacb76973e238db5e3f6fd3a094b685ba0"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_09.json",
+    "bytes": 9524,
+    "sha256": "b67cc1606d3e88a6ebbc96b081aafa3635e1658d25977752e241315a97860ad4"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_10.json",
+    "bytes": 2843,
+    "sha256": "e732e31b0d635d0a48becbbe7871ef546c7c1cb2f73df4792510120aa0d7ad7a"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_11.json",
+    "bytes": 3015,
+    "sha256": "3ca331a09b7d27cac1dfe204ba24f7ed82d0d94f8a19768fa1dabf21beee08f7"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_12.json",
+    "bytes": 11879,
+    "sha256": "bc8a699556f4e0584f508a073fa641f59a3954c33b3c40f785333086b1af27ed"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_13.json",
+    "bytes": 117745,
+    "sha256": "c66fbcd283fe474e5c008eef6dbd70640fe4cd31601b7016500902c0c326af77"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_14.json",
+    "bytes": 47298,
+    "sha256": "4ada1849e51ac4a0ad80fc1cf2ba4465eede5a0cc0f6bede66f179e37b249f3b"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_15.json",
+    "bytes": 12192,
+    "sha256": "5f0a0fec1653cc3ac1778e45e441403794c6464d893c980d4a7d61e7ad44913d"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_16.json",
+    "bytes": 8184,
+    "sha256": "1bf56686f0ca46fb78bacfe2b6b838b40e1b65e6c3d0a20020ee86aef8b8fcd6"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_17.json",
+    "bytes": 21001,
+    "sha256": "8f4ac031a94daedbc0f7bf72b762e2b32970a9ec567e1a6bceab9ea4456b9eb2"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_18.json",
+    "bytes": 17920,
+    "sha256": "944c257df581e0760bf39d38e73f77e02637e8e013fc8d15e9b75b04bbfb53a3"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_19.json",
+    "bytes": 21387,
+    "sha256": "778270755c37c8e1d25ec4650a374f00196f58bcab821714a3b60cc6327030b0"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/scrape_20.json",
+    "bytes": 11527,
+    "sha256": "b7bdb5bd4d7a554924f1794613d75be9ebbbdea0fd52c697a871cd24cf8661b6"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_00.json",
+    "bytes": 3291,
+    "sha256": "ce742239b056fa58dab600b90a59b766dae47eed2a8dd056e4fedb1443bb5d3d"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_01.json",
+    "bytes": 5555,
+    "sha256": "004797b0483e1e3404e01699fbb41dafc699f6c311626f770fac447fd7c82f9c"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_02.json",
+    "bytes": 4719,
+    "sha256": "ed201f121879d638ec42f46ebd3acc776fee6fd63d869fb6767de2c5c526ee48"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_03.json",
+    "bytes": 2722,
+    "sha256": "358b2f2f5b6bc399197981fb3ac275c7cf1f2012f2b81ccad51094af5f14e56d"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_04.json",
+    "bytes": 2798,
+    "sha256": "918eb42aafe3a617f86f5caff7a8ea80bb361cbd07669ac0d280848b472c4bc1"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_05.json",
+    "bytes": 3361,
+    "sha256": "2c8ca9b505f443728de24b1d3ad1ab77bfd928a180ae3c5818de5a49ddec6dfb"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_06.json",
+    "bytes": 3674,
+    "sha256": "0bd8b426eefced94ec90bc07fa43c6d1abb09b515f9dbf21a4d64dc9d3c4176f"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_07.json",
+    "bytes": 6234,
+    "sha256": "7271d903513135bb8a9a03eb897a4d4c064082656c74601be7a26eb53a13b8e2"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_08.json",
+    "bytes": 2886,
+    "sha256": "afef3ec2605a3b0dbdd289aac4d371f48d7e1cb4e8f97c2506e261dba2f487b2"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_09.json",
+    "bytes": 3226,
+    "sha256": "c864dace23afdb2da5138431e2aa5ec8fd33b2ec9795a2c7492c54b094544a88"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_10.json",
+    "bytes": 4226,
+    "sha256": "5cec1f15fd94d3a16ee632c27af72e42c1c1030d729f5bc47151a6329b2ce6c3"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/search_11.json",
+    "bytes": 3674,
+    "sha256": "a31c1093bd3052f5df435cbfd011b182a096bc5c3affcff566385aa5cdae3d39"
+  },
+  {
+    "path": "badania/2026-11-07-tomasz-kontynuacja/zrodla/zakres_rekordow.json",
+    "bytes": 3775,
+    "sha256": "b0593758886935e17aea25a71d29c3a301402a7e7ecbb03fbba53a40499a6b9c"
+  }
+]
