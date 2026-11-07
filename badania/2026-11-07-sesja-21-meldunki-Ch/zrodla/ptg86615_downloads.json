@@ -1,0 +1,1676 @@
+[
+  {
+    "image": 1,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=001.jpg",
+    "path": "86615_001.jpg",
+    "status": 200,
+    "bytes": 436052,
+    "sha256": "56b18663bb66605bc084b584bda8f473799475f332d6369f3692d6c3bf5f447f",
+    "at_utc": "2026-11-07T03:29:43.790356+00:00"
+  },
+  {
+    "image": 2,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=002.jpg",
+    "path": "86615_002.jpg",
+    "status": 200,
+    "bytes": 805356,
+    "sha256": "9d018207269a2fadf74defdb46db5af9cf0eb70494f10bc954c5ef10f1ffda7c",
+    "at_utc": "2026-11-07T03:29:43.837138+00:00"
+  },
+  {
+    "image": 3,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=003.jpg",
+    "path": "86615_003.jpg",
+    "status": 200,
+    "bytes": 775739,
+    "sha256": "36fd2b8e3eeb7a6d876820fdb4a0416cbca234a708f173aceb20577865fca6c3",
+    "at_utc": "2026-11-07T03:29:45.483292+00:00"
+  },
+  {
+    "image": 4,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=004.jpg",
+    "path": "86615_004.jpg",
+    "status": 200,
+    "bytes": 792298,
+    "sha256": "893ac2ac86d5dfbafcd40b27228ea097a4b3556e3d509acc91588b142356740f",
+    "at_utc": "2026-11-07T03:29:45.634586+00:00"
+  },
+  {
+    "image": 5,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=005.jpg",
+    "path": "86615_005.jpg",
+    "status": 200,
+    "bytes": 778255,
+    "sha256": "e4d22d0ac7ff99216b0524f8df20eac084a2a9bb93d2484f022a1894662389b2",
+    "at_utc": "2026-11-07T03:29:47.049646+00:00"
+  },
+  {
+    "image": 6,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=006.jpg",
+    "path": "86615_006.jpg",
+    "status": 200,
+    "bytes": 784573,
+    "sha256": "3d5e6d41bfc7d7ffff3dea8580dd6c330d1775562845476d8a6258ced50ffeb8",
+    "at_utc": "2026-11-07T03:29:47.193031+00:00"
+  },
+  {
+    "image": 7,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=007.jpg",
+    "path": "86615_007.jpg",
+    "status": 200,
+    "bytes": 784406,
+    "sha256": "e700964e13620dd6ea6d9f684ed553c9fe4cab0d32ce579af983c00861723d40",
+    "at_utc": "2026-11-07T03:29:48.227260+00:00"
+  },
+  {
+    "image": 8,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=008.jpg",
+    "path": "86615_008.jpg",
+    "status": 200,
+    "bytes": 787240,
+    "sha256": "ee3e721f846e484de3312c0c6fb34595b0a560bcd84e68aa17dc016bec317391",
+    "at_utc": "2026-11-07T03:29:48.383385+00:00"
+  },
+  {
+    "image": 9,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=009.jpg",
+    "path": "86615_009.jpg",
+    "status": 200,
+    "bytes": 790040,
+    "sha256": "e0ed8da6f01b35ff6f7e2c1fb882962da27ed9bd73cfc451555b71a8a4b831e1",
+    "at_utc": "2026-11-07T03:29:50.061736+00:00"
+  },
+  {
+    "image": 10,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=010.jpg",
+    "path": "86615_010.jpg",
+    "status": 200,
+    "bytes": 801806,
+    "sha256": "5cb88bd71ca6bc16add9cc3ee7c809e185f16f43a64a7b169e5616d4a2371298",
+    "at_utc": "2026-11-07T03:29:49.914893+00:00"
+  },
+  {
+    "image": 11,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=011.jpg",
+    "path": "86615_011.jpg",
+    "status": 200,
+    "bytes": 807570,
+    "sha256": "382d94baac5cf261eb6713589929454fc3e8b66be4a95864cb66a112fea72f69",
+    "at_utc": "2026-11-07T03:29:51.637746+00:00"
+  },
+  {
+    "image": 12,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=012.jpg",
+    "path": "86615_012.jpg",
+    "status": 200,
+    "bytes": 803522,
+    "sha256": "7153a4672f79d7efed773e777ce3baafab92c4d52976cd1efb04e0294351294e",
+    "at_utc": "2026-11-07T03:29:51.642373+00:00"
+  },
+  {
+    "image": 13,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=013.jpg",
+    "path": "86615_013.jpg",
+    "status": 200,
+    "bytes": 803726,
+    "sha256": "d5b0ba1a44f6f2bd0161556a7100899a049f0f4e3b58639f055018f7be285c5e",
+    "at_utc": "2026-11-07T03:29:53.237066+00:00"
+  },
+  {
+    "image": 14,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=014.jpg",
+    "path": "86615_014.jpg",
+    "status": 200,
+    "bytes": 812634,
+    "sha256": "53e4ff3610197cbdef0c51352b6bb298bd87cf59a76be7bba9fba1565c67eda8",
+    "at_utc": "2026-11-07T03:29:53.089074+00:00"
+  },
+  {
+    "image": 15,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=015.jpg",
+    "path": "86615_015.jpg",
+    "status": 200,
+    "bytes": 817907,
+    "sha256": "8eacb679d206fa693a1f0cc993f18247a164c713d0741fa29e0daf33cb9244d7",
+    "at_utc": "2026-11-07T03:29:54.274058+00:00"
+  },
+  {
+    "image": 16,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=016.jpg",
+    "path": "86615_016.jpg",
+    "status": 200,
+    "bytes": 829121,
+    "sha256": "5482698394d133386a0e80c3d224ad0c5e2ee29b36ee0bbb133db5a24a8d28cb",
+    "at_utc": "2026-11-07T03:29:54.422553+00:00"
+  },
+  {
+    "image": 17,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=017.jpg",
+    "path": "86615_017.jpg",
+    "status": 200,
+    "bytes": 814211,
+    "sha256": "32c12e451a3726e39b871f47f1d434c0fee0ed6d7c6d6d73ac7b261eb19c0acb",
+    "at_utc": "2026-11-07T03:29:55.212611+00:00"
+  },
+  {
+    "image": 18,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=018.jpg",
+    "path": "86615_018.jpg",
+    "status": 200,
+    "bytes": 843501,
+    "sha256": "4a6a7718867674e032e2befbfb7260f6a6809cce1988bf06cf37b8caeb899dab",
+    "at_utc": "2026-11-07T03:29:55.228092+00:00"
+  },
+  {
+    "image": 19,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=019.jpg",
+    "path": "86615_019.jpg",
+    "status": 200,
+    "bytes": 821664,
+    "sha256": "4dc8db818eb5663d4cde5951a084c463051b268c93627fd8afe4f0eae83ade31",
+    "at_utc": "2026-11-07T03:29:56.019183+00:00"
+  },
+  {
+    "image": 20,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=020.jpg",
+    "path": "86615_020.jpg",
+    "status": 200,
+    "bytes": 848083,
+    "sha256": "46137b9241a6492bfb7fdcfd55aa46f7f59c52a10ad593a7d0b53f03ad7a8afa",
+    "at_utc": "2026-11-07T03:29:56.056391+00:00"
+  },
+  {
+    "image": 21,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=021.jpg",
+    "path": "86615_021.jpg",
+    "status": "local_previous_download",
+    "bytes": 859671,
+    "sha256": "c3e5afef34b8d53d3d29cc5fe4cc8f8c9ef28947c622a0f39a11086d681bd171",
+    "at_utc": "2026-11-07T03:29:56.021899+00:00"
+  },
+  {
+    "image": 22,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=022.jpg",
+    "path": "86615_022.jpg",
+    "status": 200,
+    "bytes": 819992,
+    "sha256": "450cf838e12ec296e5abfd3c11354c16c9309cbbe509696b14ce897c7e983466",
+    "at_utc": "2026-11-07T03:29:56.841250+00:00"
+  },
+  {
+    "image": 23,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=023.jpg",
+    "path": "86615_023.jpg",
+    "status": 200,
+    "bytes": 813753,
+    "sha256": "d3bada67d352554f753d4d59b9919cab89ece3d4bf7e86488b0ba7dd1990c1ef",
+    "at_utc": "2026-11-07T03:29:56.866050+00:00"
+  },
+  {
+    "image": 24,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=024.jpg",
+    "path": "86615_024.jpg",
+    "status": 200,
+    "bytes": 843993,
+    "sha256": "ebff5dd475b6b2704cfa0b2cf3ecf2359f17d93aa60308994fac7745e8d9d74e",
+    "at_utc": "2026-11-07T03:29:57.657052+00:00"
+  },
+  {
+    "image": 25,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=025.jpg",
+    "path": "86615_025.jpg",
+    "status": 200,
+    "bytes": 800633,
+    "sha256": "612cbf36cf8d5441723d1547d0b4ea422911ee817a0c7d884a4f7576052c48c0",
+    "at_utc": "2026-11-07T03:29:57.671205+00:00"
+  },
+  {
+    "image": 26,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=026.jpg",
+    "path": "86615_026.jpg",
+    "status": 200,
+    "bytes": 845991,
+    "sha256": "5910c911ba4785c21e3d132a2b99799677abd449f910a50726223ae5545e5d50",
+    "at_utc": "2026-11-07T03:29:58.481691+00:00"
+  },
+  {
+    "image": 27,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=027.jpg",
+    "path": "86615_027.jpg",
+    "status": 200,
+    "bytes": 790185,
+    "sha256": "9962597993b9a856b1ed26a32fa44d1fec48d3ff1efd41e68016ab771bfb09d1",
+    "at_utc": "2026-11-07T03:29:58.493733+00:00"
+  },
+  {
+    "image": 28,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=028.jpg",
+    "path": "86615_028.jpg",
+    "status": 200,
+    "bytes": 808352,
+    "sha256": "da05f48e5438d9e878ed9d80f23934189436184721818a143a721699476dd29e",
+    "at_utc": "2026-11-07T03:29:59.287773+00:00"
+  },
+  {
+    "image": 29,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=029.jpg",
+    "path": "86615_029.jpg",
+    "status": 200,
+    "bytes": 804345,
+    "sha256": "2399e3d64661ee2d448a2b44b753804fe9e9e3466ff0a04fc4313ccaa4c9efe2",
+    "at_utc": "2026-11-07T03:29:59.315785+00:00"
+  },
+  {
+    "image": 30,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=030.jpg",
+    "path": "86615_030.jpg",
+    "status": 200,
+    "bytes": 838912,
+    "sha256": "6cbfe933eb93811a66e6355d623ffbef01d6a1bf0af156827a1039c3b2f740f3",
+    "at_utc": "2026-11-07T03:30:00.084029+00:00"
+  },
+  {
+    "image": 31,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=031.jpg",
+    "path": "86615_031.jpg",
+    "status": 200,
+    "bytes": 826455,
+    "sha256": "76cbe8e246406aa559bae0fb1226a7b2cd8ee9e493109b2e2679d54e13bad705",
+    "at_utc": "2026-11-07T03:30:00.372282+00:00"
+  },
+  {
+    "image": 32,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=032.jpg",
+    "path": "86615_032.jpg",
+    "status": 200,
+    "bytes": 815711,
+    "sha256": "583c451f7a79af71dcc2ac5ce1e8080f72ef09eaff188aea8e4ffd1f81e5f670",
+    "at_utc": "2026-11-07T03:30:00.917201+00:00"
+  },
+  {
+    "image": 33,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=033.jpg",
+    "path": "86615_033.jpg",
+    "status": 200,
+    "bytes": 835382,
+    "sha256": "a670cbf3e103ac0a5dd12ffb11c376033f1d9956b90a1fb4553dbd7b68a9167d",
+    "at_utc": "2026-11-07T03:30:01.393961+00:00"
+  },
+  {
+    "image": 34,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=034.jpg",
+    "path": "86615_034.jpg",
+    "status": 200,
+    "bytes": 853901,
+    "sha256": "568f16f31b35d467aab2e29022bca158239e4289eb4fb745e1dc6dc8452fb878",
+    "at_utc": "2026-11-07T03:30:01.738207+00:00"
+  },
+  {
+    "image": 35,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=035.jpg",
+    "path": "86615_035.jpg",
+    "status": 200,
+    "bytes": 849769,
+    "sha256": "9245ea223c967e9e4d9fdfe6561b23cf1e1c43c6c679be5dec8b9ae9d08d50e0",
+    "at_utc": "2026-11-07T03:30:02.298457+00:00"
+  },
+  {
+    "image": 36,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=036.jpg",
+    "path": "86615_036.jpg",
+    "status": 200,
+    "bytes": 849822,
+    "sha256": "14999c62c33965804ddf894d3e30b73f3b1c6d0a7a6dd63924a6f4339121fd6f",
+    "at_utc": "2026-11-07T03:30:02.444408+00:00"
+  },
+  {
+    "image": 37,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=037.jpg",
+    "path": "86615_037.jpg",
+    "status": 200,
+    "bytes": 842781,
+    "sha256": "c371dd0ee523eb7047ec056d84abddc38b4ae6709cd11eab8aec0bc21cb30e2a",
+    "at_utc": "2026-11-07T03:30:03.562807+00:00"
+  },
+  {
+    "image": 38,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=038.jpg",
+    "path": "86615_038.jpg",
+    "status": 200,
+    "bytes": 832520,
+    "sha256": "b5b3919bb1a0a5e1cb90585974ec88930a06cad89c1eb4c174eff252492334a7",
+    "at_utc": "2026-11-07T03:30:03.705506+00:00"
+  },
+  {
+    "image": 39,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=039.jpg",
+    "path": "86615_039.jpg",
+    "status": 200,
+    "bytes": 865072,
+    "sha256": "8952a6ab7fe35b36d5a5e77cc7afdb9950c7f705666468697e42b83977187743",
+    "at_utc": "2026-11-07T03:30:04.378602+00:00"
+  },
+  {
+    "image": 40,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=040.jpg",
+    "path": "86615_040.jpg",
+    "status": 200,
+    "bytes": 870833,
+    "sha256": "9b8287734890fd463d2f6f1591ad58ed57c0ddf94ad09d9e6b2846612420b3eb",
+    "at_utc": "2026-11-07T03:30:04.528592+00:00"
+  },
+  {
+    "image": 41,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=041.jpg",
+    "path": "86615_041.jpg",
+    "status": 200,
+    "bytes": 867403,
+    "sha256": "109ede8558167e99bca545aa77701c331b66980e8d756e4d091a80eddc4bc23f",
+    "at_utc": "2026-11-07T03:30:05.130107+00:00"
+  },
+  {
+    "image": 42,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=042.jpg",
+    "path": "86615_042.jpg",
+    "status": 200,
+    "bytes": 867936,
+    "sha256": "50c67cf4852e480a2deea0a4bd9ef1d191b0aeca71615ed5260d539ebc2516c7",
+    "at_utc": "2026-11-07T03:30:05.272370+00:00"
+  },
+  {
+    "image": 43,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=043.jpg",
+    "path": "86615_043.jpg",
+    "status": 200,
+    "bytes": 881512,
+    "sha256": "4dda4e4028042e8bfb809f2aafe1acc1b43400271a2d57d715c0b3b240e0afbd",
+    "at_utc": "2026-11-07T03:30:05.819212+00:00"
+  },
+  {
+    "image": 44,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=044.jpg",
+    "path": "86615_044.jpg",
+    "status": 200,
+    "bytes": 859068,
+    "sha256": "10eb67e4e7cbcfff6449cb53dedacdf1ca29716c653ae386a37056d2bb92f9b0",
+    "at_utc": "2026-11-07T03:30:05.965803+00:00"
+  },
+  {
+    "image": 45,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=045.jpg",
+    "path": "86615_045.jpg",
+    "status": 200,
+    "bytes": 879061,
+    "sha256": "704a4b2b824df151686f7fe24fd6eb0ad9e326164c6db05fae22a463013b1230",
+    "at_utc": "2026-11-07T03:30:06.756610+00:00"
+  },
+  {
+    "image": 46,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=046.jpg",
+    "path": "86615_046.jpg",
+    "status": 200,
+    "bytes": 880079,
+    "sha256": "92a33967324720dae978e11bd2576428f9f462fe554f6cdde2ea699e3d9fa948",
+    "at_utc": "2026-11-07T03:30:06.989019+00:00"
+  },
+  {
+    "image": 47,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=047.jpg",
+    "path": "86615_047.jpg",
+    "status": 200,
+    "bytes": 880704,
+    "sha256": "45a0de3ec54d543d1ba0da01838b1c2964496d7ebe266728c0e27b65f195c38b",
+    "at_utc": "2026-11-07T03:30:07.305377+00:00"
+  },
+  {
+    "image": 48,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=048.jpg",
+    "path": "86615_048.jpg",
+    "status": 200,
+    "bytes": 870882,
+    "sha256": "e5237da2cfe78cf50915c3b912e4d29a5a1022e5b116c8a759cb23c722cdc18c",
+    "at_utc": "2026-11-07T03:30:07.858184+00:00"
+  },
+  {
+    "image": 49,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=049.jpg",
+    "path": "86615_049.jpg",
+    "status": 200,
+    "bytes": 863627,
+    "sha256": "465958033679cdeb5742430360cb1e8c0daee5a140a18f6f4cd8acf7ee08f2e4",
+    "at_utc": "2026-11-07T03:30:07.999151+00:00"
+  },
+  {
+    "image": 50,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=050.jpg",
+    "path": "86615_050.jpg",
+    "status": 200,
+    "bytes": 816937,
+    "sha256": "5f1c7068a1c8477b241493b18cb73e5d387608c1f812c25d5d4b164c81a88929",
+    "at_utc": "2026-11-07T03:30:08.582402+00:00"
+  },
+  {
+    "image": 51,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=051.jpg",
+    "path": "86615_051.jpg",
+    "status": 200,
+    "bytes": 878077,
+    "sha256": "618a286376c8960c593aac2630d68a604edb650267e3d7b98bd5c8bf6f350546",
+    "at_utc": "2026-11-07T03:30:08.725386+00:00"
+  },
+  {
+    "image": 52,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=052.jpg",
+    "path": "86615_052.jpg",
+    "status": 200,
+    "bytes": 896909,
+    "sha256": "5eeea59a7b96a44f7801ef25fd9dce073ad40ef52767fa65910c5b28c177587c",
+    "at_utc": "2026-11-07T03:30:09.258737+00:00"
+  },
+  {
+    "image": 53,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=053.jpg",
+    "path": "86615_053.jpg",
+    "status": 200,
+    "bytes": 943606,
+    "sha256": "c6cd0ad9865692c5f0768facee26d3bcaa6fe472d8f030a9350957ba992bc6ee",
+    "at_utc": "2026-11-07T03:30:09.405210+00:00"
+  },
+  {
+    "image": 54,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=054.jpg",
+    "path": "86615_054.jpg",
+    "status": 200,
+    "bytes": 909727,
+    "sha256": "afbcf748c1eeffa52fa117afc3ed930e0b17b41685f92569764e22c5cd123372",
+    "at_utc": "2026-11-07T03:30:09.987049+00:00"
+  },
+  {
+    "image": 55,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=055.jpg",
+    "path": "86615_055.jpg",
+    "status": 200,
+    "bytes": 869734,
+    "sha256": "b61fc9e6c24680a72109067598dc3ca3b1d5ccd520b07e6773e594936c3ceda5",
+    "at_utc": "2026-11-07T03:30:10.130302+00:00"
+  },
+  {
+    "image": 56,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=056.jpg",
+    "path": "86615_056.jpg",
+    "status": 200,
+    "bytes": 907520,
+    "sha256": "5437310a5125e5224d2bd02c3bbe0e5f84c105f8717ae19f7c7756c38dbc3893",
+    "at_utc": "2026-11-07T03:30:10.704155+00:00"
+  },
+  {
+    "image": 57,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=057.jpg",
+    "path": "86615_057.jpg",
+    "status": 200,
+    "bytes": 835454,
+    "sha256": "c841ae274f7ce881fde87d7d68a4ac232a3c8e2c7f6c462f8dc1d6eb00cbad4f",
+    "at_utc": "2026-11-07T03:30:10.849045+00:00"
+  },
+  {
+    "image": 58,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=058.jpg",
+    "path": "86615_058.jpg",
+    "status": 200,
+    "bytes": 880477,
+    "sha256": "42e7a6dc9ffdbbaa995d3ecb07cd8b1be9d6aa4c9d15969851334570f028234a",
+    "at_utc": "2026-11-07T03:30:11.395913+00:00"
+  },
+  {
+    "image": 59,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=059.jpg",
+    "path": "86615_059.jpg",
+    "status": 200,
+    "bytes": 877228,
+    "sha256": "657a1be9b2d30cf894b07e774ca332a7e3bdf0ba38b757d2f0c68de7d2ff80f6",
+    "at_utc": "2026-11-07T03:30:11.538837+00:00"
+  },
+  {
+    "image": 60,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=060.jpg",
+    "path": "86615_060.jpg",
+    "status": 200,
+    "bytes": 891716,
+    "sha256": "10c2c5364c9343a50398368f67cdf1f4015544a2253d04d1e663163fa6c6b5aa",
+    "at_utc": "2026-11-07T03:30:12.101777+00:00"
+  },
+  {
+    "image": 61,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=061.jpg",
+    "path": "86615_061.jpg",
+    "status": 200,
+    "bytes": 849366,
+    "sha256": "bccd67ececbbb3071ad0b09be6e1daad560a7926d7dfae6127efe71ecca7dcef",
+    "at_utc": "2026-11-07T03:30:12.242758+00:00"
+  },
+  {
+    "image": 62,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=062.jpg",
+    "path": "86615_062.jpg",
+    "status": 200,
+    "bytes": 893106,
+    "sha256": "1fbf95a45bf785635aa2271af1d7df1774f2bf4bbec27508924f0ee42a2ebb26",
+    "at_utc": "2026-11-07T03:30:12.807443+00:00"
+  },
+  {
+    "image": 63,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=063.jpg",
+    "path": "86615_063.jpg",
+    "status": 200,
+    "bytes": 837143,
+    "sha256": "af6fc3f10ced9e435f74359043aa0222f5b9c2a7ef37edaf9ca74887fef62e37",
+    "at_utc": "2026-11-07T03:30:12.949054+00:00"
+  },
+  {
+    "image": 64,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=064.jpg",
+    "path": "86615_064.jpg",
+    "status": 200,
+    "bytes": 898628,
+    "sha256": "6b498db1e109a6c0569359578c99bad3e8737511faaae66349ccd88224922f7d",
+    "at_utc": "2026-11-07T03:30:13.529160+00:00"
+  },
+  {
+    "image": 65,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=065.jpg",
+    "path": "86615_065.jpg",
+    "status": 200,
+    "bytes": 827602,
+    "sha256": "1a8e1bc38c71d31eb7a43569d7d47dac087b9c2a0db07160d05dcd729a64fcc9",
+    "at_utc": "2026-11-07T03:30:13.678856+00:00"
+  },
+  {
+    "image": 66,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=066.jpg",
+    "path": "86615_066.jpg",
+    "status": 200,
+    "bytes": 891744,
+    "sha256": "1b2ccfd1dbe840dc91b14b8b4eff04353307f4659d59a9531291863fe6220c9e",
+    "at_utc": "2026-11-07T03:30:14.209026+00:00"
+  },
+  {
+    "image": 67,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=067.jpg",
+    "path": "86615_067.jpg",
+    "status": 200,
+    "bytes": 824285,
+    "sha256": "78e0b4911854bfaab9f89de255ed560eadc07b9dd0a6ff1534ac355497202497",
+    "at_utc": "2026-11-07T03:30:14.363496+00:00"
+  },
+  {
+    "image": 68,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=068.jpg",
+    "path": "86615_068.jpg",
+    "status": 200,
+    "bytes": 849266,
+    "sha256": "f9e994233c086e943b1c0895acc9503c1657bd1f66496a8837b73e2788b68506",
+    "at_utc": "2026-11-07T03:30:14.910886+00:00"
+  },
+  {
+    "image": 69,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=069.jpg",
+    "path": "86615_069.jpg",
+    "status": 200,
+    "bytes": 786603,
+    "sha256": "b049e82a1a60f17fded5379b1f63174afc1c5503218256e0d8e7e6901725bc63",
+    "at_utc": "2026-11-07T03:30:15.059060+00:00"
+  },
+  {
+    "image": 70,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=070.jpg",
+    "path": "86615_070.jpg",
+    "status": 200,
+    "bytes": 861652,
+    "sha256": "1fac2e99aaf9a02bd46a9ad1bddfbd7f65c795b05b84de7bf35d3e7473ee0159",
+    "at_utc": "2026-11-07T03:30:15.738722+00:00"
+  },
+  {
+    "image": 71,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=071.jpg",
+    "path": "86615_071.jpg",
+    "status": 200,
+    "bytes": 814066,
+    "sha256": "96946742cd77c3720bd85d3bde1b71ae72c02c0ca65a3c0554816f5f51187dc4",
+    "at_utc": "2026-11-07T03:30:15.887778+00:00"
+  },
+  {
+    "image": 72,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=072.jpg",
+    "path": "86615_072.jpg",
+    "status": 200,
+    "bytes": 888379,
+    "sha256": "dc0224c2050305c702e87e91d2541e713afb5b7d13aa85dab1dd900bd29ef196",
+    "at_utc": "2026-11-07T03:30:16.594988+00:00"
+  },
+  {
+    "image": 73,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=073.jpg",
+    "path": "86615_073.jpg",
+    "status": 200,
+    "bytes": 803506,
+    "sha256": "cb43b3d6168cbb68bed5eec4e95bf744c58b431f05e37e522eb81dd77dc5e92f",
+    "at_utc": "2026-11-07T03:30:16.739541+00:00"
+  },
+  {
+    "image": 74,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=074.jpg",
+    "path": "86615_074.jpg",
+    "status": 200,
+    "bytes": 871818,
+    "sha256": "6c17a8042fad1a30de0b821bc175cd9aec8c0ef166f3de13274e97da7b195f51",
+    "at_utc": "2026-11-07T03:30:17.343619+00:00"
+  },
+  {
+    "image": 75,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=075.jpg",
+    "path": "86615_075.jpg",
+    "status": 200,
+    "bytes": 790394,
+    "sha256": "dbac52257796c0d4b35c5d64408c71a2b628a0e1b1c13ef13c9aa08cb618853d",
+    "at_utc": "2026-11-07T03:30:17.503677+00:00"
+  },
+  {
+    "image": 76,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=076.jpg",
+    "path": "86615_076.jpg",
+    "status": 200,
+    "bytes": 858093,
+    "sha256": "e26ca9d00e06c8dd87226d107cc02b5227b7db0c983c43c1cab857299dc84961",
+    "at_utc": "2026-11-07T03:30:18.273561+00:00"
+  },
+  {
+    "image": 77,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=077.jpg",
+    "path": "86615_077.jpg",
+    "status": 200,
+    "bytes": 805543,
+    "sha256": "4902117c0e683798316b183a62bfe30ef94fbfb2da85dd1deee627fb351b1582",
+    "at_utc": "2026-11-07T03:30:18.426480+00:00"
+  },
+  {
+    "image": 78,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=078.jpg",
+    "path": "86615_078.jpg",
+    "status": 200,
+    "bytes": 881290,
+    "sha256": "870c2a86870e86cba34b471cea4d3de227fa3fb99616fa9a01ee14df29d385ca",
+    "at_utc": "2026-11-07T03:30:18.968661+00:00"
+  },
+  {
+    "image": 79,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=079.jpg",
+    "path": "86615_079.jpg",
+    "status": 200,
+    "bytes": 821866,
+    "sha256": "555cd879f4827b5a50f03302d39a98160632691022e9da6970f8af31dbaa52e3",
+    "at_utc": "2026-11-07T03:30:19.141742+00:00"
+  },
+  {
+    "image": 80,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=080.jpg",
+    "path": "86615_080.jpg",
+    "status": 200,
+    "bytes": 860462,
+    "sha256": "7a52dde086cafbe6055f3aaa0b8ea1e314c5d9cfe9bd8b5820ebdb5c9bc0c99a",
+    "at_utc": "2026-11-07T03:30:19.674477+00:00"
+  },
+  {
+    "image": 81,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=081.jpg",
+    "path": "86615_081.jpg",
+    "status": 200,
+    "bytes": 809844,
+    "sha256": "cbdbe5c8a9fc5ac11bc8ae66ba9f7c7959cd7f991b4dc48354bf468a505e4b67",
+    "at_utc": "2026-11-07T03:30:19.825611+00:00"
+  },
+  {
+    "image": 82,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=082.jpg",
+    "path": "86615_082.jpg",
+    "status": 200,
+    "bytes": 868670,
+    "sha256": "d062406b00cabda5673b582405843985c2da062bc6d34b21106afda5839963a5",
+    "at_utc": "2026-11-07T03:30:20.503891+00:00"
+  },
+  {
+    "image": 83,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=083.jpg",
+    "path": "86615_083.jpg",
+    "status": 200,
+    "bytes": 820239,
+    "sha256": "5592c48d77bfc6535bb1da1bfc1d02ac4d5dee742978a66438ce934f4caf8174",
+    "at_utc": "2026-11-07T03:30:20.651444+00:00"
+  },
+  {
+    "image": 84,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=084.jpg",
+    "path": "86615_084.jpg",
+    "status": 200,
+    "bytes": 851982,
+    "sha256": "0b8a4c6e5ab1aa0bbffe7f2f80d1f28af3f022f5a7c1b47aa02d24e978bff335",
+    "at_utc": "2026-11-07T03:30:21.297842+00:00"
+  },
+  {
+    "image": 85,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=085.jpg",
+    "path": "86615_085.jpg",
+    "status": 200,
+    "bytes": 813101,
+    "sha256": "788d2776c8cacf27a7f57787d2b6c8df1ee6d4b1de911599617deb78950cb48f",
+    "at_utc": "2026-11-07T03:30:21.453987+00:00"
+  },
+  {
+    "image": 86,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=086.jpg",
+    "path": "86615_086.jpg",
+    "status": 200,
+    "bytes": 854505,
+    "sha256": "afbf13f049f4bcba484a08fdbc3103c921a8c83c1b602dc82b4f566b68ad3e3c",
+    "at_utc": "2026-11-07T03:30:22.026003+00:00"
+  },
+  {
+    "image": 87,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=087.jpg",
+    "path": "86615_087.jpg",
+    "status": 200,
+    "bytes": 810999,
+    "sha256": "88c1796589def5ec317f0781ffed874cc614b58f9213524da5b92d30e824b1df",
+    "at_utc": "2026-11-07T03:30:22.169351+00:00"
+  },
+  {
+    "image": 88,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=088.jpg",
+    "path": "86615_088.jpg",
+    "status": 200,
+    "bytes": 852868,
+    "sha256": "32c5c3fe26edf6eda1d896785a4252709347c7976259a5ad1180d61ec31eee21",
+    "at_utc": "2026-11-07T03:30:22.898427+00:00"
+  },
+  {
+    "image": 89,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=089.jpg",
+    "path": "86615_089.jpg",
+    "status": 200,
+    "bytes": 783981,
+    "sha256": "eb226459e9bea845c427bd35e88942e15f559eef8183dd3d2ef45df7b8ae4e11",
+    "at_utc": "2026-11-07T03:30:22.915191+00:00"
+  },
+  {
+    "image": 90,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=090.jpg",
+    "path": "86615_090.jpg",
+    "status": 200,
+    "bytes": 850215,
+    "sha256": "36b1fe62fe76c20c019b9844cc129fc049c081a31357267c65460f517a5f5901",
+    "at_utc": "2026-11-07T03:30:23.721386+00:00"
+  },
+  {
+    "image": 91,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=091.jpg",
+    "path": "86615_091.jpg",
+    "status": 200,
+    "bytes": 738656,
+    "sha256": "d5a2255eca3d236e040d3f8a88149bd9ba188995439b3dfeb7c759161a745119",
+    "at_utc": "2026-11-07T03:30:24.010655+00:00"
+  },
+  {
+    "image": 92,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=092.jpg",
+    "path": "86615_092.jpg",
+    "status": 200,
+    "bytes": 840406,
+    "sha256": "5535d81dd8333e5919262725dc17979ec46fb758d17bda53559cbe8367f47f12",
+    "at_utc": "2026-11-07T03:30:24.410013+00:00"
+  },
+  {
+    "image": 93,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=093.jpg",
+    "path": "86615_093.jpg",
+    "status": 200,
+    "bytes": 773609,
+    "sha256": "683a68aa9a23155985b34a19c0c4459bc354bbd9eb2d4c5232230c9579a89eb9",
+    "at_utc": "2026-11-07T03:30:24.817823+00:00"
+  },
+  {
+    "image": 94,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=094.jpg",
+    "path": "86615_094.jpg",
+    "status": 200,
+    "bytes": 766385,
+    "sha256": "7f5d79a8726800a2f291215c9c375a79d71eb90cde7fc643adae7d1abcc735d7",
+    "at_utc": "2026-11-07T03:30:25.243160+00:00"
+  },
+  {
+    "image": 95,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=095.jpg",
+    "path": "86615_095.jpg",
+    "status": 200,
+    "bytes": 792400,
+    "sha256": "02ca95011fb33d00dcf733b3fab0ca2582b26807dded0093f8775ea19c46aefa",
+    "at_utc": "2026-11-07T03:30:25.641177+00:00"
+  },
+  {
+    "image": 96,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=096.jpg",
+    "path": "86615_096.jpg",
+    "status": 200,
+    "bytes": 779071,
+    "sha256": "cdb89bd534fed841ad361cd3e6a2f6a392357310f9e9125af7f6b0ffb1acde29",
+    "at_utc": "2026-11-07T03:30:26.073020+00:00"
+  },
+  {
+    "image": 97,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=097.jpg",
+    "path": "86615_097.jpg",
+    "status": 200,
+    "bytes": 807404,
+    "sha256": "6665cf2fa6add252f171f5d25be48ea7e12362bc3dafde1ddfb1f4469138bf5a",
+    "at_utc": "2026-11-07T03:30:26.449802+00:00"
+  },
+  {
+    "image": 98,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=098.jpg",
+    "path": "86615_098.jpg",
+    "status": 200,
+    "bytes": 786933,
+    "sha256": "15d7c03f2b6903f33f98bb01c57bba9d0e0aa225e0833288a5d1c1d7317ca901",
+    "at_utc": "2026-11-07T03:30:26.903992+00:00"
+  },
+  {
+    "image": 99,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=099.jpg",
+    "path": "86615_099.jpg",
+    "status": 200,
+    "bytes": 811137,
+    "sha256": "d680f7af6efdd511f0c1e4f5749ebea4d5942fdd304a00fe6623e937767108f8",
+    "at_utc": "2026-11-07T03:30:27.272853+00:00"
+  },
+  {
+    "image": 100,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=100.jpg",
+    "path": "86615_100.jpg",
+    "status": 200,
+    "bytes": 787792,
+    "sha256": "2b4a91ef64db49d91e52f4a41848bbf70c23f6b09bbd55de9ce4db274469d54e",
+    "at_utc": "2026-11-07T03:30:27.697457+00:00"
+  },
+  {
+    "image": 101,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=101.jpg",
+    "path": "86615_101.jpg",
+    "status": 200,
+    "bytes": 794556,
+    "sha256": "b343e5394bc3a2e565ec2d42bd7791b5f97ba6977f6e5a396530dfc732dc6422",
+    "at_utc": "2026-11-07T03:30:28.139429+00:00"
+  },
+  {
+    "image": 102,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=102.jpg",
+    "path": "86615_102.jpg",
+    "status": 200,
+    "bytes": 789650,
+    "sha256": "537bd22252cbbe92ec67fcbef64fc50742b23e7977d4ee9525aeac2c58ef9b52",
+    "at_utc": "2026-11-07T03:30:28.499703+00:00"
+  },
+  {
+    "image": 103,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=103.jpg",
+    "path": "86615_103.jpg",
+    "status": 200,
+    "bytes": 816067,
+    "sha256": "33d27d8a6c8b9890abd407e39f7eca268fea48e216ba31a322cb407ceb703718",
+    "at_utc": "2026-11-07T03:30:28.937621+00:00"
+  },
+  {
+    "image": 104,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=104.jpg",
+    "path": "86615_104.jpg",
+    "status": 200,
+    "bytes": 804323,
+    "sha256": "0db51827a98ccb3c4bcfb589c225b1d3a199cc3aafd9343de3514f0a2a1341c2",
+    "at_utc": "2026-11-07T03:30:29.334380+00:00"
+  },
+  {
+    "image": 105,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=105.jpg",
+    "path": "86615_105.jpg",
+    "status": 200,
+    "bytes": 824777,
+    "sha256": "cdca299db21b010f8c7d6002c3262fc0f6128a6dd01999f66f77fa47ec100812",
+    "at_utc": "2026-11-07T03:30:29.743256+00:00"
+  },
+  {
+    "image": 106,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=106.jpg",
+    "path": "86615_106.jpg",
+    "status": 200,
+    "bytes": 811324,
+    "sha256": "cec94c2ba453a2764f09e60fbd87e9a9d87e946d5dcf9bcc94a156fb26e241b7",
+    "at_utc": "2026-11-07T03:30:30.165398+00:00"
+  },
+  {
+    "image": 107,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=107.jpg",
+    "path": "86615_107.jpg",
+    "status": 200,
+    "bytes": 832096,
+    "sha256": "b92b6b3d1692b77bb2ab47b8d2aba05be1755ba97c582678e34f179a0a2a0d78",
+    "at_utc": "2026-11-07T03:30:30.574645+00:00"
+  },
+  {
+    "image": 108,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=108.jpg",
+    "path": "86615_108.jpg",
+    "status": 200,
+    "bytes": 829948,
+    "sha256": "d4b8951f730ad47ffd8c870a0907ff446619470ec0cf62ba0c9b1ae4469ebcac",
+    "at_utc": "2026-11-07T03:30:30.985980+00:00"
+  },
+  {
+    "image": 109,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=109.jpg",
+    "path": "86615_109.jpg",
+    "status": 200,
+    "bytes": 783582,
+    "sha256": "9345eafedba51dfd59ec205f410f6747ea055006d279c548f1039430e02f0914",
+    "at_utc": "2026-11-07T03:30:31.392246+00:00"
+  },
+  {
+    "image": 110,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=110.jpg",
+    "path": "86615_110.jpg",
+    "status": 200,
+    "bytes": 807007,
+    "sha256": "84cc1748f4d4b09fa77dbc14533fef6d29c83c2b316d68054ffdbe9e89c0ae11",
+    "at_utc": "2026-11-07T03:30:31.849217+00:00"
+  },
+  {
+    "image": 111,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=111.jpg",
+    "path": "86615_111.jpg",
+    "status": 200,
+    "bytes": 755288,
+    "sha256": "fe5f11e43f98ace1efdb4e5643df7bb42933e50f34703fca762ee1736ba95e71",
+    "at_utc": "2026-11-07T03:30:32.223381+00:00"
+  },
+  {
+    "image": 112,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=112.jpg",
+    "path": "86615_112.jpg",
+    "status": 200,
+    "bytes": 806906,
+    "sha256": "960afd7f760f234150828fe6b4f315ab0465c65e854749dd8cb41565f4733327",
+    "at_utc": "2026-11-07T03:30:32.637411+00:00"
+  },
+  {
+    "image": 113,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=113.jpg",
+    "path": "86615_113.jpg",
+    "status": 200,
+    "bytes": 788434,
+    "sha256": "1a077930ad904fe6774a7d597830953afe2c6d4702d42177cb85473d2f2a4723",
+    "at_utc": "2026-11-07T03:30:33.063646+00:00"
+  },
+  {
+    "image": 114,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=114.jpg",
+    "path": "86615_114.jpg",
+    "status": 200,
+    "bytes": 819609,
+    "sha256": "ab7aead0acb378d26a7247ecf20518bd9db03aa10d5d1880d694084751d16d93",
+    "at_utc": "2026-11-07T03:30:33.499104+00:00"
+  },
+  {
+    "image": 115,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=115.jpg",
+    "path": "86615_115.jpg",
+    "status": 200,
+    "bytes": 801595,
+    "sha256": "bc8c16e50145210702ced9532140e654b565b5fc057e343224249b29f5ef005b",
+    "at_utc": "2026-11-07T03:30:33.880017+00:00"
+  },
+  {
+    "image": 116,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=116.jpg",
+    "path": "86615_116.jpg",
+    "status": 200,
+    "bytes": 830878,
+    "sha256": "82a2b69cef69a529e99a7587f32b00c7bbdcd179ab4f2db129bdee617413fa78",
+    "at_utc": "2026-11-07T03:30:34.286299+00:00"
+  },
+  {
+    "image": 117,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=117.jpg",
+    "path": "86615_117.jpg",
+    "status": 200,
+    "bytes": 768961,
+    "sha256": "9ab0fea55adb993d6f7f30fe51794f3e0b2241caad20eb75ba4dd300ab4c074d",
+    "at_utc": "2026-11-07T03:30:34.708965+00:00"
+  },
+  {
+    "image": 118,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=118.jpg",
+    "path": "86615_118.jpg",
+    "status": 200,
+    "bytes": 805561,
+    "sha256": "50f20de981eb389aaba0f96a2efbda936e000333d54586c19c59a1035d04c928",
+    "at_utc": "2026-11-07T03:30:35.073308+00:00"
+  },
+  {
+    "image": 119,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=119.jpg",
+    "path": "86615_119.jpg",
+    "status": 200,
+    "bytes": 786149,
+    "sha256": "0fd17f2fc8073f320aa69e13e96095acc687fbbc6a02182b763132ca4c420069",
+    "at_utc": "2026-11-07T03:30:35.485440+00:00"
+  },
+  {
+    "image": 120,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=120.jpg",
+    "path": "86615_120.jpg",
+    "status": 200,
+    "bytes": 866902,
+    "sha256": "e9f5043816110340a2ee0ee26092ca7602296856f47e76f3095611895f346151",
+    "at_utc": "2026-11-07T03:30:35.881688+00:00"
+  },
+  {
+    "image": 121,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=121.jpg",
+    "path": "86615_121.jpg",
+    "status": 200,
+    "bytes": 794630,
+    "sha256": "19cbb96254fe276215f53b4f9d0bd8f11347019979ca1d3789d14af914b50963",
+    "at_utc": "2026-11-07T03:30:36.287304+00:00"
+  },
+  {
+    "image": 122,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=122.jpg",
+    "path": "86615_122.jpg",
+    "status": 200,
+    "bytes": 876269,
+    "sha256": "52a81ea686f7fe2a8bda201a18d1bcd45f346138714e1320c1bbf6b38115ed2e",
+    "at_utc": "2026-11-07T03:30:36.699784+00:00"
+  },
+  {
+    "image": 123,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=123.jpg",
+    "path": "86615_123.jpg",
+    "status": 200,
+    "bytes": 771175,
+    "sha256": "133f57de6c3a08d5fe32291238ab130c7186ae28e6579e70078f0de73f0a954f",
+    "at_utc": "2026-11-07T03:30:37.109878+00:00"
+  },
+  {
+    "image": 124,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=124.jpg",
+    "path": "86615_124.jpg",
+    "status": 200,
+    "bytes": 802020,
+    "sha256": "041f941ad77c397dfab3f4909d251687cba3c88d32fafd0e6d497692c0f37c69",
+    "at_utc": "2026-11-07T03:30:37.537792+00:00"
+  },
+  {
+    "image": 125,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=125.jpg",
+    "path": "86615_125.jpg",
+    "status": 200,
+    "bytes": 750642,
+    "sha256": "b153069993ef9571c9378054fe64775bb4217a20947fcf3b76ccf1ced15dd571",
+    "at_utc": "2026-11-07T03:30:37.923687+00:00"
+  },
+  {
+    "image": 126,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=126.jpg",
+    "path": "86615_126.jpg",
+    "status": 200,
+    "bytes": 839455,
+    "sha256": "f8d42fba840b48113d7986cf86f034f1a00b490ca1fe8bbd1d4c4fe56b93a81e",
+    "at_utc": "2026-11-07T03:30:38.430651+00:00"
+  },
+  {
+    "image": 127,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=127.jpg",
+    "path": "86615_127.jpg",
+    "status": 200,
+    "bytes": 776055,
+    "sha256": "0a75f3cb661c44f962cdc7c1d9e664889c0f7f1525891e7d018227af5e3b0c1a",
+    "at_utc": "2026-11-07T03:30:38.713248+00:00"
+  },
+  {
+    "image": 128,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=128.jpg",
+    "path": "86615_128.jpg",
+    "status": 200,
+    "bytes": 844281,
+    "sha256": "e818183ff7c296dfed55522e355e38a48620c7d8fabb122a0534ef6c19b61b86",
+    "at_utc": "2026-11-07T03:30:39.261445+00:00"
+  },
+  {
+    "image": 129,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=129.jpg",
+    "path": "86615_129.jpg",
+    "status": 200,
+    "bytes": 766010,
+    "sha256": "91380e6db3c817b771bfd1674de959d6c1f8fbfa4114d986a0b3a30f85995059",
+    "at_utc": "2026-11-07T03:30:39.547335+00:00"
+  },
+  {
+    "image": 130,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=130.jpg",
+    "path": "86615_130.jpg",
+    "status": 200,
+    "bytes": 842629,
+    "sha256": "714a7395cdd1fb4b6bc65527b659daf1c772f6cf23adb6af3183c87fd6a2e463",
+    "at_utc": "2026-11-07T03:30:40.016156+00:00"
+  },
+  {
+    "image": 131,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=131.jpg",
+    "path": "86615_131.jpg",
+    "status": 200,
+    "bytes": 786413,
+    "sha256": "cd74990faa90294042405f9844ae6514a95b91f4a5b2adfcad30d5446ec81234",
+    "at_utc": "2026-11-07T03:30:40.433524+00:00"
+  },
+  {
+    "image": 132,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=132.jpg",
+    "path": "86615_132.jpg",
+    "status": 200,
+    "bytes": 815899,
+    "sha256": "a4f82ada28f939cce1c68af4b3d7528a1186d8b5e83a3dfc1406d269ea5d8ce1",
+    "at_utc": "2026-11-07T03:30:40.877592+00:00"
+  },
+  {
+    "image": 133,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=133.jpg",
+    "path": "86615_133.jpg",
+    "status": 200,
+    "bytes": 781254,
+    "sha256": "0ad17e91fc6236f5beb61dc40044dfa669079cbd2c41a56863d84a4cd1225535",
+    "at_utc": "2026-11-07T03:30:41.339808+00:00"
+  },
+  {
+    "image": 134,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=134.jpg",
+    "path": "86615_134.jpg",
+    "status": "local_previous_download",
+    "bytes": 781248,
+    "sha256": "e7d8ec83720a74153d8d1d4c777807292e667107cfd89753ef12795b263a674a",
+    "at_utc": "2026-11-07T03:30:40.883153+00:00"
+  },
+  {
+    "image": 135,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=135.jpg",
+    "path": "86615_135.jpg",
+    "status": 200,
+    "bytes": 767761,
+    "sha256": "09cb3d8e7c7f06248a8efb5674c34e3fdc8a5a2ac8bdf46d5764ccb86a20ef97",
+    "at_utc": "2026-11-07T03:30:41.711875+00:00"
+  },
+  {
+    "image": 136,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=136.jpg",
+    "path": "86615_136.jpg",
+    "status": 200,
+    "bytes": 803123,
+    "sha256": "32750aea35877beedf22cd9e57de2c4e96b0aa1b50fcfff3a205d41df0dd5537",
+    "at_utc": "2026-11-07T03:30:42.109095+00:00"
+  },
+  {
+    "image": 137,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=137.jpg",
+    "path": "86615_137.jpg",
+    "status": 200,
+    "bytes": 760879,
+    "sha256": "807c5cafc9fd968ac7ddd11225231b170967da46670e255a9934f444cf0c055c",
+    "at_utc": "2026-11-07T03:30:42.529172+00:00"
+  },
+  {
+    "image": 138,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=138.jpg",
+    "path": "86615_138.jpg",
+    "status": 200,
+    "bytes": 828173,
+    "sha256": "9832dfe4a63e540d953cec254be8a8c5f324c55bc21cb5775fb8c8c1569f5203",
+    "at_utc": "2026-11-07T03:30:42.974879+00:00"
+  },
+  {
+    "image": 139,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=139.jpg",
+    "path": "86615_139.jpg",
+    "status": 200,
+    "bytes": 740945,
+    "sha256": "50e0bb32aeac619ff71fdeb20b03e887bfcd3b1199cfeff256f5e88bdd5d98bf",
+    "at_utc": "2026-11-07T03:30:43.340809+00:00"
+  },
+  {
+    "image": 140,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=140.jpg",
+    "path": "86615_140.jpg",
+    "status": 200,
+    "bytes": 764103,
+    "sha256": "a73a1976f6daa76744cc3b8b6dd9294f91d437a29401b078f771c32dd3a7be93",
+    "at_utc": "2026-11-07T03:30:43.828018+00:00"
+  },
+  {
+    "image": 141,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=141.jpg",
+    "path": "86615_141.jpg",
+    "status": 200,
+    "bytes": 765946,
+    "sha256": "0d5539542aabcdec567a00f3bc595f5c0c163270edf8e432eff527320121a707",
+    "at_utc": "2026-11-07T03:30:44.237605+00:00"
+  },
+  {
+    "image": 142,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=142.jpg",
+    "path": "86615_142.jpg",
+    "status": 200,
+    "bytes": 778595,
+    "sha256": "266939ec358dededfb502157cf3ac6fc8ed6418aa2d9ed9e39f657a66db8d4fa",
+    "at_utc": "2026-11-07T03:30:44.631606+00:00"
+  },
+  {
+    "image": 143,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=143.jpg",
+    "path": "86615_143.jpg",
+    "status": 200,
+    "bytes": 754602,
+    "sha256": "f5505d0d31f6a8ffa91e046c7b0a82038dae053392427ff63d8175f8b49d2764",
+    "at_utc": "2026-11-07T03:30:45.048308+00:00"
+  },
+  {
+    "image": 144,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=144.jpg",
+    "path": "86615_144.jpg",
+    "status": 200,
+    "bytes": 801348,
+    "sha256": "008b2f4d42ddbab831f234fc5c123f01aa4e2494f6c8a1411b6b930d9405efa2",
+    "at_utc": "2026-11-07T03:30:45.508807+00:00"
+  },
+  {
+    "image": 145,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=145.jpg",
+    "path": "86615_145.jpg",
+    "status": 200,
+    "bytes": 752747,
+    "sha256": "041ce4e97bad93ae2792145ac3d20f7831ef53487b6c07bedb4221f939c99483",
+    "at_utc": "2026-11-07T03:30:45.924634+00:00"
+  },
+  {
+    "image": 146,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=146.jpg",
+    "path": "86615_146.jpg",
+    "status": 200,
+    "bytes": 804804,
+    "sha256": "24faf9c39cd484f8e1f5a206fbb381d0b7ec619c6370831ab2cf35bd00e877e3",
+    "at_utc": "2026-11-07T03:30:46.348401+00:00"
+  },
+  {
+    "image": 147,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=147.jpg",
+    "path": "86615_147.jpg",
+    "status": 200,
+    "bytes": 772779,
+    "sha256": "9f1013ce5033253d54766fda8b3a6f19e0d646f86016653798f60e8a3c4103bc",
+    "at_utc": "2026-11-07T03:30:46.701854+00:00"
+  },
+  {
+    "image": 148,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=148.jpg",
+    "path": "86615_148.jpg",
+    "status": 200,
+    "bytes": 804354,
+    "sha256": "4bc3fdbd555773ce3b433501f89d583a9958d97ca085fcdf014a53cba53e28d2",
+    "at_utc": "2026-11-07T03:30:47.160090+00:00"
+  },
+  {
+    "image": 149,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=149.jpg",
+    "path": "86615_149.jpg",
+    "status": 200,
+    "bytes": 750366,
+    "sha256": "c505806bdfd678a4e952016cd8b054aa055733a004c7bec92e0504e28d62c289",
+    "at_utc": "2026-11-07T03:30:47.572751+00:00"
+  },
+  {
+    "image": 150,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=150.jpg",
+    "path": "86615_150.jpg",
+    "status": 200,
+    "bytes": 871914,
+    "sha256": "ea69499453f68366eb606419b6a37ee8efecadc2d20c85d7328474865130a646",
+    "at_utc": "2026-11-07T03:30:48.001603+00:00"
+  },
+  {
+    "image": 151,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=151.jpg",
+    "path": "86615_151.jpg",
+    "status": 200,
+    "bytes": 736608,
+    "sha256": "4709af7f6a705351b1031488cf243fe2e671e5a0b36426264d2ede30769f4114",
+    "at_utc": "2026-11-07T03:30:48.372814+00:00"
+  },
+  {
+    "image": 152,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=152.jpg",
+    "path": "86615_152.jpg",
+    "status": 200,
+    "bytes": 803521,
+    "sha256": "95bb5e0b3232b8c17ba55b8e570f4e5362841929580c559dd071deb302fff8d2",
+    "at_utc": "2026-11-07T03:30:48.790677+00:00"
+  },
+  {
+    "image": 153,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=153.jpg",
+    "path": "86615_153.jpg",
+    "status": 200,
+    "bytes": 781457,
+    "sha256": "650c76ec0e10f73ef0abf4cf6d2853c52d0c8996f85406193f2db3743791747b",
+    "at_utc": "2026-11-07T03:30:49.209356+00:00"
+  },
+  {
+    "image": 154,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=154.jpg",
+    "path": "86615_154.jpg",
+    "status": 200,
+    "bytes": 853755,
+    "sha256": "730c46c615c325e3e9b2e8c63ffa76015b5957097ddafe2465545d5b351b9467",
+    "at_utc": "2026-11-07T03:30:49.634227+00:00"
+  },
+  {
+    "image": 155,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=155.jpg",
+    "path": "86615_155.jpg",
+    "status": 200,
+    "bytes": 799873,
+    "sha256": "07e389e4a99173fb1a28a1cc7d851ec8746325137406aea326006f2f6be407c6",
+    "at_utc": "2026-11-07T03:30:50.031195+00:00"
+  },
+  {
+    "image": 156,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=156.jpg",
+    "path": "86615_156.jpg",
+    "status": 200,
+    "bytes": 868278,
+    "sha256": "9af8b007a955f885120feaa7120725894e3d88177c4e6c748c43c5717482f973",
+    "at_utc": "2026-11-07T03:30:50.389299+00:00"
+  },
+  {
+    "image": 157,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=157.jpg",
+    "path": "86615_157.jpg",
+    "status": 200,
+    "bytes": 776004,
+    "sha256": "2e61faf5eda2a172b37889b4d151211350d5057c01b5cbcbf08f231f2f61e3e5",
+    "at_utc": "2026-11-07T03:30:50.813651+00:00"
+  },
+  {
+    "image": 158,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=158.jpg",
+    "path": "86615_158.jpg",
+    "status": 200,
+    "bytes": 859186,
+    "sha256": "cd4cdd6448c569052b4b19a0f4d673286503b52213d043b2fe6a416316297fe4",
+    "at_utc": "2026-11-07T03:30:51.203125+00:00"
+  },
+  {
+    "image": 159,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=159.jpg",
+    "path": "86615_159.jpg",
+    "status": 200,
+    "bytes": 741798,
+    "sha256": "74cadc25750c8d5fcd0b4ff9f7b5c1d5041ecb9c11601722b80abf341ebb82cf",
+    "at_utc": "2026-11-07T03:30:51.484627+00:00"
+  },
+  {
+    "image": 160,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=160.jpg",
+    "path": "86615_160.jpg",
+    "status": 200,
+    "bytes": 807017,
+    "sha256": "b054b511c33e9f69d948b1087c71143de85742d529b8ca19a3812a67913c5499",
+    "at_utc": "2026-11-07T03:30:52.039837+00:00"
+  },
+  {
+    "image": 161,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=161.jpg",
+    "path": "86615_161.jpg",
+    "status": 200,
+    "bytes": 760274,
+    "sha256": "d933a939730436c07bc25b27f5c18dc8721018e16b302a6cc60c052add322b0f",
+    "at_utc": "2026-11-07T03:30:52.190224+00:00"
+  },
+  {
+    "image": 162,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=162.jpg",
+    "path": "86615_162.jpg",
+    "status": 200,
+    "bytes": 823193,
+    "sha256": "8791bbd4bdafed2df9ffec1860e3ecb102b17a3594c7693f2bfd70655d0fb6f5",
+    "at_utc": "2026-11-07T03:30:52.746971+00:00"
+  },
+  {
+    "image": 163,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=163.jpg",
+    "path": "86615_163.jpg",
+    "status": 200,
+    "bytes": 759391,
+    "sha256": "56bd8bcce68f721a257ed9c7be62c88901220b7e301b308c4af5d95f763921f2",
+    "at_utc": "2026-11-07T03:30:52.893421+00:00"
+  },
+  {
+    "image": 164,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=164.jpg",
+    "path": "86615_164.jpg",
+    "status": 200,
+    "bytes": 791399,
+    "sha256": "966bed553009e8c000e32280a6fe7b2cdeca3e5eb7376d474a9e4353e1add857",
+    "at_utc": "2026-11-07T03:30:53.574923+00:00"
+  },
+  {
+    "image": 165,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=165.jpg",
+    "path": "86615_165.jpg",
+    "status": 200,
+    "bytes": 779132,
+    "sha256": "8366b6069abe991cf79fc4eafb2fc242a74e134b5dcdab7eeee8e18e1a6181cf",
+    "at_utc": "2026-11-07T03:30:53.722299+00:00"
+  },
+  {
+    "image": 166,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=166.jpg",
+    "path": "86615_166.jpg",
+    "status": 200,
+    "bytes": 806415,
+    "sha256": "86eaeb68517b488d28e738d027fdce41acf37e06a47be190c2077c53e0ad37f8",
+    "at_utc": "2026-11-07T03:30:54.379851+00:00"
+  },
+  {
+    "image": 167,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=167.jpg",
+    "path": "86615_167.jpg",
+    "status": 200,
+    "bytes": 795906,
+    "sha256": "ed639640ed6c06667525de93efe15c7f64d4d948df3c04f3271d1c078e6f5f22",
+    "at_utc": "2026-11-07T03:30:54.523879+00:00"
+  },
+  {
+    "image": 168,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=168.jpg",
+    "path": "86615_168.jpg",
+    "status": 200,
+    "bytes": 813592,
+    "sha256": "2bf46b627cb6c43207de02ec650a4eda18fa0248864ae590202a90c4dd8a83dc",
+    "at_utc": "2026-11-07T03:30:55.228347+00:00"
+  },
+  {
+    "image": 169,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=169.jpg",
+    "path": "86615_169.jpg",
+    "status": 200,
+    "bytes": 806651,
+    "sha256": "12f5858d95dcd68dd372c8fa37075874ac9c3f1bb7516dee4df9172f88848003",
+    "at_utc": "2026-11-07T03:30:55.382689+00:00"
+  },
+  {
+    "image": 170,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=170.jpg",
+    "path": "86615_170.jpg",
+    "status": 200,
+    "bytes": 847391,
+    "sha256": "32ebc4dc2430995682fa398877d5a510f5ca713dc9b81957ccbb0d9fe3322f1a",
+    "at_utc": "2026-11-07T03:30:56.090084+00:00"
+  },
+  {
+    "image": 171,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=171.jpg",
+    "path": "86615_171.jpg",
+    "status": 200,
+    "bytes": 780677,
+    "sha256": "bfa29aa1bd8865093e2cc2dbcee093a67c839913a62fdf9afe54bc7c3d1c9226",
+    "at_utc": "2026-11-07T03:30:56.231378+00:00"
+  },
+  {
+    "image": 172,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=172.jpg",
+    "path": "86615_172.jpg",
+    "status": 200,
+    "bytes": 852515,
+    "sha256": "30f1d0c211ba5f1deb831b1e994de1f82b87933bcd8af28577c5fbfee2b59239",
+    "at_utc": "2026-11-07T03:30:56.931212+00:00"
+  },
+  {
+    "image": 173,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=173.jpg",
+    "path": "86615_173.jpg",
+    "status": 200,
+    "bytes": 790446,
+    "sha256": "960c0cbfa944423fc2c8bb9345869985afd428227cea012865a3edf314209780",
+    "at_utc": "2026-11-07T03:30:57.070875+00:00"
+  },
+  {
+    "image": 174,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=174.jpg",
+    "path": "86615_174.jpg",
+    "status": 200,
+    "bytes": 873570,
+    "sha256": "4d7b123e97d5df8166444882cd08b05b847c1c1f0beef142d760e6693c131bb6",
+    "at_utc": "2026-11-07T03:30:58.254223+00:00"
+  },
+  {
+    "image": 175,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=175.jpg",
+    "path": "86615_175.jpg",
+    "status": 200,
+    "bytes": 784212,
+    "sha256": "a9bd31a050131a4793d0f95a72b11684261a567a303b10396c2c180c56023422",
+    "at_utc": "2026-11-07T03:30:58.391620+00:00"
+  },
+  {
+    "image": 176,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=176.jpg",
+    "path": "86615_176.jpg",
+    "status": 200,
+    "bytes": 867081,
+    "sha256": "5601052130f53f2981f737e3b91344add3fbdc5bdfb2836d80e3463f488ddfc0",
+    "at_utc": "2026-11-07T03:30:59.063722+00:00"
+  },
+  {
+    "image": 177,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=177.jpg",
+    "path": "86615_177.jpg",
+    "status": 200,
+    "bytes": 774224,
+    "sha256": "b0a5a1ec8658614d62c3db5fb1cc2dba46f76063b9cf7492839e86330e5672ff",
+    "at_utc": "2026-11-07T03:30:59.397232+00:00"
+  },
+  {
+    "image": 178,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=178.jpg",
+    "path": "86615_178.jpg",
+    "status": 200,
+    "bytes": 867372,
+    "sha256": "39a27ec30f0a97ab4bb021251b78154f260564696d468dab6dece1eb7e605e5f",
+    "at_utc": "2026-11-07T03:30:59.919098+00:00"
+  },
+  {
+    "image": 179,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=179.jpg",
+    "path": "86615_179.jpg",
+    "status": 200,
+    "bytes": 789035,
+    "sha256": "18c7038e818661486d2a75d3f44ea91338fc5e947f0e3cb32f67974703a90e37",
+    "at_utc": "2026-11-07T03:31:00.207086+00:00"
+  },
+  {
+    "image": 180,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=180.jpg",
+    "path": "86615_180.jpg",
+    "status": 200,
+    "bytes": 864175,
+    "sha256": "a86c30b80d078ac557f0e361657e97eab34491d3c3ffc3b417f31206c0182495",
+    "at_utc": "2026-11-07T03:31:00.647919+00:00"
+  },
+  {
+    "image": 181,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=181.jpg",
+    "path": "86615_181.jpg",
+    "status": 200,
+    "bytes": 767155,
+    "sha256": "fc4b7788b9747dcc729a110960eaae194b264c28248e927d53b3086bad0e74b5",
+    "at_utc": "2026-11-07T03:31:01.036969+00:00"
+  },
+  {
+    "image": 182,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=182.jpg",
+    "path": "86615_182.jpg",
+    "status": 200,
+    "bytes": 829369,
+    "sha256": "6eb307107bc6a695ec3004916f651066a769e3eb31340a13ce47f43e4eec5f9e",
+    "at_utc": "2026-11-07T03:31:01.479686+00:00"
+  },
+  {
+    "image": 183,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=183.jpg",
+    "path": "86615_183.jpg",
+    "status": 200,
+    "bytes": 760546,
+    "sha256": "7fb79a1a00d5a33719e3a3d379d537dda850a14b4ce7d7adadc9d3364f9668fe",
+    "at_utc": "2026-11-07T03:31:01.849170+00:00"
+  },
+  {
+    "image": 184,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=184.jpg",
+    "path": "86615_184.jpg",
+    "status": 200,
+    "bytes": 856574,
+    "sha256": "b9ac2d77107329518a6205c5e295043ca353eb984aeed71f6dfc27911258a96e",
+    "at_utc": "2026-11-07T03:31:02.266637+00:00"
+  },
+  {
+    "image": 185,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=185.jpg",
+    "path": "86615_185.jpg",
+    "status": 200,
+    "bytes": 676806,
+    "sha256": "bc26448cd3ed4c9aaed0d0a46378e19a4bee2aad2fb8baa191e8bd4663297bf3",
+    "at_utc": "2026-11-07T03:31:02.676739+00:00"
+  },
+  {
+    "image": 186,
+    "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=186.jpg",
+    "path": "86615_186.jpg",
+    "status": 200,
+    "bytes": 515732,
+    "sha256": "52f6d3efe6d53a509e3a2f53014afcde2244f9234e0dd4ac6d9aeb518771b440",
+    "at_utc": "2026-11-07T03:31:02.937736+00:00"
+  }
+]

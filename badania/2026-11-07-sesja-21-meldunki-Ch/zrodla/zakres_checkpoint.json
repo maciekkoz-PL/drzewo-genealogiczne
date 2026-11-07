@@ -1,0 +1,24 @@
+{
+  "at_utc": "2026-11-07T03:43:35.073958+00:00",
+  "baseline": "578ac23",
+  "ptg86615_name_columns_read": [
+    2,
+    185
+  ],
+  "ptg_full_read": [
+    21,
+    76,
+    81,
+    134
+  ],
+  "arrivals25443_name_columns_read": [
+    5,
+    202
+  ],
+  "arrivals25443_technical_insert": 104,
+  "arrivals25444_name_columns_read": [
+    5,
+    72
+  ],
+  "no_new_family_link": true
+}
