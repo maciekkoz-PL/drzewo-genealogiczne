@@ -1,0 +1,28 @@
+{
+  "signature": "39/225/0/4/2140",
+  "unit_id": 15352000,
+  "manifest_images": 196,
+  "name_columns_read": [
+    [
+      90,
+      115
+    ]
+  ],
+  "orientation_full": [
+    60,
+    80,
+    90,
+    100,
+    115
+  ],
+  "date_checks": {
+    "60": "7–10VII1939",
+    "80": "31VIII–5IX1939",
+    "90": "30IX–2X1939",
+    "100": "26–28X1939",
+    "115": "19–22XII1939"
+  },
+  "result": "W odczytanych nazwiskach90–115 nie zaobserwowano Chmielewskiej/Chmielewskiego. Nie znaleziono wpisu Agnieszki.",
+  "limitation": "Tylko26obrazów nazwisk; orientacja dat z5obrazów. Nie jest to pełny odczyt wszystkich rubryk/księgi ani wykluczenie osoby. Pozostałe pobrane obrazy nieodczytane.",
+  "remaining": "Przy dalszym przeglądzie pomijać nazwiska90–115; sprawdzić ewentualne zaległe/rejestrowane później wpisy, wcześniejszy zakres i księgę przybyłych2139."
+}

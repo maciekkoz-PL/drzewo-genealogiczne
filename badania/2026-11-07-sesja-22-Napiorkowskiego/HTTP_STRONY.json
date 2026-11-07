@@ -1,0 +1,8 @@
+{
+  "http_status": 200,
+  "live_matches_local": true,
+  "html_sha256": "432e86c5d890475e717a22da74e85ced1425c503265c583722cb4f26f35c7d69",
+  "at_utc": "2026-11-07T04:49:34.442727+00:00",
+  "earlier_plain_urllib_status": 403,
+  "verification": "Public GET with browser User-Agent, normal TLS verification; no auth token"
+}

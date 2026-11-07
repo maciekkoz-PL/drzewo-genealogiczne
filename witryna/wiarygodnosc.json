@@ -483,10 +483,11 @@
       "role": "Możliwy brat Bogusława",
       "dates": "Zm. 03.02.1940 · 8 dni",
       "place": "Łódź",
-      "note": "Odnaleziony akt zgonu 66/1940 parafii św. Anny w Łodzi wymienia rodziców: Czesława i Janinę z Poprawskich. Bogusław ma w swoim odpisie ślubu rodziców Czesława i Janinę Poprawkę. Podobne dane uzasadniają sprawdzenie, ale różnica nazwiska matki i brak dat urodzenia rodziców nie pozwalają jeszcze potwierdzić braterstwa. Linia w pełnym widoku oznacza tylko hipotezę. Dziecko zmarło jako niemowlę i nie jest poszukiwanym ojcem Piotra. Dokładna data urodzenia nie została odczytana z aktu.",
+      "note": "Odnaleziony akt zgonu 66/1940 parafii św. Anny w Łodzi wymienia rodziców: Czesława i Janinę z Poprawskich. Bogusław ma w swoim odpisie ślubu rodziców Czesława i Janinę Poprawkę. Podobne dane uzasadniają sprawdzenie, ale różnica nazwiska matki i brak dat urodzenia rodziców nie pozwalają jeszcze potwierdzić braterstwa. Linia w pełnym widoku oznacza tylko hipotezę. Dziecko zmarło jako niemowlę i nie jest poszukiwanym ojcem Piotra. Dokładna data urodzenia nie została odczytana z aktu. Nowy trop: w październiku 1939 r. Agnieszka Chmielewska przybyła z Chojen pod ten sam adres — Napiórkowskiego 112 (nr 2246). Nie ustalono, czy jest to Agnieszka Miszczyszyn ani czy była spokrewniona z dzieckiem.",
       "source": [
         "S126",
-        "S086"
+        "S086",
+        "S274"
       ],
       "x": 540,
       "y": 560,
@@ -2874,6 +2875,11 @@
       "title": "Przekaz rodzinny o Tomaszu — 07.11.2026",
       "description": "Tomasz mieszkał w Łodzi; zmarł 26.04.2001 w wieku 30 lat. Data urodzenia wyliczona warunkowo, brak odczytanego aktu zgonu.",
       "url": null
+    },
+    "S274": {
+      "title": "Meldunek Agnieszki, nr 2246/1939, karta 94",
+      "url": "https://photos.szukajwarchiwach.gov.pl/784be85b051b02233b3aa205df713f9d78610bce69986f65c599bc6a2ec49c90_max",
+      "description": "APŁ39/221/0/4.12/25446,obraz98. Chojny → Napiórkowskiego112,21X1939. Bez wieku, nazwiska rodowego i relacji rodzinnych."
     }
   },
   "relations": [
@@ -4116,6 +4122,12 @@
     }
   ],
   "news": [
+    {
+      "at": "2026-11-07T04:44:17Z",
+      "title": "Nowy trop przy adresie możliwego brata Bogusława",
+      "body": "Agnieszkę Chmielewską zameldowano w 1939 r. przy Napiórkowskiego 112 — pod adresem z aktu zgonu niemowlęcia Czesława. Jej tożsamość i pokrewieństwo z dzieckiem wymagają potwierdzenia.",
+      "kind": "ważny trop"
+    },
     {
       "at": "2026-11-06T17:25:19Z",
       "title": "Odnaleziono kolejne pokolenia australijskiej rodziny",

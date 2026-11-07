@@ -22,18 +22,18 @@ for sn in a.sheetnames:
     ids=[r[0] for r in bv if isinstance(r[0],str) and re.fullmatch(r'[A-Z]+-?\d+',r[0])]
     assert len(ids)==len(set(ids)),sn
     counts[sn]=len(ids)
-for sn,n in [('ZRODLA_I_SKANY',277),('KANDYDACI_I_HOMONIMY',102),('DZIENNIK_KWEREND',275),('PLIKI_DOWODOWE',311),('ZADANIA_AGENTA',58)]:
+for sn,n in [('ZRODLA_I_SKANY',278),('KANDYDACI_I_HOMONIMY',102),('DZIENNIK_KWEREND',277),('PLIKI_DOWODOWE',324),('ZADANIA_AGENTA',58)]:
     assert counts[sn]==n,(sn,counts[sn],n)
 for sn in ['RDZEN_RODZINY','RODZINA_Z_RELACJI','RELACJE','ZDARZENIA_I_FAKTY','DECYZJA_ROMAN_P12_C69','RELACJE_ZRODLOWE','KORESPONDENCJA']:
     if sn in a.sheetnames:assert list(a[sn].values)==list(b[sn].values),sn
 for f in ['Marysia_PAKIET_ZRODEL_2026-11-05.zip','Marysia_LINIA_MATKI_repo_ready_2026-11-06.zip']:
     assert (ROOT/f).read_bytes()==old(f),f
 for r in b['ZRODLA_I_SKANY'].values:
-    if r[0] in ['S274','S275','S276','S277']:assert (ROOT/r[9]).is_file(),r
+    if r[0] in ['S274','S275','S276','S277','S278']:assert (ROOT/r[9]).is_file(),r
 for r in b['PLIKI_DOWODOWE'].values:
     if isinstance(r[0],str) and re.fullmatch(r'F\d+',r[0]) and int(r[0][1:])>=279:assert (ROOT/r[1]).is_file()
-files=json.loads((HERE/'manifest.json').read_text())
-assert len(files)==33
+files=json.loads((HERE/'manifest.json').read_text())+json.loads((HERE/'manifest_Chojny.json').read_text())
+assert len(files)==46
 for rec in files:
     f=ROOT/rec['path'];raw=f.read_bytes();assert hashlib.sha256(raw).hexdigest()==rec['sha256'],f
     if f.suffix in ['.json','.csv']:assert not re.search(rb'Bearer |X-Amz-|jsonAuth["=]|siwc_bypass',raw),f

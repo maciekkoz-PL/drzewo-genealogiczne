@@ -1,6 +1,6 @@
 {
   "result": "PASS",
-  "at_utc": "2026-11-07T04:43:56.987001+00:00",
+  "at_utc": "2026-11-07T04:52:15.000409+00:00",
   "baseline": "2e94415",
   "sheets": 24,
   "counts": {
@@ -9,13 +9,13 @@
     "RELACJE": 59,
     "KANDYDACI_I_HOMONIMY": 102,
     "ZDARZENIA_I_FAKTY": 75,
-    "ZRODLA_I_SKANY": 277,
+    "ZRODLA_I_SKANY": 278,
     "KONTAKTY_URZEDOWE": 16,
     "SZKICE_GMAIL": 10,
     "ZADANIA_AGENTA": 58,
     "KOREKTY_I_SPRZECZNOSCI": 100,
-    "DZIENNIK_KWEREND": 275,
-    "PLIKI_DOWODOWE": 311,
+    "DZIENNIK_KWEREND": 277,
+    "PLIKI_DOWODOWE": 324,
     "START": 0,
     "INSTRUKCJA_AGENTA": 24,
     "POTWIERDZONE_AKTEM_1936": 6,
@@ -86,6 +86,6 @@
   "parallel_changes_preserved": true,
   "new_confirmed_family_relationships": 0,
   "new_address_correlation": true,
-  "source_files": 33,
+  "source_files": 46,
   "source_hashes_valid": true
 }

@@ -1,0 +1,67 @@
+[
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny1939_100.jpg",
+    "bytes": 1870187,
+    "sha256": "0a9575a5dab509fc7f622249c3def8a0aa5428570751d77642bd73e70c8756ea"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny1939_115.jpg",
+    "bytes": 1763472,
+    "sha256": "20dd67188b703c5f01d5b57bd278c820dcaa69b7768ab624bee870ca6d627715"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny1939_60.jpg",
+    "bytes": 2001320,
+    "sha256": "d31a91b88d7fd740eee3dfbaac4249457ce110bb29435dc7f71281b945c1f594"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny1939_80.jpg",
+    "bytes": 1961419,
+    "sha256": "551ace4c4deee53d8a4e5c80452a97e1c876b377fde9af1b0526ee428d0d7f61"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny1939_90.jpg",
+    "bytes": 1859921,
+    "sha256": "17d72d9aa099a17ff6ee71b677f52c4a9333070a4f0d6fd4bd2056c1f7d105f8"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny_nazwiska_101_106.jpg",
+    "bytes": 2205650,
+    "sha256": "14051a04df623548e7bd3109cb679d9526ed28686a47a2ad02d655a0c5d39887"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny_nazwiska_107_112.jpg",
+    "bytes": 2184700,
+    "sha256": "31caced9f9a7bdcd56f58dcd1861929132eaca2fe87e548f7931478565ff40c1"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny_nazwiska_113_115.jpg",
+    "bytes": 1090193,
+    "sha256": "447f03491b424003ccdfef57ca3c59e8cb791772e5a6e7a5e8133ca1c014a957"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny_nazwiska_90_95.jpg",
+    "bytes": 2182281,
+    "sha256": "fff3edb69a70ef5f63e6e516eb97ff418ee2a18ce7a5eb3de685e80c52f652c8"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/Chojny_nazwiska_96_100.jpg",
+    "bytes": 1835604,
+    "sha256": "7a8acadcbb77ff6b29c44c8d06911d185e2816dd2e9fa1fcc31a3ea33ffa98ba"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/manifest_2140.json",
+    "bytes": 114356,
+    "sha256": "0c32f62090a1d82bdefde06a7494e912563bef183b076a641b867378b246dde7"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/pobrane_sha256.json",
+    "bytes": 10769,
+    "sha256": "c7faa51846ddfb47e009a533603d832a2ffc2661ddadd6d7cb4a34aadf5e4fb0"
+  },
+  {
+    "path": "badania/2026-11-07-sesja-22-Napiorkowskiego/chojny/zakres.json",
+    "bytes": 876,
+    "sha256": "776fc4ba1c271d80626327dd357e5d2a38d437b63b8cf4adabeabd224707b4b2"
+  }
+]

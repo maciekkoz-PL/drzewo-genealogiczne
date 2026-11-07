@@ -14,7 +14,7 @@
 - Agnieszka jest nowym **C102 / H052**, osobno od Agnieszki Miszczyszyn P06 i meldunku Grabowa 20 C99. Brak wieku, daty urodzenia, nazwiska rodowego i krewnych. Ten sam budynek mógł mieścić wiele rodzin.
 - Nie potwierdzono jeszcze H018: dziecko C42 jako brat Bogusława. Zapis **Poprawskich** w S126 pozostaje zachowany, nie poprawiono go na Poprawka.
 - C42 zmarł jako niemowlę, więc nie jest poszukiwanym ojcem Piotra P11. Imię P11 nadal nieustalone. Nowy adres pomaga szukać rodziny, a nie nadać wujowi imię.
-- Nie dopisano żadnej potwierdzonej relacji do badawczej bazy. W publicznym drzewie do aktualizacji jest informacja w karcie C42 i jeden krótki wpis o nowym tropie, bez nowej pewnej linii rodzinnej.
+- Nie dopisano żadnej potwierdzonej relacji do badawczej bazy. W publicznym drzewie **opublikowano wersję25**: informację w karcie C42 i jeden krótki wpis o nowym tropie, bez nowej pewnej linii rodzinnej. Zachowano70osób i wszystkie dotychczasowe relacje. Test1440/390px PASS; publicznyURL HTTP200 i identycznyHTML. Szczegóły wPUBLIKACJA.json iWALIDACJA_STRONY.json.
 
 ## Wykonana praca
 
@@ -26,6 +26,10 @@ S275: trzy brzegowe obrazy wcześniejszych ksiąg: 25443/4 i25444/4 to strony ty
 
 S276: dwie nowe frazy wynikające z adresu Agnieszki nie dały kolejnego rodzinnego identyfikatora. Zapisano odpowiedź wyszukiwarki; pełnych prasowych PDF z wyników nie odczytano.
 
-S277: katalog BASIA wskazuje **39/225/0/4/2139** (przybyli do Chojen1939) i **2140** (opuszczający Chojny1939). Bezpośrednie strony SwA zwracały niedostępny portlet. Zwykła publiczna przeglądarka pozwoliła następnie uzyskać manifest196obrazów2140; dalszy zakres i wynik odczytu zostaną zapisane w osobnym uzupełnieniu. Nie uznawać samego katalogu/manifestu za odnalezienie Agnieszki.
+S277: katalog BASIA wskazuje **39/225/0/4/2139** (przybyli do Chojen1939) i **2140** (opuszczający Chojny1939). Bezpośrednie strony SwA zwracały niedostępny portlet. Nie uznawać samego katalogu za odnalezienie Agnieszki.
+
+**S278 — wykonana dalsza kwerenda:** zwykła publiczna przeglądarka pozwoliła uzyskać manifest196obrazów2140. Pobrano38oryginałów; obejrzano daty/układ na60/80/90/100/115 i kolumny nazwisk **90–115**, bez zaobserwowanego Chmielewski/Chmielewska. Brzegi90/115 mają daty30IX–22XII1939. Nie znaleziono w tym zakresie wpisu Agnieszki, ale nie odczytano całej księgi ani wszystkich rubryk. `chojny/zakres.json` i `manifest_Chojny.json` podają dokładny stan, hashe i pięć kopii pełnych skanów.
+
+Końcowy Excel:24arkusze,278źródeł,102kandydatów,277zapisówkwerend,324pliki dowodowe,42otwarte hipotezy. Zapis nowych badań58db7fe; dalsze uzupełnienia i publikacja zachowane w kolejnych commitach. Wszystkie starsze komórki sprawdzono względem2e94415; zmieniono tylko wskazane dopiski i nagłówki.
 
 Bez nowych wiadomości do osób lub instytucji, bez wniosków i opłat. Zachowano wcześniejsze prace dotyczące Tomasza, decyzję o Romanie i stan korespondencji z Zarzewem.
