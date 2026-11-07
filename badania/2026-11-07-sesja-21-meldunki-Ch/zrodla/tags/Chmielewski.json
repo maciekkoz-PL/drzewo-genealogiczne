@@ -1,0 +1,55 @@
+{
+  "url": "https://skanoteka.genealodzy.pl/?op=tg&id=4119&nazwisko=Chmielewski&imie=&miejsce=&rok_od=&rok_do=",
+  "rows": [
+    {
+      "text": "1 Józef Chmielewski 221 Akta miasta Łodzi 86599 Ewidencja dowodów osobistych wydanych przez Zarząd gminy Łódź od nr 10001 do 15000 1929-1930 11601-11620",
+      "links": [
+        {
+          "text": "Józef Chmielewski",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86599&plik=11601-11620.jpg&tag=1&zoom=2"
+        },
+        {
+          "text": "221\n\t\t\t\t\tAkta miasta Łodzi",
+          "url": "https://skanoteka.genealodzy.pl/id4119"
+        },
+        {
+          "text": "86599 Ewidencja dowodów osobistych wydanych przez Zarząd gminy Łódź od nr 10001 do 15000",
+          "url": "https://skanoteka.genealodzy.pl/id4119-sy86599"
+        },
+        {
+          "text": "1929-1930",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86599&plik=11601-11620.jpg&tag=1&zoom=2"
+        },
+        {
+          "text": "11601-11620",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86599&plik=11601-11620.jpg&tag=1&zoom=2"
+        }
+      ]
+    },
+    {
+      "text": "2 Władysław Stefan Chmielewski 221 Akta miasta Łodzi 86615 Ewidencja dowodów osobistych wydanych przez Zarząd Miejski w Łodzi, zespół nr 3 [- nazwiska na litery Ch, H, I, J, L, Ł] 1936-1937 134",
+      "links": [
+        {
+          "text": "Władysław Stefan Chmielewski",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=134.jpg&tag=1&zoom=2"
+        },
+        {
+          "text": "221\n\t\t\t\t\tAkta miasta Łodzi",
+          "url": "https://skanoteka.genealodzy.pl/id4119"
+        },
+        {
+          "text": "86615 Ewidencja dowodów osobistych wydanych przez Zarząd Miejski w Łodzi, zespół nr 3 [- nazwiska na litery Ch, H, I, J, L, Ł]",
+          "url": "https://skanoteka.genealodzy.pl/id4119-sy86615"
+        },
+        {
+          "text": "1936-1937",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=134.jpg&tag=1&zoom=2"
+        },
+        {
+          "text": "134",
+          "url": "https://skanoteka.genealodzy.pl/index.php?op=pg&id=4119&se=4120&sy=86615&plik=134.jpg&tag=1&zoom=2"
+        }
+      ]
+    }
+  ]
+}
