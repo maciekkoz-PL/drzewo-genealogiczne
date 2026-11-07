@@ -12,7 +12,7 @@ X = R / 'Marysia_KOMPLET_BAZA_2026-11-05.xlsx'
 new = load_workbook(X)
 old = load_workbook(io.BytesIO(subprocess.check_output(['git', 'show', '2824944:Marysia_KOMPLET_BAZA_2026-11-05.xlsx'], cwd=R)))
 assert new.sheetnames == old.sheetnames and len(new.sheetnames) == 25
-expected = {'ZRODLA_I_SKANY':('S',296), 'DZIENNIK_KWEREND':('L',296), 'KANDYDACI_I_HOMONIMY':('C',105), 'PLIKI_DOWODOWE':('F',430), 'INDEKS_MELDUNKOW':('IM',57)}
+expected = {'ZRODLA_I_SKANY':('S',296), 'DZIENNIK_KWEREND':('L',297), 'KANDYDACI_I_HOMONIMY':('C',105), 'PLIKI_DOWODOWE':('F',431), 'INDEKS_MELDUNKOW':('IM',57)}
 for sheet,(prefix,n) in expected.items():
     ids = [str(r[0]) for r in new[sheet].values if r[0] and str(r[0]).startswith(prefix) and str(r[0])[len(prefix):].isdigit()]
     assert len(ids)==n and len(ids)==len(set(ids)),(sheet,len(ids),n)
@@ -35,7 +35,7 @@ assert len(scope['lodz_wyjazdy']['oryginaly'])==95 and len(scope['chelmonskiego_
 assert scope['lodz_wyjazdy']['oryginaly'][7]['sha256']==hashlib.sha256((z/'LodzW1938_8.jpg').read_bytes()).hexdigest()
 assert scope['lodz_wyjazdy']['oryginaly'][73]['sha256']==hashlib.sha256((z/'LodzW1938_74.jpg').read_bytes()).hexdigest()
 for row in new['PLIKI_DOWODOWE'].values:
-    if row[0] in ('F427','F428','F429','F430'):assert (R/row[1]).is_file()
+    if row[0] in ('F427','F428','F429','F430','F431'):assert (R/row[1]).is_file()
 assert new['INDEKS_MELDUNKOW']['A59'].value == 'IM056'
 assert new['INDEKS_MELDUNKOW']['A60'].value == 'IM057'
-print('PASS: 25 arkuszy; S/L296, C105, F430, IM057, H053; dwa oryginały i manifest zgodne; starsze komórki zachowane poza kontrolowanymi aktualizacjami.')
+print('PASS: 25 arkuszy; S296, L297, C105, F431, IM057, H053; dwa oryginały i manifest zgodne; starsze komórki zachowane poza kontrolowanymi aktualizacjami.')
