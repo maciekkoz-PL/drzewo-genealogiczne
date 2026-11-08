@@ -1,0 +1,56 @@
+Poliqarp search engine for NKJP data
+Polish
+English
+consortium
+Poliqarp search engine for NKJP data
+Query
+Settings
+File a bug
+Help
+Query:
+ą
+ć
+ę
+ł
+ń
+ó
+ś
+ż
+ź
+Ą
+Ć
+Ę
+Ł
+Ń
+Ó
+Ś
+Ż
+Ź
+Corpus:
+balanced NKJP subcorpus (300M segments)
+the full NKJP corpus (1800M segments)
+manually annotated corpus v1.2 (1.2M segments)
+the full IPI PAN Corpus (2nd edition; 250M segments)
+the IPI PAN Corpus sample (2nd edition; 30M segments)
+the Frequency Dictionary Corpus (0.5M segments)
+Results
+Found 3 results
+Displaying results 1—3
+1.
+pokazami. – W lipcu, podczas „sezonu ogórkowego” zamierzam wyremontować salę przy ul. Gdańskiej – zapewnia
+Tomasz Chmielewski
+. Czy to wystarczy, by X Muza nie wyprowadziła się z Pabianic na stałe? (mak)
+2.
+w finale P olak Piotr Kobrzyniecki awansował do finału mistrzostw świata juniorów w pięcioboju nowoczesnym rozgrywanych w węgierskim Szekesfehervar.
+Tomasz Chmielewski
+i Przemysław Gałecki odpadli w środowych eliminacjach. W eliminacjach startowało 81 zawodników, podzielonych na trzy grupy. W
+3.
+na tegorocznym festiwalu filmowym w Gdyni otrzymał Grand Prix, nie był jeszcze wyświetlany w Pabianicach. Jak powiedział nam
+Tomasz Chmielewski
+, szef pabianickiego kina "Tomi", premiera filmu w rodzinnym mieście Oli-Tereski prawdopodobnie odbędzie się 28
+Export
+Format:
+HTML
+Excel
+© Narodowy Korpus Języka Polskiego 2008-2010
+Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.

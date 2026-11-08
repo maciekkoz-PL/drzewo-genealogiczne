@@ -1,0 +1,93 @@
+Poliqarp search engine for NKJP data
+Polish
+English
+consortium
+Poliqarp search engine for NKJP data
+Query
+Settings
+File a bug
+Help
+Query:
+ą
+ć
+ę
+ł
+ń
+ó
+ś
+ż
+ź
+Ą
+Ć
+Ę
+Ł
+Ń
+Ó
+Ś
+Ż
+Ź
+Corpus:
+balanced NKJP subcorpus (300M segments)
+the full NKJP corpus (1800M segments)
+manually annotated corpus v1.2 (1.2M segments)
+the full IPI PAN Corpus (2nd edition; 250M segments)
+the IPI PAN Corpus sample (2nd edition; 30M segments)
+the Frequency Dictionary Corpus (0.5M segments)
+Results
+Found 8 results
+Displaying results 1—8
+1.
+drużyny - Krzysztof Jeżowski. Pierwszy etap wyścigu miał 139 km i prowadził z Gdowa do Myślenic. Wygrał go
+Piotr Chmielewski
+z Mroza przed Radosławem Romanikiem z CCC Polsat, którzy uzyskali 50 sekund przewagi nad kolejną trójką kolarzy i prawie
+2.
+Kolarze już gotowi
+Piotr Chmielewski
+, lider ekipy Mróz w ostatnich latach, podpisał roczny kontrakt z zawodową grupą kolarską CCC Polsat. 32-letni Chmielewski
+3.
+e Vita), Sławomir Kohut (De Nardi), Paweł Tonkow (Lampre), Bogdan Bondariew i
+Piotr Chmielewski
+(Mróz). Po zakończeniu dyskwalifikacji (30 kwietnia 2003) do zespołu dołączy Piotr Przydział. Kierownictwo ekipy
+4.
+1.06 min straty, 3. Piotr Przydział (CCC Mat) 1.59, 4.
+Piotr Chmielewski
+(Mróz) 2.10, 5. Tomas Konecny (Czechy, Domo Farm Frites) 2.
+5.
+Gonczar. Drugim zawodnikiem tego kraju jest Ołeksandr Klymenko, zawodnik łódzkiej grupy Mikomax Browar Staropolski. Z Polaków wystąpią
+Piotr Chmielewski
+(Mróz) i Piotr Przydział (CCC Mat). (jusz)
+6.
+Wajs, 40. Eugen Wacker (Kirgistan). 41. Raimondas Wilczyńskas (Litwa), 42.
+Piotr Chmielewski
+. Menedżer Piotr Kosmala. CCC MAT ś 97. Piotr Przydział, 98. Ondrej Sosenka (Czechy)
+7.
+wpadła na metę grupa 37 kolarzy, w której znalazło się sześciu Polaków: Radosław Romanik, Piotr Wadecki,
+Piotr Chmielewski
+, Zbigniew Piątek, Marcin Sapa, Grzegorz Rosoliński. Na uwagę zasługuje fakt, że do mety prawie w
+8.
+Może nie mamy gwiazd w drużynie jak w latach poprzednich, ale wierzę w swoich zawodników. Liderem grupy jest
+Piotr Chmielewski
+, a Bohdan Bondariew ma pokazać się na płaskich etapach. Potem jego zadaniem będzie pomagać liderowi. Chcieliby
+Context
+czas. ś V etap (Bodzentyn - Skarżysko Kamienna, czasówka 37,8 km): 1. Sosenka - 45.05, 2. Liese 1.06 straty, 3. Przydział 1.59. ś VI etap (Skarżysko Kamienna - Łódź, 154,2 km): 1. Andrus Aug (Estonia/Amore e Vita) - 3:43.15, 2. Stefan van Dijk (Holandia/Batavus), 3. Daniele Galli (Włochy/Alexia) wszyscy ten sam czas. ś Klasyfikacja generalna: 1. Ondrej Sosenka (Czechy, CCC Mat) - 20:14.17, 2. Thomas Liese (Niemcy, Team Nuernberger) 1.06 min straty, 3. Piotr Przydział (CCC Mat) 1.59, 4. Piotr Chmielewski (Mróz) 2.10, 5. Tomas Konecny (Czechy, Domo Farm Frites) 2.23, 6. Ołeksandr Klymenko (Ukraina, Mikomax Browar Staropolski) 2.26. Zwycięzcy innych klasyfikacji: aktywnych - Chrzanowski, punktowa - Van Dijk, górska - Enrico Nikolai (Niemcy, Team Wiesenhof) i młodzieżowa - Staf Scheilrlinckx (Belgia, Collstrop) Marek Kondraciuk
+Metadata
+author
+Marek Kondraciuk
+title
+Laur dla Sosenki
+source
+Dziennik Łódzki
+ISSN
+1898-4819
+published
+2001-07-09
+publisher
+Polskapresse, oddział Prasa Łódzka
+publication place
+Łódź
+type
+journalism
+channel
+press; daily
+© Narodowy Korpus Języka Polskiego 2008-2010
+Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.

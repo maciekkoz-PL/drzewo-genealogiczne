@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en'>
+
+<head>
+    <link rel="icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <title>Poliqarp search engine for NKJP data</title>
+    <link rel='icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <link rel='shortcut icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.bgiframe.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.delegate.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.dimensions.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.tooltip.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/default.js'></script>
+    <link rel='stylesheet' href='/poliqarp/css/default.css' type='text/css' />
+    <link rel='stylesheet' href='/poliqarp/css/print.css' type='text/css' media='print' />
+    
+    
+</head>
+
+<body>
+    <div id='language-selection'>
+        <form action='/poliqarp/i18n/set-language/' method='post'>
+        <select name='language'>
+        
+        <option value='pl'>Polish</option>
+        
+        <option value='en' selected='selected'>English</option>
+        
+        </select>
+        <input type='submit' value='Change' />
+        </form>
+    </div>
+    <div id='all'>
+        <div id='banners'>
+            <div class='float-left'><img src='http://nkjp.pl/images/NKJP-logo1.jpg' width='216' height='102' alt='NKJP logo' /></div>
+            <div class='float-right'><p style='font-variant: small-caps;'>consortium</p>
+            <a href='http://www.ipipan.waw.pl'><img src='http://nkjp.pl/images/cons1.jpg' width='57' height='53' alt='IPI PAN' /></a>
+            <a href='http://www.pwn.pl'><img src='http://nkjp.pl/images/cons2.jpg' alt='PWN' width='37' height='53' /></a>
+            <a href='http://www.uni.lodz.pl'><img src='http://nkjp.pl/images/cons3.jpg' alt='UŁ' width='56' height='53' /></a>
+            <a href='http://www.ijp-pan.krakow.pl'><img src='http://nkjp.pl/images/cons4.jpg' alt='IJP PAN' width='75' height='53' /></a>
+            </div>
+            <div class='float-center'>
+                <img src='http://nkjp.pl/images/nkjp_en.jpg' width='[nkjp-logo-width]' height='[nkjp-logo-height]'
+                alt='National Corpus of Polish' />
+            </div>
+        </div>
+        <div id='main'>
+            <h1>Poliqarp search engine for NKJP data</h1>
+            <div id='menu'>
+                <ul>
+                    <li><a href='/poliqarp/nkjp1800/' class='selected'>Query</a></li>
+                    <li><a href='/poliqarp/settings/'>Settings</a></li>
+                    <li><a href='http://poliqarp.sf.net/bugs/'>File a bug</a></li>
+                    <li><a href='/poliqarp/help/'>Help</a></li>
+                </ul>
+            </div>
+            <div id='content'>
+                
+
+<p>
+    Searching corpus, please wait…
+    This page will <a href='/poliqarp/nkjp1800/query/'>refresh</a> automatically in a second.
+</p>
+
+
+<div id='progress-bar'><div style='width: 10%;' id='progress'></div><div id='progress-text'>10%</div></div>
+
+
+
+            </div>
+            <div class='clear'></div>
+            <div id='wide-content'>
+                
+                
+            </div>
+        </div>
+    </div>
+
+    <div id='footer'>
+        <div class='float-left'><img src='http://nkjp.pl/images/nkjp_logo_small.jpg' alt='NKJP' /></div>
+        <div class='float-center'>
+            <div>© Narodowy Korpus Języka Polskiego 2008-2010</div>
+            <div>Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.</div>
+        </div>
+        <div class='clear'></div>
+    </div>
+
+</body>
+
+</html>
+
+

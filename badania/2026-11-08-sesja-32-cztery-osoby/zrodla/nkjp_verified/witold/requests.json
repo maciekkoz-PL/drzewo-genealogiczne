@@ -1,0 +1,64 @@
+[
+  {
+    "tag": "start",
+    "url": "https://nkjp.pl/poliqarp/",
+    "params": null,
+    "utc": "2026-11-08T02:32:47.467812+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "tag": "settings",
+    "url": "https://nkjp.pl/poliqarp/settings/",
+    "params": {
+      "random_sample_size": "100",
+      "show_in_match": "s",
+      "show_in_context": "s",
+      "left_context_width": "20",
+      "right_context_width": "20",
+      "wide_context_width": "150",
+      "results_per_page": "100",
+      "next": ""
+    },
+    "utc": "2026-11-08T02:32:47.746633+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/settings/",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "tag": "submit0",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Witold.*\"] [orth=\"Chmielewsk.*\"] meta source=\"Dziennik Łódzki\"",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:32:47.976984+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:33:21.881063+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4114,
+    "sha256": "cbeb8988a1616f8eb2a3920fffd302688095d520ffe8325e3297667061d49a08"
+  },
+  {
+    "tag": "poll0_1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:33:28.318823+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6982,
+    "sha256": "709d97cd1bb4ece7e7a7911143c013f74f56470d61071bb0ab325ecf95093d22"
+  }
+]

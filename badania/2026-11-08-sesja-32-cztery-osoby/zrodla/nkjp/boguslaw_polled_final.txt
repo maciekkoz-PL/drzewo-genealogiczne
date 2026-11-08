@@ -1,0 +1,86 @@
+Poliqarp search engine for NKJP data
+Polish
+English
+consortium
+Poliqarp search engine for NKJP data
+Query
+Settings
+File a bug
+Help
+Query:
+ą
+ć
+ę
+ł
+ń
+ó
+ś
+ż
+ź
+Ą
+Ć
+Ę
+Ł
+Ń
+Ó
+Ś
+Ż
+Ź
+Corpus:
+balanced NKJP subcorpus (300M segments)
+the full NKJP corpus (1800M segments)
+manually annotated corpus v1.2 (1.2M segments)
+the full IPI PAN Corpus (2nd edition; 250M segments)
+the IPI PAN Corpus sample (2nd edition; 30M segments)
+the Frequency Dictionary Corpus (0.5M segments)
+Results
+Found 11 results
+Displaying results 1—10
+Next 1
+1.
+: jest bardzo kolorowy zachwala
+Bogusław [Bogusław:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, kierownik sekcji utrzymania zieleni
+2.
+Są tutaj i lisy opowiada
+Bogusław [Bogusław:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+. Można też spotkać zająca
+3.
+metoda ratowania drzew - mówi
+Bogusław [Bogusława:subst:pl:gen:f] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, kierownik sekcji utrzymania zieleni
+4.
+razy w roku - mówi
+Bogusław [Bogusława:subst:pl:gen:f] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, kierownik sekcji utrzymania zieleni
+5.
+Szczęsna; w Sypniewie -
+Bogusława [Bogusław:subst:sg:gen:m1] Chmielewska [Chmielewska:subst:sg:nom:f]
+(dyrektor) i Irena
+6.
+. A owe gratyfikacje otrzymali
+Bogusław [Bogusława:subst:pl:gen:f] Chmielewski [Chmielewski:subst:sg:nom:m1]
+i Stanisław Nowicki (dyrektorzy
+7.
+, a głównie jej dyrektor
+Bogusława [Bogusław:subst:sg:gen:m1] Chmielewska [Chmielewska:subst:sg:nom:f]
+i bardzo zaangażowany w pracę
+8.
+Dyrektor szkoły w Sypniewie,
+Bogusława [Bogusław:subst:sg:gen:m1] Chmielewska [Chmielewska:subst:sg:nom:f]
+, która mimo zimna,
+9.
+po wakacjach. – powiedział
+Bogusław [Bogusława:subst:pl:gen:f] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, zastępca dyrektora teatru.
+10.
+już się rozpoczął - mówi
+Bogusław [Bogusława:subst:pl:gen:f] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, prezes "Społem"
+Next 1
+Export
+Format:
+HTML
+Excel
+© Narodowy Korpus Języka Polskiego 2008-2010
+Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.

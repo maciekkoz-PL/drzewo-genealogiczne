@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+<input type="hidden" name="pageName" value="sucheresult" id="pageName"/>
+
+<div class="data-panel-header">
+    <div class="content-header-first-row">
+        <div class="page-tools">
+            <div class="language-select language-suche">
+                <ul class="cf">
+                    <li>&nbsp;</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="content-title">
+            <h1>
+                Einfache Suche: Trefferliste
+            </h1>
+        </div>
+    </div>
+    <div class="content-header-second-row">
+
+    <div class="content-header-navigation">
+       <form id="headerPagingForm" name="headerPagingForm" action="/arcinsys/recherchePagingSelect.action" method="get">
+            <input type="hidden" name="_csrf" value="60d077bf-6707-4a21-82fd-ce9df8cbba05"/>
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=1" class="pagingLinks" id="pId1">
+                  
+                    <img id="pagingtestid1" src="/arcinsys/images/aktion_first_w.png" />&nbsp;&nbsp;
+                  
+                  
+                  
+                  
+                </span>
+              
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=1" class="pagingLinks" id="pId2">
+                  
+                  
+                    <img id="pagingtestid2"    src="/arcinsys/images/aktion_prev_w.png" />&nbsp;&nbsp;
+                  
+                  
+                  
+                </span>
+              
+                <span class="formfieldset"><input type="text" name="pageposition" size="6" maxlength="6" value="2" id="pageposition" style="width: 50px"/>
+                <button id="formSubmitButton2"  title="Seite 2 von 2">  / 2 </button></span>
+              
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=2" class="pagingLinks" id="pId3">
+                  
+                  
+                  
+                    <img id="pagingtestid3" src="/arcinsys/images/aktion_next_w.png" />&nbsp;&nbsp;
+                  
+                  
+                </span>
+              
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=2" class="pagingLinks" id="pId4">
+                  
+                  
+                  
+                  
+                    <img id="pagingtestid4" src="/arcinsys/images/aktion_last_w.png" />&nbsp;&nbsp;
+                  
+                </span>
+              
+            
+       </form>
+
+
+
+    </div>
+    <div class="content-tools">
+            <ul class="cf">
+                
+                
+                    <li>&nbsp;</li>
+                
+            </ul>
+    </div>
+    </div>
+</div>
+<form id="testID" name="testID" action="/arcinsys/recherchePaging.action" method="post">
+
+<div class="data-panel-table-header" style="display: none;">
+    <table class="listTable" id="fixedThead">
+
+    </table>
+</div>
+
+    <input type="hidden" name="sprache" value="de_DE" id="testID_sprache"/>
+    <div class="data-panel-content">
+        <p></p>
+        <div id="sucheClickDiv" style="float: left;" class="sucheClickSmall">
+            <a id="sucheClick" onclick="" href="#"> <img  id="suchfrageshowid" src="/arcinsys/images/aktion_aufklappen_gray_20.png" />
+            </a>
+        </div>
+
+        <div id="sucheInfo" class="searchResultSmall" style="margin-left: 30px;">
+
+            <table>
+                <tr>
+                    <td valign="top">Suchanfrage:</td>
+                    <td>Chmielewski</td>
+                <tr>
+                    <td valign="top"></td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td valign="top">Suchbereich:</td>
+                    <td>alle Archive und Bestände</td>
+                </tr>
+                <tr>
+                    <td valign="top"></td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td valign="top"></td>
+                    <td></td>
+                 </tr>
+            </table>
+
+        </div>
+
+        <p></p>
+
+        
+        <div class="ui-state-highlight ui-corner-all msgClass ">
+            <p>
+                <span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+                Ihre Suche ergab
+                <b>21</b>
+                Treffer
+                .
+            </p>
+        </div>
+        
+
+        
+            
+        
+        
+            
+        
+
+        
+            
+        
+        
+            
+        
+
+        
+            
+        
+        
+            
+        
+
+        <table class="listTable" id="tableScrollThead">
+            <thead class="listThead">
+                <tr>
+                    <th class="head-cell cell-type">Typ</th>
+                    <th class="head-cell cell-signature">Signatur&nbsp;&nbsp;
+                        
+                            <span data-href="/arcinsys/sortResultList.action?sorting=11" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-auf_white_16x16.png" />
+                                
+                            </span>
+
+                            <span data-href="/arcinsys/sortResultList.action?sorting=10" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-ab_white_16x16.png" />
+                                
+                            </span>
+                        
+                    </th>
+                    <th class="head-cell cell-label">Bezeichnung
+                        
+                            <span data-href="/arcinsys/sortResultList.action?sorting=21" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-auf_white_16x16.png" />
+                                
+                            </span>
+                            <span data-href="/arcinsys/sortResultList.action?sorting=20" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-ab_white_16x16.png" />
+                                
+                            </span>
+                        
+                    </th>
+                    <th class="head-cell cell-term">Laufzeit
+                        
+                            <span data-href="/arcinsys/sortResultList.action?sorting=31" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-auf_white_16x16.png" />
+                                
+                            </span>
+
+                            <span data-href="/arcinsys/sortResultList.action?sorting=30" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-ab_white_16x16.png" />
+                                
+                            </span>
+                        
+                    </th>
+                    <th class="head-cell cell-info">Information</th>
+                    <th class="head-cell cell-actions" colspan="2">Aktion</th>
+                </tr>
+
+            </thead>
+            <tbody>
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Sachakte"
+                        title="Sachakte" /></td>
+                    <td class="cell cell-signature">UniA Marburg, 307 c, 3324</td>
+                    <td class="cell cell-label">Promotionen der medizinischen Fakult&auml;t 1937, Dekanat Klapp Bd. Zahn&auml;rzte V</td>
+                    <td class="cell cell-term">1937 - 1937</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v155168&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_0' type="hidden" name="hiddenkey999" value="v155168_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_0" href="javascript:void(0)" onclick="setEventId(0)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_0 = {};
+	options_maktiv_0.jqueryaction = "anchor";
+	options_maktiv_0.id = "maktiv_0";
+	options_maktiv_0.onsuc = "handleJsonResultMerken";
+	options_maktiv_0.targets = "linkmerken_0";
+	options_maktiv_0.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_0.hrefparameter = "id=v155168&_csrf=60d077bf-6707-4a21-82fd-ce9df8cbba05";
+	options_maktiv_0.formids = "resultForm,testID";
+	options_maktiv_0.datatype = "json";
+	options_maktiv_0.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_0'),options_maktiv_0);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv155168" class="row-preview">
+                <td colspan="7">
+                     verz155168<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>UniA Marburg, 307 c, 3324</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Sachakte</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Promotionen der medizinischen Fakultät 1937, Dekanat Klapp Bd. Zahnärzte V </span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1937 </span><br><span class="dhelperClass"><b style="color:#777777">Alte Archivsignatur: </b> Acc. 1950/10 Nr. 149 </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Curt Riemann aus Finsterwalde (N/L.), geb. 13.05.1907, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Erwin Henke aus Schwerte (Wf.), geb. 05.09.1909, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Heinrich Rudolph aus Rotenburg/Fulda, geb. 28.01.1911, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Wernen Haberland aus Namslau (Schlesien), geb. 06.01.1912, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Edith Gunia aus Salusken (Ostpr.), geb. 26.07.1912, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Heinrich Schäfer aus Sandberg (Krs. Fulda), geb. 26.01.1912, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Walter Petersen aus Rendsburg, geb. 10.09.1911, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Konrad Paul aus Frankfurt/M.-Sindlingen, geb. 15.04.1912, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Konrad Schäfer aus Heskem (Krs. Marburg), geb. 16.04.1904, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Heinrich Griese aus Bad Salzuflen, geb. 06.07.1910, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Bruno Lorra aus Gelsenkirchen, geb. 25.12.1910, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Rudolf Euler aus Düsseldorf-Oberkassel, geb. 17.10.1910, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Aenne Ternus aus Koblenz, geb. 04.09.1909, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Hans Gronemeyer aus Burg (Dillkreis), geb. 12.10.1912, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Wilhelm Heinrich Sturm aus Fulda, geb. 14.02.1911, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Friedrich Städe aus Korbach, geb. 07.01.1911, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Werner Spier aus Verden/Aller, geb. 02.02.1914, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Oskar Johannsen aus Langelohe (Holstein), geb. 20.07.1913, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Hedwig Esser aus Rheindahlen, geb. 24.08.1912, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Fritz Hainer aus Hohensolms (Krs. Wetzlar), geb. 27.08.1912, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Heinz Nord aus Bockenem (Harz), geb. 19.05.1909, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Georg Delijski aus Trevna (Bulgarien), geb. 12.08.1904, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Rudolf Buismann aus Jarssum, geb. 28.07.1911, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Artur Brünger aus Herford (Wf.), geb. 20.10.1911, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Kurt Walther aus Steinbach-Hallenberg (Thü.), geb. 17.08.1913, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Otto Kehl aus Oberrosphe (Krs. Marburg), geb. 04.06.1908, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Fritz Mohr aus Sinnertal/Saar, geb. 07.06.1913, mit Diss. </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Hans <span class="s-hl">Chmielewski </span>aus Riedsheim (Els.), geb....</span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Willi Hanstein aus Wiesbaden-Biebrich, geb. 27.09.1907, mit Diss. </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v155168" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_0' onclick='cleanMsg("errorID_0")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_0' onclick='cleanMsg("merkenerrorID_0")' ></span> </td>
+                </tr>
+
+
+            
+            </tbody>
+        </table>
+    </div>
+   </form>
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+<div id="merkenMsg_container">
+    <div class="merkenMsgClosebutton">
+        <button onclick="$('#merkenMsg_container').hide();" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close">
+            <span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span>
+            <span class="ui-button-text">close</span>
+        </button>
+    </div>
+    <div id="merkenMsg"></div>
+
+    
+        <div class="merkenMsgButtonrow ui-helper-clearfix">
+            <div>
+                <p>Möchten Sie jetzt bestellen?</p>
+            </div>
+            <div>
+                <a class="linkToButtonGrey" href="#" onclick="$('#merkenMsg_container').hide();">Nein, später</a>
+                <a class="linkToButtonBlue" href="/arcinsys/nutzer/merkzettel.action?showContinueMessage=true" >Ja, bestellen</a>
+            </div>
+        </div>
+    
+ </div>
+ <script type="text/javascript">
+ $(function() {
+   //
+   $('#merkenMsg_container').subscribe('merkenComplete', merkenShowDialog, [], false);
+   //
+ });
+</script>
+

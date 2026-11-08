@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en'>
+
+<head>
+    <link rel="icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <title>Poliqarp search engine for NKJP data</title>
+    <link rel='icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <link rel='shortcut icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.bgiframe.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.delegate.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.dimensions.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.tooltip.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/default.js'></script>
+    <link rel='stylesheet' href='/poliqarp/css/default.css' type='text/css' />
+    <link rel='stylesheet' href='/poliqarp/css/print.css' type='text/css' media='print' />
+    
+    
+</head>
+
+<body>
+    <div id='language-selection'>
+        <form action='/poliqarp/i18n/set-language/' method='post'>
+        <select name='language'>
+        
+        <option value='pl'>Polish</option>
+        
+        <option value='en' selected='selected'>English</option>
+        
+        </select>
+        <input type='submit' value='Change' />
+        </form>
+    </div>
+    <div id='all'>
+        <div id='banners'>
+            <div class='float-left'><img src='http://nkjp.pl/images/NKJP-logo1.jpg' width='216' height='102' alt='NKJP logo' /></div>
+            <div class='float-right'><p style='font-variant: small-caps;'>consortium</p>
+            <a href='http://www.ipipan.waw.pl'><img src='http://nkjp.pl/images/cons1.jpg' width='57' height='53' alt='IPI PAN' /></a>
+            <a href='http://www.pwn.pl'><img src='http://nkjp.pl/images/cons2.jpg' alt='PWN' width='37' height='53' /></a>
+            <a href='http://www.uni.lodz.pl'><img src='http://nkjp.pl/images/cons3.jpg' alt='UŁ' width='56' height='53' /></a>
+            <a href='http://www.ijp-pan.krakow.pl'><img src='http://nkjp.pl/images/cons4.jpg' alt='IJP PAN' width='75' height='53' /></a>
+            </div>
+            <div class='float-center'>
+                <img src='http://nkjp.pl/images/nkjp_en.jpg' width='[nkjp-logo-width]' height='[nkjp-logo-height]'
+                alt='National Corpus of Polish' />
+            </div>
+        </div>
+        <div id='main'>
+            <h1>Poliqarp search engine for NKJP data</h1>
+            <div id='menu'>
+                <ul>
+                    <li><a href='/poliqarp/nkjp1800/' class='selected'>Query</a></li>
+                    <li><a href='/poliqarp/settings/'>Settings</a></li>
+                    <li><a href='http://poliqarp.sf.net/bugs/'>File a bug</a></li>
+                    <li><a href='/poliqarp/help/'>Help</a></li>
+                </ul>
+            </div>
+            <div id='content'>
+                
+
+
+
+<div class='query-form'>
+    <form action='/poliqarp/query/' method='post'>
+        <p><label for="id_query">Query:</label> <input id="id_query" type="text" name="query" value="[orth=&quot;Witold.*&quot;] [orth=&quot;Chmielewsk.*&quot;]" maxlength="1000" /></p>
+            
+            <p class='alphabet-helper'>
+                <span>ą</span>
+                <span>ć</span>
+                <span>ę</span>
+                <span>ł</span>
+                <span>ń</span>
+                <span>ó</span>
+                <span>ś</span>
+                <span>ż</span>
+                <span>ź</span>
+                <span>Ą</span>
+                <span>Ć</span>
+                <span>Ę</span>
+                <span>Ł</span>
+                <span>Ń</span>
+                <span>Ó</span>
+                <span>Ś</span>
+                <span>Ż</span>
+                <span>Ź</span>
+            </p>
+            
+        </div>
+        <p>
+            Corpus:
+            <select name='corpus'>
+            
+            
+                
+                    <option value='nkjp300'>balanced NKJP subcorpus (300M segments)</option>
+                
+            
+            
+            
+                
+            
+            
+            
+                <option value='nkjp1800' selected='selected'>the full NKJP corpus (1800M segments)</option>
+            
+            
+            
+                
+                    <option value='nkjp1M'>manually annotated corpus v1.2 (1.2M segments)</option>
+                
+            
+            
+            
+                
+                    <option value='ipi250'>the full IPI PAN Corpus (2nd edition; 250M segments)</option>
+                
+            
+            
+            
+                
+                    <option value='ipi030'>the IPI PAN Corpus sample (2nd edition; 30M segments)</option>
+                
+            
+            
+            
+                
+                    <option value='frequency-dictionary'>the Frequency Dictionary Corpus (0.5M segments)</option>
+                
+            
+            
+            </select>
+        </p>
+        <p>
+            <input type='submit' value='Search' />
+        </p>
+    </form>
+</div>
+
+
+
+
+
+            </div>
+            <div class='clear'></div>
+            <div id='wide-content'>
+                
+
+
+    <div class='query-results'>
+        
+            <h1>Results</h1>
+            
+
+<p>
+
+
+    Found 10 results so far
+
+
+</p>
+
+<p>
+    
+        Displaying results 1—10
+    
+</p>
+
+
+
+            
+
+
+
+<div class='clear'></div>
+
+
+
+            
+
+<table>
+
+
+    <tr class='even'>
+        <th><a href='/poliqarp/nkjp1800/query/0/' rel='m0'>1</a>.</th>
+        
+            <td class='left'>
+                <span title=' os [osa:subst:pl:gen:f]'> os</span><span title='. [.:interp]'>.</span><span title=' Wschód [wschód:subst:sg:nom:m3]'> Wschód</span><span title='. [.:interp]'>.</span><span title=' Ksiądz [ksiądz:subst:sg:nom:m1]'> Ksiądz</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witold [Witold:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/0/'><strong> Witold</strong> [Witold:subst:sg:nom:m1]</a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/0/'><strong> Chmielewski</strong> [Chmielewski:subst:sg:nom:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=', [,:interp]'>,</span><span title=' proboszcz [proboszcz:subst:sg:nom:m1]'> proboszcz</span><span title=' parafii [parafia:subst:sg:gen:f]'> parafii</span><span title=', [,:interp]'>,</span><span title=' zamierza [zamierzać:fin:sg:ter:imperf]'> zamierza</span>
+            </td>
+        
+    </tr>
+
+    <tr class='odd'>
+        <th><a href='/poliqarp/nkjp1800/query/1/' rel='m1'>2</a>.</th>
+        
+            <td class='left'>
+                <span title=' którą [który:adj:sg:acc:f:pos]'> którą</span><span title=' poprowadził [poprowadzić:praet:sg:m1:perf]'> poprowadził</span><span title=' ks [ksiądz:brev:pun]'> ks</span><span title='. [.:interp]'>.</span><span title=' proboszcz [proboszcz:subst:sg:nom:m1]'> proboszcz</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witold [Witold:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/1/'><strong> Witold</strong> [Witold:subst:sg:nom:m1]</a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/1/'><strong> Chmielewski</strong> [Chmielewski:subst:sg:nom:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title='. [.:interp]'>.</span><span title=' Potem [potem:adv]'> Potem</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' sali [sala:subst:sg:loc:f]'> sali</span><span title=' restauracji [restauracja:subst:sg:gen:f]'> restauracji</span>
+            </td>
+        
+    </tr>
+
+    <tr class='even'>
+        <th><a href='/poliqarp/nkjp1800/query/2/' rel='m2'>3</a>.</th>
+        
+            <td class='left'>
+                <span title=' którą [który:adj:sg:acc:f:pos]'> którą</span><span title=' celebrować [celebrować:inf:imperf]'> celebrować</span><span title=' mają [mieć:fin:pl:ter:imperf]'> mają</span><span title=' księża [ksiądz:subst:pl:nom:m1]'> księża</span><span title=': [::interp]'>:</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witold [Witold:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/2/'><strong> Witold</strong> [Witold:subst:sg:nom:m1]</a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/2/'><strong> Chmielewski</strong> [Chmielewski:subst:sg:nom:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=', [,:interp]'>,</span><span title=' Piotr [Piotr:subst:sg:nom:m1]'> Piotr</span><span title=' Kalinowski [Kalinowski:subst:sg:nom:m1]'> Kalinowski</span><span title=' oraz [oraz:conj]'> oraz</span><span title=' Eugeniusz [Eugeniusz:subst:sg:nom:m1]'> Eugeniusz</span>
+            </td>
+        
+    </tr>
+
+    <tr class='odd'>
+        <th><a href='/poliqarp/nkjp1800/query/3/' rel='m3'>4</a>.</th>
+        
+            <td class='left'>
+                <span title=' kandydatów [kandydat:subst:pl:gen:m1]'> kandydatów</span><span title=' na [na:prep:acc]'> na</span><span title=' jego [on:ppron3:sg:gen:m1:ter:akc:npraep]'> jego</span><span title=' następcę [następca:subst:sg:acc:m1]'> następcę</span><span title=' - [-:interp]'> -</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witolda [Witold:subst:sg:gen:m1]'><a href='/poliqarp/nkjp1800/query/3/'><strong> Witolda</strong> [Witold:subst:sg:gen:m1]</a></span><span title=' Chmielewskiego [Chmielewski:subst:sg:gen:m1]'><a href='/poliqarp/nkjp1800/query/3/'><strong> Chmielewskiego</strong> [Chmielewski:subst:sg:gen:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=' z [z:prep:gen:nwok]'> z</span><span title=' parafii [parafia:subst:sg:gen:f]'> parafii</span><span title=' pw [PW:subst:sg:nom:f]'> pw</span><span title=' błog [błog:ign]'> błog</span><span title='. [.:interp]'>.</span>
+            </td>
+        
+    </tr>
+
+    <tr class='even'>
+        <th><a href='/poliqarp/nkjp1800/query/4/' rel='m4'>5</a>.</th>
+        
+            <td class='left'>
+                <span title=' kultury [kultura:subst:sg:gen:f]'> kultury</span><span title=' lokalnej [lokalny:adj:sg:gen:f:pos]'> lokalnej</span><span title=' przygotowaną [przygotować:ppas:sg:acc:f:perf:aff]'> przygotowaną</span><span title=' przez [przez:prep:acc:nwok]'> przez</span><span title=' profesora [profesor:subst:sg:gen:m1]'> profesora</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witolda [Witold:subst:sg:gen:m1]'><a href='/poliqarp/nkjp1800/query/4/'><strong> Witolda</strong> [Witold:subst:sg:gen:m1]</a></span><span title=' Chmielewskiego [Chmielewski:subst:sg:gen:m1]'><a href='/poliqarp/nkjp1800/query/4/'><strong> Chmielewskiego</strong> [Chmielewski:subst:sg:gen:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title='. [.:interp]'>.</span>
+            </td>
+        
+    </tr>
+
+    <tr class='odd'>
+        <th><a href='/poliqarp/nkjp1800/query/5/' rel='m5'>6</a>.</th>
+        
+            <td class='left'>
+                <span title=' gości [gość:subst:pl:gen:m1]'> gości</span><span title=' serdecznie [serdecznie:adv:pos]'> serdecznie</span><span title=' powitał [powitać:praet:sg:m1:perf]'> powitał</span><span title=' ksiądz [ksiądz:subst:sg:nom:m1]'> ksiądz</span><span title=' proboszcz [proboszcz:subst:sg:nom:m1]'> proboszcz</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witold [Witold:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/5/'><strong> Witold</strong> [Witold:subst:sg:nom:m1]</a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/5/'><strong> Chmielewski</strong> [Chmielewski:subst:sg:nom:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=', [,:interp]'>,</span><span title=' który [który:adj:sg:nom:m1:pos]'> który</span><span title=' przypomniał [przypomnieć:praet:sg:m1:perf]'> przypomniał</span><span title=' historię [historia:subst:sg:acc:f]'> historię</span><span title=' najmłodszej [młody:adj:sg:gen:f:sup]'> najmłodszej</span>
+            </td>
+        
+    </tr>
+
+    <tr class='even'>
+        <th><a href='/poliqarp/nkjp1800/query/6/' rel='m6'>7</a>.</th>
+        
+            <td class='left'>
+                <span title=' temu [temu:prep:acc]'> temu</span><span title=' gospodarzem [gospodarz:subst:sg:inst:m1]'> gospodarzem</span><span title=' parafii [parafia:subst:sg:gen:f]'> parafii</span><span title=' został [zostać:praet:sg:m1:perf]'> został</span><span title=' ksiądz [ksiądz:subst:sg:nom:m1]'> ksiądz</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witold [Witold:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/6/'><strong> Witold</strong> [Witold:subst:sg:nom:m1]</a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/6/'><strong> Chmielewski</strong> [Chmielewski:subst:sg:nom:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=', [,:interp]'>,</span><span title=' który [który:adj:sg:nom:m1:pos]'> który</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' rok [rok:subst:sg:acc:m3]'> rok</span><span title=' później [późno:adv:com]'> później</span>
+            </td>
+        
+    </tr>
+
+    <tr class='odd'>
+        <th><a href='/poliqarp/nkjp1800/query/7/' rel='m7'>8</a>.</th>
+        
+            <td class='left'>
+                <span title=' kanonik [kanonika:subst:pl:gen:f]'> kanonik</span><span title=' Andrzej [Andrzej:subst:sg:nom:m1]'> Andrzej</span><span title=' Rygielski [Rygielski:ign]'> Rygielski</span><span title=', [,:interp]'>,</span><span title=' ksiądz [ksiądz:subst:sg:nom:m1]'> ksiądz</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witold [Witold:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/7/'><strong> Witold</strong> [Witold:subst:sg:nom:m1]</a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/7/'><strong> Chmielewski</strong> [Chmielewski:subst:sg:nom:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=', [,:interp]'>,</span><span title=' burmistrz [burmistrz:subst:sg:nom:m1]'> burmistrz</span><span title=' miasta [miasto:subst:sg:gen:n]'> miasta</span><span title=' Wągrowca [Wągrowca:ign]'> Wągrowca</span><span title=' Stanisław [Stanisław:subst:sg:nom:m1]'> Stanisław</span>
+            </td>
+        
+    </tr>
+
+    <tr class='even'>
+        <th><a href='/poliqarp/nkjp1800/query/8/' rel='m8'>9</a>.</th>
+        
+            <td class='left'>
+                <span title='. [.:interp]'>.</span><span title=' Według [według:prep:gen]'> Według</span><span title=' oceny [ocena:subst:sg:gen:f]'> oceny</span><span title=' proboszcza [proboszcz:subst:sg:gen:m1]'> proboszcza</span><span title=' księdza [ksiądz:subst:sg:gen:m1]'> księdza</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witolda [Witold:subst:sg:gen:m1]'><a href='/poliqarp/nkjp1800/query/8/'><strong> Witolda</strong> [Witold:subst:sg:gen:m1]</a></span><span title=' Chmielewskiego [Chmielewski:subst:sg:gen:m1]'><a href='/poliqarp/nkjp1800/query/8/'><strong> Chmielewskiego</strong> [Chmielewski:subst:sg:gen:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=', [,:interp]'>,</span><span title=' by [by:qub]'> by</span><span title=' zamknąć [zamknąć:inf:perf]'> zamknąć</span><span title=' stan [stan:subst:sg:acc:m3]'> stan</span><span title=' surowy [surowy:adj:sg:nom:m1:pos]'> surowy</span>
+            </td>
+        
+    </tr>
+
+    <tr class='odd'>
+        <th><a href='/poliqarp/nkjp1800/query/9/' rel='m9'>10</a>.</th>
+        
+            <td class='left'>
+                <span title=', [,:interp]'>,</span><span title=' którą [który:adj:sg:acc:f:pos]'> którą</span><span title=' poprowadził [poprowadzić:praet:sg:m1:perf]'> poprowadził</span><span title=' ksiądz [ksiądz:subst:sg:nom:m1]'> ksiądz</span><span title=' proboszcz [proboszcz:subst:sg:nom:m1]'> proboszcz</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Witold [Witold:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/9/'><strong> Witold</strong> [Witold:subst:sg:nom:m1]</a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/9/'><strong> Chmielewski</strong> [Chmielewski:subst:sg:nom:m1]</a></span>
+            </td>
+        
+            <td class='right'>
+                <span title='. [.:interp]'>.</span><span title=' W [w:prep:loc:nwok]'> W</span><span title=' holu [hol:subst:sg:gen:m3]'> holu</span><span title=' kina [kino:subst:sg:gen:n]'> kina</span><span title=' Miejskiego [miejski:adj:sg:gen:m3:pos]'> Miejskiego</span>
+            </td>
+        
+    </tr>
+
+
+</table>
+
+
+
+            
+
+
+
+<div class='clear'></div>
+
+
+
+        
+        
+        
+        
+            
+        
+    </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <div id='footer'>
+        <div class='float-left'><img src='http://nkjp.pl/images/nkjp_logo_small.jpg' alt='NKJP' /></div>
+        <div class='float-center'>
+            <div>© Narodowy Korpus Języka Polskiego 2008-2010</div>
+            <div>Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.</div>
+        </div>
+        <div class='clear'></div>
+    </div>
+
+</body>
+
+</html>
+
+

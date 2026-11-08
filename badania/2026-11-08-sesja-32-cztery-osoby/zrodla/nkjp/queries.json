@@ -1,0 +1,58 @@
+[
+  {
+    "key": "start",
+    "url": "https://nkjp.pl/poliqarp/",
+    "params": null,
+    "access_utc": "2026-11-08T02:25:04.249824+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "key": "help",
+    "url": "https://nkjp.pl/poliqarp/help/",
+    "params": null,
+    "access_utc": "2026-11-08T02:25:05.999607+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/help/en.html",
+    "bytes": 2665,
+    "sha256": "c30cd245277b0ae6d1fb6adca80eb90e0a19ef6eb9a6f11220e36fb13f048828"
+  },
+  {
+    "key": "tomasz",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Tomasz.*\"] [orth=\"Chmielewsk.*\"]",
+      "corpus": "nkjp1800"
+    },
+    "access_utc": "2026-11-08T02:25:08.860783+00:00",
+    "error": "The read operation timed out"
+  },
+  {
+    "key": "boguslaw",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Bogusław.*\"] [orth=\"Chmielewsk.*\"]",
+      "corpus": "nkjp1800"
+    },
+    "access_utc": "2026-11-08T02:25:45.722049+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4223,
+    "sha256": "fca3a9b1b9e06ee8920172dab149bad49b9b59eb58b559da71d84d089641bb13"
+  },
+  {
+    "key": "witold",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Witold.*\"] [orth=\"Chmielewsk.*\"]",
+      "corpus": "nkjp1800"
+    },
+    "access_utc": "2026-11-08T02:26:22.408396+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4223,
+    "sha256": "d826d27b6dad261a7dc833b7831ad8cf1c8f184775476b74dcf8d87970981a6c"
+  }
+]

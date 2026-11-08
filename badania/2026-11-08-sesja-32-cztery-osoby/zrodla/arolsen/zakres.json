@@ -1,0 +1,58 @@
+{
+  "query": "Chmielewski",
+  "synSearch": true,
+  "count": 4773,
+  "downloaded_rows": 4773,
+  "pages": [
+    {
+      "rowNum": 0,
+      "rows": 1000,
+      "first": 87877661,
+      "last": 87802383,
+      "Counter_is_local": true
+    },
+    {
+      "rowNum": 1000,
+      "rows": 1000,
+      "first": 87802383,
+      "last": 70249197,
+      "Counter_is_local": true
+    },
+    {
+      "rowNum": 2000,
+      "rows": 1000,
+      "first": 70249379,
+      "last": 78633679,
+      "Counter_is_local": true
+    },
+    {
+      "rowNum": 3000,
+      "rows": 1000,
+      "first": 78633688,
+      "last": 66782867,
+      "Counter_is_local": true
+    },
+    {
+      "rowNum": 4000,
+      "rows": 773,
+      "first": 66782868,
+      "last": 130440173,
+      "Counter_is_local": true
+    }
+  ],
+  "criterion": "Nazwisko+warianty, filtr dat/miejsc/rodziców. Indeks ma tylko 10 wierszy z polem Father, z patronimikami cyrylickimi; żadnego Czesława/Janiny Poprawki. Nie jest to 4773 odrębnych osób ani odczyt 4773 skanów.",
+  "same_1909_documents": [
+    70380976,
+    70381403,
+    70431406,
+    70380716,
+    70381086
+  ],
+  "already_read_1909_sources": "S075–S077, nie nowe dokumenty rodziny",
+  "new_scan_reads": [
+    70592196,
+    69969056,
+    69969547
+  ],
+  "new_family_relationships": 0
+}

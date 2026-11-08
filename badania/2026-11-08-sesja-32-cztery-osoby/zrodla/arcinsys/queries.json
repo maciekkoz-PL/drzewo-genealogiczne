@@ -1,0 +1,38 @@
+[
+  {
+    "query": "Chmielewski",
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmielewski&rechercheBean.defaultfield_widget=Chmielewski&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "utc": "2026-11-08T02:27:17.149698+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmielewski&rechercheBean.defaultfield_widget=Chmielewski&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 105850,
+    "sha256": "3179189fd1e3f4df299283e56a85c6f9151ea98a9f26417934c7d23d2bbc31ae"
+  },
+  {
+    "query": "Chmielowski",
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmielowski&rechercheBean.defaultfield_widget=Chmielowski&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "utc": "2026-11-08T02:27:18.664948+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmielowski&rechercheBean.defaultfield_widget=Chmielowski&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 25284,
+    "sha256": "22f3460bb3a8b759545492f85aec6a78b1c2dacd7cda54f3be577e5484ee66b4"
+  },
+  {
+    "query": "Caßdorf",
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Ca%C3%9Fdorf&rechercheBean.defaultfield_widget=Ca%C3%9Fdorf&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "utc": "2026-11-08T02:27:19.433366+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Ca%C3%9Fdorf&rechercheBean.defaultfield_widget=Ca%C3%9Fdorf&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 84047,
+    "sha256": "d978fb0cbcd0f2505f2e7dc1a30ee8345b9c9dd6ccfdc0cbf80cd5fd033f79a5"
+  },
+  {
+    "query": "\"Homberg\" \"Ausländer\"",
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=%22Homberg%22+%22Ausl%C3%A4nder%22&rechercheBean.defaultfield_widget=%22Homberg%22+%22Ausl%C3%A4nder%22&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "utc": "2026-11-08T02:27:20.768473+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=%22Homberg%22+%22Ausl%C3%A4nder%22&rechercheBean.defaultfield_widget=%22Homberg%22+%22Ausl%C3%A4nder%22&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 96749,
+    "sha256": "9f674ef3a2c86404684d3ddcfbda793d5240d689f98c2c7bf4afdb325fd11f9a"
+  }
+]

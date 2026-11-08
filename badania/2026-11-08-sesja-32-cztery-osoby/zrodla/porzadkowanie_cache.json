@@ -1,0 +1,2879 @@
+{
+  "reason": "Brak miejsca podczas pobierania nowej księgi; usunięto tylko duplikaty i odtwarzalne, zbadane pełne skany z ignorowanego work. Nie usunięto plików Git ani źródeł wybranych.",
+  "bytes_freed": 857478802,
+  "files": [
+    {
+      "path": "work/browser_scan_25506_all_jobs/3759fa394f648b3b789efab3d16aeded5aa42657474cfcd50d464a8d7f0d5ac2_max.jpg",
+      "bytes": 1688011,
+      "sha256": "248280cc8c6308b977d44caa04264d6eae33c11d60ff0f6cd47d1591660bd474",
+      "retained": "work/s32/25506/026.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/4186e1c568608f94fe7bdfe5d8c9beb060b8b118f785c0d0de9f92c85ffb3c0e_max.jpg",
+      "bytes": 1692705,
+      "sha256": "ed9abcc09b44a7cf20043049cd332d080c0f2c20af0452176cdfb3bd922b89eb",
+      "retained": "work/s32/25506/025.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/34f4169ff3a48f6f3ec9974d0318a9a5aa517ea2ca40f18febf2ac87c7ea602b_max.jpg",
+      "bytes": 1801007,
+      "sha256": "810d41453bb323378b271820dabfa794da110a74c42d011e7f62aaa268ee2a54",
+      "retained": "work/s32/25506/019.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/29e80990eacf9bbf5bfb38395b924291f0d26d3b4bc11861d89203e542b89246_max.jpg",
+      "bytes": 1702275,
+      "sha256": "43d076d4c25ad7ebde57ee8615866109cef95b877a9bec8d024c2583d36b8d4d",
+      "retained": "work/s32/25506/038.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/1375bc840fc6307a698c76eafb805744a70accbc68abd7573e4ccb26660d489b_max.jpg",
+      "bytes": 1737722,
+      "sha256": "1cd93af3c672aecb426fa9e5ecb7857d3f2856fd271a721296a59520f2c8e4bb",
+      "retained": "work/s32/25506/007.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/ca5201bd4534281379bdd7b55e5d63c4aaeddf78f62f41b495ff6a2610e5d66e_max.jpg",
+      "bytes": 1678934,
+      "sha256": "3a07eb2a9acdab559706b2b5c15c4fb37819043f70e533a88417c78b637c6ab1",
+      "retained": "work/s32/25506/040.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/1501c428e0ea30cc1d01cd5df886a920f53ccec4f2ccc354f7602d0b4749a3df_max.jpg",
+      "bytes": 1725002,
+      "sha256": "57dde5ca5a0ee1311fc2f456dce22b38a842ed033a9a9188a1b285208b4da256",
+      "retained": "work/s32/25506/018.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/6b5a96be77b83f2b89f6ee35c4a22ca7369a2342e66af2e654611d9a10752754_max.jpg",
+      "bytes": 1716158,
+      "sha256": "b500e074b49e6283cb9561a3aab6ce7cef84d337889f4333898f7cba1e6919ce",
+      "retained": "work/s32/25506/036.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/7af33d4e8214a247b0cae154b38e1f95dceb2a2a348813bc53548616a7b331fa_max.jpg",
+      "bytes": 1663357,
+      "sha256": "1ebd7210e7a22b569963dea3211605eaccf416bd68b6cd0044434d2500eaf19f",
+      "retained": "work/s32/25506/027.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/fe766123f8bb7d76a4692ca53ce8c8d745256f5f0265e8c3fb72bb50ddfb95b7_max.jpg",
+      "bytes": 1783551,
+      "sha256": "e80100354d902179d48fef30a81852e5885a89479af7788e9eb4e5376432c762",
+      "retained": "work/s32/25506/015.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/3217d177c7e14e6e6c4b65a8ad18395c58a14ff17da9e5358d656a644daca445_max.jpg",
+      "bytes": 1727266,
+      "sha256": "de99f380f1259c3596b80871f4b0b100404ca9afd7c94e8a95084500b94da234",
+      "retained": "work/s32/25506/017.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/ea57a68dbc81d58200394cd14cb89fa5afc3489a2ea92216a3ad52ca94de387d_max.jpg",
+      "bytes": 1686906,
+      "sha256": "ef67d3382baf49285ef52e639574bcc0919889e9cf87beb9cee0fef77747d475",
+      "retained": "work/s32/25506/023.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/d8184507239b667aae67a94f7cfdd7fd0f6a35f6da9242410b8c043499ec72aa_max.jpg",
+      "bytes": 1691248,
+      "sha256": "79ded5c6e0df2d734c366d2fd54bec6060808ff36fd74e95951522d350b7b034",
+      "retained": "work/s32/25506/021.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/f2b1cd81f3bf603b4305d2597d77325bb6129ae05512ed3b563877bf2c818bb9_max.jpg",
+      "bytes": 1658523,
+      "sha256": "25dfabca5b57b7a7246dd79c503e74a08d9db2575fd3e39e6f0bc6502174076a",
+      "retained": "work/s32/25506/031.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/4b57ea727044ed2e030361c3fe02a655b1518af7e88d762d0870617da806efd4_max.jpg",
+      "bytes": 1665537,
+      "sha256": "bb361939612ac1d4e041543312bbfca3311a9ff0a84194851fb45cd1b33bc91e",
+      "retained": "work/s32/25506/030.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/23deacfc562fc6f784cbc8c2c9363613b8f94e59fa642aa10d0a3cd7adf033f4_max.jpg",
+      "bytes": 1702454,
+      "sha256": "c863b63391def7876d174babc1ac62edb6081db6a3d9d1cbcb3d721423b54f38",
+      "retained": "work/s32/25506/041.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/cb41421b57d8e288f8929573c381865ddcfc3b32c926759680d385e86683bf53_max.jpg",
+      "bytes": 2545338,
+      "sha256": "97d1def8c03fa3057f0663001a7cc8bfe44cf7836cc8601db88d8f96f01fab9c",
+      "retained": "work/s32/25506/002.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/9b8df23734b2f9f99523cb3ad418433bcf7aa70df81fcf332db1c2ffddec5ab3_max.jpg",
+      "bytes": 1709788,
+      "sha256": "090d2c0531e9ac997b259df6eb4845ae8694ae779ce1922208276b9ad17df68c",
+      "retained": "work/s32/25506/039.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/9eadf0ca3fc455a5a7af1f761ae7039f850d5cb1a6ebeb2e8bbf8ada3a2cc431_max.jpg",
+      "bytes": 303088,
+      "sha256": "c9250bb3d988b126b1c01831514286baa0e232fcf19ce880e2b948a790e0b2a7",
+      "retained": "work/s32/25506/001.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/6eba826abb44b006fda58b090e7b1575889071c6df4ecfa64e3b8e3b70c3a341_max.jpg",
+      "bytes": 1717346,
+      "sha256": "120ac5c01ec572b19808f1e3941d25e1e141f73dabda37e270926730d9ec837d",
+      "retained": "work/s32/25506/012.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/ff1a63f6d3d09ae83fc27535a94fdfdf4c240f6a3a0993c47c8c2dc5cbc0e2b4_max.jpg",
+      "bytes": 1721705,
+      "sha256": "4875df9211dbf202de5b44ffbdbd56775da49ff6766afdf30a43f3ae09276c78",
+      "retained": "work/s32/25506/006.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/8926608853d0440cf2aa230172f70035e79e383cde6a1740e6c52a4951e7dee8_max.jpg",
+      "bytes": 1737474,
+      "sha256": "53dde7967e4048f2e4f427f253ff1845e9ca87193f1d827a512a20bd7673e6b6",
+      "retained": "work/s32/25506/011.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/c772d24f7cbd15c297189d0714626c4574566bf7ed6413d69970d8c6d8eac2f4_max.jpg",
+      "bytes": 1688400,
+      "sha256": "4ad37c6eb8f11c05e39fda18646117bf49fa96e6271c1402ff6a798e987666d4",
+      "retained": "work/s32/25506/035.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/ea7982120ba00a73775becfd8344db61f3fedfbc15128468c8fa7a31e200ac44_max.jpg",
+      "bytes": 1659647,
+      "sha256": "0d457e71518691b0599771db52b202c981aa1be3ab96ac2d0598c7e55cb15efb",
+      "retained": "work/s32/25506/032.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/efd46d6362ce84b35a73534c754277030b25ba94123e95983bed399901fbdfbe_max.jpg",
+      "bytes": 1632539,
+      "sha256": "0158930ffae6b42d349985eba8aad2744740b5744db1ba57c0a72b8fe9f6c445",
+      "retained": "work/s32/25506/028.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/e90a716d5bee21400e1b217e5ae38ce8045b4737a8e24d5d0abd48c187439156_max.jpg",
+      "bytes": 1765244,
+      "sha256": "b43c4f1ee87744be4ddf0a431120b187bd0410e6dafeac58c12297b8debde24a",
+      "retained": "work/s32/25506/010.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/2db11bc2d2d561fe54da97d7742ba0b26a589c9982d62400038e2d2c84c64a4f_max.jpg",
+      "bytes": 1786955,
+      "sha256": "64a148c2434709970f18fcb13392be8c9f55edf94fe5553723f502fc04a9ef1b",
+      "retained": "work/s32/25506/014.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/35fd709ec22b182e234743f9ed54ca05ad8f4bc690b5f142d77583f2c37aa81d_max.jpg",
+      "bytes": 1682992,
+      "sha256": "ddf5d066953fd1023f1a2f560e84be30b62e29a655a717ac433bfdfbc84d5268",
+      "retained": "work/s32/25506/024.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/f51d7b55d899b177ef0aee2e2c83e453745b22cc0eeb08066a98422642eb2687_max.jpg",
+      "bytes": 1708863,
+      "sha256": "0f9e27aa506ce352e9d13b33c30656b9ac24d874ed93f51234ca43b44068ee1e",
+      "retained": "work/s32/25506/022.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/9c8142f041f51aed2ffde7c00cd065703b1a535faf664e83667ba47ddf18d826_max.jpg",
+      "bytes": 1773069,
+      "sha256": "3a9f9251b3464461e5fee14b79a956efd1d10846f6fab870b657283988cf9ad2",
+      "retained": "work/s32/25506/020.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/530ad5c8fcf4c08125ffd8f9b4f601dcb79db5e90df857d58c62bc41b51ed5a7_max.jpg",
+      "bytes": 1723041,
+      "sha256": "5cf4410f7bab1dd76a52700609b024e7c1793cd6fe4b1484b5ddb581bcdcebdc",
+      "retained": "work/s32/25506/008.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/550defec053c5848ba29e9845f0b96ec5d3acf8dbc3101c72fe88cac687e06db_max.jpg",
+      "bytes": 213469,
+      "sha256": "41f5367e2b0a3859faa3e1f5f1d3b199439c3d24d7abe42345d39f2ac6b15753",
+      "retained": "work/s32/25506/003.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/e39fbd83e7d174471d8d6d7491450fb54a87d53f4d5748931b12c48c01982721_max.jpg",
+      "bytes": 1602908,
+      "sha256": "2747ec50109e26a3ad840e6cc150d760e901a913b3f1760ced8921cef73bd2f4",
+      "retained": "work/s32/25506/034.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/3dfa32f2b51af746c3d84c3b799028b26ae8528ff042881d9a37086d61e7b9f5_max.jpg",
+      "bytes": 1648817,
+      "sha256": "02f5f3fec5ca097e4c56e3828d7a22ecdb9f18d1c2bd527d7fb210b3480c35ea",
+      "retained": "work/s32/25506/033.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/59914bd69bcf1322d863f8ef47f3d5dcdffe8185bdb523bfadfad3e00a9a58d5_max.jpg",
+      "bytes": 1748119,
+      "sha256": "79e774a087960c8845c1d9f71370137d0e1771d1b26dba7f81e60268b004e659",
+      "retained": "work/s32/25506/013.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/b5002c390a25dfbe4a2ea2c579e720d9b16aa50cfb9d0158c0cc44c948ee59ac_max.jpg",
+      "bytes": 1670765,
+      "sha256": "5274b03ef2837bf0b0245ebc4190350f2272855394e22e6e7402fbf5906357cc",
+      "retained": "work/s32/25506/029.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/679971f02c63ac3fb45d4b487c4d010052d8eec3dc71a3be219cabf0d679b8a9_max.jpg",
+      "bytes": 1765440,
+      "sha256": "ad0ab90b3cd0cdc756e10da63e2e6c393bd60197cc7ad1cb0ab8ee5306ddf73d",
+      "retained": "work/s32/25506/009.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/70206e4ef343e24d5ebbba8e7ad264d808bfe2f4a499b7fcc2733cb060fcbc13_max.jpg",
+      "bytes": 1687797,
+      "sha256": "bade31332336dcc45de9addb042518f360ad18599a193e107f6afba7c3ce8903",
+      "retained": "work/s32/25506/037.jpg"
+    },
+    {
+      "path": "work/browser_scan_25506_all_jobs/8629922badc477617c9f9342a9703bc047976b38cd8bdaad3e346b049390934a_max.jpg",
+      "bytes": 1751123,
+      "sha256": "640b2b7b0016523e7d0d87ca9691379cc8c0253cb8d0ead7ae9aa3cd2bc1cb02",
+      "retained": "work/s32/25506/016.jpg"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_2.jpg",
+      "bytes": 3238913,
+      "sha256": "05b2f615068a60824d7d0b122782392c0515cd56a83ca17099e8569a4af63b3f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/524d810d5dc02640d47d9feed4b2377aab7f233cc58b11aca4aac9114c6ffd8e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_3.jpg",
+      "bytes": 2862618,
+      "sha256": "25de48ea80ab347d1439cc0557fe58cbc73a893ced70b401bd22bcbad09d2779",
+      "url": "https://photos.szukajwarchiwach.gov.pl/62bde948b241bb76413e14ab3b953d7fc70d2dd541d4083d4e2dda27baaffb82_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_6.jpg",
+      "bytes": 2090898,
+      "sha256": "487eccd06c5279dcaa0059a08b5f1e4e0645b3d9345db096eb687cf79f63a3d4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1b801e24ec802da98573a3847d81ebe4c6d06d3d46ef53d86289063095fb0316_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_7.jpg",
+      "bytes": 2074497,
+      "sha256": "47153bb9d5e0b55307486b4c5af014cbd9a54bcc9d3ac8eb1a95a68204175c01",
+      "url": "https://photos.szukajwarchiwach.gov.pl/da32d348040ec9f76ad60b44c86bf6f50c7b537fc80477c0f6f55b6a32ee34ea_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_8.jpg",
+      "bytes": 2014100,
+      "sha256": "f2b3e04de84a8ac6d86e213722f23634eee3158833ad1f042898d09bf3e762f6",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e63cc54ee4726ebb49fb4123a71f72b52a30f21b16b4b181914bc464d985f8e3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_9.jpg",
+      "bytes": 2076980,
+      "sha256": "fff50ec4642fef343093b167679e02fb5e8d4ecfe4091f8ac5993e2490c7bc00",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6bf7dd2c5392dd81499597e32212bba146fde296ecb8a1a3fdddc19da6eeef5c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_10.jpg",
+      "bytes": 2106412,
+      "sha256": "5500dded4c975585f218e8203193872a31f27ace39d834f62de547ba61b37a3c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9754947a215609e7b73da20e9db245278cddc8aabb81bcd36cfd2f401a832340_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_11.jpg",
+      "bytes": 2086736,
+      "sha256": "d0935585af2d9f7ea739612be964f09979c1f2b8d4eaf14c1a716e8085be80d4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0d106c91ddd3412a9a88c6af991e92f7bbfec863253bc598bd978d845f36eec7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_12.jpg",
+      "bytes": 2058523,
+      "sha256": "9f647439ec65a10e3dd12abe1ed99a75b14f1a4b7cbc14bee5101ec2f64b4cad",
+      "url": "https://photos.szukajwarchiwach.gov.pl/374de90bd507e5f23d16647a5d40989eabbcf9c12a0bda5c6b86cf8f609d9200_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_13.jpg",
+      "bytes": 2067879,
+      "sha256": "5a7afa4f21c4cb5f105e6c44b015cba1d33a3b862581b5433037271c3949734a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1b346e91418eac8f04067ee42c90589c186de1b2cb1d17206abb5b1f7ba5f78c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_14.jpg",
+      "bytes": 2098631,
+      "sha256": "1c0b621e341a8699a8c7806286436e21160efab2b98a6729f5cb324c6c8e05ae",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a988a4db1f32fe1bad6642994a3f4942fca16e37c2d610dcf6eeb1086eebcb27_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_15.jpg",
+      "bytes": 2051542,
+      "sha256": "d632385e7726e1b32f76df82a63b5e87a7ec880130ddcf22d3a5d95d2c8045f3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bc923092b4f3218e681f33af81de56dc6cf13420dd3260a004dd783fb6a6eeca_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_16.jpg",
+      "bytes": 2096177,
+      "sha256": "df5fc2e3c356ff59a7d4ac0fec64638d862d3715a50361c742608a6839520a33",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a6f25d7d61a9cd16197b76799af19e0b8ad15624a698fba5eb4051ef9884c997_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_17.jpg",
+      "bytes": 2043308,
+      "sha256": "c6a71a1c0f457efdc9c4259095c3e241e18e4c7c72054089e5eaa414b8b80d88",
+      "url": "https://photos.szukajwarchiwach.gov.pl/492e80aeb5f82c3cd3a3010d583fe2897b361482cda0eca47921522dd2e8c8c1_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_18.jpg",
+      "bytes": 2084035,
+      "sha256": "637ef2d57858b9d4f896c57555285a9e66e635adb0ffef9335902fd478b17dd0",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c1bd92ffe49fd4415143153c61e379d9ef37afe651fb128b91b84d50d45e2303_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_19.jpg",
+      "bytes": 2096915,
+      "sha256": "ec9ee6552d6d8393f13b1708d0b7f5a227e1ed3d2c72e8fb91344d0f8f8f7156",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ec35e4529f2f17153cd7fa8ff1a0339c3d3a4c78d763643e5e9528765913958a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_20.jpg",
+      "bytes": 2073633,
+      "sha256": "18ed471bfa0f471d2e57705d8e0a8dfc85fbf22a35095c3b0a38048f66a0a027",
+      "url": "https://photos.szukajwarchiwach.gov.pl/97fbab65e8a945b09f401e2ae65bd58067983479559b7b7cefb5eacbb4a9d1cd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_21.jpg",
+      "bytes": 2136633,
+      "sha256": "fc4152b183fed9cbe04c6d8637d17cbdb7d47c29835ba5f38435188ef0b3a8f6",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1663e41ed1ad8b8c4268118c85bd8e9f90738a772008ca32f5268e097bc142dd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_23.jpg",
+      "bytes": 2122034,
+      "sha256": "38bbf57a2b03cedc7bdd3b7eab27cc6d7f3a469e1e6e13ce102a3b8cfedc6763",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9f44c1261cb2baa8f2779ddf45160eb9260067591ba69e64a150d0006fb112b2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_24.jpg",
+      "bytes": 2045414,
+      "sha256": "f0e8fef14608920bd7ca8861d8ab13703ce73b17cace820622ff33f01da0859a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8c7bf18d762989b5f5a9e38501045dcd9f001c5e65792b133ef35bbb0fe62f94_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_25.jpg",
+      "bytes": 2129747,
+      "sha256": "97afa39ee95cb134b9526bbcf37ab73cc5c481890fb1052d7f7ed380322b975d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/905def87577b6a8247fc753db147eb2a264f2476950e0295030d5f9a6660da12_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_26.jpg",
+      "bytes": 2115703,
+      "sha256": "c396ad50d525a3b22731623a2634e9bf1e5e30e8e6bd7f9917aaadf3b38f2d4a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/489ee882a672545b9bb7becc4735c25c051448bc438d287781b571a6714062a5_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_27.jpg",
+      "bytes": 2082229,
+      "sha256": "4b775c9c04ca59add3bb2ce12cd924a03278c4206fd4a8839f51e9bc618d4369",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d9aa10b77dd1109956fe5433bb5a02217e5361b88c5cb2956934c5c8c2f288e8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_28.jpg",
+      "bytes": 2071924,
+      "sha256": "34c71d0f0167df630d95dd918e72547d090515931ae255361be454214e80d925",
+      "url": "https://photos.szukajwarchiwach.gov.pl/3fa5916f209d3fb70fd457926697d0764ee109b970f33f25336aaa21d48d61b0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_29.jpg",
+      "bytes": 2093808,
+      "sha256": "f59b5c5195eb4762ff740c75c4c1072c6fdd388be697edc8532a338519887afe",
+      "url": "https://photos.szukajwarchiwach.gov.pl/31c537376ccd15da7b521bb15c81ee80e0bba84944a11da88c49b5222337aac5_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_30.jpg",
+      "bytes": 1967210,
+      "sha256": "f3d61484f57e497cf1a255a7968d3b6472cd73cdc21643aa88cf0397eeabd1a9",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0b3fdf8eef2ccc293b6c329cd69925f2942b0878e4f98df96b89f2ed01701190_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_31.jpg",
+      "bytes": 2022474,
+      "sha256": "b4ae179550449dce5c6e719b700f4aa4ef8ac7132971df9f0feb9d3f04180ab2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d79afe0a549e4985b2e21908d8545af3bf795c37c96438eb61a2841a80842a3e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_32.jpg",
+      "bytes": 2034973,
+      "sha256": "a4e586e1b3ffa994977073f8a703cea5bc5912447f1dc9b8ad5aab20bc052d43",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fa2cdda8171c40b64c787d40b605f31e1d0678259f12916d27755592149756ac_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_33.jpg",
+      "bytes": 2104772,
+      "sha256": "a3d79b16141185ae894f41a0d320555258c5402324be1fe01182e420ac40f6b7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/853f5951ef2652d7c4ea34fac6fd1c2ab1a31635c745722038cd09ff567e3d10_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_34.jpg",
+      "bytes": 2155684,
+      "sha256": "f8d06aee5d55f8763c20db434a48b7ce6d3f8f4ca9d23fa380a751c86ca3d1f9",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b9591915757da2b0a2896212ca3ce3672963b031501ced06f1d8ba27f5bc21f3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_35.jpg",
+      "bytes": 2081365,
+      "sha256": "4d6fcaaf4073ecbd9f858dd0522679c5ac8065fcea60bc9cdac4d168d2b494b3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2465e879a936e54ed2bd8988815a085a08f957fd12f8e891332584b8487acd9b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_36.jpg",
+      "bytes": 2128839,
+      "sha256": "13147fe46f032d0add0b9a32a29b77070a56631c448805709acba1cf888c5668",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0876d09faa102ecec636326b1c61b7818f2df74fb1ea6cd1881c3e5079c67f58_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_37.jpg",
+      "bytes": 2185065,
+      "sha256": "e56c1ad11b6b0d75135bf90e6480b481c1afd0c1087e466b25460ac18cda1918",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a2e851c06a20aacdad7bc95888a867543be7e864ed2bc86509f9a3ea4957cc3b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_38.jpg",
+      "bytes": 2048564,
+      "sha256": "ee050ab184a05b665db060982375f6859b1b3a38a3ee74aa3140ffbf897b8eb7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/551620ff9397547bdc84c3a8daee4625fc67fe787d3d700b12aff4f3f270f820_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_39.jpg",
+      "bytes": 2195319,
+      "sha256": "0bf4d3fc9ca98889f0eaafcc2fcd88c6adf46e1db407b6234cb728453028720d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0add65962eca4b083253bbf2427bbcd315b135a736b8823939b3c9f9a41cd33f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_40.jpg",
+      "bytes": 2194969,
+      "sha256": "2291ae66155585971f4e00d859f3b188ec0a838bb1c7a650f759339d19a47359",
+      "url": "https://photos.szukajwarchiwach.gov.pl/93769c798c692f5418c44866d9ef3f117b7c66f717dfdbd930c902b93fc12427_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_41.jpg",
+      "bytes": 2231026,
+      "sha256": "61bb76e54eba093a1737a4908aac883bccbcd1559d571943fb2f8f6b9cc47606",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b9af932e447cfdb0587ade1df1e5a05c4793c5da305d3db0ceb4a12dd9f6243f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_42.jpg",
+      "bytes": 2077749,
+      "sha256": "cc881a9e3f0fb72fd387418ede9915e4151f5be21f39f99db13733f223711bdb",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ddaf15fa2698adc227c6aa102aae2e3c684e3cd129c2d2bf4707454b75cf229b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_43.jpg",
+      "bytes": 1994283,
+      "sha256": "d6b4da8c82e837c6c901f379c71d8e08c9a7d90788ca093e7154e666fc20e1bb",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4f7081fe74ea054787949ae21ebaae457bca0571d4b1679d5328f90c04290479_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_44.jpg",
+      "bytes": 2229322,
+      "sha256": "e513965c0c5c59494b5bc23fe1e51b1eb062f412c4a4399f7b8c4f15e6c8eba5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2c6679a4387d5a3d3ebe8d19827c13186234668219a1125fb18c24b4b407d62d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_45.jpg",
+      "bytes": 2069248,
+      "sha256": "6798b01ab33e21c6e253b8b6f47bebf2b73a988d7aa934d885ef894b42382815",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c9acb59a4de3988216e98cb5dd2387a5d5780da4a7d023deafe5e18d343ffe7a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_46.jpg",
+      "bytes": 2139713,
+      "sha256": "bc14f9a88ecec3dfb9f903b6a6e5ee590a0ceaf4fb973fbd3ad937a1143f8f51",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9f1cdfab4d8737677208ed71b9bd2ab57f23375be0a25fd24d1e2d528049ce98_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_47.jpg",
+      "bytes": 2194820,
+      "sha256": "e66e46d35eb96a8ee89c2793f7ae7e1562a31ea060a77a63a8fedc98e3256b7e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7fc9d5f43fed6ba443eef8d1b605b76f313494627294a1fdbf2fb31ec6ea0a1f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_48.jpg",
+      "bytes": 2041787,
+      "sha256": "f01b8166f0b04adc4497b278fbe78a75da01d726b3ffb9cc80674fb094e31fad",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8627202811dccb474377f2655d0e90131c745e4eafbdb8e15507ceafebcffcfe_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_51.jpg",
+      "bytes": 2146579,
+      "sha256": "6915dd011d426e55948d6381b8880cb25e09bde5dc998b1f1d6a4c0e9f5765c4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5f94f44fc066c577257c91cbdba7d2bf1d39c4f25985dde322065ba246c8a4f8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_52.jpg",
+      "bytes": 2196623,
+      "sha256": "993c50092fcd2171c3841878a572130260d2c51af5e4a812d2be5be0cc6f82e3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9eea13f9731100e8563d42236ab99c94823388766a2bf45e21db3340e8c392dc_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_53.jpg",
+      "bytes": 2183507,
+      "sha256": "86037ad7a5c0748b623f23cc313eb453a537fef78c5553534df59744cc64ef2b",
+      "url": "https://photos.szukajwarchiwach.gov.pl/39c0304bd7d2ff3ae2702af494fe27ffdd22e7bbaae37a66ff9dfba27a60bf60_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_54.jpg",
+      "bytes": 2034128,
+      "sha256": "b67c2f1d3cfdb950c599d01dc982c796752257681c9985f685a353384dae75b0",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5f55de56fb39be5ed52fa9bf965694d6657362f9533de2a54025a937a6522b43_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_55.jpg",
+      "bytes": 2095619,
+      "sha256": "88f806c3df640920a2d90c9cc041b7529ac79871b0a1139e12bfdef2ddac5e48",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d10f739a94d55098aa3cc4af6c3c9cff71855ad5bfd07e68f3314d0a7b7e7660_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_56.jpg",
+      "bytes": 2100412,
+      "sha256": "bfde7106ac9b9a3984ccb9f7896c76043d656c53beed3618bdea4c20b0b36c71",
+      "url": "https://photos.szukajwarchiwach.gov.pl/49c08a8f090cf06ffb1b3dc9658adf685eeb545367a2ce40ceb0bf9c08624358_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_57.jpg",
+      "bytes": 2083407,
+      "sha256": "134a5fd3765fe365853d82741f2581f1c07c4074e526bea80d7d679648ab4ff3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/58c7ebd3109515dff10a5d67704db37dcab90d5e0d845f06c59279a258318aa1_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_58.jpg",
+      "bytes": 2065728,
+      "sha256": "a0373fa732ef6d526c2511c9e9d74c77ad8abc6b4604937ca1ae8c55e2092343",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ceae44838d5e86a92c6e21a5cc5ae57a50d71272e16ca86a6b16a8d387c45c77_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_59.jpg",
+      "bytes": 2014564,
+      "sha256": "fb604d79cf4f6e32dc140d28ce67f3ce6a7844a0b26c74b0697c2d06a49d8655",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0357ff3ce466612496b1749a5080c803b318c17bd404dc44a1feb77bd8e314c2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_60.jpg",
+      "bytes": 1991401,
+      "sha256": "e1c239f12ae13eff6c1ca8509a9502d743544f3d11597663c5f04b462f944d10",
+      "url": "https://photos.szukajwarchiwach.gov.pl/37e4255dafb0d8808e8f9d8c1d1009d8a4973da87d9c282618bff0cbe4885d03_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_61.jpg",
+      "bytes": 2021795,
+      "sha256": "a2e0eb188d8b0ed2b58c38d3c4d9dd917c3d432de674e6bd4832495ef81328e8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/85da027cc33aa40bba109a1992e36fb95c27482e8e0ef70d99cb5b83fe2ba671_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_62.jpg",
+      "bytes": 2101471,
+      "sha256": "5408cddecf6dd19b70196646ef2ac54fba8b5daec01274c4b29e93d77bf05bc5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d9c6f7316e8c4d227655b17f50f90f97d9d5f5c7a9cf244bb50bdd08ac7de681_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_63.jpg",
+      "bytes": 2052587,
+      "sha256": "77a61976cb9239baea9d4cfa22a599681ea799c62ff5d7b869dbc0b16ed19268",
+      "url": "https://photos.szukajwarchiwach.gov.pl/62b8f9082934ae15478d722e7a0fd04c84de0d6c99b186f8d2a0231bf626a9c6_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_64.jpg",
+      "bytes": 2084639,
+      "sha256": "de70abf7c1a02e314cf2350f38e8a287d29260fcc86c7d3168726bbb51896440",
+      "url": "https://photos.szukajwarchiwach.gov.pl/58a198214ca898a752381b3afadbbabca49d748591274491f5629355a079faa3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_65.jpg",
+      "bytes": 2081986,
+      "sha256": "385532335744cb9529c68b9ec99864486e6b36f0f91030470abd891b2bc2eefa",
+      "url": "https://photos.szukajwarchiwach.gov.pl/65500543e82cf20ba3ee9b0d3b08faaf0a4406c8fa7ebf9cb101dd557eb62564_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_66.jpg",
+      "bytes": 2100937,
+      "sha256": "4f533f6f2f86e654e47a850833dea655933c5b38bec4730a5c59874aa51a2875",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6f78cfcc9534ee35ea85f3ce6dcc42e5abcf84e8d37602ae48885411e6a88c71_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_67.jpg",
+      "bytes": 2147510,
+      "sha256": "749a403a4114b1193d798359fa618a78784861ba2f4a9aba1643e38ad0eb9e76",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6bd61e701fb94c328820b6010806878fe8321ea530528f7cdcd55f5516f7ab64_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_68.jpg",
+      "bytes": 2081380,
+      "sha256": "fef1bd13c79b68304d9219487fb7512d25910754d3c4a4ddaaf6b2ce0518fcc5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5bc9664d0d94b5f6bf95cd3c70a291374e99296857654b0e1f37387c1fc92c9a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_69.jpg",
+      "bytes": 2058752,
+      "sha256": "170e88d23b4a93e4919e08dc823864d11d993f210b76d22ff450e5438345e7ca",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4c15587d38d7b4ea3e29ca465402d2a36db17b1cf10ecf6d50fcb96d7cf38074_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_70.jpg",
+      "bytes": 2155538,
+      "sha256": "9dfec88ee47ac8410c0dbc45c9845b15da0a486acc77a342db410f7c5ba2f1fc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/81886de418761d248d8874b170b5205f16fe29599fbae264192308fd643fd6d0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_71.jpg",
+      "bytes": 2052016,
+      "sha256": "d092e25cfa61c4d4df7f73e7f2970e62453fa071d115e19813ccd1e0ebf48085",
+      "url": "https://photos.szukajwarchiwach.gov.pl/70d93b7cde7927b48534f426f301c6855005ee9b03787c46a36c2ac81041b2bd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_72.jpg",
+      "bytes": 2147073,
+      "sha256": "5b5a4f07f44b037443e1f137791a40b41d60e385759ad884b427ef1401ff42d2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/955fc4ef03da9be48eb4d38a3f5fc3159d29b8c89fc5c8fd7b1855d1d82ee12a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_73.jpg",
+      "bytes": 2109254,
+      "sha256": "6ce64a67c1daa66e93286b7db812b07163bf3200e4d6e3e9513d701f05fd69e5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/02d69c5dd45d972ca4556086577a5b1a3b6e86b863422406822782e7dce4a2b3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_74.jpg",
+      "bytes": 2170479,
+      "sha256": "50efb414d594b37bcb59514bfaedd94d57b3db736e932603b5acd3835637c009",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0bbf0c1da189e9c42e4d3a1743827c420ddd235e1279560b95688e60945a33c3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_75.jpg",
+      "bytes": 2161125,
+      "sha256": "f8f0b93555547695fa45c5e0b5ad905e5ad98e5b925fd13ad63f01dbe6787f48",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f4d2bb28dcfc610bf8839ed88d3bd34250bb1f12fc58f818a033a452f55da0cc_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_76.jpg",
+      "bytes": 2129870,
+      "sha256": "c22090b26c24232e289fd99ae25c03a1056dbae24117fcdb84c5881a9f73a077",
+      "url": "https://photos.szukajwarchiwach.gov.pl/62c11be2d185f7c3396cf0a6b38c08eeedd103b347768962b89812d7ae6dc5dd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_77.jpg",
+      "bytes": 2130772,
+      "sha256": "4897774d5b44ceddec4a42dafcfb451589da3b08b07c4da12252a01688c659e5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/09a2dc41ccfc515934458e7ab0ee9f37c0b2486055cfea90ee9a0c1956eb0967_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_78.jpg",
+      "bytes": 2197568,
+      "sha256": "0af22fc1c9ed255dd6e75506c8a395f3be390ba42b703920e0bc2486c16199a3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/3b5cb9ee4f5c07fce33bdc9595a6b1b1e1f298389ca7191993fd855adfa170fe_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_79.jpg",
+      "bytes": 2124517,
+      "sha256": "008bd19b4571ebabc510389b6cad5f40448d2ae66c7e2dd886a4d073d68838ae",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f5cfefbe2475716f7a83c981e16d8ba8089ea6a84c19d17198c470582f353ddd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_80.jpg",
+      "bytes": 2197504,
+      "sha256": "995ab759ab404039028272102ee42f901e9f0e10f4eaa42fbab01526cbe3d0f3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0e314cff57969c4adbc0ab51c5961a2aa940aeae86bbacadc62159dd8b88bd93_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_81.jpg",
+      "bytes": 2234552,
+      "sha256": "0c0f54c177d8fc457176bbce8742f0bb32d91af8e577c3ef665689a5782143ff",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d027d65dfdde95148b6a8885005f2a30915ad3b18e36f9c03585a6e904e32a69_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_82.jpg",
+      "bytes": 2128595,
+      "sha256": "6f4edfd7295f19d596fa8fc47ae923063346635c4fe65f6e9817a6bc227cc1cc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9df93c599e899cea23d74af780bde83678b53cc1caf0628c6798ae5c6e1aa134_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_83.jpg",
+      "bytes": 2215487,
+      "sha256": "835aeec0d0a2bf0934066eff2c1ee84873d37edbae51070444818b541c2138b4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/27669975daa5b3191ec5515a61d5672e3435c380e79141c51f034fc9c88f7c88_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_84.jpg",
+      "bytes": 2149000,
+      "sha256": "c29e233730bcf162bccc7a9b8fdb34bc6eb76a17eb05a146fa162c9b770b4097",
+      "url": "https://photos.szukajwarchiwach.gov.pl/40fda894e0e545183caae5031e15f372c5db812618fbc6a56e34bf6f3a5e3255_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_85.jpg",
+      "bytes": 2117388,
+      "sha256": "d68832c70d049c66f8acc22f3e00471632ccfb3610df46c9c422eb168bf8866f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/212dfe75df9ff634bca82fee5e924b86aaeef31bde10d95163f1bad80c5561de_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_86.jpg",
+      "bytes": 2169315,
+      "sha256": "2d7c1a81c664e415d0c4f7f0a913e1f1392cba2d011b8eb6b26ba431cba0856e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/40730f8655e4e537e8e13ad140db07d98cf2c584d2b77735ef743e874fc40ead_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_87.jpg",
+      "bytes": 2105841,
+      "sha256": "ee4aa18fdceb0480f1c34048fcff2ae6593dbe10536c029dceb0dd6e7001daef",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7dc2af6597a9c8cb5a9f0b0dce0e8e291c9c46ccd58a63941b14b49ce667df2f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_88.jpg",
+      "bytes": 2118361,
+      "sha256": "a37b5635578bb40c695311f1830a31a07f85785f0b376cf7d11a4f10660ca81d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6e3c3fe6bdf99f177d37ef20b126d51a077451d1a7a556eedff2e5d5f78e5e6a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_89.jpg",
+      "bytes": 2058720,
+      "sha256": "84b42471d3293dff2bd2db5ec9890285071454bb2071258bdd349a2acfe92e7a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/cf6f0923b1d632530bc4431ccfa718f4516ba16e80b881ca3e6f205fdc8b70c4_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_90.jpg",
+      "bytes": 2060415,
+      "sha256": "d09bd73f36a41534c20dd87d09177ea4e250f28ff7b81cd366b9ed8d62aa5e8f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1f9cca4e56690291e23be01466144e21dc20833cd5fe0e2ad313ecf2f188eb69_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_91.jpg",
+      "bytes": 2131939,
+      "sha256": "333cffb86d566a3df11a8425c6e326fcac94ecfd35d6f8a94f9c906f719f88ce",
+      "url": "https://photos.szukajwarchiwach.gov.pl/aebaac9147e772588141fd87571159c52b3154047da77f4c2ba3450ad8abe5cd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_92.jpg",
+      "bytes": 2173826,
+      "sha256": "67f450d7d676ee16ef82feeb4caf47da835659aef585f24aa6cef94c0e4320bd",
+      "url": "https://photos.szukajwarchiwach.gov.pl/3f474e70bb56ca4596ea3c4d414bffa084fbe5df3d0e889e18bef5917a6e70e3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_93.jpg",
+      "bytes": 2165313,
+      "sha256": "db5da48565a23f56107910e034da61ab3e6397f7712fef6d9ab920cb07b7937f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8946addc0441b347b0999be428f7a0dc20625459d9dc5e58637d3877e9d543b5_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_94.jpg",
+      "bytes": 2118968,
+      "sha256": "cc609d0772a3539a49c31face7b29274d7ac914d7633a10b1707c6225227cbca",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bc2744252c91e52b697bc6a45cb62eceeff15a6e64ba9418535b57a674334708_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_95.jpg",
+      "bytes": 2052891,
+      "sha256": "e9e159dda21b6bf71b4566cb0b2341086b2061e3c02d2f08e3600f3cdba39713",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8d4c1f09faaf8aac892bffe933fd910ad633717850eb0e593dc014c6b10ae838_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_96.jpg",
+      "bytes": 2088186,
+      "sha256": "daaf4dbd9a0f9b517ed6fe0a7828354489d0d126a9857e0f359e0810bc01fe7b",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2fe2686eae52d45b00d944972491fc50164f696836906126a6757d3ffc8db1cd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_97.jpg",
+      "bytes": 2118428,
+      "sha256": "63267e19f3f26bc401dbb6661628b8e174cf969746b319c2dc6a560b6ac48c14",
+      "url": "https://photos.szukajwarchiwach.gov.pl/93f75f251cecc0fb53d00175debfc21f6038ecff40410e732149947e1af9923b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_98.jpg",
+      "bytes": 2168741,
+      "sha256": "1be2bcbf8ccdb0f3bc0004a60e4fac644a57cdeb3e83426c0f1a87204a5cc1ab",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e444cf2a96c10fe9a50a584d799dc3c577df72aaa966a4f2c1f81de0812d23af_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_99.jpg",
+      "bytes": 2236595,
+      "sha256": "90df37c58931461d6b6a62a9c75893ba857e4ae0ff813cf7d731852104edf4b8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dc262999192a804fa9ee42b6cf5b675a38d360dfc841c7602bfd6656b1da62af_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_100.jpg",
+      "bytes": 2134597,
+      "sha256": "2287201863f0930499100c3d495ae75b865b034a134c27dfa80c4fe0f24a7891",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e38728cf109684201b07cccc4796bab6849e1b506a35ec7ff0a511d5f6887317_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_101.jpg",
+      "bytes": 2099346,
+      "sha256": "4d249cf77e3f01650a8e442e82a8f2919c4a24cd204d1210e94c658a8adb8d3a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/68cc38229bee8a26393c7408ab4f3660e108a0ad15300c93900d74d8cb3d3e56_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_102.jpg",
+      "bytes": 2099349,
+      "sha256": "5534be7e1a8a22e34c1202eaa6fbc51763237d522786ed3d78c179737a2c2479",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dced8f049126121b9f7d37403f58a83f0c2336db5ef398110d90cf57e4f7eea3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_103.jpg",
+      "bytes": 2118324,
+      "sha256": "5c5e8dfc08932b0e687422d788ef82280cbcfdb4bfb14a305db5a6555f65cd3e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/163b0d22b71b5273b29e1a36742b71943df6f3ddd2554ddf9983edbba3d5b147_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_104.jpg",
+      "bytes": 2085251,
+      "sha256": "54a4a6ff65b395894fad01aec9824db18cb1e860e41caa902960d72b149b2fb4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e11629841d936a44ef876864a1478184ca0d64d31bc585b6be7db096e7a8d909_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_105.jpg",
+      "bytes": 2205429,
+      "sha256": "8c2fc325d71d3de2118798999bec1854cb63d19d1ae4cd954b2fd8743a692507",
+      "url": "https://photos.szukajwarchiwach.gov.pl/38566593e83a45a50dd1f7af5b412349f735ce7a0e217baee8d1ec41e9a9ce48_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_106.jpg",
+      "bytes": 2160443,
+      "sha256": "df0746fdfa3b1d20dd2c24f1ed34b49fce7f6272638b7d687e514b8d9dcfe264",
+      "url": "https://photos.szukajwarchiwach.gov.pl/429b1bdee70b269b5dee3417169df96387090e1eeb133a483647090ef58611ee_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_107.jpg",
+      "bytes": 2115034,
+      "sha256": "0d5889cecf8865b0a422c3209c27e426864a3d7b95b9eeb48cb9f266be060d12",
+      "url": "https://photos.szukajwarchiwach.gov.pl/72be5a58d963e831c3c822a7dbe9a21ef9d573a58d8079b1bd5dcabeee9159e9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_108.jpg",
+      "bytes": 2146556,
+      "sha256": "3fee26130533bfc53589a9b26981402f3b2175b3d1a4a79b1d088e9f513e6fe0",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8a84df44cb76d6782a19e88086d00fb0bc25802d4d9b6471782586beab40e34b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_109.jpg",
+      "bytes": 2151114,
+      "sha256": "8e8f2601d0829fbd8e7d7024ab0885d1ca3f6f00e4d08d633af05bf6ef3afd8c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/823e60b5a37547a64c1e27214ee67457bfaa3c1d4c655c401598ffd84cc5f9c8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_110.jpg",
+      "bytes": 2108344,
+      "sha256": "19ef8a44a3696a8f44ea54e46f24177466cb87ce832d90d896496939714055ee",
+      "url": "https://photos.szukajwarchiwach.gov.pl/64ce4823b6cb9dd25db05403130ced5235b53bc92ead4469ae1cf312ad5c3816_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_111.jpg",
+      "bytes": 2191216,
+      "sha256": "1d64f9ec371277a7c884fb91c846a90f640c211ddc1b3e266d3e13be11aa2d18",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0cf8e7161338ecd652e0416bebf3c3e5a0df1c8e5292e5f775ae5bbad3bf8d3d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_112.jpg",
+      "bytes": 2142956,
+      "sha256": "fa96a7f87e25afb293525a80c8dbffcd09a765229bfd56ab4fc80b51ef914f40",
+      "url": "https://photos.szukajwarchiwach.gov.pl/3ab77d37d6b6d25cf751b7f7364d42514bc26ceb07530f693b87f4ea15a3c2e9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_113.jpg",
+      "bytes": 2169468,
+      "sha256": "2194afd3f5ef1a8606fc7310839a42beb72f512ad5963f0acee2ce9d329f9794",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9988b1f34c22b50ca0b472a310b63a4e6a05e025d02ab14ab012859f42a2f678_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_114.jpg",
+      "bytes": 2199058,
+      "sha256": "523201e09600417a5f160441126ca1394d7f182fae3bb6b361e083d3ff1cd0fa",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bba0d0837ac60116be7e33c7c4642ef3bb434f88e5f6b8330b01be6315edf07f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_115.jpg",
+      "bytes": 2143427,
+      "sha256": "ba7afdd0beb9f93462e35fe31256297794beab146db9ae95bc0eb9cf54c42e04",
+      "url": "https://photos.szukajwarchiwach.gov.pl/17ca4eccfd0dc06000ea7f2d64be5a4bdab0266e43e83b4152382278b28f533b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_116.jpg",
+      "bytes": 2139350,
+      "sha256": "42895e1e41cac347ac064423487fb417da1240429769ee8150d56f4ef9967104",
+      "url": "https://photos.szukajwarchiwach.gov.pl/09eb06586c606fd1c74c53609f2654682425b2b670870b6387d102604e65a509_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_117.jpg",
+      "bytes": 2123376,
+      "sha256": "073f41cd8aabf01a8c8ebda03d3b3e82d3623fba92dc952049fb7cfd3bf00016",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7fc20602355d37a85670a2ccfe53b2b8c0cb59885b07de157e3844566fd8a13b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_118.jpg",
+      "bytes": 2180523,
+      "sha256": "2c3422cb54200e02e86fae905aed5c603e2290660f88ed8a59b8f003ccee208e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/80ea3dfa5e8309585a0374daef2abb204e8f3a9d2605785a67715a5cae326919_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_119.jpg",
+      "bytes": 2144213,
+      "sha256": "35b011ff7c0cacecc29e4f89e4d9a03027c9294e2fdcf3570a4a47b02f7b87ab",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a15b2a83fb1c7ef3a0ff10d4fb4aea3b247ce46f3e82b98ec59fdfb1b57cc1d7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_120.jpg",
+      "bytes": 2169380,
+      "sha256": "fa473e21c4a7fc5e0943a70778f35a110167d70975e0dec426b56a5b4416541b",
+      "url": "https://photos.szukajwarchiwach.gov.pl/82103bfebd1e509ce2d62768cf8021af601fc26e44a3968513504ba77781d571_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_121.jpg",
+      "bytes": 2168400,
+      "sha256": "f0168a57834be3c2180d0c0dc47fbecaa9a459c57d3b98c17a04e09b39d809f8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4b72e03941d40f98b17abb1b12eb9fc39b77fa6e73d0e7d5a3a729e8a53c14ee_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_122.jpg",
+      "bytes": 2162511,
+      "sha256": "545ed649b5e5fb05a28319ec7afc3d97466411c7ffff55d52ecf89e8e575949e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9403bba5c6d99655eb061ceaadf7dd7e4b1f5b4df75ab6f8b60b0a558da7fd84_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_123.jpg",
+      "bytes": 2061218,
+      "sha256": "b046123f5cc0bbe2777f26512755b899c837c407aad32ee69e4da73cf480dc7e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/42851b2ad1227f4e953214bdeaec54f2d581bed1ea788cc24d7459fdc37b83ba_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_124.jpg",
+      "bytes": 2144141,
+      "sha256": "7e001c3004359c45f8f7703a4d8d3da868a5687ef0db79a8267579ad14efb6aa",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6d311452ef207489998348655d8d55c4449517de1c83eb07b519c9b7fb6ae604_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_125.jpg",
+      "bytes": 2041222,
+      "sha256": "f41caa0c4cd34363db1490150092166bcd298f9d61e9c7bc754b5980aa22a0e9",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0f2517ac4c78aba8723a83b275bcafc4bc7669e5456bf714d940d1e43dbaea44_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_126.jpg",
+      "bytes": 2051158,
+      "sha256": "99c77d5860f868367cb18ee43fa3938e94b8597e3fa3ac3c64b01b598aac944e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/85ab1e366f17849c2747497bbfdfcbeed5ee677369e8e50ca8dfcb1578942e22_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_127.jpg",
+      "bytes": 2017592,
+      "sha256": "81bbf6678ebf2daaf34ebdf5eae93c0c9247451db30cbaba3101b3059fceb643",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4d94fd88fff820ef311380822161e74c58a0c0497b2029b8246b57614cd0c5c9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_128.jpg",
+      "bytes": 2058207,
+      "sha256": "ba0f23a8aaec2eca91da53de006ef2d1c863d51404f71c4c4cb857bfefdcdf33",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4b1b6a8bb718e8e38c4574fcc4c06be4ee39270811a5962c84d748f24b84638e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_129.jpg",
+      "bytes": 2103734,
+      "sha256": "271798b14b2b29f4e79f847e7ffd298264c677309d3110a7a4f198d45b96cf33",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ac5034c92162cb15b8e99dae601c8c9dd07a9486813f8c25596ff6891207c107_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_130.jpg",
+      "bytes": 2143944,
+      "sha256": "23e70c5336ee75aaf66c30b689520c37b67c9331caed6b7a046608fbf4971600",
+      "url": "https://photos.szukajwarchiwach.gov.pl/28b52ca7cd384e21396329a5532a37097690fb2580169f251209b7087a42e522_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_131.jpg",
+      "bytes": 2131354,
+      "sha256": "e12077455f84c4437f2fa7ba0f99ecc04a593b83b8fd2bb6b014c4450446ebb2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/035398cbee581c8a4ca596c9ce28919df839ea96bf110a7f8e19385f6918d052_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_132.jpg",
+      "bytes": 2067486,
+      "sha256": "feba0a9125c239fd6c6fdaec447faf6c2f0c11852c8f32e0a8746f183369b377",
+      "url": "https://photos.szukajwarchiwach.gov.pl/955cb21de9b4ee5bf0abdd3b439915a4490931b916de94f9f34145aaac949b30_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_133.jpg",
+      "bytes": 2192775,
+      "sha256": "30af85a114a3907086b2a92e841180014c0242e5712298c955180c3e0438367f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d7109965498d426a8b8bc47b1abfe63613a878ee179ba95a56698c60a030e9bf_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_134.jpg",
+      "bytes": 2148104,
+      "sha256": "d156e961ad2984a3d18600089383d9e429e53263ff4b4897c1aed4fe459d1765",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5f4a16e641b3c99f3740e288f7a0c69c64cbfa4987713fd5ddac6cd2ef2f6077_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_135.jpg",
+      "bytes": 2120522,
+      "sha256": "f175c35d9ee13a0eeca23c0b4373f5e19929ab3860e1278f3851c1f7229663e5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5a428773a01d4a1c547213e331c2756669ee34442d94d6240d4522326e2339ee_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_136.jpg",
+      "bytes": 2130600,
+      "sha256": "0bb750ac8d6051d94e630903073defd6992d889915362a8dabdf2f82f7c8847c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d18284f2fe192f0e7a15987050c914bae23836d6e40d843f66a10c51e70362fe_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_137.jpg",
+      "bytes": 2148031,
+      "sha256": "5eab86dd23ad5d904bcc151a798853f8245336117b9be56bee152c9f6c9a34c5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f66d1a500ef3ddbf8610e40f10fa5a188b9bd8adc0806ff749d48b7f1436f157_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_138.jpg",
+      "bytes": 2126684,
+      "sha256": "bd3139c38569fa097eb3fb33f1b64be2949ccbed6d4f1bc95311e3e552e047cf",
+      "url": "https://photos.szukajwarchiwach.gov.pl/eb4307c9bce57bf708117ccf8ed7e582ea995ddee426e47cdeaa9e13e1292a1d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_139.jpg",
+      "bytes": 2139000,
+      "sha256": "b629477042780570c38e12613943daf1262d17f2f895c3e789a640735ea94488",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8ca38ea1b8d69b5d4bb5a50101812eb32b4b4698fc184d59bab8275483786666_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_140.jpg",
+      "bytes": 2157571,
+      "sha256": "dd1d5752b0cda2fe95a438f860362cc5265fd0eea8650e8dc21ff0627d21a1d1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/89bf311b88d495aaec13c80cd7f4b4e811631fcb93d024eef9d5400925087ee8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_141.jpg",
+      "bytes": 2236788,
+      "sha256": "9857eae960d54b8303f427b95f3080948a8f66c3f6dea541df6c9fc90df66d73",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d554ccb24f789e1d7406f92c7fa53eabcae6d14fe68085de74a925b82274eef7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_142.jpg",
+      "bytes": 2182513,
+      "sha256": "1806f1c8f3d21862b21e4d2108ce09819cf5d588ea6d1ec163e2e6d4ba4b9aa8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e11a257520c607cafa454c312c56781427ba4c9d2a8889bcc9798d420a292002_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_143.jpg",
+      "bytes": 2186320,
+      "sha256": "132f39b8648233a89b662f2355898e475f45fe5d54468805aa7ad1e301e01f38",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7fba1784ea26d40a706b0c695db77311b179eaafaa9c43acf21c45c4e4fce9d5_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_144.jpg",
+      "bytes": 2118382,
+      "sha256": "0a8fbd9a7ea8e80ca9b46ab9d783de58aa2b86a0ed2c4b146bd4aa52a8a73761",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f15027bc61b741462a440fda7a987337d63799e33498b3fd53a46eae457b7ec2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_145.jpg",
+      "bytes": 2012299,
+      "sha256": "7ce4f2862af1a76340dc1ba50a3b67a41bcc05ab7f923eaca38ab429ed0c785d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/264c0843d77144e186d2ef27f8d7b64d8260ecf24263960055b1d871e9ce046e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_146.jpg",
+      "bytes": 2081365,
+      "sha256": "30ec0a6fe5e6ff93772a61a6a9574d031098ae5426ca0c3a4ddc8ad303781c6e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5126b2222c43127c46af4814621cce6b25812cbfba004b78416278e5d30fe419_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_147.jpg",
+      "bytes": 2174690,
+      "sha256": "e7e6a3a00a4441b892c8981807462aa97394775990767708db1ac042904a8732",
+      "url": "https://photos.szukajwarchiwach.gov.pl/970999546fa62922a696561cc59e1ca107500441eb8a68db68963aaec6ac9950_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_148.jpg",
+      "bytes": 2107882,
+      "sha256": "75869b419622ae886b891ecc4794482cd1ee542def78071674bbd916afc71066",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fda6fc7f5da6d8dd1158be59c3c8cd647530aedf68f19de714a27388ad03d7de_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_149.jpg",
+      "bytes": 2049380,
+      "sha256": "e50f4316999d09bff0b858369d3d2455d47a5b951c60f831dd1b97fc88fc54f0",
+      "url": "https://photos.szukajwarchiwach.gov.pl/cca1b7ffb45514e3cc6a0584befb03bac86731dac429d6a64f1fbdd06e26e246_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_150.jpg",
+      "bytes": 2090899,
+      "sha256": "d2d870c3efff7acb1c7fac074e027cdec5d3debb9cf2de9ff6a41c88ea4e8f02",
+      "url": "https://photos.szukajwarchiwach.gov.pl/60406bb0eaa1ec49cea163a88e39bba1861020c264f057906eec3b75a06bb11f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_151.jpg",
+      "bytes": 2029875,
+      "sha256": "f94863ae03c52957f12fc4f22d677f4907888fec620667950d40f4840bb1f709",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b61bff0fea31bf68fe5f4139490e0ea78dcfa29678ac12fde47ee9654f9d4ea1_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_152.jpg",
+      "bytes": 2076441,
+      "sha256": "561b6984ff502b105ce035b2d428aa314588ee51fd6f7d9d020d17747e9dea8f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dc52d7532ca1cfc81164f0f5607fd3559f98ba0e926384f7194a2b4045e1d579_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_153.jpg",
+      "bytes": 2093377,
+      "sha256": "a8606338995f9b28f5467f0ee6225dc3ff2b5c24df05cb5c314835f76aef6ca7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a1f032f73cb03cabed720738bb1d28f18de8d1a285c637449a316251f6741709_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_154.jpg",
+      "bytes": 2089830,
+      "sha256": "e74dbf2bff963a580868cb6c0fa9cf068c6d75fa1990c4e05273bf223347528c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b0d33ebe637e5400e7e5cc6d1969abb7721d06937dfabc78d46ca0480b3f0e09_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_158.jpg",
+      "bytes": 1994592,
+      "sha256": "e8b270c5e4163bc9ace6c16ade2c77cf438a726a5010a0de03658eb1fc02149b",
+      "url": "https://photos.szukajwarchiwach.gov.pl/52daff94f83390943b18471f6051bf2ccd81917f08c0449b25c0f2ecf89ed857_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_159.jpg",
+      "bytes": 2016560,
+      "sha256": "3c982e4fb3b91766be335b379d7b471ccd4d9edb21a918fbdb4736f1481e8270",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a291f46a16c8ae3b4616692861d1e161f8d61da9864cda41f34c38c1530fe9f8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_160.jpg",
+      "bytes": 1994155,
+      "sha256": "f097ad532152ef2ea08ad09945ecdab0877588c52d23e6fd54f96dabfb78729b",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9ac00fbfdc606a18109ae40f156d67cdaf3f0cf914f35dea30c50cda8d34a100_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_161.jpg",
+      "bytes": 1934731,
+      "sha256": "a7f76af628d7557d67373d6c383b8b0ba8fcbe1bee102133e5080452d7cf73c2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a9c66d037b128bb69047e0cb8e0d08d4c9d18edb3ac3a36693f8ea91d669b962_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_162.jpg",
+      "bytes": 2002272,
+      "sha256": "0c17a2faac011aa7230b838979f393a6b250f0c4d18a2ba519a3a74df4894311",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d7d204277d94d3ab24919933a41e2a460763d0db65de166ce9ced665880e2e83_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_163.jpg",
+      "bytes": 1970249,
+      "sha256": "71f3f61ab9c32855b2d499541ba1bfef6e79e29e9495c1a6a9890c05467b6cca",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d7436cc464623a9e4da0e53603093ffc0ba99291fbc08cbd8e640d77fa1f22ab_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_164.jpg",
+      "bytes": 1986762,
+      "sha256": "7dfd69a1f7b5afc8831237c74ade85514047f7849da82369a773a81a959cc3d2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f074437e1c5cbb55f4394e25e0d64cd81784753f521251d6086ea5f167fe95d2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_165.jpg",
+      "bytes": 2018086,
+      "sha256": "055b58d8665c5aa7785247da5440f6a3283180e67e003660e5b8e343a2c723b1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/efb7a42baa6da29bb56621125174a9a2e25818bfce5be16a61bd17f14085dafd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_166.jpg",
+      "bytes": 2013230,
+      "sha256": "d35606839b407a464f4ebbe53ac6594f3c8e7c3650eb5333e263e3e9eea3242f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/17223a7df43d30521bfdcc04aeb0a70f7d9780f870d0aea750e9ed44c008df29_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_167.jpg",
+      "bytes": 1973862,
+      "sha256": "99fc02addf25adfa08ccc3772c3d7c0be2afb466647ff52ee06c1d561ae94f0d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/eb8dabcdc173ab6dfebc24d8adb30c82b205aa56cbfc3a885ae4f0928f8d8026_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_168.jpg",
+      "bytes": 1997439,
+      "sha256": "256a7c25c324db4c9745950013b684177e2461aca82824b2a64a4ec1ee4bc09e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d23dcccc4ec47d30835357dfde776900fed3a69c17633f25dc7c1e07e41834e9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_169.jpg",
+      "bytes": 2059665,
+      "sha256": "226745d1ed00915819defea3fe96f81012716c078fd9b33e51e1b7fd77dbc5cb",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4d9db577be95233c02a9b98aaa053c7cafd4f89e19a9ed306e55557864068d6a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_170.jpg",
+      "bytes": 2011964,
+      "sha256": "a2ca82d2b61e42a614d40037098ca1020710df88d032c4e8bd40f8bba51ef87f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bf83726003a850ea1fedc7108a096bcd8c2c6c821712c691134593da200082f9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_171.jpg",
+      "bytes": 1965027,
+      "sha256": "11a7d395fe296664ecd59846576902fcad01ca3f910bdc15b36fd7dab5eb81c8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/69191e83b090e1910ca4ec98041302eeb1c286797b5946f32caa1c3434b8eeb7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_172.jpg",
+      "bytes": 1988114,
+      "sha256": "dfe210b7710b9f927dfc52334f1223d1e714a60212c4b5ae559a740cf397b397",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fb5ad63ac3cdcf0f2168c77ead9a840d5e65e0e3448d852ff38eacbd6e4c8c1d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_173.jpg",
+      "bytes": 1936866,
+      "sha256": "8b22465ddcef31446998c10915df7c636aa8f3b205d7139d7c84fc0df3d0929b",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d8d3800ba13e650c58b96f924d810ac7939ae58580dc190522b28afd6f6fdcb3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_174.jpg",
+      "bytes": 2005160,
+      "sha256": "4382913fd8d9d80c6e4429281d65e56e6d0ccfee186e9d0eeb724751c36cb72f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0e5ffcbdd5e6c6039838be8360e953491182449c552691fd1291080f9e051843_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_175.jpg",
+      "bytes": 2067709,
+      "sha256": "b9e54ceeeef61d59a3c92ffa407bbbf715bc7829fcbdc2d19ad4018f4c55e3e4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/54dc33a4c0ca96d2268bf7f68a620cb3f3fd65ee97a74af1466a8590a1dd4ec0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_176.jpg",
+      "bytes": 2025048,
+      "sha256": "a9f5d4a679805e83c4a4e043d0397a5b3bf59f40cd3c1c4374b911268192a587",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e82ea0da2f152bcdef2af7230d9ddabdd8723b8cf6857e65a0d15257cd9c2a01_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_178.jpg",
+      "bytes": 2004348,
+      "sha256": "6e6151f2bbadb6db49d82687705c850e2729c6e671647b7453de71f2e3359e0a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8ef9979c22a15776d702343f2d45c3cb49ce7b7d0b0efbd7605e17c425ab63d5_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_179.jpg",
+      "bytes": 2012293,
+      "sha256": "b668fce62dda8500c7a1676393649974a3fd5aed3a8850446de12af7bedadb17",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bd777e80eb0d52c0132bd822571e8c4c263078db1460725fe937c6d3206c0a9e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_180.jpg",
+      "bytes": 2000094,
+      "sha256": "4e336d752323f06a4fca48ccec5dbee6c49dc9c8d2c0bac99434f06f92d9a3f9",
+      "url": "https://photos.szukajwarchiwach.gov.pl/025e4e80ee7fdb46f0ace41b3c33df0dfe35bccae92752b20f921e6ac00ec11b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_181.jpg",
+      "bytes": 1975333,
+      "sha256": "4ccafb48d95304047cfa94aea280ecf2bb9ef40f27dcbdf7fc97636d930eceff",
+      "url": "https://photos.szukajwarchiwach.gov.pl/955fc9ec3b179a889634f4433d4f25fad62e2ad6cd923955f456c6c5676f0055_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_183.jpg",
+      "bytes": 1994951,
+      "sha256": "02533d8419c3101921488bb57b2e84bc49c6c3016b964fa3bf5b5314bab228bc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/347cf2b2332455947883bbbbe66401e30c328f18e1824eb9fffc947a610c83a1_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_184.jpg",
+      "bytes": 1985527,
+      "sha256": "ea0e910c03e8bbe91eba85383a6807ccdc0841980457163e769bc9a258816f21",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c26f85f781fc5c6ee6fc8bf69f3de360857df610e0f635cd4d50a7f4cc22c2aa_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_185.jpg",
+      "bytes": 2052463,
+      "sha256": "fac6992fe203dfb6b56b648917c448f885cfdc985ab3e672f5d40730acb8f3aa",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8b560bf2bbbc3e7f9a60cc6e1a30775b6fc99cf11b0c7a0c2c24a1d6bedfd252_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_186.jpg",
+      "bytes": 2059566,
+      "sha256": "604808b796d17426aab39df5e8774e625a7b26cd07d4ea2f0fdb54e70be7d0e3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/43407cf9cb1b7cd5adb40cd1258f344d1700d87aa0dd2d1ed86416037568aa51_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_187.jpg",
+      "bytes": 2041178,
+      "sha256": "83712b961e1b29186b0def945f713a4c9d13e152a01dcc2c7dc668bb3f03bd24",
+      "url": "https://photos.szukajwarchiwach.gov.pl/71688cfc8694200c081ce5b559bf9b97618cb6979a8691e6e95c377240f0661f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_188.jpg",
+      "bytes": 1920750,
+      "sha256": "fd0ee561aa3ca7b34545d15dafb10e0afd1386a79abb65a873cade28e2cccc8e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6e37ed3c0e0ed3ccf83c56fe441e63022d3f68a6e1fdd93c7779f299aedd03b8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_189.jpg",
+      "bytes": 1912089,
+      "sha256": "82e1a3ead199510d99f712993141dffe6579532b732b3ff4dcecc5f93c2b91df",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d7d3e736f2bedc76d38e0b7e402860a5a3fc8d88bcc4722b08b36eebf5189ef2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_190.jpg",
+      "bytes": 1999768,
+      "sha256": "7db8c04d80c0a3f5f1587aa789b6a15624c4f7bba914b80f3fe8f3a24b973d7f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9b2b9bdf52dfc51159c4579475c7e8ee2890ececeec7db9631a2479815567d9e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_191.jpg",
+      "bytes": 2056075,
+      "sha256": "f3680aa10960f4aedaebde8faf02152a9e753c65d129784f88493c8e9510fe71",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e58d42a994f0039210ebc4b72cb4230d7bfea72a455bbda76ca55a02d23f723c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_192.jpg",
+      "bytes": 2012531,
+      "sha256": "f10b9c739656e20e6691e5242db0af55fc1640e4d2a882cf8911dc8b2d4dce21",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0c3c08431069874abd6461f7a78cf06f1f2b96d59197ceb9ed08603b30bd3599_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_193.jpg",
+      "bytes": 2069027,
+      "sha256": "bb83eb824f32da5b53beda4dd172e75947c5ea4d08522b26451f0f43fb4a3035",
+      "url": "https://photos.szukajwarchiwach.gov.pl/994de6b8a995b1bf3a9ceac5d7bfcb44db59ae877436352e51c35604758b97c2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1938_194.jpg",
+      "bytes": 1968391,
+      "sha256": "110557873282cb0d8ea9b86103ff0e358c841bd5a835a2bb350324e52ebbb635",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e2a420f3865666b04b25206b60ad98e6717fb0fd3bedc544f660a9fca3884d5f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_2.jpg",
+      "bytes": 3134803,
+      "sha256": "31eb11aad0489924ba369f366781bea77676686d1e8157fba2efaaa7e6358ee8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7e22dff1bda6f1642352b5baa6b513e868f20579fcb7342f81e198f4119d6c2b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_3.jpg",
+      "bytes": 2688298,
+      "sha256": "079506c240ed7dd944946abe66463b49178de04f8599f226d0a88bfa79cf6921",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7ddc66b81b6b0ae9a41b9ff98b4f998605af24dc54c7cc4491345e4d5d8cd0ba_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_6.jpg",
+      "bytes": 2114184,
+      "sha256": "7fd7ec14d98eb344d97e31fbb3a1227b809cfc4181567d246a18fd0ca4a5fafd",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ae0e9856fa972c752ec4822888a67b0367ee9a347c3d0a94be48a480812fbd40_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_7.jpg",
+      "bytes": 2146379,
+      "sha256": "8cabaa29de8549c3988eea06ff3a57d4ee75f6c76ea41a0d6c17041849ba336f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/db041e6066d6064c55d93657b50d8eaa11244b15caf04fd584c1c46b4a76f89b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_8.jpg",
+      "bytes": 1966910,
+      "sha256": "bb627895b29c5aa73a43fd21fb95075cadd6feeef1d1dfd3afb19417f0b37416",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b1f37edf29cb8c866d38188314e1ad31bfa21ca568bde95468cea81ead9aada8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_9.jpg",
+      "bytes": 2041825,
+      "sha256": "05bf6b4f2cf33a44a73a64f18b0af86f796a4b6d2638e6f6019870c64bc03224",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ce40da8670f8682d0bd7445a19f47cb77925afc45dbc7e05c35a120e23724385_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_10.jpg",
+      "bytes": 2011095,
+      "sha256": "9edbc6ffb432de3ef89b3a20557bd48ced7f6227d67e40e597fa03b4f3b70d19",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6a23fc047b968ba1f22c8dfedc052f61c44ffa012ed1383f9d34effa11fdd2d2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_11.jpg",
+      "bytes": 1886257,
+      "sha256": "49a363e2cbe72b1070133c3b2c88bf06eabced1d86e6e30eaaa2bd9039e35051",
+      "url": "https://photos.szukajwarchiwach.gov.pl/eb3b192b5c79b4030f6cd8d4f36586ea61deb5c5f0615267ecc90405ae1effe0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_12.jpg",
+      "bytes": 1954039,
+      "sha256": "855d18eb7eeefae2fd3ef6273bdf087ee6c15688085ec97decef6add94f8b0f1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8f9a0495b0b217b2585dc43979d9cede974d5d06eec2eb9c1d3ac1208ba28cc2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_13.jpg",
+      "bytes": 2015200,
+      "sha256": "e6710bc75463bd0e4f28c64f54e5652c334b12f11cc1e9785826abb06ce58733",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0163fddfd14c020623b3c8a921c9d285c9587bc9c3d689d8ff348afa6879f21c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_14.jpg",
+      "bytes": 1980429,
+      "sha256": "5ef9009f85d79a91e99920e3bf144301ed0baefed987c98c773cda088e8caa28",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fdc243e9b716f338155c00ea1765c80d7d16c023a8f6c00bd2864b69435f9576_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_15.jpg",
+      "bytes": 1857152,
+      "sha256": "47f69ea613a2606c9146af60d5c1cc965416be1905aa7bc59a88670c9b4d3b7c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/61fc6a0a0ddf4162af11d59defa64c5b8043abd7578ce9a5638e4b01beb996f3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_16.jpg",
+      "bytes": 1934635,
+      "sha256": "e0059c389f7d388b4fa00a3191ead18bcd78df5aaa5ef70e8103833d26d096a1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0055a6f7b1baf6a68ccd7039cc426165e375e2597601c0896cf304c02661f6ae_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_17.jpg",
+      "bytes": 1814307,
+      "sha256": "97a83aef4176dff9fa416ee5680a2d967428a6ebf9f3724c73eeffd09d08d441",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b1292b22e380fbe0ef0e2f1572134a7aff753d630332ff8f13505b661755c3b3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_18.jpg",
+      "bytes": 1937543,
+      "sha256": "4a46de80544d0c271b1b48dd8d470950802a43aaaf5514385d1f8bc4d2eb2b1f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0e70e11828ea4c149bbe3bef19a91a92e4757170a9320c2950f2f2305fa5a691_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_19.jpg",
+      "bytes": 1937128,
+      "sha256": "6ffacf460bf2d4cf6ccd117bc819bc423bef2aa2fe134931e1bb5a91492eb2f0",
+      "url": "https://photos.szukajwarchiwach.gov.pl/09abcfe981014bb3e4e33044b4331360c5f407b55d53a66742e6c9329b0c68e8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_20.jpg",
+      "bytes": 1901195,
+      "sha256": "5437d27a1c9b5dbcd7870451f033b2b0c14aa0149a6416457d90ec97b271ff60",
+      "url": "https://photos.szukajwarchiwach.gov.pl/10240a63c1ef0c6bee5acf33fc5b81dd2e4b9d71569afe62919fecbfce1a32ee_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_21.jpg",
+      "bytes": 1894761,
+      "sha256": "2689b01e671315d26469fc29056fe64e32962fd8994a8f5a5ec2105391e8b2f8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/045218550c6493341e0950c11708c2514502441500a488f57fd3cd111d72ac0b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_22.jpg",
+      "bytes": 1879494,
+      "sha256": "ce75cde269bb3ff239fcbbc464c8b56537f8a80971403bba56faa6e9a8e202d8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/47f2a378b551da2a911ff1ae81aeb40302c2dab94ba2890946d7a24c6a9e6ee1_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_23.jpg",
+      "bytes": 1942569,
+      "sha256": "d8698d6724464a81585907b1d3ac49a80b85d5ee03d86f44fb8adb6974042c58",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bdae6b2e9d983aa284aeca2d91a0692c05d9d69dba610dd06bf99a40b8a6838c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_24.jpg",
+      "bytes": 1956877,
+      "sha256": "40bd6d5318396db2baa6a6528d2357eed81fcf31e366ce1b0d059dbd2d39e2f6",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dfbb1e43fefe5aa72af1b6a25489e436a2d00bef35ec6e5802c754b6df68049f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_25.jpg",
+      "bytes": 1903738,
+      "sha256": "b92558fe4279dd603b3a7c35d621d61db18a3c0ed5080bb3c7b70aed409c2b78",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f0d5920ad17e2e309e906cef4be72189bdb4a84d1692a19ee753f70f4101d3c8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_26.jpg",
+      "bytes": 1965683,
+      "sha256": "1b09d4972ece2bb2a24d0f40808a399870f15f705e54aa37a1c763b1a4cf73dc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/848687d87d16918de5ca68dc71f1ae0ce718c9fb664d6d3bc223b329cc9236df_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_27.jpg",
+      "bytes": 2060457,
+      "sha256": "eefe8877ec311aac6cc0a5fd12663038efd45a63e9a1f8a30c1aaf559545e522",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0bf804fdfd05d465eb03ca12cfeef2b1e83fa408f047088bcb0c4bea2bca7fc9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_28.jpg",
+      "bytes": 2072555,
+      "sha256": "a13893ad0ea4a5f2141725056e9f84d2e45c05c598bab9f44b6b2b6e40b6d6dc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8a6b14492217a652fbf8d2e446c873da977721349a33f847079cb1d53972d5e0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_29.jpg",
+      "bytes": 1973590,
+      "sha256": "006054344d1128a6472da954e303acf4cfa14f0adbd038ec0e824687bd2336a5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ca226a2776eb74bcbfbeebbf3a87c05fd1664b49b2adf83e629e8c6db72ef012_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_30.jpg",
+      "bytes": 2045377,
+      "sha256": "c7e7065e45b601ecd8797d51920873f80f0bedcd0676762d604667e98112bfb5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a0314072e8006b771221f840ee86ec546659b2253b0ccb6aeaf285f3ef07b3a8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_31.jpg",
+      "bytes": 2143454,
+      "sha256": "eb1ad44df2fb2972b1c076f9596af1038ae3b2a981409766bef09b749485d44c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bc0011052100455e8b0ca18463096accd13ee141f69b90a023255f2d406f0080_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_32.jpg",
+      "bytes": 2007694,
+      "sha256": "a13f0884cb4576a9eb2747d8cfe731adc7dd2b41e224b33da7ef2f7ec49d6220",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a93c1296468f157ebea616acedfc06286d4aa5c939cabaac6e8f4f04b78fc1e8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_33.jpg",
+      "bytes": 2084040,
+      "sha256": "7fd64d6fc3908b75c3559afc6e6e443b5b910169cd20869397d1c2ff3976df65",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f9960721be7ad0c9cd2fd6f1df58d70104a404f172325f8d9d0a3403df991d71_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_35.jpg",
+      "bytes": 2026798,
+      "sha256": "8d9bd7bf96cda5d46a1054cf631cdb515f80ab46a5dd94c32e42537a5020eec8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/aedbfafa944cb68595ac7ef61576119cf0a037a6f16e636e548c4460cd385782_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_36.jpg",
+      "bytes": 2067098,
+      "sha256": "60bb94b68ef06ebe5f8829fd1fd8fbd492486d098397b8dfdd81a382d2b37aa5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5428e3e55703b451fe7100d5cc7ad65bee0e2595f33607a57ae83f19003ab083_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_37.jpg",
+      "bytes": 2036067,
+      "sha256": "63b10b36ba7b4dc5ecc8924bdd47edc17de43edb0d401e84af7c45efa5f518a9",
+      "url": "https://photos.szukajwarchiwach.gov.pl/59c7b26c1c460bd1de4007aa044c567f1ae1c9e7c37d668f0259c7072decb768_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_38.jpg",
+      "bytes": 2058598,
+      "sha256": "8de26adc1358e83c2826e21a31719f272dd82d8fb4b6c8de0965011aca886357",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5764007dfb6b404e73dce0e161a56363c8d9a8d4c2b2a9f4fdf6f6927b2cb7a1_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_39.jpg",
+      "bytes": 2015477,
+      "sha256": "c87898cb9d6a6ad779890a33009303e6fcbe564fb184245057410a56f5af3ef3",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5aaedff1646f9335f2d294a03f8ea156458f183aa3c70da29ff2e9577f2d81c6_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_40.jpg",
+      "bytes": 2037790,
+      "sha256": "18a9de28695d19b2ba50b218e92b6f0374a08ceadc030c9f99263b25a208ce02",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bf0a31c626690a4fa395ab1f5d903aabd2b5df0e08bb9143c7b76c450b679c94_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_41.jpg",
+      "bytes": 2062952,
+      "sha256": "b9f393842d0cf65f8ff5fd4a83ead27dbdf32891a3d75febac9a13e704cbad8c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/86c6d664344a95d3904c5743af88ea328264b43f6de106afcf0630fb70079026_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_42.jpg",
+      "bytes": 2019001,
+      "sha256": "b93211c6a93f76b3bb9ccd534634e0ed2f02c2c3d650cb03d9d3e5af5119fa7e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0b9bc1d2cb3d27a628a4b6bdc8f6c67200e618176d4ed743f6485a146028d976_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_43.jpg",
+      "bytes": 2013677,
+      "sha256": "b4f2cf4fa0df9775b57fce15be215767c122c42a19c61b0bd2d22b1f86a5eb57",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4f83a636b08463ce0d76336b4434c06e7722fb71d30f3b0c167ed8a120fa7583_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_44.jpg",
+      "bytes": 1980202,
+      "sha256": "228bbf4eba67177c996724e46ae22a22d4b4434c49fdb0b11f85decab0fd1093",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2f2299fa2264930cf36a007a4ed17b2f6d8c59ed3cafa531eb8820b52d45576b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_45.jpg",
+      "bytes": 1917549,
+      "sha256": "b00414a5167c4edbcc4928f53f4b5f2b2576f7ae39742a74469e64e2836db57a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a6536aac8d47331d458011861cdaf773c9ae5eebb9d0708799387509db484156_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_46.jpg",
+      "bytes": 2028593,
+      "sha256": "4fb3f7e56d0d30db688fb5b4ea4f7ad5c4e7174091de405fa696bfa4d53f36a8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a638222f80d2de07eaf0c150d956a1683bd155110c484e751955c1933ed9f9b8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_47.jpg",
+      "bytes": 2195161,
+      "sha256": "9125fe23b626ac4d1053a4e469c7dd1314fb7638753d0fdf635a16c41884ae6d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b27d23a2640b3a98ef780f59defb7c17be53fa2c22ea6731e52b1d4d002c64b2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_48.jpg",
+      "bytes": 2274429,
+      "sha256": "bcdb6c26e005388d3c02c6961eeabb3421cbb6a7591f014f35f1d56e7e64ca88",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0e8efdf1cbf613b4d7d090cd0635e2eb5cb297c85ab0445ac8c0acc4e30f5229_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_49.jpg",
+      "bytes": 2156032,
+      "sha256": "e073f2ca4740bd0e6e786e397bd145d887891b58c190a17706fa480b39728c9d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fd4db6efd3f49bf2d794d2bb4aaf7d15e0236bce15550059297722e8d4f04ae2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_50.jpg",
+      "bytes": 2150369,
+      "sha256": "04d1f9ec146e0911ab54f8a64036ac4e13945e85078dfe0d936c9dee5c8ee83a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fe7de479d0bdc0a2625723fb473177067cb97fadff10c577e80c222b11193c74_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_51.jpg",
+      "bytes": 2075617,
+      "sha256": "511fe5c9f03adbd663cfca2db9a0d50b3e7d234acaaf3fa3faf95a9b1acc00f7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5a4942dde0fc97ddae700c0f38ed2b975e2efc6dc223b8d6e2205b88b1fd28fb_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_52.jpg",
+      "bytes": 2102710,
+      "sha256": "0231397d8253fa6ea8f327b5c69bf982d08d63393239922befac25f8fa94301d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/78d25eec9596fcb36cc1fb5ec3b005f85c9cf71d39c624c5643ce9a1ed4264b2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_53.jpg",
+      "bytes": 2194034,
+      "sha256": "02562b781d3f5c1f146abc88a2a3afdf65764880a521b0e81407b6a11a72804c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fa63dcd5ef2d549fd4d1c0d3dd9651f0921dcc2bac880788a2b2b241e9140716_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_54.jpg",
+      "bytes": 2062423,
+      "sha256": "4f17dbe0ae4d7650d37f8f34977d6d2f258c70885dfdefea241e99d058fc0401",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ffa61e6f42b2fbf2976eee3703badcf1871c518f9c18f5563f64f7dc32f81925_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_55.jpg",
+      "bytes": 2016528,
+      "sha256": "b755629803a8fc94679a2e0316718d99c507ebd26790ddb63c8a917890ddc79a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9916689c07716c0759d5cf3108c1e3e08d15724e6646fc460327274f7889d997_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_56.jpg",
+      "bytes": 2066806,
+      "sha256": "b27462f467ec5d3d735570fcf4899f448dec6e8f50b70351ab491239b0a0d30a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f3e13f157a39b987b3a586faf1f396d4c3b4f84b695cf2d9f4d949ffb2a3b1e3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_57.jpg",
+      "bytes": 1997979,
+      "sha256": "35dd996381a067d473b352fbb79d1f0038f2f1ed949f53d7cd8c7ea5cdde1b8c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c0a19db6c3cc97a88d2c57f9ee4c333746e866655742fc06aba770fc2d34f777_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_58.jpg",
+      "bytes": 2043392,
+      "sha256": "c66042353dd8a674c24fa9b3ebf806108126280d6ddeeefa50ec6cd9062f532c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/64d7bdd24757c837de9f085cc312032704bbadca9d3ff3347577a2622ba56080_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_59.jpg",
+      "bytes": 2022681,
+      "sha256": "cf4b1c8e33ee64dd2f92199314e7b8a7019f7b698b62a49f62c3ed8663b057ec",
+      "url": "https://photos.szukajwarchiwach.gov.pl/cb650b96a278cce202308513bc4431a0d12e0e9d17e01ef1f0dae0ac82692c57_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_60.jpg",
+      "bytes": 1980614,
+      "sha256": "c34c5e36631117b10fbb9e915a2ac19243212ef554be058fcd11451d94e20a31",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2f66865361a107c4d81d00187a3ea209c3ab8120497a0f1626188c69f0ffee23_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_61.jpg",
+      "bytes": 2079011,
+      "sha256": "0d5b951daf23d322ede6519e9abc172adb9cadaa22d3ebdc3bd8f0fb79f2b2ff",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5c05b5e00964b79f09154fd5ae854a10301e93ceda51689f4c17d134d0e64bf7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_62.jpg",
+      "bytes": 2048983,
+      "sha256": "91f27375dbe3386c1340318095a1ad547d0df45dc1908306ea352414b7c1a65c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0778589d9148232e97988e9b3ffccf566ccfc9a8e3b22e373a11b33bd34fbe17_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_63.jpg",
+      "bytes": 2061453,
+      "sha256": "d38944aa9b4be67c400b52d57cc7384bac0918f14c5a2fab5c5d863426d33e2c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/3732a01c87ac725dc461613bb1a9943f13adf4517d71c97cc4a336c3fd146486_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_64.jpg",
+      "bytes": 2176772,
+      "sha256": "91adda94e1156ba189eda29e44819cc34f206b160abcf71cb5a8c411ab06db4d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/73d15a0d7197107ff535d1967536e68b2cbb71bf786a155e4463d9542d26a916_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_65.jpg",
+      "bytes": 2111581,
+      "sha256": "0d6a7e794abd4e021e9992c8a88ea663df0e5e8fda2c5921bffe2b461bd52e20",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2563f146df280a0b9b4fa04b65343ad9b91cc0e1af4881cd64c91d5367faf98f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_66.jpg",
+      "bytes": 2013286,
+      "sha256": "5e953c7b327b9f0c897dc114150447ec3150609b993d33c6b1e872b2f46b7538",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bfdd7fada75ad7c544e21c246b5f984ef8dcf27697b654df0d7cbd0a926d43a4_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_67.jpg",
+      "bytes": 2091805,
+      "sha256": "7227f1008988ba24e56eae5148ddf54befd54ac96046c5c3d64657fa85953b46",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f69ad25b1ac9ba521b633162eed12aea27e600b55a4855e2c41177094549d08f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_68.jpg",
+      "bytes": 2131370,
+      "sha256": "f70b453e64e43ab8289b9980629f121190004fbe19581f3c7513147a5f85d75a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d8bef418b0133039d2f15e6f6528c15813d70e3675bdce16b6f5ceb22458d971_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_69.jpg",
+      "bytes": 2102749,
+      "sha256": "d5ecc9e3e520dd514874c8db5494b56584f1059c62d44db750e99f2625b185fc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2270b7ab014b5545c429fa6b0452a1e0a96a1049cde5237537ccac7a86d845c7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_70.jpg",
+      "bytes": 2138189,
+      "sha256": "dc7971058cee64a783f9ddaf390960f3972efa7087f215c202b7c6da01d2b05e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2f68764473ef5e55b263e6320093e2febc87a08ed8e80a6d285a3c465e3a5568_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_71.jpg",
+      "bytes": 2265724,
+      "sha256": "f5b18322d279ad829e56b312b6a682da07cc9e51e2e6b6784ea4d18db542112c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1d28fdd7efa1edcf56c617623388bc26eea9138f7ad9e0e50ad5a507ec910f6a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_72.jpg",
+      "bytes": 2057025,
+      "sha256": "4b81eb42c3ca6b548ee19f9862b7b4d3d5d6343580b8e62c58311e6710287b41",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1346b303e1ec3e55bf43235c27b3857f07738a45102750054f5a978cbc14f6f3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_73.jpg",
+      "bytes": 2109294,
+      "sha256": "0726b0dd63f58bb99da7e5d0521b5a9a64828e9e0a6424067a430691037d6049",
+      "url": "https://photos.szukajwarchiwach.gov.pl/89f96275f60c907be66fbc7e24f6fe01972bbb874618c21f86549d5df1808797_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_74.jpg",
+      "bytes": 2175120,
+      "sha256": "024e55cf8d0c0670231e8aea9383e69920f45ca38ff65aadaac2090e9a3a862f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dae252d24e5f01a3c99f248a3df57463b5e74183c8c14f525ef2ae5faa35d56d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_75.jpg",
+      "bytes": 2233515,
+      "sha256": "7457a987eca0631668e8cee289d5f91820f0152b33025d0f0c2ab11e8602c6db",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b81bf39a493a25b48436fb10d74764b1a28951e97e78e0b7c9304b831bb9ad10_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_76.jpg",
+      "bytes": 2287099,
+      "sha256": "d43b596168ed86ab15159bf5009e1aca6632d653fa1ef413f30270cb32d2bd3a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4e8fed3756560f184a23285cb4c4ec81db9f5e009cc306a83ffb3d5659fc9a04_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_77.jpg",
+      "bytes": 2154000,
+      "sha256": "b1ebfb9ae4892319c4e4f806bb047ba4afb9508c2fd1bf6466c89177708c1442",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bdc5649b3fb5d1b31be2c24d43a2d17b3793b38d1f88f283f7e2b0e5c72977a7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_78.jpg",
+      "bytes": 2130102,
+      "sha256": "b28e149491380af57de62eba9183ceb239faa549bd7d167b217d88355e594276",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2b184ca2c47a8d147b88e47b7ab1f842dce2581edb4af9bfca053eaa19784b63_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_79.jpg",
+      "bytes": 2181275,
+      "sha256": "124e71004f55590e1b0d78ec3e4aaf533d6fe7d550b32c707456810b57c1b254",
+      "url": "https://photos.szukajwarchiwach.gov.pl/269b02012bf5c61a564e7263fd842df8883a239bcc72bdfdfa03f6236c4e1a00_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_80.jpg",
+      "bytes": 2126333,
+      "sha256": "33298b749d3d03aa9a364e04e70c90c3e3dd911d49607a5b3c5b2ac378aaa9a8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8d4f302ffb036855914960051bab7cbcbc13e65f9b491afb44199330fea39be1_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_81.jpg",
+      "bytes": 2100140,
+      "sha256": "496d040e3f4dc51ae520e8a7cf6e8fea1065943cec5c0c38b812c6c1aafbcd87",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1225b64ddada6ed0a1fd4787e41dfa0cbffd04d33942e230077c8a4c65ce361e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_82.jpg",
+      "bytes": 1947731,
+      "sha256": "05c38b715cd73c856d3173a80246a651170c66f5921f4857d356844df898411a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/185879a6016a15a941e538eae2652f1e431878f13c8d45f8db4b3e9545052f72_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_83.jpg",
+      "bytes": 2106322,
+      "sha256": "ca892b00ce9f42a9b3421feeda67614789795ea59ab5a9ab7152a64927e5d11a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1ba8eb85dc3241063f3f5691ab26122a1d3e855b07fb8f1952bb03d43718ba63_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_84.jpg",
+      "bytes": 1999626,
+      "sha256": "44863db76179c87db8936ca6952912e79e2e59a8cdb5c1258f6f69309f1ead62",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5b3b84888fb7962110cac554f390e17839a878e60ad17f6a246151b5b1d7dd5a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_85.jpg",
+      "bytes": 2001035,
+      "sha256": "cc66ae4c154eebdce0b30901d8d321b64a40235ab47e172817a84cb1b1589456",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1e6e5fcfd63865d59ce3853183142be37e40d8bc200f3c4a0a53ab5aa112924a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_86.jpg",
+      "bytes": 2250980,
+      "sha256": "6624f6080f45f7fcdf9089cf682eda42d72e150c12accd603a4bfcab58b96506",
+      "url": "https://photos.szukajwarchiwach.gov.pl/31eef96dc60084fce4c01dfdd1db8d5c7740b44e6fdcb127f22c182a2a09e675_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_87.jpg",
+      "bytes": 2324084,
+      "sha256": "25b35b07ee8bbc9cefa7c869070e616639a8e7e5131d4c60dd049d76343f47c5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d9631c4a776ad98a3e0aab19046a8e8a0ba8e454e4155242febcf098b52b16ef_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_88.jpg",
+      "bytes": 2308591,
+      "sha256": "4117691a7b0d97af5fa9556ae781fd35355e1ed495ec4da2d1c4804a80b8f528",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1ba9e1d88d16accb63d7ec94f0caeb0c20798e4a522cf73cfce6ac7c973931c2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_89.jpg",
+      "bytes": 2226557,
+      "sha256": "4096fdb24a8834aedb775be2897540df2ce70dbe4289eaa23a3aeb12d36b37cd",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d044433471bd4ce3f1d8a87e9846fd0cf2a148152da8144a9a1222e237532005_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_90.jpg",
+      "bytes": 2154810,
+      "sha256": "4b490810a0d236c89ce92f15a38f477918a823eac11c48e5025d4562d9d48b3a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a8d74125328f206b5de721a96726f26cd9d418fccc91c2166b69be41b61f77c3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_91.jpg",
+      "bytes": 2099152,
+      "sha256": "7f086d98213710e9f32fdb6b286d1ce638e6db2c8b0bdde3a8a5851ce76648b1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ac8dcc81fe270dafb322d9756a52607fe6d4973816568fc34e5a0caffc18a555_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_92.jpg",
+      "bytes": 2216041,
+      "sha256": "280282c55242571d9d3e4c6e43b1c05951d08dbf72fa70da4a1c079d64e8f1f6",
+      "url": "https://photos.szukajwarchiwach.gov.pl/73a5fc0984a832cf57ea7b77747aed816726571d72b4beb0f3587b750606c386_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_93.jpg",
+      "bytes": 2113940,
+      "sha256": "10ae5057ef0c8bd553044cda52d05ba140fde3bba6a9c7595e7f9beb1ee2f662",
+      "url": "https://photos.szukajwarchiwach.gov.pl/92ded44728566167a3841689866228c043a0557bdb182a9c4ea65cf6ac2d61ad_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_94.jpg",
+      "bytes": 2221389,
+      "sha256": "83176f2ce23083176ec3c7536f7ba75b9d38d873f055fccc8d18f8fe2d0ae6cf",
+      "url": "https://photos.szukajwarchiwach.gov.pl/db108b7f61667c6770620e9d6973e1a1d43149d160dd7e88fb2a9b088cbe639d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_95.jpg",
+      "bytes": 2142966,
+      "sha256": "73bd85bb09fdd350228de7a5199077bc662b3e86f69b6e4ec27344091bc7e3ff",
+      "url": "https://photos.szukajwarchiwach.gov.pl/24021a2349bc228ea0b0dcb91bb51e6e8e285cd0ffc10093884065d3772d96be_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_96.jpg",
+      "bytes": 2130498,
+      "sha256": "ae718ebb1291300eb074a638896cf00a6439368118e173316867f809a2c157a5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2ee6cf4df327c3f38926f7bb8696718e096dd060e0f265b30b07f4192ed6a28e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_97.jpg",
+      "bytes": 2187331,
+      "sha256": "1f0c872119f94c6beda6244ef6f3c21f7e8bf595ed7038671d409dcd0ab8d36e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6006f059486d35dbea2f6c1473b02dfdafa9ac10876ba5bb4830442c9166a3f6_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_98.jpg",
+      "bytes": 2161508,
+      "sha256": "0b1fbb1530225135ee9a82d00a552292962f7ab5caca3e66f8e2a17f7a83a07f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d5dd12d49f4860fa4b77d4888dfdb91f76e59bcdb57529b07c54a3f5c15ee7b4_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_99.jpg",
+      "bytes": 2216265,
+      "sha256": "02826e5e51b47d3f55036805448b61d72d5e673bc23e50bd35144dc356fa3c85",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5308f5002f3fa40284761e858143bbc02817829cd95d631662cd018a400cc652_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_100.jpg",
+      "bytes": 2206582,
+      "sha256": "a016816b1ec589c36ca21328964dd97b5dcbe47f17f3716263deb14bc8965dfd",
+      "url": "https://photos.szukajwarchiwach.gov.pl/51cffe019677a33bed09de4be72b737a29122bf63ab503b3211e282b973a6c29_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_101.jpg",
+      "bytes": 2285196,
+      "sha256": "b3ea1655f0391d49c4c22da08b79141ff416b3f80f2d12beb9a6a6208c15d442",
+      "url": "https://photos.szukajwarchiwach.gov.pl/06affb17a60d5d720d1739ade5c45b9b8353e0b3ee0982621c999a90896d6946_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_102.jpg",
+      "bytes": 2254190,
+      "sha256": "edfebb87a0d336e2874cc44c4f1beaeeabf496ba19981bca6a971044aad5bbf2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/99c9aa76b2bb7658a1f53c790afd08f1e95e7c09335d4f93f06953064fdfaf8d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_103.jpg",
+      "bytes": 2286890,
+      "sha256": "7c09ddfebde925886f76a2432f8aaa1fc3fbd406416a5941bee05e42fdaf3a41",
+      "url": "https://photos.szukajwarchiwach.gov.pl/cf4a9f95247d053c67e4495ba600c961807adbef03099980dbfabdbd25ae7fa7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_104.jpg",
+      "bytes": 2251965,
+      "sha256": "556fa0af2184e70af7246d617201f6e72c9dade00a288fe0c9f872c3d0e5ee07",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d83f674bab5c5a9203d6c5569f3d56e0c8d25cc965c000d2543ff99036818bd0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_105.jpg",
+      "bytes": 2239128,
+      "sha256": "bd33b27dc6b2f0fa8702e326f54e3f6eaf85288065700d9ae1bf712b87deae72",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b8c038f6651a452463bdf52c98363d56cf9246a163ce47f38ac0e981a78e2164_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_106.jpg",
+      "bytes": 2310663,
+      "sha256": "51c12036aa6c8416902d1e6838b0883e65ed2b3be1ee7ac6c59cc4b6074cac92",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dc2a73f90e96cb4265bde2c38eb27e9ff3744f0dd72681995d518f962b1ea4b2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_107.jpg",
+      "bytes": 2269270,
+      "sha256": "3b96331cb7f47a9b6e7008c088ca18d40ee03b51d440b5f23aa0e725afd83974",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d3ed77faafaf386a19c525d397cadbb42dc6e424b983569c0649a05067ef3856_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_108.jpg",
+      "bytes": 2328004,
+      "sha256": "4c11fc37f4a3da222ff596d65d561fd79a020c08935f685452a25a23709d0eff",
+      "url": "https://photos.szukajwarchiwach.gov.pl/481d4a36eaa945877e5c181731388a1089923c9b16295cf28db2b21a971436c3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_109.jpg",
+      "bytes": 2293680,
+      "sha256": "4703389ec79542b86ae5945d12404f73257ae174addf6a39a21de35a3dbba9f2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/29d9df8d8dc3293bf8a39277d2a509ebd30ff6a6f2efac5050523cfcf5ebc144_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_110.jpg",
+      "bytes": 2286683,
+      "sha256": "6154a4d6b32ccd2e5743ae56c6be30eb76e7be82e625b5c18cc6304b36954b32",
+      "url": "https://photos.szukajwarchiwach.gov.pl/6c4ff10f92cef576c45385627d8a68cf209b79056599218d2036ab31f1e5450f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_111.jpg",
+      "bytes": 2172360,
+      "sha256": "fc1751db88d317b53d33fbd2a1127deca2a253178782d463286fc4aa697dd8f0",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bab57543eab677cb711368f374b1095d503dda7fb2eb6e5d99adc35107644a83_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_112.jpg",
+      "bytes": 2189917,
+      "sha256": "c9cfabfacb7df83b12703f16635023a21bf552640bd302644e46be4fdc297cf1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/303dd3fd92fb1df15f66a6241b8c9d625bd26e0a0b0e53289089b0bb5fc95a06_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_113.jpg",
+      "bytes": 2264010,
+      "sha256": "b851c02aeada4a3fcd0cd230103141aa85e1f819ad6fb722da59b7f44550ed21",
+      "url": "https://photos.szukajwarchiwach.gov.pl/04ba90c3695e481480d27a9c978f5c8a5f96afd3645c4d4aaf5ec853c21db308_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_114.jpg",
+      "bytes": 2309430,
+      "sha256": "0c0b60ab6d74ad474925256a58a489966cb0f7f61a0f73eeca54bb33f3c5d9aa",
+      "url": "https://photos.szukajwarchiwach.gov.pl/903c629a7e3b549aa9de24699c14cafa79c61d3f0d0284c069c1ec5af7f75e6c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_115.jpg",
+      "bytes": 2297595,
+      "sha256": "da0841affa24b46b31aeb7dbe1d441e99dcf25e8c91f1bcb5291d5a953c581cf",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bbd96ef891d5c05844b1f6c01741c5f19e75ea0ff846bb26c26efedd080d6e4f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_116.jpg",
+      "bytes": 2246626,
+      "sha256": "2e789a684efc676bd1cc0fd1c68b3615d300747453117c2d1418a1350cd72b3c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4ebdcda18e200f1341d7fd4ace43e0d4f568032abc7e6fb78eaa5e0dc9560732_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_117.jpg",
+      "bytes": 2259342,
+      "sha256": "a2ba50b684ad2c8715932c4c8885d16ef4044bdeb51f3b386a88bb8d4f35a1d9",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c7f1ba86cea75c8cf1ce4f4dfc02f26b627652785ffa50455ed595fc2cfc06e0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_118.jpg",
+      "bytes": 2252528,
+      "sha256": "774e2876b82b29f3c0ea67ed7b1dcdb882b7e384f55d3e074feec37fe0536dba",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4c2a6ea578ca41d8813425d7c8799b1eb1c675c8eb402367d0ea7b59451850eb_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_119.jpg",
+      "bytes": 2259557,
+      "sha256": "66edaa219606dd01e8556a76700216eb67bc4fe1246d7d2c1c9863c3472ddbdc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d0be3acead9f25b8e433cb5afd4aa8e6d96a085fdc58df3297ac8432457e98d6_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_120.jpg",
+      "bytes": 2336682,
+      "sha256": "6a365391a16afc8d5ce6a7f9d51d7c6b5b7b35415df0f335b4338ae0e76fa5d4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1ce584c64176117960e01fc3393ca7b8eafaf7541807e761104dccffe592b4a3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_121.jpg",
+      "bytes": 2183434,
+      "sha256": "015d4b45164307e962789df09dca328c0ed70169bae51e967d30dd69bd501d37",
+      "url": "https://photos.szukajwarchiwach.gov.pl/55a7fa647c39e28c19a2b4cc499d596c6b447e6f90d0e992f8178f9de9654a99_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_122.jpg",
+      "bytes": 2216736,
+      "sha256": "804d1136a414f1b16a9b499965a1f0789019c80207ac82e4f04cbe7c4d0a6d56",
+      "url": "https://photos.szukajwarchiwach.gov.pl/11bdae424032ada698cb920d1eb88c26feafa0172daa79b2fc0ac198956dfc0b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_123.jpg",
+      "bytes": 2213459,
+      "sha256": "59f74f9fdd34af9bfd5688c4fb1a3ea80b90afda4a96b7c768472984ab2a9902",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ff5faa6ac28b523f8c59bad977d4e10cb947e3e931945fcb0bd23e3937dc54bb_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_124.jpg",
+      "bytes": 2086240,
+      "sha256": "ee1f9230fbb9898e9ce31761a65bb312d15a9aca77fe8dc0f4a4af04eea2d3b6",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0895a0263e1bb1f72c2d4e11b098903df6be3c8aaec96427d70f2a4f67303631_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_125.jpg",
+      "bytes": 2195499,
+      "sha256": "42e40c2fd0347282cf08e91aa9be4b6ae0ee5e859f82ce556e28a1db3596f95d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1fd440d6280fed9180f6b9bd6d055cc9e89a3a68f437211855430dfcd16f7bae_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_126.jpg",
+      "bytes": 2212007,
+      "sha256": "d0f3cc7f53fc4c9ab4ea87264ec402351f05645d56bd7fd5957741b732fd5b5a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/73cf33e6df4851d44ed1b95a039d8872079248613d0af13a2c9442d0067bf518_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_127.jpg",
+      "bytes": 2126069,
+      "sha256": "11e203cf70bacc9a6b4da10a2758c06df924ea93be94cab27bf6cb6d02c10377",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9673dbd7d6ccb91934e095c8fde1882b9af419bbf06bf887e10ecb25f77d7c8c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_128.jpg",
+      "bytes": 2186924,
+      "sha256": "d4983861674317704f6db1fc6fe3ba0371da200bd1b01b01402389b98548dce8",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bf9e6b409009fdb8844ce8ac16a2683a57444f07e9f9309d3e0ba3449961a40e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_129.jpg",
+      "bytes": 2131918,
+      "sha256": "a8ca457a5732bd0d994f36f0739b6ef1f11f099bee804ba968afce742d156610",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d5187a11ccedad5ecfb790e5f6f869a6a03e843db72fbcc8f3267bd49f77d949_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_130.jpg",
+      "bytes": 2268377,
+      "sha256": "4b6399be0b4a76fd3c2c62ca71db18b149fc8fe0ea2ce28ac4e97995ef291335",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d4f8248f52b56d2fe647dcf78219e18987d8e8839c6d4c41c5736ca2d01d81a9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_131.jpg",
+      "bytes": 2138523,
+      "sha256": "4b03797eada12e6b8b90a7e85d101a70eea2cd35f2d5a4523cf2115a2f61389e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/12198b209f9e3db856d38582bb2ba81ee65b3e970ac087799d27c42a2c4d1631_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_132.jpg",
+      "bytes": 2110230,
+      "sha256": "8f6e26f7eec9ec6cff0722b85ef57e699889c659742ee717afab9b09390416e4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2c01472c1b4e42a633ffde40413ebad2166d185a0e9c91738fad6a931ab35f7e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_133.jpg",
+      "bytes": 2151957,
+      "sha256": "9b4b4e47ca194015dc64231e9c1c079b6447b37970b9b78b7ad7b1f078afd2bf",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1f467203831c480b1022db8fe375dfb11498a73b23689d05ee0b05249d62d32d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_135.jpg",
+      "bytes": 2311873,
+      "sha256": "641d1ee59d9c9ef96c157e333a88f44e3552fdb08fe047e6aa917340fa7d9738",
+      "url": "https://photos.szukajwarchiwach.gov.pl/90271197b2a2a944ff70d9e46e5fe7614c59f1126e2560caf194a3b43430c1bf_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_136.jpg",
+      "bytes": 2208718,
+      "sha256": "21dbb52d0eef7bb5ffb85f0d88c0393cefcbb5b7fa310d3786e156b878a96487",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ad9f172d26826fd4dbc5a6a21ce1324e7a37262332b22b84d6a9581f226a6b55_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_137.jpg",
+      "bytes": 2277186,
+      "sha256": "7348bd6435f8d0ad0c4c118e65b7adf7dfd10c378b806642fbfd11665d089ddb",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7116bbbd500996103fa41c9566e9a2a1454d97b976c9fb5efaffbc23bcdaa1d9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_138.jpg",
+      "bytes": 2234815,
+      "sha256": "c23c63c9e42067956aeedd9d5694a9e89500cbac191da9a8d8b972c470242cd6",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d297799083b98bf90c678b849357a02d6289519fa4081d4380effa618ddb6a11_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_139.jpg",
+      "bytes": 2248127,
+      "sha256": "3f0d61ed41e44cf2c23d99c97e2a7160f6f8c5f2c35d67c643678be5af204ab2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d413339c93f70cfb16a4c10d227ff505da707889b1fb1cbabe42ca0c04d6687b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_140.jpg",
+      "bytes": 2155185,
+      "sha256": "34a52dce1451a8903886735ef86032459509add902e0cd9ea07fb8a84e9a06d7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e6385ca394b8b56980c05f9ec319111cd89fe8c4a407f223e62973c2a20aea93_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_141.jpg",
+      "bytes": 2144907,
+      "sha256": "1f4dd58879ac9fe7dfadb1536491c07535a369bc2bcd0dad2d796af86ffce5b7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0ad371ebf673004d5f035936f434d239a695677fd43e634531de98d8d4396857_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_142.jpg",
+      "bytes": 2135168,
+      "sha256": "d348e843f97abb2327fe1e328ac344b1d9970a20a5b7cce08e6b506ee6b27ee4",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4fb67574474e901a25f174094aa0092fb9f9a438764f8aa91665c2515c9b04c6_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_143.jpg",
+      "bytes": 2257456,
+      "sha256": "7db7022aa2cd2e5d34e07d4561497b2f66ffa62bdd36431217a1105cf0d36013",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1d4a11af72ae15703dcc222091490a2bba23bf659a8b4dd31bd17698a6e3fc64_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_144.jpg",
+      "bytes": 2266103,
+      "sha256": "1f7a98d974db7dd227d80ca4d632a515a32e266d749831bce6c4e472293dc0f1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ca5f6b1c37c63adf9893e14af1fd701dc1fd3bb7914322187ac32e6b07bc2f61_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_145.jpg",
+      "bytes": 2289483,
+      "sha256": "6a58422d0d4b8ed2f15c57e164376808567f693e97ac813038089eabc39656db",
+      "url": "https://photos.szukajwarchiwach.gov.pl/fce5d03f95989d4817f69b56085e2c68f95c0e9708e088e0d3758e260feb77cd_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_146.jpg",
+      "bytes": 2244554,
+      "sha256": "8df52d5c09768670b1f69afb16119691ece55c7ec08d0503bbc97743d1ae3f56",
+      "url": "https://photos.szukajwarchiwach.gov.pl/2659a93f873cbfb8dce68a3a145942d4abeed56abea8aeae72de449f0c317148_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_147.jpg",
+      "bytes": 2246340,
+      "sha256": "26ad866656ee372bdfc73243a1160fefd646928b8959627649da964012a05786",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4213116f0d7c3e201af6a294557465e7f8463eb43501555419a964547435839a_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_148.jpg",
+      "bytes": 2232615,
+      "sha256": "8e8c4aaf591f382808cfbf96372d4f117e842672ee10f7ac144e8ac845096d63",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dc0ab043641a1a9325b0539bb87d19be3672a0267309a8780dd69e9229ebfa9f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_149.jpg",
+      "bytes": 2262504,
+      "sha256": "8af1ec9a2b456b4629b6fbd8a4e1d7cacdfdb277cb6838e2f753fa19c098556f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/1e20f4180ac6dfff7ac4d52a7fb9289b571199e5a8387fe6d72850c0017a8604_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_150.jpg",
+      "bytes": 2275679,
+      "sha256": "9582702ab760755e7641b672b78a26470c8faa4169068dedb606b106b8706219",
+      "url": "https://photos.szukajwarchiwach.gov.pl/9bb8a9e9a1c5d4dbc9d6dd7938b7d7450fa01a04901934b1cd987743b501707f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_151.jpg",
+      "bytes": 2277528,
+      "sha256": "1d77fadb92b1733ff191180a7d9b3abff9ac987f8af195857d98972fe45d09ea",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e46a150e48c7d36c31aea93fd77470700c68fbb559d98ec810d1b4b7177963f3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_152.jpg",
+      "bytes": 2224333,
+      "sha256": "8843ac15682eac1a442bb806bc2132fbba5540958264781c69f1d1bbba904111",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d3f3bd74b93ee094ed642c0987c833991b1406809692892eef2c5bc79f272f9c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_153.jpg",
+      "bytes": 2121662,
+      "sha256": "48fd4cfbc1ea69b804e2f019cbcd8a7b140156ac6b0c041a5eb36a141688a32e",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4d55bd25962d9988e1d17ecff89dc32d0a1c8db0c99ff4b09dfa80880e0706bf_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_154.jpg",
+      "bytes": 2261641,
+      "sha256": "3a72a856b7ac1e4237f759a194c9efcce81fe8cb8d6842525bba54cf1535e910",
+      "url": "https://photos.szukajwarchiwach.gov.pl/32cd946aba5f1b9cceaf242cc07ef71dc6ec0a25ff8cd8135aea9f4db7db772f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_155.jpg",
+      "bytes": 2208441,
+      "sha256": "992b58c2861588d8f1f5d96aa77e7efe87966191cd7841e24713a1e8fa981212",
+      "url": "https://photos.szukajwarchiwach.gov.pl/34b2a063da9a047f98a1cb4094c5a33e82e17cd16605390b4359c9a1926b988d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_156.jpg",
+      "bytes": 2005130,
+      "sha256": "abaf3022b595930b114fd63e4bd15246f991d749221238002ea2030006d595f0",
+      "url": "https://photos.szukajwarchiwach.gov.pl/cc29bb7f32fe654514a82556b65636f9adb28e0a6137b54e7e692b6e0301fa9f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_157.jpg",
+      "bytes": 2081679,
+      "sha256": "3f8f734ba7a0dd893416067ec7230777c9b8e565eaa81e61535bdefca223f567",
+      "url": "https://photos.szukajwarchiwach.gov.pl/892ddbf286345b29e08bd5d19403590c6a869c02569f2abdba1eefe80d96c8a4_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_158.jpg",
+      "bytes": 2289402,
+      "sha256": "f0d2c94fc26653fdc2981e868776ca29e97e9aa52bb8a2f6d0b2c4cca09938c7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/7f10a2e3eaf6515ae30733002adf407bb6f9d78538a5d6815d6268f00c0f835e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_159.jpg",
+      "bytes": 2229159,
+      "sha256": "f361fc06059b52bd08d959000ed4ac11c802dbbdb87c5851447fa6ffde143051",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a38e49ebd1163940a309f100893b4e91c84a918be4397a109468f0d6eda07331_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_160.jpg",
+      "bytes": 2307972,
+      "sha256": "83944ed7080d85205d5eb402d22bf7c288a726fb59001817cc24c1c0ee02bb53",
+      "url": "https://photos.szukajwarchiwach.gov.pl/cdd9453b44d5139264557714e68f002687bb1d057186958132c362d5ea886ff8_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_161.jpg",
+      "bytes": 2322802,
+      "sha256": "e49d5a4974ebd2971088420196fcb744a9d96c91c02fc0b347920f2a145f557d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c623c76bf8720fa2cc1ae8c7be17ef473daee8f834e62edd472e9fa88a952073_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_162.jpg",
+      "bytes": 2238758,
+      "sha256": "b612544e4417ed2dd8df58f348318fe5060db105ed83ef4fa569277a61592888",
+      "url": "https://photos.szukajwarchiwach.gov.pl/4f6f33c10065cfd4c56af265bd53592ec65b0a931ff3ca25f7ca1bf8498ed535_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_163.jpg",
+      "bytes": 2295816,
+      "sha256": "4b4dc97c8001c2c63d088fa0aabb9dc293f3cc79ab9394eb514d46c7da85b643",
+      "url": "https://photos.szukajwarchiwach.gov.pl/94f65984adf65cef8a438ccd1a3ca0916bcc4c61a97ec40456ebf5821d98cc21_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_164.jpg",
+      "bytes": 2268323,
+      "sha256": "8e74c79b3959e2545727447c2c065391b288b84305a0548a5d2f47128c29dce1",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ac4b7ccebe0c7bd4bb53e17b75d920387a09a0363a29f196548937b382230750_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_165.jpg",
+      "bytes": 2278884,
+      "sha256": "d8bfce4beb4ad5e377b37a8ee01e630ee9c4732b9d45cfbb7134675923bc2f62",
+      "url": "https://photos.szukajwarchiwach.gov.pl/3925f8788cccdda8fe13535e466c740ccc0e160e273fa23ee2c801ea7d0d92f9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_166.jpg",
+      "bytes": 2313970,
+      "sha256": "725a4d4a4f9fa6e10bd8bc217363134ebe65ef6f36d8495327035b8368689ac5",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c35b85c0a358f1ed5794b548043d0a741d65e9435ac1aa83b847f42ed3fb6c0e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_170.jpg",
+      "bytes": 1932356,
+      "sha256": "915dd383d502468ffb4c2722069facba3cfa2637b61a350f046ef9312374c757",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f3ef348d045afb0878469764e6fb138e804953c05bbd73cd67692e527b770ccf_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_171.jpg",
+      "bytes": 2011728,
+      "sha256": "e2d28a2641ea8b4a4eabf5f5851933d93d34e7ba3001e779974203d5fc0789bf",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f429f81ad8663e238ece08d068c19bb096d03aa06aa83502e7a8db2e7a6608e3_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_172.jpg",
+      "bytes": 2002751,
+      "sha256": "c3c94d46228f5e3f73773d152efcd197a009c25fbaf1598488e3101ce6e15207",
+      "url": "https://photos.szukajwarchiwach.gov.pl/88fa96e41b1635c59215c3905ab4fd775a466d4e81adcf969f5b0459d791cc74_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_173.jpg",
+      "bytes": 1895334,
+      "sha256": "9e711d1991383e1dfc34a0464c2dd723e0e72efefbe4884d1ac2cf02b6405808",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c69e98cdda035ca83ae5c9f3ea60ba992c9fdf10c92995972c4ad3bb9f4972f7_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_174.jpg",
+      "bytes": 1884934,
+      "sha256": "55ce929a735e0aeb47220ca114cb7106b5de19ce1a7596cbc6b6c8f65e032701",
+      "url": "https://photos.szukajwarchiwach.gov.pl/192c09e54d0ed1c91785b958100cb407941cdf137f2a076f4398d3579917c818_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_175.jpg",
+      "bytes": 1936830,
+      "sha256": "bcf585f94c25ee9d1ef2b311adf7fa458b37b9205d4bb6bc17a1a13fc3335a07",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f3964ba61d4b72ccc74486b0be4a6a77c9513291f72741e4768fe424ac70c61b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_176.jpg",
+      "bytes": 1890929,
+      "sha256": "9a47790589c7cc4f739c9e55e3aeb5a4b508b1449b40b5310bad0d727efdf533",
+      "url": "https://photos.szukajwarchiwach.gov.pl/14a431b62e64a1f6def332acd3c134cac46b32e53b68816125024599f32b4341_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_177.jpg",
+      "bytes": 1922960,
+      "sha256": "1417f25d282382a61b0f01f5bcf96d9360fbcb7d0abdd1ca42c0f2221fba4bb2",
+      "url": "https://photos.szukajwarchiwach.gov.pl/69b3f369d182fddd8520f2e1e1e510cd738f65732f76605b735e1bef949192ee_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_178.jpg",
+      "bytes": 1893654,
+      "sha256": "3ce639d7e17dc597a89bc27308b6f9821c34b8750aa7274b20221d5ea0ef7836",
+      "url": "https://photos.szukajwarchiwach.gov.pl/62ab07b10322af72e45675be23ac72a06db0d83f6f0ac21cfbc5b98ca1b41fed_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_180.jpg",
+      "bytes": 1974699,
+      "sha256": "d2117f1df5476942dbc0b1fda2e2ed5664c2e822e406f70e3e0da534ad282f83",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c58a39df91830f9c67eb106f07700b80627b2eb37ac9d3979ecd1fa06e0e317e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_181.jpg",
+      "bytes": 1935660,
+      "sha256": "b867b36d76c40e848722fcd0a75d3ed38f76b15ba4b1a6482f559df70dfee039",
+      "url": "https://photos.szukajwarchiwach.gov.pl/85c092bf422b82ebea9104d4cf17976cc98d9946e7a767fea253bad63bdcc1ef_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_182.jpg",
+      "bytes": 2050030,
+      "sha256": "11e7a988a4dd870121bacad8dc98cea16ce50f8683eb19a1f345c8e50e142329",
+      "url": "https://photos.szukajwarchiwach.gov.pl/d9591230b755081f13c17d6f4dcce122df3b34a90f2faaf4482cac9746c7d097_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_183.jpg",
+      "bytes": 1936332,
+      "sha256": "e2f3234c255aead654d5c83101a6635a1a75f79a02d2df4c8a4f8f3e3e13c48f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/a1f4baf9d28f24a96b8a144ece27010dc68c0ff4ac7f6401ddc17a287b645fe9_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_184.jpg",
+      "bytes": 1948086,
+      "sha256": "978ef9d15d8e480142c5d5fc55078cf09058a83646eaac01615676c0c073a561",
+      "url": "https://photos.szukajwarchiwach.gov.pl/f3c44bb2bf907331fb273d2aa46d4c38b903fc261f3cace9e2681f2b5bc07698_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_185.jpg",
+      "bytes": 1891759,
+      "sha256": "a0ad534456d0c069e84e1390d192b1818dd8657dee8c6c962c36727287d7d54f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/bd8404675eed5980470d4b3619ff0ef14ac772561b3bcadb742471b24c334022_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_186.jpg",
+      "bytes": 1858795,
+      "sha256": "538b579ec6719f559c5fbde33c5b5c49e63a06ef96c915eb43f5b6a0ba061815",
+      "url": "https://photos.szukajwarchiwach.gov.pl/c3392357154578ff8b2f0cdd1445ef8bcae14d983d974dc3540eeaedcd67b090_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_187.jpg",
+      "bytes": 1946419,
+      "sha256": "2f6c918fbb75b93fcfe84a337ba9d66929e685e5a5971e56e3a0b316944bb50a",
+      "url": "https://photos.szukajwarchiwach.gov.pl/65af8d97106ec4a24d8de7d60583055de7196f25957a90ec7805ab78ba59f077_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_188.jpg",
+      "bytes": 1944035,
+      "sha256": "ff4ebe7abf211265b18f4469becfb4cf9d4a240bd525057dfcb85d9e9f249c09",
+      "url": "https://photos.szukajwarchiwach.gov.pl/313638ee047ae3d948b2ee52d8675d873ae2335e9e1d5fcf41f129f14b6e748b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_189.jpg",
+      "bytes": 1951221,
+      "sha256": "60be7e94f548e54bb67a7380e2dbbdff84ef3880f7d029fea5eada30b6b10499",
+      "url": "https://photos.szukajwarchiwach.gov.pl/841689261512c5cf5cc0c7bac8e775d0cd69c0b3daed6f5394e3257f6164f9e5_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_190.jpg",
+      "bytes": 1912467,
+      "sha256": "88dec701344e2620ce7f9eb0ff6c9518fed6f0dc7997779f985e77cfa810042f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b37cb1b5305542296a7b0ca4ab202d7aea7b11cd5d539c8fbaa7a2c9ae5ea4a6_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_191.jpg",
+      "bytes": 1820303,
+      "sha256": "bf9897b0e5334d5bb53ac3a4038667a0eaa9032aa61802e12b72ad86111b9455",
+      "url": "https://photos.szukajwarchiwach.gov.pl/dc1ba483b69105b44b5ebf78c474b60a692c197f0bf83c4d888a19dfbce13c50_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_192.jpg",
+      "bytes": 1867666,
+      "sha256": "a2f90221943967bcd62dc97780dd23a7edc62e94712521bc947ad5fe118fec2f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/01b5531c6ef82e94cb4ffa65f36ba9b65e87d1cea8872dbb251c1bc34c4a9505_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_193.jpg",
+      "bytes": 1815954,
+      "sha256": "b82122b2384881886d6a3082bd675ba9e3fe04aa419e206f6611efe71175fe5b",
+      "url": "https://photos.szukajwarchiwach.gov.pl/0ddabf1d9376d1829d4fe6218f99abb137d11ba86bb501e694e89dbe6aa2bfe0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_194.jpg",
+      "bytes": 1829724,
+      "sha256": "5930f0e2f5f5224ea164dd1cd08b37930c897894adb6dc4ecdcee5a74b5038d7",
+      "url": "https://photos.szukajwarchiwach.gov.pl/3de6bf1718944653506dbddbdf388b84179dccd13e746e60387c8e23f86b0f45_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_195.jpg",
+      "bytes": 1907861,
+      "sha256": "89dbf5cc8389a6d05943c95c133c745ed5cef5bc59732c1af8109d98e02908fb",
+      "url": "https://photos.szukajwarchiwach.gov.pl/35f58de5e38b058db97177f6decb043ce6caf967829ed66128ece7433a87697d_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_196.jpg",
+      "bytes": 1922082,
+      "sha256": "7405b3fc4b9221f9c77337fb3d73ba1f49d9791410de8d7788cb2b0b37a6e13d",
+      "url": "https://photos.szukajwarchiwach.gov.pl/500fd9f50e4a50a31e5e0cbc3671db369f0503f51d04bef4cc97edf9aab8f69e_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_197.jpg",
+      "bytes": 1942778,
+      "sha256": "f73f007397804ded45183c82e0eccdc811a485fb6d2d04bf2d4b00921d746a07",
+      "url": "https://photos.szukajwarchiwach.gov.pl/8554a45936b53bc212d15f79eba90d1f56bbabb9525ce191db49e329bb8b566f_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_198.jpg",
+      "bytes": 1895419,
+      "sha256": "edf9fc898249e4688e0a0c5c60ebb28d9ecc3ab88a02f42373135312ed7afce9",
+      "url": "https://photos.szukajwarchiwach.gov.pl/e0a62aa70ae5bca44612a021cc3b2c0cd671b65a47bb8f1304919b19589ae82c_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_199.jpg",
+      "bytes": 1960504,
+      "sha256": "af75438730d285cdba032d6a8da15848d478f78aa2c2b804e82ef613a7e4ea86",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5c6520f5a7af80153b2b4707c4225d445b6b59b2ff29ebf4e41280d77030849b_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_200.jpg",
+      "bytes": 1883901,
+      "sha256": "4d083bddf4ca201a9d0462ea4cd145e758df1d353bb6afee0c2b0195f72bd946",
+      "url": "https://photos.szukajwarchiwach.gov.pl/5c4428d74dfa0a1556e83b01b6119b9cd8fbee4b3e741063732f5c4fd29fa6eb_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_201.jpg",
+      "bytes": 1854540,
+      "sha256": "f52f371b30778abac57a15d9b7624ac984b8b254959574f095cf43bebc61d43c",
+      "url": "https://photos.szukajwarchiwach.gov.pl/b78c8a6762b41707e1f262f20d9d876676a56713cbe5d4a160cc2b0ec76937f0_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_204.jpg",
+      "bytes": 1090284,
+      "sha256": "f872a5de55f9216d71c09f31b206f1d638b185bde17404617bb4946e660aa4dc",
+      "url": "https://photos.szukajwarchiwach.gov.pl/13a5ca6f22a662481ae3bff10ecae43635919522a23887b88c8448228ebce4a2_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    },
+    {
+      "path": "work/s25/ChojnyP1937_205.jpg",
+      "bytes": 1781746,
+      "sha256": "77732137f944c03fdcc033e49aa8c87b004039ff44af3505f6db415e9cea6d3f",
+      "url": "https://photos.szukajwarchiwach.gov.pl/ad50f5277badb309aa55a6f9106fca2105fa0027f82cc4f40f6d5619a83a51f4_max",
+      "retained": "Zbadane kolumny i wybrane oryginały w etapie25, Git; pełny skan odtwarzalny z manifestu"
+    }
+  ]
+}

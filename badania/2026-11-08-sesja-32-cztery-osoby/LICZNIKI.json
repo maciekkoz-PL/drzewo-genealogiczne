@@ -1,0 +1,15 @@
+{
+  "at_utc": "2026-11-08T03:05:12+00:00",
+  "sheets": 25,
+  "source_records": 317,
+  "last_ids": {
+    "source": "S317",
+    "log": "L321",
+    "candidate": "C108",
+    "correction": "Q106",
+    "file": "F471",
+    "meldunkowy": "IM062"
+  },
+  "changed_existing_cells": 28,
+  "new_proven_relationships": 0
+}

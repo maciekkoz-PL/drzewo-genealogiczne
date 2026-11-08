@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"conversationId\": \"05561864-a2f6-87b0-8d80-a6cfc07aaf6e\",\n  \"metadata\": {\n    \"scrapeId\": \"01a1b915-d87f-764d-95fa-675743441760\",\n    \"sourceURL\": \"https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/oryginal/akt.pdf\",\n    \"url\": \"https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/oryginal/akt.pdf\",\n    \"statusCode\": 200,\n    \"numPages\": 45,\n    \"totalPages\": 45,\n    \"title\": \"Postanowienie\",\n    \"contentType\": \"application/pdf\",\n    \"proxyUsed\": \"basic\",\n    \"cacheState\": \"miss\",\n    \"indexId\": \"f08fb6df-ba98-4539-bfce-459bb784d3c9\",\n    \"creditsUsed\": 49,\n    \"concurrencyLimited\": false\n  },\n  \"answer\": \"z dnia 24 kwietnia 2015 r.\\n\\n| 740. | CHAMIER-CIEMINSKI | Blazej | s. | Czesława |\\n| --- | --- | --- | --- | --- |\\n| 748. | CHMIELEWSKI | Piotr | s. | Józefa |\"\n}"
+    }
+  ],
+  "structuredContent": {
+    "answer": "z dnia 24 kwietnia 2015 r.\n\n| 740. | CHAMIER-CIEMINSKI | Blazej | s. | Czesława |\n| --- | --- | --- | --- | --- |\n| 748. | CHMIELEWSKI | Piotr | s. | Józefa |",
+    "metadata": {
+      "scrapeId": "01a1b915-d87f-764d-95fa-675743441760",
+      "sourceURL": "https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/oryginal/akt.pdf",
+      "url": "https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/oryginal/akt.pdf",
+      "statusCode": 200,
+      "numPages": 45,
+      "totalPages": 45,
+      "title": "Postanowienie",
+      "contentType": "application/pdf",
+      "proxyUsed": "basic",
+      "cacheState": "miss",
+      "indexId": "f08fb6df-ba98-4539-bfce-459bb784d3c9",
+      "creditsUsed": 49,
+      "concurrencyLimited": false
+    },
+    "conversationId": "05561864-a2f6-87b0-8d80-a6cfc07aaf6e"
+  },
+  "isError": false
+}

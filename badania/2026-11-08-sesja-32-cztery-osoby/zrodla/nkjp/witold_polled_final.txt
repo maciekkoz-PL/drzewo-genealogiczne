@@ -1,0 +1,80 @@
+Poliqarp search engine for NKJP data
+Polish
+English
+consortium
+Poliqarp search engine for NKJP data
+Query
+Settings
+File a bug
+Help
+Query:
+ą
+ć
+ę
+ł
+ń
+ó
+ś
+ż
+ź
+Ą
+Ć
+Ę
+Ł
+Ń
+Ó
+Ś
+Ż
+Ź
+Corpus:
+balanced NKJP subcorpus (300M segments)
+the full NKJP corpus (1800M segments)
+manually annotated corpus v1.2 (1.2M segments)
+the full IPI PAN Corpus (2nd edition; 250M segments)
+the IPI PAN Corpus sample (2nd edition; 30M segments)
+the Frequency Dictionary Corpus (0.5M segments)
+Results
+Found 10 results so far
+Displaying results 1—10
+1.
+os. Wschód. Ksiądz
+Witold [Witold:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, proboszcz parafii, zamierza
+2.
+którą poprowadził ks. proboszcz
+Witold [Witold:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+. Potem w sali restauracji
+3.
+którą celebrować mają księża:
+Witold [Witold:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, Piotr Kalinowski oraz Eugeniusz
+4.
+kandydatów na jego następcę -
+Witolda [Witold:subst:sg:gen:m1] Chmielewskiego [Chmielewski:subst:sg:gen:m1]
+z parafii pw błog.
+5.
+kultury lokalnej przygotowaną przez profesora
+Witolda [Witold:subst:sg:gen:m1] Chmielewskiego [Chmielewski:subst:sg:gen:m1]
+.
+6.
+gości serdecznie powitał ksiądz proboszcz
+Witold [Witold:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, który przypomniał historię najmłodszej
+7.
+temu gospodarzem parafii został ksiądz
+Witold [Witold:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, który w rok później
+8.
+kanonik Andrzej Rygielski, ksiądz
+Witold [Witold:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, burmistrz miasta Wągrowca Stanisław
+9.
+. Według oceny proboszcza księdza
+Witolda [Witold:subst:sg:gen:m1] Chmielewskiego [Chmielewski:subst:sg:gen:m1]
+, by zamknąć stan surowy
+10.
+, którą poprowadził ksiądz proboszcz
+Witold [Witold:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+. W holu kina Miejskiego
+© Narodowy Korpus Języka Polskiego 2008-2010
+Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.

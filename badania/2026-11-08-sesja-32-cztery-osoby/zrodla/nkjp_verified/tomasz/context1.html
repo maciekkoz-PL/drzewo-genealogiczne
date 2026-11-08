@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en'>
+
+<head>
+    <link rel="icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <title>Poliqarp search engine for NKJP data</title>
+    <link rel='icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <link rel='shortcut icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.bgiframe.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.delegate.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.dimensions.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.tooltip.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/default.js'></script>
+    <link rel='stylesheet' href='/poliqarp/css/default.css' type='text/css' />
+    <link rel='stylesheet' href='/poliqarp/css/print.css' type='text/css' media='print' />
+    
+    
+</head>
+
+<body>
+    <div id='language-selection'>
+        <form action='/poliqarp/i18n/set-language/' method='post'>
+        <select name='language'>
+        
+        <option value='pl'>Polish</option>
+        
+        <option value='en' selected='selected'>English</option>
+        
+        </select>
+        <input type='submit' value='Change' />
+        </form>
+    </div>
+    <div id='all'>
+        <div id='banners'>
+            <div class='float-left'><img src='http://nkjp.pl/images/NKJP-logo1.jpg' width='216' height='102' alt='NKJP logo' /></div>
+            <div class='float-right'><p style='font-variant: small-caps;'>consortium</p>
+            <a href='http://www.ipipan.waw.pl'><img src='http://nkjp.pl/images/cons1.jpg' width='57' height='53' alt='IPI PAN' /></a>
+            <a href='http://www.pwn.pl'><img src='http://nkjp.pl/images/cons2.jpg' alt='PWN' width='37' height='53' /></a>
+            <a href='http://www.uni.lodz.pl'><img src='http://nkjp.pl/images/cons3.jpg' alt='UŁ' width='56' height='53' /></a>
+            <a href='http://www.ijp-pan.krakow.pl'><img src='http://nkjp.pl/images/cons4.jpg' alt='IJP PAN' width='75' height='53' /></a>
+            </div>
+            <div class='float-center'>
+                <img src='http://nkjp.pl/images/nkjp_en.jpg' width='[nkjp-logo-width]' height='[nkjp-logo-height]'
+                alt='National Corpus of Polish' />
+            </div>
+        </div>
+        <div id='main'>
+            <h1>Poliqarp search engine for NKJP data</h1>
+            <div id='menu'>
+                <ul>
+                    <li><a href='/poliqarp/nkjp1800/' class='selected'>Query</a></li>
+                    <li><a href='/poliqarp/settings/'>Settings</a></li>
+                    <li><a href='http://poliqarp.sf.net/bugs/'>File a bug</a></li>
+                    <li><a href='/poliqarp/help/'>Help</a></li>
+                </ul>
+            </div>
+            <div id='content'>
+                
+
+
+
+<div class='query-form'>
+    <form action='/poliqarp/query/' method='post'>
+        <p><label for="id_query">Query:</label> <input id="id_query" type="text" name="query" value="[orth=&quot;Tomasz.*&quot;] [orth=&quot;Chmielewsk.*&quot;] meta source=&quot;Dziennik Łódzki&quot;" maxlength="1000" /></p>
+            
+            <p class='alphabet-helper'>
+                <span>ą</span>
+                <span>ć</span>
+                <span>ę</span>
+                <span>ł</span>
+                <span>ń</span>
+                <span>ó</span>
+                <span>ś</span>
+                <span>ż</span>
+                <span>ź</span>
+                <span>Ą</span>
+                <span>Ć</span>
+                <span>Ę</span>
+                <span>Ł</span>
+                <span>Ń</span>
+                <span>Ó</span>
+                <span>Ś</span>
+                <span>Ż</span>
+                <span>Ź</span>
+            </p>
+            
+        </div>
+        <p>
+            Corpus:
+            <select name='corpus'>
+            
+            
+                
+                    <option value='nkjp300'>balanced NKJP subcorpus (300M segments)</option>
+                
+            
+            
+            
+                
+            
+            
+            
+                <option value='nkjp1800' selected='selected'>the full NKJP corpus (1800M segments)</option>
+            
+            
+            
+                
+                    <option value='nkjp1M'>manually annotated corpus v1.2 (1.2M segments)</option>
+                
+            
+            
+            
+                
+                    <option value='ipi250'>the full IPI PAN Corpus (2nd edition; 250M segments)</option>
+                
+            
+            
+            
+                
+                    <option value='ipi030'>the IPI PAN Corpus sample (2nd edition; 30M segments)</option>
+                
+            
+            
+            
+                
+                    <option value='frequency-dictionary'>the Frequency Dictionary Corpus (0.5M segments)</option>
+                
+            
+            
+            </select>
+        </p>
+        <p>
+            <input type='submit' value='Search' />
+        </p>
+    </form>
+</div>
+
+
+
+
+
+            </div>
+            <div class='clear'></div>
+            <div id='wide-content'>
+                
+
+
+    <div class='query-results'>
+        
+            <h1>Results</h1>
+            
+
+<p>
+
+
+
+    
+        Found 3 results
+    
+
+
+</p>
+
+<p>
+    
+        Displaying results 1—3
+    
+</p>
+
+
+
+            
+
+
+
+<div class='clear'></div>
+
+
+
+            
+
+<table>
+
+
+    <tr class='even'>
+        <th><a href='/poliqarp/nkjp1800/query/0/' rel='m0'>1</a>.</th>
+        
+            <td class='left'>
+                <span title=' pokazami [pokaz:subst:pl:inst:m3]'> pokazami</span><span title='. [.:interp]'>.</span><span title=' – [–:interp]'> –</span><span title=' W [w:prep:loc:nwok]'> W</span><span title=' lipcu [lipiec:subst:sg:loc:m3]'> lipcu</span><span title=', [,:interp]'>,</span><span title=' podczas [podczas:prep:gen]'> podczas</span><span title=' „ [„:interp]'> „</span><span title='sezonu [sezon:subst:sg:gen:m3]'>sezonu</span><span title=' ogórkowego [ogórkowy:adj:sg:gen:m3:pos]'> ogórkowego</span><span title='” [”:interp]'>”</span><span title=' zamierzam [zamierzać:fin:sg:pri:imperf]'> zamierzam</span><span title=' wyremontować [wyremontować:inf:perf]'> wyremontować</span><span title=' salę [sala:subst:sg:acc:f]'> salę</span><span title=' przy [przy:prep:loc]'> przy</span><span title=' ul [ulica:brev:pun]'> ul</span><span title='. [.:interp]'>.</span><span title=' Gdańskiej [gdański:adj:sg:gen:f:pos]'> Gdańskiej</span><span title=' – [–:interp]'> –</span><span title=' zapewnia [zapewniać:fin:sg:ter:imperf]'> zapewnia</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Tomasz [Tomasz:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/0/'><strong> Tomasz</strong></a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/0/'><strong> Chmielewski</strong></a></span>
+            </td>
+        
+            <td class='right'>
+                <span title='. [.:interp]'>.</span><span title=' Czy [czy:qub]'> Czy</span><span title=' to [to:pred]'> to</span><span title=' wystarczy [wystarczyć:fin:sg:ter:perf]'> wystarczy</span><span title=', [,:interp]'>,</span><span title=' by [by:qub]'> by</span><span title=' X [książę:brev:pun]'> X</span><span title=' Muza [muza:subst:sg:nom:f]'> Muza</span><span title=' nie [nie:qub]'> nie</span><span title=' wyprowadziła [wyprowadzić:praet:sg:f:perf]'> wyprowadziła</span><span title=' się [się:qub]'> się</span><span title=' z [z:prep:gen:nwok]'> z</span><span title=' Pabianic [Pabianice:subst:pl:gen:n]'> Pabianic</span><span title=' na [na:prep:acc]'> na</span><span title=' stałe [stały:adj:sg:acc:n:pos]'> stałe</span><span title='? [?:interp]'>?</span><span title=' ( [(:interp]'> (</span><span title='mak [mak:subst:sg:nom:m3]'>mak</span><span title=') [):interp]'>)</span>
+            </td>
+        
+    </tr>
+
+    <tr class='odd selected'>
+        <th><a href='/poliqarp/nkjp1800/query/1/' rel='m1'>2</a>.</th>
+        
+            <td class='left'>
+                <span title=' w [w:prep:loc:nwok]'> w</span><span title=' finale [finał:subst:sg:loc:m3]'> finale</span><span title=' P [późno:brev:pun]'> P</span><span title=' olak [olak:ign]'> olak</span><span title=' Piotr [Piotr:subst:sg:nom:m1]'> Piotr</span><span title=' Kobrzyniecki [Kobrzyniecki:ign]'> Kobrzyniecki</span><span title=' awansował [awansować:praet:sg:m1:perf]'> awansował</span><span title=' do [do:prep:gen]'> do</span><span title=' finału [finał:subst:sg:gen:m3]'> finału</span><span title=' mistrzostw [mistrzostwo:subst:pl:gen:n]'> mistrzostw</span><span title=' świata [świat:subst:sg:gen:m3]'> świata</span><span title=' juniorów [junior:subst:pl:gen:m1]'> juniorów</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' pięcioboju [pięciobój:subst:sg:gen:m3]'> pięcioboju</span><span title=' nowoczesnym [nowoczesny:adj:sg:loc:m3:pos]'> nowoczesnym</span><span title=' rozgrywanych [rozgrywać:ppas:pl:gen:f:imperf:aff]'> rozgrywanych</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' węgierskim [węgierski:subst:sg:loc:m3]'> węgierskim</span><span title=' Szekesfehervar [Szekesfehervar:ign]'> Szekesfehervar</span><span title='. [.:interp]'>.</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Tomasz [Tomasz:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/1/'><strong> Tomasz</strong></a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/1/'><strong> Chmielewski</strong></a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=' i [i:conj]'> i</span><span title=' Przemysław [Przemysław:subst:sg:nom:m1]'> Przemysław</span><span title=' Gałecki [Gałecki:subst:sg:nom:m1]'> Gałecki</span><span title=' odpadli [odpaść:praet:pl:m1:perf]'> odpadli</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' środowych [środowy:adj:pl:gen:f:pos]'> środowych</span><span title=' eliminacjach [eliminacja:subst:pl:loc:f]'> eliminacjach</span><span title='. [.:interp]'>.</span><span title=' W [w:prep:loc:nwok]'> W</span><span title=' eliminacjach [eliminacja:subst:pl:loc:f]'> eliminacjach</span><span title=' startowało [startować:praet:sg:n:imperf]'> startowało</span><span title=' 81 [81:ign]'> 81</span><span title=' zawodników [zawodnik:subst:pl:gen:m1]'> zawodników</span><span title=', [,:interp]'>,</span><span title=' podzielonych [podzielić:ppas:pl:gen:m3:perf:aff]'> podzielonych</span><span title=' na [na:prep:acc]'> na</span><span title=' trzy [trzy:num:pl:acc:m3:congr]'> trzy</span><span title=' grupy [grupa:subst:sg:gen:f]'> grupy</span><span title='. [.:interp]'>.</span><span title=' W [w:prep:loc:nwok]'> W</span>
+            </td>
+        
+    </tr>
+
+    <tr class='even'>
+        <th><a href='/poliqarp/nkjp1800/query/2/' rel='m2'>3</a>.</th>
+        
+            <td class='left'>
+                <span title=' na [na:prep:acc]'> na</span><span title=' tegorocznym [tegoroczny:adj:sg:loc:m3:pos]'> tegorocznym</span><span title=' festiwalu [festiwal:subst:sg:gen:m3]'> festiwalu</span><span title=' filmowym [filmowy:adj:sg:loc:m3:pos]'> filmowym</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' Gdyni [Gdynia:subst:sg:gen:f]'> Gdyni</span><span title=' otrzymał [otrzymać:praet:sg:m1:perf]'> otrzymał</span><span title=' Grand [granda:subst:pl:gen:f]'> Grand</span><span title=' Prix [prix:subst:sg:gen:f]'> Prix</span><span title=', [,:interp]'>,</span><span title=' nie [nie:qub]'> nie</span><span title=' był [być:praet:sg:m1:imperf]'> był</span><span title=' jeszcze [jeszcze:qub]'> jeszcze</span><span title=' wyświetlany [wyświetlać:ppas:sg:nom:m3:imperf:aff]'> wyświetlany</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' Pabianicach [Pabianice:subst:pl:loc:n]'> Pabianicach</span><span title='. [.:interp]'>.</span><span title=' Jak [jak:adv:pos]'> Jak</span><span title=' powiedział [powiedzieć:praet:sg:m1:perf]'> powiedział</span><span title=' nam [my:ppron12:pl:dat:m1:pri]'> nam</span>
+            </td>
+        
+            <td class='right'>
+                <span title=' Tomasz [Tomasz:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/2/'><strong> Tomasz</strong></a></span><span title=' Chmielewski [Chmielewski:subst:sg:nom:m1]'><a href='/poliqarp/nkjp1800/query/2/'><strong> Chmielewski</strong></a></span>
+            </td>
+        
+            <td class='right'>
+                <span title=', [,:interp]'>,</span><span title=' szef [szef:subst:sg:nom:m1]'> szef</span><span title=' pabianickiego [pabianicki:adj:sg:gen:m3:pos]'> pabianickiego</span><span title=' kina [kino:subst:sg:gen:n]'> kina</span><span title=' &quot; [&quot;:interp]'> &quot;</span><span title='Tomi [Tomi:ign]'>Tomi</span><span title='&quot; [&quot;:interp]'>&quot;</span><span title=', [,:interp]'>,</span><span title=' premiera [premier:subst:sg:gen:m1]'> premiera</span><span title=' filmu [film:subst:sg:gen:m3]'> filmu</span><span title=' w [w:prep:loc:nwok]'> w</span><span title=' rodzinnym [rodzinny:adj:sg:loc:n:pos]'> rodzinnym</span><span title=' mieście [miasto:subst:sg:loc:n]'> mieście</span><span title=' Oli [Ola:subst:sg:gen:f]'> Oli</span><span title='- [-:interp]'>-</span><span title='Tereski [Tereska:subst:sg:gen:f]'>Tereski</span><span title=' prawdopodobnie [prawdopodobnie:adv:pos]'> prawdopodobnie</span><span title=' odbędzie [odbyć:fin:sg:ter:perf]'> odbędzie</span><span title=' się [się:qub]'> się</span><span title=' 28 [28:ign]'> 28</span>
+            </td>
+        
+    </tr>
+
+
+</table>
+
+
+
+            
+
+
+
+<div class='clear'></div>
+
+
+
+        
+        
+            <h1>Context</h1>
+            <div id='result-context'>
+
+ Polski pięcioboista w finale P olak Piotr Kobrzyniecki awansował do finału mistrzostw świata juniorów w pięcioboju nowoczesnym rozgrywanych w węgierskim Szekesfehervar.<strong> Tomasz</strong><strong> Chmielewski</strong> i Przemysław Gałecki odpadli w środowych eliminacjach. W eliminacjach startowało 81 zawodników, podzielonych na trzy grupy. W drugiej grupie eliminacyjnej Kobrzyniecki zajął czwarte miejsce, zaś Gałecki był siedemnasty. W grupie pierwszej Chmielewski był dwunasty. Do finału awansowało pierwszych 10 zawodników z każdej grupy i dwóch z najlepszym wynikiem z 11. pozycji. - Ciężko było awansować do finału - powiedział trener Piotr Maciaszczyk. Piotrek startował równo i jemu się ta sztuka udała . Jutro finały dziewcząt (Czwojdzińska i Wójcik). (mk)
+
+</div>
+
+
+
+        
+        
+            <h1>Metadata</h1>
+            <dl class='result-metadata'>
+
+
+    
+        <dt>author</dt>
+        <dd>(mk)</dd>
+    
+
+    
+        <dt>title</dt>
+        <dd>Polski pięcioboista w finale</dd>
+    
+
+    
+        <dt>source</dt>
+        <dd>Dziennik Łódzki</dd>
+    
+
+    
+        <dt>ISSN</dt>
+        <dd>1898-4819</dd>
+    
+
+    
+        <dt>published</dt>
+        <dd>2004-07-29</dd>
+    
+
+    
+        <dt>publisher</dt>
+        <dd>Polskapresse, oddział Prasa Łódzka</dd>
+    
+
+    
+        <dt>publication place</dt>
+        <dd>Łódź</dd>
+    
+
+    
+        <dt>type</dt>
+        <dd>journalism</dd>
+    
+
+    
+        <dt>channel</dt>
+        <dd>press; daily</dd>
+    
+
+
+</dl>
+
+
+
+        
+        
+        
+    </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <div id='footer'>
+        <div class='float-left'><img src='http://nkjp.pl/images/nkjp_logo_small.jpg' alt='NKJP' /></div>
+        <div class='float-center'>
+            <div>© Narodowy Korpus Języka Polskiego 2008-2010</div>
+            <div>Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.</div>
+        </div>
+        <div class='clear'></div>
+    </div>
+
+</body>
+
+</html>
+
+

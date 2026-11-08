@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://nkjp.pl/poliqarp/",
+    "params": null,
+    "utc": "2026-11-08T02:27:17.149017+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Tomasz.*\"] [orth=\"Chmielewsk.*\"]",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:27:19.137916+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4223,
+    "sha256": "8affe4c18d67c6fbd11f20766c4c3584f989921410f4d413088616696bdf7cb6"
+  },
+  {
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:27:48.113353+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 18606,
+    "sha256": "725cd5bb79118f91e896f92eb97cc9928766f4493d32bd4ef3dfe42d832b03ec"
+  },
+  {
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Witold.*\"] [orth=\"Chmielewsk.*\"]",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:27:49.542635+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4223,
+    "sha256": "5d3675fa61441834599c23f660303d08792d47db5435c113a0fa24e9728c33da"
+  },
+  {
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:27:55.553974+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 18528,
+    "sha256": "8e988b6e49a9916de6da226bc7f1dd2e810a9b7f5e598d98a2a8467072629eeb"
+  },
+  {
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Bogusław.*\"] [orth=\"Chmielewsk.*\"]",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:28:05.764396+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4223,
+    "sha256": "8939f249194e7c148efa64866e27b1af1f3d28198291811299205732c352abe7"
+  },
+  {
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:28:08.868507+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4223,
+    "sha256": "bf77dc69ced1322561a774d5667476d7935bdad284fec64916edf8014e3bad97"
+  },
+  {
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:28:19.557922+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 19118,
+    "sha256": "da97c091db1f42b8452f4be38556681fcdd9c8a3a66fb4b9bcc7d2757b12b653"
+  }
+]

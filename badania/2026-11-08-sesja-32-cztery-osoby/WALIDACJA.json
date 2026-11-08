@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "original_sheets_retained": 25,
+  "protected_family_sheets_identical": true,
+  "existing_changes_only_logged": 29,
+  "counts": {
+    "ZRODLA_I_SKANY": 317,
+    "DZIENNIK_KWEREND": 321,
+    "PLIKI_DOWODOWE": 471,
+    "KANDYDACI_I_HOMONIMY": 108,
+    "KOREKTY_I_SPRZECZNOSCI": 106,
+    "INDEKS_MELDUNKOW": 62
+  },
+  "new_source_ids_valid": true,
+  "new_evidence_paths_exist": true,
+  "contact_zip_valid": true,
+  "referendum_manifest_283_only_unit_1": true
+}

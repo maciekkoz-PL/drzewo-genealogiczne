@@ -1,0 +1,35 @@
+Poliqarp search engine for NKJP data
+Polish
+English
+consortium
+Poliqarp search engine for NKJP data
+Query
+Settings
+File a bug
+Help
+Random sample of size:
+Sort results:
+by left context
+by left match
+by right match
+by right context
+a fronte
+a tergo
+ascending
+descending
+Show:
+in match:
+segments, lemmata and tags
+segments and lemmata
+segments only
+in context:
+segments, lemmata and tags
+segments and lemmata
+segments only
+Context width:
+left:
+right:
+wide:
+Results per page:
+© Narodowy Korpus Języka Polskiego 2008-2010
+Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.

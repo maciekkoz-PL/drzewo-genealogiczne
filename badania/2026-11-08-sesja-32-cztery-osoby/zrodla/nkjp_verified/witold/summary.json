@@ -1,0 +1,10 @@
+{
+  "query": "[orth=\"Witold.*\"] [orth=\"Chmielewsk.*\"] meta source=\"Dziennik Łódzki\"",
+  "valid": true,
+  "result_text": "Results\nFound 0 results\nExport\nFormat:\nHTML\nExcel\n© Narodowy Korpus Języka Polskiego 2008-2010\nPraca naukowa finansowana ze środków na naukę w latach ",
+  "pages": 1,
+  "refs": 0,
+  "contexts": 0,
+  "last_page_text": "Poliqarp search engine for NKJP data\nPolish\nEnglish\nconsortium\nPoliqarp search engine for NKJP data\nQuery\nSettings\nFile a bug\nHelp\nQuery:\ną\nć\nę\nł\nń\nó\nś\nż\nź\nĄ\nĆ\nĘ\nŁ\nŃ\nÓ\nŚ\nŻ\nŹ\nCorpus:\nbalanced NKJP subcorpus (300M segments)\nthe full NKJP corpus (1800M segments)\nmanually annotated corpus v1.2 (1.2M segments)\nthe full IPI PAN Corpus (2nd edition; 250M segments)\nthe IPI PAN Corpus sample (2nd edition; 30M segments)\nthe Frequency Dictionary Corpus (0.5M segments)\nResults\nFound 0 results\nExport\nFormat:\nHTML\nExcel\n© Narodowy Korpus Języka Polskiego 2008-2010\nPraca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.",
+  "results": []
+}

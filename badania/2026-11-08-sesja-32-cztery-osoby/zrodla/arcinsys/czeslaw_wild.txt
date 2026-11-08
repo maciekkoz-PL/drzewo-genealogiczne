@@ -1,0 +1,49 @@
+Arcinsys Einfache Suche
+Arcinsys
+Hessen
+Anmelden
+Registrieren
+Passwort vergessen
+Anmelden
+Navigator
+Suche
+Einfache Suche
+Signatur Suche
+Erweiterte Suche
+Merkliste
+Beantragen
+Nutzen
+Hilfe
+/arcinsys/
+Archive in Hessen
+English
+Deutsch
+Einfache Suche
+Zurücksetzen
+Ihre Einfache Suche hat keine Treffer erzielt.
+*Suchwörter
+?
+Geben Sie einen oder mehrere Suchbegriffe ein (mindestens 2 Zeichen). Bei der Eingabe werden vorhandene Begriffe mit der ungefähren Anzahl an Treffern vorgeschlagen. Sie können Begriffe am Ende mit * trunkieren (bei frank* werden "Frankfurt" und "Frankreich" gefunden).
+Buchstaben und Ziffern sind erlaubt, Groß- oder Kleinschreibung ist gleichgültig. "Ä","ö", "ü" und "ß" werden mit "ae", "oe", "ue" bzw. "ss" gleichgesetzt.
+Bei mehreren Suchbegriffen müssen alle vorkommen, damit ein Treffer gefunden wird (AND-Verknüpfung). Wenn Sie OR zwischen die Suchbegriffe stellen, muss nur einer der Begriffe vorkommen (OR-Verknüpfung).  Mit einem vorangestellten NOT können Sie einen Begriff bei der Suche ausschließen.
+Mehrere durch Anführungszeichen eingeschlossene Begriffe werden als Ausdruck gesucht: Sie müssen in genau dieser Reihenfolge im Treffer vorkommen (z. B. "Emser Depesche").
+Zeitraum von
+?
+Sie können die Suche auf einen Zeitraum eingrenzen: auf die Entstehungszeit der Archivalien (sogenannte "Laufzeit"). Wenn Sie nichts eingeben, werden alle Zeiträume berücksichtigt.
+Gefunden werden auch Treffer, die sich mit der zeitlichen Eingrenzung nur teilweise überschneiden.
+Wenn nur das erste Feld ausgefüllt ist, werden alle Treffer ab diesem Jahr gesucht. Wenn nur das zweite Feld ausgefüllt ist, werden alle Treffer bis zu diesem Jahr gesucht.
+Wenn Sie die Suche auf ein einziges Jahr eingrenzen möchten, geben Sie dieselbe Jahreszahl in beide Felder ein (z. B. 1970 bis 1970).
+bis
+Suchbereich
+?
+Wählen Sie den Bereich, der durchsucht werden soll:
+Markierung im Baum: Es wird nur der im Navigationsbaum (links) markierte Eintrag mit allen untergeordneten Elementen durchsucht. Ist im Navigationsbaum kein Eintrag markiert, wird das gesamte Archivinformationssystem durchsucht. Wenn Sie einen anderen Bereich durchsuchen möchten, navigieren Sie zu dem Eintrag im Navigationsbaum und rufen Sie anschließend das Menü "Suchen" neu auf.
+Alle Archive: Bei dieser Auswahl werden alle Archive und Bestände im Archivinformationssystem durchsucht.
+Markierung im Baum
+Alle Archive
+Nur Objekte mit Digitalisaten
+Diese Website setzt Cookies ein. Wenn Sie der Nutzungsanalyse widersprechen oder mehr über Cookies erfahren möchten, klicken Sie bitte auf Datenschutz.
+Info
+Datenschutz
+Barrierefreiheit
+Impressum

@@ -1,0 +1,14 @@
+# Plan po etapie32
+
+1. **Bez powtórek:** 25506 nazwiska5–103 i105–203 zakończone. Arolsen4773pozycje pobrane wcałości; nie pobierać ich ponownie. S041/S306 to to samo ogłoszenie. NKJP trzy Tomasze i osiem wzmianek kolarzaPiotra odczytane.
+2. **Nowy C107/Stocka12:** zestawiać z C98, aktem110/1936 i C100. Szukać źródła z datą urodzenia, Janiną lub rodzicami, a nie kolejnego zgodnego nazwiska. Wpis27VI1936 wskazuje ChrzypskoMałe; C100iC99 dotyczą okolicChrzypska/Łężec. Samo sąsiedztwo geograficzne nie jest relacją rodzinną. C108Żeromskiego67 osobny. Bez potwierdzenia nie przypisywać podróży ani adresów P03.
+3. **Dostępne nieprzejrzane tomy:** zidentyfikować katalogowo 25507 (dalszy1937), ewentualnie25509(1939), zanim rozpocznie się nowy zakres. Cel: wpis zawierający Janinę/dziecko albo wspólny adres zC98–C101/C42; rejestry mogą nie mieć dat urodzeń. Nie powtarzać25508/1938, zakończonego wcześniej.
+4. **Chrzypsko:** znaleziony zespół92/60/0 wAPpoznań/OddziałGniezno ma0skanów; opis wskazuje ewidencję1945–1947 wsygn.84–85, nie obiecuje imiennej księgi1936. Spis jednostek wtrybiePortlet był niedostępny. Ustalić rzeczywisty tytuł i daty przed planowaniem lektury; nie kontaktować archiwum bez osobnej zgody.
+5. **BratP11/PiotrP10:** priorytetem źródło z relacją ojciec–syn i identyfikatorem właściwegoPiotra. Nie przyjmować nazwiskaWitold/C11 ani imion ojców innychPiotrów zodznaczeń. Sprawdzić nowe publiczne źródło tylko wtedy, gdy wnosi cechę rodzinną lub potwierdzoną ciągłość służby. P11 może być bratem przyrodnim.
+
+   S238 jest już odczytane tekstowo: poz748 to Piotr syn Józefa, odznaka ochrony przeciwpożarowej. Brak jegoDOB i jednostki. Nie powtarzać błędów pobrania503/502 i nie rozbudowywać domniemanej rodziny Józefa na samym nazwisku.
+6. **S086/H017:** nie szukać ponownie imion rodziców Bogusława — są w odpisie. Rodzinny odpis zupełny urodzenia/zgonu pozwoli porównać daty i przypiski zparą1936. Gotowe niewysłane szkice już istnieją; nie tworzyć kolejnych i nie wysyłać.
+7. **Tomasz:** priorytet odpowiedź na już wysłane pytanie WBP o27IV–7V2001, woluminy77-G. Sprawdzić przychodzącą odpowiedź, nie ponawiać wiadomości. Księga pochowanych StaraGadka i akt zgonu mogą podać matkę iDOB, ale bez nowego kontaktu bez osobnego zatwierdzenia. Nie utożsamiać kiniarza ani pięcioboisty zP09.
+8. **Zarzew:** nie ponawiać M10. C10/C11 bezDOB/rodziców pozostają hipotezą; partnerzy ZZM iFindagrave nie są niezależnymi dowodami rodzicielstwa.
+9. **Dostępność:** referendum1946 publicznie ma tylko materiały organizacyjne /1. Nie planować przeglądu283skanów wposzukiwaniu wyborców zsygn.8–199. Spis1945/68–69 nadal0skanów, imienna zawartość niepotwierdzona.
+10. Po potwierdzonej nowej relacji zaktualizować Excel, drzewo i krótki wpis kroniki. Każdy zapis zlokalizować datą, sygnaturą, obrazem iSHA; zachować wersję wcześniejszą i wysłaćGit. Nie publikować prywatnego przekazu zdrowotnego; bez wiadomości do żyjących iinstytucji.

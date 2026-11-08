@@ -1,0 +1,177 @@
+[
+  {
+    "file": "005-012.jpg",
+    "first": 5,
+    "last": 12,
+    "derivative": true,
+    "sha256": "640d00d337637fd8db7f64cb518ce0d9a766ad3baff58e76324cc87203920764"
+  },
+  {
+    "file": "013-020.jpg",
+    "first": 13,
+    "last": 20,
+    "derivative": true,
+    "sha256": "a85678bee01dfd18f643dfb64457169763a2d309065f7d841f0d13d1d162394e"
+  },
+  {
+    "file": "021-028.jpg",
+    "first": 21,
+    "last": 28,
+    "derivative": true,
+    "sha256": "433fd79d993f264c4f702769902761328180b68ac41786c710651d5e4c12a474"
+  },
+  {
+    "file": "029-036.jpg",
+    "first": 29,
+    "last": 36,
+    "derivative": true,
+    "sha256": "61564b3ba52939008c6b066e46a8dd252734b65aade0ca2629b5097a2cf41ae6"
+  },
+  {
+    "file": "037-044.jpg",
+    "first": 37,
+    "last": 44,
+    "derivative": true,
+    "sha256": "b97cb439d2b5ddf79659bb55fcc90be2c177288f39f98693b0944535cd0a2bc8"
+  },
+  {
+    "file": "045-052.jpg",
+    "first": 45,
+    "last": 52,
+    "derivative": true,
+    "sha256": "4583884ef94323cfcdb86a4a161c89af8c83daa612035395bc96519b4fba6c59"
+  },
+  {
+    "file": "053-060.jpg",
+    "first": 53,
+    "last": 60,
+    "derivative": true,
+    "sha256": "def2378f48507408ab1ae017182b4f0410f0f1312e00bd65505748d89a67a15e"
+  },
+  {
+    "file": "061-068.jpg",
+    "first": 61,
+    "last": 68,
+    "derivative": true,
+    "sha256": "f3f032bd89d4b2fff33801b8a44e01febf353fe7edf8529e72415f0a1d23dfc4"
+  },
+  {
+    "file": "069-076.jpg",
+    "first": 69,
+    "last": 76,
+    "derivative": true,
+    "sha256": "cfd33ac101d5c9eb198e162a68673bc79cdc87ba4481074a3b7d493d41eca4f9"
+  },
+  {
+    "file": "077-084.jpg",
+    "first": 77,
+    "last": 84,
+    "derivative": true,
+    "sha256": "8a232555afce8438e837e3c3a1f674c867c34ca1f6a128d84efb2fc931cfd225"
+  },
+  {
+    "file": "085-092.jpg",
+    "first": 85,
+    "last": 92,
+    "derivative": true,
+    "sha256": "220d57b672052936be23e97f6b43ec8a0c5906ed33d4e31813deb4959c309d99"
+  },
+  {
+    "file": "093-100.jpg",
+    "first": 93,
+    "last": 100,
+    "derivative": true,
+    "sha256": "d86b60499fc3bb9f9b2f7a732c402525d0407288d1457c93165745f59716e01a"
+  },
+  {
+    "file": "101-108.jpg",
+    "first": 101,
+    "last": 108,
+    "derivative": true,
+    "sha256": "0a14887c74629ad14924edabbd1300b6099791af46c944bafba0a3dd60aa2482"
+  },
+  {
+    "file": "109-116.jpg",
+    "first": 109,
+    "last": 116,
+    "derivative": true,
+    "sha256": "93a764316c5b63d0df0a7269f22e249cc8ede75de0e7c31733a20718e6c55e36"
+  },
+  {
+    "file": "117-124.jpg",
+    "first": 117,
+    "last": 124,
+    "derivative": true,
+    "sha256": "3d4111ff524572bced0ccbb94a8a666fb3c4db9ad599af9b3763260cb0ba75c8"
+  },
+  {
+    "file": "125-132.jpg",
+    "first": 125,
+    "last": 132,
+    "derivative": true,
+    "sha256": "0b508d89f1b9bff5dcf5d1bbb6c557a28bd14108630bc0e0915a4f88ec69a20d"
+  },
+  {
+    "file": "133-140.jpg",
+    "first": 133,
+    "last": 140,
+    "derivative": true,
+    "sha256": "7853d26962609e0412d9784f2c8824c4b2dd2d1408998cfec162ef8c69abe534"
+  },
+  {
+    "file": "141-148.jpg",
+    "first": 141,
+    "last": 148,
+    "derivative": true,
+    "sha256": "8f6ae22574bf45886147873a7ed29ef05dc09c3d86b9a6ae953e7d0771910401"
+  },
+  {
+    "file": "149-156.jpg",
+    "first": 149,
+    "last": 156,
+    "derivative": true,
+    "sha256": "ad2bcfc32491ea7072cfb1f5238554a8b3aba80e7cc17468cfa70a349c188310"
+  },
+  {
+    "file": "157-164.jpg",
+    "first": 157,
+    "last": 164,
+    "derivative": true,
+    "sha256": "25a075e80954f4e9b2d4988cb0ec8a127a97306b05ca3d62498e08174b1a7c9c"
+  },
+  {
+    "file": "165-172.jpg",
+    "first": 165,
+    "last": 172,
+    "derivative": true,
+    "sha256": "8d9f3f5f9c259f6992708a09461633bac53847c7258c70a575ee3855f86b1a35"
+  },
+  {
+    "file": "173-180.jpg",
+    "first": 173,
+    "last": 180,
+    "derivative": true,
+    "sha256": "0334a1e1209faa7133fb34840c43807d1b56a2b6b82dca3dd4414f1d02cf9233"
+  },
+  {
+    "file": "181-188.jpg",
+    "first": 181,
+    "last": 188,
+    "derivative": true,
+    "sha256": "cc30c92eb3d276931f0bc33b76132cb668233bfd3fb0da86154d847a47f9bd4c"
+  },
+  {
+    "file": "189-196.jpg",
+    "first": 189,
+    "last": 196,
+    "derivative": true,
+    "sha256": "6d0a83d3860e609a0ccd9a4dffb3026c592c555c55c3ba71f6d8969eea34a074"
+  },
+  {
+    "file": "197-204.jpg",
+    "first": 197,
+    "last": 204,
+    "derivative": true,
+    "sha256": "b16a86cf7b74236e1bec110910817dde404c083ae4b4b4d8fffc8d078ca83038"
+  }
+]

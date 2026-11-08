@@ -1,0 +1,198 @@
+[
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S041",
+    "cell": "I44",
+    "before": "PONOWNIE SPRAWDZONO OCR STR.7; PDF LOKALNIE NIEDOSTĘPNY HTT P503",
+    "after": "OCR I OBRAZ STR7 ODCZYTANE; PEŁNY PDF POZYSKANY WETAPIE31"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S041",
+    "cell": "J44",
+    "before": null,
+    "after": "badania/2026-11-07-sesja-31-prasa-1976/zrodla/Dziennik_Popularny_1976_nr126.pdf"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S041",
+    "cell": "K44",
+    "before": "Ogłoszenie 10859 g, str.7: Bogusław Chmielewski, Fibaków 7, zagubiony indeks UŁ. Brak DOB i rodziców; nie zidentyfikowano jako P02. OCR dostępny w narzędziu, lokalne pobranie PD F503. Nie jest to nowy niezależny dowód.",
+    "after": "Ogłoszenie 10859 g, str.7: Bogusław Chmielewski, Fibaków 7, zagubiony indeks UŁ. Brak DOB i rodziców; nie zidentyfikowano jako P02. OCR dostępny w narzędziu, lokalne pobranie PD F503. Nie jest to nowy niezależny dowód. Etap32/Q104: S306 to ponowny odczyt tego samego źródła; lokalnyPDF z etapu31 jest dostępny. Brak nowej identyfikacjiP02."
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S306",
+    "cell": "B309",
+    "before": "Dziennik Popularny 3.06.1976: ogłoszenie Bogusława Chmielewskiego, student UŁ",
+    "after": "ALIAS S041 — ponowny odczyt i lokalne pozyskanie PDF,3VI1976"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S306",
+    "cell": "C309",
+    "before": "SKAN PRASY PIERWOTNEJ",
+    "after": "DUPLIKAT BIBLIOGRAFICZNY S041 / KOPIA LOKALNA"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S306",
+    "cell": "K309",
+    "before": "Bogusław Chmielewski, Fibaków 7, zgubił indeks UŁ. Bez drugiego imienia, DOB lub rodziców. Nie przypisać P02; S042 wskazuje innego Bogusława, absolwenta UŁ1980, bez dowodu że to osoba z ogłoszenia.",
+    "after": "Bogusław Chmielewski, Fibaków 7, zgubił indeks UŁ. Bez drugiego imienia, DOB lub rodziców. Nie przypisać P02; S042 wskazuje innego Bogusława, absolwenta UŁ1980, bez dowodu że to osoba z ogłoszenia. Q104: ten sam numer/strona/ogłoszenie już wS041/C22/Q14/L13. Nie liczyć jako nowe lub niezależne odkrycie."
+  },
+  {
+    "sheet": "DZIENNIK_KWEREND",
+    "id": "L307",
+    "cell": "E310",
+    "before": "Brak środkowego imienia/DOB/rodziców. Inny Bogusław ukończył UŁ1980 i pracował po1988; nie można przypisać ogłoszenia ani P02, ani jemu bez identyfikatora.",
+    "after": "Brak środkowego imienia/DOB/rodziców. Inny Bogusław ukończył UŁ1980 i pracował po1988; nie można przypisać ogłoszenia ani P02, ani jemu bez identyfikatora. Etap32/Q104: ponowny odczytS041 i uzyskanie lokalnegoPDF, nie noweogłoszenie."
+  },
+  {
+    "sheet": "PLIKI_DOWODOWE",
+    "id": "F440",
+    "cell": "D443",
+    "before": "S306;L307",
+    "after": "S041;S306(ALIAS);L307;Q104"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S307",
+    "cell": "I310",
+    "before": "ODCZYTANO OPIS ZESPOŁU, NIE KARTY RODZINY",
+    "after": "OPIS ZESPOŁU + KOMPLETNY MANIFEST283SKANÓW; SPISY8–199NIEODCZYTANE"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S307",
+    "cell": "J310",
+    "before": null,
+    "after": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/referendum_1946_manifest.json"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S307",
+    "cell": "K310",
+    "before": "199 jednostek, 283 skany łącznie; sygn.8–199 spisy według komisariatów. Brak ustalonego adresu rodziny w 1946 i brak odczytu właściwego tomu.",
+    "after": "199 jednostek, 283 skany łącznie; sygn.8–199 spisy według komisariatów. Brak ustalonego adresu rodziny w 1946 i brak odczytu właściwego tomu. Etap32: wszystkie283publiczne obrazy mają sygnaturę39/639/0/-/1 Sprawyorganizacyjne; żaden niejest skanemspisów8–199. Nie wyciągać wniosku o nieobecności rodziny."
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S238",
+    "cell": "B241",
+    "before": "MSW2015poz14 — granica dostępu i odczytu",
+    "after": "MSW2015poz14 — tekstowy odczyt pozycji748, Piotr synJózefa"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S238",
+    "cell": "C241",
+    "before": "CZĘŚCIOWY TEKST / BRAK LOKALNEGO PDF",
+    "after": "URZĘDOWY DOKUMENT / ODCZYT TEKSTOWY, BEZ BINARNEGO PDF"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S238",
+    "cell": "H241",
+    "before": "https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/akt.pdf",
+    "after": "https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/oryginal/akt.pdf"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S238",
+    "cell": "I241",
+    "before": "ZAKRES I OGRANICZENIA W OSTATNIEJ KOLUMNIE",
+    "after": "ETAP32: TEKST POZ748 I NAGŁÓWEK; NIE ODCZYT WSZYSTKICH45STRON"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S238",
+    "cell": "J241",
+    "before": "badania/2026-11-07-sesja-20-brat-boguslawa/zrodla/msw_dostep.json",
+    "after": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_14_odczyt_Firecrawl.md"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S238",
+    "cell": "K241",
+    "before": "Nagłówek dotyczy odznaki Zasłużony dla ochrony przeciwpożarowej. Odczytano fragment przez wyszukiwarkę, nie pozycję Piotra. Pobranie503, find502. Nie stwierdzono ojca ani pokrewieństwa; nie opisano jako listy policjantów.",
+    "after": "Etap20:pozycjaPiotra nieodczytana,503/502. Etap32:Firecrawl odczytał45stronicowy dokumentdo kopii tekstowej; sprawdzono poz748:CHMIELEWSKIPiotr,s.Józefa, wczęścibrązowejodznaki ochronyprzeciwpożarowej. BrakDOB,jednostki,Łodzi irodzinnegołącznika. Nie jest ustalonymP10/C19; Józef nie jest ustalonymP11. Lokalnego binarnegoPDF nieuzyskano; numer fizycznej strony niepotwierdzony."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H049",
+    "cell": "C40",
+    "before": "S253nr530 zgadza się adresem zS001 i poprzedza ślub1936. Brak DOB/rodziców.",
+    "after": "S267nr530 zgadza się adresem zS001 i poprzedza ślub1936. Brak DOB/rodziców."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H050",
+    "cell": "C41",
+    "before": "S253nr2591:2m+3k,ChrzypskoWielkie; zgodne imię/nazwisko, brak wieku/nazwiska panieńskiego. Etap22:C102podNapiórkowskiego112 ma to samo imię/nazwisko, ale brak identyfikatora pozwalającego scalić zC99/P06; H052. Etap25:S288/C103również2m+3k,leczinnyadresChełmońskiego9airok1938. BezDOB/rodowego nie scalać zC99/P06.",
+    "after": "S267nr2591:2m+3k,ChrzypskoWielkie; zgodne imię/nazwisko, brak wieku/nazwiska panieńskiego. Etap22:C102podNapiórkowskiego112 ma to samo imię/nazwisko, ale brak identyfikatora pozwalającego scalić zC99/P06; H052. Etap25:S288/C103również2m+3k,leczinnyadresChełmońskiego9airok1938. BezDOB/rodowego nie scalać zC99/P06."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H051",
+    "cell": "C42",
+    "before": "S253nr2656:20XI1936,Łężce/Chrzypsko,Grabowa20; pod nim chłopiec od urodzenia bez imienia.",
+    "after": "S267nr2656:20XI1936,Łężce/Chrzypsko,Grabowa20; pod nim chłopiec od urodzenia bez imienia."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H049",
+    "cell": "C40",
+    "before": "S267nr530 zgadza się adresem zS001 i poprzedza ślub1936. Brak DOB/rodziców.",
+    "after": "S267nr530 zgadza się adresem zS001 i poprzedza ślub1936. Brak DOB/rodziców. Etap32:S310/C107,nr1823,27VI1936,Stocka12→ChrzypskoMałe;1m;dopisekczasowości. Zgodnyadres/przedział,brakDOB/rodziny; mocniejsze dopasowanie,niezamknięciehipotezy."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H051",
+    "cell": "C42",
+    "before": "S267nr2656:20XI1936,Łężce/Chrzypsko,Grabowa20; pod nim chłopiec od urodzenia bez imienia.",
+    "after": "S267nr2656:20XI1936,Łężce/Chrzypsko,Grabowa20; pod nim chłopiec od urodzenia bez imienia. S310dodajeC107/Stocka12iChrzypskoMałe,27VI1936. Zbieżnyregion nieustala tożsamościC100/C98ani rodzicówC101."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H003",
+    "cell": "C3",
+    "before": "REL-003 + S034: zgodne imię, nazwisko, Łódź i zawód. REL-016: użytkownik uważa, że to ta sama osoba, ale nie ma dodatkowych wiadomości. 44 zapytania etapu14 i Firecrawl nie przyniosły niezależnego rodzinnego identyfikatora. Etap20: MP1999Piotr s.Zbigniewa i MP1995Piotr s.Jana nie mają łącznika do P10/C19; nie scalono. S238nie odczytuje wierszaPiotra.",
+    "after": "REL-003 + S034: zgodne imię, nazwisko, Łódź i zawód. REL-016: użytkownik uważa, że to ta sama osoba, ale nie ma dodatkowych wiadomości. 44 zapytania etapu14 i Firecrawl nie przyniosły niezależnego rodzinnego identyfikatora. Etap20: MP1999Piotr s.Zbigniewa i MP1995Piotr s.Jana nie mają łącznika do P10/C19; nie scalono. S238nie odczytuje wierszaPiotra. Etap32:S238odczytpoz748Piotr,s.Józefa; brakDOB,jednostki,Łodzi iłącznikazC19. ImieniaJózefnieprzyjęto dlaP11."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H002",
+    "cell": "C2",
+    "before": "REL-003: brat Bogusława i ojciec Piotra; imię nadal nieznane. REL-017nie dostarcza cech. Etap20S233–S239bez nowego łącznika. C42niemowlę1940może być innym rodzeństwem, nie ojcemPiotra. Brat mógł być przyrodni. Nie wyprowadzać ojca z przypadkowych imiennikówPiotra. Etap21: C98Stocka12 i klasterC99–C101Grabowa20; brak imieniaP11 i dowodu pokrewieństwa. Aneksy26200/26204mają0skanów; H049–H051otwarte. Etap22:S274nowy tropAgnieszki i adresuC42; nadal nie znaleziono imieniaP11. C42zmarł jako niemowlę i nie mógł być ojcemPiotra.",
+    "after": "REL-003: brat Bogusława i ojciec Piotra; imię nadal nieznane. REL-017nie dostarcza cech. Etap20S233–S239bez nowego łącznika. C42niemowlę1940może być innym rodzeństwem, nie ojcemPiotra. Brat mógł być przyrodni. Nie wyprowadzać ojca z przypadkowych imiennikówPiotra. Etap21: C98Stocka12 i klasterC99–C101Grabowa20; brak imieniaP11 i dowodu pokrewieństwa. Aneksy26200/26204mają0skanów; H049–H051otwarte. Etap22:S274nowy tropAgnieszki i adresuC42; nadal nie znaleziono imieniaP11. C42zmarł jako niemowlę i nie mógł być ojcemPiotra. Etap32:C107/S310potwierdza wpisCzesławaStocka12,nieimiębrata; C108osobny. IndeksArolsen4773iNKJPbeznowejrelacji."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C98",
+    "cell": "H101",
+    "before": "S267; S001; S270",
+    "after": "S267; S001; S270;S310;C107"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C98",
+    "cell": "G101",
+    "before": "Zgodne imię, nazwisko i adres dwa miesiące przed ślubem. Brak DOB, zawodu i rodziców; wcześniejsza miejscowość niepewna.",
+    "after": "Zgodne imię, nazwisko i adres dwa miesiące przed ślubem. Brak DOB, zawodu i rodziców; wcześniejsza miejscowość niepewna. Etap32:C107ma ten samadresStocka12iimię,27VI1936,ChrzypskoMałe. BrakDOB/rodziny; możliwetożsamość,bezscalenia."
+  },
+  {
+    "sheet": "ZADANIA_AGENTA",
+    "id": "T55",
+    "cell": "F58",
+    "before": "AKTYWNY TROP;0SKANÓW ANEKSU",
+    "after": "AKTYWNY TROP;0SKANÓW ANEKSU Etap32:S310nr1823Stocka12/ChrzypskoMałe;25506nazwiskazakończone. NadalbrakDOB/rodziny."
+  },
+  {
+    "sheet": "ZADANIA_AGENTA",
+    "id": "T55",
+    "cell": "I58",
+    "before": "S267; S270; H049",
+    "after": "S267; S270; H049;S309;S310;C107;badania/2026-11-08-sesja-32-cztery-osoby/PLAN_KONTYNUACJI.md"
+  }
+]

@@ -1,5 +1,7 @@
 # Etap 31 — imiennik Bogusława w prasie i powojenny spis wyborców
 
+**Korekta 8.11.2026 (Q104, etap 32):** ogłoszenie z 3.06.1976 było już znane jako S041/C22/Q14/L13. S306 zachowano jako alias i zapis ponownego odczytu oraz pozyskania lokalnego PDF. Nie jest to nowe ogłoszenie ani niezależny dowód. Poniższy raport zachowuje historię etapu; jego określenie „nowy wpis” było błędne. [Szczegóły korekty i dalsze badania](../2026-11-08-sesja-32-cztery-osoby/STATUS.md).
+
 7 listopada 2026, UTC. **Nie ustalono, czy nowy wpis dotyczy Bogusława P02; nie znaleziono imienia jego brata P11 ani ojca Piotra w dokumencie.** P02, P11, P10 i Tomasz P09 nadal mają statusy opisane w [etapie 30](../2026-11-07-sesja-30-spis-1945/STATUS.md). Drzewo i kronika bez zmian.
 
 ## „Dziennik Popularny”, 3 czerwca 1976

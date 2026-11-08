@@ -1,0 +1,191 @@
+[
+  {
+    "tag": "start",
+    "url": "https://nkjp.pl/poliqarp/",
+    "params": null,
+    "utc": "2026-11-08T02:35:53.436264+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "tag": "settings",
+    "url": "https://nkjp.pl/poliqarp/settings/",
+    "params": {
+      "random_sample_size": "100",
+      "show_in_match": "s",
+      "show_in_context": "s",
+      "left_context_width": "20",
+      "right_context_width": "20",
+      "wide_context_width": "150",
+      "results_per_page": "100",
+      "next": ""
+    },
+    "utc": "2026-11-08T02:35:55.302241+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/settings/",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "tag": "submit0",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Chmielewsk.*\"] meta source=\"Dziennik Łódzki\"",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:35:55.857368+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:00.944241+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:05.118537+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_2",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:08.798071+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_3",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:12.301520+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_4",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:16.200477+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_5",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:19.839105+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_6",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:23.062496+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_7",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:26.588015+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_8",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:31.221354+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll0_9",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:34.211123+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "submit1",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Chmielewsk.*\"] meta source=\"Dziennik Łódzki\"",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:36:35.519210+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:38.583962+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:42.678467+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_2",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:45.737037+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_3",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:48.567205+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_4",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:51.376097+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_5",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:54.132917+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_6",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:36:56.956459+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_7",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:37:00.351866+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_8",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:37:03.615869+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_9",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:37:06.594300+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  }
+]

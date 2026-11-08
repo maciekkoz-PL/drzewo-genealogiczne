@@ -1,0 +1,37 @@
+Poliqarp search engine for NKJP data
+Polish
+English
+consortium
+Poliqarp search engine for NKJP data
+Query
+Settings
+File a bug
+Help
+Query:
+ą
+ć
+ę
+ł
+ń
+ó
+ś
+ż
+ź
+Ą
+Ć
+Ę
+Ł
+Ń
+Ó
+Ś
+Ż
+Ź
+Corpus:
+balanced NKJP subcorpus (300M segments)
+the full NKJP corpus (1800M segments)
+manually annotated corpus v1.2 (1.2M segments)
+the full IPI PAN Corpus (2nd edition; 250M segments)
+the IPI PAN Corpus sample (2nd edition; 30M segments)
+the Frequency Dictionary Corpus (0.5M segments)
+© Narodowy Korpus Języka Polskiego 2008-2010
+Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.

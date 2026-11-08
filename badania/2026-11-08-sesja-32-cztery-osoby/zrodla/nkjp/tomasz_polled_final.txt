@@ -1,0 +1,82 @@
+Poliqarp search engine for NKJP data
+Polish
+English
+consortium
+Poliqarp search engine for NKJP data
+Query
+Settings
+File a bug
+Help
+Query:
+ą
+ć
+ę
+ł
+ń
+ó
+ś
+ż
+ź
+Ą
+Ć
+Ę
+Ł
+Ń
+Ó
+Ś
+Ż
+Ź
+Corpus:
+balanced NKJP subcorpus (300M segments)
+the full NKJP corpus (1800M segments)
+manually annotated corpus v1.2 (1.2M segments)
+the full IPI PAN Corpus (2nd edition; 250M segments)
+the IPI PAN Corpus sample (2nd edition; 30M segments)
+the Frequency Dictionary Corpus (0.5M segments)
+Results
+Found 100 results so far
+Displaying results 1—10
+Next 10
+1.
+Majewski, Szymon Staśkiewicz i
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+wywalczyli w Debreczynie srebrny medal
+2.
+Skórski, Przemysław Dworakowski,
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+i Łukasz Sawicki. Tym
+3.
+wprawdzie przegrał z reprezentantem Polski
+Tomaszem [Tomasz:subst:sg:inst:m1] Chmielewskim [Chmielewski:subst:sg:loc:m1]
+z Warszawy, ale w
+4.
+Polski Związek Szachowy - mówi
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, prezes Kaliskiego Towarzystwa Szachowo
+5.
+- 5260, 5.
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+(ZKS Drzonków) -
+6.
+targi w Europie – powiedział
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, dyrektor projektu POLAGRA FOOD
+7.
+się: Izydor Bełzowski,
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, Ireneusz Dziubek, Marek
+8.
+na konferencji prasowej poprzedzającej targi
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+, dyrektor projektu POLAGRA FOOD
+9.
+ul. Gdańskiej – zapewnia
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+. Czy to wystarczy,
+10.
+rozgrywanych w węgierskim Szekesfehervar.
+Tomasz [Tomasz:subst:sg:nom:m1] Chmielewski [Chmielewski:subst:sg:nom:m1]
+i Przemysław Gałecki odpadli w
+Next 10
+© Narodowy Korpus Języka Polskiego 2008-2010
+Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.

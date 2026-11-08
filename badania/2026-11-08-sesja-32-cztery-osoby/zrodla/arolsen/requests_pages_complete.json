@@ -1,0 +1,99 @@
+[
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/BuildQueryGlobalForAngular",
+    "params": {
+      "uniqueId": "325d2e8d20654d77bc3f",
+      "lang": "en",
+      "archiveIds": [],
+      "strSearch": "Chmielewski",
+      "synSearch": true
+    },
+    "utc": "2026-11-08T02:42:16.308969+00:00",
+    "status": 200,
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetCount",
+    "params": {
+      "uniqueId": "325d2e8d20654d77bc3f",
+      "lang": "en",
+      "searchType": "person",
+      "useFilter": false
+    },
+    "utc": "2026-11-08T02:42:17.590011+00:00",
+    "status": 200,
+    "bytes": 12,
+    "sha256": "06741b5d8cb70dbbc823d6c5f93a28abac9f74f9524bb722131488c8f34de6e6"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "params": {
+      "uniqueId": "325d2e8d20654d77bc3f",
+      "lang": "en",
+      "rowNum": 0,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-08T02:42:18.825269+00:00",
+    "status": 200,
+    "bytes": 688495,
+    "sha256": "3554408ec89251b4ad7c462d3b38535e3a05b48cd99243be27dcfae9c49b29a6"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "params": {
+      "uniqueId": "325d2e8d20654d77bc3f",
+      "lang": "en",
+      "rowNum": 1000,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-08T02:42:22.067455+00:00",
+    "status": 200,
+    "bytes": 683412,
+    "sha256": "87916e186f763fd336f3e82d53669d10d723a08758451380a91aae3db912730e"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "params": {
+      "uniqueId": "325d2e8d20654d77bc3f",
+      "lang": "en",
+      "rowNum": 2000,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-08T02:42:28.163136+00:00",
+    "status": 200,
+    "bytes": 700632,
+    "sha256": "d5b41f8df77275c5e7d00d2ced3c0dac03a92b148c1db1e38631e2b7a6786684"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "params": {
+      "uniqueId": "325d2e8d20654d77bc3f",
+      "lang": "en",
+      "rowNum": 3000,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-08T02:42:31.258719+00:00",
+    "status": 200,
+    "bytes": 680240,
+    "sha256": "45c67c5526243b26540aa44e1cb75775cfb15fe7decf8465413a214ef8250fc5"
+  },
+  {
+    "url": "https://collections-server.arolsen-archives.org/ITS-WS.asmx/GetPersonList",
+    "params": {
+      "uniqueId": "325d2e8d20654d77bc3f",
+      "lang": "en",
+      "rowNum": 4000,
+      "orderBy": "LastName",
+      "orderType": "asc"
+    },
+    "utc": "2026-11-08T02:42:34.159496+00:00",
+    "status": 200,
+    "bytes": 536109,
+    "sha256": "a98dcf3811c21d236aa75588bfbbbb5ec3d472ab6a4784db0d24759c2996a78c"
+  }
+]

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en'>
+
+<head>
+    <link rel="icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://nkjp.pl/images/favicon.ico" type="image/x-icon" />
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <title>Poliqarp search engine for NKJP data</title>
+    <link rel='icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <link rel='shortcut icon' href='http://nkjp.pl/images/favicon.ico' type='image/x-icon' />
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.bgiframe.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.delegate.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.dimensions.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/jquery.tooltip.js'></script>
+    <script type='text/javascript' src='/poliqarp/js/default.js'></script>
+    <link rel='stylesheet' href='/poliqarp/css/default.css' type='text/css' />
+    <link rel='stylesheet' href='/poliqarp/css/print.css' type='text/css' media='print' />
+    
+    
+</head>
+
+<body>
+    <div id='language-selection'>
+        <form action='/poliqarp/i18n/set-language/' method='post'>
+        <select name='language'>
+        
+        <option value='pl'>Polish</option>
+        
+        <option value='en' selected='selected'>English</option>
+        
+        </select>
+        <input type='submit' value='Change' />
+        </form>
+    </div>
+    <div id='all'>
+        <div id='banners'>
+            <div class='float-left'><img src='http://nkjp.pl/images/NKJP-logo1.jpg' width='216' height='102' alt='NKJP logo' /></div>
+            <div class='float-right'><p style='font-variant: small-caps;'>consortium</p>
+            <a href='http://www.ipipan.waw.pl'><img src='http://nkjp.pl/images/cons1.jpg' width='57' height='53' alt='IPI PAN' /></a>
+            <a href='http://www.pwn.pl'><img src='http://nkjp.pl/images/cons2.jpg' alt='PWN' width='37' height='53' /></a>
+            <a href='http://www.uni.lodz.pl'><img src='http://nkjp.pl/images/cons3.jpg' alt='UŁ' width='56' height='53' /></a>
+            <a href='http://www.ijp-pan.krakow.pl'><img src='http://nkjp.pl/images/cons4.jpg' alt='IJP PAN' width='75' height='53' /></a>
+            </div>
+            <div class='float-center'>
+                <img src='http://nkjp.pl/images/nkjp_en.jpg' width='[nkjp-logo-width]' height='[nkjp-logo-height]'
+                alt='National Corpus of Polish' />
+            </div>
+        </div>
+        <div id='main'>
+            <h1>Poliqarp search engine for NKJP data</h1>
+            <div id='menu'>
+                <ul>
+                    <li><a href='/poliqarp/'>Query</a></li>
+                    <li><a href='/poliqarp/settings/' class='selected'>Settings</a></li>
+                    <li><a href='http://poliqarp.sf.net/bugs/'>File a bug</a></li>
+                    <li><a href='/poliqarp/help/'>Help</a></li>
+                </ul>
+            </div>
+            <div id='content'>
+                
+
+
+<div class='settings-form'>
+<form action='/poliqarp/settings/' method='post'>
+    <div>
+        <input type="checkbox" name="random_sample" id="id_random_sample" />
+        <label for='id_random_sample_size'>Random sample of size:</label>
+        <input id="id_random_sample_size" type="text" name="random_sample_size" value="100" size="3" />
+    </div>
+    <div>
+        <input type="checkbox" name="sort" id="id_sort" /> <label for='id_sort'>Sort results</label>:
+        <div class='clear'></div>
+        <div class='float sort-options'><ul>
+<li><label for="id_sort_column_0"><input type="radio" id="id_sort_column_0" value="lc" name="sort_column" /> by left context</label></li>
+<li><label for="id_sort_column_1"><input type="radio" id="id_sort_column_1" value="lm" name="sort_column" /> by left match</label></li>
+<li><label for="id_sort_column_2"><input checked="checked" type="radio" id="id_sort_column_2" value="rm" name="sort_column" /> by right match</label></li>
+<li><label for="id_sort_column_3"><input type="radio" id="id_sort_column_3" value="rc" name="sort_column" /> by right context</label></li>
+</ul></div>
+        <div class='float sort-options'><ul>
+<li><label for="id_sort_type_0"><input checked="checked" type="radio" id="id_sort_type_0" value="afronte" name="sort_type" /> a fronte</label></li>
+<li><label for="id_sort_type_1"><input type="radio" id="id_sort_type_1" value="atergo" name="sort_type" /> a tergo</label></li>
+</ul></div>
+        <div class='float sort-options'><ul>
+<li><label for="id_sort_direction_0"><input checked="checked" type="radio" id="id_sort_direction_0" value="asc" name="sort_direction" /> ascending</label></li>
+<li><label for="id_sort_direction_1"><input type="radio" id="id_sort_direction_1" value="desc" name="sort_direction" /> descending</label></li>
+</ul></div>
+        <div class='clear'></div>
+    </div>
+    
+    
+        <div>Show:
+            <div class='clear'></div>
+            <div class='float'>in match:
+                <ul>
+<li><label for="id_show_in_match_0"><input type="radio" id="id_show_in_match_0" value="slt" name="show_in_match" /> segments, lemmata and tags</label></li>
+<li><label for="id_show_in_match_1"><input type="radio" id="id_show_in_match_1" value="sl" name="show_in_match" /> segments and lemmata</label></li>
+<li><label for="id_show_in_match_2"><input checked="checked" type="radio" id="id_show_in_match_2" value="s" name="show_in_match" /> segments only</label></li>
+</ul>
+            </div>
+            <div class='float'>in context:
+                <ul>
+<li><label for="id_show_in_context_0"><input type="radio" id="id_show_in_context_0" value="slt" name="show_in_context" /> segments, lemmata and tags</label></li>
+<li><label for="id_show_in_context_1"><input type="radio" id="id_show_in_context_1" value="sl" name="show_in_context" /> segments and lemmata</label></li>
+<li><label for="id_show_in_context_2"><input checked="checked" type="radio" id="id_show_in_context_2" value="s" name="show_in_context" /> segments only</label></li>
+</ul>
+            </div>
+            <div class='clear'></div>
+        </div>
+    
+    
+    <div>Context width:
+        <div class='clear'></div>
+        <div class='float'><label for='id_left_context_width'>left:</label> <input id="id_left_context_width" type="text" name="left_context_width" value="20" size="2" /> </div>
+        <div class='float'><label for='id_right_context_width'>right:</label> <input id="id_right_context_width" type="text" name="right_context_width" value="20" size="2" /> </div>
+        <div class='float'><label for='id_wide_context_width'>wide:</label> <input id="id_wide_context_width" type="text" name="wide_context_width" value="150" size="3" /> </div>
+        <div class='clear'></div>
+    </div>
+    <div>
+        <label for='id_results_per_page'>Results per page:</label>
+        <input id="id_results_per_page" type="text" name="results_per_page" value="100" size="3" />
+    </div>
+    <input type="hidden" name="next" id="id_next" />
+    <input class='submit' type='submit' value='Modify settings' />
+</form>
+</div>
+
+
+            </div>
+            <div class='clear'></div>
+            <div id='wide-content'>
+                
+                
+            </div>
+        </div>
+    </div>
+
+    <div id='footer'>
+        <div class='float-left'><img src='http://nkjp.pl/images/nkjp_logo_small.jpg' alt='NKJP' /></div>
+        <div class='float-center'>
+            <div>© Narodowy Korpus Języka Polskiego 2008-2010</div>
+            <div>Praca naukowa finansowana ze środków na naukę w latach 2007-2010 jako projekt rozwojowy.</div>
+        </div>
+        <div class='clear'></div>
+    </div>
+
+</body>
+
+</html>
+
+

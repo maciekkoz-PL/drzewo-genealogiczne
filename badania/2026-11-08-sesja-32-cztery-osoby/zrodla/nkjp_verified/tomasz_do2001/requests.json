@@ -1,0 +1,224 @@
+[
+  {
+    "tag": "start",
+    "url": "https://nkjp.pl/poliqarp/",
+    "params": null,
+    "utc": "2026-11-08T02:46:36.622873+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "tag": "settings",
+    "url": "https://nkjp.pl/poliqarp/settings/",
+    "params": {
+      "random_sample_size": "100",
+      "show_in_match": "s",
+      "show_in_context": "s",
+      "left_context_width": "20",
+      "right_context_width": "20",
+      "wide_context_width": "150",
+      "results_per_page": "100",
+      "next": ""
+    },
+    "utc": "2026-11-08T02:46:38.314776+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/settings/",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "tag": "submit0",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Tomasz.*\"] [orth=\"Chmielewsk.*\"] meta published<=2001",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:46:39.599053+00:00",
+    "error": "The read operation timed out"
+  },
+  {
+    "tag": "poll0_0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:11.945363+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:17.269234+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_2",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:22.459624+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_3",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:25.349618+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_4",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:28.259804+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_5",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:30.670226+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_6",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:33.506009+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_7",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:36.405805+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_8",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:38.807221+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_9",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:41.063221+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "submit1",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Tomasz.*\"] [orth=\"Chmielewsk.*\"] meta published<=2001",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:47:41.832951+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:49.779627+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:47:57.219798+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_2",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:02.455144+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_3",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:06.302922+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_4",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:09.200248+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_5",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:12.429731+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_6",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:15.970175+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_7",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:19.353917+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_8",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:22.228213+00:00",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "tag": "poll1_9",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:48:27.772992+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4223,
+    "sha256": "873f24e7c0e1b31b7d6ae82997cb587acd7a0425a58d6b0b26feb862704f7e91"
+  }
+]

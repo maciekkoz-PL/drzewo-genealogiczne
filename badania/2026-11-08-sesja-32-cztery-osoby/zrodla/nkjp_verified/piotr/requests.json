@@ -1,0 +1,274 @@
+[
+  {
+    "tag": "start",
+    "url": "https://nkjp.pl/poliqarp/",
+    "params": null,
+    "utc": "2026-11-08T02:31:24.257633+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "tag": "settings",
+    "url": "https://nkjp.pl/poliqarp/settings/",
+    "params": {
+      "random_sample_size": "100",
+      "show_in_match": "s",
+      "show_in_context": "s",
+      "left_context_width": "20",
+      "right_context_width": "20",
+      "wide_context_width": "150",
+      "results_per_page": "100",
+      "next": ""
+    },
+    "utc": "2026-11-08T02:31:26.161711+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/settings/",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "tag": "submit0",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Piotr.*\"] [orth=\"Chmielewsk.*\"] meta source=\"Dziennik Łódzki\"",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:31:27.362499+00:00",
+    "error": "The read operation timed out"
+  },
+  {
+    "tag": "poll0_0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:31:59.557285+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "tag": "poll0_1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:03.031260+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_2",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:09.115536+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_3",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:12.542896+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_4",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:15.750284+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_5",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:19.065793+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_6",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:22.460190+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_7",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:25.633432+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_8",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:28.858640+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll0_9",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:32.027223+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "submit1",
+    "url": "https://nkjp.pl/poliqarp/query/",
+    "params": {
+      "query": "[orth=\"Piotr.*\"] [orth=\"Chmielewsk.*\"] meta source=\"Dziennik Łódzki\"",
+      "corpus": "nkjp1800"
+    },
+    "utc": "2026-11-08T02:32:33.708992+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll1_0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:37.599708+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll1_1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:40.765569+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll1_2",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:43.926150+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/?pending=yes",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "tag": "poll1_3",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "params": null,
+    "utc": "2026-11-08T02:32:47.089757+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/",
+    "bytes": 26561,
+    "sha256": "8fa8ddb0a9a6b658cc72382b5833b11c5b292a0ea5269fd71d72ab9379e6d66f"
+  },
+  {
+    "tag": "context0",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/0/",
+    "params": null,
+    "utc": "2026-11-08T02:32:47.935492+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/0/",
+    "bytes": 27674,
+    "sha256": "30b99332c87c5e1dc0e8dc1c23c6e984784df80c191520478c11d50b958e4df2"
+  },
+  {
+    "tag": "context1",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/1/",
+    "params": null,
+    "utc": "2026-11-08T02:32:48.549996+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/1/",
+    "bytes": 27883,
+    "sha256": "d566a31f6ea34b0bff0bbe0372e3af38055eb2d2d538fb0e6954a3f900ab415d"
+  },
+  {
+    "tag": "context2",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/2/",
+    "params": null,
+    "utc": "2026-11-08T02:32:49.454528+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/2/",
+    "bytes": 28694,
+    "sha256": "33f9d6885374a6aa22b9cbf0053f96f00381e98a8b3071a0025e3e5b04c3b4a0"
+  },
+  {
+    "tag": "context3",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/3/",
+    "params": null,
+    "utc": "2026-11-08T02:32:50.083372+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/3/",
+    "bytes": 27852,
+    "sha256": "9b83f1a05ea3d3796b293a712e3fd90c4ebdc88ea85d8975d3914bfb91564d0c"
+  },
+  {
+    "tag": "context4",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/4/",
+    "params": null,
+    "utc": "2026-11-08T02:32:50.972020+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/4/",
+    "bytes": 28019,
+    "sha256": "a45f3f3a86fbede81f7ee2371a19577a4dcfa3cbc473f9570c39badbc84b7c61"
+  },
+  {
+    "tag": "context5",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/5/",
+    "params": null,
+    "utc": "2026-11-08T02:32:52.286843+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/5/",
+    "bytes": 28154,
+    "sha256": "45e6af5d2a72b7738e0196dd42c477c4b7ce5a3a4c7401c027ddfc7fe96f4134"
+  },
+  {
+    "tag": "context6",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/6/",
+    "params": null,
+    "utc": "2026-11-08T02:32:52.867612+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/6/",
+    "bytes": 28758,
+    "sha256": "6fa2b568e589495506291ece01b24371387fbd3df1da8ce9fdef852d035e1aaa"
+  },
+  {
+    "tag": "context7",
+    "url": "https://nkjp.pl/poliqarp/nkjp1800/query/7/",
+    "params": null,
+    "utc": "2026-11-08T02:32:53.938792+00:00",
+    "status": 200,
+    "final_url": "https://nkjp.pl/poliqarp/nkjp1800/query/7/",
+    "bytes": 28224,
+    "sha256": "0e4968225bdcbf29d647189d1584b0365b178ea1e215d95a042977c64324c0ab"
+  }
+]

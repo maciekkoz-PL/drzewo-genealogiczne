@@ -1,0 +1,844 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+<html class="no-js" lang="de">
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    
+
+
+
+
+<script type="text/javascript" src="/arcinsys/static/js/base/jquery-3.7.1.min.js">
+</script>
+<script type="text/javascript" src="/arcinsys/static/js/base/jquery-ui.min.js?s2j=5.0.4">
+</script>
+<script type="text/javascript" src="/arcinsys/static/i18n/datepicker-de.min.js?s2j=5.0.4">
+</script>
+<script type="text/javascript" src="/arcinsys/static/js/plugins/jquery.form.min.js?s2j=5.0.4">
+</script>
+<script type="text/javascript" src="/arcinsys/static/js/plugins/jquery.subscribe.min.js?s2j=5.0.4">
+</script>
+
+<script type="text/javascript" src="/arcinsys/static/js/struts2/jquery.struts2.min.js?s2j=5.0.4">
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        jQuery.struts2_jquery.version = "5.0.4";
+        jQuery.struts2_jquery.loadAtOnce = true;
+        jQuery.scriptPath = "/arcinsys/static/";
+        jQuery.struts2_jquery.local = "de";
+        jQuery.struts2_jquery.gridLocal = "de";
+        jQuery.struts2_jquery.timeLocal = "de";
+        jQuery.struts2_jquery.datatablesLocal = "de";
+        jQuery.ajaxSettings.traditional = true;
+
+        jQuery.ajaxSetup({
+            cache: false
+        });
+
+        jQuery.struts2_jquery.require("js/struts2/jquery.ui.struts2.min.js?s2j=5.0.4");
+
+    });
+</script>
+
+            <link
+                    id="jquery_theme_link"
+                    rel="stylesheet"
+                    href="/arcinsys/template/themes/bootstrap/jquery-ui.css?s2j=5.0.4"
+                    type="text/css"
+                    />
+
+
+    <title>Arcinsys Einfache Suche</title>
+
+    
+    
+        <link rel="stylesheet"
+              href="/arcinsys/styles/style.min.css?v=2025.2.5"
+              type="text/css"/>
+        <link rel="stylesheet"
+              href="/arcinsys/styles/print.css?v=2025.2.5"
+              type="text/css" media="print"/>
+        <script src="/arcinsys/jscript/script.min.js?v=2025.2.5"
+                type="text/javascript"></script>
+    
+
+    <script type="text/javascript">
+        $(function () {
+            ArcinsysConfig.init({
+                contextPath: '/arcinsys/',
+                ajaxAnzAntragNichtGenehmigt: '/arcinsys/system/ajaxAnzAntragNichtGenehmigt.action',
+                ajaxAnzBestellungNoDruckdatum: '/arcinsys/system/ajaxAnzBestellungNoDruckdatum.action'
+            });
+        });
+        $.ui.dialog.prototype.options.closeText = '';
+        $(function () { 
+            initBadges();
+        });
+    </script>
+
+    <style>
+        html.js #noscript {
+            display: none;
+        }
+
+        .no-displaytable .oldbrowserwarning {
+            display: block;
+        }
+
+        .displaytable .oldbrowserwarning {
+            display: none;
+        }
+    </style>
+
+    <script type="text/javascript" src="/arcinsys/jscript/modernizr-custom.js"></script>
+
+    
+	 
+
+
+
+<link href="/arcinsys/images/arcinsys.png" rel="apple-touch-icon"/>
+<link href="/arcinsys/images/favicon.ico?v2" rel="shortcut icon" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/arcinsys/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/arcinsys/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/arcinsys/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="/arcinsys/images/favicons/site.webmanifest">
+<link rel="mask-icon" href="/arcinsys/images/favicons/safari-pinned-tab.svg">
+<meta name="apple-mobile-web-app-title" content="Arcinsys">
+<meta name="application-name" content="Arcinsys">
+<meta name="msapplication-TileColor" content="#fcfcfc">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-config" content="browserconfig.xml"/>
+
+
+	<link title="Arcinsys" type="application/opensearchdescription+xml" rel="search" href="/arcinsys/opensearch">
+    
+    
+
+
+<style type="text/css">
+  .ui-menu-item-wrapper:hover {
+           padding: 3px 1em 1px 0.2em;
+           position: relative;
+           background:#1e588c;
+           color:white;
+  }
+
+  .ui-menu-item-wrapper {
+       padding: 3px 1em 1px 0.2em;
+       position: relative;
+  }
+
+    .ui-autocomplete {
+    max-height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+ </style>
+
+
+
+
+</head>
+
+<body>
+
+    <div id="indicator">
+        <div id="navloadergif" style="z-index: 21; width: 200px; height: 20px; margin: auto; position: absolute; top: 0; right: 0; bottom: 0; left: 0; background: none;">
+            <img src="/arcinsys/images/ajax-loader.gif" title="loading" alt="loading"/>
+        </div>
+    </div>
+
+    
+
+    <div id="hiddenDiv">
+
+        
+
+
+
+
+
+<div id="menu-panel" class="menu-panel header">
+
+    
+
+
+
+
+
+<h4 class="logo ">
+
+    
+        
+    
+
+    <a id="start" href="/arcinsys/extendnavigator.action?id=-1"><span class="logo-w1">
+            <img src="/arcinsys/images/logo.png"/>&nbsp;Arcinsys
+        </span>
+
+        <span class="logo-line"></span>
+
+        <span class="logo-w2" style="white-space: nowrap">
+            
+
+            
+                <span class="logo-w22">Hessen</span>
+            
+
+            
+        </span></a>
+
+</h4>
+
+
+    
+    
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+    
+
+
+
+<div id="top_right_menu" class="user-menu">
+    <div style="float: left;width:40px; padding-right:10px">
+    </div>
+
+<div style="float: right;">
+
+    <a href="#" class="user-menu-trigger">
+        Anmelden
+        <span class="icon-arrow"></span>
+    </a>
+
+    <div class="panel">
+        <div class="inner">
+            <div class="user-actions">
+                <p>
+                    <a id="registration" href="registration">Registrieren</a>
+                </p>
+                <p>
+                    <a id="passwordForgot" href="passwordForgot">Passwort vergessen</a>
+                </p>
+                <p>
+                    <a id="login" href="login">Anmelden</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div id="top_left_menu" class="nav-container">
+    <ul class="nav-main cf">
+        <li>
+            <a id="navigator" href="/arcinsys/start.action">Navigator</a>
+            <div class="panel nothover">
+                <ul class="nav-sub cf">
+                    <li class="hidden"><a id="detail" href="/arcinsys/einfachsuchen.action"></a></li>
+                    <li class="hidden"><a id="startMenu" href="/arcinsys/einfachsuchen.action"></a></li>
+                </ul>
+            </div>
+        </li>
+        <li>
+            <a id="suche" href="/arcinsys/einfachesuche.action">Suche</a>
+            <div class="panel">
+                <ul class="nav-sub cf">
+                    <li>
+                        <a id="einfachesuche" href="/arcinsys/einfachesuche.action">Einfache Suche</a>
+                    </li>
+                     <li>
+                        <a id="signatursuche" href="/arcinsys/signatursuche.action">Signatur Suche</a>
+                    </li>
+                    <li>
+                        <a id="expertsuche" href="/arcinsys/expertsuchenStart.action?navigatorid=0">Erweiterte Suche</a>
+                    </li>
+                    <li class="hidden">
+                        <a id="sucheresult" href="/arcinsys/einfachsuchen.action"></a>
+                    </li>
+                    <li class="hidden">
+                        <a id="einfachsuchen" href="/arcinsys/einfachsuchen.action"></a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li>
+            <a id="bestellen" href="/arcinsys/nutzer/merkzettel.action">Merkliste</a>
+        </li>
+        <li>
+            <a id="antrag" href="/arcinsys/nutzer/meineNutzungsAntraege.action">Beantragen</a>
+        </li>
+        <li>
+            <a id="lesesaal" href="/arcinsys/nutzer/meineBestellungen.action">Nutzen</a>
+        </li>
+    </ul>
+</div>
+<div class="nav-meta-container">
+    <ul class="nav-meta">
+        <li><a id="helpwizard" href="/arcinsys/helpwizard.action">Hilfe</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+		$.subscribe('dialogclosetopic', function(event, data) {
+               var el = document.getElementById("loginError");
+               if (el) {
+            	   $(el).remove();
+               }
+    	});
+	</script>
+
+
+    
+
+</div>
+
+
+        <a href="javascript:toggleVisibility()" class="ui-corner-all ui-icon ui-icon-transferthick-e-w dialogButtonClass1"></a>
+
+        
+
+
+
+
+
+
+    <div id="navigation-panel" class="navigation-panel navigation-panel-open">
+    
+
+
+
+
+
+
+	
+
+
+	
+
+
+        
+        
+
+
+        
+        
+
+
+    
+
+
+<div class="navigation-panel-header">
+	<div id="contextpath" style="display:none">/arcinsys/</div>
+	<ul class="breadcrumb-tree">
+		<li>
+			<a href="/arcinsys/extendnavigator.action?id=-1&amp;bezeichnung="><ins class="jstree-icon-custom"></ins>
+				Archive in Hessen</a>
+		</li>
+		
+		
+	</ul>
+</div>
+<div id="selected_node" style="display:none"></div>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	jQuery.struts2_jquery.require("js/struts2/jquery.tree.struts2"+jQuery.struts2_jquery.minSuffix+".js");
+ });
+</script>
+<div id="navigation">
+	<ul>
+	</ul>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_navigation = {};
+	options_navigation.url = "/arcinsys/navigatorjson.action?suggestedgid=";
+	options_navigation.nodeHref = "/arcinsys/ajaxlist.action?page=1";
+	options_navigation.nodeHrefParamName = "nodeid";
+
+	options_navigation.jqueryaction = "tree";
+	options_navigation.id = "navigation";
+
+	jQuery.struts2_jquery_tree.bind(jQuery('#navigation'),options_navigation);
+ });
+</script>
+
+<script type="text/javascript">
+var runOnceNavLoadComplete = false;
+$(document).ready(function() {
+	$.jstree.defaults.core.themes.url = false;
+	$.jstree.defaults.core.themes.name = "custom";
+	$('#navigation').addClass("jstree-custom").removeClass("jstree-default");
+    
+    var navigatorAjaxUrl = '/arcinsys/ajaxlist.action?page=1&nodeid=';
+    $('#navigation').on('select_node.jstree', function(evt, data) { 
+    	showIndicateDiv();
+    	closePopover();
+    	destroyDialogs();
+    	 
+    	var id = data.node.a_attr["data-aid"]; 
+    	$('#data-panel').load(navigatorAjaxUrl + id, function() {
+    		hideIndicatorDiv();
+            refreshTableToogleOnClick();
+    	});
+    	
+    	
+    	if (data.instance.get_parent(data.node) !== '#') {
+    		   data.instance.toggle_node(data.node);
+    	}
+    });    
+    
+    
+    $('#navigation').on('ready.jstree', function(evt, data) {
+        var selectedNode = $('#selected_node').text();
+        if(selectedNode.length > 0 && !runOnceNavLoadComplete) {
+            var node = $('#' + selectedNode + ' > a:first');
+            node.addClass('jstree-clicked');
+            runOnceNavLoadComplete = true;
+        }	
+    });
+
+
+});
+</script>
+
+    </div>
+
+
+
+
+
+        
+
+
+
+
+
+
+    <div id="data-panel" class="data-panel data-panel-normal">
+        
+
+	<input type="hidden" name="marker" value="" id="treeMarker"/>
+	
+
+	<div class="data-panel-header">
+        <div class="content-header-first-row">
+            <div class="page-tools">
+                <div class="language-select language-suche">
+                    <ul class="cf">
+                        <li>
+                            
+                                
+                            
+                            
+                            
+                                <a href="/arcinsys/einfachsuchen.action?pageName=einfachesuche&amp;methodName=einfach&amp;rechercheBean.defaultfield=Fritzlar+Ausl%C3%A4nder&amp;rechercheBean.defaultfield_widget=Fritzlar+Ausl%C3%A4nder&amp;rechercheBean.von=1939&amp;rechercheBean.bis=1948&amp;rechercheBean.einfacheSucheRadioName=alle&amp;einfachbutton=Suchen&amp;request_locale=en">English</a>
+                            
+                        </li>
+                        <li>
+                            
+                                
+                            
+                            
+                                <a href="/arcinsys/einfachsuchen.action?pageName=einfachesuche&amp;methodName=einfach&amp;rechercheBean.defaultfield=Fritzlar+Ausl%C3%A4nder&amp;rechercheBean.defaultfield_widget=Fritzlar+Ausl%C3%A4nder&amp;rechercheBean.von=1939&amp;rechercheBean.bis=1948&amp;rechercheBean.einfacheSucheRadioName=alle&amp;einfachbutton=Suchen&amp;request_locale=de" class="active">Deutsch</a>
+                            
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+		<div class="content-title">
+			<h1>
+				Einfache Suche
+			</h1>
+		</div>
+        </div>
+
+		<div class="content-header-second-row">
+    		<div class="content-tools">
+    			<ul class="cf">
+
+    				
+
+    				<li>
+    					<a href="/arcinsys/einfachesuche.action"><span class="ui-button-text">Zurücksetzen</span></a>
+    				</li>
+    			</ul>
+    		</div>
+        </div>
+	</div>
+
+	<div class="data-panel-content">
+
+		<form id="feinfachsuche" name="feinfachsuche" action="/arcinsys/einfachsuchen.action" method="get">
+			<input type="hidden" name="pageName" value="einfachesuche" id="feinfachsuche_pageName"/>
+			<input type="hidden" name="methodName" value="einfach">
+			<div>
+
+				<div class="ui-state-highlight ui-corner-all msgClass "> <p>  <span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span> Ihre Einfache Suche hat keine Treffer erzielt. </p>  </div> 
+
+			</div>
+			<fieldset class="formfieldset">
+
+                
+
+				<div class="grid-row">
+					<div class="grid-col c2-3">
+						<p class="field-text">
+							<label>*Suchwörter</label>
+							<span class="form-notice-popover">
+								<a class="form-notice-trigger" role="button" data-toggle="popover" data-html="true" title="Hilfe - Suchwörter">?</a>
+                                <span class="form-notice-text">
+									Geben Sie einen oder mehrere Suchbegriffe ein (mindestens 2 Zeichen). Bei der Eingabe werden vorhandene Begriffe mit der ungefähren Anzahl an Treffern vorgeschlagen. Sie können Begriffe am Ende mit * trunkieren (bei frank* werden "Frankfurt" und "Frankreich" gefunden).
+									<br />
+									Buchstaben und Ziffern sind erlaubt, Groß- oder Kleinschreibung ist gleichgültig. "Ä","ö", "ü" und "ß" werden mit "ae", "oe", "ue" bzw. "ss" gleichgesetzt.
+									<br />
+									Bei mehreren Suchbegriffen müssen alle vorkommen, damit ein Treffer gefunden wird (AND-Verknüpfung). Wenn Sie OR zwischen die Suchbegriffe stellen, muss nur einer der Begriffe vorkommen (OR-Verknüpfung).  Mit einem vorangestellten NOT können Sie einen Begriff bei der Suche ausschließen.
+									<br />
+									Mehrere durch Anführungszeichen eingeschlossene Begriffe werden als Ausdruck gesucht: Sie müssen in genau dieser Reihenfolge im Treffer vorkommen (z. B. "Emser Depesche").
+								</span>
+							</span>
+
+									<input type="hidden"
+		    id="defaultfield"		    value="Fritzlar Ausl&auml;nder"		 	name="rechercheBean.defaultfield"		/>
+<input type="text" name="rechercheBean.defaultfield_widget" maxlength="85" value="Fritzlar Ausländer" id="defaultfield_widget" class="autoColorClass"/><script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_defaultfield_widget = {};
+	options_defaultfield_widget.hiddenid = "defaultfield";
+	options_defaultfield_widget.delay = 100;
+	options_defaultfield_widget.minimum = 1;
+	options_defaultfield_widget.selectBox = false;
+	options_defaultfield_widget.forceValidOption = true;
+	options_defaultfield_widget.onselecttopics = "autocompleteSelectDefault";
+
+	options_defaultfield_widget.list = "defaultList";
+	options_defaultfield_widget.listkey = "selectKey";
+	options_defaultfield_widget.listvalue = "selectValue";
+	options_defaultfield_widget.listlabel = "label";
+
+	options_defaultfield_widget.jqueryaction = "autocompleter";
+	options_defaultfield_widget.id = "defaultfield_widget";
+	options_defaultfield_widget.name = "rechercheBean.defaultfield_widget";
+	options_defaultfield_widget.href = "/arcinsys/defaultfieldSucheForAutocomplete.action";
+	options_defaultfield_widget.formids = "feinfachsuche";
+
+
+jQuery.struts2_jquery_ui.bind(jQuery('#defaultfield_widget'),options_defaultfield_widget);
+ });
+</script>
+
+
+						</p>
+							
+					</div>
+				</div>
+
+
+				<div class="grid-row">
+					<div class="grid-col c1-3">
+			            <p class="field-text">
+			                <label>Zeitraum von</label>
+			                <span class="form-notice-popover">
+			                	<a class="form-notice-trigger" role="button" data-toggle="popover" data-html="true" title="Hilfe - Zeitraum von">?</a>
+			                	<span class="form-notice-text">
+			                		Sie können die Suche auf einen Zeitraum eingrenzen: auf die Entstehungszeit der Archivalien (sogenannte "Laufzeit"). Wenn Sie nichts eingeben, werden alle Zeiträume berücksichtigt.
+									<br />
+									Gefunden werden auch Treffer, die sich mit der zeitlichen Eingrenzung nur teilweise überschneiden.
+									<br />
+									Wenn nur das erste Feld ausgefüllt ist, werden alle Treffer ab diesem Jahr gesucht. Wenn nur das zweite Feld ausgefüllt ist, werden alle Treffer bis zu diesem Jahr gesucht.
+									<br />
+									Wenn Sie die Suche auf ein einziges Jahr eingrenzen möchten, geben Sie dieselbe Jahreszahl in beide Felder ein (z. B. 1970 bis 1970).
+			                	</span>
+			                </span>
+
+			                <input type="text" name="rechercheBean.von" size="4" maxlength="4" value="1939" id="suchevon"/>
+			            </p>
+				        
+
+			        </div>
+			        <div class="grid-col c1-3">
+			            <p class="field-text">
+			                <label>bis</label>
+			                <input type="text" name="rechercheBean.bis" size="4" maxlength="4" value="1948" id="suchebis"/>
+			            </p>
+			            
+			        </div>
+				</div>
+				<div class="grid-row">
+					<div class="grid-col c1-3">
+						<div class="field-radio">
+							<label>Suchbereich</label>
+							<span class="form-notice-popover">
+			                	<a class="form-notice-trigger" role="button" data-toggle="popover" data-html="true" title="Hilfe - Suchbereich">?</a>
+			                	<span class="form-notice-text">
+			                		Wählen Sie den Bereich, der durchsucht werden soll:
+									<br />
+									<b>Markierung im Baum:</b> Es wird nur der im Navigationsbaum (links) markierte Eintrag mit allen untergeordneten Elementen durchsucht. Ist im Navigationsbaum kein Eintrag markiert, wird das gesamte Archivinformationssystem durchsucht. Wenn Sie einen anderen Bereich durchsuchen möchten, navigieren Sie zu dem Eintrag im Navigationsbaum und rufen Sie anschließend das Menü "Suchen" neu auf.
+									<br />
+									<b>Alle Archive:</b> Bei dieser Auswahl werden alle Archive und Bestände im Archivinformationssystem durchsucht.
+			                	</span>
+			                </span>
+							<div id="einfachesuchearchive">
+<input type="radio" name="rechercheBean.einfacheSucheRadioName" id="einfachesuchearchivelinks" value="links"/><label for="einfachesuchearchivelinks">Markierung im Baum</label>
+<input type="radio" name="rechercheBean.einfacheSucheRadioName" id="einfachesuchearchivealle" checked="checked" value="alle"/><label for="einfachesuchearchivealle">Alle Archive</label>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_einfachesuchearchive = {};
+	options_einfachesuchearchive.value = "alle";
+	options_einfachesuchearchive.buttonset = true;
+    options_einfachesuchearchive.icon = false;
+	options_einfachesuchearchive.jqueryaction = "buttonset";
+	options_einfachesuchearchive.id = "einfachesuchearchive";
+	options_einfachesuchearchive.name = "rechercheBean.einfacheSucheRadioName";
+	options_einfachesuchearchive.href = "#";
+	options_einfachesuchearchive.formids = "feinfachsuche";
+
+
+jQuery.struts2_jquery_ui.bind(jQuery('#einfachesuchearchive'),options_einfachesuchearchive);
+ });
+</script>
+
+						</div>
+					</div>
+				</div>
+				 <br>
+				  <div class="grid-row" >
+		                  <div class="grid-col c2-3" style="font-size:1.1em">
+		            <label class="container">&nbsp;Nur Objekte mit Digitalisaten
+		            <input type="checkbox" name="rechercheBean.hasdigi" value="true" id="checkA"/><input type="hidden" id="__checkbox_checkA" name="__checkbox_rechercheBean.hasdigi" value="true" />
+
+
+		            <span class="checkmark"> </span>
+		          </label>
+		          </div>
+		          </div>
+
+
+
+
+
+				 </fieldset>
+				<fieldset class="formfieldset">
+					<div class="grid-row">
+						<div class="grid-col c1-3">
+							<p class="formbuttons">
+								<input type="submit" value="Suchen" id="submiteinfachesuche" name="einfachbutton" onclick="showIndicateDiv()"/>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_submiteinfachesuche = {};
+	options_submiteinfachesuche.jqueryaction = "button";
+	options_submiteinfachesuche.id = "submiteinfachesuche";
+	options_submiteinfachesuche.name = "einfachbutton";
+	options_submiteinfachesuche.href = "#";
+	options_submiteinfachesuche.formids = "feinfachsuche";
+	options_submiteinfachesuche.button = true;
+
+jQuery.struts2_jquery.bind(jQuery('#submiteinfachesuche'),options_submiteinfachesuche);
+
+ });
+</script>
+
+							</p>
+						</div>
+					</div>
+				</fieldset>
+					
+		</form>
+
+
+
+	</div>
+	<script type="text/javascript">
+		$
+				.subscribe(
+						'autocompleteSelectDefault',
+						function(event, data) {
+							var ui = event.originalEvent.ui;
+							var message = ui.item.value;
+
+						 	var klamm = message.indexOf(' (');
+
+					     	// entfernen (anzahl)
+					     	var message1 = message.substring(0, klamm)+' ';
+					      	var x = document.getElementById("defaultfield_widget").value;
+
+							// var b =  x.match(' '+"$")==' ';
+
+							var ind = x.lastIndexOf(' ');
+
+
+							if (ind <=0)
+							{
+								ui.item.value = message1 + ' ';
+							}
+							else
+						    {
+							var res = x.substring(0, ind);
+							ui.item.value = res+' ' + message1;
+						    }
+						});
+
+
+		$(function() {
+		  $( "#defaultfield_widget" ).on( "autocompletefocus", function( event, ui ) {
+		    event.preventDefault();
+		  });
+	    });
+
+		
+		//
+		$(function() {
+			if (typeof trackInternalSearch !== 'undefined') trackInternalSearch("Fritzlar Ausl&auml;nder", 0);
+		});
+		//
+	</script>
+
+    </div>
+
+
+
+
+        
+
+        
+
+
+
+
+
+<div id="info-panel" class="info-panel"></div>
+
+
+        
+
+
+
+
+
+
+
+    <div id="tracker-info" style="display: none;">
+        <div class="ti-left">
+            <img title="Cookie Hinweis ausblenden"
+                 src="/arcinsys/images/aktion_verbergen.png" onclick="closeTrackerInfo();" alt="Schließen"/>
+        </div>
+        <div class="ti-right">
+            Diese Website setzt Cookies ein. Wenn Sie der Nutzungsanalyse widersprechen oder mehr über Cookies erfahren möchten, klicken Sie bitte auf <a href="/arcinsys/info.action#datenschutz">Datenschutz</a>.
+        </div>
+        <div class="ti-clear"></div>
+    </div>
+
+<div class="footer">
+    <ul class="nav-footer">
+        <li>
+            <a href="/arcinsys/info.action">Info</a>
+        </li>
+        <li>
+            <a href="/arcinsys/info.action#datenschutz">Datenschutz</a>
+        </li>
+        <li>
+            
+                <a href="https://arcinsys.de/about/barrierefreiheit.htm">Barrierefreiheit</a>
+            
+            
+        </li>
+        <li>
+            <a href="/arcinsys/info.action#impressum">Impressum</a>
+        </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    
+
+
+    <!-- Matomo -->
+    <script type="text/javascript">
+        var _paq = window._paq || [];
+
+        
+        
+        
+        
+        
+
+        if (typeof archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount !== 'undefined' && archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount) {
+            _paq.push(['setCustomDimension', '3', archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount]);
+            archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount = null;
+        }
+
+        if (typeof documentTitleForMatomo !== 'undefined' && documentTitleForMatomo) {
+            _paq.push(['setDocumentTitle', documentTitleForMatomo]);
+            documentTitleForMatomo = null;
+        }
+
+        _paq.push(["setDoNotTrack", true]);
+        _paq.push(["disableCookies"]);
+        _paq.push(['trackPageView']);
+        _paq.push(['deleteCustomDimension', '3']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="https://arcinsys.hessen.de/matomo/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+        function trackInternalSearch(keyword, resultsize) {
+            _paq.push(['trackSiteSearch', keyword,"",resultsize]);
+        }
+    </script>
+    <noscript><p><img src="https://arcinsys.hessen.de/matomo/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
+
+
+
+
+    
+
+</body>
+
+</html>

@@ -1,0 +1,2682 @@
+<!DOCTYPE HTML>
+
+
+
+
+
+<html class="no-js" lang="de">
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    
+
+
+
+
+<script type="text/javascript" src="/arcinsys/static/js/base/jquery-3.7.1.min.js">
+</script>
+<script type="text/javascript" src="/arcinsys/static/js/base/jquery-ui.min.js?s2j=5.0.4">
+</script>
+<script type="text/javascript" src="/arcinsys/static/i18n/datepicker-de.min.js?s2j=5.0.4">
+</script>
+<script type="text/javascript" src="/arcinsys/static/js/plugins/jquery.form.min.js?s2j=5.0.4">
+</script>
+<script type="text/javascript" src="/arcinsys/static/js/plugins/jquery.subscribe.min.js?s2j=5.0.4">
+</script>
+
+<script type="text/javascript" src="/arcinsys/static/js/struts2/jquery.struts2.min.js?s2j=5.0.4">
+</script>
+
+<script type="text/javascript">
+    $(function () {
+        jQuery.struts2_jquery.version = "5.0.4";
+        jQuery.struts2_jquery.loadAtOnce = true;
+        jQuery.scriptPath = "/arcinsys/static/";
+        jQuery.struts2_jquery.local = "de";
+        jQuery.struts2_jquery.gridLocal = "de";
+        jQuery.struts2_jquery.timeLocal = "de";
+        jQuery.struts2_jquery.datatablesLocal = "de";
+        jQuery.ajaxSettings.traditional = true;
+
+        jQuery.ajaxSetup({
+            cache: false
+        });
+
+        jQuery.struts2_jquery.require("js/struts2/jquery.ui.struts2.min.js?s2j=5.0.4");
+
+    });
+</script>
+
+            <link
+                    id="jquery_theme_link"
+                    rel="stylesheet"
+                    href="/arcinsys/template/themes/bootstrap/jquery-ui.css?s2j=5.0.4"
+                    type="text/css"
+                    />
+
+
+    <title>Arcinsys</title>
+
+    
+    
+        <link rel="stylesheet"
+              href="/arcinsys/styles/style.min.css?v=2025.2.5"
+              type="text/css"/>
+        <link rel="stylesheet"
+              href="/arcinsys/styles/print.css?v=2025.2.5"
+              type="text/css" media="print"/>
+        <script src="/arcinsys/jscript/script.min.js?v=2025.2.5"
+                type="text/javascript"></script>
+    
+
+    <script type="text/javascript">
+        $(function () {
+            ArcinsysConfig.init({
+                contextPath: '/arcinsys/',
+                ajaxAnzAntragNichtGenehmigt: '/arcinsys/system/ajaxAnzAntragNichtGenehmigt.action',
+                ajaxAnzBestellungNoDruckdatum: '/arcinsys/system/ajaxAnzBestellungNoDruckdatum.action'
+            });
+        });
+        $.ui.dialog.prototype.options.closeText = '';
+        $(function () { 
+            initBadges();
+        });
+    </script>
+
+    <style>
+        html.js #noscript {
+            display: none;
+        }
+
+        .no-displaytable .oldbrowserwarning {
+            display: block;
+        }
+
+        .displaytable .oldbrowserwarning {
+            display: none;
+        }
+    </style>
+
+    <script type="text/javascript" src="/arcinsys/jscript/modernizr-custom.js"></script>
+
+    
+	 
+
+
+
+<link href="/arcinsys/images/arcinsys.png" rel="apple-touch-icon"/>
+<link href="/arcinsys/images/favicon.ico?v2" rel="shortcut icon" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/arcinsys/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/arcinsys/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/arcinsys/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="/arcinsys/images/favicons/site.webmanifest">
+<link rel="mask-icon" href="/arcinsys/images/favicons/safari-pinned-tab.svg">
+<meta name="apple-mobile-web-app-title" content="Arcinsys">
+<meta name="application-name" content="Arcinsys">
+<meta name="msapplication-TileColor" content="#fcfcfc">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-config" content="browserconfig.xml"/>
+
+
+	<link title="Arcinsys" type="application/opensearchdescription+xml" rel="search" href="/arcinsys/opensearch">
+    
+    
+
+	<!-- wird nur beim ersten laden benötigt -->
+	<script type="text/javascript">
+		$(function() {
+			refreshRowPreview();
+			refreshTableToogleOnClick();
+
+		    $('body').on('keydown', 'input[name="text2"]', function(e) {
+    			if (e.keyCode == 13) {
+    			  saveSuche();
+    			  e.preventDefault();
+                }
+		    });
+		});
+
+	function cleanSucheSave()
+	{
+		var x = document.getElementById("text2");   //
+		x.style.color = "white";
+	}
+
+    function closeSpeichernDialog() {
+		$('#text2').css({'background-color': '', 'color': ''}).val('');
+        $('#esuchexxx').dialog('close');
+    }
+
+    function saveSuche() {
+      $.ajax($('#saveSearchForm').attr('action'), {
+         data: $('#saveSearchForm').serialize(),
+         type: 'POST'
+      })
+      .done(function() {
+         $('#text2').css({'background-color': '#1e588c', 'color': 'white'});
+         window.setTimeout(closeSpeichernDialog, 1500);
+      });
+    }
+
+    $(window).on("load", function () {
+		if (typeof trackInternalSearch !== 'undefined') trackInternalSearch("Chmielewski", 21);
+	});
+	</script>
+	
+
+</head>
+
+<body>
+
+    <div id="indicator">
+        <div id="navloadergif" style="z-index: 21; width: 200px; height: 20px; margin: auto; position: absolute; top: 0; right: 0; bottom: 0; left: 0; background: none;">
+            <img src="/arcinsys/images/ajax-loader.gif" title="loading" alt="loading"/>
+        </div>
+    </div>
+
+    
+
+    <div id="hiddenDiv">
+
+        
+
+
+
+
+
+<div id="menu-panel" class="menu-panel header">
+
+    
+
+
+
+
+
+<h4 class="logo ">
+
+    
+        
+    
+
+    <a id="start" href="/arcinsys/extendnavigator.action?id=-1"><span class="logo-w1">
+            <img src="/arcinsys/images/logo.png"/>&nbsp;Arcinsys
+        </span>
+
+        <span class="logo-line"></span>
+
+        <span class="logo-w2" style="white-space: nowrap">
+            
+
+            
+                <span class="logo-w22">Hessen</span>
+            
+
+            
+        </span></a>
+
+</h4>
+
+
+    
+    
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+    
+
+
+
+<div id="top_right_menu" class="user-menu">
+    <div style="float: left;width:40px; padding-right:10px">
+    </div>
+
+<div style="float: right;">
+
+    <a href="#" class="user-menu-trigger">
+        Anmelden
+        <span class="icon-arrow"></span>
+    </a>
+
+    <div class="panel">
+        <div class="inner">
+            <div class="user-actions">
+                <p>
+                    <a id="registration" href="registration">Registrieren</a>
+                </p>
+                <p>
+                    <a id="passwordForgot" href="passwordForgot">Passwort vergessen</a>
+                </p>
+                <p>
+                    <a id="login" href="login">Anmelden</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div id="top_left_menu" class="nav-container">
+    <ul class="nav-main cf">
+        <li>
+            <a id="navigator" href="/arcinsys/start.action">Navigator</a>
+            <div class="panel nothover">
+                <ul class="nav-sub cf">
+                    <li class="hidden"><a id="detail" href="/arcinsys/einfachsuchen.action"></a></li>
+                    <li class="hidden"><a id="startMenu" href="/arcinsys/einfachsuchen.action"></a></li>
+                </ul>
+            </div>
+        </li>
+        <li>
+            <a id="suche" href="/arcinsys/einfachesuche.action">Suche</a>
+            <div class="panel">
+                <ul class="nav-sub cf">
+                    <li>
+                        <a id="einfachesuche" href="/arcinsys/einfachesuche.action">Einfache Suche</a>
+                    </li>
+                     <li>
+                        <a id="signatursuche" href="/arcinsys/signatursuche.action">Signatur Suche</a>
+                    </li>
+                    <li>
+                        <a id="expertsuche" href="/arcinsys/expertsuchenStart.action?navigatorid=0">Erweiterte Suche</a>
+                    </li>
+                    <li class="hidden">
+                        <a id="sucheresult" href="/arcinsys/einfachsuchen.action"></a>
+                    </li>
+                    <li class="hidden">
+                        <a id="einfachsuchen" href="/arcinsys/einfachsuchen.action"></a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li>
+            <a id="bestellen" href="/arcinsys/nutzer/merkzettel.action">Merkliste</a>
+        </li>
+        <li>
+            <a id="antrag" href="/arcinsys/nutzer/meineNutzungsAntraege.action">Beantragen</a>
+        </li>
+        <li>
+            <a id="lesesaal" href="/arcinsys/nutzer/meineBestellungen.action">Nutzen</a>
+        </li>
+    </ul>
+</div>
+<div class="nav-meta-container">
+    <ul class="nav-meta">
+        <li><a id="helpwizard" href="/arcinsys/helpwizard.action">Hilfe</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+		$.subscribe('dialogclosetopic', function(event, data) {
+               var el = document.getElementById("loginError");
+               if (el) {
+            	   $(el).remove();
+               }
+    	});
+	</script>
+
+
+    
+
+</div>
+
+
+        <a href="javascript:toggleVisibility()" class="ui-corner-all ui-icon ui-icon-transferthick-e-w dialogButtonClass1"></a>
+
+        
+
+
+
+
+
+
+
+    <div id="navigation-panel" class="navigation-panel navigation-panel-open">
+    
+
+
+
+
+<head>
+	 
+</head>
+ 
+
+
+<div class="navigation-panel-header">
+	<ul class="breadcrumb-tree">
+		<li>Facettierung</li>
+	</ul>
+</div>
+ 
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	jQuery.struts2_jquery.require("js/struts2/jquery.tree.struts2"+jQuery.struts2_jquery.minSuffix+".js");
+ });
+</script>
+<div id="navigation">
+	<ul>
+	</ul>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_navigation = {};
+	options_navigation.url = "/arcinsys/facettreejson.action";
+	options_navigation.nodeTargets = "data-panel";
+	options_navigation.nodeHref = "/arcinsys/facetTreeClick.action";
+	options_navigation.nodeHrefParamName = "nodeid";
+
+	options_navigation.jqueryaction = "tree";
+	options_navigation.id = "navigation";
+
+	jQuery.struts2_jquery_tree.bind(jQuery('#navigation'),options_navigation);
+ });
+</script>
+
+<br>
+
+<script type="text/javascript">
+$(function() {
+	//nachladen der custom css aus dem plugin verhindern, stattdessen die eigene css klasse nutzen
+	$.jstree.defaults.core.themes.url = false;
+    $.jstree.defaults.core.themes.name = "custom";
+    $('#navigation').addClass("jstree-custom").removeClass("jstree-default");
+
+	
+	$(document).ajaxComplete(function(evt, request, settings) {
+		if (settings && settings.url && settings.url.indexOf("/facetTreeClick.action") !== -1) {
+			hideIndicatorDiv();
+			initFixedHeader();
+		}
+	});
+
+	
+	$('#navigation').on('select_node.jstree', function(event, data) {
+	  showIndicateDiv();
+      closePopover();
+      destroyDialogs();
+        
+      
+      if (data.instance.get_parent(data.node) !== '#') {
+          data.instance.toggle_node(data.node);
+      }
+	});
+});
+</script>
+
+    </div>
+
+
+
+
+        
+
+
+
+
+
+
+    <div id="data-panel" class="data-panel data-panel-normal">
+        
+
+		
+
+
+
+
+
+
+<input type="hidden" name="pageName" value="sucheresult" id="pageName"/>
+
+<div class="data-panel-header">
+    <div class="content-header-first-row">
+        <div class="page-tools">
+            <div class="language-select language-suche">
+                <ul class="cf">
+                    <li>&nbsp;</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="content-title">
+            <h1>
+                Einfache Suche: Trefferliste
+            </h1>
+        </div>
+    </div>
+    <div class="content-header-second-row">
+
+    <div class="content-header-navigation">
+       <form id="headerPagingForm" name="headerPagingForm" action="/arcinsys/recherchePagingSelect.action" method="get">
+            <input type="hidden" name="_csrf" value="1e6e0bab-ba20-4954-9362-e3915d8f56b7"/>
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=1" class="pagingLinks" id="pId1">
+                  
+                    <img id="pagingtestid1" src="/arcinsys/images/aktion_first_w.png" />&nbsp;&nbsp;
+                  
+                  
+                  
+                  
+                </span>
+              
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=1" class="pagingLinks" id="pId2">
+                  
+                  
+                    <img id="pagingtestid2"    src="/arcinsys/images/aktion_prev_w.png" />&nbsp;&nbsp;
+                  
+                  
+                  
+                </span>
+              
+                <span class="formfieldset"><input type="text" name="pageposition" size="6" maxlength="6" value="1" id="pageposition" style="width: 50px"/>
+                <button id="formSubmitButton2"  title="Seite 1 von 2">  / 2 </button></span>
+              
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=2" class="pagingLinks" id="pId3">
+                  
+                  
+                  
+                    <img id="pagingtestid3" src="/arcinsys/images/aktion_next_w.png" />&nbsp;&nbsp;
+                  
+                  
+                </span>
+              
+            
+                
+                    
+                
+
+                <span data-href="/arcinsys/recherchePaging.action?pagingvalues=2" class="pagingLinks" id="pId4">
+                  
+                  
+                  
+                  
+                    <img id="pagingtestid4" src="/arcinsys/images/aktion_last_w.png" />&nbsp;&nbsp;
+                  
+                </span>
+              
+            
+       </form>
+
+
+
+    </div>
+    <div class="content-tools">
+            <ul class="cf">
+                
+                
+                    <li>&nbsp;</li>
+                
+            </ul>
+    </div>
+    </div>
+</div>
+<form id="testID" name="testID" action="/arcinsys/einfachsuchen.action" method="post">
+
+<div class="data-panel-table-header" style="display: none;">
+    <table class="listTable" id="fixedThead">
+
+    </table>
+</div>
+
+    <input type="hidden" name="sprache" value="de_DE" id="testID_sprache"/>
+    <div class="data-panel-content">
+        <p></p>
+        <div id="sucheClickDiv" style="float: left;" class="sucheClickSmall">
+            <a id="sucheClick" onclick="" href="#"> <img  id="suchfrageshowid" src="/arcinsys/images/aktion_aufklappen_gray_20.png" />
+            </a>
+        </div>
+
+        <div id="sucheInfo" class="searchResultSmall" style="margin-left: 30px;">
+
+            <table>
+                <tr>
+                    <td valign="top">Suchanfrage:</td>
+                    <td>Chmielewski</td>
+                <tr>
+                    <td valign="top"></td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td valign="top">Suchbereich:</td>
+                    <td>alle Archive und Bestände</td>
+                </tr>
+                <tr>
+                    <td valign="top"></td>
+                    <td></td>
+                </tr>
+                 <tr>
+                    <td valign="top"></td>
+                    <td></td>
+                 </tr>
+            </table>
+
+        </div>
+
+        <p></p>
+
+        
+        <div class="ui-state-highlight ui-corner-all msgClass ">
+            <p>
+                <span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
+                Ihre Suche ergab
+                <b>21</b>
+                Treffer
+                .
+            </p>
+        </div>
+        
+
+        
+            
+        
+        
+            
+        
+
+        
+            
+        
+        
+            
+        
+
+        
+            
+        
+        
+            
+        
+
+        <table class="listTable" id="tableScrollThead">
+            <thead class="listThead">
+                <tr>
+                    <th class="head-cell cell-type">Typ</th>
+                    <th class="head-cell cell-signature">Signatur&nbsp;&nbsp;
+                        
+                            <span data-href="/arcinsys/sortResultList.action?sorting=11" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-auf_white_16x16.png" />
+                                
+                            </span>
+
+                            <span data-href="/arcinsys/sortResultList.action?sorting=10" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-ab_white_16x16.png" />
+                                
+                            </span>
+                        
+                    </th>
+                    <th class="head-cell cell-label">Bezeichnung
+                        
+                            <span data-href="/arcinsys/sortResultList.action?sorting=21" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-auf_white_16x16.png" />
+                                
+                            </span>
+                            <span data-href="/arcinsys/sortResultList.action?sorting=20" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-ab_white_16x16.png" />
+                                
+                            </span>
+                        
+                    </th>
+                    <th class="head-cell cell-term">Laufzeit
+                        
+                            <span data-href="/arcinsys/sortResultList.action?sorting=31" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-auf_white_16x16.png" />
+                                
+                            </span>
+
+                            <span data-href="/arcinsys/sortResultList.action?sorting=30" class="sortLinks">
+                                
+                                
+                                    <img src="/arcinsys/images/aktion_sort-ab_white_16x16.png" />
+                                
+                            </span>
+                        
+                    </th>
+                    <th class="head-cell cell-info">Information</th>
+                    <th class="head-cell cell-actions" colspan="2">Aktion</th>
+                </tr>
+
+            </thead>
+            <tbody>
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HHStAW, 527, II 24938</td>
+                    <td class="cell cell-label">Chmielewski, Stephan</td>
+                    <td class="cell cell-term">1946 - 1986</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v9763971&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_0' type="hidden" name="hiddenkey999" value="v9763971_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_0" href="javascript:void(0)" onclick="setEventId(0)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_0 = {};
+	options_maktiv_0.jqueryaction = "anchor";
+	options_maktiv_0.id = "maktiv_0";
+	options_maktiv_0.onsuc = "handleJsonResultMerken";
+	options_maktiv_0.targets = "linkmerken_0";
+	options_maktiv_0.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_0.hrefparameter = "id=v9763971&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_0.formids = "resultForm,testID";
+	options_maktiv_0.datatype = "json";
+	options_maktiv_0.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_0'),options_maktiv_0);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv9763971" class="row-preview">
+                <td colspan="7">
+                     verz9763971<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 527, II 24938</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> [1946-1986] </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Stephan </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1910-04-11 </span><br><span class="dhelperClass"><b style="color:#777777">Beruf: </b> Justizamtmann </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v9763971" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_0' onclick='cleanMsg("errorID_0")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_0' onclick='cleanMsg("merkenerrorID_0")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HHStAW, 527, II 33556</td>
+                    <td class="cell cell-label">Janke von Chmielewski, Anka</td>
+                    <td class="cell cell-term">1946 - 1986</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v9939772&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_1' type="hidden" name="hiddenkey999" value="v9939772_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_1" href="javascript:void(0)" onclick="setEventId(1)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_1 = {};
+	options_maktiv_1.jqueryaction = "anchor";
+	options_maktiv_1.id = "maktiv_1";
+	options_maktiv_1.onsuc = "handleJsonResultMerken";
+	options_maktiv_1.targets = "linkmerken_1";
+	options_maktiv_1.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_1.hrefparameter = "id=v9939772&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_1.formids = "resultForm,testID";
+	options_maktiv_1.datatype = "json";
+	options_maktiv_1.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_1'),options_maktiv_1);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv9939772" class="row-preview">
+                <td colspan="7">
+                     verz9939772<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 527, II 33556</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> [1946-1986] </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> Janke von <span class="s-hl">Chmielewski,</span> Anka </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1912-10-27 </span><br><span class="dhelperClass"><b style="color:#777777">Beruf: </b> Wissenschaftliche Angestellte </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v9939772" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_1' onclick='cleanMsg("errorID_1")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_1' onclick='cleanMsg("merkenerrorID_1")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HHStAW, 520/08, 809</td>
+                    <td class="cell cell-label">Chmielewski, Pauline Margarete</td>
+                    <td class="cell cell-term">1946 - 1949</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v7579761&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_2' type="hidden" name="hiddenkey999" value="v7579761_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_2" href="javascript:void(0)" onclick="setEventId(2)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_2 = {};
+	options_maktiv_2.jqueryaction = "anchor";
+	options_maktiv_2.id = "maktiv_2";
+	options_maktiv_2.onsuc = "handleJsonResultMerken";
+	options_maktiv_2.targets = "linkmerken_2";
+	options_maktiv_2.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_2.hrefparameter = "id=v7579761&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_2.formids = "resultForm,testID";
+	options_maktiv_2.datatype = "json";
+	options_maktiv_2.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_2'),options_maktiv_2);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv7579761" class="row-preview">
+                <td colspan="7">
+                     verz7579761<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 520/08, 809</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1946-1949 </span><br><span class="dhelperClass"><b style="color:#777777">Alte Archivsignatur: </b> Abt. 520/Er Nr. 879 </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Pauline Margarete </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1920-04-01 </span><br><span class="dhelperClass"><b style="color:#777777">Wohnort: </b> Michelstadt </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v7579761" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_2' onclick='cleanMsg("errorID_2")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_2' onclick='cleanMsg("merkenerrorID_2")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HHStAW, 520/11, 41741</td>
+                    <td class="cell cell-label">Chmielewski, Elisabeth</td>
+                    <td class="cell cell-term">1946 - 1949</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v7673156&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_3' type="hidden" name="hiddenkey999" value="v7673156_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_3" href="javascript:void(0)" onclick="setEventId(3)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_3 = {};
+	options_maktiv_3.jqueryaction = "anchor";
+	options_maktiv_3.id = "maktiv_3";
+	options_maktiv_3.onsuc = "handleJsonResultMerken";
+	options_maktiv_3.targets = "linkmerken_3";
+	options_maktiv_3.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_3.hrefparameter = "id=v7673156&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_3.formids = "resultForm,testID";
+	options_maktiv_3.datatype = "json";
+	options_maktiv_3.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_3'),options_maktiv_3);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv7673156" class="row-preview">
+                <td colspan="7">
+                     verz7673156<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 520/11, 41741</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1946-1949 </span><br><span class="dhelperClass"><b style="color:#777777">Alte Archivsignatur: </b> Abt. 520/F (A-Z) </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Elisabeth </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1922-12-02 </span><br><span class="dhelperClass"><b style="color:#777777">Wohnort: </b> Frankfurt am Main </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v7673156" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_3' onclick='cleanMsg("errorID_3")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_3' onclick='cleanMsg("merkenerrorID_3")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HStAD, H 3 Erbach, 31291</td>
+                    <td class="cell cell-label">Chmielewski, Edmund</td>
+                    <td class="cell cell-term">1948 - 1948</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v12632614&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_4' type="hidden" name="hiddenkey999" value="v12632614_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_4" href="javascript:void(0)" onclick="setEventId(4)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_4 = {};
+	options_maktiv_4.jqueryaction = "anchor";
+	options_maktiv_4.id = "maktiv_4";
+	options_maktiv_4.onsuc = "handleJsonResultMerken";
+	options_maktiv_4.targets = "linkmerken_4";
+	options_maktiv_4.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_4.hrefparameter = "id=v12632614&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_4.formids = "resultForm,testID";
+	options_maktiv_4.datatype = "json";
+	options_maktiv_4.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_4'),options_maktiv_4);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv12632614" class="row-preview">
+                <td colspan="7">
+                     verz12632614<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HStAD, H 3 Erbach, 31291</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1948 </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Edmund </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1913-12-28 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Kirschdorf, Kreis Allenstein (Polen) </span><br><span class="dhelperClass"><b style="color:#777777">Staatsangehörigkeit: </b> deutsch </span><br><span class="dhelperClass"><b style="color:#777777">Wohnort: </b> Michelstadt </span><br><span class="dhelperClass"><b style="color:#777777">Beruf: </b> Gärtner </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v12632614" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_4' onclick='cleanMsg("errorID_4")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_4' onclick='cleanMsg("merkenerrorID_4")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Sachakte"
+                        title="Sachakte" /></td>
+                    <td class="cell cell-signature">ISG FFM, V55 in 155</td>
+                    <td class="cell cell-label">Zum Problem der Nationalverfolgten; Autor: Chmielewski, M. H.</td>
+                    <td class="cell cell-term">1970 - 1970</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v10252831&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_5' type="hidden" name="hiddenkey999" value="v10252831_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_5" href="javascript:void(0)" onclick="setEventId(5)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_5 = {};
+	options_maktiv_5.jqueryaction = "anchor";
+	options_maktiv_5.id = "maktiv_5";
+	options_maktiv_5.onsuc = "handleJsonResultMerken";
+	options_maktiv_5.targets = "linkmerken_5";
+	options_maktiv_5.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_5.hrefparameter = "id=v10252831&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_5.formids = "resultForm,testID";
+	options_maktiv_5.datatype = "json";
+	options_maktiv_5.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_5'),options_maktiv_5);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv10252831" class="row-preview">
+                <td colspan="7">
+                     verz10252831<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>ISG FFM, V55 in 155</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Sachakte</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Zum Problem der Nationalverfolgten; Autor: <span...</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> um 1970 </span><br><span class="dhelperClass"><b style="color:#777777">Deskriptoren: </b> Personen: <span class="s-hl">Chmielewski,</span> M. H.: Consultant in...</span><br><span class="dhelperClass"><b style="color:#777777">Deskriptoren: </b> Sachbegriffe: Widerstand; Verfolgung; Nationalsozialismus </span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> Format: DIN A 4; Formalbeschreibung: Hektografierte Maschinenschrift;15...</span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v10252831" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_5' onclick='cleanMsg("errorID_5")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_5' onclick='cleanMsg("merkenerrorID_5")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HHStAW, 520/16, 16404</td>
+                    <td class="cell cell-label">Chmielewski, Emilie Charlotte</td>
+                    <td class="cell cell-term">1946 - 1949</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v7046300&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_6' type="hidden" name="hiddenkey999" value="v7046300_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_6" href="javascript:void(0)" onclick="setEventId(6)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_6 = {};
+	options_maktiv_6.jqueryaction = "anchor";
+	options_maktiv_6.id = "maktiv_6";
+	options_maktiv_6.onsuc = "handleJsonResultMerken";
+	options_maktiv_6.targets = "linkmerken_6";
+	options_maktiv_6.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_6.hrefparameter = "id=v7046300&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_6.formids = "resultForm,testID";
+	options_maktiv_6.datatype = "json";
+	options_maktiv_6.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_6'),options_maktiv_6);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv7046300" class="row-preview">
+                <td colspan="7">
+                     verz7046300<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 520/16, 16404</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1946-1949 </span><br><span class="dhelperClass"><b style="color:#777777">Alte Archivsignatur: </b> Abt. 520/Gi Nr. 14686 </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Emilie Charlotte </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1925-02-26 </span><br><span class="dhelperClass"><b style="color:#777777">Wohnort: </b> Queckborn b. Grünberg/Hessen </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v7046300" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_6' onclick='cleanMsg("errorID_6")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_6' onclick='cleanMsg("merkenerrorID_6")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HStAD, H 3 Erbach, 31292</td>
+                    <td class="cell cell-label">Chmielewski, Pauline (Lina) Margarete, geb. R&auml;thlein</td>
+                    <td class="cell cell-term">1946 - 1946</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v12632618&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_7' type="hidden" name="hiddenkey999" value="v12632618_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_7" href="javascript:void(0)" onclick="setEventId(7)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_7 = {};
+	options_maktiv_7.jqueryaction = "anchor";
+	options_maktiv_7.id = "maktiv_7";
+	options_maktiv_7.onsuc = "handleJsonResultMerken";
+	options_maktiv_7.targets = "linkmerken_7";
+	options_maktiv_7.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_7.hrefparameter = "id=v12632618&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_7.formids = "resultForm,testID";
+	options_maktiv_7.datatype = "json";
+	options_maktiv_7.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_7'),options_maktiv_7);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv12632618" class="row-preview">
+                <td colspan="7">
+                     verz12632618<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HStAD, H 3 Erbach, 31292</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1946 </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Pauline (Lina) Margarete, geb....</span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1920-04-01 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Michelstadt </span><br><span class="dhelperClass"><b style="color:#777777">Staatsangehörigkeit: </b> deutsch </span><br><span class="dhelperClass"><b style="color:#777777">Wohnort: </b> Michelstadt </span><br><span class="dhelperClass"><b style="color:#777777">Beruf: </b> Technische Lehrerin </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v12632618" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_7' onclick='cleanMsg("errorID_7")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_7' onclick='cleanMsg("merkenerrorID_7")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Patientenakte"
+                        title="Patientenakte" /></td>
+                    <td class="cell cell-signature">LWV-Archiv, K 2, 5101</td>
+                    <td class="cell cell-label">Chmielewski, Marjan</td>
+                    <td class="cell cell-term">1942 - 1942</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v7123161&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_8' type="hidden" name="hiddenkey999" value="v7123161_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_8" href="javascript:void(0)" onclick="setEventId(8)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_8 = {};
+	options_maktiv_8.jqueryaction = "anchor";
+	options_maktiv_8.id = "maktiv_8";
+	options_maktiv_8.onsuc = "handleJsonResultMerken";
+	options_maktiv_8.targets = "linkmerken_8";
+	options_maktiv_8.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_8.hrefparameter = "id=v7123161&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_8.formids = "resultForm,testID";
+	options_maktiv_8.datatype = "json";
+	options_maktiv_8.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_8'),options_maktiv_8);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv7123161" class="row-preview">
+                <td colspan="7">
+                     verz7123161<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>LWV-Archiv, K 2, 5101</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Patientenakte</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1942-1942 </span><br><span class="dhelperClass"><b style="color:#777777">Bestellsignatur: </b> 5101 </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Marjan </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 20.10.1919 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Litzmannstadt </span><br><span class="dhelperClass"><b style="color:#777777">Religion: </b> katholisch </span><br><span class="dhelperClass"><b style="color:#777777">Beruf: </b> Arbeiter </span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> Aufenthalt 1: 01.01.1942-31.12.1942 </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v7123161" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_8' onclick='cleanMsg("errorID_8")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_8' onclick='cleanMsg("merkenerrorID_8")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Fallakte (allgemein)"
+                        title="Fallakte (allgemein)" /></td>
+                    <td class="cell cell-signature">HHStAW, 504, 10747</td>
+                    <td class="cell cell-label">Janke, Anka geb. von Chmielewski</td>
+                    <td class="cell cell-term">1967 - 1973</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v4601997&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_9' type="hidden" name="hiddenkey999" value="v4601997_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_9" href="javascript:void(0)" onclick="setEventId(9)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_9 = {};
+	options_maktiv_9.jqueryaction = "anchor";
+	options_maktiv_9.id = "maktiv_9";
+	options_maktiv_9.onsuc = "handleJsonResultMerken";
+	options_maktiv_9.targets = "linkmerken_9";
+	options_maktiv_9.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_9.hrefparameter = "id=v4601997&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_9.formids = "resultForm,testID";
+	options_maktiv_9.datatype = "json";
+	options_maktiv_9.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_9'),options_maktiv_9);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv4601997" class="row-preview">
+                <td colspan="7">
+                     verz4601997<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 504, 10747</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Fallakte (allgemein)</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1967-1973 </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> Janke, Anka geb. von <span class="s-hl">Chmielewski </span></span><br><span class="dhelperClass"><b style="color:#777777">Titel / Rang: </b> Dr. </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1912-10-28 </span><br><span class="dhelperClass"><b style="color:#777777">Beruf: </b> Wiss. Angestellte </span><br><span class="dhelperClass"><b style="color:#777777">Arbeitsstelle: </b> Universität Marburg </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v4601997" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_9' onclick='cleanMsg("errorID_9")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_9' onclick='cleanMsg("merkenerrorID_9")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Sachakte"
+                        title="Sachakte" /></td>
+                    <td class="cell cell-signature">HHStAW, 1196, 382</td>
+                    <td class="cell cell-label">Korrespondenz mit den Bearbeiterinnen Bettina Severin-Barboutie und Alexandra Chmielewski betr. die Edition der Hessischen Landtagsdebatten 1947-1950</td>
+                    <td class="cell cell-term">1999 - 2002</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/info_schutzfrist.png"  alt="Nutzung eingeschr&auml;nkt bis 2032" title="Nutzung eingeschr&auml;nkt bis 2032" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v7526476&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_10' type="hidden" name="hiddenkey999" value="v7526476_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_10" href="javascript:void(0)" onclick="setEventId(10)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_10 = {};
+	options_maktiv_10.jqueryaction = "anchor";
+	options_maktiv_10.id = "maktiv_10";
+	options_maktiv_10.onsuc = "handleJsonResultMerken";
+	options_maktiv_10.targets = "linkmerken_10";
+	options_maktiv_10.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_10.hrefparameter = "id=v7526476&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_10.formids = "resultForm,testID";
+	options_maktiv_10.datatype = "json";
+	options_maktiv_10.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_10'),options_maktiv_10);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv7526476" class="row-preview">
+                <td colspan="7">
+                     verz7526476<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 1196, 382</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Sachakte</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Korrespondenz mit den Bearbeiterinnen Bettina Severin-Barboutie und...</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1999-2002 </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v7526476" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_10' onclick='cleanMsg("errorID_10")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_10' onclick='cleanMsg("merkenerrorID_10")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Sachakte"
+                        title="Sachakte" /></td>
+                    <td class="cell cell-signature">HHStAW, 1196, 383</td>
+                    <td class="cell cell-label">Korrespondenz mit den Bearbeiterinnen Bettina Severin-Barboutie und Alexandra Chmielewski betr. die Edition der Hessischen Landtagsdebatten 1947-1950</td>
+                    <td class="cell cell-term">2000 - 2001</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/info_schutzfrist.png"  alt="Nutzung eingeschr&auml;nkt bis 2031" title="Nutzung eingeschr&auml;nkt bis 2031" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v7528226&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_11' type="hidden" name="hiddenkey999" value="v7528226_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_11" href="javascript:void(0)" onclick="setEventId(11)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_11 = {};
+	options_maktiv_11.jqueryaction = "anchor";
+	options_maktiv_11.id = "maktiv_11";
+	options_maktiv_11.onsuc = "handleJsonResultMerken";
+	options_maktiv_11.targets = "linkmerken_11";
+	options_maktiv_11.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_11.hrefparameter = "id=v7528226&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_11.formids = "resultForm,testID";
+	options_maktiv_11.datatype = "json";
+	options_maktiv_11.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_11'),options_maktiv_11);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv7528226" class="row-preview">
+                <td colspan="7">
+                     verz7528226<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 1196, 383</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Sachakte</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Korrespondenz mit den Bearbeiterinnen Bettina Severin-Barboutie und...</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 2000-2001 </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v7528226" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_11' onclick='cleanMsg("errorID_11")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_11' onclick='cleanMsg("merkenerrorID_11")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Sachakte"
+                        title="Sachakte" /></td>
+                    <td class="cell cell-signature">ISG FFM, V18, 252</td>
+                    <td class="cell cell-label">Frankfurter Volksb&uuml;hne. Problemanalyse und Grundkonzeption f&uuml;r Ma&szlig;nahmen zur Gewinnung neuer Mitglieder; Autor: Chmielewski, G.</td>
+                    <td class="cell cell-term">1980 - 1980</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v10220755&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_12' type="hidden" name="hiddenkey999" value="v10220755_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_12" href="javascript:void(0)" onclick="setEventId(12)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_12 = {};
+	options_maktiv_12.jqueryaction = "anchor";
+	options_maktiv_12.id = "maktiv_12";
+	options_maktiv_12.onsuc = "handleJsonResultMerken";
+	options_maktiv_12.targets = "linkmerken_12";
+	options_maktiv_12.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_12.hrefparameter = "id=v10220755&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_12.formids = "resultForm,testID";
+	options_maktiv_12.datatype = "json";
+	options_maktiv_12.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_12'),options_maktiv_12);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv10220755" class="row-preview">
+                <td colspan="7">
+                     verz10220755<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>ISG FFM, V18, 252</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Sachakte</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Frankfurter Volksbühne. Problemanalyse und Grundkonzeption für...</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 15.04.1980 </span><br><span class="dhelperClass"><b style="color:#777777">Deskriptoren: </b> Körperschaften: Frankfurter Volksbühne </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v10220755" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_12' onclick='cleanMsg("errorID_12")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_12' onclick='cleanMsg("merkenerrorID_12")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Patientenakte"
+                        title="Patientenakte" /></td>
+                    <td class="cell cell-signature">LWV-Archiv, K 2, 5100</td>
+                    <td class="cell cell-label">Chmielewski, Marjan</td>
+                    <td class="cell cell-term">1940 - 1941</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v7123576&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_13' type="hidden" name="hiddenkey999" value="v7123576_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_13" href="javascript:void(0)" onclick="setEventId(13)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_13 = {};
+	options_maktiv_13.jqueryaction = "anchor";
+	options_maktiv_13.id = "maktiv_13";
+	options_maktiv_13.onsuc = "handleJsonResultMerken";
+	options_maktiv_13.targets = "linkmerken_13";
+	options_maktiv_13.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_13.hrefparameter = "id=v7123576&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_13.formids = "resultForm,testID";
+	options_maktiv_13.datatype = "json";
+	options_maktiv_13.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_13'),options_maktiv_13);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv7123576" class="row-preview">
+                <td colspan="7">
+                     verz7123576<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>LWV-Archiv, K 2, 5100</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Patientenakte</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1940-1941 </span><br><span class="dhelperClass"><b style="color:#777777">Bestellsignatur: </b> 5100 </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Marjan </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 20.10.1919 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Litzmannstadt </span><br><span class="dhelperClass"><b style="color:#777777">Religion: </b> katholisch </span><br><span class="dhelperClass"><b style="color:#777777">Wohnort: </b> Hessisch Lichtenau </span><br><span class="dhelperClass"><b style="color:#777777">Beruf: </b> Arbeiter </span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> Aufenthalt 1: 01.01.1940-31.12.1941 </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v7123576" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_13' onclick='cleanMsg("errorID_13")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_13' onclick='cleanMsg("merkenerrorID_13")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Strafprozessakte"
+                        title="Strafprozessakte" /></td>
+                    <td class="cell cell-signature">HHStAW, 461, 31498/11</td>
+                    <td class="cell cell-label">Wirth, Wilhelm: Bd. 11, Urteil in Kopie vom LG Ansbach Ks 1 ab/61 (12/59) gegen Karl Chmielewski u.a.</td>
+                    <td class="cell cell-term">1961 - 1961</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v12723707&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_14' type="hidden" name="hiddenkey999" value="v12723707_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_14" href="javascript:void(0)" onclick="setEventId(14)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_14 = {};
+	options_maktiv_14.jqueryaction = "anchor";
+	options_maktiv_14.id = "maktiv_14";
+	options_maktiv_14.onsuc = "handleJsonResultMerken";
+	options_maktiv_14.targets = "linkmerken_14";
+	options_maktiv_14.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_14.hrefparameter = "id=v12723707&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_14.formids = "resultForm,testID";
+	options_maktiv_14.datatype = "json";
+	options_maktiv_14.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_14'),options_maktiv_14);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv12723707" class="row-preview">
+                <td colspan="7">
+                     verz12723707<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 461, 31498/11</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Strafprozessakte</span><br><span class="dhelperClass"><b style="color:#777777">Serientitel: </b>Wirth, Wilhelm</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Bd. 11, Urteil in Kopie vom LG Ansbach Ks 1 ab/61 (12/59) gegen Karl...</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1961, (1972) </span><br><span class="dhelperClass"><b style="color:#777777">Vorwurf / Delikt: </b> Mord (NSG) </span><br><span class="dhelperClass"><b style="color:#777777">Justizaktenzeichen: </b> 4 Js 634/70 (StA Frankfurt am Main) </span><br><span class="dhelperClass"><b style="color:#777777">(Vor-) Provenienzen: </b> LG Ansbach (Ks 1 ab/61 (12/59)) </span><br><span class="dhelperClass"><b style="color:#777777">Verfahrensart: </b> NSG-Verfahren </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> Wirth, Wilhelm (Willi) </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1912-06-12 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Frankfurt am Main </span><br><span class="dhelperClass"><b style="color:#777777">Sterbedatum: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Sterbeort: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Geschlecht: </b> m </span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> Beschuldigte: Karl <span class="s-hl">Chmielewski </span>(geb....</span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v12723707" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_14' onclick='cleanMsg("errorID_14")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_14' onclick='cleanMsg("merkenerrorID_14")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Sachakte"
+                        title="Sachakte" /></td>
+                    <td class="cell cell-signature">AdJb, A 232, 179</td>
+                    <td class="cell cell-label">Beitr&auml;ge und Korrespondenzen der Felsenburg-Redaktion</td>
+                    <td class="cell cell-term">1987 - 1995</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v12728908&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_15' type="hidden" name="hiddenkey999" value="v12728908_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_15" href="javascript:void(0)" onclick="setEventId(15)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_15 = {};
+	options_maktiv_15.jqueryaction = "anchor";
+	options_maktiv_15.id = "maktiv_15";
+	options_maktiv_15.onsuc = "handleJsonResultMerken";
+	options_maktiv_15.targets = "linkmerken_15";
+	options_maktiv_15.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_15.hrefparameter = "id=v12728908&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_15.formids = "resultForm,testID";
+	options_maktiv_15.datatype = "json";
+	options_maktiv_15.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_15'),options_maktiv_15);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv12728908" class="row-preview">
+                <td colspan="7">
+                     verz12728908<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>AdJb, A 232, 179</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Sachakte</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Beiträge und Korrespondenzen der Felsenburg-Redaktion </span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1987-1995 </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> - Korrespondenzen u.a. von: Jochen Schneider, Walter Linkmann, Jutta...</span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v12728908" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_15' onclick='cleanMsg("errorID_15")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_15' onclick='cleanMsg("merkenerrorID_15")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_serie.png"    alt="St&uuml;ck-Serie"
+                        title="St&uuml;ck-Serie" /></td>
+                    <td class="cell cell-signature">HHStAW, 3008/1, ...</td>
+                    <td class="cell cell-label">Der Graf von Luxemburg (Operette von Franz Leh&aacute;r, Text von A. M. Willner und R. Bodanzky</td>
+                    <td class="cell cell-term">1968 - 1968</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=s170558&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+                
+                    <a id="serie_navigator_s170558" href="javascript:void(0)">
+                        Navigator
+                    </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_serie_navigator_s170558 = {};
+	options_serie_navigator_s170558.jqueryaction = "anchor";
+	options_serie_navigator_s170558.id = "serie_navigator_s170558";
+	options_serie_navigator_s170558.oncom = "serie-navigator-topic";
+	options_serie_navigator_s170558.targets = "data-panel";
+	options_serie_navigator_s170558.href = "/arcinsys/ajaxlist.action";
+	options_serie_navigator_s170558.hrefparameter = "page=1&nodeid=s170558";
+	options_serie_navigator_s170558.requesttype = "GET";
+
+jQuery.struts2_jquery.bind(jQuery('#serie_navigator_s170558'),options_serie_navigator_s170558);
+
+ });
+</script>
+
+                
+                
+            
+            
+                </td>
+
+                </tr>
+
+                <tr id="hs170558" class="row-preview">
+                <td colspan="7">
+                     serie170558<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 3008/1, ...</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Stück-Serie</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Der Graf von Luxemburg (Operette von Franz Lehár, Text von A. M....</span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1968 </span><br><span class="dhelperClass"><b style="color:#777777">(Vor-) Provenienzen: </b> Abt. 428 Hessisches Hauptstaatsarchiv </span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Reinhold Bartel (René, Graf von Luxemburg) Werner Jonas (Don Miguel de...</span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> Neuinszenierung und Premiere am 20. Januar 1968 im Großen Haus. </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=s170558" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_16' onclick='cleanMsg("errorID_16")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_16' onclick='cleanMsg("merkenerrorID_16")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_serie.png"    alt="St&uuml;ck-Serie"
+                        title="St&uuml;ck-Serie" /></td>
+                    <td class="cell cell-signature">HHStAW, 544, 1820-1823</td>
+                    <td class="cell cell-label">B&ouml;hmichen, Karl Gustav u. a. (KZ Mauthausen/Gusen)</td>
+                    <td class="cell cell-term">1961 - 1972</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=s283794&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+                
+                    <a id="serie_navigator_s283794" href="javascript:void(0)">
+                        Navigator
+                    </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_serie_navigator_s283794 = {};
+	options_serie_navigator_s283794.jqueryaction = "anchor";
+	options_serie_navigator_s283794.id = "serie_navigator_s283794";
+	options_serie_navigator_s283794.oncom = "serie-navigator-topic";
+	options_serie_navigator_s283794.targets = "data-panel";
+	options_serie_navigator_s283794.href = "/arcinsys/ajaxlist.action";
+	options_serie_navigator_s283794.hrefparameter = "page=1&nodeid=s283794";
+	options_serie_navigator_s283794.requesttype = "GET";
+
+jQuery.struts2_jquery.bind(jQuery('#serie_navigator_s283794'),options_serie_navigator_s283794);
+
+ });
+</script>
+
+                
+                
+            
+            
+                </td>
+
+                </tr>
+
+                <tr id="hs283794" class="row-preview">
+                <td colspan="7">
+                     serie283794<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 544, 1820-1823</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Stück-Serie</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Böhmichen, Karl Gustav u. a. (KZ Mauthausen/Gusen) </span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1961-1972 </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> V/1-SK, O.-Nr. 313/61(HLKA) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 2 Js 11/61 (StA Gießen) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 141 Js 280/61 (StA Hamburg) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 24 Js 268/63 (Z) (StA Köln) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 24 AR 130/66 (Z) (StA Köln) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 24 Js 280/63 (Z) (StA Köln) </span><br><span class="dhelperClass"><b style="color:#777777">(Vor-) Provenienzen: </b> HLKA (V/1-SK, O.-Nr. 313/61) </span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Vorwurf/Delikt: Mord, Beihilfe zum Mord </span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Verfahrensart: NSG-Verfahren </span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Verfahrensangaben: Ermittlungen als Amtshilfe für die StA Gießen, StA...</span><br><span class="dhelperClass"><b style="color:#777777">Sachverhalt: </b> Ermittlung gegen Dr. med. Karl Gustav Böhmichen (ab 1940 SS-Unter- bzw....</span><br><span class="dhelperClass"><b style="color:#777777">Sachverhalt: </b> Ermittlung gegen Walter Junge (Lagerkapo im KZ Gusen I), Heinz Jentzsch...</span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> verbundene Verfahren: - <span class="s-hl">Chmielewski-</span>Prozess...</span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> siehe hierzu auch: - V/1-SK, O.-Nr. 6/60 (HLKA) bzw. HHStAW, Best. 544,...</span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=s283794" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_17' onclick='cleanMsg("errorID_17")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_17' onclick='cleanMsg("merkenerrorID_17")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_verzeichnung.png"    alt="Strafprozessakte"
+                        title="Strafprozessakte" /></td>
+                    <td class="cell cell-signature">HHStAW, 544, 1820</td>
+                    <td class="cell cell-label">B&ouml;hmichen, Karl Gustav u. a. (KZ Mauthausen/Gusen): Bd. 1, Ermittlungsakte Bd. 1</td>
+                    <td class="cell cell-term">1961 - 1964</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=v12762252&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+            
+
+                
+                    
+                    
+                
+
+
+                 <input  id='hid_18' type="hidden" name="hiddenkey999" value="v12762252_1">
+
+                  
+
+                 
+
+
+
+                   <a id="maktiv_18" href="javascript:void(0)" onclick="setEventId(18)">
+		            
+	             </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_maktiv_18 = {};
+	options_maktiv_18.jqueryaction = "anchor";
+	options_maktiv_18.id = "maktiv_18";
+	options_maktiv_18.onsuc = "handleJsonResultMerken";
+	options_maktiv_18.targets = "linkmerken_18";
+	options_maktiv_18.href = "/arcinsys/ajaxMerkenNew.action";
+	options_maktiv_18.hrefparameter = "id=v12762252&_csrf=1e6e0bab-ba20-4954-9362-e3915d8f56b7";
+	options_maktiv_18.formids = "resultForm,testID";
+	options_maktiv_18.datatype = "json";
+	options_maktiv_18.requesttype = "POST";
+
+jQuery.struts2_jquery.bind(jQuery('#maktiv_18'),options_maktiv_18);
+
+ });
+</script>
+
+
+
+
+            
+                </td>
+
+                </tr>
+
+                <tr id="hv12762252" class="row-preview">
+                <td colspan="7">
+                     verz12762252<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 544, 1820</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Strafprozessakte</span><br><span class="dhelperClass"><b style="color:#777777">Serientitel: </b>Böhmichen, Karl Gustav u. a. (KZ Mauthausen/Gusen)</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Bd. 1, Ermittlungsakte Bd. 1 </span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> 1961-1964 </span><br><span class="dhelperClass"><b style="color:#777777">Vorwurf / Delikt: </b> Mord </span><br><span class="dhelperClass"><b style="color:#777777">Vorwurf / Delikt: </b> Beihilfe zum Mord </span><br><span class="dhelperClass"><b style="color:#777777">Vorwurf / Delikt: </b> Menschenversuche </span><br><span class="dhelperClass"><b style="color:#777777">Alte Archivsignatur: </b> Zug. 5/2010 </span><br><span class="dhelperClass"><b style="color:#777777">Justizaktenzeichen: </b> 2 Js 11/61 (StA Gießen) </span><br><span class="dhelperClass"><b style="color:#777777">Justizaktenzeichen: </b> 141 Js 280/61 (StA Hamburg) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> V/1-SK, O.-Nr. 313/61 (HLKA) </span><br><span class="dhelperClass"><b style="color:#777777">(Vor-) Provenienzen: </b> HLKA (V/1-SK, O.-Nr. 313/61) </span><br><span class="dhelperClass"><b style="color:#777777">Verfahrensart: </b> NSG-Verfahren </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> Böhmichen, Karl Gustav </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1912-05-31 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Rheine </span><br><span class="dhelperClass"><b style="color:#777777">Sterbedatum: </b> 1964-07-14 </span><br><span class="dhelperClass"><b style="color:#777777">Sterbeort: </b> Gießen </span><br><span class="dhelperClass"><b style="color:#777777">Geschlecht: </b> m </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> <span class="s-hl">Chmielewski,</span> Karl </span><br><span class="dhelperClass"><b style="color:#777777">Aliasname: </b> Eiermann, Karl </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1903-06-16 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Frankfurt am Main </span><br><span class="dhelperClass"><b style="color:#777777">Sterbedatum: </b> 1991-12-01 </span><br><span class="dhelperClass"><b style="color:#777777">Sterbeort: </b> Prien am Chiemsee </span><br><span class="dhelperClass"><b style="color:#777777">Geschlecht: </b> m </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> Junge, Walter </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Sterbedatum: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Sterbeort: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Geschlecht: </b> m </span><br><span class="dhelperClass"><b style="color:#777777">Personenname: </b> Schildbach, Franz Alwin </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsdatum: </b> 1913-09-24 </span><br><span class="dhelperClass"><b style="color:#777777">Geburtsort: </b> Dresden </span><br><span class="dhelperClass"><b style="color:#777777">Sterbedatum: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Sterbeort: </b> keine Angabe </span><br><span class="dhelperClass"><b style="color:#777777">Geschlecht: </b> m </span><br><span class="dhelperClass"><b style="color:#777777">Enthält (u.a.): </b> Pressespiegel, 1961 </span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=v12762252" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_18' onclick='cleanMsg("errorID_18")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_18' onclick='cleanMsg("merkenerrorID_18")' ></span> </td>
+                </tr>
+
+
+            
+
+
+                <tr>
+                
+                
+                 
+            
+                    <td class="cell cell-type"><img  src="/arcinsys/images/icons/26x26/i_dark_serie.png"    alt="St&uuml;ck-Serie"
+                        title="St&uuml;ck-Serie" /></td>
+                    <td class="cell cell-signature">HHStAW, 461, 31498/1-12</td>
+                    <td class="cell cell-label">Wirth, Wilhelm</td>
+                    <td class="cell cell-term">1972 - 1976</td>
+                    <td class="cell cell-info">
+                            
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png"  alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                             <img src="/arcinsys/images/spacer.png" alt="" title="" />
+                          </td>
+            <td class="cell cell-actions" style="white-space:nowrap;">
+
+            
+                
+            
+            
+                
+                
+            
+            <a href="/arcinsys/detailAction.action?detailid=s282259&amp;icomefrom=search" target="_blank">
+                Detailseite
+            </a>
+            
+                
+                    <a id="serie_navigator_s282259" href="javascript:void(0)">
+                        Navigator
+                    </a>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+	var options_serie_navigator_s282259 = {};
+	options_serie_navigator_s282259.jqueryaction = "anchor";
+	options_serie_navigator_s282259.id = "serie_navigator_s282259";
+	options_serie_navigator_s282259.oncom = "serie-navigator-topic";
+	options_serie_navigator_s282259.targets = "data-panel";
+	options_serie_navigator_s282259.href = "/arcinsys/ajaxlist.action";
+	options_serie_navigator_s282259.hrefparameter = "page=1&nodeid=s282259";
+	options_serie_navigator_s282259.requesttype = "GET";
+
+jQuery.struts2_jquery.bind(jQuery('#serie_navigator_s282259'),options_serie_navigator_s282259);
+
+ });
+</script>
+
+                
+                
+            
+            
+                </td>
+
+                </tr>
+
+                <tr id="hs282259" class="row-preview">
+                <td colspan="7">
+                     serie282259<br><span class="dhelperClass"><b style="color:#OOOOOO">Signatur: </b>HHStAW, 461, 31498/1-12</span><br><span class="dhelperClass1"><b style="color:#OOOOOO">Beschreibungsmodell:</b> Stück-Serie</span><br><span class="dhelperClass"><b style="color:#777777">Titel: </b> Wirth, Wilhelm </span><br><span class="dhelperClass"><b style="color:#777777">Laufzeit: </b> (1941-1948), 1972-1976, (1979-1992) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 4 Js 634/70 (StA Frankfurt am Main) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 24 Js 28/70 (Z) (Zentralstelle im Lande Nordrhein-Westfalen für die...</span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 24 Js 268/63 (Z) (Zentralstelle im Lande Nordrhein-Westfalen für die...</span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> Ks 1 ab/61 (12/59) (LG Ansbach) </span><br><span class="dhelperClass"><b style="color:#777777">Organisations- und Aktenzeichen: </b> 11 Ks 2/65 (StA Hagen) </span><br><span class="dhelperClass"><b style="color:#777777">(Vor-) Provenienzen: </b> StA Frankfurt am Main (4 Js 634/70) </span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Vorwurf/Delikt: Mord (NSG) </span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Verfahrensart: NSG-Verfahren </span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Verfahrensangaben: Ab Januar 1970 Übernahme der Vorermittlungen 24 Js...</span><br><span class="dhelperClass"><b style="color:#777777">Enthält: </b> Bd. 1-2: Ermittlungsakten; Bd. 3: Handakte; Bd. 4-8: Zeugenhefte; Bd....</span><br><span class="dhelperClass"><b style="color:#777777">Sachverhalt: </b> Ermittlungen wegen Mordes an arbeitsunfähigen und schwerkranken...</span><br><span class="dhelperClass"><b style="color:#777777">Zusatzinformationen: </b> Die Tötungen in dem Konzentrationslager Gusen wurde in anderen...</span><br>
+                        
+                            
+                        <a href="/arcinsys/detailAction.action?detailid=s282259" TARGET="_blank"> <br>Detailseite</a>
+                    </td>
+                </tr>
+                 <tr>
+                   <td colspan="7">  <span id='errorID_19' onclick='cleanMsg("errorID_19")' ></span> </td>
+                </tr>
+                <tr>
+                   <td colspan="7">  <span id='merkenerrorID_19' onclick='cleanMsg("merkenerrorID_19")' ></span> </td>
+                </tr>
+
+
+            
+            </tbody>
+        </table>
+    </div>
+   </form>
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+<div id="merkenMsg_container">
+    <div class="merkenMsgClosebutton">
+        <button onclick="$('#merkenMsg_container').hide();" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close">
+            <span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span>
+            <span class="ui-button-text">close</span>
+        </button>
+    </div>
+    <div id="merkenMsg"></div>
+
+    
+        <div class="merkenMsgButtonrow ui-helper-clearfix">
+            <div>
+                <p>Möchten Sie jetzt bestellen?</p>
+            </div>
+            <div>
+                <a class="linkToButtonGrey" href="#" onclick="$('#merkenMsg_container').hide();">Nein, später</a>
+                <a class="linkToButtonBlue" href="/arcinsys/nutzer/merkzettel.action?showContinueMessage=true" >Ja, bestellen</a>
+            </div>
+        </div>
+    
+ </div>
+ <script type="text/javascript">
+ $(function() {
+   //
+   $('#merkenMsg_container').subscribe('merkenComplete', merkenShowDialog, [], false);
+   //
+ });
+</script>
+
+
+
+	
+    </div>
+
+
+
+
+        
+
+        
+
+
+
+
+
+<div id="info-panel" class="info-panel"></div>
+
+
+        
+
+
+
+
+
+
+
+    <div id="tracker-info" style="display: none;">
+        <div class="ti-left">
+            <img title="Cookie Hinweis ausblenden"
+                 src="/arcinsys/images/aktion_verbergen.png" onclick="closeTrackerInfo();" alt="Schließen"/>
+        </div>
+        <div class="ti-right">
+            Diese Website setzt Cookies ein. Wenn Sie der Nutzungsanalyse widersprechen oder mehr über Cookies erfahren möchten, klicken Sie bitte auf <a href="/arcinsys/info.action#datenschutz">Datenschutz</a>.
+        </div>
+        <div class="ti-clear"></div>
+    </div>
+
+<div class="footer">
+    <ul class="nav-footer">
+        <li>
+            <a href="/arcinsys/info.action">Info</a>
+        </li>
+        <li>
+            <a href="/arcinsys/info.action#datenschutz">Datenschutz</a>
+        </li>
+        <li>
+            
+                <a href="https://arcinsys.de/about/barrierefreiheit.htm">Barrierefreiheit</a>
+            
+            
+        </li>
+        <li>
+            <a href="/arcinsys/info.action#impressum">Impressum</a>
+        </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    
+
+
+    <!-- Matomo -->
+    <script type="text/javascript">
+        var _paq = window._paq || [];
+
+        
+        
+        
+        
+        
+
+        if (typeof archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount !== 'undefined' && archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount) {
+            _paq.push(['setCustomDimension', '3', archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount]);
+            archiveSignatureForMatomoCustomDimensionOpenDigitalisatViewerCount = null;
+        }
+
+        if (typeof documentTitleForMatomo !== 'undefined' && documentTitleForMatomo) {
+            _paq.push(['setDocumentTitle', documentTitleForMatomo]);
+            documentTitleForMatomo = null;
+        }
+
+        _paq.push(["setDoNotTrack", true]);
+        _paq.push(["disableCookies"]);
+        _paq.push(['trackPageView']);
+        _paq.push(['deleteCustomDimension', '3']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="https://arcinsys.hessen.de/matomo/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+        function trackInternalSearch(keyword, resultsize) {
+            _paq.push(['trackSiteSearch', keyword,"",resultsize]);
+        }
+    </script>
+    <noscript><p><img src="https://arcinsys.hessen.de/matomo/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
+
+
+
+
+    
+
+</body>
+
+</html>

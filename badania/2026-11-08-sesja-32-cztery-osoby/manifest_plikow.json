@@ -1,0 +1,1432 @@
+[
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/LICZNIKI.json",
+    "bytes": 309,
+    "sha256": "883cc910e1ef75e967cabc562b46c75fa157a9dbc219862420c3b6a6331a4823"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/PLAN_KONTYNUACJI.md",
+    "bytes": 3111,
+    "sha256": "9603c914ef5e2423590e163de69d80dc52f09cf5a6185d6feac8974ff412b2dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/STATUS.md",
+    "bytes": 7513,
+    "sha256": "54f173d34c2feceee509058c63451a2c794b1ba6c98568d2f98dfff58b355a14"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/WALIDACJA.json",
+    "bytes": 479,
+    "sha256": "45f1c76d89c3b110ea0d8daa9ace1245251b0f12b07aad22c577b322b342997e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/ZMIANY_KOMOREK.json",
+    "bytes": 11301,
+    "sha256": "76bb7156aa895afccf8d5b8ff71ab68a2dad6703f2a06897ff945f231cd99638"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/aktualizuj_excel.py",
+    "bytes": 18794,
+    "sha256": "d6464e1b8b7f314f8758377adeaf0edc539ae954a0045aa30404083129997eed"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/baza_przed_etapem32.xlsx",
+    "bytes": 349160,
+    "sha256": "930bd3f70d380e766fd0c8b96f114a1f82095efe878f14c31ea54467bc5d0e30"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/kwerenda_nkjp.py",
+    "bytes": 3680,
+    "sha256": "d7fdf7eefcaf89b39491d3ff570eebd88a0fe877ca6d4548e66c0d7d370906c1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/pobierz_arolsen_indeks.py",
+    "bytes": 1959,
+    "sha256": "c58b9f7f80dd64c670cc5404ed5b48c20128f391041142138ab42def7ed032ff"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/pobierz_skan_25506.py",
+    "bytes": 3384,
+    "sha256": "6def1af48613a3ec421bd29100adba8e5c0b2d646d4028940a351301237c62c6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/waliduj.py",
+    "bytes": 3731,
+    "sha256": "55e93203f2583266c421a7727111cfc59bf045e472aef195d1e4e3883d1e6cb7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_001.jpg",
+    "bytes": 303088,
+    "sha256": "c9250bb3d988b126b1c01831514286baa0e232fcf19ce880e2b948a790e0b2a7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_002.jpg",
+    "bytes": 2545338,
+    "sha256": "97d1def8c03fa3057f0663001a7cc8bfe44cf7836cc8601db88d8f96f01fab9c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_004.jpg",
+    "bytes": 1600915,
+    "sha256": "cde32988236e3e058a6d257f0f29a94ded7ac84714a5e7744687176b3d7e9d62"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_005.jpg",
+    "bytes": 1811355,
+    "sha256": "72025915abb9adfb4d178503aacb08b4998040f0f98954a970bf5d0f27f197b5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_082.jpg",
+    "bytes": 1675612,
+    "sha256": "2c99dc9b0995732fbe62bde8320f1b30e386ecf998c31e463f7f9e4fe5f467a6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_104.jpg",
+    "bytes": 1279221,
+    "sha256": "345538b18db08bed6282e293239753fd77523abe1c2672a9491f46afbf15fb93"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_110.jpg",
+    "bytes": 1709782,
+    "sha256": "8a825dd619c92d029f3c85d2b5c2fa41adb9ccb1d2ec80822489a9bff28019c5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_138.jpg",
+    "bytes": 1703675,
+    "sha256": "d4ea19689b67f8ee618713b1d9a28096bdd7646987200051c82c8b04f4d8fd89"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_178.jpg",
+    "bytes": 1725675,
+    "sha256": "4ba13712773c1628624db92f10c48c2b2cf5b34221048abfb9da2848dd61639a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_203.jpg",
+    "bytes": 1497059,
+    "sha256": "aef7fd1ad6aa03fa5896d1aada5266436c437809545fd97b50446e256ba1b916"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_204.jpg",
+    "bytes": 1422692,
+    "sha256": "5fbf4400a2aa7ad9c551bad8cf632ae926e1b0e70709a51e40d1085c047e656f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_205.jpg",
+    "bytes": 118458,
+    "sha256": "276e052f0039774d9da835ed6b8ed8c68fe29c40a73a5d8c7ee9a32235646dcd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_kolumny_manifest.json",
+    "bytes": 4379,
+    "sha256": "fc9867ce3ca5ba451b2ba3dbf94afab6c42953c361e4f2fefed6657993f812db"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_kolumny_nazwisk.zip",
+    "bytes": 16668359,
+    "sha256": "de4b72567992ab9a25aac6809749652fd20de58870294d8f87fc5925adb1f4fd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_manifest.json",
+    "bytes": 127008,
+    "sha256": "569fd4c6ca9ea93d3c5ccc952f7bd1a8761e2e3675fe60b1a5c293a16b3fa1ad"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_pobrane_sha256.json",
+    "bytes": 62815,
+    "sha256": "2867e69a2b2eb84153790a793b0c0db922782b8e6adf349620f0b44471b308f0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_wybrane_odczyty.csv",
+    "bytes": 2010,
+    "sha256": "6a13b7aa917b2db2876f8aee20072b64dc87b0a4f5a22b4a75db0d22286677af"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25506_zakres_odczytu.json",
+    "bytes": 879,
+    "sha256": "ddb4d450c6f67677f992996f29a6755f8f7bcf57532cccc550019101274c26e1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/25507_katalog_przed_kontynuacja.json",
+    "bytes": 16019,
+    "sha256": "cab9dd45e7ebe5f06bf84f9afc1c19ddbba3a0162d9176330a367751db8f1740"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/Chrzypsko_spis_jednostek_proba.json",
+    "bytes": 2138,
+    "sha256": "cfc198c79315bff741764280113efead76d6cff428dc56c6f1998fd50ac1737a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/Chrzypsko_zespol_92_60.json",
+    "bytes": 6922,
+    "sha256": "95c9703274650b9c211f764dca79cc94f51c3bdaaa22859c91abec372efa7161"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_14_odczyt_Firecrawl.md",
+    "bytes": 88455,
+    "sha256": "96a81940648412538e908aac81c627d967f5326015be0aac5fecea4a226fe95b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_Firecrawl_metadane.json",
+    "bytes": 477,
+    "sha256": "fff061b4ab9e413cdafc6a35e393c54a3291144e4ef23e80ce9fdf663e2f4907"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_Firecrawl_query.json",
+    "bytes": 1777,
+    "sha256": "1cc9b4a679f0e3089c15e2fae3370548a55992dbd980884977f80173fadfab49"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_dostep32.json",
+    "bytes": 163,
+    "sha256": "aa5a23c20f23201dacc47e9dceabebe9e40e8a72c4058fb9b9f94266286f55d2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_dostep_oryginal32.json",
+    "bytes": 238,
+    "sha256": "71a68d0795e3fe4a52321b38ca45fe78077a09f0e581f3c06a2d7414d0f3a0a3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_odczyt_web.json",
+    "bytes": 17452,
+    "sha256": "01cadd76af1274fb7637a3114800ccafd4b5333c371bdd409f197dda1a7cf0d0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/MSW2015_wyszukiwanie.json",
+    "bytes": 16971,
+    "sha256": "b5bb1de15ec07d452f55dcaf06bf5fdf6f9deae73cb6c4954d1f50ae4a95343c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/cassdorf.html",
+    "bytes": 84047,
+    "sha256": "d978fb0cbcd0f2505f2e7dc1a30ee8345b9c9dd6ccfdc0cbf80cd5fd033f79a5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/cassdorf.txt",
+    "bytes": 4621,
+    "sha256": "5c0218ff11b99909e4e8e5efd2f1e95d27d28773a39d0fa4c3b530fa88da3389"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/cassdorf_war.html",
+    "bytes": 96078,
+    "sha256": "742d860913217f71b5d187c06352bdac24a0fdc897cfebd37ac0486ab9ab7478"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/cassdorf_war.txt",
+    "bytes": 6021,
+    "sha256": "c7d8375a3bc9fd5235884388a91e8b4bfae45382c4ed8a9205dbbe90dba8ea43"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/chmielewski.html",
+    "bytes": 105850,
+    "sha256": "3179189fd1e3f4df299283e56a85c6f9151ea98a9f26417934c7d23d2bbc31ae"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/chmielewski.txt",
+    "bytes": 11106,
+    "sha256": "fd2a17a15b08aad022b12a359578823d3de5847dd0df11c1bfd4a50165271ad9"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/chmielowski.html",
+    "bytes": 25284,
+    "sha256": "22f3460bb3a8b759545492f85aec6a78b1c2dacd7cda54f3be577e5484ee66b4"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/chmielowski.txt",
+    "bytes": 2657,
+    "sha256": "32049784619e100fe1ed3a96e06fba19a0e3e1560f1afaec46db23cc83eee90e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/czeslaw_wild.html",
+    "bytes": 25298,
+    "sha256": "89f5cbafcee2c12ec5067ad77c2f415e382b4f33dfca83dbd57636137b1b956a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/czeslaw_wild.txt",
+    "bytes": 2657,
+    "sha256": "32049784619e100fe1ed3a96e06fba19a0e3e1560f1afaec46db23cc83eee90e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/fritzlar_foreign.html",
+    "bytes": 25388,
+    "sha256": "07e47b812ff619d6da5fcd95fe6f916b41f06469198b4ea230efac23fc517224"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/fritzlar_foreign.txt",
+    "bytes": 2657,
+    "sha256": "32049784619e100fe1ed3a96e06fba19a0e3e1560f1afaec46db23cc83eee90e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/homberg.html",
+    "bytes": 96749,
+    "sha256": "9f674ef3a2c86404684d3ddcfbda793d5240d689f98c2c7bf4afdb325fd11f9a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/homberg.txt",
+    "bytes": 9161,
+    "sha256": "8af8ccf4fc75a9923a897f5227ab44e91ee30f8d6244ae03c91598d6649ee065"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/queries.json",
+    "bytes": 3343,
+    "sha256": "621b756fdb98806c9392f9b7a99c3a7e24489bdc08cda980a306e92ab232b9d2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/queries_extra.json",
+    "bytes": 3624,
+    "sha256": "2efd6b241f9d855189d215e0980b0f18ce5a699a9b4c43f802f6c1794608f911"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/surname_last.html",
+    "bytes": 16831,
+    "sha256": "1e309494abc45cfb9d6c5deb002db9f69c91668a31818da60a3798b25afd753f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/surname_last.txt",
+    "bytes": 3024,
+    "sha256": "cf9d90e789935b1fdee7a770ab38f41da69e8211560d075ca2827f1a3759a535"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/surname_page2.html",
+    "bytes": 105850,
+    "sha256": "2a707b7f7d4d8d420307005fbb54c0d20924de9b22010eb482c8ca448b565b2b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arcinsys/surname_page2.txt",
+    "bytes": 11106,
+    "sha256": "fd2a17a15b08aad022b12a359578823d3de5847dd0df11c1bfd4a50165271ad9"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/all_pages.json",
+    "bytes": 4176388,
+    "sha256": "239fdebb57fb07d10f3ec1f3fb583cf74300fb084b556ce6e55521c24a69f604"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/complete_offset0_GetPersonList.json",
+    "bytes": 688495,
+    "sha256": "3554408ec89251b4ad7c462d3b38535e3a05b48cd99243be27dcfae9c49b29a6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/complete_offset1000_GetPersonList.json",
+    "bytes": 683412,
+    "sha256": "87916e186f763fd336f3e82d53669d10d723a08758451380a91aae3db912730e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/complete_offset2000_GetPersonList.json",
+    "bytes": 700632,
+    "sha256": "d5b41f8df77275c5e7d00d2ced3c0dac03a92b148c1db1e38631e2b7a6786684"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/complete_offset3000_GetPersonList.json",
+    "bytes": 680240,
+    "sha256": "45c67c5526243b26540aa44e1cb75775cfb15fe7decf8465413a214ef8250fc5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/complete_offset4000_GetPersonList.json",
+    "bytes": 536109,
+    "sha256": "a98dcf3811c21d236aa75588bfbbbb5ec3d472ab6a4784db0d24759c2996a78c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/offset1000_GetPersonList.json",
+    "bytes": 683412,
+    "sha256": "87916e186f763fd336f3e82d53669d10d723a08758451380a91aae3db912730e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/pages_BuildQueryGlobalForAngular.json",
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/pages_GetCount.json",
+    "bytes": 12,
+    "sha256": "06741b5d8cb70dbbc823d6c5f93a28abac9f74f9524bb722131488c8f34de6e6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/persons.json",
+    "bytes": 874430,
+    "sha256": "ae8e1b369c8773694afd0b02df141c10390603c48013284de50164d4fd88285f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/requests.json",
+    "bytes": 1262,
+    "sha256": "ee820f983fdea974b1452f442ffbae06b76fe4347c451a0da75c06c6736b3f86"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/requests_pages.json",
+    "bytes": 1265,
+    "sha256": "45e7692b9a6c91cba558a357e2642121fb18b92ede37a92646f57c8b22dced97"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/requests_pages_complete.json",
+    "bytes": 2966,
+    "sha256": "5130cabeda41bbe90dac9b234ad5778534b1740d656a1cdc43b0791e330aee70"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/selection.json",
+    "bytes": 152891,
+    "sha256": "9b3afb7f03c787f93509f0ecaec99949f068396172832d57fe9f37f87d68c7ab"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/surname_BuildQueryGlobalForAngular.json",
+    "bytes": 10,
+    "sha256": "a6f4226558575c4f25a7e74bafc438f0538c600ba4ac98d5f131a6ebd660d796"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/surname_GetCount.json",
+    "bytes": 12,
+    "sha256": "06741b5d8cb70dbbc823d6c5f93a28abac9f74f9524bb722131488c8f34de6e6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/surname_GetPersonList.json",
+    "bytes": 688495,
+    "sha256": "3554408ec89251b4ad7c462d3b38535e3a05b48cd99243be27dcfae9c49b29a6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/zakres.json",
+    "bytes": 1291,
+    "sha256": "9570067f6751390164924214dffd54a8fbb8857c917a0a6335d63eeeb677fe8d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_jan1943/Arolsen_D70592196.html",
+    "bytes": 103252,
+    "sha256": "bf5d60f2d03acb425a3b8c707423bf0f8d503bec29f8fb56650de1e8d3a9c406"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_jan1943/Arolsen_D70592196_001.jpg",
+    "bytes": 204185,
+    "sha256": "5d42083f2983eda34609fe8429503058c9a80e78e40879c7f32ea3e3867d5f4c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_jan1943/Arolsen_D70592196_002.jpg",
+    "bytes": 204787,
+    "sha256": "5bcd2691148d5210fdb7d5cb5719871c00d8bf4a11f923437c0fd3648eb08f33"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_jan1943/Arolsen_D70592196_person.json",
+    "bytes": 20995,
+    "sha256": "9fe78bb584106c9f0159e7fdfef04b456ee7ce4939b710399e9cf2201f0bd728"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_jan1943/requests.jsonl",
+    "bytes": 2078,
+    "sha256": "21b7648f36026c406c3b7c4a6e0ef55ab68b4a20089329683323a592b44e6bc2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_witold1936/Arolsen_D69969056.html",
+    "bytes": 102322,
+    "sha256": "ad0bc37b53e6900a29e59b308655f2f5b6b4cf5408213cb8bdbf7fb97c2b2f82"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_witold1936/Arolsen_D69969056.jpg",
+    "bytes": 393077,
+    "sha256": "752112fce453982400d4d81d14df9b152c9f99ac717f1ebe161d8b885a4e9f4a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_witold1936/Arolsen_D69969056_person.json",
+    "bytes": 14677,
+    "sha256": "9378dda88c5966ae364ad369a1c07ff23977f10fbb9d1124d845c4623f7965d0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_witold1936/Arolsen_D69969547.html",
+    "bytes": 102490,
+    "sha256": "49cc99bc08afe3a9be9c4bb1b0fdeb4d05f96be83c697cdb0e37e275ab7623e2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_witold1936/Arolsen_D69969547.jpg",
+    "bytes": 197222,
+    "sha256": "8316d77ebbc995ba8a627cda6c2a947f8c755c1a87c1ad5de1a7a3a6aa10980a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_witold1936/Arolsen_D69969547_person.json",
+    "bytes": 11138,
+    "sha256": "9fe2da8383d1746ed969e117ce667a3cc0965d695afa942acca485b4291e8bad"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen_witold1936/requests.jsonl",
+    "bytes": 3130,
+    "sha256": "a14b0a974698df2e57093be2248deb4d7c5601845c097884cbd08e03b2d36d55"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/boguslaw.html",
+    "bytes": 4223,
+    "sha256": "fca3a9b1b9e06ee8920172dab149bad49b9b59eb58b559da71d84d089641bb13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/boguslaw_polled.html",
+    "bytes": 4223,
+    "sha256": "8939f249194e7c148efa64866e27b1af1f3d28198291811299205732c352abe7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/boguslaw_polled_final.txt",
+    "bytes": 2121,
+    "sha256": "dbf92c4524c92af6f1f7b0ac52a8e155434e78b79fdf2e0028d8b1a5d879de25"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/boguslaw_polled_poll0.html",
+    "bytes": 4223,
+    "sha256": "bf77dc69ced1322561a774d5667476d7935bdad284fec64916edf8014e3bad97"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/boguslaw_polled_poll1.html",
+    "bytes": 19118,
+    "sha256": "da97c091db1f42b8452f4be38556681fcdd9c8a3a66fb4b9bcc7d2757b12b653"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/help.html",
+    "bytes": 2665,
+    "sha256": "c30cd245277b0ae6d1fb6adca80eb90e0a19ef6eb9a6f11220e36fb13f048828"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/queries.json",
+    "bytes": 1793,
+    "sha256": "85bafaf08c7a944f18877de521aa8f660600e9d5c62a685a58d6c4b618c49332"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/queries_polled.json",
+    "bytes": 2763,
+    "sha256": "5ec67b62663c87476af771992ff22bafd3fb44288f45d6fd1962675c2bc722c6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/start_polled.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/tomasz_polled.html",
+    "bytes": 4223,
+    "sha256": "8affe4c18d67c6fbd11f20766c4c3584f989921410f4d413088616696bdf7cb6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/tomasz_polled_final.txt",
+    "bytes": 2081,
+    "sha256": "1aaf8bb621cd2553e981aee32160e8063f7ad1e1c281a0c22a514160f7aa9056"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/tomasz_polled_poll0.html",
+    "bytes": 18606,
+    "sha256": "725cd5bb79118f91e896f92eb97cc9928766f4493d32bd4ef3dfe42d832b03ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/witold.html",
+    "bytes": 4223,
+    "sha256": "d826d27b6dad261a7dc833b7831ad8cf1c8f184775476b74dcf8d87970981a6c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/witold_polled.html",
+    "bytes": 4223,
+    "sha256": "5d3675fa61441834599c23f660303d08792d47db5435c113a0fa24e9728c33da"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/witold_polled_final.txt",
+    "bytes": 2104,
+    "sha256": "ce4b149dc2ad2cbf2e207911c2d021c97df0302a4712cb6d71b011204bd01401"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp/witold_polled_poll0.html",
+    "bytes": 18528,
+    "sha256": "8e988b6e49a9916de6da226bc7f1dd2e810a9b7f5e598d98a2a8467072629eeb"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw/requests.json",
+    "bytes": 5671,
+    "sha256": "218036bea798fa334b05eb3613216f934f0615bf23c3b7c142b1c2db44734b87"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw/summary.json",
+    "bytes": 135,
+    "sha256": "8fd4e643334f38bb62955c3bea9d68e4a91ad27553da8f9baf53da5618ffdaf1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw_prosty/requests.json",
+    "bytes": 5647,
+    "sha256": "a6b0b20f6c5ae6a1d2e63732ecadd71d4fac1b7d3b33301541885d0c5a05cf47"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw_prosty/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw_prosty/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw_prosty/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw_prosty/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/boguslaw_prosty/summary.json",
+    "bytes": 121,
+    "sha256": "7f4c4531519c0434073af45ce4f17a78e864fe40764fc0d2d5474ddf7a9f6fe5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context0.html",
+    "bytes": 27674,
+    "sha256": "30b99332c87c5e1dc0e8dc1c23c6e984784df80c191520478c11d50b958e4df2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context0.txt",
+    "bytes": 3247,
+    "sha256": "f0245b8e0012bb6cc3a74d029062e1d0398590d6eb457a7df139024d5e4ad1de"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context1.html",
+    "bytes": 27883,
+    "sha256": "d566a31f6ea34b0bff0bbe0372e3af38055eb2d2d538fb0e6954a3f900ab415d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context1.txt",
+    "bytes": 3446,
+    "sha256": "850766a6869434970eaf6dbfba0e41061c0037b9d9fa3a052b543b129f796f4a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context2.html",
+    "bytes": 28694,
+    "sha256": "33f9d6885374a6aa22b9cbf0053f96f00381e98a8b3071a0025e3e5b04c3b4a0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context2.txt",
+    "bytes": 4249,
+    "sha256": "90ad437acbaa674fd459d3e13c04b12240b788a182577bf9a55b174240142d2d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context3.html",
+    "bytes": 27852,
+    "sha256": "9b83f1a05ea3d3796b293a712e3fd90c4ebdc88ea85d8975d3914bfb91564d0c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context3.txt",
+    "bytes": 3425,
+    "sha256": "63c77cb92ca01464daf09f77b91b79381a3fa21b5ff142322ca47ab21183bf48"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context4.html",
+    "bytes": 28019,
+    "sha256": "a45f3f3a86fbede81f7ee2371a19577a4dcfa3cbc473f9570c39badbc84b7c61"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context4.txt",
+    "bytes": 3593,
+    "sha256": "cb6ba55c21d2cabf863657bfcaf0dc108047ef6aeb8a8b06153dff36c6658478"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context5.html",
+    "bytes": 28154,
+    "sha256": "45e6af5d2a72b7738e0196dd42c477c4b7ce5a3a4c7401c027ddfc7fe96f4134"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context5.txt",
+    "bytes": 3727,
+    "sha256": "0ffe9f91e5140098eb56ece021bf2ae10f5086837618b10455658f74677ec9c7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context6.html",
+    "bytes": 28758,
+    "sha256": "6fa2b568e589495506291ece01b24371387fbd3df1da8ce9fdef852d035e1aaa"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context6.txt",
+    "bytes": 4331,
+    "sha256": "c5a4aa78800fc6c3ba01b35c31278b64e2849c3f367df0ba79c35f071ff3a1ee"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context7.html",
+    "bytes": 28224,
+    "sha256": "0e4968225bdcbf29d647189d1584b0365b178ea1e215d95a042977c64324c0ab"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/context7.txt",
+    "bytes": 3797,
+    "sha256": "44f1eea256ce55edd17557194b679c7e9f90ce9c351f832ea1882a746fa93d03"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_0.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_0.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_1.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_1.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_2.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_2.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_3.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_3.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_4.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_4.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_5.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_5.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_6.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_6.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_7.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_7.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_8.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_8.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_9.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll0_9.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_0.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_0.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_1.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_1.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_2.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_2.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_3.html",
+    "bytes": 26561,
+    "sha256": "8fa8ddb0a9a6b658cc72382b5833b11c5b292a0ea5269fd71d72ab9379e6d66f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/poll1_3.txt",
+    "bytes": 2361,
+    "sha256": "f15ea395a5bb028712253d88214e6b5358b6b599770e8f57a0032a7b840130ba"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/requests.json",
+    "bytes": 9168,
+    "sha256": "ab854d74023292949de155b0c1484a26b1a83f906abdb4d6db5007af35eb0150"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/submit1.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/submit1.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/piotr/summary.json",
+    "bytes": 34203,
+    "sha256": "785ee713fad3716ff6d9abb3e9ba51eb0b0800c42a32cb9bcd2e5c558c476a9b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/surname/requests.json",
+    "bytes": 5601,
+    "sha256": "4dc0bc10bfb9410c5c7f824d045b85e7e2f3d0304e28ea82a0f4167c4f52ddf1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/surname/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/surname/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/surname/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/surname/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/surname/summary.json",
+    "bytes": 94,
+    "sha256": "c8fae35e600000a32b051caedc384cc5d2286fe692eba5841730306fb2d573ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/context0.html",
+    "bytes": 16783,
+    "sha256": "25a1ad0e5eb9c23b83a553c28a46e29c983d3d2d8b2ee0dd5dace6c464db9105"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/context0.txt",
+    "bytes": 2717,
+    "sha256": "d6a0b89b14fa52110a53040836740a3292c0ab3ce9c0f3613fef18e5f64667ae"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/context1.html",
+    "bytes": 16541,
+    "sha256": "2578816b48251a623d3809770b6f90a7e2ec0f615dfd196802a2f182df0f3436"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/context1.txt",
+    "bytes": 2475,
+    "sha256": "f06e94f9ee8b1a804daefaf2163278df91e6f96e4ed932e084172516c3cda1b0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/context2.html",
+    "bytes": 16844,
+    "sha256": "ef2c428653999dd3a438f7cad634122302502d5b476ff64cc5aa52fe136a2d21"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/context2.txt",
+    "bytes": 2748,
+    "sha256": "136b6bb7e4d091d533b5f9d301a8b1c9e6f7b8bdac1f0fb73313f7010e749081"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_1.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_1.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_2.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_2.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_3.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_3.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_4.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_4.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_5.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_5.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_6.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_6.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_7.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_7.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_8.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_8.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_9.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll0_9.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll1_0.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll1_0.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll1_1.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll1_1.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll1_2.html",
+    "bytes": 15328,
+    "sha256": "6bf7bfb69fca631a0b3a9f4558d319b9c8a5ff1efb4db3cc59d083ab089a3854"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/poll1_2.txt",
+    "bytes": 1489,
+    "sha256": "86ace0d7748ab139fbf8949c43f43584230c5db5c7654dd8a9984202c70a1575"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/requests.json",
+    "bytes": 7149,
+    "sha256": "c266b91ef75a78a6ed48f5c47001411023423276de6e2564de3ee7d2beeb7a69"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/submit0.html",
+    "bytes": 4221,
+    "sha256": "ed994c6b62ca922eb2c62e953464c096e402d7b78e3ffc2ccb3240873612472b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/submit0.txt",
+    "bytes": 355,
+    "sha256": "b2a90914f5fce27f75af23158fd864e18862869d422cb2861389419cd01c41f8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/submit1.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/submit1.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz/summary.json",
+    "bytes": 10413,
+    "sha256": "a7b25789b37ca32499d887117f5f231324a0d488c895caaeb7e3dcf2bf90776a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_0.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_0.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_1.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_1.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_2.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_2.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_3.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_3.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_4.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_4.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_5.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_5.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_6.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_6.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_7.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_7.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_8.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_8.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_9.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll0_9.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll1_9.html",
+    "bytes": 4223,
+    "sha256": "873f24e7c0e1b31b7d6ae82997cb587acd7a0425a58d6b0b26feb862704f7e91"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/poll1_9.txt",
+    "bytes": 356,
+    "sha256": "eb9fdc7ffc3131ee0647c6e1a794a1d7a3e7bbb8031a2cbdaa6a841f21967185"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/requests.json",
+    "bytes": 7015,
+    "sha256": "b762602fee0a89a691449e0a0568cd384cba80319afd6a9f81c9d77d6cfcb432"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_do2001/summary.json",
+    "bytes": 93,
+    "sha256": "7edc8426545753cf7e7feb7f46a7dadb74625c854bd1dc6c90643f2ac1dd7327"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_0.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_0.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_1.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_1.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_2.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_2.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_3.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_3.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_4.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_4.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_5.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_5.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_6.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_6.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_7.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_7.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_8.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_8.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_9.html",
+    "bytes": 6127,
+    "sha256": "869055c565ca9cfe73d8d23e8e60caaba87a89dc746469bb255a48777d94baa0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/poll0_9.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/requests.json",
+    "bytes": 6906,
+    "sha256": "d2cf7478bdeabb191c85969bb0c0cf0f980d3dfb9e8b65ea8e5306b351eb0dfb"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/tomasz_express/summary.json",
+    "bytes": 108,
+    "sha256": "4ac4a0c5ad499273bd5314a35aee524847fb49a91fce44a72cf2b286afba0733"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/poll0_0.html",
+    "bytes": 4114,
+    "sha256": "cbeb8988a1616f8eb2a3920fffd302688095d520ffe8325e3297667061d49a08"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/poll0_0.txt",
+    "bytes": 352,
+    "sha256": "a240baa280862dad88b3518c6901d6adb3346898562e4128092063565b4de5db"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/poll0_1.html",
+    "bytes": 6982,
+    "sha256": "709d97cd1bb4ece7e7a7911143c013f74f56470d61071bb0ab325ecf95093d22"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/poll0_1.txt",
+    "bytes": 668,
+    "sha256": "7f9d5b52fbd376a6950bb836be48bca2b60dacd90cc0ca0bd0bf8334612f2dfc"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/requests.json",
+    "bytes": 2015,
+    "sha256": "1ce939cf6e0628b572f6f98e0a9bf08eb129272edbf3e60325cd78f5a30c939a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/settings.html",
+    "bytes": 8045,
+    "sha256": "a18109123f3142b93dfc269cb60514497a4e1f030febbb567bfe12b1ecfe62ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/settings.txt",
+    "bytes": 610,
+    "sha256": "de35fd89abcaed378adb0aca76f362dd0acadf3f75fc3ce243482959e59ff676"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/start.html",
+    "bytes": 6145,
+    "sha256": "a36d6bc66c449fb184ee49e56b290c31a397a396038f19d9e2489a3d313f0f13"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/start.txt",
+    "bytes": 618,
+    "sha256": "8a248389f467aefa3bf3478df4c0e33d9700b9e843976941d434f3645127b9dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/submit0.html",
+    "bytes": 4221,
+    "sha256": "be794e2d76eaab0e563864a9a0c3da4fa61b3b150d2a528f74ba511c7f39ba57"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/submit0.txt",
+    "bytes": 355,
+    "sha256": "5c57002cc58dbab404a82fd369596e04c5f04bf9bf63e929502b175e01f7feb8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/nkjp_verified/witold/summary.json",
+    "bytes": 1089,
+    "sha256": "775eb6fbb2d5459b660c661314d4e576772dc5cf043de6267543acf24d1687c6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/porzadkowanie_cache.json",
+    "bytes": 162411,
+    "sha256": "a36ff77a6b4b455f213f94bfb7c176e67bd72c1253b4e847cf6d046848e5ca1f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/referendum_1946_manifest.json",
+    "bytes": 151436,
+    "sha256": "75251ead41ee895ca2a7cad275b6800ced55b42a3fba656720a7fdaa882dfae1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/web_chrzypsko_1.json",
+    "bytes": 23481,
+    "sha256": "5b595cb30bd44d876a08fc729a327fae31385a47417b00dba641333285a6a518"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/web_chrzypsko_katalog.json",
+    "bytes": 25560,
+    "sha256": "8d27ff5750c588683c76ace3e3866dc3ed117885892a1a2f9abc3ae39f3d1e0d"
+  }
+]

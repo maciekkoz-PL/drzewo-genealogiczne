@@ -1,0 +1,40 @@
+{
+  "at_utc": "2026-11-08T03:00:00+00:00",
+  "signature": "39/221/0/4.12/25506",
+  "manifest_count": 205,
+  "downloaded_valid_jpg": 205,
+  "name_columns": [
+    [
+      5,
+      103
+    ],
+    [
+      105,
+      203
+    ]
+  ],
+  "name_column_spreads": 198,
+  "full_fields": [
+    5,
+    45,
+    52,
+    82,
+    110,
+    111,
+    138,
+    178,
+    203
+  ],
+  "technical_seen": [
+    1,
+    2,
+    3,
+    4,
+    104,
+    204,
+    205
+  ],
+  "not_full_transcription": true,
+  "finding": "Czesław, Stocka12, nr1823, 27VI1936, ChrzypskoMałe; osobno Czesław Żeromskiego67 nr3154. Brak dat urodzenia i pokrewieństwa.",
+  "limitation": "Ręczny przegląd nazwisk nie oznacza odczytu wszystkich rubryk, poprawnej identyfikacji każdego nieczytelnego nazwiska ani wykluczenia rodziny. Samego dopisku o czasowości pobytu nie opisujemy jako pewnej fizycznej podróży w dniu wpisu."
+}

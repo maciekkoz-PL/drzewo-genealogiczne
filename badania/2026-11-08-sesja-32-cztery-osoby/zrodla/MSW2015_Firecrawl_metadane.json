@@ -1,0 +1,15 @@
+{
+  "scrapeId": "01a1b916-7d37-706b-8bcb-5d309638d9a7",
+  "sourceURL": "https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/oryginal/akt.pdf",
+  "url": "https://e-dziennik.msw.gov.pl/DUM_MSW/2015/14/oryginal/akt.pdf",
+  "statusCode": 200,
+  "numPages": 45,
+  "totalPages": 45,
+  "title": "Postanowienie",
+  "contentType": "application/pdf",
+  "proxyUsed": "basic",
+  "cacheState": "hit",
+  "cachedAt": "2026-11-08T02:56:31.050Z",
+  "creditsUsed": 45,
+  "concurrencyLimited": false
+}

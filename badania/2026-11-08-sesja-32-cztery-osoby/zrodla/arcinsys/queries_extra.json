@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmielewski&rechercheBean.defaultfield_widget=Chmielewski&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "access_utc": "2026-11-08T02:30:17.147544+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmielewski&rechercheBean.defaultfield_widget=Chmielewski&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 105850,
+    "sha256": "2a707b7f7d4d8d420307005fbb54c0d20924de9b22010eb482c8ca448b565b2b"
+  },
+  {
+    "url": "https://arcinsys.hessen.de/arcinsys/recherchePaging.action?pagingvalues=2",
+    "access_utc": "2026-11-08T02:30:18.732649+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/recherchePaging.action?pagingvalues=2",
+    "bytes": 16831,
+    "sha256": "1e309494abc45cfb9d6c5deb002db9f69c91668a31818da60a3798b25afd753f"
+  },
+  {
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmiel%2A+Czes%2A&rechercheBean.defaultfield_widget=Chmiel%2A+Czes%2A&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "access_utc": "2026-11-08T02:30:19.446822+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Chmiel%2A+Czes%2A&rechercheBean.defaultfield_widget=Chmiel%2A+Czes%2A&rechercheBean.von=&rechercheBean.bis=&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 25298,
+    "sha256": "89f5cbafcee2c12ec5067ad77c2f415e382b4f33dfca83dbd57636137b1b956a"
+  },
+  {
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Ca%C3%9Fdorf&rechercheBean.defaultfield_widget=Ca%C3%9Fdorf&rechercheBean.von=1939&rechercheBean.bis=1948&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "access_utc": "2026-11-08T02:30:20.227619+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Ca%C3%9Fdorf&rechercheBean.defaultfield_widget=Ca%C3%9Fdorf&rechercheBean.von=1939&rechercheBean.bis=1948&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 96078,
+    "sha256": "742d860913217f71b5d187c06352bdac24a0fdc897cfebd37ac0486ab9ab7478"
+  },
+  {
+    "url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Fritzlar+Ausl%C3%A4nder&rechercheBean.defaultfield_widget=Fritzlar+Ausl%C3%A4nder&rechercheBean.von=1939&rechercheBean.bis=1948&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "access_utc": "2026-11-08T02:30:21.099931+00:00",
+    "status": 200,
+    "final_url": "https://arcinsys.hessen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=Fritzlar+Ausl%C3%A4nder&rechercheBean.defaultfield_widget=Fritzlar+Ausl%C3%A4nder&rechercheBean.von=1939&rechercheBean.bis=1948&rechercheBean.einfacheSucheRadioName=alle&einfachbutton=Suchen",
+    "bytes": 25388,
+    "sha256": "07e47b812ff619d6da5fcd95fe6f916b41f06469198b4ea230efac23fc517224"
+  }
+]
