@@ -10,6 +10,12 @@
 4. Przed nową kwerendą sprawdź istniejące źródła, identyfikatory, korekty i hipotezy. Nie traktuj zgodności nazwiska ani adresu jako dowodu pokrewieństwa.
 5. Wyniki zapisuj wyłącznie do [skrzynki odkryć agentów](agent-inbox/README.md) na osobnej gałęzi i przedstaw do weryfikacji. **Nie modyfikuj samodzielnie danych kanonicznych, Excela, drzewa ani strony.**
 
+## Współpraca ChatGPT, Codex i Claude Code
+
+**GitHub jest wspólnym, trwałym źródłem udokumentowanej wiedzy — nie wspólną pamięcią rozmów.** ChatGPT, OpenAI Codex i Anthropic Claude Code działają w odrębnych sesjach i nie widzą automatycznie wzajemnych czatów, ustaleń ani niezapisanych wyników. Każdy agent musi najpierw odczytać aktualny stan repozytorium, historię zmian i raporty; po pracy musi przekazać wyniki w plikach i pull requeście. Nie wolno zakładać, że inny agent zna ustalenia, których nie zapisano w repozytorium.
+
+**Podział odpowiedzialności w tym projekcie:** ChatGPT pełni rolę koordynatora i weryfikatora dowodów, a Codex i Claude Code są agentami badawczymi względem tego procesu. To ustalona organizacja pracy, nie ograniczenie techniczne: każdy agent może badać i sprawdzać źródła, ale **żaden nie może samodzielnie zmieniać kanonicznego drzewa ani Excela bez zatwierdzonej weryfikacji**. Nowe wyniki trafiają do `agent-inbox/` na oddzielnych gałęziach. Repozytorium publiczne: nie umieszczaj w nim danych prywatnych żyjących osób.
+
 ## Cel badań
 
 Ustalenie udokumentowanych relacji rodziny Marysi, zwłaszcza żyjących krewnych po stronie ojca. Oddzielaj dokumenty, przekazy rodzinne, wnioski i hipotezy. W publicznym drzewie obowiązują trzy poziomy: udokumentowane; udokumentowane i prawdopodobne; dodatkowo przypuszczenia. Nigdy nie podnoś statusu bez dowodu.
