@@ -1,0 +1,261 @@
+[
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S272",
+    "cell": "I275",
+    "before": "ŚCISŁY ZAKRES W UWAGACH",
+    "after": "ETAP21:NAZWISKA2–247; ETAP33:NOWE KRYTERIUM ZYGM.136–247;10PEŁNYCH WIERSZY;1/248OBEJRZANO"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S272",
+    "cell": "J275",
+    "before": "badania/2026-11-07-sesja-21-meldunki-Ch/zrodla/ptg86616_downloads.json",
+    "after": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/S272_zakres_nowego_kryterium.json"
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S272",
+    "cell": "K275",
+    "before": "Pobrano248JPEG; ręcznie odczytano kolumny002–247(w tym przekładkę135;136początek1939). Nie zaobserwowano Czesława/Janiny/Agnieszki Chmielewskich w tych kolumnach. Nie odczytano pełnych rubryk pozostałych osób ani obrazów001/248. Brak wpisu nie wyklucza rodziny.",
+    "after": "Pobrano248JPEG; ręcznie odczytano kolumny002–247(w tym przekładkę135;136początek1939). Nie zaobserwowano Czesława/Janiny/Agnieszki Chmielewskich w tych kolumnach. Nie odczytano pełnych rubryk pozostałych osób ani obrazów001/248. Brak wpisu nie wyklucza rodziny. Etap33:112obrazów1939ponownie pod nowym kryteriumZygm.; nie zaobserwowano trafienia. Wybrane10wierszy zDOB/adresem bez relacji. 1938nie powtórzono. Koniec16X1939; poświadczenie254stron nie dowodzi pełnego odwzorowania w248obrazachPTG. Daty sąsiednich osób nie są przenoszone między wierszami."
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S032",
+    "cell": "K35",
+    "before": "Janina zm.04.03.1992; nowa dokładna lokalizacja VIII/5/29. Nadal brak identyfikacji z P04 ur.12.05.1910 Poprawka. Poprzedni odsyłacz miesięczny zachowany w historii i dziennikach.",
+    "after": "Janina zm.04.03.1992; nowa dokładna lokalizacja VIII/5/29. Nadal brak identyfikacji z P04 ur.12.05.1910 Poprawka. Poprzedni odsyłacz miesięczny zachowany w historii i dziennikach. Etap33:S324/9XI2026 administracja nie potwierdza tożsamości z JaninąPoprawką12V1910; nie podała odmiennych cech. Nie dopisywać zgonuP04."
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": "S158",
+    "cell": "K161",
+    "before": "Czesława03.10.1999 bezDOB; eCmentarze4762340 bez fotografii, dane partnerskieZZM. Nie dowodzi, że to ciociaCzesia, ani że była żonąRomana. Roman/Sabina bezwyniku w3komunalnych bazach; Julianna06.12.1981 bezDOB nie utożsamiona zP27.",
+    "after": "Czesława03.10.1999 bezDOB; eCmentarze4762340 bez fotografii, dane partnerskieZZM. Nie dowodzi, że to ciociaCzesia, ani że była żonąRomana. Roman/Sabina bezwyniku w3komunalnych bazach; Julianna06.12.1981 bezDOB nie utożsamiona zP27. Etap33:S323/odpowiedź9XI2026 podaje DOB20XI1922 i ten samzgon3X1999. To daneC62, nie potwierdzonejP31; bez męża/syna/nazwiska rodowego."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C10",
+    "cell": "F13",
+    "before": "BRAK DATY URODZENIA",
+    "after": "ODPOWIEDŹ Z DATĄ SPRZECZNĄ Z CHRONOLOGIĄ — DO WYJAŚNIENIA"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C10",
+    "cell": "G13",
+    "before": "Wspólny grób z Witoldem",
+    "after": "Wspólny grób z Witoldem S322podaje18II1982jako urodzenie, choć pytano o zgon16I1981. Nie przyjętoDOB, nie poprawiono na1882; możliwa omyłka lub inny rekord."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C10",
+    "cell": "H13",
+    "before": "S029; S122",
+    "after": "S029; S122;S322;Q107"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C10",
+    "cell": "I13",
+    "before": "Miejski rejestr potwierdza wspólny grób XXXVI-15-36, nie daty urodzenia ani relację. Potrzebny dodatkowy identyfikator rodziny; nie wystarcza współpochówek.",
+    "after": "Wyjaśnić niespójną odpowiedź9XI2026 lub uzyskać niezależny dokument dla właściwego grobu. C10/P03 i C11/P11 nadal niepotwierdzeni; bez nowego kontaktu bez osobnej zgody."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C17",
+    "cell": "F20",
+    "before": "BRAK ROKU URODZENIA I NAZWISKA PANIEŃSKIEGO",
+    "after": "NIEZGODNA Z JANINĄ POPRAWKĄ12V1910 WEDŁUG ADMINISTRACJI"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C17",
+    "cell": "G20",
+    "before": "Sprawdzono kartę indywidualną; brak daty ur., nazwiska panieńskiego i fotografii.",
+    "after": "Sprawdzono kartę indywidualną; brak daty ur., nazwiska panieńskiego i fotografii. S324/9XI2026: „Niestety nie jest to ta osoba” na pytanie z dokładnymDOB12V1910, rodzicami i nazwiskiemPoprawka. Nie podano alternatywnych danych zmarłej."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C17",
+    "cell": "H20",
+    "before": "S032; S063",
+    "after": "S032; S063;S324"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C17",
+    "cell": "I20",
+    "before": "Porównać 12.05.1910 Socha i Poprawka w dokumentacji cmentarza; zapytania nie wysłano.",
+    "after": "Nie utożsamiać z opisaną Janiną1910/P04. To wykluczenie administracyjne konkretnego porównania, nie odczyt aktu; H017 pozostaje osobną kwestią."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C62",
+    "cell": "C65",
+    "before": "zm.03.10.1999; brakDOB; XLV-1-19",
+    "after": "20.11.1922–03.10.1999; XLV/1/19; DOB z odpowiedzi administracji9XI2026"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C62",
+    "cell": "F65",
+    "before": "NIEUTOŻSAMIONA",
+    "after": "DATY Z EWIDENCJI CMENTARZA; TOŻSAMOŚĆ Z P31 OTWARTA"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C62",
+    "cell": "G65",
+    "before": "Imię/nazwisko/miasto zgodne; brakrodziny,DOB,fotografii i wskazówki identyfikacyjnej.",
+    "after": "Imię/nazwisko/miasto zgodne; brakrodziny,DOB,fotografii i wskazówki identyfikacyjnej. S323podajeDOB20XI1922i zgon3X1999; innych danych w karcie zgonu administracja nie ma. Brak imienia męża/syna i nazwiska rodowego."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C62",
+    "cell": "H65",
+    "before": "S158; REL-013",
+    "after": "S158; REL-013;S323;H055"
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": "C62",
+    "cell": "I65",
+    "before": "Ustalić niezależny identyfikator; nie dopisywaćzgonuP31. REL-014: widzenie Czesi przed2000 nie wyklucza tej daty, lecz nie identyfikuje zmarłej. Normalny podgląd mapy wskazuje tylko jeden wpis osoby przy tym grobie; brak danych krewnych.",
+    "after": "Potwierdzić C62=P31 dodatkowym identyfikatorem rodzinnym, małżeństwem lub niezależnym przekazem. Nie przenosićDOB/zgonu naP31 i nie tworzyć relacji zRomanem lub synem zNiemiec."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H002",
+    "cell": "C2",
+    "before": "REL-003: brat Bogusława i ojciec Piotra; imię nadal nieznane. REL-017nie dostarcza cech. Etap20S233–S239bez nowego łącznika. C42niemowlę1940może być innym rodzeństwem, nie ojcemPiotra. Brat mógł być przyrodni. Nie wyprowadzać ojca z przypadkowych imiennikówPiotra. Etap21: C98Stocka12 i klasterC99–C101Grabowa20; brak imieniaP11 i dowodu pokrewieństwa. Aneksy26200/26204mają0skanów; H049–H051otwarte. Etap22:S274nowy tropAgnieszki i adresuC42; nadal nie znaleziono imieniaP11. C42zmarł jako niemowlę i nie mógł być ojcemPiotra. Etap32:C107/S310potwierdza wpisCzesławaStocka12,nieimiębrata; C108osobny. IndeksArolsen4773iNKJPbeznowejrelacji.",
+    "after": "REL-003: brat Bogusława i ojciec Piotra; imię nadal nieznane. REL-017nie dostarcza cech. Etap20S233–S239bez nowego łącznika. C42niemowlę1940może być innym rodzeństwem, nie ojcemPiotra. Brat mógł być przyrodni. Nie wyprowadzać ojca z przypadkowych imiennikówPiotra. Etap21: C98Stocka12 i klasterC99–C101Grabowa20; brak imieniaP11 i dowodu pokrewieństwa. Aneksy26200/26204mają0skanów; H049–H051otwarte. Etap22:S274nowy tropAgnieszki i adresuC42; nadal nie znaleziono imieniaP11. C42zmarł jako niemowlę i nie mógł być ojcemPiotra. Etap32:C107/S310potwierdza wpisCzesławaStocka12,nieimiębrata; C108osobny. IndeksArolsen4773iNKJPbeznowejrelacji. Etap33: C109„Zygm.”z3693ma zgodny adres i kierunek grupyStanisławy/IM025, lecz bezDOB lub relacji. Nadal brak imieniaP11. Nowe księgi nie ustaliły brata; nie scalić C109zP11."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H054",
+    "cell": "C45",
+    "before": "C105 wyjazd Łódź→Łask/Buczek w 1938, grupa2m+1k. Stanisława z Buczku do Łodzi/Grabowa4 w III1939, grupa1m+1k. Różne daty i wielkości grup, brak imion towarzyszy, wieku, relacji; nie utożsamiać z P03 ani P11.",
+    "after": "C105 wyjazd Łódź→Łask/Buczek w 1938, grupa2m+1k. Stanisława z Buczku do Łodzi/Grabowa4 w III1939, grupa1m+1k. Różne daty i wielkości grup, brak imion towarzyszy, wieku, relacji; nie utożsamiać z P03 ani P11. Etap33:S320,nr3693,6XI1939:Chmielewska/Stanisława iZygm.,1m+1k,Grabowa4→Łask/Buczek. Mocne dopasowanie odwrotnej drogi do708/IM025; nowy skrót imienia, nie relacja ani tożsamość zC105/P03/P11."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H054",
+    "cell": "E45",
+    "before": "OTWARTA — TYLKO KORYTARZ GEOGRAFICZNY",
+    "after": "OTWARTA — MOCNE DOPASOWANIE GRUPY1939; ZWIĄZEK Z C105 I RODZINĄ NIEPOTWIERDZONY"
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H005",
+    "cell": "C4",
+    "before": "Brak daty urodzenia i potwierdzonych rodziców. Wspólny grób nie rozstrzyga. S122miejski rejestr potwierdza wspólny grób, ale nie podajeDOB ani relacji; nadal brak identyfikacji C10/C11zrodziną. Etap20S233–S235bez DOB/rodzicówC11. MyHeritage1914–2003niepołączony. BGZarzewformularz0ma niepełne pokrycie; nie wyklucza kandydata. S262–S264: dokładne karty Find a Grave 270863680/270863681 mają Birth unknown i Photos 0; brak widocznych relacji. eCmentarze to dane partnerskie ZZM, nie niezależny dowód. 3 nowe kwerendy MSiG puste przy dodatniej kontroli. S266: 07.11 wysłano uzupełnienie do administracji, pytając o urodzenie, rodziców i relację; oczekiwanie na odpowiedź. M03 był już wysłany 04.11; M07 zastąpiony przez M10.",
+    "after": "Brak daty urodzenia i potwierdzonych rodziców. Wspólny grób nie rozstrzyga. S122miejski rejestr potwierdza wspólny grób, ale nie podajeDOB ani relacji; nadal brak identyfikacji C10/C11zrodziną. Etap20S233–S235bez DOB/rodzicówC11. MyHeritage1914–2003niepołączony. BGZarzewformularz0ma niepełne pokrycie; nie wyklucza kandydata. S262–S264: dokładne karty Find a Grave 270863680/270863681 mają Birth unknown i Photos 0; brak widocznych relacji. eCmentarze to dane partnerskie ZZM, nie niezależny dowód. 3 nowe kwerendy MSiG puste przy dodatniej kontroli. S266: 07.11 wysłano uzupełnienie do administracji, pytając o urodzenie, rodziców i relację; oczekiwanie na odpowiedź. M03 był już wysłany 04.11; M07 zastąpiony przez M10. Etap33:S322,odpowiedź9XI2026 podaje18II1982jako urodzenie Czesława, sprzeczne ze zgonem1981w pytaniu. Nie przyjęto tej daty i nie poprawiono roku na1882. Brak danychWitolda; hipotezy nie zamknięto."
+  },
+  {
+    "sheet": "HIPOTEZY_OTWARTE",
+    "id": "H033",
+    "cell": "C24",
+    "before": "Przypuszczenie użytkownika REL-014. Znany z akt brat Roman P12 to wariant H028. Brak dokumentu ślubu Czesi, jej nazwiska rodowego i identyfikatorów męża.",
+    "after": "Przypuszczenie użytkownika REL-014. Znany z akt brat Roman P12 to wariant H028. Brak dokumentu ślubu Czesi, jej nazwiska rodowego i identyfikatorów męża. S323dajeC62DOB20XI1922,nie tożsamość zP31; H055wydziela to porównanie. Brak męża i nazwiska rodowego nadal uniemożliwia potwierdzenie wariantu żony brata."
+  },
+  {
+    "sheet": "SZKICE_GMAIL",
+    "id": "M03",
+    "cell": "G6",
+    "before": "Q98: dawny status szkicu był błędny; wysłano 04.11.2026. W tym samym wątku wysłano uzupełnienie M10 dnia 07.11. S266.",
+    "after": "Q98: dawny status szkicu był błędny; wysłano 04.11.2026. W tym samym wątku wysłano uzupełnienie M10 dnia 07.11. S266. Etap33: odpowiedź9XIw tym samymwątku, S322; data urodzenia jest sprzeczna z pytaniem o zgon1981."
+  },
+  {
+    "sheet": "SZKICE_GMAIL",
+    "id": "M10",
+    "cell": "E13",
+    "before": "WYSŁANO 07.11.2026 — POTWIERDZONO SENT",
+    "after": "ODPOWIEDŹ9XI2026 ODEBRANA — NIESPÓJNA DATA, Q107"
+  },
+  {
+    "sheet": "SZKICE_GMAIL",
+    "id": "M10",
+    "cell": "G13",
+    "before": "Bieżące polecenie użytkownika; odpowiedź do wiadomości M03 z 04.11. M07 nie wysłano. S266.",
+    "after": "Bieżące polecenie użytkownika; odpowiedź do wiadomości M03 z 04.11. M07 nie wysłano. S266. S322:18II1982w odpowiedzi,bez danychWitolda. Bez nowej wysyłki w tej sesji."
+  },
+  {
+    "sheet": "SZKICE_GMAIL",
+    "id": "M09",
+    "cell": "E12",
+    "before": "SZKIC – NIE WYSŁANO",
+    "after": "WYSŁANO7XI2026; ODPOWIEDŹ9XI: NIEZGODNA KANDYDATKA"
+  },
+  {
+    "sheet": "SZKICE_GMAIL",
+    "id": "M09",
+    "cell": "F12",
+    "before": "https://mail.google.com/mail/u/?authuser=maciekkoz%40gmail.com#all/1a1a89b21061ab92",
+    "after": "https://mail.google.com/mail/#all/1a1b5a3d597e4565"
+  },
+  {
+    "sheet": "SZKICE_GMAIL",
+    "id": "M09",
+    "cell": "G12",
+    "before": "Osobny temat od Czesława.",
+    "after": "Osobny temat od Czesława. Etap33/Q108: pełnywątek potwierdzaSENT10:52:55UTC; S324nie potwierdza Janiny1910. Nie wysłano ponownie."
+  },
+  {
+    "sheet": "ZADANIA_AGENTA",
+    "id": "T55",
+    "cell": "F58",
+    "before": "AKTYWNY TROP;0SKANÓW ANEKSU Etap32:S310nr1823Stocka12/ChrzypskoMałe;25506nazwiskazakończone. NadalbrakDOB/rodziny.",
+    "after": "AKTYWNY TROP;0SKANÓW ANEKSU Etap32:S310nr1823Stocka12/ChrzypskoMałe;25506nazwiskazakończone. NadalbrakDOB/rodziny. Etap33:25507nazwiska142obrazy i25509nazwiska181obrazów zakończone; C109/Zygm.bez relacji. Nie powtarzać zakończonych kryteriów."
+  },
+  {
+    "sheet": "ZADANIA_AGENTA",
+    "id": "T58",
+    "cell": "F61",
+    "before": "AKTYWNE: S293/C104 wyjazd Władysława z Chełmońskiego9a do Chojen (2m+3k), zgodny z C103; H053 otwarta. Łódź25508 nazwiska1–95/184, C105/Czesław1602 nieutożsamiony zP03. Inwentarz15575 obrazy1–12/172.",
+    "after": "Etapy27/28zakończone:25508nazwiska1–184; skorowidz15575bez odsyłacza do9a. C102/C103/C104/C105iH052/H053nadal bez pełnych identyfikatorów; nie wracać automatycznie do1–95 lub1–12."
+  },
+  {
+    "sheet": "ZADANIA_AGENTA",
+    "id": "T58",
+    "cell": "I61",
+    "before": "S274;S126;H052;S278;S281;S282;etap23/PLAN_KONTYNUACJI.md;S284;S285;S286;badania/2026-11-07-sesja-24-Chojny-wyjazd/PLAN_KONTYNUACJI.md;S288;S289;S290;S291;S292;badania/2026-11-07-sesja-25-Chojny-1938/PLAN_KONTYNUACJI.md;S293;S294;S295;H053;badania/2026-11-07-sesja-26-Wladyslaw-1938/PLAN_KONTYNUACJI.md",
+    "after": "S274;S126;H052;S278;S281;S282;etap23/PLAN_KONTYNUACJI.md;S284;S285;S286;badania/2026-11-07-sesja-24-Chojny-wyjazd/PLAN_KONTYNUACJI.md;S288;S289;S290;S291;S292;badania/2026-11-07-sesja-25-Chojny-1938/PLAN_KONTYNUACJI.md;S293;S294;S295;H053;badania/2026-11-07-sesja-26-Wladyslaw-1938/PLAN_KONTYNUACJI.md;S297;S300;Q109"
+  },
+  {
+    "sheet": "START",
+    "id": null,
+    "cell": "A2",
+    "before": "Etap28: inwentarz nieruchomości Chełmońskiego 9a nie ma w skorowidzu wskazanej strony; nie jest spisem domowników. H053/P11 otwarte. Etap27: Łódź25508 sprawdzona po nazwiskach, Grabowa4 skorygowana, rejestry Buczku bez skanów.",
+    "after": "Etap33(8–13XI2026): nowyZygm.zGrabowej4bezrelacji; C62DOB20XI1922,nieutożsamionazCzesią; C17niezgodnazJaniną1910; odpowiedźoCzesławie1982sprzeczna. P11nadalbezimienia. Aktualnyraporti plan:badania/2026-11-08-sesja-33-wyjazdy-1937/."
+  },
+  {
+    "sheet": "INSTRUKCJA_AGENTA",
+    "id": null,
+    "cell": "A2",
+    "before": "Etap20: brat tatyP11, nie brat dziadka. Brak nowej identyfikacji; Witold nadal tylko trop. Aktualny plan badania/2026-11-07-sesja-20-brat-boguslawa/. Rodzina zapyta jutro, praca niezależna. Bez korespondencji.",
+    "after": "Etap33: najpierwSTATUS iPLAN_KONTYNUACJI z8–13XI2026. Źródła doS325; noweodpowiedzi nie są nową relacją. P11/P10/P09priorytet; beznowychkontaktów. Starszeinstrukcjeponiżejzachowująhistorię."
+  },
+  {
+    "sheet": "ZRODLA_I_SKANY",
+    "id": null,
+    "cell": "A2",
+    "before": "317 rekordów źródeł; S306 aliasS041. Etap32: C107 Stocka12/ChrzypskoMałe; bez nowej relacji rodzinnej.",
+    "after": "325 rekordów źródeł; nie325niezależnychdowodów. S320wpiswS319, S306aliasS041. Etap33beznowegopokrewieństwa."
+  },
+  {
+    "sheet": "KANDYDACI_I_HOMONIMY",
+    "id": null,
+    "cell": "A2",
+    "before": "108 rekordów; C107 Stocka12 i C108 Żeromskiego67 to osobne wpisy Czesława bez potwierdzenia tożsamości.",
+    "after": "109 rekordów; C109toZygm.beztożsamości. C62maDOBzadministracji,niejestprzeztoP31. C17niepasujedoJaniny1910; C10datawodpowiedziniespójna."
+  },
+  {
+    "sheet": "INDEKS_MELDUNKOW",
+    "id": null,
+    "cell": "A2",
+    "before": "62 wybrane odczyty; nie pełny indeks ani lista krewnych. IM059–IM062: etap32.",
+    "after": "115wybranychodczytów; niepełnyindeks inielistakrewnych. IM063–115:księgi25507/25509oraz10wybranychdowodówS272."
+  }
+]

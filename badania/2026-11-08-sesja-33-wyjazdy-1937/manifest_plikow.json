@@ -1,0 +1,687 @@
+[
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/KWERENDY.md",
+    "bytes": 2586,
+    "sha256": "99cbf52c52eb356c985a9128a96d4baff0644c7e2c0af3014e31a6e7e9f6444d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/LICZNIKI.json",
+    "bytes": 452,
+    "sha256": "e08d7c78f8524b5a8870cb4a027c2131ff1261cec94b608d4a708e02fab9f4c1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/NOTATKI_DO_FINALIZACJI.md",
+    "bytes": 8051,
+    "sha256": "671ea774b2bf46377f853c5513f859d6c3ad55ac233015cbd09591533216e5cf"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/PLAN_KONTYNUACJI.md",
+    "bytes": 5048,
+    "sha256": "796fd60c8eced82e5507b168958d2e10185e54202f8e7a603173d2799a4d24e3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/STATUS.md",
+    "bytes": 10148,
+    "sha256": "a4e5c5c60a2727556fb4d1143051bb377072eb4b649238045d4d1bb002fbdca3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/WALIDACJA.json",
+    "bytes": 767,
+    "sha256": "594475bf61aaa4a9464ee06add45cc4098a20cd5c101ff5f533dfca25976ee46"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/ZBADANE_ZRODLA.md",
+    "bytes": 3725,
+    "sha256": "5610a98f4cc252d6adc1c149f843e8138b8304503c4e43febed15cd8bb26692a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/ZMIANY_KOMOREK.json",
+    "bytes": 17140,
+    "sha256": "d33e38ef7e2315da657ff147cd6d9686f2ed046c066b149c898e68ddad4ef38a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/aktualizuj_excel.py",
+    "bytes": 22949,
+    "sha256": "77eba9a5024b6c5d7313ad3e6cfb4b730645587fadea8b86cd56fc3c826f9c19"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/baza_przed_etapem33.xlsx",
+    "bytes": 359456,
+    "sha256": "b5dbcc3b1bb76d05c3378b4f5fabb198823c67c1930ad4adcd3de10396390182"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/przygotuj.py",
+    "bytes": 8181,
+    "sha256": "295e3b89f1848145d499e384514aaac7cfa3491a1bb656ae5315dad6d5d1261f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/przygotuj_1939.py",
+    "bytes": 5251,
+    "sha256": "65dc744b468f7cacc9f8132a0eb4fef4ee30c509bdf5362c2604f34d3a899a78"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/przygotuj_uzupelnienia.py",
+    "bytes": 6204,
+    "sha256": "69b00138211423153ff4f1044444ea48db3fa75523c320d3e76f71d5c00e8399"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/waliduj.py",
+    "bytes": 5741,
+    "sha256": "32fe09862c986ac44ed1356bfe838b328d63dbde343cda423eda9b4d25c04d94"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/22561683_catalogue.json",
+    "bytes": 162,
+    "sha256": "04ac7ee627f3fc53e2c04c71889538dfed772f841126fda5e3ce01476c5865b7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_001.jpg",
+    "bytes": 314326,
+    "sha256": "4afb17c91b590e73b5921112531a421f65e7ad9e723189197e862db77559d6a1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_002.jpg",
+    "bytes": 2597048,
+    "sha256": "881bd9e6dff4203ecce8983df54fdafc09081d79d3dfbd04322c22b951a128ec"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_003.jpg",
+    "bytes": 213154,
+    "sha256": "6f45dd77679908a77bbccabdaf5b7de4514015ffaef0a69161a59433693e9fd3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_004.jpg",
+    "bytes": 1580780,
+    "sha256": "a899a4b238894807c3a66c8486b2a45757bae68b2433a42ddebecbfae713856c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_005.jpg",
+    "bytes": 1761341,
+    "sha256": "6f0849b4876b024df31cef3a90658833114e0b4a5a86b99de3c5db8d5ea5a95e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_015.jpg",
+    "bytes": 1711499,
+    "sha256": "a7385a4162b10a15574667cb307baa67821575c4b426e3ee04f44d934a4d749b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_016.jpg",
+    "bytes": 1655303,
+    "sha256": "ecaa727406658de15bc90b5d331fdbfe40d28da8f48f7d4176bc7d7f775170fd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_025.jpg",
+    "bytes": 1735868,
+    "sha256": "9ba4ed05f029c6c8b575559d4b652a39c71b2093a2ab7a722c19cae161fd94b5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_033.jpg",
+    "bytes": 1694369,
+    "sha256": "a1c295ff450cfee68c8080750d2811e6367b542f355bc0dccadd1f961d8294d7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_037.jpg",
+    "bytes": 1713604,
+    "sha256": "20a93934099da1036b0258b66155b287436203133e33ef88293bd8e1bbc132ea"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_040.jpg",
+    "bytes": 1731420,
+    "sha256": "28bf7f615c14f60fb0163e2c51a29c607ec53864d40f8679f418f8a8a7f538b6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_043.jpg",
+    "bytes": 1685995,
+    "sha256": "9fe38f8905e4b0964f509a9ce57316208d7a6c2e3c4aeae3cfd31104c8b6856a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_057.jpg",
+    "bytes": 1783187,
+    "sha256": "119f5d03c6cd8eec33f2e7fd42ab59f488837e7a3289b87fb782a1a25c421f8b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_063.jpg",
+    "bytes": 1724616,
+    "sha256": "37f690b33fd41847b3b1567e932556f934adda4418461b566a32a036c3946b4c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_067.jpg",
+    "bytes": 1788343,
+    "sha256": "75a1de8ec088b651b9ecc1d36b7f62653010553ca646485183ee55c1e63f4072"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_091.jpg",
+    "bytes": 1709282,
+    "sha256": "5d6385cf9d7764c11dfffeff972184079bf3cc3a6295bb6a144121346eff8e8b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_092.jpg",
+    "bytes": 1753042,
+    "sha256": "325fb6d0ae2932eb779a093a4d4a9c8f522480622c8328762bb641e17f0b8503"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_097.jpg",
+    "bytes": 1681930,
+    "sha256": "05ec7e28bf2de1e24876bb5cf707b4bed823a2199cd2054085f1cd02f5bf420e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_098.jpg",
+    "bytes": 1693308,
+    "sha256": "24ab50be09e018cbb2e3edd9b4288bf5d7db87a50b5c735f9e601be699d23ec6"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_104.jpg",
+    "bytes": 1253947,
+    "sha256": "0b177040dd77a36d0e9c0008406291fc65ff2d859701c8215fdaaf289cc93654"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_118.jpg",
+    "bytes": 1776187,
+    "sha256": "23b5893fc33e620994e74e20f4f79a882fad72fc0746920a66e2e24b549eb054"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_125.jpg",
+    "bytes": 1706682,
+    "sha256": "67b7a3ff4bc558f5e71ed0da023c985c0427bfa6c1a2ddcb1fad0fac7edb4165"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_126.jpg",
+    "bytes": 1704817,
+    "sha256": "60d0f76bc85165e54410d57e9fc89120e37c7b4607af7ca65d025c6b1e2a7f7e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_127.jpg",
+    "bytes": 1680079,
+    "sha256": "0f1ac3d0404853e9c84078b764c02fe5486f02677184e6eca8a3e7d87907865d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_129.jpg",
+    "bytes": 1697013,
+    "sha256": "f5e80dbf3e4c82e0590eb7691004cabd5b422c5a9ac65e6d3cdf69b851c2663e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_131.jpg",
+    "bytes": 1722159,
+    "sha256": "bee3796c7899d58566214c6c9219233e16f265a5889e054bf01e7890175b085d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_139.jpg",
+    "bytes": 1813442,
+    "sha256": "70ac1ef7dc233c052e5fa5d23677178906d56bcebd92993be13fc7b9dad70d45"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_147.jpg",
+    "bytes": 1713522,
+    "sha256": "2154df047cd5643d5a84266c8e3b6a60c1ce6666fdd70ab894b88eada4d4a2dd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_148.jpg",
+    "bytes": 1484088,
+    "sha256": "c336412c4001ce375250b12581772e2d1510816a3dca637bcff04b73d62c01c4"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_149.jpg",
+    "bytes": 117837,
+    "sha256": "c09b24cf4c448ec8885c68a0d909cf77c796e210a0ba0c45abf5571a9d986edb"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_kolumny_nazwisk.zip",
+    "bytes": 14973765,
+    "sha256": "30886e52cd19fcc71a8d14227f1323bf29ea0085d15b5b17c6e8c6577e84ed44"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_manifest.json",
+    "bytes": 91599,
+    "sha256": "79d287f77a743833400a3a53fb22a3cb867e34d2425cc65403783746cf115323"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_pobrane_sha256.json",
+    "bytes": 37440,
+    "sha256": "05999e5f608d825234c3ec94b5dc3841f9ead74c9e8cbdd474153370c82a5f8f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_wybrane_odczyty.csv",
+    "bytes": 9643,
+    "sha256": "5a15c7e3304414b5f6d82ad42bfe70fcfc620bec818c2ee64ad29d07a81276b2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_wybrane_odczyty.json",
+    "bytes": 16147,
+    "sha256": "295abbb9b1327ebbaa6148f1ea2a6ccb79a1edb1836800a6134541a3b974b71e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_zakres.json",
+    "bytes": 2029,
+    "sha256": "8c72665fc258f9ba526f1100ec454e62990478e1d19d162ab7e83c607ca110e1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25507_zakres_stron.csv",
+    "bytes": 18725,
+    "sha256": "dbebc5cb3f39da5e615fba216de16426e24a193fc4680e0ed822590930269139"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_001.jpg",
+    "bytes": 278400,
+    "sha256": "3914dca08f7e21d59c8d1a3ca8ee3dc4c9efd21b74793ebd2b6b66454442c690"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_002.jpg",
+    "bytes": 2886763,
+    "sha256": "8c92d0367e916ecb94c33f1314b54e7a325e312024afd06c5be6dfdb226b2b58"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_003.jpg",
+    "bytes": 212022,
+    "sha256": "c210140e7b5dba090187cfff0c898eaad96196241b5caedf148062394b43750d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_004.jpg",
+    "bytes": 1288747,
+    "sha256": "4e1da30f54767cd00c1c3df338336864807bcc11b0bdbf09b233d86789c582ca"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_005.jpg",
+    "bytes": 1345437,
+    "sha256": "84e096cb3a34317ee6238922f60802b69b4631edcda003a416e519bdf217a8df"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_013.jpg",
+    "bytes": 1377106,
+    "sha256": "fb4df225e595cdbbe48c6bba685807e0143349400ea11835194ba95abab9eba1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_018.jpg",
+    "bytes": 1372754,
+    "sha256": "68216c24867075713109baeed767719aec8b480a5d653be9ae8e91201f715528"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_022.jpg",
+    "bytes": 1396189,
+    "sha256": "f5de78d12169f1e6d3ae51eee2157831402fb1ef00780cc019ac057bd767f772"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_039.jpg",
+    "bytes": 1389869,
+    "sha256": "cc9aebdda8ecef289b8595922670afd57dc06010c47fe545ed0d07f0bfd3f815"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_043.jpg",
+    "bytes": 1402584,
+    "sha256": "5c42627d9a298b0c372b7a0a4f8570310613d379ecee71207ca1d377bc70eeae"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_068.jpg",
+    "bytes": 1444477,
+    "sha256": "e6a5397c511c585b2d16c47dd57b571e6979d41481052c02483c246d81908f74"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_074.jpg",
+    "bytes": 1455656,
+    "sha256": "1b425e03207aa846219d0f93c772aafd11776c4863adbb45665711e847473d4f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_115.jpg",
+    "bytes": 1399311,
+    "sha256": "f1c7c4204f1741de12f08fb4869cfe368de717fdca4f859a98aee3d7fba995af"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_117.jpg",
+    "bytes": 1376018,
+    "sha256": "fa8a01da071e5caaace5170ffdf08161322eb969e2424b82d3fa431aeed8161e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_119.jpg",
+    "bytes": 1395629,
+    "sha256": "cbf0d27d95ed19fe55dadbcd28b881f2091166634c10f5e3dc358aa0ebe6e7cf"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_123.jpg",
+    "bytes": 1391690,
+    "sha256": "be4876fd63166fb1348def0056ad54d0155d02b9e3ff87a3ae205f451294793f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_133.jpg",
+    "bytes": 1374466,
+    "sha256": "9e02c6187dfa507a0ccc0cf3aa015ef5976a564dedb16ddd52518b7ed63b2d14"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_151.jpg",
+    "bytes": 1369364,
+    "sha256": "4e1f2b206a7af19ac7ea048ab6438490004877a03c3c629576db8e085b8d34bd"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_157.jpg",
+    "bytes": 1408490,
+    "sha256": "362936ec709e5527fb94054b3adb72ff172c55c1378529b9fecd2ab302772802"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_162.jpg",
+    "bytes": 1399579,
+    "sha256": "4a90ecbb994bcefb8b8ac12417d75ff484fdf8fd2f88dcd7951029f771fe2229"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_165.jpg",
+    "bytes": 1404521,
+    "sha256": "dfc246920fa23d103b357862b92d3af4b86f3cf503d575cdd90ba8c20971bdc2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_179.jpg",
+    "bytes": 1383428,
+    "sha256": "4c4cdb2828cb694737069db40ed79444a02c34a7fd3d9da51e0e9a77ab7ceb32"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_183.jpg",
+    "bytes": 1380214,
+    "sha256": "4f2f046980d819a90cb5443398ba5a0d8d1b4aaade54715231130412ee7b92b4"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_185.jpg",
+    "bytes": 1259972,
+    "sha256": "ef381e2f8df999cfac097d34ce1031c746927f9f6bfeaf4beee7c6c946d30547"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_186.jpg",
+    "bytes": 1321867,
+    "sha256": "669a3eef0e59c1de42772813114d90b1ac7de7b2d1026b14d0ec819fa08e809b"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_187.jpg",
+    "bytes": 118472,
+    "sha256": "61d0f6b3f68ee37be3ef31c0bbbd44eda3ffefbdf21b67e9400ed39455d253a0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_katalog_kontynuacja.json",
+    "bytes": 6793,
+    "sha256": "60990b883c02e8d941cf81270b2fcfe4f13d6b3249e5636251cc3365e83ab2c1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_kolumny_nazwisk.zip",
+    "bytes": 15273915,
+    "sha256": "e32e7b74f32c7d9e2f382a66780f99f9b5c37101ddc5d91cb2c0a8be73cdfdb2"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_manifest.json",
+    "bytes": 114931,
+    "sha256": "647c7ca6fe56ea0e74bbb1e99327b990de5ff2eb2257e6b2afaadaf254575145"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_pobrane_sha256.json",
+    "bytes": 47016,
+    "sha256": "b540effb818ecc14ecf711dae2ae45030b0144fada649d07ce2cb67438eb7b39"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_wybrane_odczyty.csv",
+    "bytes": 7957,
+    "sha256": "91917f6a72353766e9c6fad2167bb2caf951c46aa1aaba589b1850b2f3e30acf"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_wybrane_odczyty.json",
+    "bytes": 13076,
+    "sha256": "70e735ec87cf79a8c3a3c7dd5b01d0051afb37650ca7430a4868f5393cf9ac20"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_zakres.json",
+    "bytes": 1758,
+    "sha256": "8e7600488e76791c018c6ed38baf5952c9a872f2e8940bba09fb617922bda9f0"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/25509_zakres_stron.csv",
+    "bytes": 23512,
+    "sha256": "79e60c90243e1e2d4bcf860d9354eecb1e6b71751fa8b390bd880db94c2ba66d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_001.jpg",
+    "bytes": 332070,
+    "sha256": "e4a6fe508435bc89296fe0a7d2d6579426ae2f703ce486c6787774b303451d7c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_136.jpg",
+    "bytes": 696620,
+    "sha256": "359449171afe6a8fe9e7b6dd1424879847406c9650945fbc13156b6c41f9cb32"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_186.jpg",
+    "bytes": 680840,
+    "sha256": "7af40953499507f92c18289e2339611e4b3f275f812f714ff81f51a030744c58"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_193.jpg",
+    "bytes": 622862,
+    "sha256": "ef7211e70f8d47eed699276863cc776a024b62f7e9eb2fea4b1981c0f1f40257"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_195.jpg",
+    "bytes": 619209,
+    "sha256": "1f611bee9e19b91a46fae67cdce5b51a0f064e1fc3d592be5089d5769550c076"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_199.jpg",
+    "bytes": 634370,
+    "sha256": "20299d381d01d8c8c3d40b48d86f3a60d897418b0d9f03af83df7c003b326c3a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_205.jpg",
+    "bytes": 625747,
+    "sha256": "177f83c8e086ad046b90d1ce7ee158cd2a366d0f6832273d90c049745def94e3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_214.jpg",
+    "bytes": 675738,
+    "sha256": "69f96386bf59d04d9cd6a820ee63636f7edce9f056811db3eeab3e6f484e5520"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_221.jpg",
+    "bytes": 639053,
+    "sha256": "ec464243bcc27ff124788e2d295686591444238eeae94002d952f54e165b8fce"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_232.jpg",
+    "bytes": 672279,
+    "sha256": "a37526477bb6c4f3273f4f6d58ee9b58648e977571082a92b646838ef646911d"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_239.jpg",
+    "bytes": 657173,
+    "sha256": "2d375e6e7dbbc8ceda4ba9744fe2e82db21c8ce2bb79fb96a4eb1d4dcf86da6a"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_247.jpg",
+    "bytes": 475910,
+    "sha256": "b44e4660c5d345d2e4df112ad294a8d29859e4de1cf6090c402a26071901276e"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/86616_248.jpg",
+    "bytes": 448912,
+    "sha256": "c03ef6dc083df0d800aa4a85b0b51230f4b0f71adbef07ad720dd2bdec661977"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/S272_wybrane_odczyty.csv",
+    "bytes": 3620,
+    "sha256": "23fbc73c4db5295646d5def334e03a12bdb5b33751812a0a62d9982b27c1d0cb"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/S272_wybrane_odczyty.json",
+    "bytes": 5424,
+    "sha256": "29a176fc99aad8266aff4c435b5f79aa58b4b83f7396b2a3cc52344e7fd53244"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/S272_wybrane_oryginaly_sha256.json",
+    "bytes": 4434,
+    "sha256": "dcddf993298657b25b9d82c71f74aa61c5f4dd94a1ede6bb5585b10159ce8c53"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/S272_zakres_nowego_kryterium.json",
+    "bytes": 1252,
+    "sha256": "d9053d4e5c5c933fba917ef8d4248d37de98a8f1b9bd163fa4063ad76e5a40bf"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_nowego_tropu.json",
+    "bytes": 40270,
+    "sha256": "ab811b7f113a59c969d479295b7306b79fe669659baf68b805f0927831632498"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D70634058.html",
+    "bytes": 102548,
+    "sha256": "7056ce007acad616dc264ab1010096fc95321831153285c1f69377608347c3a7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D70634058.jpg",
+    "bytes": 271762,
+    "sha256": "8e82495a725ca78efe146122bfc060ec8255a1fa6168405f332b337a4bafd9e5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D70634058_person.json",
+    "bytes": 13436,
+    "sha256": "74b36917772de406a3f2d896ca1a4f771f6c7ca1dc2c3a4e2d13673d930568ff"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D78640271.html",
+    "bytes": 103029,
+    "sha256": "221cec1a19d7112417658aa0d258d348c074408860f819fa4b974147cdf37612"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D78640271.jpg",
+    "bytes": 176180,
+    "sha256": "03b194c0bcdd8b621939d9404b0277471cc302edc139b21c3586c693b8cc9684"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D78640271_person.json",
+    "bytes": 16464,
+    "sha256": "8e55681d3c4d3ea073ea53c81dd604678a84a2c26a7b77f9c504031e5b0cacc3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81787522.html",
+    "bytes": 104028,
+    "sha256": "2c87c401d0243f09455e6632a5d3a0e6078b938d790742ff0b0f0032f1d4d6ab"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81787522_001.jpg",
+    "bytes": 235358,
+    "sha256": "18da57608bb8b3b4b985eddb5c3927253650d1652efd77b34e836b441b43182f"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81787522_002.jpg",
+    "bytes": 171056,
+    "sha256": "edbfa85f3d97b92f3f1424926bef796b9cc83f849fd629b51fb3861b5f1a3656"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81787522_person.json",
+    "bytes": 9870,
+    "sha256": "a73d06caff84dd249c5ae1d8b5fefa39907dfa59a9641f8242c45b99dc4e3fe3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81978799.html",
+    "bytes": 102229,
+    "sha256": "9e835f74bfecff80cb6be3a7379658e48e3d5973b5f6e2796039df988dc4d986"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81978799_001.jpg",
+    "bytes": 282571,
+    "sha256": "8399e4a243c2fd960035c7171671cb45ddede9d62f6d0496a5c9dc236d79f902"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81978799_002.jpg",
+    "bytes": 236139,
+    "sha256": "378b8565bb5000c3d1fc1858e99ec6650d942ab71522915649ca777f2b44813c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81978799_person.json",
+    "bytes": 28428,
+    "sha256": "fc5c4933adcfd840289f13b6d1765629fcddf3073c88f914439b8b7a69b282ea"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81979003.html",
+    "bytes": 102229,
+    "sha256": "1c702f2042f054e536d7ba7e557bd8d6a129b6738c9b7b581a864fd3489ff83c"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81979003_001.jpg",
+    "bytes": 303933,
+    "sha256": "d12f5110260a7847b33d189c0040e96e0d3520a71ce9cc8b9508ec665436a1d7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81979003_002.jpg",
+    "bytes": 324726,
+    "sha256": "7f55c3e478ce47abe3b549ea6ad49ab87c637c37f0e1f4b31925346248db2ace"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81979003_person.json",
+    "bytes": 20318,
+    "sha256": "b41b72e6e13c284bee90b2b9d373f2fc0903efaecfc002dba7619cafd7a91375"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81991022.html",
+    "bytes": 102319,
+    "sha256": "d8f687da39fc6a567b1487f7d931dae54c29bd56b04cdb750e5a9e189daa8624"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81991022_001.jpg",
+    "bytes": 218458,
+    "sha256": "cb3eccd4e8947f48298336fe3704f3ad9465b8534b7e35afaf626072f2aaebef"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81991022_002.jpg",
+    "bytes": 178244,
+    "sha256": "c29b677e25199d7bded511968f18470999ff932c80d0be5a5cb96ec86cdadd64"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt/Arolsen_D81991022_person.json",
+    "bytes": 21048,
+    "sha256": "3c3ba774f2092a3e0d5f0d21c286f4ff252aa5fce171c1ad0ac9be9a1bc564ae"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt_odczyty.json",
+    "bytes": 2133,
+    "sha256": "3af9900ff7c84a80c4543707642b086272c066d2494839be89d86383e16a0fb1"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/arolsen_zygmunt_pobrania.jsonl",
+    "bytes": 11969,
+    "sha256": "3c7f8b33bd50198274dca9a0a7021cae370e5d425d84c09b3fa07ee81e8aa5a3"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/czeslawa_nowe_DOB_kwerendy.json",
+    "bytes": 12717,
+    "sha256": "fbb7ba73d42ed11f238fc957f529b0cce7cb5835f6fcbc9ec70374917835c6c9"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/kwerendy_web_buczek.json",
+    "bytes": 24436,
+    "sha256": "899f9fdb9234a2dc63283bbdec7070546113f63461541c1ed24c2e828ef579e7"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/odpowiedzi_instytucji_wypisy.json",
+    "bytes": 3882,
+    "sha256": "7216eb145268f6553cd22ecdaba75a37581fb01ea355433ff30ab2de18b74284"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/porzadkowanie_cache.json",
+    "bytes": 131526,
+    "sha256": "22b1b18a2d7986c28cb8ea059b2456f497bd1f03d0cacbc633603521225f5955"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/potwierdzone_wysylki_historyczne_metadane.json",
+    "bytes": 1430,
+    "sha256": "6dfa8916e67a610c6839457a3332c93d6d66f4896af349a68e93744a3d25f4f5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/tagged_units_dates.json",
+    "bytes": 21352,
+    "sha256": "74ab0d7c0202e009ef278e04c1b07008809cd7e6b2cedd76693abd515b6afdd8"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/tagged_units_open.json",
+    "bytes": 2429,
+    "sha256": "6a03927b3b9d241d7a55335b64afb068de69c04459d5e03e6639cbb6e9a403a5"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/tagged_units_queries.json",
+    "bytes": 21348,
+    "sha256": "e1b6a5bc80e22e6a67bf9faa5e3552fc1083695bda90fe455ecc1c8d31eff2f9"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/tagged_units_variant.json",
+    "bytes": 4753,
+    "sha256": "ab653a9a925790637af4262e62e33b98be4fd6736c30930c7aba737983a58488"
+  }
+]

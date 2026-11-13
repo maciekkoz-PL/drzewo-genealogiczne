@@ -1,0 +1,82 @@
+{
+  "at_utc": "2026-11-08T03:42:58.835312+00:00",
+  "unit": "39/221/0/4.12/25507",
+  "unit_id": 6209684,
+  "downloaded": 149,
+  "name_columns_read": [
+    [
+      5,
+      103
+    ],
+    [
+      105,
+      147
+    ]
+  ],
+  "technical_seen": [
+    1,
+    2,
+    3,
+    4,
+    104,
+    148,
+    149
+  ],
+  "selected_to_read": [
+    15,
+    16,
+    25,
+    33,
+    37,
+    40,
+    43,
+    57,
+    63,
+    67,
+    91,
+    92,
+    97,
+    98,
+    118,
+    125,
+    126,
+    127,
+    129,
+    131,
+    139,
+    147
+  ],
+  "method": "Manualny przegląd kolumn nazwisk i imion; pełne wiersze wybranych trafień, nie pełna transkrypcja księgi.",
+  "full_selected": [
+    5,
+    15,
+    16,
+    25,
+    33,
+    37,
+    40,
+    43,
+    57,
+    63,
+    67,
+    91,
+    92,
+    97,
+    98,
+    118,
+    125,
+    126,
+    127,
+    129,
+    131,
+    139,
+    147
+  ],
+  "full_selected_definition": "Wybrane wiersze lub nagłówki/granice księgi, nie pełna transkrypcja wszystkich pól tych obrazów.",
+  "recorded_date_boundary": "Obraz5: strona2, nr776, zgłoszenie23III1937; końcówka obrazu147:31XII1937 oraz dopiski wcześniejszych dat. Księga jest kontynuacją1937 po25506, nie samodzielnym pełnym rokiem.",
+  "result": "Nie rozpoznano nowego wpisu Czesława, Janiny ani Agnieszki Chmielewskich. Nie ustalono imienia P11. Osoby wybrane pozostają niepołączonymi imiennikami, a Chmielnicki/Szymon jest kontrolą odmiennego nazwiska.",
+  "numbering_note": "149 pozycji manifestu. Karta digitalizacji mówi146skanów; manifest zawiera też techniczne plansze. Rozpoznano142obrazy z wpisami i7technicznych. Księga ma dwie paginacje; nie jest to149kart imiennych. Późniejsze dopiski nie zawsze zachowują chronologię.",
+  "source": "S318",
+  "limitation": "Przegląd nazwisk i imion, nie pełna transkrypcja. Wybrane wiersze odczytane szerzej. Data kolumny6 to otrzymanie zgłoszenia; nie automatycznie dzień przeprowadzki. Liczba osób nie podaje relacji ani imion współdomowników.",
+  "new_proven_family_relationships": 0
+}

@@ -1,0 +1,42 @@
+{
+  "source": "S272",
+  "at_utc": "2026-11-13T17:47:50.773400+00:00",
+  "new_search_criterion": "Zygm. z3693; możliwy wariant Zygmunt Chmielewski, nie potwierdzone pełne imię/nazwisko",
+  "name_columns_reread": [
+    [
+      136,
+      247
+    ]
+  ],
+  "record_images": 112,
+  "full_rows": 10,
+  "selected_full_images": [
+    1,
+    136,
+    186,
+    193,
+    195,
+    199,
+    205,
+    214,
+    221,
+    232,
+    239,
+    247,
+    248
+  ],
+  "technical_newly_read": [
+    1,
+    248
+  ],
+  "result": "Nie zaobserwowano Zygmunta Chmielewskiego. Dziesięć innych wpisów bez rodzinnego łącznika.",
+  "limitations": [
+    "Nowe kryterium uzasadnia ten przegląd; wcześniejszy S272 szukał Czesława/Janiny/Agnieszki.",
+    "1938/2–134 nie ponowiono pod nowym kryterium.",
+    "Nie czytano wszystkich rubryk112obrazów. Nie jest to dowód nieobecności osoby wŁodzi.",
+    "Obraz247:nr2221–2223,ostatnie16X1939; nie pokrywa całego roku.",
+    "Poświadczenie248mówi254strony i ma datę12VII1937; data oprawy nie jest okresem wpisów.248obrazów PTGniejest gwarancją pełnej fizycznej księgi."
+  ],
+  "previous_complete_contact_archive": "badania/2026-11-07-sesja-21-meldunki-Ch/zrodla/kolumny_86616.zip",
+  "new_proven_relationships": 0
+}

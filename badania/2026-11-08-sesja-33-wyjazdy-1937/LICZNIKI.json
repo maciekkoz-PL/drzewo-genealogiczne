@@ -1,0 +1,19 @@
+{
+  "at_utc": "2026-11-13T17:55:03+00:00",
+  "sheets": 25,
+  "counts": {
+    "ZRODLA_I_SKANY": 325,
+    "DZIENNIK_KWEREND": 336,
+    "KANDYDACI_I_HOMONIMY": 109,
+    "PLIKI_DOWODOWE": 595,
+    "INDEKS_MELDUNKOW": 115
+  },
+  "changed_existing_cells": 37,
+  "last_source": "S325",
+  "last_log": "L336",
+  "last_file": "F595",
+  "last_candidate": "C109",
+  "last_correction": "Q109",
+  "last_meldunkowy": "IM115",
+  "new_proven_family_relationships": 0
+}

@@ -1,0 +1,53 @@
+{
+  "unit": "39/221/0/4.12/25509",
+  "unit_id": 6209686,
+  "name_columns_read": [
+    [
+      4,
+      4
+    ],
+    [
+      6,
+      185
+    ]
+  ],
+  "technical_seen": [
+    1,
+    2,
+    3,
+    5,
+    186,
+    187
+  ],
+  "at_utc": "2026-11-08T03:42:45.538006+00:00",
+  "full_selected": [
+    4,
+    13,
+    18,
+    22,
+    39,
+    43,
+    68,
+    74,
+    115,
+    117,
+    119,
+    123,
+    133,
+    151,
+    157,
+    162,
+    165,
+    179,
+    183,
+    185
+  ],
+  "full_selected_definition": "Wybrane wiersze lub nagłówki/granice księgi, nie pełna transkrypcja wszystkich pól tych obrazów.",
+  "numbering_note": "187 pozycji manifestu, 181 obrazów z wpisami (4 i 6–185), 6 technicznych. Obraz5 jest dodatkową kartą tytułową, nie wpisami. 184 w karcie digitalizacji nie jest liczbą obrazów w manifeście. Puste strony182–201 opuszczono; jest201a. Ostatnie wpisy na obrazie185 mają zgłoszenie1XII1939; nie zakładać pokrycia całego grudnia.",
+  "recorded_date_boundary": "Na początku zgłoszenia2I1939, na końcu1XII1939. Daty zgonów i późniejszych adnotacji mogą być inne.",
+  "result": "Nowy zapis3693: Chmielewska, Stanisława i Zygm., 1m+1k, Grabowa4→Łask/Buczek, zgłoszenie6XI1939. Mocno odpowiada IM025/nr708 z tej samej ulicy/gminy/składu, lecz brak wieku i relacji. Nie ustalono P11 ani nowego pokrewieństwa. Nie rozpoznano nowego wpisu Czesława, Janiny lub Agnieszki Chmielewskich.",
+  "source": "S319",
+  "downloaded": 187,
+  "limitation": "Przegląd nazwisk i imion, nie pełna transkrypcja. Wybrane wiersze odczytane szerzej. Data kolumny6 to otrzymanie zgłoszenia; nie automatycznie dzień przeprowadzki. Liczba osób nie podaje relacji ani imion współdomowników.",
+  "new_proven_family_relationships": 0
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "source": "S322",
+    "people": "C10;H005",
+    "gmail_message_id": "1a1bf32ba460d34a",
+    "received_original": "2026-11-09T07:25:34",
+    "subject": "Re: Zapytanie genealogiczne – Czesław Chmielewski, zm. 16.01.1981, grób XXXVI/15/36",
+    "institution": "Cmentarz Komunalny Zarzew, Zarząd Zieleni Miejskiej w Łodzi",
+    "verbatim_reply": "Dzień dobry.\n\nProszę Pana zm. Czesław Chmielewski urodził się 18.02.1982 r., więc chyba nie chodzi o tego zmarłego, który jest pochowany na naszym cmentarzu.",
+    "interpretation_and_limits": "Odpowiedź podaje 18.02.1982 jako urodzenie; sprzeczne z datą zgonu 16.01.1981 w pytaniu. Nie poprawiono roku ani nie przyjęto tej daty. Brak danych Witolda.",
+    "url": "https://mail.google.com/mail/#all/1a1bf32ba460d34a",
+    "type": "ODPOWIEDŹ ADMINISTRACYJNA; WYPIS REDAKCYJNY, BEZ PRYWATNYCH NAGŁÓWKÓW",
+    "sha256_original_body": "a39f9894d6654ad08a056d1b6b20438cd630e2838486c40c88fbd739c9fc12d6",
+    "read_at_utc": "2026-11-13T17:47:50.773400+00:00"
+  },
+  {
+    "source": "S323",
+    "people": "C62;P31?;H033",
+    "gmail_message_id": "1a1bfa1f45186824",
+    "received_original": "2026-11-09T09:27:03",
+    "subject": "Re: Zapytanie genealogiczne – Czesław Chmielewski, zm. 16.01.1981, grób XXXVI/15/36",
+    "institution": "Cmentarz Komunalny Zarzew, Zarząd Zieleni Miejskiej w Łodzi",
+    "verbatim_reply": "Dzień dobry.\n\nZmarłą Czesława Chmielewska urodziła się 20.11.1922 r, zmarła 03.10.1999 r. Niestety więcej danych nie mamy w karcie zgonu.",
+    "interpretation_and_limits": "Dla zmarłej z XLV/1/19: 20.11.1922–03.10.1999. Brak innych danych w karcie. Nadal nie potwierdzono tożsamości z ciocią Czesią P31 ani męża lub syna.",
+    "url": "https://mail.google.com/mail/#all/1a1bfa1f45186824",
+    "type": "ODPOWIEDŹ ADMINISTRACYJNA; WYPIS REDAKCYJNY, BEZ PRYWATNYCH NAGŁÓWKÓW",
+    "sha256_original_body": "2924164276b316a9a227fe6fe599bca3777e98a14cc173fc1f3007096c548461",
+    "read_at_utc": "2026-11-13T17:47:50.773400+00:00"
+  },
+  {
+    "source": "S324",
+    "people": "C17;P04",
+    "gmail_message_id": "1a1c058ebb54f1b1",
+    "received_original": "2026-11-09T12:46:54",
+    "subject": "Re: Weryfikacja Janiny Chmielewskiej, zm. 04.03.1992 — cmentarz Szczecińska",
+    "institution": "Cmentarz Komunalny Szczecińska, Zarząd Zieleni Miejskiej w Łodzi",
+    "verbatim_reply": "Dzień dobry,\n\nNiestety nie jest to ta osoba.",
+    "interpretation_and_limits": "Administracja stwierdza brak zgodności z opisaną Janiną Poprawką ur.12.05.1910. Nie ujawniono konkretnych odmiennych cech. Nie jest to odpis aktu.",
+    "url": "https://mail.google.com/mail/#all/1a1c058ebb54f1b1",
+    "type": "ODPOWIEDŹ ADMINISTRACYJNA; WYPIS REDAKCYJNY, BEZ PRYWATNYCH NAGŁÓWKÓW",
+    "sha256_original_body": "af0c4ef7515428c22ffcd6018edd1e013858db9b8f2716d944190ac264dc0c5c",
+    "read_at_utc": "2026-11-13T17:47:50.773400+00:00"
+  },
+  {
+    "source": "S325",
+    "people": "P09;TOM-D05",
+    "gmail_message_id": "1a1c53d1f3d41b75",
+    "received_original": "2026-11-10T11:34:37",
+    "subject": "Kwerenda",
+    "institution": "Wojewódzka Biblioteka Publiczna w Łodzi",
+    "verbatim_reply": "Szanowny Panie,\n\nPrzeszukałam Dziennik Łódzki Wiadomości\nDnia oraz Express Ilustrowany i niestety nie znalazłam szukanej\ninformacji.",
+    "interpretation_and_limits": "Negatywna odpowiedź biblioteki o przejrzanych tytułach. Brak wykazu numerów, stron i faktycznego zakresu dat. Nie dowodzi braku zgonu, krewnych lub nekrologu w innych źródłach.",
+    "url": "https://mail.google.com/mail/#all/1a1c53d1f3d41b75",
+    "type": "ODPOWIEDŹ ADMINISTRACYJNA; WYPIS REDAKCYJNY, BEZ PRYWATNYCH NAGŁÓWKÓW",
+    "sha256_original_body": "a3f0960325dd474d08b2ed2751a00df66992f822414d733ccfe7ee5780ec88ea",
+    "read_at_utc": "2026-11-13T17:47:50.773400+00:00"
+  }
+]

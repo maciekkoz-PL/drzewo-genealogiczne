@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "at_utc": "2026-11-13T18:03:12.789411+00:00",
+  "sheets_retained": 25,
+  "protected_family_sheets_identical": [
+    "RDZEN_RODZINY",
+    "RODZINA_Z_RELACJI",
+    "RELACJE",
+    "RELACJE_ZRODLOWE",
+    "POTWIERDZONE_AKTEM_1936"
+  ],
+  "existing_changes_logged": 37,
+  "counts": {
+    "ZRODLA_I_SKANY": 325,
+    "DZIENNIK_KWEREND": 336,
+    "KANDYDACI_I_HOMONIMY": 109,
+    "PLIKI_DOWODOWE": 595,
+    "INDEKS_MELDUNKOW": 115
+  },
+  "new_proven_relationships": 0,
+  "downloaded_ledger_images": 336,
+  "new_ledger_name_images": 323,
+  "new_criterion_identity_images": 112,
+  "arolsen_new_docids": 6,
+  "arolsen_new_images": 10,
+  "mail_replies": 4,
+  "new_emails_sent": 0,
+  "source_hashes_and_paths_valid": true,
+  "contact_archives_valid": true
+}

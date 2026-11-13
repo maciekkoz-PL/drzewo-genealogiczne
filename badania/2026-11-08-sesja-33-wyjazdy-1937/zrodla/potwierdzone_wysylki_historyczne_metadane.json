@@ -1,0 +1,42 @@
+[
+  {
+    "message_id": "1a1a895a7b3f4f1e",
+    "thread_id": "1a1a7abb8da4e7be",
+    "subject": "Zapytanie genealogiczne – Czesław Chmielewski, zm. 16.01.1981, grób XXXVI/15/36",
+    "sent_utc": "2026-11-04T22:02:22Z",
+    "labels": [
+      "SENT"
+    ],
+    "sha256_original_body": "2624793dc76e5953940c7423393f7009d2377b92f21e7b67bfccbc0b8366bca9"
+  },
+  {
+    "message_id": "1a1b439e5f868475",
+    "thread_id": "1a1a7abb8da4e7be",
+    "subject": "Re: Zapytanie genealogiczne – Czesław Chmielewski, zm. 16.01.1981, grób XXXVI/15/36",
+    "sent_utc": "2026-11-07T04:17:35Z",
+    "labels": [
+      "SENT"
+    ],
+    "sha256_original_body": "b8c8e990fadb7c3f7358343f3ae92e2ce04a6fd67d183575afbd620061974899"
+  },
+  {
+    "message_id": "1a1bd32bf7193992",
+    "thread_id": "1a1a7abb8da4e7be",
+    "subject": "Re: Zapytanie genealogiczne – Czesław Chmielewski, zm. 16.01.1981, grób XXXVI/15/36",
+    "sent_utc": "2026-11-08T22:06:21Z",
+    "labels": [
+      "SENT"
+    ],
+    "sha256_original_body": "37ca888837ef8ffebc9fc307a98d87029a8434997ffc7f197f285f3205ddb0c2"
+  },
+  {
+    "message_id": "1a1b5a3d597e4565",
+    "thread_id": "1a1a89b21061ab92",
+    "subject": "Weryfikacja Janiny Chmielewskiej, zm. 04.03.1992 — cmentarz Szczecińska",
+    "sent_utc": "2026-11-07T10:52:55Z",
+    "labels": [
+      "SENT"
+    ],
+    "sha256_original_body": "e6adfbce8181567ece4a72d89eeccfb6c18b484306b5276db255d6833c61292a"
+  }
+]
