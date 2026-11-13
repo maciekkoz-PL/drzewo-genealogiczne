@@ -1,0 +1,112 @@
+[
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/KWERENDY.md",
+    "bytes": 1020,
+    "sha256": "ba79e429830241d9276858c0d73ddf06b3e42480c605fe847260a37aa7f10929"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/STATUS.md",
+    "bytes": 4867,
+    "sha256": "e0532683b8b0e25855af39bfbdd050f7355ceb4fa29ac7f94901d09d0fd329f3"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/WALIDACJA.json",
+    "bytes": 360,
+    "sha256": "581955cec9d7d6aff228aa6f2854f287c8e491a53101654fc21c33acbc8ac753"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/baza_przed_etapem35.xlsx",
+    "bytes": 386207,
+    "sha256": "021c1d23022a2ab7f7fb7f18c270658d09c1913f3dd545fa8bd0bc02ff0b8ae3"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/agoff_dostep.json",
+    "bytes": 243,
+    "sha256": "43f34e6939a3caf8316976f08a2b25a83cd0d607b037b88d5f485e534db00732"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/agoff_nmdatadb.txt",
+    "bytes": 356577,
+    "sha256": "3cb8da80da422c12675e703b1a2b80e4b92b880d262bd74daf8e5ee870dc25f8"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/agoff_zakres.json",
+    "bytes": 693,
+    "sha256": "3eac5e7a37863492b2c05505834bc3272a32989e8c15081f564ff7326431e3f2"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/browser_error.json",
+    "bytes": 263,
+    "sha256": "a3754d0fcf8b1560ad9033ed277a5194a73b978d4b4b17f8cc25df15b654423c"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/browser_links.json",
+    "bytes": 14947,
+    "sha256": "95663c93056037cf1ee15ba6a280fb9532666c8608cd39733a34cfc588ec6150"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/browser_lista.txt",
+    "bytes": 2691,
+    "sha256": "025550bebe0bce92738376f2d648bcaef7b041693fb27ae7ef8ca30d6f4aa5d9"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/browser_start.txt",
+    "bytes": 4700,
+    "sha256": "9069027dca439044d284fbe55f3958c2a219d2ded424af139f97f1576fa32a01"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/inwentarz_102.csv",
+    "bytes": 15272,
+    "sha256": "25e698a4bf94fbaabafce6a8898ed976ff8e79726c3dbd0692aed616946b05be"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/jednostka_1895345.txt",
+    "bytes": 1423,
+    "sha256": "ad0605c1bff237b1e6e893848b3470e398c8bf8e37970a0e3681be155dd400f1"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/jednostka_1895417.txt",
+    "bytes": 820,
+    "sha256": "de9749c2a36a3ed81f2466fadcb3d37e5c4d227d154e78be5edb29715d1a24ed"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/jednostka_1895418.txt",
+    "bytes": 1385,
+    "sha256": "3fd913c05848dc738c052d453e039fe83323d37cd42d262d1929b56acebdf1cf"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/jednostka_1914116.txt",
+    "bytes": 1383,
+    "sha256": "bacecd3c3ed09d2ce32b451a2b88079f8e950dab6c9f80ee3b918c504f7fb999"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/proby_narzedzi.json",
+    "bytes": 73432,
+    "sha256": "29f516051b92979ce3441d24147265f8ebcb0508b3ff6e753d1be56a2e3bcc18"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/start_links.json",
+    "bytes": 966,
+    "sha256": "8ea312880cd5b53628ccafb6b7f33e7d13ea8645a40b4bd9c0fc3369879f59bc"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/tables_all.json",
+    "bytes": 13550,
+    "sha256": "9328410383580cc3be6495bfe74a07de34951ed8daf00ba4f7295b174919799f"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/unit_browser_log.json",
+    "bytes": 841,
+    "sha256": "24e9d00d74a66aa14b0c8819f262bc10f53027c71fd6f2dd850cbed5132c397a"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/unit_links_all.json",
+    "bytes": 53900,
+    "sha256": "0b6d2d8e6128de4cb474f690a83cb17a15ff0b9703e46f6a2746ee53d08b91b0"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-35-Chrzypsko/zrodla/units_all.txt",
+    "bytes": 9466,
+    "sha256": "e8f653525fd6dc95e8192f661682c70fcc09c98093c39f79f7da2f38694087fe"
+  }
+]

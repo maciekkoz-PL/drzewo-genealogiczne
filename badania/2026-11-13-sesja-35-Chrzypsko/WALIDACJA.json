@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "at_utc": "2026-11-13T19:26:39.606028+00:00",
+  "sheets_retained": 25,
+  "all_old_cells_identical": true,
+  "new_sources": [
+    "S326",
+    "S327"
+  ],
+  "new_logs": [
+    "L339",
+    "L340",
+    "L341"
+  ],
+  "new_evidence_files": 18,
+  "new_confirmed_relationships": 0,
+  "catalog_units": 102,
+  "all_catalog_units_zero_scans": true
+}

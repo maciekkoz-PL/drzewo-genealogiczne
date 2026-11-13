@@ -1,0 +1,16 @@
+{
+  "url": "https://neumark.agoff.de/nmdatadb",
+  "scope": "Wyłącznie pobrany publiczny plik nmdatadb, nie całość zasobów AGOFF.",
+  "criteria": [
+    "Chmielew",
+    "Chmielow",
+    "Chrzypsk"
+  ],
+  "surname_hits": 0,
+  "locality_lines": [
+    "Grzesiak;Francisca ?;Ehefrau;Groß Chrzypsko;Birnbaum,Posen;1858;0;Postzustellungsurkunden;[0201]",
+    "Luch;Paul;Eigenthümer;Groß Chrzypsko;Birnbaum,Posen;1864;0;Postzustellungsurkunden;[0201]",
+    "Ziolett;Francisca ?;Ehefrau;Groß Chrzypsko;Birnbaum,Posen;1858;0;Postzustellungsurkunden;[0201]"
+  ],
+  "interpretation": "Trzy wpisy Chrzypska z XIX wieku nie identyfikują rodziny. Brak nazwiska w tym pliku nie oznacza braku akt."
+}

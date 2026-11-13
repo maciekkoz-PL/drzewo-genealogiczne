@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1895417,
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/1895417",
+    "at_utc": "2026-11-13T19:23:36.409316+00:00",
+    "status": 200,
+    "portlet_unavailable": true
+  },
+  {
+    "id": 1895418,
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/1895418",
+    "at_utc": "2026-11-13T19:23:40.104523+00:00",
+    "status": 200,
+    "portlet_unavailable": false
+  },
+  {
+    "id": 1914116,
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/1914116",
+    "at_utc": "2026-11-13T19:23:42.593925+00:00",
+    "status": 200,
+    "portlet_unavailable": false
+  },
+  {
+    "id": 1895345,
+    "url": "https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/1895345",
+    "at_utc": "2026-11-13T19:23:45.508983+00:00",
+    "status": 200,
+    "portlet_unavailable": false
+  }
+]

@@ -1,0 +1,1 @@
+{"error": "Locator.click: Timeout 10000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"link\", name=\"Lista jednostek (102)\", exact=True)\n", "url": "https://www.szukajwarchiwach.gov.pl/zespol/-/zespol/22441", "at_utc": "2026-11-13T19:20:42.096149+00:00"}

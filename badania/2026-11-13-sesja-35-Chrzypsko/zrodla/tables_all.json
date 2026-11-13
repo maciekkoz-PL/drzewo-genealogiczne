@@ -1,0 +1,640 @@
+[
+  [
+    [
+      "Sygnatura",
+      "Nazwa",
+      "Data od",
+      "Data do",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "Zobacz",
+      ""
+    ]
+  ],
+  [
+    [
+      "Sygnatura",
+      "Nazwa",
+      "Daty skrajne",
+      "Liczba skanów"
+    ],
+    [
+      "92/60/0/1.1/1",
+      "Wybory do Sejmu, Senatu, Sejmiku Powiatowego i innych instytucji",
+      "1929-1930",
+      "0"
+    ],
+    [
+      "92/60/0/1.1/2",
+      "Sprawozdanie rachunkowe z wykonania budżetu administracyjnego",
+      "1932-1933",
+      "0"
+    ],
+    [
+      "92/60/0/1.1/3",
+      "Sprawozdanie rachunkowe z wykonania budżetu administracyjnego",
+      "1933-1934",
+      "0"
+    ],
+    [
+      "92/60/0/1.2/4",
+      "Sprawy budżetowe, podatki gminne [budżety roczne i sprawozdania]",
+      "1924-1934",
+      "0"
+    ],
+    [
+      "92/60/0/1.2/5",
+      "Rolnictwo w ogólności.Statystyka produkcji rolnej. Spis zwierząt domowych.",
+      "1926-1931",
+      "0"
+    ],
+    [
+      "92/60/0/1.2/6",
+      "Wybory do Sejmu i Senatu",
+      "1930",
+      "0"
+    ],
+    [
+      "92/60/0/1.2/7",
+      "Wybory do Sejmu i Senatu, Sejmiku, Sejmiku Powiatowego, Rady i Zarządu Gminnego",
+      "1928-1930",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/8",
+      "Przepisy i zarządzenia ogólne, okólniki",
+      "1935-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/9",
+      "Wprowadzenie w życie nowej ustawy samorządowej.[Włączenie gminy Izdebno do gminy zbiorowej Chypsko Wielkie]",
+      "1933-1935",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/10",
+      "Sprawy organizacyjne.[Organizacja nowych gmin zbiorowych]",
+      "1935",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/11",
+      "[Wybory radnych gminnych i sołtysów]",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/12",
+      "Kontrola wewnętrzna, nadzór",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/13",
+      "Majątek gminy i gromad",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/14",
+      "Statystyki handlu, przemysłu, zakładów, ludności, gruntów na 1 I 1939",
+      "1939",
+      "0"
+    ],
+    [
+      "92/60/0/2.1/40",
+      "Sprawy budowlane i odbudowy",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/15",
+      "Księga biercza podatku wyrównawczego",
+      "1938-1939",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/16",
+      "Księga biercza podatku gruntowego",
+      "1937-1939",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/17",
+      "Budżety szkolne obwodu Chrzypsko Wielkie",
+      "1935-1939",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/18",
+      "Budżety administr. zakładów i przedsiębiorstw",
+      "1935",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/19",
+      "Budżety administr. zakładów i przedsiębiorstw",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/20",
+      "Budżety administr. zakładów i przedsiębiorstw",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/21",
+      "Budżety roczne",
+      "1935-1936",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/22",
+      "Budżety roczne",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/23",
+      "Budżety roczne",
+      "1938-1939",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/24",
+      "Budżety roczne 1939 - 1940",
+      "1939",
+      "0"
+    ],
+    [
+      "92/60/0/2.2/25",
+      "Roczne sprawozdania rachunkowe",
+      "1935-1936",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/26",
+      "Drogi i place publiczne",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/27",
+      "Drogi i place publiczne",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/28",
+      "Oświata, kultura i sztuka",
+      "1936-1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/29",
+      "Oświata, kultura i sztuka",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/30",
+      "Bezrobocie",
+      "1937-1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/31",
+      "Rolnictwo",
+      "1935",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/32",
+      "Rolnictwo",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/33",
+      "Rolnictwo",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/34",
+      "Rolnictwo",
+      "1939",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/35",
+      "Weterynaria i hodowla",
+      "1936-1937",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/36",
+      "Weterynaria i hodowla",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.3/37",
+      "Kartoteka przemysłu na terenie gminy Chrzypsko Wielkie",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.4/38",
+      "Ogólno - administracyjne. Wybory do Sejmu i Senatu",
+      "1938",
+      "0"
+    ],
+    [
+      "92/60/0/2.4/39",
+      "Sprawy budowlane i odbudowy",
+      "1935",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/41",
+      "Przepisy i zarządzenia ogólne, okólniki",
+      "1945-1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/42",
+      "[Przepisy i zarządzenia ogólne, okólniki]",
+      "1949",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/43",
+      "[Wybory sołtysów i podsołtysów]",
+      "1945-1947",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/44",
+      "Zebrania i urzędowania ciał samorządowych",
+      "1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/45",
+      "Protokólarz posiedzeń Zarządu Gminnego",
+      "1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/46",
+      "Protokólarz posiedzeń Zarządu Gminnego",
+      "1947-1948",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/47",
+      "Protokólarz posiedzeń Prezydium Rady Narodowej",
+      "1946-1949",
+      "0"
+    ],
+    [
+      "92/60/0/3.1/48",
+      "Protokólarz posiedzeń Gminnej Rady Narodowej",
+      "1947-1949",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/49",
+      "Księga biercza podatku gruntowego",
+      "[1939] 1945-1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/50",
+      "Budżet roczny",
+      "1945-1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/51",
+      "Budżet roczny dodatkowy",
+      "1945-1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/52",
+      "Budżet roczny",
+      "1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/53",
+      "Budżet roczny dodatkowy",
+      "1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/54",
+      "Budżet roczny",
+      "1947",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/55",
+      "Budżet roczny dodatkowy",
+      "1947",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/56",
+      "Budżet roczny",
+      "1948",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/57",
+      "Budżet roczny dodatkowy",
+      "1948",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/58",
+      "Budżet administracyjny",
+      "1949",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/59",
+      "Budżet roczny dodatkowy",
+      "1949",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/60",
+      "II Budżet roczny dodatkowy",
+      "1949",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/61",
+      "Preliminarz roczny robót szarwarkowych",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/62",
+      "Budżet administracyjny dodatkowy",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/63",
+      "Budżet roczny",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/64",
+      "Załączniki do budżetu administracyjnego rocznego",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/65",
+      "Budżet administracyjny zakładów i przedsiębiorstw",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/66",
+      "Roczne sprawozdanie rachunkowe",
+      "1945-1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/67",
+      "Roczne sprawozdanie rachunkowe",
+      "1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/68",
+      "Roczne sprawozdanie rachunkowe",
+      "1947",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/69",
+      "Roczne sprawozdanie rachunkowe",
+      "1948",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/70",
+      "Roczne sprawozdanie rachunkowe",
+      "1949",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/71",
+      "Roczne sprawozdanie rachunkowe",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/72",
+      "Rejestr wymiarowy podatku gruntowego",
+      "1947",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/73",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada Izdebno",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/74",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Chrzypsko W.",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/75",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Orle W.",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/76",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Charcice",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/77",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Białokoszyn",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/78",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Białcz",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/79",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Mylin",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/80",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Łężeczki",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.2/81",
+      "Rejestr gospodarstw rolnych i wymiaru podatku gruntowego gromada: Łężyce",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.3/82",
+      "[Rejestracja analfabetów]",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.3/83",
+      "[Kwestionariusze sprawozdawcze i organizacyjne kursów dla analfabetów]",
+      "1950",
+      "0"
+    ],
+    [
+      "92/60/0/3.4/84",
+      "Ewidencja i kontrola ruchu ludności",
+      "1945-1946",
+      "0"
+    ],
+    [
+      "92/60/0/3.4/85",
+      "Ewidencja i kontrola ruchu ludności",
+      "1947",
+      "0"
+    ],
+    [
+      "92/60/0/4.1/86",
+      "[Sprawy ustrojowe i organizacyjne]",
+      "1951",
+      "0"
+    ],
+    [
+      "92/60/0/4.1/87",
+      "[Sesje i zebrania]",
+      "1951-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.1/88",
+      "[Sprawozdania z działalności Gminnej Rady Narodowej i jej organów]",
+      "1951-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.1/89",
+      "Sprawy ewidencji i ruchu ludności",
+      "1951",
+      "0"
+    ],
+    [
+      "92/60/0/4.2/90",
+      "Rejestr wymiarowy podatku gruntowego",
+      "1951",
+      "0"
+    ],
+    [
+      "92/60/0/4.2/102",
+      "Budżet na rok 1951",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/91",
+      "Rejestracja analfabetów",
+      "1950-1951",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/92",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/93",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/94",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/95",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/96",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/97",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/98",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/99",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/100",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ],
+    [
+      "92/60/0/4.3/101",
+      "Protokoły Sesji Gminnej Rady Narodowej, Komsja Finansowo - Budżetowa, Gospodarki Drogowej, Oświaty i Kultury, Rolna, Urządzeń Osiedli, Zdrowia, Pracy, Pomocy Socjalnej, Posiedzenia prezydium Gminnej Rady Narodowej",
+      "1950-1954",
+      "0"
+    ]
+  ]
+]
