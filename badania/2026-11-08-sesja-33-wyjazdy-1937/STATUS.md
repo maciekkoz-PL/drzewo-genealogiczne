@@ -61,4 +61,6 @@ Następnie odnaleziono **15powiadomień do sesji jednego zadania GitHub**:14zako
 
 Excel zachowuje25arkuszy: **325rekordów źródeł,336kwerend,109kandydatów,595plików dowodowych i115wybranych odczytów**. S306pozostaje aliasemS041, aS320jest wpisem wS319, nie dodatkowym niezależnym świadectwem. Zapisano37zmian dawnych komórek w[rejestrze](ZMIANY_KOMOREK.json), kopię bazy sprzed etapu i kompletSHA. Rdzeń rodziny i potwierdzone relacje pozostają niezmienione.
 
-Publiczne drzewo wymaga tylko uzupełnienia notatek P31/C10 o nowe odpowiedzi, z jawnym rozdzieleniem C62odP31 i bez wpisania błędnegoDOB. Kronika pozostaje przeznaczona dla przełomów rodzinnych; nie dopisuje się do niej masowych negatywnych kwerend. [Dokładny plan kontynuacji](PLAN_KONTYNUACJI.md) · [lista zbadanych źródeł](ZBADANE_ZRODLA.md).
+Publiczne drzewo uzupełniono o odpowiedzi dotyczące P31/C10. Kandydatka C62 pozostaje odrębna od cioci Czesi; sprzeczna data z odpowiedzi dotyczącej C10 nie została przyjęta jako data urodzenia. Wersja 27 została opublikowana 13.11.2026 pod dotychczasowym adresem. Kontrola HTTP 200 potwierdziła zgodność opublikowanego HTML z plikiem w repozytorium. Testy widoku komputera i telefonu przeszły. Zachowano 70 osób, dotychczasowe relacje i 10 wpisów kroniki. Nie dodano nowego potwierdzonego pokrewieństwa ani wpisu o przełomie.
+
+[Metadane publikacji](PUBLIKACJA.json) · [testy drzewa](WALIDACJA_DRZEWA.json) · [dokładny plan kontynuacji](PLAN_KONTYNUACJI.md) · [lista zbadanych źródeł](ZBADANE_ZRODLA.md).

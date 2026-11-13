@@ -20,14 +20,24 @@
     "sha256": "796fd60c8eced82e5507b168958d2e10185e54202f8e7a603173d2799a4d24e3"
   },
   {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/PUBLIKACJA.json",
+    "bytes": 1435,
+    "sha256": "c1c4b0a76d53fa7b7d24c93b9eb0800ec92596383f1aa7b21afee56eb13c7f70"
+  },
+  {
     "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/STATUS.md",
-    "bytes": 10148,
-    "sha256": "a4e5c5c60a2727556fb4d1143051bb377072eb4b649238045d4d1bb002fbdca3"
+    "bytes": 10518,
+    "sha256": "ca177848904c3a0e8234b5ee456abc70f4265b748d98c9e880d627e456a45535"
   },
   {
     "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/WALIDACJA.json",
     "bytes": 767,
     "sha256": "594475bf61aaa4a9464ee06add45cc4098a20cd5c101ff5f533dfca25976ee46"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/WALIDACJA_DRZEWA.json",
+    "bytes": 361,
+    "sha256": "699c68428bcd01bb0637b88c7352961f13ee5a269cab6669b84f12f0378df0b1"
   },
   {
     "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/ZBADANE_ZRODLA.md",
@@ -63,6 +73,11 @@
     "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/przygotuj_uzupelnienia.py",
     "bytes": 6204,
     "sha256": "69b00138211423153ff4f1044444ea48db3fa75523c320d3e76f71d5c00e8399"
+  },
+  {
+    "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/sprawdz_notatki_drzewa.py",
+    "bytes": 2869,
+    "sha256": "b59d228aad04b2721159598c1cde5cfe84f8aecb861aabbc7b164c0ba4d66571"
   },
   {
     "path": "badania/2026-11-08-sesja-33-wyjazdy-1937/waliduj.py",

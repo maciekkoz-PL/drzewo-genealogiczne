@@ -1,0 +1,29 @@
+{
+  "project_id": "appgprj_6aeccd5dcec48191950b70bad04d3017",
+  "url": "https://korzenie-marysi.maciekkoz187874.chatgpt.site",
+  "status": "succeeded",
+  "version_id": "appgprj_6aeccd5dcec48191950b70bad04d3017~appgver_f5cf6a83640881919f4ba17f9853f416",
+  "version_number": 27,
+  "deployment_id": "appgdep_6af753601cd88191a3e2e519663c8394",
+  "source_commit_sha": "55027665f7ecb2c47e7f54b24f78604311e4ed9d",
+  "archive_storage": {
+    "archive_format": "tar",
+    "sediment_file_id": "file_000000001a60820aad33b8e1c1169c98",
+    "content_hash": "sha256:b38a58fa61dd51951a946d260bbe82b4b409e59a07f56cdd7eda64928e7ea491",
+    "size_bytes": 1126400,
+    "file_count": 4
+  },
+  "updated_at": "2026-11-13T18:14:06.160700+00:00",
+  "research_commit_sha": "434db8a",
+  "public_notes_commit_sha": "085d1faa97a435d116a4ac47c754dde2036fbb3f",
+  "people": 70,
+  "news": 10,
+  "new_confirmed_relationships": 0,
+  "http_status": 200,
+  "live_matches_local": true,
+  "html_sha256": "d45b1d0b6ddecf5106423e5f8bb390cf2960c3f169bb6b06e8453212fd157105",
+  "checked_at_utc": "2026-11-13T18:23:23.478930+00:00",
+  "local_archive_sha256": "d681b3ca5e954979a96c2ae14dcb414b7ffc39287b0ae6d51eb7cafab2e178c1",
+  "archive_contents_match_hosting_commit": true,
+  "archive_hash_note": "Pole archive_storage.content_hash jest wartością zwróconą przez hosting. SHA256 bajtów lokalnego archiwum zapisano osobno w local_archive_sha256; wartości są różne."
+}
