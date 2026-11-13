@@ -12,7 +12,7 @@
   {
     "path": "WALIDACJA.json",
     "bytes": 398,
-    "sha256": "3a8bb2f1a36eda4824d887c0a581a4ccd5394bf7381166dc88c1053a7dee1253"
+    "sha256": "02def9fcdc29dbb30f31069f3e1c5b9910b9f31ea246a68664c05d43d4a84d3e"
   },
   {
     "path": "waliduj_audyt.py",
@@ -103,6 +103,11 @@
     "path": "zrodla/powiadomienia_sesje_minimum.json",
     "bytes": 1556,
     "sha256": "c12567d53239d24867a3ced21dd09be064aff3531c3282f8169f29e60d053123"
+  },
+  {
+    "path": "zrodla/powiadomienia_sesje_wszystkie15.json",
+    "bytes": 7734,
+    "sha256": "61705dfd460cef060275fae9dbe85b8000fdfc0413cf5f36aaebed83e96d3fb3"
   },
   {
     "path": "zrodla/releases.json",
