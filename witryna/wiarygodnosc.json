@@ -981,10 +981,11 @@
       "role": "kandydat na dziadka",
       "dates": "zm. 16.01.1981",
       "place": "Łódź",
-      "note": "Wspólny grób z Witoldem",
+      "note": "Wspólny grób z Witoldem Odpowiedź administracji z 9.11.2026 podaje datę urodzenia sprzeczną z rokiem zgonu. Nie przyjęto jej ani nie ustalono jeszcze prawidłowej daty.",
       "source": [
         "S029",
-        "S122"
+        "S122",
+        "S322"
       ],
       "x": 560,
       "y": -260,
@@ -995,7 +996,7 @@
       "level": 3,
       "connectionLevel": 3,
       "classificationReason": "Kandydat ma wskazane źródło i kontekst, lecz brak dowodu połączenia z głównym drzewem.",
-      "missing": "Miejski rejestr potwierdza wspólny grób XXXVI-15-36, nie daty urodzenia ani relację. Potrzebny dodatkowy identyfikator rodziny; nie wystarcza współpochówek.",
+      "missing": "Miejski rejestr potwierdza wspólny grób XXXVI-15-36, nie daty urodzenia ani relację. Potrzebny dodatkowy identyfikator rodziny; nie wystarcza współpochówek. Potrzebne wyjaśnienie niespójnej odpowiedzi lub niezależny dokument właściwego pochówku.",
       "dataEvidence": "Daty i miejsca: zgodnie z odrębnym opisem źródeł w karcie",
       "locations": [
         {
@@ -1582,10 +1583,11 @@
       "role": "Ciocia Czesia · pokrewieństwo nieustalone",
       "dates": "Około 100 lat w 2026 r.†",
       "place": "Łódź — przekaz rodzinny",
-      "note": "Marysia pamięta spotkania z ciocią Czesią w Łodzi sprzed 2000 r. Z przekazu rodzinnego wiadomo też o jej synu mieszkającym w Niemczech. Według rodzinnej hipotezy Czesia mogła być żoną jednego z braci Czesława; Roman jest jednym z możliwych wariantów, bez potwierdzenia. Nazwisko rodowe i dokładne pokrewieństwo pozostają nieznane. †Wiek jest orientacyjnym wspomnieniem. Nie ustalono daty śmierci i nie utożsamiono jej z wpisem cmentarnym z 1999 r.",
+      "note": "Marysia pamięta spotkania z ciocią Czesią w Łodzi sprzed 2000 r. Z przekazu rodzinnego wiadomo też o jej synu mieszkającym w Niemczech. Według rodzinnej hipotezy Czesia mogła być żoną jednego z braci Czesława; Roman jest jednym z możliwych wariantów, bez potwierdzenia. Nazwisko rodowe i dokładne pokrewieństwo pozostają nieznane. †Wiek jest orientacyjnym wspomnieniem. Nie ustalono daty śmierci i nie utożsamiono jej z wpisem cmentarnym z 1999 r. Administracja Zarzewa podała daty osobnej kandydatki C62: 20.11.1922–03.10.1999. Nadal nie ustalono, czy to ciocia Czesia; te daty nie są przypisane do tej karty.",
       "source": [
         "REL-013",
-        "REL-014"
+        "REL-014",
+        "S323"
       ],
       "x": -800,
       "y": 280,
@@ -1596,7 +1598,7 @@
       "level": 2,
       "connectionLevel": 3,
       "classificationReason": "Osoba zapamiętana przez rodzinę; dokładne miejsce w gałęzi ojca pozostaje nieustalone.",
-      "dataEvidence": "Imię, nazwisko, Łódź, orientacyjny wiek i informacja o synu pochodzą ze wspomnienia rodziny.",
+      "dataEvidence": "Imię, nazwisko, Łódź, orientacyjny wiek i informacja o synu pochodzą ze wspomnienia rodziny. Daty C62 pochodzą z odpowiedzi administracji, ale jej tożsamość z ciocią pozostaje hipotezą.",
       "missing": "Nazwisko rodowe, daty oraz dokument lub jednoznaczny przekaz ustalający męża i dokładne pokrewieństwo.",
       "locations": [
         {
@@ -2886,6 +2888,16 @@
       "title": "Wyjazd Agnieszki z Chojen, nr 1947/1939, karta 86",
       "url": "https://photos.szukajwarchiwach.gov.pl/eab684755647743f6205556058602f4cd106a0e3edcef7f104e6b6484c62cf27_max",
       "description": "AP Łódź 39/225/0/4/2140, obraz89. Agnieszka Chmielewska,1kobieta,doŁodzi,Napiórkowskiego112;otrzymaniezgłoszenia29IX1939. ZgodnyzS274;bez wieku,rodowego i danychrodziny."
+    },
+    "S323": {
+      "title": "Daty odrębnej kandydatki C62 — odpowiedź administracji Zarzewa, 9.11.2026",
+      "url": "https://github.com/maciekkoz-PL/drzewo-genealogiczne/blob/main/badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/odpowiedzi_instytucji_wypisy.json",
+      "description": "Czesława z grobu XLV/1/19: 20.11.1922–03.10.1999. Brak innych danych w karcie. Nie potwierdzono tożsamości z ciocią Czesią P31 ani jej pokrewieństwa."
+    },
+    "S322": {
+      "title": "Odpowiedź Zarzewa o Czesławie — niezgodna chronologia daty",
+      "url": "https://github.com/maciekkoz-PL/drzewo-genealogiczne/blob/main/badania/2026-11-08-sesja-33-wyjazdy-1937/zrodla/odpowiedzi_instytucji_wypisy.json",
+      "description": "Administracja podała 18.02.1982 jako urodzenie przy pytaniu o zgon 16.01.1981. Daty nie przyjęto, roku nie poprawiono. Identyfikacja i dane Witolda pozostają otwarte."
     }
   },
   "relations": [

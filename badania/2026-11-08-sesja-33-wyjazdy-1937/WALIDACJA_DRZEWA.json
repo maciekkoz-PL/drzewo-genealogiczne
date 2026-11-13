@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "at_utc": "2026-11-13T18:09:19.001977+00:00",
+  "widths": [
+    1440,
+    390
+  ],
+  "people": 70,
+  "news": 10,
+  "relations_unchanged": true,
+  "all_other_people_unchanged": true,
+  "p31_dates_not_replaced_by_candidate": true,
+  "c10_invalid_birth_date_not_accepted": true,
+  "source_links_in_dialogs": true,
+  "javascript_errors": []
+}
