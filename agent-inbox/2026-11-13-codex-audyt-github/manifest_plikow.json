@@ -1,13 +1,18 @@
 [
   {
     "path": "RAPORT.md",
-    "bytes": 6241,
-    "sha256": "01bd098df97099d7e21e374ff6e450ba00723d3b95d4270e0bd97faa646c19d6"
+    "bytes": 6735,
+    "sha256": "16ed555717cd186a4a8eac1fe62f83a5fe9c7dcd1e8047f1e774ce8ef04052a1"
+  },
+  {
+    "path": "UZUPELNIENIE_SESJE_AGENTOW.md",
+    "bytes": 3092,
+    "sha256": "e05f7857889e4369f6ab0ddc01d6815097ff6378495565e651291fc97402fcc7"
   },
   {
     "path": "WALIDACJA.json",
     "bytes": 398,
-    "sha256": "47c812ebdea75dc20049a8735698b92b0ccbd1f15249954970428b4e43cb5ec6"
+    "sha256": "3a8bb2f1a36eda4824d887c0a581a4ccd5394bf7381166dc88c1053a7dee1253"
   },
   {
     "path": "waliduj_audyt.py",
@@ -95,6 +100,11 @@
     "sha256": "331856699af017af0fe1f5eb48ede55aedcd47fdb850bf3f31575f405af265fa"
   },
   {
+    "path": "zrodla/powiadomienia_sesje_minimum.json",
+    "bytes": 1556,
+    "sha256": "c12567d53239d24867a3ced21dd09be064aff3531c3282f8169f29e60d053123"
+  },
+  {
     "path": "zrodla/releases.json",
     "bytes": 9,
     "sha256": "93a632246f28a39eedc6577fda8be826f662ca408592e96b1b2b26b4256eea3d"
@@ -113,6 +123,11 @@
     "path": "zrodla/requests_attempt1.json",
     "bytes": 3556,
     "sha256": "f94817d594dd5b8520f453bb1961f472c9473a8f5908edb31bf2425508029763"
+  },
+  {
+    "path": "zrodla/task_session_authenticated_read.json",
+    "bytes": 285,
+    "sha256": "c9210e34c7b9881c1d461b55b6047aa8d5e97a5ba6d2307b9a3cbd88275227d9"
   },
   {
     "path": "zrodla/work_tree_semantic_diff.json",

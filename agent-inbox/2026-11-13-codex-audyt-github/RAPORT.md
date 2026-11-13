@@ -4,6 +4,8 @@
 
 **W dostępnych gałęziach i załącznikach nie odnaleziono oddzielnego raportu badawczego Claude Code ani nowych dowodów genealogicznych ponad stan etapu 32.** Znaleziono niepołączony z `main` PR nr 1 dotyczący organizacji pracy. Ten wynik dotyczy sprawdzonych zasobów GitHuba; nie rozstrzyga, co pozostało w niezapisanej rozmowie lub środowisku innego agenta.
 
+**Uzupełnienie po kontroli powiadomień:** odnaleziono dokładne linki do sesji GitHub o przeglądzie prac Claude i aktualizacji jego dziennika. To dodatkowe miejsce, którego treści nie obejmuje historia commitów. Odczyt strony sesji, także z autoryzacją istniejącego klienta GitHub, zwraca404; nie stwierdzamy zatem braku odkryć w tych sesjach. [Linki, dowody i ograniczenia](UZUPELNIENIE_SESJE_AGENTOW.md).
+
 ## Gałęzie i rzeczywiste zmiany
 
 | Gałąź | Commit w chwili audytu | Co zawiera ponad znany stan |
@@ -45,4 +47,4 @@ Nie ma nowego odkrycia do przeniesienia z tych gałęzi do Excela lub drzewa. Na
 
 Lokalny, niezatwierdzony jeszcze pakiet etapu 33 z przeglądu ksiąg i wybranych dokumentów Arolsen jest pracą tej sesji. Nie był obecny w sprawdzonym zdalnym repozytorium i nie przypisano go Claude Code. Jego odczyty wymagają osobnego utrwalenia wraz z własnym zakresem źródłowym.
 
-Jeżeli Claude Code rzeczywiście ustalił nowe relacje, potrzebny jest zapis z tamtej sesji lub wskazanie innego miejsca publikacji. Samo README o współpracy nie dowodzi wykonania badań. Kontynuację można oprzeć na już zabezpieczonych źródłach bez przypisywania nieodnalezionych odkryć rodzinie.
+Udało się wskazać dodatkowe miejsce: historię sesji zadania GitHub. Do oceny tamtejszych ustaleń potrzebna jest jej dostępna treść lub podsumowanie. Samo powiadomienie „session completed” ani README o współpracy nie dowodzą zapisania wyników w plikach. Kontynuację można oprzeć na już zabezpieczonych źródłach bez przypisywania nieodczytanych odkryć rodzinie.
