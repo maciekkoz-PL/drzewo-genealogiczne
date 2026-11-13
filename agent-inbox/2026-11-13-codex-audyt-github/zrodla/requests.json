@@ -1,0 +1,32 @@
+[
+  {
+    "name": "metadata",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne",
+    "at_utc": "2026-11-13T17:08:03.482091+00:00",
+    "returncode": 0
+  },
+  {
+    "name": "releases",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/releases?per_page=100",
+    "at_utc": "2026-11-13T17:08:04.127562+00:00",
+    "returncode": 0
+  },
+  {
+    "name": "artifacts",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/actions/artifacts?per_page=100",
+    "at_utc": "2026-11-13T17:08:04.490277+00:00",
+    "returncode": 0
+  },
+  {
+    "name": "commit_comments",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/comments?per_page=100",
+    "at_utc": "2026-11-13T17:08:05.016998+00:00",
+    "returncode": 0
+  },
+  {
+    "name": "events",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/events?per_page=100",
+    "at_utc": "2026-11-13T17:08:05.879940+00:00",
+    "returncode": 0
+  }
+]

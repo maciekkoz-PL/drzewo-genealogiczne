@@ -1,0 +1,122 @@
+[
+  {
+    "path": "RAPORT.md",
+    "bytes": 6241,
+    "sha256": "01bd098df97099d7e21e374ff6e450ba00723d3b95d4270e0bd97faa646c19d6"
+  },
+  {
+    "path": "WALIDACJA.json",
+    "bytes": 398,
+    "sha256": "47c812ebdea75dc20049a8735698b92b0ccbd1f15249954970428b4e43cb5ec6"
+  },
+  {
+    "path": "waliduj_audyt.py",
+    "bytes": 2853,
+    "sha256": "12efc832098ab010ad60be0c6a8f1352ef1284c0135f29b6cb6121e9e2f8e357"
+  },
+  {
+    "path": "zrodla/agent_mentions_in_live_blobs.json",
+    "bytes": 9326,
+    "sha256": "16f78eaf3ed9065f5eff3feb7c0f70f7e111472e50d0c03cff0db629e4de00c4"
+  },
+  {
+    "path": "zrodla/all_commits.tsv",
+    "bytes": 17417,
+    "sha256": "3175e2d50fa6867898f698b79821ec0e1df3a51968cc0ebddecb32ca67e3871a"
+  },
+  {
+    "path": "zrodla/all_history_files.tsv",
+    "bytes": 304006,
+    "sha256": "cf1760ff8716fa20fbcfb785393b7aebb1a484b40a9aed780c6c7f5b958b8fe1"
+  },
+  {
+    "path": "zrodla/artifacts.json",
+    "bytes": 54,
+    "sha256": "e37ba7ec8d5c087245f4b4c44bb380cfdec5a188e050a8c9d6ce003450b5443e"
+  },
+  {
+    "path": "zrodla/commit_comments.json",
+    "bytes": 9,
+    "sha256": "93a632246f28a39eedc6577fda8be826f662ca408592e96b1b2b26b4256eea3d"
+  },
+  {
+    "path": "zrodla/docs_branch_changed_files.tsv",
+    "bytes": 36,
+    "sha256": "80a1e8faf0a44b1a00210703a9e5a06235a52314c1c8ef352c8c6fc57b010756"
+  },
+  {
+    "path": "zrodla/event_commit_refs.json",
+    "bytes": 4165,
+    "sha256": "36e7b84d987a44f995d1cdc14ec1037827235b1d80e5ebfc3a55a510e8dcf2dc"
+  },
+  {
+    "path": "zrodla/events.json",
+    "bytes": 74821,
+    "sha256": "610d27883e6e7da5843d6b0e55f0bb1d0bf15853e6ca24fe9aead311983da036"
+  },
+  {
+    "path": "zrodla/github_branches.json",
+    "bytes": 296,
+    "sha256": "f872a9932275211ffcb4141829f52a5829151c501e6343a66c4afe25278532fd"
+  },
+  {
+    "path": "zrodla/github_branches_end.json",
+    "bytes": 39,
+    "sha256": "bf3a45db8b072ebf87e747740ff6a85707294ba00c0e9ddcb76eaf6011998baf"
+  },
+  {
+    "path": "zrodla/github_issues.json",
+    "bytes": 19,
+    "sha256": "8783ac5790c938aa7ea683df5f7b30e6f1faa364fd145dbe8ab26985d07a6bfc"
+  },
+  {
+    "path": "zrodla/github_pr1_comments.json",
+    "bytes": 317,
+    "sha256": "0170cfd526948f89ce1b1f40814cbcadb4a3e93d8f51295a5eda4cd30292b11a"
+  },
+  {
+    "path": "zrodla/github_pr1_files.json",
+    "bytes": 70,
+    "sha256": "2551850d3e013c17d5f66ec0b4dbef0df911592e27f3bbfaf5a6361f13cb32cb"
+  },
+  {
+    "path": "zrodla/github_pr1_timeline.json",
+    "bytes": 307,
+    "sha256": "8c2d24180306ba233d797d405ccccf31ebbb776165c7b92269629dfe87409296"
+  },
+  {
+    "path": "zrodla/github_prs.json",
+    "bytes": 1579,
+    "sha256": "f41a43a9d7aa2c31dbe0b1c827f5681582c78f884aab31d93f164a729b61b0fc"
+  },
+  {
+    "path": "zrodla/inventory_all_branches.json",
+    "bytes": 3392728,
+    "sha256": "331856699af017af0fe1f5eb48ede55aedcd47fdb850bf3f31575f405af265fa"
+  },
+  {
+    "path": "zrodla/releases.json",
+    "bytes": 9,
+    "sha256": "93a632246f28a39eedc6577fda8be826f662ca408592e96b1b2b26b4256eea3d"
+  },
+  {
+    "path": "zrodla/repository_metadata.json",
+    "bytes": 333,
+    "sha256": "ad152d1e445f9fb14d72084b1bc5a27a64dd9fa1fbaba87e753cda7234626fcd"
+  },
+  {
+    "path": "zrodla/requests.json",
+    "bytes": 1004,
+    "sha256": "498b09fc9dee9085310229e84e26fd61d20e2ff9c677a4378bc6db23d6a6e4ff"
+  },
+  {
+    "path": "zrodla/requests_attempt1.json",
+    "bytes": 3556,
+    "sha256": "f94817d594dd5b8520f453bb1961f472c9473a8f5908edb31bf2425508029763"
+  },
+  {
+    "path": "zrodla/work_tree_semantic_diff.json",
+    "bytes": 13684,
+    "sha256": "dac4feec365130642480585b0be370b7f82ffe8ad85b178146184fdc211b5687"
+  }
+]

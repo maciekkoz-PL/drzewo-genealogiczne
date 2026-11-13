@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checked_at_utc": "2026-11-13T17:14:10.600836+00:00",
+  "branches": 5,
+  "commits": 120,
+  "paths": 3627,
+  "pr1_changed_files": [
+    "README.md",
+    "agent-inbox/README.md"
+  ],
+  "discovery_reports_in_existing_inbox": 0,
+  "family_changes_from_audit": 0,
+  "releases": 0,
+  "artifacts": 0,
+  "commit_comments": 0,
+  "events": 87,
+  "event_commit_refs_all_available": 86
+}

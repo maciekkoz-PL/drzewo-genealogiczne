@@ -1,0 +1,36 @@
+[
+  {
+    "name": "metadata",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne",
+    "at_utc": "2026-11-13T17:07:52.011032+00:00",
+    "returncode": 0
+  },
+  {
+    "name": "releases",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/releases?per_page=100",
+    "at_utc": "2026-11-13T17:07:52.103184+00:00",
+    "returncode": 1,
+    "error": "unknown flag: --slurp\n\nUsage:  gh api <endpoint> [flags]\n\nFlags:\n      --cache duration        Cache the response, e.g. \"3600s\", \"60m\", \"1h\"\n  -F, --field key=value       Add a typed parameter in key=value format\n  -H, --header key:value      Add a HTTP request header in key:value format\n      --hostname string       The GitHub hostname for the request (default \"github.com\")\n  -i, --include               Include HTTP response status line and headers in the output\n      --input file            The file to use as body for the HTTP request (use \"-\" to read from standard input)\n  -q, --jq string  "
+  },
+  {
+    "name": "artifacts",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/actions/artifacts?per_page=100",
+    "at_utc": "2026-11-13T17:07:52.177149+00:00",
+    "returncode": 1,
+    "error": "unknown flag: --slurp\n\nUsage:  gh api <endpoint> [flags]\n\nFlags:\n      --cache duration        Cache the response, e.g. \"3600s\", \"60m\", \"1h\"\n  -F, --field key=value       Add a typed parameter in key=value format\n  -H, --header key:value      Add a HTTP request header in key:value format\n      --hostname string       The GitHub hostname for the request (default \"github.com\")\n  -i, --include               Include HTTP response status line and headers in the output\n      --input file            The file to use as body for the HTTP request (use \"-\" to read from standard input)\n  -q, --jq string  "
+  },
+  {
+    "name": "commit_comments",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/comments?per_page=100",
+    "at_utc": "2026-11-13T17:07:52.254822+00:00",
+    "returncode": 1,
+    "error": "unknown flag: --slurp\n\nUsage:  gh api <endpoint> [flags]\n\nFlags:\n      --cache duration        Cache the response, e.g. \"3600s\", \"60m\", \"1h\"\n  -F, --field key=value       Add a typed parameter in key=value format\n  -H, --header key:value      Add a HTTP request header in key:value format\n      --hostname string       The GitHub hostname for the request (default \"github.com\")\n  -i, --include               Include HTTP response status line and headers in the output\n      --input file            The file to use as body for the HTTP request (use \"-\" to read from standard input)\n  -q, --jq string  "
+  },
+  {
+    "name": "events",
+    "url": "https://api.github.com/repos/maciekkoz-PL/drzewo-genealogiczne/events?per_page=100",
+    "at_utc": "2026-11-13T17:07:52.326112+00:00",
+    "returncode": 1,
+    "error": "unknown flag: --slurp\n\nUsage:  gh api <endpoint> [flags]\n\nFlags:\n      --cache duration        Cache the response, e.g. \"3600s\", \"60m\", \"1h\"\n  -F, --field key=value       Add a typed parameter in key=value format\n  -H, --header key:value      Add a HTTP request header in key:value format\n      --hostname string       The GitHub hostname for the request (default \"github.com\")\n  -i, --include               Include HTTP response status line and headers in the output\n      --input file            The file to use as body for the HTTP request (use \"-\" to read from standard input)\n  -q, --jq string  "
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "branches": [
+    {
+      "branch": "copilot/help-with-project"
+    },
+    {
+      "branch": "docs/agent-handoff-2026-11-13"
+    },
+    {
+      "branch": "main"
+    },
+    {
+      "branch": "proposal/agent-handoff-2026-11-13"
+    },
+    {
+      "branch": "work"
+    }
+  ],
+  "cursor": "NQ"
+}

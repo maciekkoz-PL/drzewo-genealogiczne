@@ -1,0 +1,724 @@
+[
+  {
+    "id": "P05",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [
+      {
+        "label": "Rachanie",
+        "when": "1905",
+        "context": "Miejsce urodzenia i zamieszkania Wincentego w akcie ślubu 73/1905.",
+        "source": "S072",
+        "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+      },
+      {
+        "label": "Rogoźno, parafia Tomaszów Lubelski",
+        "when": "1909; 1919",
+        "context": "Miejsce zamieszkania ojca wskazane w aktach urodzenia synów Czesława i Romana.",
+        "source": "S071",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Rachanie",
+        "query": "Rachanie, powiat tomaszowski, lubelskie, Polska"
+      },
+      {
+        "label": "Rogoźno",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P06",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [
+      {
+        "label": "Rogoźno, parafia Tomaszów Lubelski",
+        "when": "1905",
+        "context": "Miejsce urodzenia i zamieszkania Agnieszki w akcie ślubu 73/1905.",
+        "source": "S072",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Rogoźno",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P07",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [
+      {
+        "label": "Socha, parafia Warta",
+        "when": "1910",
+        "context": "Miejsce zamieszkania Józefa w akcie urodzenia Janiny 112/1910. Zapis w odczycie: „w Sochach”.",
+        "source": "S063",
+        "query": "Socha, gmina Warta, łódzkie, Polska"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Socha",
+        "query": "Socha, gmina Warta, łódzkie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P08",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Socha",
+        "query": "Socha, gmina Warta, łódzkie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P12",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Rogoźno",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P03",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [
+      {
+        "label": "Łódź, ul. Stocka 12",
+        "when": "03.05.1936",
+        "context": "Adres obojga małżonków w akcie ślubu 110/1936. Potwierdzony dla 1936 r.; nie ustala ich adresu w 1943 r.",
+        "source": "S001",
+        "query": "Stocka 12, Łódź, Polska"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Rogoźno",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      },
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P04",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [
+      {
+        "label": "Łódź, ul. Stocka 12",
+        "when": "03.05.1936",
+        "context": "Adres obojga małżonków w akcie ślubu 110/1936. Potwierdzony dla 1936 r.; nie ustala ich adresu w 1943 r.",
+        "source": "S001",
+        "query": "Stocka 12, Łódź, Polska"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Socha",
+        "query": "Socha, gmina Warta, łódzkie, Polska"
+      },
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P11",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "P02",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P17",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P10",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "P09",
+    "fields": [
+      "locations",
+      "addresses",
+      "place"
+    ],
+    "addresses": [
+      {
+        "label": "Stara Gadka · cmentarz",
+        "when": "miejsce wskazane przez rodzinę",
+        "context": "Lokalizacja grobu i współrzędne z przekazu zachowanego przy fotografiach. Nie jest adresem zamieszkania; nie wykonano niezależnego pomiaru.",
+        "source": "S027",
+        "query": "51.67956,19.47182"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Stara Gadka · miejsce pochówku",
+        "query": "51.67956,19.47182"
+      }
+    ]
+  },
+  {
+    "id": "P01",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "C42",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [
+      {
+        "label": "Łódź, ul. Napiórkowskiego 112",
+        "when": "03.02.1940",
+        "context": "Miejsce zgonu ośmiodniowego Czesława w akcie 66/1940. Nie stanowi potwierdzenia adresu rodziców Bogusława.",
+        "source": "S126",
+        "query": "Napiórkowskiego 112, Łódź, Polska"
+      }
+    ],
+    "locations": [
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P18",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P19",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P27",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Rogoźno",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P26",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Rogoźno",
+        "query": "Rogoźno, gmina Tomaszów Lubelski, lubelskie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C25",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Socha",
+        "query": "Socha, gmina Warta, łódzkie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C26",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Włyń",
+        "query": "Włyń, gmina Warta, łódzkie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C11",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Łódź · Zarzew",
+        "query": "Zarzew, Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P20",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "P21",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "P22",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "P23",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "P24",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "P25",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C45",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": []
+  },
+  {
+    "id": "C05",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Tomaszów Lubelski",
+        "query": "Tomaszów Lubelski, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C06",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C10",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C19",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C27",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      },
+      {
+        "label": "Stołpce (Stolpce)",
+        "query": "Stołpce, Białoruś"
+      }
+    ]
+  },
+  {
+    "id": "C28",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Caßdorf",
+        "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
+      },
+      {
+        "label": "Fritzlar",
+        "query": "Fritzlar, Hessen, Deutschland"
+      }
+    ]
+  },
+  {
+    "id": "C29",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Łódź",
+        "query": "Łódź, Polska"
+      },
+      {
+        "label": "Caßdorf",
+        "query": "Caßdorf, Homberg (Efze), Hessen, Deutschland"
+      },
+      {
+        "label": "Fritzlar",
+        "query": "Fritzlar, Hessen, Deutschland"
+      }
+    ]
+  },
+  {
+    "id": "C46",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C47",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C48",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      },
+      {
+        "label": "Prusocin",
+        "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C49",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      },
+      {
+        "label": "Prusocin",
+        "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C50",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C51",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C52",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C53",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C54",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C55",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C56",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      }
+    ]
+  },
+  {
+    "id": "C57",
+    "fields": [
+      "locations",
+      "addresses"
+    ],
+    "addresses": [],
+    "locations": [
+      {
+        "label": "Strzegowo",
+        "query": "Strzegowo, powiat mławski, mazowieckie, Polska"
+      },
+      {
+        "label": "Prusocin",
+        "query": "Prusocin, gmina Strzegowo, mazowieckie, Polska"
+      }
+    ]
+  }
+]
