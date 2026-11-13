@@ -1,0 +1,47 @@
+[
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/KWERENDY.md",
+    "bytes": 1612,
+    "sha256": "8e0f80df82e1a589e1e79c42df7860e4e42949a630be09028d1ce834536d7277"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/STATUS.md",
+    "bytes": 3610,
+    "sha256": "ca9913c8d83d0e99ce54129a6256aa4fe8d7a9d51a2929c7d9a9a9194fc96fe0"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/WALIDACJA.json",
+    "bytes": 205,
+    "sha256": "5fabee3270fca9b6480412dc03199293ec24ef57022561a40d302835e0ddfc03"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/baza_przed_etapem34.xlsx",
+    "bytes": 385277,
+    "sha256": "e75e22784b95168f7df57dcf456095c37d19de4cd59b332a551087c348669320"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/zrodla/MSW_2015_14_lex.md",
+    "bytes": 57353,
+    "sha256": "fa869e4467f9dc2673dc472fff28870af4719cab030b25d69fed67ce1bfe32f9"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/zrodla/MSW_2015_14_urzedowy_odczyt.md",
+    "bytes": 88357,
+    "sha256": "ccf69402564050751c9909831ceec863cbbed1bf1e0af0d3a3cb77f9c53444c1"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/zrodla/msw_alternatywny_endpoint.json",
+    "bytes": 138,
+    "sha256": "b56d5a60d096c5aed487721dac3f60ebd90bfb87ff179ee42ee9879e8443a026"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/zrodla/msw_dostep.json",
+    "bytes": 166,
+    "sha256": "55a2ae313d4e458052d47a5d438cbbc3c6714468c471c82665c390aa2279d933"
+  },
+  {
+    "path": "badania/2026-11-13-sesja-34-piotr/zrodla/wyniki_narzedzi.json",
+    "bytes": 10774,
+    "sha256": "57bc282a65b4d9ffc9b8c2783e843ac7f4876a1aa960054bce05a05946079263"
+  }
+]

@@ -1,5 +1,7 @@
 # Plan po etapie33 — stan13XI2026
 
+**Uzupełnienie etapu34:** S238/MSW2015poz14 jest już odczytane od etapu32 (poz.748, Piotr syn Józefa). Nie wracać do dawnego oznaczenia „nieodczytane” w etapie20. Nie ustalono jego tożsamości z P10/C19. [Kontrola, wykonane kwerendy i dalszy plan](../2026-11-13-sesja-34-piotr/STATUS.md).
+
 1. **Priorytet pozostaje ten sam:** BogusławP02, jego bratP11, PiotrP10i TomaszP09. P11może być bratem przyrodnim; nie należy zakładać tej samej matki. Nie ustalono imienia, żony, wieku lub zawoduP11. Piotr-policjantC19nie jest jeszcze rozpoznanym kuzynem. Tomasz ma zREL018zgon26IV2001i30lat, bez metrykalnegoDOBi matki.
 2. **S086jest już odczytany:** rodzice Bogusława to CzesławChmielewski iJaninaPoprawka. H017dotyczy dodatkowej identyfikacji z datami1909/1910i ślubem1936; nie pytać ponownie o imiona rodziców ani dane znanego ślubu. Rodzinny dokument urodzenia/zgonu może domknąć dodatkowe identyfikatory. Szkice już istnieją; nie składać wniosków ani nie wysyłać bez osobnego polecenia.
 3. **ZarzewC10/C11:** odczytano odpowiedź9XI2026(S322). Podane18II1982jako urodzenie jest sprzeczne ze zgonem1981z pytania. Nie wolno zamieniać1982na1882ani zamykaćH005bez wyjaśnienia właściwego rekordu. Nie uzyskano danychWitolda. Przy nowym dokumencie sprawdzić najpierw numer grobu, własneDOBi rodziców każdej osoby. Nie ponawiać M10/M11lub innych maili automatycznie.

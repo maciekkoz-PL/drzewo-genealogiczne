@@ -1,5 +1,7 @@
 # P11 — brat Bogusława, ojciec Piotra
 
+**Korekta aktualności, 13.11.2026:** S238 został później odczytany w etapie32: poz.748, Piotr syn Józefa. Nie identyfikuje P10/C19 ani P11. Poniższe informacje o braku odczytu opisują stan etapu20. [Bieżąca kontrola i plan](../2026-11-13-sesja-34-piotr/STATUS.md).
+
 7 listopada 2026. **Imię wuja nadal nieustalone.** To brat ojca Marysi, nie brat jej dziadka. Rodzeństwo Czesława i Australia są obecnie wstrzymane na rzecz tego zadania.
 
 | Osoba / połączenie | Co rzeczywiście wiadomo | Podstawa i granica |
