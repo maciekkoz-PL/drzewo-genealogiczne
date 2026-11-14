@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "at_utc": "2026-11-14T09:10:36.143265+00:00",
+  "sheets_retained": 25,
+  "previous_cell_changes_logged": [
+    [
+      "HIPOTEZY_OTWARTE",
+      "D2"
+    ],
+    [
+      "HIPOTEZY_OTWARTE",
+      "D14"
+    ]
+  ],
+  "all_other_old_cells_identical": true,
+  "all_family_relationship_sheets_unchanged": true,
+  "new_source_ids": [
+    "S328",
+    "S329",
+    "S330"
+  ],
+  "new_log_ids": [
+    "L342",
+    "L343",
+    "L344",
+    "L345"
+  ],
+  "original_images_verified": 6,
+  "original_html_verified": 3,
+  "new_confirmed_family_relationships": 0,
+  "new_tree_people": 0
+}

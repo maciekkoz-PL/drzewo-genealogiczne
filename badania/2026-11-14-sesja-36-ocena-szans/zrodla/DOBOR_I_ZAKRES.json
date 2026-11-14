@@ -1,0 +1,92 @@
+{
+  "at_utc": "2026-11-14T09:06:31.080510+00:00",
+  "index_source": "S313",
+  "index_path": "badania/2026-11-08-sesja-32-cztery-osoby/zrodla/arolsen/all_pages.json",
+  "index_sha256": "239fdebb57fb07d10f3ec1f3fb583cf74300fb084b556ce6e55521c24a69f604",
+  "total_index_rows": 4773,
+  "criterion": "Oryginalne dokumenty dzieci z możliwego pokolenia rodzeństwa: wykaz zawierający urodzenie w Łodzi oraz dwie karty osobowe1935/1937z pustymi polami rodziców w indeksie.",
+  "limit_documents": 3,
+  "selected": [
+    {
+      "ObjId": 82491868,
+      "FirstName": "Czeslawa",
+      "LastName": "CHMIELEWSKA",
+      "Dob": "05/30/1932",
+      "PlaceBirth": "",
+      "Father": "",
+      "Mother": "",
+      "Signature": "6.3.1.2 - Search lists"
+    },
+    {
+      "ObjId": 82491868,
+      "FirstName": "Krystyna",
+      "LastName": "CHMIELEWSKA",
+      "Dob": "08/05/1928",
+      "PlaceBirth": "",
+      "Father": "",
+      "Mother": "",
+      "Signature": "6.3.1.2 - Search lists"
+    },
+    {
+      "ObjId": 82491868,
+      "FirstName": "Zdzislawa",
+      "LastName": "CHMIELEWSKA",
+      "Dob": "05/01/1931",
+      "PlaceBirth": "Lodz",
+      "Father": "",
+      "Mother": "",
+      "Signature": "6.3.1.2 - Search lists"
+    },
+    {
+      "ObjId": 66782345,
+      "FirstName": "Jadensz",
+      "LastName": "CHMIELEWSKI",
+      "Dob": "04/18/1935",
+      "PlaceBirth": "",
+      "Father": "",
+      "Mother": "",
+      "Signature": "3.1.1.1 - Names in \"phonetical\" order from C"
+    },
+    {
+      "ObjId": 66782464,
+      "FirstName": "Zenon",
+      "LastName": "CHMIELEWSKI",
+      "Dob": "08/05/1937",
+      "PlaceBirth": "",
+      "Father": "",
+      "Mother": "",
+      "Signature": "3.1.1.1 - Names in \"phonetical\" order from C"
+    },
+    {
+      "ObjId": 82491868,
+      "FirstName": "Piotr",
+      "LastName": "CHMIELEWSKI",
+      "Dob": "06/25/1929",
+      "PlaceBirth": "",
+      "Father": "",
+      "Mother": "",
+      "Signature": "6.3.1.2 - Search lists"
+    },
+    {
+      "ObjId": 82491868,
+      "FirstName": "Ryszard Longin",
+      "LastName": "CHMIELEWSKI",
+      "Dob": "11/09/1940",
+      "PlaceBirth": "",
+      "Father": "",
+      "Mother": "",
+      "Signature": "6.3.1.2 - Search lists"
+    },
+    {
+      "ObjId": 82491868,
+      "FirstName": "Stanislawa Kazimiera",
+      "LastName": "CHMIELEWSKI",
+      "Dob": "11/17/1944",
+      "PlaceBirth": "",
+      "Father": "",
+      "Mother": "",
+      "Signature": "6.3.1.2 - Search lists"
+    }
+  ],
+  "boundaries": "Nazwisko i pokolenie służą selekcji, nie identyfikacji. Nie ponawiano pełnego pobrania indeksu; 64rekordy nazwisk kończących sięCHMIELEWSKI z lat1930–1942 nie oznaczają64mężczyzn ani64osób. Nie odczytano wszystkich tych dokumentów."
+}

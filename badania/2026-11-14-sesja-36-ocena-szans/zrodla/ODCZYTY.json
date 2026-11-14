@@ -1,0 +1,94 @@
+{
+  "at_utc": "2026-11-14T09:06:31.080510+00:00",
+  "readings": [
+    {
+      "source": "S328",
+      "docid": 82491868,
+      "url": "https://collections.arolsen-archives.org/en/document/82491868",
+      "date": "1948-08-09",
+      "signature": "6.3.1.2;S.L.No.1003C",
+      "scope": "2obrazy; nagłówek strony1 i pozycje20–25strony2. Inne pozycje nie są pełną transkrypcją.",
+      "rows": [
+        {
+          "entry": 20,
+          "name": "Czesława Chmielewska",
+          "dob": "1932-05-30",
+          "father": null,
+          "mother": "Julianna Chmielowska"
+        },
+        {
+          "entry": 21,
+          "name": "Krystyna Chmielewska",
+          "dob": "1928-08-05",
+          "father": "Feliks Chmielewski",
+          "mother": "Genowefa Chmielewska"
+        },
+        {
+          "entry": 22,
+          "name": "Zdzisława Chmielewska",
+          "dob": "1931-05-01",
+          "birthplace": "Łódź",
+          "father": "Jan Chmielowski",
+          "mother": "Natalia Chmielowska"
+        },
+        {
+          "entry": 23,
+          "name": "Piotr Chmielewski",
+          "dob": "1929-06-25",
+          "father": null,
+          "mother": "Czesława Chmielewska"
+        },
+        {
+          "entry": 24,
+          "name": "Ryszard (Longin) Chmielewski",
+          "dob": "1940-11-09",
+          "father": "Longin, nazwisko niepewne",
+          "mother": "Irena Chmielewska"
+        },
+        {
+          "entry": 25,
+          "name": "Stanisława Kazimiera Chmielewski [forma w dokumencie]",
+          "dob": "1944-11-17",
+          "father": null,
+          "mother": "Zofia Chmielewska"
+        }
+      ],
+      "conclusion": "Żaden odczytany wiersz nie wskazuje pary Czesław/Janina. To różne rodziny, nie jedna grupa rodzeństwa. Piotr1929nie jest P10urodzonym około1971. Brak ojca w części wierszy nie wyklucza rodzeństwa przyrodniego i nie dowodzi, że ojcem był Czesław."
+    },
+    {
+      "source": "S329",
+      "docid": 66782464,
+      "url": "https://collections.arolsen-archives.org/en/document/66782464",
+      "signature": "3.1.1.1",
+      "scope": "Przód i tył karty,2obrazy; odczyt danych rodzinnych i identyfikacyjnych.",
+      "name": "Zenon Chmielewski",
+      "dob": "1937-08-05",
+      "birthplace_literal": "KUSNICA / POZNAN / POLSKA",
+      "father": "Adam Chmielewski",
+      "mother_maiden": "Maria Przybyłowicz",
+      "registration_date": "1945-10-12",
+      "remarks_family": [
+        "Adam — ojciec",
+        "Maria — matka",
+        "Krystyna — siostra"
+      ],
+      "conclusion": "Oboje rodzice mają inne imiona niż Czesław iJanina. Karta nie wspiera identyfikacji jako ich syna lub biologicznego brata Bogusława według znanych danych. Nie rozbudowywano tej rodziny."
+    },
+    {
+      "source": "S330",
+      "docid": 66782345,
+      "url": "https://collections.arolsen-archives.org/en/document/66782345",
+      "signature": "3.1.1.1",
+      "scope": "Przód i tył karty,2obrazy; odczyt danych rodzinnych i identyfikacyjnych.",
+      "name": "Tadeusz Chmielewski [w indeksie Jadensz]",
+      "dob": "1935-04-18",
+      "birthplace_literal": "Opoczno — Łódź — Polska",
+      "father": "Władysław Chmielewski",
+      "mother_maiden": "Kazimiera Chmiel",
+      "registration_date": "1945-06-25",
+      "repatriation_stamp": "Back to Poland on29.X.1945",
+      "conclusion": "Oboje rodzice mają inne imiona niż Czesław iJanina. Karta nie wspiera identyfikacji jako ich syna lub biologicznego brata Bogusława według znanych danych. Nie rozbudowywano tej rodziny."
+    }
+  ],
+  "new_confirmed_family_relationships": 0
+}

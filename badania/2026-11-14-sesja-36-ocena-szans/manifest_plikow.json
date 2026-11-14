@@ -1,0 +1,42 @@
+[
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/STATUS.md",
+    "bytes": 6477,
+    "sha256": "62a11d841f7493b381328dee0ce666da1a5d4eca5813d3d34d10d937352b2d9a"
+  },
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/WALIDACJA.json",
+    "bytes": 592,
+    "sha256": "8c4f459431078042d172d6a2eb79b68c1e4693da453a03aee05490413243fe68"
+  },
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/ZMIANY_KOMOREK.json",
+    "bytes": 1345,
+    "sha256": "8876d2c0a047638bb1258034f7b5f97b59232c82eafb5768a170804ebaea4912"
+  },
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/baza_przed_etapem36.xlsx",
+    "bytes": 388786,
+    "sha256": "302d42767b79d01885eb3c0e69c57aed96fa77159164e014bcdb80e99c05f978"
+  },
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/zrodla/DOBOR_I_ZAKRES.json",
+    "bytes": 2741,
+    "sha256": "bc5b1fc93bebfb572f627077f96775ff8d4257b2bc1a67495caef10cd6c16c24"
+  },
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/zrodla/DOSTEP.json",
+    "bytes": 619,
+    "sha256": "6943cbac6b38f5e44e30d8d6fb160bfa2ca6771153fc848ac394f90ce4067919"
+  },
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/zrodla/ODCZYTY.json",
+    "bytes": 3629,
+    "sha256": "139a8acfca9ea3ed48da2716cc5f23bd4b6f9aeb5f50d6906581393e670f6c5f"
+  },
+  {
+    "path": "badania/2026-11-14-sesja-36-ocena-szans/zrodla/manifest_lokalnych_oryginalow.json",
+    "bytes": 3569,
+    "sha256": "a0777b8d9a7157e1b52e82d3107fd972cf32fc39563f8e3c64583fdc4cbe7d34"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "at_utc": "2026-11-14T09:06:31.080510+00:00",
+  "documents": [
+    82491868,
+    66782464,
+    66782345
+  ],
+  "documents_read": 3,
+  "images_read": 6,
+  "external_search_engine_queries": 0,
+  "archive_messages_sent": 0,
+  "archive_payments": 0,
+  "access_notes": "66782345: pierwszyGET503; jedno ponowienie z nagłówkiem przeglądarki200i2obrazy. Błąd503 nie był wynikiem negatywnym.",
+  "mail_query": "after:2026/11/12 (Chmielewski OR Chmielewska OR Zarzew OR \"Stara Gadka\" OR genealogiczne)",
+  "mail_returned": 0,
+  "mail_boundary": "Wynik wyłącznie tego zapytania; nie twierdzenie o całej poczcie."
+}

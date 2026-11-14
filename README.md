@@ -1,3 +1,5 @@
+**Etap 36 — 14.11.2026:** sprawdzono trzy dokumenty Arolsen (sześć obrazów) z danymi rodziców dzieci, bez nowego połączenia rodzinnego. Rekomendacja po ocenie kosztów: przerwa w szerokich kwerendach nazwisk do nowego identyfikatora; pierwszeństwo odpisu zupełnego urodzenia Bogusława. [Odczyty, granice dowodów i plan](badania/2026-11-14-sesja-36-ocena-szans/STATUS.md).
+
 **Etap35,13.11.2026:** odczytano pełny inwentarz102jednostek Chrzypska, ustalono sygnatury ewidencji1945–46/1947/1951;0skanów. Bez nowego pokrewieństwa. [Raport, źródła i plan](badania/2026-11-13-sesja-35-Chrzypsko/STATUS.md).
 
 **Etap 34, 13.11.2026:** dalsze kwerendy Piotra, brata Bogusława i Tomasza bez nowego powiązania. S238 był już odczytany w etapie32; usunięto nieaktualną wskazówkę z dawnej teczki. Excel: L337–L338, wcześniejsze komórki zachowane. [Raport, źródła i plan kontynuacji](badania/2026-11-13-sesja-34-piotr/STATUS.md).

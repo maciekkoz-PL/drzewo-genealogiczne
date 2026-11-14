@@ -1,0 +1,78 @@
+{
+  "at_utc": "2026-11-14T09:06:31.080510+00:00",
+  "files": [
+    {
+      "docid": 66782345,
+      "local_path": "work/s36/oryginaly/66782345.html",
+      "url": "https://collections.arolsen-archives.org/en/document/66782345",
+      "bytes": 102356,
+      "sha256": "8343c2b4a46fa31b976f278c1ba3813f32e2d9dc620858aa1f8448b9d1e3bc8c",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 66782345,
+      "local_path": "work/s36/oryginaly/66782345_01.jpg",
+      "url": "https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0407/2831277/001.jpg",
+      "bytes": 79636,
+      "sha256": "f6aeac87ef76d91f0241be7fb1bf9e55a10eb7905aa81bf84e5b041e8672cf09",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 66782345,
+      "local_path": "work/s36/oryginaly/66782345_02.jpg",
+      "url": "https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0407/2831277/002.jpg",
+      "bytes": 58871,
+      "sha256": "a89f5b66166420dc07384f2c351f9ed1099b0a168aeff08fcf21cac7beff0b02",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 66782464,
+      "local_path": "work/s36/oryginaly/66782464.html",
+      "url": "https://collections.arolsen-archives.org/en/document/66782464",
+      "bytes": 102352,
+      "sha256": "676e5378a0e6f49794b7e5c95bf1dc9fae3a2d2227138d42942548329b0c24a4",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 66782464,
+      "local_path": "work/s36/oryginaly/66782464_01.jpg",
+      "url": "https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0407/2831396/001.jpg",
+      "bytes": 77244,
+      "sha256": "5b6a9030067dece4f16c03251e786eee611396c7031a569c0d49435b702e5156",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 66782464,
+      "local_path": "work/s36/oryginaly/66782464_02.jpg",
+      "url": "https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0407/2831396/002.jpg",
+      "bytes": 51799,
+      "sha256": "c6b07993aa6a6096c1a8e7981a398a58aeb2dbae34ea45ec81365df389926759",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 82491868,
+      "local_path": "work/s36/oryginaly/82491868.html",
+      "url": "https://collections.arolsen-archives.org/en/document/82491868",
+      "bytes": 101594,
+      "sha256": "ba1ec2d8a21b29b7fe494cc9930fc8a47f140a37316ac9c2e77fdd0b026c1af1",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 82491868,
+      "local_path": "work/s36/oryginaly/82491868_01.jpg",
+      "url": "https://collections-server.arolsen-archives.org/H/Child%20Tracing%20Branch%20General%20Documents/General%20Documents/06030102/aa/aa/cm/001.jpg",
+      "bytes": 267478,
+      "sha256": "10f4cd4976348affbffb404ad9277b71c72c09a755a734945973f94dad9ac38c",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    },
+    {
+      "docid": 82491868,
+      "local_path": "work/s36/oryginaly/82491868_02.jpg",
+      "url": "https://collections-server.arolsen-archives.org/H/Child%20Tracing%20Branch%20General%20Documents/General%20Documents/06030102/aa/aa/cm/002.jpg",
+      "bytes": 297910,
+      "sha256": "40f9599dbaa1d3e966f45e8505e90e2749a4262afd583d248683bffb4642c9bf",
+      "storage": "LOKALNIE POZA PUBLICZNYM REPOZYTORIUM"
+    }
+  ],
+  "retrieval": "Dokładne publiczne URL iSHA umożliwiają odtworzenie kopii. Pełne oryginały pozostają lokalnie; repo zawiera odczyt potrzebnych rubryk."
+}
